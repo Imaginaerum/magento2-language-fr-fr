@@ -12,7 +12,7 @@ php bin/magento cache:clean
 
 Download file: https://github.com/Imaginaerum/magento2-language-fr-fr/archive/master.zip
 
-Create folder <your magento path>/app/i18n/imaginaerum/fr_fr and extract zip into path.
+Create folder your-magento-path/app/i18n/imaginaerum/fr_fr and extract zip into path.
 
 # Progression
 
