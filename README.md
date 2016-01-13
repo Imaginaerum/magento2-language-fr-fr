@@ -3,7 +3,7 @@
 ## Composer method
 
 ```
-cd <you magento path>
+cd <your magento path>
 composer require Imaginaerum/magento2-language-fr-fr
 php bin/magento cache:clean
 ```
