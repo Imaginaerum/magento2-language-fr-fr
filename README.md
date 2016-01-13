@@ -1,4 +1,20 @@
-## Progression
+#Installation
+
+## Composer method
+
+```
+cd <you magento path>
+composer require Imaginaerum/magento2-language-fr-fr
+php bin/magento cache:clean
+```
+
+## Download repository method
+
+Download file: https://github.com/Imaginaerum/magento2-language-fr-fr/archive/master.zip
+
+Create folder <your magento path>/app/i18n/imaginaerum/fr_fr and extract zip into path.
+
+# Progression
 
 | Total | Translated | Left | Progression |
 | -------------: | -----------------------: | -----------------------: | :---------: |
