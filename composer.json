@@ -1,0 +1,17 @@
+{
+    "name": "imaginaerum/magento2-language-fr-fr",
+    "description": "Magento2 Language fr_fr",
+    "version": "100.0.0",
+    "type": "magento2-language",
+    "license": [
+        "MIT"
+    ],
+    "require": {
+        "magento/framework": "100.0.*"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}

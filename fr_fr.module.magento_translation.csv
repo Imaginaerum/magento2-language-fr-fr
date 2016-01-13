@@ -1,0 +1,5 @@
+"Dictionary (Translation on Storefront side)","Dictionnaire (Traduction coté Front Office)",module,Magento_Translation
+"Embedded (Translation on Admin side)","Embarqué (Traduction coté Back Office)",module,Magento_Translation
+"Translation Strategy","Stratégie de Traduction",module,Magento_Translation
+"Translation files.","Fichiers de traduction.",module,Magento_Translation
+"Translations","Traductions",module,Magento_Translation

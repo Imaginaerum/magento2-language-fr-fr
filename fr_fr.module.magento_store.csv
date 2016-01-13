@@ -1,0 +1,34 @@
+"-- Please Select --","-- Faire un Choix --",module,Magento_Store
+"API interfaces reflection data.","Données de l'API Reflection.",module,Magento_Store
+"Admin","Admin",module,Magento_Store
+"All Store Views","Toutes les Vues Magasin",module,Magento_Store
+"Blocks HTML output","Sortie de blocs HTML",module,Magento_Store
+"Collection data files.","Fichiers de données de collection.",module,Magento_Store
+"Collections Data","Données de collections",module,Magento_Store
+"Configuration","Configuration",module,Magento_Store
+"Current store is not active.","Le magasin actuel n'est pas actif.",module,Magento_Store
+"Database DDL operations","Requêtes DDL sur la base de données",module,Magento_Store
+"Default store is inactive","Le magasin par défaut est désactivé",module,Magento_Store
+"Default website is not defined","Le site web par défaut n'est pas défini",module,Magento_Store
+"Environment emulation nesting is not allowed.","L'imbrication d'émulation d'environnement n'est pas autorisée.",module,Magento_Store
+"Invalid scope object","Portée de l'objet invalide",module,Magento_Store
+"Language","Langue",module,Magento_Store
+"Layout building instructions.","Instructions de construction d'agencement.",module,Magento_Store
+"Layouts","Agencements",module,Magento_Store
+"More than one default website is defined","Plus d'un site web par défaut est défini",module,Magento_Store
+"Name is required","Le nom est requis",module,Magento_Store
+"Only default scope allowed","Seule la portée par défaut est autorisé",module,Magento_Store
+"Page blocks HTML.","Code HTML des blocs de page.",module,Magento_Store
+"Reflection Data","Données de Reflection",module,Magento_Store
+"Requested store is inactive","La magasin est inactif.",module,Magento_Store
+"Requested store is not found","Le magasin est introuvable.",module,Magento_Store
+"Results of DDL queries, such as describing tables or indexes.","Résultats des requêtes DDL, comme la description des tables et des indexes.",module,Magento_Store
+"Select Store","Choisir un magasin",module,Magento_Store
+"Store is inactive","Magasin désactivé",module,Magento_Store
+"Store with the same code","Magasin avec le même code",module,Magento_Store
+"The store code may contain only letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.","Le code du magasin ne peut contenir que des lettres (a-z), nombres (0-9) ou underscore (_). Le premier caractère doit être une lettre.",module,Magento_Store
+"Various XML configurations that were collected across modules and merged.","Plusieurs configurations XML ont été récupérés dans les modules et ont été fusionnées.",module,Magento_Store
+"Website code may only contain letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.","Le code du site web ne peut contenir que des lettres (a-z), nombres (0-9) ou underscore (_). Le premier caractère doit être une lettre.",module,Magento_Store
+"Website with the same code","Site web avec le même code",module,Magento_Store
+"Your Language","Votre Langue",module,Magento_Store
+"Your Language:","Votre Langue:",module,Magento_Store
