@@ -9,70 +9,70 @@
 "All Store Views","Toutes les Vues Magasin",module,Magento_Cms
 "Anchor Custom Text","Présenter un texte personnalisé",module,Magento_Cms
 "Anchor Custom Title","Présenter un titre personnalisé",module,Magento_Cms
-"Are you sure you wan't to delete a ${ $.$data.title } record?","Êtes-vous sûr de vouloir supprimer ${ $.$data.title }?",module,Magento_Cms
 "Are you sure you wan't to delete a ""${ $.$data.title }"" record?","Êtes-vous sûr(e) de vouloir supprimer l'enregistrement ""${ $.$data.title }""?",module,Magento_Cms
+"Are you sure you wan't to delete a ${ $.$data.title } record?","Êtes-vous sûr de vouloir supprimer ${ $.$data.title }?",module,Magento_Cms
 "Are you sure you wan't to delete selected items?","Êtes-vous sûr de vouloir supprimer les éléments sélectionnés?",module,Magento_Cms
 "Are you sure you want to delete this file?","Êtes-vous sûr de vouloir supprimer ce fichier?",module,Magento_Cms
 "Are you sure you want to delete this folder?","Êtes-vous sûr de vouloir supprimer ce dossier?",module,Magento_Cms
-"Block","Bloc",module,Magento_Cms
 "Block Information","Information du Bloc",module,Magento_Cms
 "Block Title","Titre du Bloc",module,Magento_Cms
+"Block","Bloc",module,Magento_Cms
 "Blocks","Blocs",module,Magento_Cms
 "Browse Files...","Parcourir les fichiers...",module,Magento_Cms
 "Browser Capabilities Detection","Détection des capacités du navigateur",module,Magento_Cms
-"CMS","CMS",module,Magento_Cms
 "CMS Block with id ""%1"" does not exist.","Le bloc CMS id ""%1"" n'existe pas.",module,Magento_Cms
 "CMS Home Page","Page d'accueil CMS",module,Magento_Cms
 "CMS No Cookies Page","Page CMS quand les cookies sont désactivés",module,Magento_Cms
 "CMS No Route Page","Page CMS de ressource non trouvée",module,Magento_Cms
-"CMS Page","Page CMS",module,Magento_Cms
-"CMS Page Link","Lien Page CMS",module,Magento_Cms
 "CMS Page Link Block Template","Gabarit du bloc lien page CMS",module,Magento_Cms
 "CMS Page Link Inline Template","Gabarit du bloc lien en ligne CMS",module,Magento_Cms
+"CMS Page Link","Lien Page CMS",module,Magento_Cms
 "CMS Page with id ""%1"" does not exist.","La page CMS id ""%1"" n'existe pas.",module,Magento_Cms
-"CMS Static Block","Bloc CMS statique ",module,Magento_Cms
+"CMS Page","Page CMS",module,Magento_Cms
 "CMS Static Block Default Template","Gabarit par Défaut du bloc statique CMS",module,Magento_Cms
+"CMS Static Block","Bloc CMS statique ",module,Magento_Cms
+"CMS","CMS",module,Magento_Cms
 "Collapse All","Tout Réduire",module,Magento_Cms
-"Content","Contenu",module,Magento_Cms
 "Content Heading","En-tête de contenu",module,Magento_Cms
 "Content Management","Gestion du Contenu",module,Magento_Cms
+"Content","Contenu",module,Magento_Cms
 "Contents of a Static Block","Contenu d'un bloc statique",module,Magento_Cms
 "Could not create directory.","Impossible de créer le répertoire.",module,Magento_Cms
 "Create Folder...","Créer un dossier...",module,Magento_Cms
 "Created","Crée",module,Magento_Cms
-"Custom Design","Design Personnalisé",module,Magento_Cms
 "Custom Design From","Design personnalisé à partir du",module,Magento_Cms
-"Custom Design To","Design personnalisé jusqu'au",module,Magento_Cms
-"Custom Layout","Agencement personnalisé",module,Magento_Cms
-"Custom Layout Update XML","XML de mise à jour de l'agencement personnalisé",module,Magento_Cms
-"Custom Theme","Thème personnalisé",module,Magento_Cms
 "Custom design from","Design personnalisé à partir du",module,Magento_Cms
 "Custom design to","Design personnalisé jusqu'au",module,Magento_Cms
-"Delete","Supprimer",module,Magento_Cms
-"Delete ${ $.$data.title }","Supprimer ${ $.$data.title }",module,Magento_Cms
+"Custom Design To","Design personnalisé jusqu'au",module,Magento_Cms
+"Custom Design","Design Personnalisé",module,Magento_Cms
+"Custom Layout Update XML","XML de mise à jour de l'agencement personnalisé",module,Magento_Cms
+"Custom Layout","Agencement personnalisé",module,Magento_Cms
+"Custom Theme","Thème personnalisé",module,Magento_Cms
 "Delete ""${ $.$data.title }""","Supprimer ""${ $.$data.title }""",module,Magento_Cms
+"Delete ${ $.$data.title }","Supprimer ${ $.$data.title }",module,Magento_Cms
 "Delete Block","Supprimer le Bloc",module,Magento_Cms
 "Delete File","Supprimer le Fichier",module,Magento_Cms
 "Delete Folder","Supprimer le Dossier",module,Magento_Cms
-"Delete Page","Supprimer la Page",module,Magento_Cms
 "Delete items","Supprimer les éléments",module,Magento_Cms
+"Delete Page","Supprimer la Page",module,Magento_Cms
+"Delete","Supprimer",module,Magento_Cms
 "Description","Description",module,Magento_Cms
 "Design","Design",module,Magento_Cms
 "Details","Details",module,Magento_Cms
 "Directory %1 is not under storage root path.","Le répertoire %1 n'est pas un chemin d'accès à la racine de stockage.",module,Magento_Cms
 "Disable","Désactiver",module,Magento_Cms
-"Disabled","Désactivé",module,Magento_Cms
-"Disabled Completely","Désactivé complètement",module,Magento_Cms
 "Disabled by Default","Désactivé par défaut",module,Magento_Cms
-"Edit","Éditer",module,Magento_Cms
-"Edit Block","Éditer le Bloc",module,Magento_Cms
+"Disabled Completely","Désactivé complètement",module,Magento_Cms
+"Disabled","Désactivé",module,Magento_Cms
 "Edit Block '%1'","Éditer le Bloc '%1'",module,Magento_Cms
-"Edit Page","Éditer la Page",module,Magento_Cms
+"Edit Block","Éditer le Bloc",module,Magento_Cms
 "Edit Page '%1'","Éditer la Page '%1'",module,Magento_Cms
-"Enable","Activer",module,Magento_Cms
+"Edit Page","Éditer la Page",module,Magento_Cms
+"Edit","Éditer",module,Magento_Cms
 "Enable WYSIWYG Editor","Activer l'éditeur WYSIWYG",module,Magento_Cms
-"Enabled","Activé",module,Magento_Cms
+"Enable","Activer",module,Magento_Cms
 "Enabled by Default","Activé par défaut",module,Magento_Cms
+"Enabled","Activé",module,Magento_Cms
 "Exception","Exception",module,Magento_Cms
 "Expand All","Tout Développer",module,Magento_Cms
 "General Information","Informations Générales",module,Magento_Cms
@@ -84,8 +84,8 @@
 "Images (%1)","Images (%1)",module,Magento_Cms
 "Insert File","Insérer le fichier",module,Magento_Cms
 "Keywords","Mots clés",module,Magento_Cms
-"Layout","Agencement",module,Magento_Cms
 "Layout Update XML","XML de mise à jour d'agencement",module,Magento_Cms
+"Layout","Agencement",module,Magento_Cms
 "Link to a CMS Page","Lien vers une page CMS",module,Magento_Cms
 "LocalizedException","LocalizedException",module,Magento_Cms
 "Make sure that static block content does not reference the block itself.","Assurez-vous que le contenu de bloc statique ne fait pas de référence sur lui-même.",module,Magento_Cms
@@ -107,12 +107,13 @@
 "Please correct the data sent.","Veuillez rectifier les données envoyées.",module,Magento_Cms
 "Please rename the folder using only letters, numbers, underscores and dashes.","Veuillez renommer le dossier à l'aide des lettres, des chiffres, des underscores et des tirets.",module,Magento_Cms
 "Preview","Prévisualiser",module,Magento_Cms
+"px.","px.",module,Magento_Cms
 "Redirect to CMS-page if Cookies are Disabled","Rediriger vers la page CMS si les cookies sont désactivés",module,Magento_Cms
 "Relative to Web Site Base URL","Relative à l'URL de base du site Web",module,Magento_Cms
 "RuntimeException","RuntimeException",module,Magento_Cms
+"Save and Continue Edit","Enregistrer et Continuer à Éditer",module,Magento_Cms
 "Save Block","Enregistrer le Bloc",module,Magento_Cms
 "Save Page","Enregistrer la Page",module,Magento_Cms
-"Save and Continue Edit","Enregistrer et Continuer à Éditer",module,Magento_Cms
 "Select Block...","Sélectionnez un Bloc...",module,Magento_Cms
 "Select Page...","Choisissez une Page...",module,Magento_Cms
 "Show Breadcrumbs for CMS Pages","Afficher le fil d'Ariane pour les pages CMS",module,Magento_Cms
@@ -125,15 +126,14 @@
 "Store View","Vue Magasin",module,Magento_Cms
 "Template","Gabarit",module,Magento_Cms
 "The directory %1 is not writable by server.","Le répertoire %1 n'a pas les droits d'écriture sur le serveur.",module,Magento_Cms
+"The page has been deleted.","La page a bien été supprimée.",module,Magento_Cms
 "The page URL key cannot be made of only numbers.","La clé URL de la page ne peut pas être composée uniquement de chiffres.",module,Magento_Cms
 "The page URL key contains capital letters or disallowed symbols.","La clé d'url de page contient des lettres majuscules ou des symboles non autorisés.",module,Magento_Cms
-"The page has been deleted.","La page a bien été supprimée.",module,Magento_Cms
 "This block no longer exists.","Ce bloc n'existe pas.",module,Magento_Cms
 "This page no longer exists.","Cette page n'existe pas.",module,Magento_Cms
 "Title","Titre",module,Magento_Cms
 "To apply changes you should fill in hidden required ""%1"" field","Pour appliquer les modifications vous devez remplir le champ caché ""%1""",module,Magento_Cms
 "URL Key","Clé d'URL",module,Magento_Cms
-"WYSIWYG Options","Options WYSIWYG",module,Magento_Cms
 "We can't delete root directory %1 right now.","Impossible de supprimer le répertoire racine %1.",module,Magento_Cms
 "We can't find a block to delete.","Nous ne trouvons pas le bloc à supprimer.",module,Magento_Cms
 "We can't find a page to delete.","Impossible de trouver la page à supprimer.",module,Magento_Cms
@@ -142,7 +142,7 @@
 "We cannot delete directory %1.","Impossible de supprimer le répertoire %1.",module,Magento_Cms
 "We could not detect a size.","Nous ne pouvons pas déterminer le poids du fichier.",module,Magento_Cms
 "We found a directory with the same name. Please try another folder name.","Nous avons trouvé un répertoire avec le même nom. Veuillez essayer un autre nom.",module,Magento_Cms
+"WYSIWYG Options","Options WYSIWYG",module,Magento_Cms
 "You deleted the block.","Vous avez supprimé le bloc.",module,Magento_Cms
 "You saved the block.","Vous avez enregistré le bloc.",module,Magento_Cms
 "You saved this page.","Page sauvegardée.",module,Magento_Cms
-"px.","px.",module,Magento_Cms

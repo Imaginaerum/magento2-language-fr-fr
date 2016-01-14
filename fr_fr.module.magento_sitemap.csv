@@ -4,9 +4,9 @@
 "All","Tout",module,Magento_Sitemap
 "Always","Toujours",module,Magento_Sitemap
 "Base Only","Image de base uniquement",module,Magento_Sitemap
-"CMS Pages Options","Options pour les Pages CMS",module,Magento_Sitemap
 "Catalog","Catalogue",module,Magento_Sitemap
 "Categories Options","Options pour les Catégories",module,Magento_Sitemap
+"CMS Pages Options","Options pour les Pages CMS",module,Magento_Sitemap
 "Daily","Quotidien",module,Magento_Sitemap
 "Edit Sitemap","Modifier le Pplan de Site",module,Magento_Sitemap
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée.",module,Magento_Sitemap
@@ -15,6 +15,8 @@
 "Error Email Recipient","Destinataire du mail d'erreur",module,Magento_Sitemap
 "Error Email Sender","Expéditeur du mail d'erreur",module,Magento_Sitemap
 "Error Email Template","Gabarit du mail d'erreur",module,Magento_Sitemap
+"example: ""/sitemap/"" or ""/"" for base path (path must be writeable)","exemple : ""/sitemap/"" ou ""/"" pour le chemin de base (le chemin doit être accessible en écriture)",module,Magento_Sitemap
+"example: sitemap.xml","exemple: sitemap.xml",module,Magento_Sitemap
 "File handler unreachable","Gestionnaire de fichiers inaccessible",module,Magento_Sitemap
 "File size in bytes.","Poids du fichier en octets.",module,Magento_Sitemap
 "Filename","Nom du fichier",module,Magento_Sitemap
@@ -42,10 +44,10 @@
 "Save & Generate","Sauvegarder & générer",module,Magento_Sitemap
 "Search Engine Submission Settings","Paramètres de soumission aux moteurs de recherche",module,Magento_Sitemap
 "Site Map","Plan de Site",module,Magento_Sitemap
-"Sitemap","Plan de Site",module,Magento_Sitemap
 "Sitemap File Limits","Limites du fichier de plan de site",module,Magento_Sitemap
 "Sitemap Generation Warnings","Avertissements sur la génération du plan de site",module,Magento_Sitemap
 "Sitemap Information","Information Plan de Site",module,Magento_Sitemap
+"Sitemap","Plan de Site",module,Magento_Sitemap
 "Start Time","Heure de Début",module,Magento_Sitemap
 "Store View","Vue Magasin",module,Magento_Sitemap
 "The priority must be between 0 and 1.","La priorité doit être comprise entre 0 et 1.",module,Magento_Sitemap
@@ -60,5 +62,3 @@
 "Yearly","Annuel",module,Magento_Sitemap
 "You deleted the sitemap.","Plan de Site a été supprimé.",module,Magento_Sitemap
 "You saved the sitemap.","Plan de Site a été enregistré.",module,Magento_Sitemap
-"example: ""/sitemap/"" or ""/"" for base path (path must be writeable)","exemple : ""/sitemap/"" ou ""/"" pour le chemin de base (le chemin doit être accessible en écriture)",module,Magento_Sitemap
-"example: sitemap.xml","exemple: sitemap.xml",module,Magento_Sitemap

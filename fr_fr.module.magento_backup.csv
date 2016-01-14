@@ -1,33 +1,34 @@
 "Action","Action",module,Magento_Backup
 "Are you sure you want to continue?","Êtes vous sur de vouloir continuer?",module,Magento_Backup
 "Are you sure you want to delete the selected backup(s)?","Êtes-vous sûr(e) de vouloir effacer les sauvegardes sélectionnées ?",module,Magento_Backup
-"Backup","Sauvegarde",module,Magento_Backup
 "Backup Name","Nom de la sauvegarde",module,Magento_Backup
 "Backup Type","Type de sauvegarde",module,Magento_Backup
+"Backup","Sauvegarde",module,Magento_Backup
 "Backups","Sauvegardes",module,Magento_Backup
 "Be sure your store is in maintenance mode during backup.","Soyez sûr que votre magasin est en mode de maintenance pendant la sauvegarde.",module,Magento_Backup
 "Can't load snapshot archive","Vous ne pouvez pas charger les archives de Snapshot",module,Magento_Backup
 "Create Backup","Créer une sauvegarde",module,Magento_Backup
-"Database","Base de Données",module,Magento_Backup
-"Database Backup","Sauvegarde de base de données",module,Magento_Backup
-"Database and Media","Base de données et Média",module,Magento_Backup
 "Database and Media Backup","Sauvegarde de base de données et media",module,Magento_Backup
+"Database and Media","Base de données et Média",module,Magento_Backup
+"Database Backup","Sauvegarde de base de données",module,Magento_Backup
+"Database","Base de Données",module,Magento_Backup
 "Delete","Supprimer",module,Magento_Backup
 "Download","Télécharger",module,Magento_Backup
 "Enable Scheduled Backup","Activer la sauvegarde programmée",module,Magento_Backup
-"Exclude","Exclure",module,Magento_Backup
 "Exclude media folder from backup","Exclure le dossier media de la sauvegarde",module,Magento_Backup
-"FTP","FTP",module,Magento_Backup
+"Exclude","Exclure",module,Magento_Backup
+"Failed to rollback.","Échec de la restauration.",module,Magento_Backup
+"Failed to validate FTP.","Echec de la validation FTP.",module,Magento_Backup
+"failed","échec",module,Magento_Backup
+"Frequency","Fréquence",module,Magento_Backup
+"FTP credentials","Informations de connexion FTP",module,Magento_Backup
 "FTP Host","Hôte FTP",module,Magento_Backup
 "FTP Login","Login FTP",module,Magento_Backup
 "FTP Password","Mot de Passe FTP",module,Magento_Backup
-"FTP credentials","Informations de connexion FTP",module,Magento_Backup
-"Failed to rollback.","Échec de la restauration.",module,Magento_Backup
-"Failed to validate FTP.","Echec de la validation FTP.",module,Magento_Backup
-"Frequency","Fréquence",module,Magento_Backup
+"FTP","FTP",module,Magento_Backup
 "Magento root directory","Répertoire racine de Magento",module,Magento_Backup
-"Maintenance Mode","Mode Maintenance",module,Magento_Backup
 "Maintenance mode","Mode Maintenance",module,Magento_Backup
+"Maintenance Mode","Mode Maintenance",module,Magento_Backup
 "Name","Nom",module,Magento_Backup
 "Please correct the order of creation for a new backup.","Veuillez corriger l'ordre de la création lors d'une nouvelle sauvegarde.",module,Magento_Backup
 "Please correct the password.","Veuillez corriger le mot de passe.",module,Magento_Backup
@@ -42,9 +43,10 @@
 "Something went wrong while writing to the backup file ""%1"".","Une erreur s'est produite lors de l'écriture du fichier de sauvegarde ""%1"".",module,Magento_Backup
 "Sorry, but we cannot read from or write to backup file ""%1"".","Désolé, mais nous ne pouvons pas lire ou écrire le fichier de sauvegarde ""%1"".",module,Magento_Backup
 "Start Time","Heure de Début",module,Magento_Backup
-"System","Système",module,Magento_Backup
+"successful","réussi",module,Magento_Backup
 "System (excluding Media)","Système (sans les Médias)",module,Magento_Backup
 "System Backup","Sauvegarde système",module,Magento_Backup
+"System","Système",module,Magento_Backup
 "The archive can be uncompressed with <a href=""%1"">%2</a> on Windows systems.","L'archive peut être décompressé avec <a href=""%1"">%2</a> sur les systèmes Windows.",module,Magento_Backup
 "The backup file ""%1"" does not exist.","Le fichier de sauvegarde ""%1"" n'existe pas.",module,Magento_Backup
 "The backup file does not exist.","Il n'existe pas de fichier de sauvegarde.",module,Magento_Backup
@@ -74,5 +76,3 @@
 "You need more permissions to create a backup.","Vous ne possédez pas les droits suffisants pour créer une sauvegarde.",module,Magento_Backup
 "You need more permissions to perform a rollback.","Vous avez besoin de plus de droits pour effectuer une restauration.",module,Magento_Backup
 "You will lose any data created since the backup was made, including admin users, customers and orders.","Vous perdrez toutes les données créées depuis la dernière sauvegarde, y compris les utilisateurs de l'administration, les clients et les commandes.",module,Magento_Backup
-"failed","échec",module,Magento_Backup
-"successful","réussi",module,Magento_Backup

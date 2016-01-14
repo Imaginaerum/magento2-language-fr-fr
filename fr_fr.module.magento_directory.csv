@@ -9,10 +9,10 @@
 "Connection Timeout in Seconds","Délai d'attente de connexion en secondes",module,Magento_Directory
 "Continue","Continuer",module,Magento_Directory
 "Country and Format Type combination should be unique","La combinaison Pays et Type de format doit être unique",module,Magento_Directory
-"Currency","Devise",module,Magento_Directory
 "Currency Options","Options de Devise",module,Magento_Directory
 "Currency Setup","Paramétrage des Devises",module,Magento_Directory
 "Currency Update Warnings","Alertes de mise à jour des devises",module,Magento_Directory
+"Currency","Devise",module,Magento_Directory
 "Default Display Currency","Devise à afficher par défaut",module,Magento_Directory
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée.",module,Magento_Directory
 "Enabled","Activé",module,Magento_Directory
@@ -22,6 +22,9 @@
 "FATAL ERROR:","ERREUR FATALE:",module,Magento_Directory
 "Frequency","Fréquence",module,Magento_Directory
 "Installed Currencies","Devises installées",module,Magento_Directory
+"kgs","kgs",module,Magento_Directory
+"label","libellé",module,Magento_Directory
+"lbs","lbs",module,Magento_Directory
 "Please correct the country code: %1.","Veuillez corriger le code pays: %1.",module,Magento_Directory
 "Please correct the rates received","Veuillez corriger les taux récupérés",module,Magento_Directory
 "Please correct the target currency.","Veuillez corriger la devise cible.",module,Magento_Directory
@@ -31,8 +34,8 @@
 "Scheduled Import Settings","Paramètres d'import programmé",module,Magento_Directory
 "Service","Service",module,Magento_Directory
 "Start Time","Heure de Début",module,Magento_Directory
-"State Options","Options des États",module,Magento_Directory
 "State is Required for","L'état est obligatoire pour",module,Magento_Directory
+"State Options","Options des États",module,Magento_Directory
 "State/Province","État/Province",module,Magento_Directory
 "Undefined rate from ""%1-%2"".","Taux indéfini depuis ""%1-%2"".",module,Magento_Directory
 "WARNING:","ATTENTION:",module,Magento_Directory
@@ -42,6 +45,3 @@
 "Weight Unit","Unité de Poids",module,Magento_Directory
 "Your current currency is: %1.","La devise actuelle est: %1.",module,Magento_Directory
 "Zip/Postal Code is Optional for","Le code postal est optionnel pour",module,Magento_Directory
-"kgs","kgs",module,Magento_Directory
-"label","libellé",module,Magento_Directory
-"lbs","lbs",module,Magento_Directory

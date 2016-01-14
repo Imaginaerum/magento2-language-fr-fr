@@ -16,6 +16,8 @@
 "Could not save quote","Impossible de sauvegarder le panier",module,Magento_Quote
 "Coupon code is not valid","Le bon de réduction est invalide",module,Magento_Quote
 "Discount","Remise",module,Magento_Quote
+"error123","error123",module,Magento_Quote
+"error345","error345",module,Magento_Quote
 "Grand Total","Montant Total",module,Magento_Quote
 "Invalid address id %1","L'identifiant de l'adresse %1 est invalide",module,Magento_Quote
 "Invalid customer id %1","L'identifiant de client %1 est invalide",module,Magento_Quote
@@ -25,12 +27,12 @@
 "Please select a valid payment method.","Sélectionnez un mode de paiement valide.",module,Magento_Quote
 "Please specify a shipping method.","Sélectionnez un mode de livraison.",module,Magento_Quote
 "Selected option(s) or their combination is not currently available.","Les options sélectionnées ou leur combinaison sont actuellement indisponibles.",module,Magento_Quote
-"Shipping","Livraison",module,Magento_Quote
-"Shipping & Handling","Frais de port",module,Magento_Quote
 "Shipping & Handling (%1)","Frais de port (%1)",module,Magento_Quote
+"Shipping & Handling","Frais de port",module,Magento_Quote
 "Shipping address is not set","L'adresse de livraison n'est pas configurée",module,Magento_Quote
 "Shipping address not set.","Adresse de livraison non définie.",module,Magento_Quote
 "Shipping method is not applicable for empty cart","La méthode d'expédition n'est pas applicable à un panier vide",module,Magento_Quote
+"Shipping","Livraison",module,Magento_Quote
 "Some item options or their combination are not currently available.","Certaines options d'articles ou leur combinaison sont actuellement indisponibles.",module,Magento_Quote
 "Some of the products below do not have all the required options.","Certains produits ne possèdent pas toutes les options requises.",module,Magento_Quote
 "Some of the selected options are not currently available.","Certaines options sélectionnées sont actuellement indisponibles.",module,Magento_Quote
@@ -51,5 +53,3 @@
 "We found an invalid item option format.","Un format d'option d'article est invalide.",module,Magento_Quote
 "We found an invalid request for adding product to quote.","Requête d'ajout produit au panier invalide.",module,Magento_Quote
 "We found an item options declaration error.","Erreur sur la déclaration des options d'un article.",module,Magento_Quote
-"error123","error123",module,Magento_Quote
-"error345","error345",module,Magento_Quote

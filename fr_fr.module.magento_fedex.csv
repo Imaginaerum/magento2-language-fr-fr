@@ -1,7 +1,7 @@
 "1 Day Freight","Frêt 1 jour",module,Magento_Fedex
-"2 Day","2 Jours",module,Magento_Fedex
 "2 Day AM","J+2 matin",module,Magento_Fedex
 "2 Day Freight","Frêt 2 jours",module,Magento_Fedex
+"2 Day","2 Jours",module,Magento_Fedex
 "3 Day Freight","Frêt 3 jours",module,Magento_Fedex
 "Account ID","ID de compte",module,Magento_Fedex
 "Adult","Adulte",module,Magento_Fedex
@@ -17,13 +17,13 @@
 "Enabled for Checkout","Activé pour Commander",module,Magento_Fedex
 "Europe First Priority","Prioritaire Europe",module,Magento_Fedex
 "Express Saver","Express Économe",module,Magento_Fedex
-"FedEx","FedEx",module,Magento_Fedex
 "FedEx 10kg Box","Colis 10kg FedEx",module,Magento_Fedex
 "FedEx 25kg Box","Colis 25kg FedEx",module,Magento_Fedex
 "FedEx Box","Colis FedEx",module,Magento_Fedex
 "FedEx Envelope","Enveloppe FedEx",module,Magento_Fedex
 "FedEx Pak","Pack FedEx",module,Magento_Fedex
 "FedEx Tube","Tube FedEx",module,Magento_Fedex
+"FedEx","FedEx",module,Magento_Fedex
 "First Overnight","Le lendemain",module,Magento_Fedex
 "For some reason we can't retrieve tracking info right now.","Impossible de retrouver les informations de suivi.",module,Magento_Fedex
 "Free Method","Mode gratuit",module,Magento_Fedex
@@ -65,10 +65,10 @@
 "Sort Order","Ordre de Tri",module,Magento_Fedex
 "Standard Overnight","Standard Overnight",module,Magento_Fedex
 "Station","Gare",module,Magento_Fedex
+"status","statut",module,Magento_Fedex
 "The field is applicable if the Smart Post method is selected.","Le champ est applicable si le mode Smart Post est choisi.",module,Magento_Fedex
 "Title","Titre",module,Magento_Fedex
 "Web-Services URL (Production)","URL du webservice (Production)",module,Magento_Fedex
 "Web-Services URL (Sandbox)","URL du webservice (Sandbox)",module,Magento_Fedex
 "Weight Unit","Unité de Poids",module,Magento_Fedex
 "Your Packaging","Votre colis",module,Magento_Fedex
-"status","statut",module,Magento_Fedex

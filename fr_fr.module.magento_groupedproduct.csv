@@ -1,13 +1,13 @@
 "Add Products to Group","Ajouter des produits au groupe",module,Magento_GroupedProduct
 "Add Selected Products","Ajouter les produits sélectionnés",module,Magento_GroupedProduct
 "Associated Products","Produits Associés",module,Magento_GroupedProduct
-"Availability","Disponibilité",module,Magento_GroupedProduct
 "Availability:","Disponibilité:",module,Magento_GroupedProduct
+"Availability","Disponibilité",module,Magento_GroupedProduct
 "Cannot process the item.","Impossible de traiter l'élément.",module,Magento_GroupedProduct
 "Default Qty","Qté par défaut",module,Magento_GroupedProduct
 "Grouped Product Image","Image Produit Groupé",module,Magento_GroupedProduct
-"Grouped Products","Produits Groupés",module,Magento_GroupedProduct
 "Grouped product items","Articles du produit groupé",module,Magento_GroupedProduct
+"Grouped Products","Produits Groupés",module,Magento_GroupedProduct
 "ID","ID",module,Magento_GroupedProduct
 "In stock","En stock",module,Magento_GroupedProduct
 "Name","Nom",module,Magento_GroupedProduct

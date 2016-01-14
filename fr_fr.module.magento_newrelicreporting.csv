@@ -6,9 +6,9 @@
 "Generated under Insights in Manage data -> API Keys -> Insert Keys","Générée dans Insights sous Manage data -> API Keys -> Insert Keys",module,Magento_NewRelicReporting
 "Insights API Key","Clé API d'Insights",module,Magento_NewRelicReporting
 "Insights API URL","URL de l'API Insights",module,Magento_NewRelicReporting
+"New Relic Account ID","ID compte New Relic",module,Magento_NewRelicReporting
 "New Relic API Key","Clé API de New Relic",module,Magento_NewRelicReporting
 "New Relic API URL","URL de l'API de New Relic",module,Magento_NewRelicReporting
-"New Relic Account ID","ID compte New Relic",module,Magento_NewRelicReporting
 "New Relic Application ID","ID de l'application New Relic",module,Magento_NewRelicReporting
 "New Relic Application Name","Nom de l'application New Relic",module,Magento_NewRelicReporting
 "New Relic Reporting","Rapports New Relic",module,Magento_NewRelicReporting

@@ -1,13 +1,13 @@
-"CSV","CSV",module,Magento_TaxImportExport
 "Code","Code",module,Magento_TaxImportExport
 "Country","Pays",module,Magento_TaxImportExport
+"CSV","CSV",module,Magento_TaxImportExport
 "Excel XML","XML Excel",module,Magento_TaxImportExport
 "Export Tax Rates","Exporter les taux",module,Magento_TaxImportExport
-"Import Tax Rates","Import de taux de taxes",module,Magento_TaxImportExport
 "Import and Export Tax Rates","Importer et exporter des taux de taxe",module,Magento_TaxImportExport
+"Import Tax Rates","Import de taux de taxes",module,Magento_TaxImportExport
 "Invalid file format.","Format de fichier invalide.",module,Magento_TaxImportExport
-"Invalid file upload attempt","Import de fichier non valide",module,Magento_TaxImportExport
 "Invalid file upload attempt.","Import de fichier invalide.",module,Magento_TaxImportExport
+"Invalid file upload attempt","Import de fichier non valide",module,Magento_TaxImportExport
 "One of the countries has invalid code.","Un des pays possède un code invalide.",module,Magento_TaxImportExport
 "Range From","Tranche à partir de",module,Magento_TaxImportExport
 "Range To","Tranche jusqu'à",module,Magento_TaxImportExport

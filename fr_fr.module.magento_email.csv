@@ -1,7 +1,7 @@
 "%1","%1",module,Magento_Email
-"<pre>' . . . . '</pre>","<pre>' . . . . '</pre>",module,Magento_Email
-"""file"" parameter must be specified","le paramètre ""file"" doit être renseigné",module,Magento_Email
 """file"" parameter must be specified and must not be empty","Le paramètre ""file"" doit être renseigné et ne peut pas être vide",module,Magento_Email
+"""file"" parameter must be specified","le paramètre ""file"" doit être renseigné",module,Magento_Email
+"<pre>' . . . . '</pre>","<pre>' . . . . '</pre>",module,Magento_Email
 "Action","Action",module,Magento_Email
 "Add New Template","Ajouter un Nouveau Gabarit",module,Magento_Email
 "Added","Ajouté",module,Magento_Email
@@ -13,11 +13,11 @@
 "Back","Retour",module,Magento_Email
 "Base Secure URL","URL de base sécurisée",module,Magento_Email
 "Base Unsecure URL","URL de base non sécurisée",module,Magento_Email
-"CSS inlining error:","Erreur CSS ligne:",module,Magento_Email
 "City","Ville",module,Magento_Email
 "Contents of %s could not be loaded or is empty","Le contenu de %s ne peut pas être chargé ou est vide",module,Magento_Email
 "Convert to Plain Text","Convertir en texte simple",module,Magento_Email
 "Country","Pays",module,Magento_Email
+"CSS inlining error:","Erreur CSS ligne:",module,Magento_Email
 "Currently Used For","Actuellement utilisé pour",module,Magento_Email
 "Custom1 Contact Email","Email du contact personnalisé 1",module,Magento_Email
 "Custom1 Contact Name","Nom du contact personnalisé 1",module,Magento_Email
@@ -32,8 +32,8 @@
 "Edit System Template","Éditer le gabarit système",module,Magento_Email
 "Edit Template","Éditer le gabarit",module,Magento_Email
 "Email Preview","Prévisualisation de l'email",module,Magento_Email
-"Email Templates","Gabarits d'email",module,Magento_Email
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée.",module,Magento_Email
+"Email Templates","Gabarits d'email",module,Magento_Email
 "Emails","Emails",module,Magento_Email
 "Error filtering template: %s","Erreur lors du traitement du gabarit: %s",module,Magento_Email
 "Footer Template","Gabarit du pied de page",module,Magento_Email
@@ -44,11 +44,11 @@
 "Insert Variable...","Insérer une variable...",module,Magento_Email
 "Invalid sender data","Données de l'expéditeur invalide",module,Magento_Email
 "Invalid transactional email code: %1","Le code d'email transactionnel ""%1"" est invalide",module,Magento_Email
-"Load Template","Charger le gabarit",module,Magento_Email
 "Load default template","Charger le gabarit par défaut",module,Magento_Email
+"Load Template","Charger le gabarit",module,Magento_Email
 "Logo Height","Hauteur du logo",module,Magento_Email
-"Logo Image","Image du logo",module,Magento_Email
 "Logo Image Alt","Texte alternatif du logo",module,Magento_Email
+"Logo Image","Image du logo",module,Magento_Email
 "Logo Width","Largeur du logo",module,Magento_Email
 "New Email Template","Nouveau gabarit de mail",module,Magento_Email
 "New System Template","Nouveau gabarit système",module,Magento_Email
@@ -56,8 +56,8 @@
 "No Templates Found","Aucun gabarit trouvé",module,Magento_Email
 "Only necessary if image has been uploaded above. Enter number of pixels, without appending ""px"".","Seulement nécessaire si une image est fournie. Renseignez la valeur en pixel, sans ajouter l'unité ""px"".",module,Magento_Email
 "Please enter a template name.","Veuillez renseigner un nom de gabarit.",module,Magento_Email
-"Preview","Prévisualiser",module,Magento_Email
 "Preview Template","Prévisualiser le gabarit",module,Magento_Email
+"Preview","Prévisualiser",module,Magento_Email
 "Region/State","Région/État",module,Magento_Email
 "Requested invalid store ""%1""","Le magasin ""%1"" est invalide",module,Magento_Email
 "Reset","Réinitialiser",module,Magento_Email
@@ -72,7 +72,6 @@
 "Street Address 1","Adresse 1",module,Magento_Email
 "Street Address 2","Complément d'adresse",module,Magento_Email
 "Subject","Sujet",module,Magento_Email
-"Template","Gabarit",module,Magento_Email
 "Template Content","Contenu du gabarit",module,Magento_Email
 "Template Information","Informations gabarit",module,Magento_Email
 "Template Name","Nom du Gabarit",module,Magento_Email
@@ -80,6 +79,7 @@
 "Template Subject","Sujet du Gabarit",module,Magento_Email
 "Template Type","Type de Gabarit",module,Magento_Email
 "Template Variables","Variables de gabarit",module,Magento_Email
+"Template","Gabarit",module,Magento_Email
 "Thank you, %store_name","Merci, %store_name",module,Magento_Email
 "The email template is currently being used.","Le gabarit d'email est actuellement utilisé.",module,Magento_Email
 "The template did not load. Please review the log for details.","Impossible de charger le gabarit. Veuillez consulter le journal des erreurs pour plus de détails.",module,Magento_Email

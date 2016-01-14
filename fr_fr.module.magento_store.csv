@@ -1,7 +1,7 @@
 "-- Please Select --","-- Faire un Choix --",module,Magento_Store
-"API interfaces reflection data.","Données de l'API Reflection.",module,Magento_Store
 "Admin","Admin",module,Magento_Store
 "All Store Views","Toutes les Vues Magasin",module,Magento_Store
+"API interfaces reflection data.","Données de l'API Reflection.",module,Magento_Store
 "Blocks HTML output","Sortie de blocs HTML",module,Magento_Store
 "Collection data files.","Fichiers de données de collection.",module,Magento_Store
 "Collections Data","Données de collections",module,Magento_Store
@@ -30,5 +30,5 @@
 "Various XML configurations that were collected across modules and merged.","Plusieurs configurations XML ont été récupérés dans les modules et ont été fusionnées.",module,Magento_Store
 "Website code may only contain letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.","Le code du site web ne peut contenir que des lettres (a-z), nombres (0-9) ou underscore (_). Le premier caractère doit être une lettre.",module,Magento_Store
 "Website with the same code","Site web avec le même code",module,Magento_Store
-"Your Language","Votre Langue",module,Magento_Store
 "Your Language:","Votre Langue:",module,Magento_Store
+"Your Language","Votre Langue",module,Magento_Store

@@ -1,9 +1,9 @@
-" is not available. You still can process offline actions."," n'est pas disponible. Vous pourrez toujours effectuer ces actions hors ligne.",module,Magento_Payment
-"%1 class doesn't implement \Magento\Payment\Model\MethodInterface","La classe %1 n'implémente pas \Magento\Payment\Model\MethodInterface",module,Magento_Payment
 "--Please Select--","--Faites un choix--",module,Magento_Payment
+"%1 class doesn't implement \Magento\Payment\Model\MethodInterface","La classe %1 n'implémente pas \Magento\Payment\Model\MethodInterface",module,Magento_Payment
+" is not available. You still can process offline actions."," n'est pas disponible. Vous pourrez toujours effectuer ces actions hors ligne.",module,Magento_Payment
 "All Allowed Countries","Tous les Pays Autorisés",module,Magento_Payment
-"Card Verification Number","Numéro de cryptogramme",module,Magento_Payment
 "Card Verification Number Visual Reference","Référence visuelle numérique de vérification de carte",module,Magento_Payment
+"Card Verification Number","Numéro de cryptogramme",module,Magento_Payment
 "Command %1 does not exist.","La commande %1 n'existe pas.",module,Magento_Payment
 "Credit Card Information","Information de carte bancaire",module,Magento_Payment
 "Credit Card Number","Numéro de Carte de Crédit",module,Magento_Payment
@@ -16,9 +16,9 @@
 "N/A","N/A",module,Magento_Payment
 "No","Non",module,Magento_Payment
 "Payment Methods","Modes de paiement",module,Magento_Payment
-"Please Select","Veuillez Sélectionner",module,Magento_Payment
 "Please enter a valid credit card expiration date.","Veuillez vérifier la date d'expiration de la carte bancaire.",module,Magento_Payment
 "Please enter a valid credit card verification number.","Veuillez saisir un numéro de vérification de carte bancaire valide.",module,Magento_Payment
+"Please Select","Veuillez Sélectionner",module,Magento_Payment
 "Shipping","Livraison",module,Magento_Payment
 "Specific Countries","Certains Pays",module,Magento_Payment
 "Start Date","Date de Début",module,Magento_Payment

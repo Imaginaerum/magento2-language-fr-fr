@@ -8,12 +8,13 @@
 "Cannot identify measure unit for %1","Impossible d'identifier l'unité de mesure pour %1",module,Magento_Dhl
 "Cannot identify weight unit for %1","Impossible d'identifier l'unité de poids pour %1",module,Magento_Dhl
 "Centimeters","Centimètres",module,Magento_Dhl
+"cm","cm",module,Magento_Dhl
 "Content Type","Type de contenu",module,Magento_Dhl
 "Customer services","Services client",module,Magento_Dhl
-"DHL","DHL",module,Magento_Dhl
-"DHL service is not available at %s date","Le service DHL n'est pas disponible à la date du %s",module,Magento_Dhl
 "Debug","Déboguage",module,Magento_Dhl
 "Depth","Profondeur",module,Magento_Dhl
+"DHL service is not available at %s date","Le service DHL n'est pas disponible à la date du %s",module,Magento_Dhl
+"DHL","DHL",module,Magento_Dhl
 "Displayed Error Message","Message d'erreur affiché",module,Magento_Dhl
 "Divide Order Weight","Diviser le poids de la commande",module,Magento_Dhl
 "Documents","Documents",module,Magento_Dhl
@@ -24,9 +25,9 @@
 "Enabled for Checkout","Activé pour Commander",module,Magento_Dhl
 "Error #%1 : %2","Erreur #%1 : %2",module,Magento_Dhl
 "Europack","Europack",module,Magento_Dhl
+"Express 9:00","Express 9:00",module,Magento_Dhl
 "Express 10:30","Express 10:30",module,Magento_Dhl
 "Express 12:00","Express 12:00",module,Magento_Dhl
-"Express 9:00","Express 9:00",module,Magento_Dhl
 "Express easy","Express easy",module,Magento_Dhl
 "Express envelope","Enveloppe express",module,Magento_Dhl
 "Express worldwide","Express monde",module,Magento_Dhl
@@ -37,8 +38,9 @@
 "Globalmail business","Globalmail business",module,Magento_Dhl
 "Handling Applied","Frais de dossier appliqués",module,Magento_Dhl
 "Handling Fee","Frais de dossier",module,Magento_Dhl
-"Height","Hauteur",module,Magento_Dhl
 "Height, width and length should be equal or greater than %1","Hauteur, largeur et longueur devrait être supérieurs ou égaux à %1",module,Magento_Dhl
+"Height","Hauteur",module,Magento_Dhl
+"inch","pouce",module,Magento_Dhl
 "Inches","Pouces",module,Magento_Dhl
 "Jetline","Jetline",module,Magento_Dhl
 "Jumbo box","Jumbo box",module,Magento_Dhl
@@ -76,5 +78,3 @@
 "Wrong Content Type","Mauvais type de contenu",module,Magento_Dhl
 "Wrong Region","Mauvaise région",module,Magento_Dhl
 "Zero shipping charge for '%1'","Aucun frais de port pour '%1'",module,Magento_Dhl
-"cm","cm",module,Magento_Dhl
-"inch","pouce",module,Magento_Dhl

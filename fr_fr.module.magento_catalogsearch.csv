@@ -18,6 +18,7 @@
 "Minimal Query Length","Longueur mini de requête",module,Magento_CatalogSearch
 "Minimum Search query length is %1","La longueur minimale de la requête de recherche est de %1",module,Magento_CatalogSearch
 "Modify your search","Modifier votre recherche",module,Magento_CatalogSearch
+"name","nom",module,Magento_CatalogSearch
 "No","Non",module,Magento_CatalogSearch
 "Please specify at least one search term.","Spécifiez au moins un terme de recherche.",module,Magento_CatalogSearch
 "Popular Search Terms","Termes de recherche populaires",module,Magento_CatalogSearch
@@ -25,12 +26,11 @@
 "Rebuild Catalog product fulltext search index","Reconstruire l'index de recherche sur le texte complet du catalogue produit",module,Magento_CatalogSearch
 "Relevance","Pertinence",module,Magento_CatalogSearch
 "Results","Résultats",module,Magento_CatalogSearch
-"Search","Rechercher",module,Magento_CatalogSearch
+"Search results for: '%1'","Résultats de recherche pour : '%1'",module,Magento_CatalogSearch
 "Search Settings","Paramètres de recherche",module,Magento_CatalogSearch
 "Search Weight","Poids dans la recherche",module,Magento_CatalogSearch
-"Search results for: '%1'","Résultats de recherche pour : '%1'",module,Magento_CatalogSearch
+"Search","Rechercher",module,Magento_CatalogSearch
+"up to %1","jusqu'à %1",module,Magento_CatalogSearch
 "We can't find any items matching these search criteria.","Nous ne pouvons pas trouver tous les éléments correspondant à ces critères de recherche.",module,Magento_CatalogSearch
 "Yes","Oui",module,Magento_CatalogSearch
 "Your search returned no results.","Votre recherche n'a donné aucun résultat.",module,Magento_CatalogSearch
-"name","nom",module,Magento_CatalogSearch
-"up to %1","jusqu'à %1",module,Magento_CatalogSearch

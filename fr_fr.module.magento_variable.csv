@@ -9,13 +9,13 @@
 "Save and Continue Edit","Enregistrer et Continuer à Éditer",module,Magento_Variable
 "Use Default Variable Values","Utiliser les valeurs par défaut",module,Magento_Variable
 "Validation has failed.","La validation a échoué.",module,Magento_Variable
-"Variable","Variable",module,Magento_Variable
-"Variable Code","Code de la variable",module,Magento_Variable
 "Variable Code must be unique.","Le code de variable doit être unique",module,Magento_Variable
+"Variable Code","Code de la variable",module,Magento_Variable
 "Variable HTML Value","Valeur HTML de la variable",module,Magento_Variable
 "Variable ID","Identifiant de la variable",module,Magento_Variable
 "Variable Name","Nom de la variable",module,Magento_Variable
 "Variable Plain Value","Valeur texte de la variable",module,Magento_Variable
+"Variable","Variable",module,Magento_Variable
 "Yes","Oui",module,Magento_Variable
 "You deleted the custom variable.","Variable personnalisée supprimée.",module,Magento_Variable
 "You saved the custom variable.","Variable personnalisée sauvegardée.",module,Magento_Variable

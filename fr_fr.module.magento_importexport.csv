@@ -1,9 +1,9 @@
-" "," ",module,Magento_ImportExport
-"'%1' file extension is not supported","'%1' extension de fichier non supportée",module,Magento_ImportExport
 "-- Please Select --","-- Faire un Choix --",module,Magento_ImportExport
+"'%1' file extension is not supported","'%1' extension de fichier non supportée",module,Magento_ImportExport
+" "," ",module,Magento_ImportExport
 "Adapter must be an instance of \Magento\ImportExport\Model\Import\AbstractSource","Adapter doit être une instance de \Magento\ImportExport\Model\Import\AbstractSource",module,Magento_ImportExport
-"Add/Update","Ajouter/Mettre à jour",module,Magento_ImportExport
 "Add/Update Complex Data","Ajouter/Mettre à jour des données complexes",module,Magento_ImportExport
+"Add/Update","Ajouter/Mettre à jour",module,Magento_ImportExport
 "Additional data","Donnée additionnelle",module,Magento_ImportExport
 "Allowed Errors Count","Nombre d'erreurs admises",module,Magento_ImportExport
 "Attribute Code","Code de l'Attribut",module,Magento_ImportExport
@@ -17,25 +17,25 @@
 "Continue","Continuer",module,Magento_ImportExport
 "Created: %1, Updated: %2, Deleted: %3","Crée: %1, Mis à jour: %2, Supprimé: %3",module,Magento_ImportExport
 "Custom Action","Action personnalisée",module,Magento_ImportExport
-"Data validation is failed. Please fix errors and re-upload the file.","La validation des données a échoué. Veuillez corriger les erreurs et re-uploader le fichier.",module,Magento_ImportExport
 "Data validation is failed. Please fix errors and re-upload the file..","La validation des données a échoué. Veuillez corriger les erreurs et réimporter le fichier ..",module,Magento_ImportExport
-"Delete","Supprimer",module,Magento_ImportExport
+"Data validation is failed. Please fix errors and re-upload the file.","La validation des données a échoué. Veuillez corriger les erreurs et re-uploader le fichier.",module,Magento_ImportExport
 "Delete Entities","Effacer les entités",module,Magento_ImportExport
+"Delete","Supprimer",module,Magento_ImportExport
 "Destination file is not writable","Le fichier de destination n'a pas les droits en écriture",module,Magento_ImportExport
-"Download","Télécharger",module,Magento_ImportExport
-"Download Sample File","Télécharger le fichier d'exemple",module,Magento_ImportExport
 "Download full report","Téléchargez le rapport complet",module,Magento_ImportExport
+"Download Sample File","Télécharger le fichier d'exemple",module,Magento_ImportExport
+"Download","Télécharger",module,Magento_ImportExport
 "Entity Attributes","Attributs d'entité",module,Magento_ImportExport
-"Entity Type","Type d'entité",module,Magento_ImportExport
 "Entity is unknown","L'entité est inconnue",module,Magento_ImportExport
+"Entity Type","Type d'entité",module,Magento_ImportExport
 "Error File","Fichier d'erreur",module,Magento_ImportExport
 "Error in data structure: %1 values are mixed","Erreur dans la structure de données: %1 des valeurs sont mélangées",module,Magento_ImportExport
 "Error message","Message d'erreur",module,Magento_ImportExport
 "Exclude","Exclure",module,Magento_ImportExport
 "Execution Time","Temps d'exécution",module,Magento_ImportExport
-"Export","Exporter",module,Magento_ImportExport
 "Export File Format","Format du fichier d'export",module,Magento_ImportExport
 "Export Settings","Paramètres d'export",module,Magento_ImportExport
+"Export","Exporter",module,Magento_ImportExport
 "Exported %1 rows.","%1 lignes exportées.",module,Magento_ImportExport
 "Field separator","Séparateur de champs",module,Magento_ImportExport
 "File is valid! To start import process press ""Import"" button","Le fichier est valide. Cliquez sur le bouton ""Importer"" pour démarrer le processus d'import.",module,Magento_ImportExport
@@ -49,16 +49,19 @@
 "History","Historique",module,Magento_ImportExport
 "ID","ID",module,Magento_ImportExport
 "Images File Directory","Répertoire des fichiers d'image",module,Magento_ImportExport
-"Import","Importer",module,Magento_ImportExport
 "Import Behavior","Comportement d'import",module,Magento_ImportExport
-"Import History","Historique d'import",module,Magento_ImportExport
-"Import Settings","Paramètres d'import",module,Magento_ImportExport
 "Import data validation is complete.","La validation des données pour l'importation est terminée.",module,Magento_ImportExport
-"Import history","Historique d'import",module,Magento_ImportExport
-"Import successfully done","Importation terminée avec succès",module,Magento_ImportExport
 "Import/Export","Importer/Exporter",module,Magento_ImportExport
-"ImportExport: Import Data validation - Validation strategy not found","ImportExport: Validation des données d'import - stratégie de validation introuvable",module,Magento_ImportExport
+"Import History","Historique d'import",module,Magento_ImportExport
+"Import history","Historique d'import",module,Magento_ImportExport
+"Import Settings","Paramètres d'import",module,Magento_ImportExport
+"Import successfully done","Importation terminée avec succès",module,Magento_ImportExport
+"Import","Importer",module,Magento_ImportExport
 "Imported File","Fichier importé",module,Magento_ImportExport
+"ImportExport: Import Data validation - Validation strategy not found","ImportExport: Validation des données d'import - stratégie de validation introuvable",module,Magento_ImportExport
+"in rows:","dans les lignes:",module,Magento_ImportExport
+"in rows","en lignes",module,Magento_ImportExport
+"label","libellé",module,Magento_ImportExport
 "Make sure your file isn't more than %1M.","Assurez-vous que votre fichier ne dépasse pas %1Mo.",module,Magento_ImportExport
 "Maximum error count has been reached or system error is occurred!","Le quota d'erreur maximale a été atteinte ou une erreur système est survenue!",module,Magento_ImportExport
 "Multiple value separator","Séparateur multiple de valeur",module,Magento_ImportExport
@@ -67,9 +70,9 @@
 "Please correct the data sent value.","Veuillez corriger la valeur des données envoyées.",module,Magento_ImportExport
 "Please correct the file format.","Veuillez corriger le format de fichier.",module,Magento_ImportExport
 "Please correct the value for ""%1"" column.","Veuillez corriger la valeur de la colonne ""%1"".",module,Magento_ImportExport
-"Please enter a correct entity model","Veuillez entrer un modèle d'entité correcte",module,Magento_ImportExport
-"Please enter a correct entity model.","Veuillez entrer un modèle d'entité correcte.",module,Magento_ImportExport
 "Please enter a correct entity.","Veuillez saisir une entité correcte.",module,Magento_ImportExport
+"Please enter a correct entity model.","Veuillez entrer un modèle d'entité correcte.",module,Magento_ImportExport
+"Please enter a correct entity model","Veuillez entrer un modèle d'entité correcte",module,Magento_ImportExport
 "Please provide filter data.","Veuillez fournir des données de filtrage.",module,Magento_ImportExport
 "Please specify a source.","Veuillez spécifier une source.",module,Magento_ImportExport
 "Please specify number of errors to halt import process","Veuillez préciser le nombre d'erreurs pour arrêter le processus d'importation",module,Magento_ImportExport
@@ -103,14 +106,11 @@
 "This file does not contain any data.","Ce fichier ne contient pas de données.",module,Magento_ImportExport
 "This file is empty. Please try another one.","Ce fichier est vide. Veuillez en essayer un autre.",module,Magento_ImportExport
 "To","À",module,Magento_ImportExport
-"URL key for specified store already exists.","La clé d'URL pour le magasin existe déjà.",module,Magento_ImportExport
 "Unknown attribute filter type","Type de filtre attribut inconnu",module,Magento_ImportExport
+"URL key for specified store already exists.","La clé d'URL pour le magasin existe déjà.",module,Magento_ImportExport
 "User","Utilisateur",module,Magento_ImportExport
 "Validation Results","Résultat de validation",module,Magento_ImportExport
 "We can't determine the attribute filter type.","Nous ne pouvons pas déterminer le type de filtre d'attribut.",module,Magento_ImportExport
 "We can't filter an attribute with no attribute options.","Nous ne pouvons pas filtrer un attribut sans options d'attributs.",module,Magento_ImportExport
 "We can't identify this file format.","Nous ne pouvons pas identifier ce format de fichier.",module,Magento_ImportExport
 "We can't provide the upload settings right now.","Impossible de transmettre les paramètres d'upload.",module,Magento_ImportExport
-"in rows","en lignes",module,Magento_ImportExport
-"in rows:","dans les lignes:",module,Magento_ImportExport
-"label","libellé",module,Magento_ImportExport

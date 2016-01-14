@@ -14,11 +14,11 @@ Download file: https://github.com/Imaginaerum/magento2-language-fr-fr/archive/ma
 
 Create folder your-magento-path/app/i18n/imaginaerum/fr_fr and extract zip into path.
 
-# Progression
+## Progression
 
 | Total | Translated | Left | Progression |
 | -------------: | -----------------------: | -----------------------: | :---------: |
-| 7775 | 7775 | 1 | ![Progress](http://progressed.io/bar/100) |
+| 7775 | 7775 | 0 | ![Progress](http://progressed.io/bar/100) |
 
 ### Lib - 12 files. Progression: 29/29 ![Progress](http://progressed.io/bar/100)
 
@@ -32,8 +32,8 @@ Create folder your-magento-path/app/i18n/imaginaerum/fr_fr and extract zip into 
 | lib/web/mage/loader.js | 2 | 2 | 0 | ![Progress](http://progressed.io/bar/100) |
 | lib/web/mage/loader_old.js | 2 | 2 | 0 | ![Progress](http://progressed.io/bar/100) |
 | lib/web/mage/menu.js | 2 | 2 | 0 | ![Progress](http://progressed.io/bar/100) |
-| lib/web/mage/translate-inline.js | 3 | 3 | 0 | ![Progress](http://progressed.io/bar/100) |
 | lib/web/mage/translate-inline-vde.js | 2 | 2 | 0 | ![Progress](http://progressed.io/bar/100) |
+| lib/web/mage/translate-inline.js | 3 | 3 | 0 | ![Progress](http://progressed.io/bar/100) |
 | lib/web/mage/validation.js | 4 | 4 | 0 | ![Progress](http://progressed.io/bar/100) |
 | lib/web/mage/validation/validation.js | 4 | 4 | 0 | ![Progress](http://progressed.io/bar/100) |
 

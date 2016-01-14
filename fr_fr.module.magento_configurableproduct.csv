@@ -1,8 +1,8 @@
 "Actions","Actions",module,Magento_ConfigurableProduct
-"Add Products Manually","Ajouter les produits manuellement",module,Magento_ConfigurableProduct
 "Add configurable attributes to the current Attribute Set (""%1"")","Ajouter un attribut configurable au groupe d'attribut actuel (""%1"")",module,Magento_ConfigurableProduct
 "Add configurable attributes to the existing Attribute Set","Ajouter un attribut configurable au groupe d'attribut existant",module,Magento_ConfigurableProduct
 "Add configurable attributes to the new Attribute Set based on current","Ajouter des attributs configurables au nouveau jeu d'attributs sur la jeu d'attributs courant",module,Magento_ConfigurableProduct
+"Add Products Manually","Ajouter les produits manuellement",module,Magento_ConfigurableProduct
 "Alt Text","Texte Alternatif",module,Magento_ConfigurableProduct
 "An attribute has been removed. This attribute will no longer appear in your configurations.","Un attribut a été supprimé. Cet attribut n'apparaîtra plus dans vos configurations.",module,Magento_ConfigurableProduct
 "Apply single price to all SKUs","Appliquer un prix unique à tous les SKUs",module,Magento_ConfigurableProduct
@@ -24,13 +24,13 @@
 "Cancel","Annuler",module,Magento_ConfigurableProduct
 "Cannot delete option with id: %1","Vous ne pouvez pas supprimer l'option id: %1",module,Magento_ConfigurableProduct
 "Cannot delete variations from product: %1","Vous ne pouvez pas supprimer les variations du produit: %1",module,Magento_ConfigurableProduct
-"Choose Affected Attribute Set","Choisissez le jeu d'attributs",module,Magento_ConfigurableProduct
 "Choose a different Product","Choisissez un autre produit",module,Magento_ConfigurableProduct
+"Choose Affected Attribute Set","Choisissez le jeu d'attributs",module,Magento_ConfigurableProduct
 "Choose an Option...","Choisissez une Option...",module,Magento_ConfigurableProduct
 "Choose existing Attribute Set","Choisissez un jeu d'attributs existant",module,Magento_ConfigurableProduct
 "Comparable","Comparable",module,Magento_ConfigurableProduct
-"Configurable Product Image","Image du Produit Configurable",module,Magento_ConfigurableProduct
 "Configurable product ""%1"" do not have sub-products","Le produit configurable ""%1"" n'a pas de sous-produits",module,Magento_ConfigurableProduct
+"Configurable Product Image","Image du Produit Configurable",module,Magento_ConfigurableProduct
 "Configurable products allow customers to choose options (Ex: shirt color).
             You need to create a simple product for each configuration (Ex: a product for each color).","Les produits configurables permettent aux clients de choisir des options (ex: couleur de chemise).
              Vous devez créer un produit simple pour chaque configuration (Ex: un produit pour chaque couleur).",module,Magento_ConfigurableProduct
@@ -64,12 +64,12 @@
 "Option values are not specified.","Les valeurs d'option ne sont pas spécifiés.",module,Magento_ConfigurableProduct
 "Option with id ""%1"" not found","Option id ""%1"" n'a pas été trouvé",module,Magento_ConfigurableProduct
 "Options","Options",module,Magento_ConfigurableProduct
-"Please choose image(s)","Choix image(s)",module,Magento_ConfigurableProduct
-"Please fill in the values for the section ","Veuillez remplir les valeurs pour la section ",module,Magento_ConfigurableProduct
 "Please, fill correct values","Veuillez saisir des valeurs correctes",module,Magento_ConfigurableProduct
 "Please, select attribute for the section ","Veuillez sélectionnez l'attribut pour la section ",module,Magento_ConfigurableProduct
 "Please, select attribute(s)","Veuillez sélectionner l'attribut(s)",module,Magento_ConfigurableProduct
 "Please, select image(s) for your attribute","Veuillez sélectionner l'image(s) pour votre attribut",module,Magento_ConfigurableProduct
+"Please choose image(s)","Choix image(s)",module,Magento_ConfigurableProduct
+"Please fill in the values for the section ","Veuillez remplir les valeurs pour la section ",module,Magento_ConfigurableProduct
 "Price","Prix",module,Magento_ConfigurableProduct
 "Product already has this option","Le produit possède déjà cette option",module,Magento_ConfigurableProduct
 "Product has been already attached","Le produit a déjà été rattaché",module,Magento_ConfigurableProduct
@@ -79,29 +79,29 @@
 "Products ""%1"" and %2 have the same set of attribute values.","Produits ""%1"" et %2 ont le même jeu de valeurs d'attributs.",module,Magento_ConfigurableProduct
 "Quantity","Quantité",module,Magento_ConfigurableProduct
 "Remove Attribute","Supprimer l'Attribut",module,Magento_ConfigurableProduct
+"Remove image","Supprimer l'image",module,Magento_ConfigurableProduct
 "Remove Option","Supprimer l'Option",module,Magento_ConfigurableProduct
 "Remove Product","Supprimer le Produit",module,Magento_ConfigurableProduct
-"Remove image","Supprimer l'image",module,Magento_ConfigurableProduct
-"Requested option doesn't exist","L'option n'existe pas",module,Magento_ConfigurableProduct
 "Requested option doesn't exist: %1","L'option demandée n'existe pas: %1",module,Magento_ConfigurableProduct
+"Requested option doesn't exist","L'option n'existe pas",module,Magento_ConfigurableProduct
 "Required","Requis",module,Magento_ConfigurableProduct
 "Role","Rôle",module,Magento_ConfigurableProduct
-"SKU","SKU",module,Magento_ConfigurableProduct
 "Save Option","Enregistrer l'Option",module,Magento_ConfigurableProduct
 "Scope","Portée",module,Magento_ConfigurableProduct
 "Searchable","Utiliser dans la recherche",module,Magento_ConfigurableProduct
-"Select","Sélectionnez",module,Magento_ConfigurableProduct
+"Select...","Sélectionner...",module,Magento_ConfigurableProduct
 "Select All","Sélectionner tout",module,Magento_ConfigurableProduct
 "Select Associated Product","Sélectionnez un Produit Associé",module,Magento_ConfigurableProduct
-"Select Attributes","Sélectionnez les Attributs",module,Magento_ConfigurableProduct
 "Select attribute","Sélectionnez l'Attribut",module,Magento_ConfigurableProduct
+"Select Attributes","Sélectionnez les Attributs",module,Magento_ConfigurableProduct
 "Select options for all attributes or remove unused attributes.","Sélectionnez les options pour tous les attributs ou supprimer les attributs inutilisés.",module,Magento_ConfigurableProduct
 "Select values from each attribute to include in this product. Each unique combination of values creates a unigue product SKU.","Sélectionnez les valeurs pour chaque attribut à inclure pour ce produit. Chaque combinaison créera un SKU produit unique.",module,Magento_ConfigurableProduct
-"Select...","Sélectionner...",module,Magento_ConfigurableProduct
+"Select","Sélectionnez",module,Magento_ConfigurableProduct
 "Selected Attributes:","Attributs Sélectionnés:",module,Magento_ConfigurableProduct
 "Skip image uploading at this time","Passer l'étape d'upload d'images",module,Magento_ConfigurableProduct
 "Skip price at this time","Passer l'étape du prix",module,Magento_ConfigurableProduct
 "Skip quantity at this time","Passer l'étape de la quantité",module,Magento_ConfigurableProduct
+"SKU","SKU",module,Magento_ConfigurableProduct
 "Some product variations fields are not valid.","Certains champs de variation produits non valides.",module,Magento_ConfigurableProduct
 "Something went wrong while saving option.","Une erreur s'est produite lors de l'enregistrement de l'option.",module,Magento_ConfigurableProduct
 "Sort Variations","Trier les variations",module,Magento_ConfigurableProduct
@@ -113,12 +113,12 @@
 "Summary","Résumé",module,Magento_ConfigurableProduct
 "System","Système",module,Magento_ConfigurableProduct
 "The configurable product does not have any variation attribute.","Le produit configurable n'a aucune variation d'attribut.",module,Magento_ConfigurableProduct
-"This attribute is used in configurable products.","Cet attribut est utilisé dans les produits configurables.",module,Magento_ConfigurableProduct
 "This attribute is used in configurable products. You cannot remove it from the attribute set.","Cet attribut est utilisé dans des Produits configurables. Vous ne pouvez pas le retirer de ce jeu d'attributs.",module,Magento_ConfigurableProduct
+"This attribute is used in configurable products.","Cet attribut est utilisé dans les produits configurables.",module,Magento_ConfigurableProduct
 "This group contains attributes used in configurable products. Please move these attributes to another group and try again.","Ce groupe contient des attributs utilisés dans les produits configurables. Veuillez déplacer ces attributs dans un autre groupe et essayez à nouveau.",module,Magento_ConfigurableProduct
 "Thumbnail","Vignette",module,Magento_ConfigurableProduct
-"Upload Image","Uploader l'Image",module,Magento_ConfigurableProduct
 "Upload image","Uploader l'Image",module,Magento_ConfigurableProduct
+"Upload Image","Uploader l'Image",module,Magento_ConfigurableProduct
 "Value index is not specified for an option.","L'index de la valeur n'est pas spécifié pour une option.",module,Magento_ConfigurableProduct
 "Visible","Visible",module,Magento_ConfigurableProduct
 "We could not detect a size.","Nous ne pouvons pas déterminer le poids du fichier.",module,Magento_ConfigurableProduct

@@ -7,9 +7,9 @@
 "Click here or drag and drop to add images.","Cliquez ici ou glisser-déposer pour ajouter des images.",module,Magento_ProductVideo
 "Click here to add videos.","Cliquez ici pour ajouter des vidéos.",module,Magento_ProductVideo
 "Could not get preview image information. Please check your connection and try again.","Impossible d'obtenir une image d'aperçu. Veuillez vérifier votre connexion et réessayez.",module,Magento_ProductVideo
-"Delete","Supprimer",module,Magento_ProductVideo
 "Delete image","Supprimer l'image",module,Magento_ProductVideo
 "Delete video","Supprimer la vidéo",module,Magento_ProductVideo
+"Delete","Supprimer",module,Magento_ProductVideo
 "Description","Description",module,Magento_ProductVideo
 "Duration:","Durée:",module,Magento_ProductVideo
 "Edit Video","Modifier la Vidéo",module,Magento_ProductVideo
@@ -25,16 +25,16 @@
 "Role","Rôle",module,Magento_ProductVideo
 "Save","Sauvegarder",module,Magento_ProductVideo
 "Show related video","Afficher les vidéos en relation",module,Magento_ProductVideo
-"Title","Titre",module,Magento_ProductVideo
 "Title:","Titre:",module,Magento_ProductVideo
+"Title","Titre",module,Magento_ProductVideo
 "Unknown video type","Type de vidéo inconnu",module,Magento_ProductVideo
 "Uploaded:","Uploadé:",module,Magento_ProductVideo
 "Uploader:","Uploadé par:",module,Magento_ProductVideo
 "Url","Url",module,Magento_ProductVideo
-"Video Error","Erreur Vidéo",module,Magento_ProductVideo
 "Video cant be shown due to the following reason: ","La vidéo ne peut être affichée pour la raison suivante : ",module,Magento_ProductVideo
+"Video Error","Erreur Vidéo",module,Magento_ProductVideo
 "Video not found","Vidéo introuvable",module,Magento_ProductVideo
 "Vimeo supported.<br />To add YouTube video, please <a href=""%1"">enter YouTube API Key</a> first.","Viméo supporté. Pour ajouter une vidéo YouTube, veuillez <a href=""%1"">renseigner une clé d'API YouTube</a>.",module,Magento_ProductVideo
-"YouTube API Key","Clé d'API YouTube",module,Magento_ProductVideo
 "YouTube and Vimeo supported.","YouTube et Vimeo sont supportés.",module,Magento_ProductVideo
 "Youtube API key is invalid","La clé d'API YouTube est invalide",module,Magento_ProductVideo
+"YouTube API Key","Clé d'API YouTube",module,Magento_ProductVideo

@@ -7,12 +7,12 @@
 "Add New Tax Rate","Ajouter une nouvelle taxe",module,Magento_Tax
 "Add New Tax Rule","Ajouter une nouvelle règle",module,Magento_Tax
 "After Discount","Après remise",module,Magento_Tax
-"An error occurred","Une erreur est survenue",module,Magento_Tax
 "An error occurred while loading this tax rate.","Une erreur s'est produite lors du chargement de ce taux de taxe.",module,Magento_Tax
+"An error occurred","Une erreur est survenue",module,Magento_Tax
 "Apply Customer Tax","Appliquer la taxe client",module,Magento_Tax
+"Apply discount on price including tax is calculated based on store tax if ""Apply Tax after Discount"" is selected.","L’application du montant de réduction sur les prix TTC est calculée sur la base de la taxe du magasin si ""Appliquer les taxes après la remise"" est sélectionnée.",module,Magento_Tax
 "Apply Discount On Prices","Appliquer la remise sur les prix",module,Magento_Tax
 "Apply Tax On","Appliquer la taxe sur",module,Magento_Tax
-"Apply discount on price including tax is calculated based on store tax if ""Apply Tax after Discount"" is selected.","L’application du montant de réduction sur les prix TTC est calculée sur la base de la taxe du magasin si ""Appliquer les taxes après la remise"" est sélectionnée.",module,Magento_Tax
 "Are you sure you want to do this?","Êtes-vous sûr(e) de vouloir faire cela?",module,Magento_Tax
 "Back","Retour",module,Magento_Tax
 "Before Discount","Avant Remise",module,Magento_Tax
@@ -29,6 +29,7 @@
 "Could not save","Sauvegarde impossible",module,Magento_Tax
 "Country","Pays",module,Magento_Tax
 "Custom price if available","Prix personnalisé si disponible",module,Magento_Tax
+"customer group","groupe de clients",module,Magento_Tax
 "Customer Tax Class","Classe de taxe client",module,Magento_Tax
 "Default Country","Pays par Défaut",module,Magento_Tax
 "Default Post Code","Code postal par défaut",module,Magento_Tax
@@ -51,8 +52,8 @@
 "Edit Tax Rate","Éditer le taux de la taxe",module,Magento_Tax
 "Enable Cross Border Trade","Activer la vente transfrontalière",module,Magento_Tax
 "Entity already exists","L'entité existe déjà",module,Magento_Tax
-"Excl. Tax","HT",module,Magento_Tax
 "Excl. tax:","HT:",module,Magento_Tax
+"Excl. Tax","HT",module,Magento_Tax
 "Excluding Tax","HT",module,Magento_Tax
 "Grand Total (Excl. Tax)","Total (HT)",module,Magento_Tax
 "Grand Total (Excl.Tax)","Total (HT)",module,Magento_Tax
@@ -62,8 +63,8 @@
 "Grand Total Incl. Tax","Total TTC",module,Magento_Tax
 "Incl. Tax","TTC",module,Magento_Tax
 "Include Tax In Order Total","Inclure les Taxes dans le Total de la Commande",module,Magento_Tax
-"Including Tax","TTC",module,Magento_Tax
 "Including and Excluding Tax","HT et TTC",module,Magento_Tax
+"Including Tax","TTC",module,Magento_Tax
 "Invalid attribute %1","Attribut invalide: %1",module,Magento_Tax
 "Invalid name of tax class specified.","Le nom de la classe de taxe est invalide.",module,Magento_Tax
 "Invalid type of tax class ""%1""","%1 est un type de classe de taxe invalide.",module,Magento_Tax
@@ -81,27 +82,28 @@
 "No such entity","Aucune entité",module,Magento_Tax
 "None","Aucun",module,Magento_Tax
 "Note:","Note:",module,Magento_Tax
-"Order Total","Total de la commande",module,Magento_Tax
 "Order Total Excl. Tax","Total de la commande HT",module,Magento_Tax
 "Order Total Incl. Tax","Total de la commade TTC",module,Magento_Tax
+"Order Total","Total de la commande",module,Magento_Tax
 "Orders, Invoices, Credit Memos Display Settings","Paramètres d'affichage des commandes, factures et avoirs",module,Magento_Tax
 "Original price only","Prix original seulement",module,Magento_Tax
 "Please see <a href=""%1"">documentation</a> for more details. ","Veuillez consulter <a href=""%1"">la documentation</a> pour plus de détails. ",module,Magento_Tax
 "Price Display Settings","Paramètres d'affichage du prix",module,Magento_Tax
 "Priority","Priorité",module,Magento_Tax
 "Product Tax Class","Classes de taxe produit",module,Magento_Tax
+"product","produit",module,Magento_Tax
 "Range From","Tranche à partir de",module,Magento_Tax
-"Range To","Tranche jusqu'à",module,Magento_Tax
 "Range To should be equal or greater than Range From.","Jusqu'à doit être supérieur ou égal à jusque.",module,Magento_Tax
-"Rate","Taux",module,Magento_Tax
+"Range To","Tranche jusqu'à",module,Magento_Tax
 "Rate Percent","Taux",module,Magento_Tax
+"Rate","Taux",module,Magento_Tax
 "Reset","Réinitialiser",module,Magento_Tax
 "Row Total","Total Ligne",module,Magento_Tax
 "Sales","Ventes",module,Magento_Tax
-"Save","Sauvegarder",module,Magento_Tax
+"Save and Continue Edit","Enregistrer et Continuer à Éditer",module,Magento_Tax
 "Save Rate","Sauvegarder le taux",module,Magento_Tax
 "Save Rule","Sauvegarder la règle",module,Magento_Tax
-"Save and Continue Edit","Enregistrer et Continuer à Éditer",module,Magento_Tax
+"Save","Sauvegarder",module,Magento_Tax
 "Shipping & Handling (Excl.Tax)","Livraison et traitement (HT)",module,Magento_Tax
 "Shipping & Handling (Incl.Tax)","Livraison et traitement (TTC)",module,Magento_Tax
 "Shipping (Excl. Tax)","Livraison (HT)",module,Magento_Tax
@@ -113,32 +115,32 @@
 "Shipping Prices","Frais de port",module,Magento_Tax
 "Shopping Cart Display Settings","Afficher les options du panier",module,Magento_Tax
 "Some Message","Some Message",module,Magento_Tax
-"Something went wrong","Une erreur s'est produite",module,Magento_Tax
 "Something went wrong deleting this rate.","Une erreur s'est produite lors de la suppression de ce taux.",module,Magento_Tax
 "Something went wrong deleting this tax rule.","Une erreur s'est produite lors de la suppression de cette règle de taxe.",module,Magento_Tax
+"Something went wrong","Une erreur s'est produite",module,Magento_Tax
 "Sort Order","Ordre de Tri",module,Magento_Tax
-"State","État",module,Magento_Tax
 "State/Region","État/Région",module,Magento_Tax
+"State","État",module,Magento_Tax
 "Store(s) affected: ","Magasin(s) affecté(s): ",module,Magento_Tax
-"Subtotal","Sous-Total",module,Magento_Tax
 "Subtotal (Excl. Tax)","Sous-total HT",module,Magento_Tax
 "Subtotal (Excl.Tax)","Sous-total HT",module,Magento_Tax
 "Subtotal (Incl. Tax)","Sous-total TTC",module,Magento_Tax
 "Subtotal (Incl.Tax)","Sous-total TTC",module,Magento_Tax
 "Subtotal Only","Sous Total Uniquement",module,Magento_Tax
-"Tax","Taxe",module,Magento_Tax
+"Subtotal","Sous-Total",module,Magento_Tax
 "Tax Calculation Based On","Calcul de la taxe basé sur",module,Magento_Tax
 "Tax Calculation Method Based On","Méthode de calcul de la taxe basée sur",module,Magento_Tax
 "Tax Class for Shipping","Classe de taxe pour la livraison",module,Magento_Tax
 "Tax Classes","Classes de Taxe",module,Magento_Tax
 "Tax Identifier","Identifiant de Taxe",module,Magento_Tax
-"Tax Rate","Taux de taxe",module,Magento_Tax
 "Tax Rate Information","Information sur le taux de taxe",module,Magento_Tax
+"Tax Rate","Taux de taxe",module,Magento_Tax
+"Tax rates at the same priority are added, others are compounded.","Les taux de taxe avec la même priorité sont ajoutés. Les autres sont composés.",module,Magento_Tax
 "Tax Rule Information","Information sur la règle de taxe",module,Magento_Tax
 "Tax Rules","Règles de taxe",module,Magento_Tax
 "Tax Titles","Titre pour la classe",module,Magento_Tax
 "Tax Zones and Rates","Zones et taux des taxes",module,Magento_Tax
-"Tax rates at the same priority are added, others are compounded.","Les taux de taxe avec la même priorité sont ajoutés. Les autres sont composés.",module,Magento_Tax
+"Tax","Taxe",module,Magento_Tax
 "The Rate Percent should be a positive number.","Le taux de pourcentage doit être un nombre positif.",module,Magento_Tax
 "The tax rate cannot be removed. It exists in a tax rule.","Le taux de taxe ne peut pas être supprimé. Il existe dans une règle de taxe.",module,Magento_Tax
 "The tax rule has been deleted.","La règle de taxe a été supprimée.",module,Magento_Tax
@@ -161,13 +163,11 @@
 "We can't save this tax rule right now.","Impossible d'enregistrer la règle de taxe.",module,Magento_Tax
 "When catalog price includes tax, enable this setting to fix the price no matter what the customer's tax rate.","Lorsque les prix catalogue sont saisis en TTC, activer ce paramètre pour fixer le prix peut importe le taux de taxe client.",module,Magento_Tax
 "Yes (only price with tax)","Oui (prix avec taxe seulement)",module,Magento_Tax
-"You cannot delete this tax class because it is used in Tax Rules. You have to delete the rules it is used in first.","Impossible de supprimer cette classe de taxe car elle est utilisée dans une règle de taxe. Vous devez d'abord supprimer les règles qui l'utilisent.",module,Magento_Tax
 "You cannot delete this tax class because it is used in existing %1(s).","Impossible de supprimer cette classe de taxe car elle est utilisée dans %1.",module,Magento_Tax
+"You cannot delete this tax class because it is used in Tax Rules. You have to delete the rules it is used in first.","Impossible de supprimer cette classe de taxe car elle est utilisée dans une règle de taxe. Vous devez d'abord supprimer les règles qui l'utilisent.",module,Magento_Tax
 "You deleted the tax rate.","Taux supprimé.",module,Magento_Tax
 "You saved the tax rate.","Taux de taxe enregistré.",module,Magento_Tax
 "You saved the tax rule.","Règle de taxe sauvegardée.",module,Magento_Tax
 "Your credit card will be charged for","Votre carte de crédit sera débitée de",module,Magento_Tax
 "Zip/Post Code","Code Postal",module,Magento_Tax
 "Zip/Post is Range","Le code postal est une tranche",module,Magento_Tax
-"customer group","groupe de clients",module,Magento_Tax
-"product","produit",module,Magento_Tax

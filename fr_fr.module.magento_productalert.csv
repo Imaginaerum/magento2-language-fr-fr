@@ -11,12 +11,12 @@
 "Frequency","Fréquence",module,Magento_ProductAlert
 "In stock alert! We wanted you to know that these products are now available:","Produits en stock! Nous vous informons que les produits suivants sont à nouveau en stock:",module,Magento_ProductAlert
 "Invalid block type: %1","Type de bloc invalide: %1",module,Magento_ProductAlert
+"Price:","Prix:",module,Magento_ProductAlert
 "Price Alert Email Template","Gabarit du mail d'alerte de changement de prix",module,Magento_ProductAlert
 "Price change alert! We wanted you to know that prices have changed for these products:","Changement de prix ! Nous vous informons du changement de prix pour nos produits:",module,Magento_ProductAlert
-"Price:","Prix:",module,Magento_ProductAlert
-"Product Alerts","Alertes du produit",module,Magento_ProductAlert
-"Product Alerts Run Settings","Paramétrage d'exécution des alertes de produit",module,Magento_ProductAlert
 "Product alerts cron warnings","Avertissements pour le CRON des alertes produits",module,Magento_ProductAlert
+"Product Alerts Run Settings","Paramétrage d'exécution des alertes de produit",module,Magento_ProductAlert
+"Product Alerts","Alertes du produit",module,Magento_ProductAlert
 "Sign up for price alert","Enregistrez-vous pour recevoir une alerte de modification de prix",module,Magento_ProductAlert
 "Sign up to be notified when this product is back in stock.","Inscrivez-vous pour être averti(e) lorsque le produit sera de nouveau en stock.",module,Magento_ProductAlert
 "Start Time","Heure de Début",module,Magento_ProductAlert
@@ -31,5 +31,5 @@
 "You deleted the alert subscription.","L'inscription à l'alerte a été supprimée.",module,Magento_ProductAlert
 "You saved the alert subscription.","Inscription à l'alerte sauvegardée.",module,Magento_ProductAlert
 "You will no longer receive price alerts for this product.","Vous ne recevrez plus d'alertes de changement de prix pour ce produit.",module,Magento_ProductAlert
-"You will no longer receive stock alerts for this product.","Vous ne recevrez plus d'alertes de disponibilité pour ce produit.",module,Magento_ProductAlert
 "You will no longer receive stock alerts.","Vous ne recevrez plus d'alertes de disponibilité.",module,Magento_ProductAlert
+"You will no longer receive stock alerts for this product.","Vous ne recevrez plus d'alertes de disponibilité pour ce produit.",module,Magento_ProductAlert
