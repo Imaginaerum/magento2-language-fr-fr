@@ -347,7 +347,7 @@
 "Order Date: ","Date de commande: ",module,Magento_Sales
 "Order Date","Date de commande",module,Magento_Sales
 "Order Grand Total","Montant global",module,Magento_Sales
-"order-header","en-tête de commande",module,Magento_Sales
+"order-header","order-header",module,Magento_Sales
 "Order History","Historique Commande",module,Magento_Sales
 "Order ID","ID Commande",module,Magento_Sales
 "Order Information","Informations commande",module,Magento_Sales
@@ -488,7 +488,7 @@
 "Save Status Assignment","Sauvegarder l'assignation du statut",module,Magento_Sales
 "Save Status","Sauvegarder le Statut",module,Magento_Sales
 "Search","Rechercher",module,Magento_Sales
-"Select from existing customer addresses:","Sélectionner d'une adresse client existante",module,Magento_Sales
+"Select from existing customer addresses:","Sélectionner une adresse client existante",module,Magento_Sales
 "Select","Sélectionnez",module,Magento_Sales
 "Send Credit Memo Comment Email Copy To","Envoyer une copie du mail de commentaire d'avoir à",module,Magento_Sales
 "Send Credit Memo Comments Email Copy Method","Mode de copie d'email pour les commentaires d'avoir",module,Magento_Sales
