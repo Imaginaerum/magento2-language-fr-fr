@@ -31,6 +31,7 @@
 "Edit Your Cart","Modifier votre panier",custom,imaginaerum
 "Enter your code","Saisissez votre code",custom,imaginaerum
 "Extensions","Extensions",custom,imaginaerum
+"File does not contain data.","Le fichier ne contient aucune donnée",custom,imaginaerum
 "File format is unknown","Format de fichier inconnu",custom,imaginaerum
 "Filters","Filtres",custom,imaginaerum
 "Find Partners & Extensions","Trouver des Partenaires & Extensions",custom,imaginaerum
@@ -38,10 +39,12 @@
 "Fulfilled","Rempli",custom,imaginaerum
 "GB","Go",custom,imaginaerum
 "GLOBAL","GLOBAL",custom,imaginaerum
+"Grid Settings","Paramètres de la Grille",custom,imaginaerum
 "Hello, %1!","Bonjour, %1!",custom,imaginaerum
 "Id is required","id requis",custom,imaginaerum
 "ID Path","ID Chemin",custom,imaginaerum
 "Import/Export Tax Rates","Importer/Exporter Taux de Taxes",custom,imaginaerum
+"Interface Language","Langue de l'interface",custom,imaginaerum
 "Invoice #%1","Facture #%1",custom,imaginaerum
 "Last URL","Dernière URL",custom,imaginaerum
 "MB","Mo",custom,imaginaerum
@@ -51,7 +54,9 @@
 "Name:","Nom:",custom,imaginaerum
 "New Address","Nouvelle Adresse",custom,imaginaerum
 "Now Online","En Ligne",custom,imaginaerum
+"Number of wish lists: %1","Nombre de listes d'envies: %1",custom,imaginaerum
 "or ","ou",custom,imaginaerum
+"Order Count","Nombre de Commande",custom,imaginaerum
 "Order Summary","Résumé de la Commande",custom,imaginaerum
 "PayPal Settlement","Règlement PayPal",custom,imaginaerum
 "Please enter your comments.","Veuillez saisir votre commentaire",custom,imaginaerum
@@ -60,10 +65,13 @@
 "Processing...","En cours de traitement...",custom,imaginaerum
 "Product Templates","Gabarit Produit",custom,imaginaerum
 "Products in Cart","Produits dans les paniers",custom,imaginaerum
+"Read details","Voir les détails",custom,imaginaerum
 "Region is invalid","Région invalide",custom,imaginaerum
 "Register","S'inscrire",custom,imaginaerum
 "See All (%1 unread)","Voir Tout (%1 non lu(s))",custom,imaginaerum
+"Sender:","Expéditeur:",custom,imaginaerum
 "SEO & Search","SEO & Recherche",custom,imaginaerum
+"Shopping Cart Price Rules","Règles de Prix Panier",custom,imaginaerum
 "Short Description","Description Courte",custom,imaginaerum
 "Show / Hide Editor","Afficher / Masquer l'Éditeur",custom,imaginaerum
 "Simple Product","Produit Simple",custom,imaginaerum
@@ -82,6 +90,7 @@
 "Total %1 records found","%1 enregistrements trouvés",custom,imaginaerum
 "Unable to send password reset email.","Impossible d'envoyer l'email de réinitialisation du mot de passe",custom,imaginaerum
 "unverified","non vérifié",custom,imaginaerum
+"Update Items and Qty's","Mettre à jour les articles et les quantités",custom,imaginaerum
 "User Content","Contenus des Utilisateurs",custom,imaginaerum
 "User Roles","Rôles Utilisateurs",custom,imaginaerum
 "VAT Number is Invalid","Numéro de TVA invalide",custom,imaginaerum
