@@ -15,12 +15,15 @@
 "--Please select--","--Veuillez choisir--",custom,imaginaerum
 "%1 RSS Feed","%1 Flux RSS",custom,imaginaerum
 "%","%",custom,imaginaerum
+"%name% '%value%' is too long. It must has length %min% symbols.","%name% '%value%' est trop long. La valeur doit contenir moins de %min% caractères.",custom,imaginaerum
 "%s - %s","%s - %s",custom,imaginaerum
 "%s","%s",custom,imaginaerum
 "(ver. %1)","(ver. %1)",custom,imaginaerum
 "1 item in wish list","1 article dans la liste d'envies",custom,imaginaerum
 "255 by default","255 par défaut",custom,imaginaerum
 "Access Denied","Accès refusé",custom,imaginaerum
+"Active From","Actif Depuis",custom,imaginaerum
+"Active To","Actif Jusque",custom,imaginaerum
 "Add New Widget Instance","Ajouter une nouvelle instance de Widget",custom,imaginaerum
 "Add Products By SKU","Ajhouter des Produits par SKU",custom,imaginaerum
 "Add to Wishlist","Ajouter à la liste d'envies",custom,imaginaerum
@@ -49,8 +52,10 @@
 "Columns","Colonnes",custom,imaginaerum
 "Copy to Wish List","Copier vers la liste d'envies",custom,imaginaerum
 "Cost","Coût",custom,imaginaerum
+"Credit Card %1","Carte Bancaire %1",custom,imaginaerum
 "Credit Cards","Carte Bancaire",custom,imaginaerum
 "Customer Addresses","Adresses Client",custom,imaginaerum
+"Customers Only","Clients Seulement",custom,imaginaerum
 "Data Transfer","Transfert de données",custom,imaginaerum
 "Date Of Birth","Date de naissance",custom,imaginaerum
 "DD","JJ",custom,imaginaerum
@@ -61,6 +66,7 @@
 "Enter your code","Saisissez votre code",custom,imaginaerum
 "Estimated Total","Total Estimé",custom,imaginaerum
 "Excl. Tax:","HT:",custom,imaginaerum
+"Expiration date is invalid.","Date d'expiration invalide.",custom,imaginaerum
 "Expiration date is required.","Date d'expiration requise",custom,imaginaerum
 "Extensions","Extensions",custom,imaginaerum
 "File does not contain data.","Le fichier ne contient aucune donnée",custom,imaginaerum
@@ -68,6 +74,7 @@
 "File is valid, but import is not possible","Le fichier est valide, mais impossible de l'importer",custom,imaginaerum
 "Filters","Filtres",custom,imaginaerum
 "Find Partners & Extensions","Trouver des Partenaires & Extensions",custom,imaginaerum
+"Folder","Répertoire",custom,imaginaerum
 "Forgot Your Password","Mot de Passe oublié",custom,imaginaerum
 "Fulfilled","Rempli",custom,imaginaerum
 "GB","Go",custom,imaginaerum
@@ -101,6 +108,7 @@
 "Order Count","Nombre de Commande",custom,imaginaerum
 "Order Summary","Résumé de la Commande",custom,imaginaerum
 "PayPal Settlement","Règlement PayPal",custom,imaginaerum
+"Please enter a valid email address(for example johndoe@domain.com.).","Veuillez saisir une adresse email valide (par exemple johndoe@domain.com.).",custom,imaginaerum
 "Please enter your comments.","Veuillez saisir votre commentaire",custom,imaginaerum
 "Postal Code","Code Postal",custom,imaginaerum
 "Prefix","Prefixe",custom,imaginaerum
@@ -126,11 +134,15 @@
 "Short Description","Description Courte",custom,imaginaerum
 "Show / Hide Editor","Afficher / Masquer l'Éditeur",custom,imaginaerum
 "Simple Product","Produit Simple",custom,imaginaerum
+"Sku","Sku",custom,imaginaerum
 "Special Price From Date","Prix Spécial De",custom,imaginaerum
 "Special Price To Date","Prix Spécial Jusque",custom,imaginaerum
+"Subtotal Excl. Tax","Sous Total HT",custom,imaginaerum
+"Subtotal Incl. Tax","Sous Total TTC",custom,imaginaerum
 "Suffix","Suffixe",custom,imaginaerum
 "Symbol","symbole",custom,imaginaerum
 "TB","To",custom,imaginaerum
+"Telephone","Téléphone",custom,imaginaerum
 "The account has been saved.","Compte sauvegardé",custom,imaginaerum
 "The block has been saved.","Bloc sauvegardé",custom,imaginaerum
 "The Date of Birth is required.","Date de naissance requise.",custom,imaginaerum
@@ -138,6 +150,7 @@
 "The message cannot be empty.","Le message ne peut être vide.",custom,imaginaerum
 "The sitemap has been saved.","Sitemap Sauvegardé",custom,imaginaerum
 "The website has been saved.","Site Web Sauvegardé",custom,imaginaerum
+"Theme Version","Version du Thème",custom,imaginaerum
 "This account is locked.","Ce compte est bloqué",custom,imaginaerum
 "Tier Price","Prix Tiers",custom,imaginaerum
 "To Date","Jusqu'à",custom,imaginaerum
@@ -147,6 +160,8 @@
 "translation to the same value","traduction de la même valeur",custom,imaginaerum
 "Try another card","Veuillez essayer une autre carte",custom,imaginaerum
 "Unable to send password reset email.","Impossible d'envoyer l'email de réinitialisation du mot de passe",custom,imaginaerum
+"Unit Price Excl. Tax","Prix Unitaire HT",custom,imaginaerum
+"Unit Price Incl. Tax","Prix Unitaire TTC",custom,imaginaerum
 "unverified","non vérifié",custom,imaginaerum
 "Update Items and Qty's","Mettre à jour les articles et les quantités",custom,imaginaerum
 "User Content","Contenus des Utilisateurs",custom,imaginaerum
