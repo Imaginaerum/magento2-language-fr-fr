@@ -25,7 +25,7 @@
 "Cannot delete option with id: %1","Vous ne pouvez pas supprimer l'option id: %1",module,Magento_ConfigurableProduct
 "Cannot delete variations from product: %1","Vous ne pouvez pas supprimer les variations du produit: %1",module,Magento_ConfigurableProduct
 "Choose a different Product","Choisissez un autre produit",module,Magento_ConfigurableProduct
-"Choose Affected Attribute Set","Choisissez le jeu d'attributs",module,Magento_ConfigurableProduct
+"Choose Affected Attribute Set","Choisissez le jeu d\'attributs",module,Magento_ConfigurableProduct
 "Choose an Option...","Choisissez une Option...",module,Magento_ConfigurableProduct
 "Choose existing Attribute Set","Choisissez un jeu d'attributs existant",module,Magento_ConfigurableProduct
 "Comparable","Comparable",module,Magento_ConfigurableProduct
