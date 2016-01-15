@@ -15,7 +15,7 @@
 "Error Email Recipient","Destinataire du mail d'erreur",module,Magento_Sitemap
 "Error Email Sender","Expéditeur du mail d'erreur",module,Magento_Sitemap
 "Error Email Template","Gabarit du mail d'erreur",module,Magento_Sitemap
-"example: ""/sitemap/"" or ""/"" for base path (path must be writeable)","exemple : ""/sitemap/"" ou ""/"" pour le chemin de base (le chemin doit être accessible en écriture)",module,Magento_Sitemap
+"example: ""/sitemap/"" or ""/"" for base path (path must be writeable)","exemple: ""/sitemap/"" ou ""/"" pour le chemin de base (le chemin doit être accessible en écriture)",module,Magento_Sitemap
 "example: sitemap.xml","exemple: sitemap.xml",module,Magento_Sitemap
 "File handler unreachable","Gestionnaire de fichiers inaccessible",module,Magento_Sitemap
 "File size in bytes.","Poids du fichier en octets.",module,Magento_Sitemap

@@ -5,7 +5,7 @@
 "Allow Gift Messages for Order Items","Autoriser les messages cadeau pour chaque article",module,Magento_GiftMessage
 "Allow Gift Messages on Order Level","Autoriser les messages cadeau au niveau de la commande",module,Magento_GiftMessage
 "Cancel","Annuler",module,Magento_GiftMessage
-"Could not add gift message to order: ""%1""","Impossible d'ajouter un message cadeau à la commande : ""%1""",module,Magento_GiftMessage
+"Could not add gift message to order: ""%1""","Impossible d'ajouter un message cadeau à la commande: ""%1""",module,Magento_GiftMessage
 "Could not add gift message to order's item: ""%1""","Impossible d'ajouter un message cadeau pour l'article ""%1""",module,Magento_GiftMessage
 "Could not add gift message to shopping cart","Impossible d'ajouter un message cadeau au panier",module,Magento_GiftMessage
 "Do you have any gift items in your order?","Y a-t-il des articles cadeaux dans votre commande ?",module,Magento_GiftMessage

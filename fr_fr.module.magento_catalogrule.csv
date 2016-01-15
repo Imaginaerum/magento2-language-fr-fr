@@ -59,7 +59,7 @@
 "To","À",module,Magento_CatalogRule
 "Type","Type",module,Magento_CatalogRule
 "Unknown action.","Action inconnue.",module,Magento_CatalogRule
-"Update product's %1 %2: %3","Mettre à jour le %1 du produit %2 : %3",module,Magento_CatalogRule
+"Update product's %1 %2: %3","Mettre à jour le %1 du produit %2: %3",module,Magento_CatalogRule
 "Update the Product","Mettre à jour le Produit",module,Magento_CatalogRule
 "Updated rules applied.","Mise à jour des règles appliquée.",module,Magento_CatalogRule
 "We can't apply the rules.","Impossible d'appliquer les règles.",module,Magento_CatalogRule

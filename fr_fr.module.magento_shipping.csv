@@ -53,7 +53,7 @@
 "in","in",module,Magento_Shipping
 "Incl. Tax","TTC",module,Magento_Shipping
 "Info:","Info:",module,Magento_Shipping
-"Invalid carrier: %1","Transporteur invalide : %1",module,Magento_Shipping
+"Invalid carrier: %1","Transporteur invalide: %1",module,Magento_Shipping
 "Invalid value(s) for Qty to Ship","Quantité(s) à expédier invalide(s)",module,Magento_Shipping
 "Items in the Package","Articles dans le paquet",module,Magento_Shipping
 "Items Shipped","Articles expédiés",module,Magento_Shipping
@@ -167,7 +167,7 @@
 "We can't load track with retrieving identifier right now.","Impossible de charger le suivi avec l'identifiant.",module,Magento_Shipping
 "We can't save the shipment right now.","Impossible de sauvegarder l'expédition.",module,Magento_Shipping
 "We don't have enough information to create shipping labels. Please make sure your store information and settings are complete.","Il manque des informations pour créer des étiquettes d'expédition. Veuillez vérifier que vos informations de magasin et les paramètres sont complets.",module,Magento_Shipping
-"We don't recognize or support the file extension in this shipment: %1.","L'extension du fichier n'est pas reconnue ou supportée pour l'expédition : %1.",module,Magento_Shipping
+"We don't recognize or support the file extension in this shipment: %1.","L'extension du fichier n'est pas reconnue ou supportée pour l'expédition: %1.",module,Magento_Shipping
 "Weight:","Poids:",module,Magento_Shipping
 "Weight","Poids",module,Magento_Shipping
 "Width","Largeur",module,Magento_Shipping

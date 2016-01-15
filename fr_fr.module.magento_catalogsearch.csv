@@ -26,7 +26,7 @@
 "Rebuild Catalog product fulltext search index","Reconstruire l'index de recherche sur le texte complet du catalogue produit",module,Magento_CatalogSearch
 "Relevance","Pertinence",module,Magento_CatalogSearch
 "Results","Résultats",module,Magento_CatalogSearch
-"Search results for: '%1'","Résultats de recherche pour : '%1'",module,Magento_CatalogSearch
+"Search results for: '%1'","Résultats de recherche pour: '%1'",module,Magento_CatalogSearch
 "Search Settings","Paramètres de recherche",module,Magento_CatalogSearch
 "Search Weight","Poids dans la recherche",module,Magento_CatalogSearch
 "Search","Rechercher",module,Magento_CatalogSearch

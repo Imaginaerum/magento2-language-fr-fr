@@ -258,7 +258,7 @@
 "Invalid data provided for linked products","Données de liaison produits invalides",module,Magento_Catalog
 "Invalid data provided for tier_price","Données invalide pour tier_price",module,Magento_Catalog
 "Invalid option id %1","Option id %1 invalide",module,Magento_Catalog
-"Invalid product data: %1","Données de produit invalides : %1",module,Magento_Catalog
+"Invalid product data: %1","Données de produit invalides: %1",module,Magento_Catalog
 "Is Default","Par Défaut",module,Magento_Catalog
 "Item Price","Prix de l'article",module,Magento_Catalog
 "Items %1-%2 of %3","Produits %1-%2 sur %3",module,Magento_Catalog
@@ -491,7 +491,7 @@
 "Sort Custom Option","Trier l'option personnalisée",module,Magento_Catalog
 "Sort Custom Options","Trier les options personnalisées",module,Magento_Catalog
 "Sort Option","Option de Tri",module,Magento_Catalog
-"Special Expires On: %1","Prix promotionnel jusqu'au : %1",module,Magento_Catalog
+"Special Expires On: %1","Prix promotionnel jusqu'au: %1",module,Magento_Catalog
 "Special Price: %1","Prix Spécial: %1",module,Magento_Catalog
 "Special Price","Prix Spécial",module,Magento_Catalog
 "Special Products","Produits spéciaux",module,Magento_Catalog
@@ -578,7 +578,7 @@
 "Unselect All","Désélectionner Tout",module,Magento_Catalog
 "unselect all","désélectionner tout",module,Magento_Catalog
 "Unselect Visible","Désélectionner les éléments visibles",module,Magento_Catalog
-"Unsupported product type ""%1"".","Type de produit non supporté : ""%1"".",module,Magento_Catalog
+"Unsupported product type ""%1"".","Type de produit non supporté: ""%1"".",module,Magento_Catalog
 "Up-sells","Ventes Incitatives",module,Magento_Catalog
 "Update attributes","Mettre à jour les attributs",module,Magento_Catalog
 "Update Attributes","Mettre à jour les attributs",module,Magento_Catalog

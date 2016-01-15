@@ -1,5 +1,5 @@
 "* Required Fields","* Champs requis",module,Magento_Contact
-"Comment: %comment","Message : %comment",module,Magento_Contact
+"Comment: %comment","Message: %comment",module,Magento_Contact
 "Contact Us","Nous contacter",module,Magento_Contact
 "Contacts","Contacts",module,Magento_Contact
 "Email: %email","Email: %email",module,Magento_Contact

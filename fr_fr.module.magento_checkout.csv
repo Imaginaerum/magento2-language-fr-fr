@@ -42,7 +42,7 @@
 "Guest checkout is disabled.","La passage de commande Invité est désactivé.",module,Magento_Checkout
 "Incl. Tax","TTC",module,Magento_Checkout
 "Invalid data","Données invalides",module,Magento_Checkout
-"Invalid method: %1","Méthode invalide : %1",module,Magento_Checkout
+"Invalid method: %1","Méthode invalide: %1",module,Magento_Checkout
 "Invalid shipping method","Méthode d'expédition invalide",module,Magento_Checkout
 "Item","Article",module,Magento_Checkout
 "Items","Éléments",module,Magento_Checkout

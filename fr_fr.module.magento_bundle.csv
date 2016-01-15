@@ -18,7 +18,7 @@
 "Child with specified sku: ""%1"" already assigned to product: ""%2""","Le produit enfant avec le SKU ""%1"" est déjà assigné au produit ""%2""",module,Magento_Bundle
 "Choose a selection...","Choisissez une sélection",module,Magento_Bundle
 "Close","Fermer",module,Magento_Bundle
-"Could not save child: ""%1""","Impossible de sauvegarder l'enfant : ""%1""",module,Magento_Bundle
+"Could not save child: ""%1""","Impossible de sauvegarder l'enfant: ""%1""",module,Magento_Bundle
 "Could not save option","Impossible de sauvegarder l'option",module,Magento_Bundle
 "Create New Option","Créer une nouvelle option",module,Magento_Bundle
 "Customize %1","Personnaliser %1",module,Magento_Bundle

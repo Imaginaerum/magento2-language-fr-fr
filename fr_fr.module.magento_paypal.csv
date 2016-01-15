@@ -578,7 +578,7 @@
 "Updated At","Mise à jour à",module,Magento_Paypal
 "Updated","Mis à jour",module,Magento_Paypal
 "URL method for Cancel URL and Return URL","Méthode d'URL pour les URL d'annulation et de retour",module,Magento_Paypal
-"Use colon to specify port. For example: ""test.example.com:5224"".","Employez les deux points pour spécifier le port. Par exemple : ""test.example.com:5224"".",module,Magento_Paypal
+"Use colon to specify port. For example: ""test.example.com:5224"".","Employez les deux points pour spécifier le port. Par exemple: ""test.example.com:5224"".",module,Magento_Paypal
 "Use Proxy","Utiliser un proxy",module,Magento_Paypal
 "User-initiated Currency Conversion","L'utilisateur de conversion de devises lancé",module,Magento_Paypal
 "User","Utilisateur",module,Magento_Paypal

@@ -67,8 +67,8 @@
 "Posted on","Soumis le",module,Magento_Review
 "Previous","Précédent",module,Magento_Review
 "Price","Prix",module,Magento_Review
-"Product: ""%1"" reviewed by: %2","Produits : ""%1"" avis de : %2",module,Magento_Review
-"Product: <a href=""%1"" target=""_blank"">%2</a> <br/>","Produit : <a href=""%1"" target=""_blank"">%2</a> <br/>",module,Magento_Review
+"Product: ""%1"" reviewed by: %2","Produits: ""%1"" avis de: %2",module,Magento_Review
+"Product: <a href=""%1"" target=""_blank"">%2</a> <br/>","Produit: <a href=""%1"" target=""_blank"">%2</a> <br/>",module,Magento_Review
 "Product Name","Nom du produit",module,Magento_Review
 "Product Rating:","Note produit:",module,Magento_Review
 "Product Rating","Évaluation du produit",module,Magento_Review

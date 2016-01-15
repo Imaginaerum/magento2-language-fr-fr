@@ -36,7 +36,7 @@
 "Customers by Orders Total","Clients par montant de commande",module,Magento_Reports
 "Customers Report","Rapport clients",module,Magento_Reports
 "Customers Reviews","Clients ayant commenté",module,Magento_Reports
-"Customers that have Wish List: %1","Les clients possédant une liste d'envies : %1",module,Magento_Reports
+"Customers that have Wish List: %1","Les clients possédant une liste d'envies: %1",module,Magento_Reports
 "Customers","Clients",module,Magento_Reports
 "Dashboard","Tableau de bord",module,Magento_Reports
 "Date Used","Date Utilisée",module,Magento_Reports
@@ -74,7 +74,7 @@
 "Last Invoice Created Date","Date de création de la dernière facture",module,Magento_Reports
 "Last Name","Nom",module,Magento_Reports
 "Last Review","Dernier Commentaire",module,Magento_Reports
-"Last updated: %1. To refresh last day's <a href=""%2"">statistics</a>, click <a href=""%3"">here</a>.","Dernière mise à jour : %1. Pour rafraîchir les <a href=""%2"">statistiques</a>, cliquez <a href=""%3"">ici</a>.",module,Magento_Reports
+"Last updated: %1. To refresh last day's <a href=""%2"">statistics</a>, click <a href=""%3"">here</a>.","Dernière mise à jour: %1. Pour rafraîchir les <a href=""%2"">statistiques</a>, cliquez <a href=""%3"">ici</a>.",module,Magento_Reports
 "Learn More","En Savoir Plus",module,Magento_Reports
 "Link","Lien",module,Magento_Reports
 "List of Products Recently Compared and Removed from the Compare List by Visitor","Liste des derniers produits comparés et enlevés de la liste de comparaison par un visiteur",module,Magento_Reports
@@ -90,12 +90,12 @@
 "New Accounts","Nouveaux comptes",module,Magento_Reports
 "No report code is specified.","Aucun code de rapport spécifié.",module,Magento_Reports
 "No","Non",module,Magento_Reports
-"Number of items bought from a Wish List: %1","Nombre d'articles achetés à partir d'une liste d'envies : %1",module,Magento_Reports
+"Number of items bought from a Wish List: %1","Nombre d'articles achetés à partir d'une liste d'envies: %1",module,Magento_Reports
 "Number of Products to display","Nombre de produits à afficher",module,Magento_Reports
-"Number of times Wish Lists have been shared (emailed): %1","Nombre de fois où une liste d'envies a été partagée (email) : %1",module,Magento_Reports
-"Number of Wish List conversions: %1","Nombre de conversions à partir des listes d'envies : %1",module,Magento_Reports
+"Number of times Wish Lists have been shared (emailed): %1","Nombre de fois où une liste d'envies a été partagée (email): %1",module,Magento_Reports
+"Number of Wish List conversions: %1","Nombre de conversions à partir des listes d'envies: %1",module,Magento_Reports
 "Number of Wish List referrals: %1","Nombre de listes d'envies références: %1",module,Magento_Reports
-"Number of Wish Lists: %1","Nombre de liste d'envies : %1",module,Magento_Reports
+"Number of Wish Lists: %1","Nombre de liste d'envies: %1",module,Magento_Reports
 "Offline Refunds","Remboursements hors ligne",module,Magento_Reports
 "Online Refunds","Remboursements en ligne",module,Magento_Reports
 "Order Count Report","Rapport du nombre de commandes",module,Magento_Reports

@@ -39,7 +39,7 @@
 "Exception does not contain field '%1'","L'exception ne contient pas le champ ""%1""",module,Magento_Theme
 "exception","exception",module,Magento_Theme
 "Favicon Icon","Icône favicon",module,Magento_Theme
-"File not found: ""%1"".","Fichier non trouvé : ""%1"".",module,Magento_Theme
+"File not found: ""%1"".","Fichier non trouvé: ""%1"".",module,Magento_Theme
 "Fonts Assets","Ressources polices",module,Magento_Theme
 "Footer","Pied de page",module,Magento_Theme
 "For the best experience on our site, be sure to turn on Javascript in your browser.","Pour une meilleure expérience sur notre site, assurez-vous d'activer JavaScript dans votre navigateur.",module,Magento_Theme
@@ -65,7 +65,7 @@
 "Logo Image Width","Largeur du logo",module,Magento_Theme
 "Logo Image","Image du logo",module,Magento_Theme
 "Manage","Gérer",module,Magento_Theme
-"Max file size to upload %1M","Taille maximale du fichier : %1Mo",module,Magento_Theme
+"Max file size to upload %1M","Taille maximale du fichier: %1Mo",module,Magento_Theme
 "Max image size %1M","Taille maximale de l'image %1Mo",module,Magento_Theme
 "Media Storage","Stockage des Medias",module,Magento_Theme
 "Message","Message",module,Magento_Theme
@@ -134,7 +134,7 @@
 "We cannot find a directory with this name.","Impossible de trouver un répertoire avec ce nom.",module,Magento_Theme
 "We cannot find a theme with id ""%1"".","Impossible de trouver le thème avec l'ID ""%1"".",module,Magento_Theme
 "We cannot find the theme.","Impossible de trouver le thème.",module,Magento_Theme
-"We cannot find theme ""%1"".","Impossible de trouver le thème : ""%1"".",module,Magento_Theme
+"We cannot find theme ""%1"".","Impossible de trouver le thème: ""%1"".",module,Magento_Theme
 "We could not detect a size.","Nous ne pouvons pas déterminer le poids du fichier.",module,Magento_Theme
 "We don't recognize this file extension.","Impossible de reconnaître l'extension de ce fichier.",module,Magento_Theme
 "We found a directory with the same name.","Un répertoire avec le même nom existe déjà.",module,Magento_Theme

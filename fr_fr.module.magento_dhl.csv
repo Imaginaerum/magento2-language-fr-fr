@@ -23,7 +23,7 @@
 "Easy shop","Achat facile",module,Magento_Dhl
 "Economy select","Sélection économique",module,Magento_Dhl
 "Enabled for Checkout","Activé pour Commander",module,Magento_Dhl
-"Error #%1 : %2","Erreur #%1 : %2",module,Magento_Dhl
+"Error #%1: %2","Erreur #%1: %2",module,Magento_Dhl
 "Europack","Europack",module,Magento_Dhl
 "Express 9:00","Express 9:00",module,Magento_Dhl
 "Express 10:30","Express 10:30",module,Magento_Dhl

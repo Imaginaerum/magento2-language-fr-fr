@@ -22,7 +22,7 @@
 "%customer_name,","%customer_name,",module,Magento_Sales
 "%name,","%name,",module,Magento_Sales
 "<span class=""label"">Order Date:</span> %1","<span class=""label"">Date de commande:</span> %1",module,Magento_Sales
-" Transaction ID: ""%1"""," Identifiant de transaction : ""%1""",module,Magento_Sales
+" Transaction ID: ""%1"""," Identifiant de transaction: ""%1""",module,Magento_Sales
 "A hold action is not available.","L'action de blocage n'est pas disponible.",module,Magento_Sales
 "A PDF object is not specified.","L'objet PDF n'est pas spécifié.",module,Magento_Sales
 "A PDF page object is not specified.","La Page PDF n'est pas spécifié.",module,Magento_Sales
@@ -163,7 +163,7 @@
 "Custom Price","Prix personnalisé",module,Magento_Sales
 "Customer Email","Email du Client",module,Magento_Sales
 "Customer Group","Groupe de Clients",module,Magento_Sales
-"Customer Name: %1","Nom du client : %1",module,Magento_Sales
+"Customer Name: %1","Nom du client: %1",module,Magento_Sales
 "Customer Name","Nom du client",module,Magento_Sales
 "Customer Order Status Notification","Notification de statut de commande client",module,Magento_Sales
 "Customer's Activities","Activités client",module,Magento_Sales
@@ -258,7 +258,7 @@
 "Invoice","Facture",module,Magento_Sales
 "Invoiced","Facturé",module,Magento_Sales
 "Invoices","Factures",module,Magento_Sales
-"IPN ""Refunded"". Refund issued by merchant. Registered notification about refunded amount of %1. Transaction ID: ""%2"". Credit Memo has not been created. Please create offline Credit Memo.","IPN ""Remboursement"". Rembourssement émis par le marchand. Notification sauvegardée concerant le montant remboursé de %1. ID de transaction : ""%2"". L'avoir n'a pas été créé. Veuillez créer un avoir hors ligne.",module,Magento_Sales
+"IPN ""Refunded"". Refund issued by merchant. Registered notification about refunded amount of %1. Transaction ID: ""%2"". Credit Memo has not been created. Please create offline Credit Memo.","IPN ""Remboursement"". Rembourssement émis par le marchand. Notification sauvegardée concerant le montant remboursé de %1. ID de transaction: ""%2"". L'avoir n'a pas été créé. Veuillez créer un avoir hors ligne.",module,Magento_Sales
 "Is Closed","Est fermé",module,Magento_Sales
 "Item ordered qty","Qté commandée",module,Magento_Sales
 "Item Status","Statut",module,Magento_Sales
@@ -319,7 +319,7 @@
 "Not Notified","Non notifié",module,Magento_Sales
 "Notes for this Order","Notes pour cette commande",module,Magento_Sales
 "Notification Not Applicable","Notification non-applicable",module,Magento_Sales
-"Notified Date: %1","Date de notification : %1",module,Magento_Sales
+"Notified Date: %1","Date de notification: %1",module,Magento_Sales
 "Notified","Notifié",module,Magento_Sales
 "Notify Customer by Email","Avertir le client par email",module,Magento_Sales
 "Number","Numéro",module,Magento_Sales

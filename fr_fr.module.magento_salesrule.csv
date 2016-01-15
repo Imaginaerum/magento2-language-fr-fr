@@ -54,7 +54,7 @@
 "End","Fin",module,Magento_SalesRule
 "equals or greater than","est supérieur(e) ou égal(e) à",module,Magento_SalesRule
 "equals or less than","est inférieur(e) ou égal(e) à",module,Magento_SalesRule
-"Error occurred when generating coupons: %1","Une erreur s'est produite lors de la génération des coupons : %1",module,Magento_SalesRule
+"Error occurred when generating coupons: %1","Une erreur s'est produite lors de la génération des coupons: %1",module,Magento_SalesRule
 "Error occurred when saving coupon: %1","Une erreur s'est produite lors de l'enregistrement du coupon: %1",module,Magento_SalesRule
 "Excel XML","XML Excel",module,Magento_SalesRule
 "Excluding prefix, suffix and separators.","En excluant le préfixe, le suffixe et les séparateurs.",module,Magento_SalesRule
@@ -132,7 +132,7 @@
 "Total Items Quantity","Quantité Totale d'Articles",module,Magento_SalesRule
 "total quantity","quantité totale",module,Magento_SalesRule
 "Total Weight","Poids Total",module,Magento_SalesRule
-"Update product's %1 %2: %3","Mettre à jour le %1 du produit %2 : %3",module,Magento_SalesRule
+"Update product's %1 %2: %3","Mettre à jour le %1 du produit %2: %3",module,Magento_SalesRule
 "Update the Product","Mettre à jour le Produit",module,Magento_SalesRule
 "Usage limit enforced for logged in customers only.","Limite d'utilisation imposée uniquement aux clients connectés.",module,Magento_SalesRule
 "Use Auto Generation","Utiliser la génération automatique",module,Magento_SalesRule
