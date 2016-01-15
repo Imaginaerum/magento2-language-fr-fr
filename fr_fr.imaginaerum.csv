@@ -1,3 +1,16 @@
+"
+                                <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                                            from PayPal Credit®. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                                            Use PayPal’s free banner ads that let you advertise PayPal Credit® financing as a payment option when your customers check out with PayPal.
+                                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
+                            ","                    <a href="https:/financing.paypal.com/ppfinportal/content/whyUseFinancing" target="_blank">Pourquoi promouvoir le financement?</a><br/>
+                                <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit®. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
+                                Utilisez les bannières publicitaires gratuites de PayPal Credit® comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
+                                Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
+                                ou plus. <a href="https:/financing.paypal.com/ppfinportal/content/forrester" target="_blank">En savoir plus</a>.
+                ",custom,imaginaerum
 """%1"" is not a valid file","""%1"" n'est pas un fichier valide",custom,imaginaerum
 "--Please select--","--Veuillez choisir--",custom,imaginaerum
 "%1 RSS Feed","%1 Flux RSS",custom,imaginaerum
@@ -23,6 +36,7 @@
 "Authorize.net","Authorize.net",custom,imaginaerum
 "Autogenerate","Généré automatiquement",custom,imaginaerum
 "B","B",custom,imaginaerum
+"Base Image","Image de Base",custom,imaginaerum
 "Bestseller","Meilleures Ventes",custom,imaginaerum
 "Buy %1 for %2","Achetez en %1 pour %2",custom,imaginaerum
 "By Customers","Par Client",custom,imaginaerum
@@ -141,11 +155,13 @@
 "VAT Number is Invalid","Numéro de TVA invalide",custom,imaginaerum
 "VAT Number is Valid","Le numéro de TVA est valide",custom,imaginaerum
 "verified","vérifié",custom,imaginaerum
+"View cart","Voir le Panier",custom,imaginaerum
 "Viewed","Vu",custom,imaginaerum
 "Visible In","Visible dans",custom,imaginaerum
 "Visible on Frontend","Visible sur le frontend",custom,imaginaerum
 "Visitors Only","Visiteurs Seulement",custom,imaginaerum
 "We can't update wish list.","Impossible de mettre à jour la liste d'envies.",custom,imaginaerum
+"Website is not specified","Site web non spécifié",custom,imaginaerum
 "Wishlist","Liste d'envies",custom,imaginaerum
 "Your Rating:","Votre Note:",custom,imaginaerum
 "Your search returns no results.","Aucun résultat pour votre recherche.",custom,imaginaerum
