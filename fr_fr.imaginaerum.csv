@@ -1,4 +1,5 @@
 """%1"" is not a valid file","""%1"" n'est pas un fichier valide",custom,imaginaerum
+"%1 RSS Feed","%1 Flux RSS",custom,imaginaerum
 "%","%",custom,imaginaerum
 "%s - %s","%s - %s",custom,imaginaerum
 "%s","%s",custom,imaginaerum
@@ -20,8 +21,10 @@
 "By Customers","Par Client",custom,imaginaerum
 "By Products","Par Produits",custom,imaginaerum
 "Change Price","Changer le Prix",custom,imaginaerum
+"Click <a href=""%1"" onclick=""this.target='_blank'"">here to print</a> a copy of your order confirmation.","Cliquez <a href=""%1"" onclick=""this.target='_blank'"">ici pour imprimer</a> une copie de votre confirmation de commande.",custom,imaginaerum
 "CMS Block","Bloc CMS",custom,imaginaerum
 "Columns","Colonnes",custom,imaginaerum
+"Copy to Wish List","Copier vers la liste d'envies",custom,imaginaerum
 "Cost","Coût",custom,imaginaerum
 "Credit Cards","Carte Bancaire",custom,imaginaerum
 "Customer Addresses","Adresses Client",custom,imaginaerum
@@ -79,6 +82,7 @@
 "Special Price To Date","Prix Spécial Jusque",custom,imaginaerum
 "Symbol","symbole",custom,imaginaerum
 "TB","To",custom,imaginaerum
+"The block has been saved.","Bloc sauvegardé",custom,imaginaerum
 "The first name cannot be empty.","Le prénom ne peut être vide",custom,imaginaerum
 "The sitemap has been saved.","Sitemap Sauvegardé",custom,imaginaerum
 "The website has been saved.","Site Web Sauvegardé",custom,imaginaerum
@@ -88,6 +92,7 @@
 "Token is invalid.","Jeton Invalide",custom,imaginaerum
 "Top 5 Search Terms","Top 5 Recherche",custom,imaginaerum
 "Total %1 records found","%1 enregistrements trouvés",custom,imaginaerum
+"translation to the same value","traduction de la même valeur",custom,imaginaerum
 "Unable to send password reset email.","Impossible d'envoyer l'email de réinitialisation du mot de passe",custom,imaginaerum
 "unverified","non vérifié",custom,imaginaerum
 "Update Items and Qty's","Mettre à jour les articles et les quantités",custom,imaginaerum
