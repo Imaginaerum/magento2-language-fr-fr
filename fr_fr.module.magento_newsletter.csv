@@ -74,10 +74,10 @@
 "Reset","Réinitialiser",module,Magento_Newsletter
 "Resume","Reprendre",module,Magento_Newsletter
 "Return HTML Version","Revenir à la version HTML",module,Magento_Newsletter
-"Save and Resume","Enregistrer et Continuer",module,Magento_Newsletter
-"Save As","Enregistrer Sous",module,Magento_Newsletter
-"Save Newsletter","Enregistrer la Newsletter",module,Magento_Newsletter
-"Save Template","Enregistrer le Gabarit",module,Magento_Newsletter
+"Save and Resume","Sauvegarder et Continuer",module,Magento_Newsletter
+"Save As","Sauvegarder Sous",module,Magento_Newsletter
+"Save Newsletter","Sauvegarder la Newsletter",module,Magento_Newsletter
+"Save Template","Sauvegarder le Gabarit",module,Magento_Newsletter
 "Sender Email","Email de l'Expéditeur",module,Magento_Newsletter
 "Sender Name","Nom de l'expéditeur",module,Magento_Newsletter
 "Sender","Expéditeur",module,Magento_Newsletter
@@ -88,7 +88,7 @@
 "Something went wrong while saving your subscription.","Une erreur s'est produite lors de l'enregistrement de cette abonnement.",module,Magento_Newsletter
 "Something went wrong while unsubscribing you.","Une erreur s'est produite lors de la désinscription.",module,Magento_Newsletter
 "Something went wrong with the subscription.","Une erreur s'est produite lors de la souscription à l'abonnement.",module,Magento_Newsletter
-"Sorry, but the administrator denied subscription for guests. Please <a href=""%1"">register</a>.","Désolé, les abonnements pour les invités sont désactivés. Veuillez vous <a href=""%1"">enregistrer</a>.",module,Magento_Newsletter
+"Sorry, but the administrator denied subscription for guests. Please <a href=""%1"">register</a>.","Désolé, les abonnements pour les invités sont désactivés. Veuillez vous <a href=""%1"">sauvegarder</a>.",module,Magento_Newsletter
 "Start","Commencer",module,Magento_Newsletter
 "Status","Statut",module,Magento_Newsletter
 "Store View","Vue Magasin",module,Magento_Newsletter

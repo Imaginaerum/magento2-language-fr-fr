@@ -280,11 +280,11 @@
 "Revenue","Chiffre d'affaires",module,Magento_Backend
 "Root Category","Catégorie Racine",module,Magento_Backend
 "Sales Representative","Représentant des ventes",module,Magento_Backend
-"Save Account","Enregistrer le compte",module,Magento_Backend
-"Save Cache Settings","Enregistrer les paramètres du cache",module,Magento_Backend
-"Save Store View","Enregistrer la Vue Magasin",module,Magento_Backend
-"Save Store","Enregistrer le Magasin",module,Magento_Backend
-"Save Web Site","Enregistrer le Site Web",module,Magento_Backend
+"Save Account","Sauvegarder le compte",module,Magento_Backend
+"Save Cache Settings","Sauvegarder les paramètres du cache",module,Magento_Backend
+"Save Store View","Sauvegarder la Vue Magasin",module,Magento_Backend
+"Save Store","Sauvegarder le Magasin",module,Magento_Backend
+"Save Web Site","Sauvegarder le Site Web",module,Magento_Backend
 "Save","Sauvegarder",module,Magento_Backend
 "Search Engine Optimization","Optimisation pour les moteurs de recherche",module,Magento_Backend
 "Search Index","Index de Recherche",module,Magento_Backend
@@ -355,7 +355,7 @@
 "This setting will not be taken into account if system has more than one store view.","Ce paramètre ne sera pas pris en compte si le système a plus d'une vue magasin.",module,Magento_Backend
 "This store cannot be deleted.","Ce magasin ne peut pas être effacé.",module,Magento_Backend
 "This store view cannot be deleted.","Cette vue magasin ne peut pas être supprimée.",module,Magento_Backend
-"This tab contains invalid data. Please resolve this before saving.","Cet onglet contient des données invalides. Veuillez les corriger avant d'enregistrer.",module,Magento_Backend
+"This tab contains invalid data. Please resolve this before saving.","Cet onglet contient des données invalides. Veuillez les corriger avant de sauvegarder.",module,Magento_Backend
 "This website cannot be deleted.","Ce site web ne peut pas être effacé.",module,Magento_Backend
 "Thumbnail","Vignette",module,Magento_Backend
 "Time","Temps",module,Magento_Backend

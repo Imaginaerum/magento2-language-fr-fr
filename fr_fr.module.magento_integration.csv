@@ -72,7 +72,7 @@
 "Request token is not associated with the specified consumer","La demande d'authentification n'est pas associée à l'API spécifiée",module,Magento_Integration
 "Resource Access","Accès aux ressources",module,Magento_Integration
 "Resources","Ressources",module,Magento_Integration
-"Save & Activate","Enregistrer & Activer",module,Magento_Integration
+"Save & Activate","Sauvegarder & Activer",module,Magento_Integration
 "Save","Sauvegarder",module,Magento_Integration
 "Something went wrong while deleting roles and permissions. You can find out more in the exceptions log.","Une erreur s'est produite lors de la suppression des rôles et permissions. Vous pouvez en savoir plus en consultant le journal des exceptions.",module,Magento_Integration
 "Sorry, something went wrong. Please try again later.","Une erreur s'est produite. Veuillez réessayer plus tard.",module,Magento_Integration

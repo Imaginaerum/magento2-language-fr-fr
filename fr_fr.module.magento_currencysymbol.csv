@@ -1,5 +1,5 @@
 "All valid rates have been saved.","Tous les taux valides ont été sauvegardés.",module,Magento_CurrencySymbol
-"Click ""Save"" to apply the rates we found.","Cliquez sur ""Enregistrer"" pour appliquer les taux.",module,Magento_CurrencySymbol
+"Click ""Save"" to apply the rates we found.","Cliquez sur ""Sauvegarder"" pour appliquer les taux.",module,Magento_CurrencySymbol
 "Currency Rates","Taux de change",module,Magento_CurrencySymbol
 "Currency Symbols","Symboles de devise",module,Magento_CurrencySymbol
 "Import Service","Service d'importation",module,Magento_CurrencySymbol
@@ -10,7 +10,7 @@
 "Please specify a correct Import Service.","Veuillez renseigner un service d'importation valide.",module,Magento_CurrencySymbol
 "Reset","Réinitialiser",module,Magento_CurrencySymbol
 "Save Currency Rates","Sauvegarder les taux de devises",module,Magento_CurrencySymbol
-"Save Currency Symbols","Enregistrer les symboles de devise",module,Magento_CurrencySymbol
+"Save Currency Symbols","Sauvegarder les symboles de devise",module,Magento_CurrencySymbol
 "System","Système",module,Magento_CurrencySymbol
 "Use Standard","Utiliser le standard",module,Magento_CurrencySymbol
 "We can't initialize the import model.","Impossible d'initialiser le modèle d'importation.",module,Magento_CurrencySymbol

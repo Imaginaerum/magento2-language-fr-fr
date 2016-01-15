@@ -88,7 +88,7 @@
 "Private Key","Clé Privée",module,Magento_Braintree
 "Public Key","Clé Publique",module,Magento_Braintree
 "Require Customer's Billing Address","Nécessite l'adresse de facturation du client",module,Magento_Braintree
-"Save this card for future use","Enregistrer cette carte pour une utilisation future",module,Magento_Braintree
+"Save this card for future use","Sauvegarder cette carte pour une utilisation future",module,Magento_Braintree
 "Selected payment type is not allowed for billing country.","Le type de paiement sélectionné n'est pas autorisé pour le pays de facturation.",module,Magento_Braintree
 "Shipment","Expédition",module,Magento_Braintree
 "some error","une erreur",module,Magento_Braintree

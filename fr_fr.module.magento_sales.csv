@@ -483,10 +483,10 @@
 "Sales","Ventes",module,Magento_Sales
 "Same As Billing Address","Identique à l'adresse de facturation",module,Magento_Sales
 "Save Gift Message","Sauvegarder le message cadeau",module,Magento_Sales
-"Save in address book","Enregistrer dans le carnet d'adresses",module,Magento_Sales
-"Save Order Address","Enregistrer l'adresse de la commande",module,Magento_Sales
-"Save Status Assignment","Enregistrer l'assignation du statut",module,Magento_Sales
-"Save Status","Enregistrer le Statut",module,Magento_Sales
+"Save in address book","Sauvegarder dans le carnet d'adresses",module,Magento_Sales
+"Save Order Address","Sauvegarder l'adresse de la commande",module,Magento_Sales
+"Save Status Assignment","Sauvegarder l'assignation du statut",module,Magento_Sales
+"Save Status","Sauvegarder le Statut",module,Magento_Sales
 "Search","Rechercher",module,Magento_Sales
 "Select from existing customer addresses:","Sélectionner d'une adresse client existante",module,Magento_Sales
 "Select","Sélectionnez",module,Magento_Sales
@@ -688,7 +688,7 @@
 "We can't save the address:
 %1","Impossible de sauvegarder l'adresse :
 %1",module,Magento_Sales
-"We can't save the credit memo right now.","Impossible d'enregistrer l'avoir.",module,Magento_Sales
+"We can't save the credit memo right now.","Impossible de sauvegarder l'avoir.",module,Magento_Sales
 "We can't save the invoice right now.","Impossible de sauvegarder la facture.",module,Magento_Sales
 "We can't send the email order right now.","Impossible d'envoyer l'email de la commande.",module,Magento_Sales
 "We can't send the invoice email right now.","Impossible d'envoyer l'email de la facture.",module,Magento_Sales
@@ -704,11 +704,11 @@
 "We cannot cancel this order.","Impossible d'annuler cette commande.",module,Magento_Sales
 "We cannot create an empty shipment.","Impossible de créer une expédition vide.",module,Magento_Sales
 "We cannot determine the field name.","Impossible de déterminer le nom du champ.",module,Magento_Sales
-"We cannot register an existing credit memo.","Nous ne pouvons pas enregistrer un avoir existant.",module,Magento_Sales
+"We cannot register an existing credit memo.","Nous ne pouvons pas sauvegarder un avoir existant.",module,Magento_Sales
 "We cannot register an existing invoice","Impossible de sauvegarder une facture existante",module,Magento_Sales
 "We cannot register an existing shipment","Impossible de sauvegarder une expédition existante.",module,Magento_Sales
 "We could not add a product to cart by the ID ""%1"".","Impossible d'ajouter le produit avec l'ID ""%1"" au panier.",module,Magento_Sales
-"We don't have enough information to save the parent transaction ID.","Nous n'avons pas assez d'information pour enregistrer l'identifiant de transaction parent.",module,Magento_Sales
+"We don't have enough information to save the parent transaction ID.","Nous n'avons pas assez d'information pour sauvegarder l'identifiant de transaction parent.",module,Magento_Sales
 "We don't recognize the draw line data. Please define the ""lines"" array.","Ligne non reconnue. Veuillez définir un jeu de lignes.",module,Magento_Sales
 "We found an invalid entity model.","Modèle d'entité invalide.",module,Magento_Sales
 "We found an invalid quantity to invoice item ""%1"".","Il y a une quantité invalide sur l'article de la facture ""%1"".",module,Magento_Sales

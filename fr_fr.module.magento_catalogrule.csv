@@ -47,7 +47,7 @@
 "Rule price","Règle de Prix",module,Magento_CatalogRule
 "Rule","Règle",module,Magento_CatalogRule
 "Save and Apply","Sauvegarder et appliquer",module,Magento_CatalogRule
-"Save and Continue Edit","Enregistrer et Continuer à Éditer",module,Magento_CatalogRule
+"Save and Continue Edit","Sauvegarder et Continuer à Éditer",module,Magento_CatalogRule
 "SKU","SKU",module,Magento_CatalogRule
 "Something went wrong while saving the rule data. Please review the error log.","Une erreur s'est produite lors de l'enregistrement de la règle. Veuillez vérifier le journal des erreurs.",module,Magento_CatalogRule
 "Start","Commencer",module,Magento_CatalogRule

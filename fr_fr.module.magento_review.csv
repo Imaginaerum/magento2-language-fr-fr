@@ -90,8 +90,8 @@
 "Review","Avis",module,Magento_Review
 "Reviews %1","Avis %1",module,Magento_Review
 "Reviews","Avis",module,Magento_Review
-"Save and Next","Enregistrer et Suivant",module,Magento_Review
-"Save and Previous","Enregistrer et Précédent",module,Magento_Review
+"Save and Next","Sauvegarder et Suivant",module,Magento_Review
+"Save and Previous","Sauvegarder et Précédent",module,Magento_Review
 "Save Rating","Sauvegarder la notation",module,Magento_Review
 "Save Review","Sauvegarder le commentaire",module,Magento_Review
 "See Details","Voir les Détails",module,Magento_Review

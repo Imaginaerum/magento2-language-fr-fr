@@ -29,7 +29,7 @@
 "Shipping Method","Mode de Livraison",theme,frontend/Magento/luma
 "Shop By","Filtrer Par",theme,frontend/Magento/luma
 "Shopping Options","Affiner les options",theme,frontend/Magento/luma
-"Store alternative addresses","Enregistrer plusieurs adresses",theme,frontend/Magento/luma
+"Store alternative addresses","Sauvegarder plusieurs adresses",theme,frontend/Magento/luma
 "Thank you for your order from %store_name.","Merci pour votre commande sur %store_name.",theme,frontend/Magento/luma
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Pour vous connecter, utilisez les identifiants renseignés lors de votre commande ou en vous rendant sur la page <a href=""%customer_url"">Mon Compte</a>:",theme,frontend/Magento/luma
 "View past orders","Voir vos précédentes commandes",theme,frontend/Magento/luma

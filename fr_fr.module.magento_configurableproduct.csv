@@ -86,7 +86,7 @@
 "Requested option doesn't exist","L'option n'existe pas",module,Magento_ConfigurableProduct
 "Required","Requis",module,Magento_ConfigurableProduct
 "Role","Rôle",module,Magento_ConfigurableProduct
-"Save Option","Enregistrer l'Option",module,Magento_ConfigurableProduct
+"Save Option","Sauvegarder l'Option",module,Magento_ConfigurableProduct
 "Scope","Portée",module,Magento_ConfigurableProduct
 "Searchable","Utiliser dans la recherche",module,Magento_ConfigurableProduct
 "Select...","Sélectionner...",module,Magento_ConfigurableProduct

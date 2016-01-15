@@ -20,7 +20,7 @@
 "Are you sure you want to remove this product from your Wish List?","Êtes-vous sûr de vouloir supprimer cet article de votre liste d'envies ?",module,Magento_Wishlist
 "Availability","Disponibilité",module,Magento_Wishlist
 "Back","Retour",module,Magento_Wishlist
-"Can't save description %1","Impossible d'enregistrer la description %1",module,Magento_Wishlist
+"Can't save description %1","Impossible de sauvegarder la description %1",module,Magento_Wishlist
 "Can't update wish list","Impossible de mettre à jour la liste d'envies.",module,Magento_Wishlist
 "Cannot specify product.","Impossible de spécifier le produit.",module,Magento_Wishlist
 "Check here to link an RSS feed to your Wish List.","Cocher cette case pour activer le flux RSS de votre liste d'enVies.",module,Magento_Wishlist

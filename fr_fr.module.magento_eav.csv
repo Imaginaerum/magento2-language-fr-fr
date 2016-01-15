@@ -52,7 +52,7 @@
 "Cannot delete attribute.","Suppression de l'attribut impossible",module,Magento_Eav
 "Cannot delete attributeGroup with id %1","Suppression du jeu d'attributs id %1 impossible",module,Magento_Eav
 "Cannot load options for attribute %1","Impossible de charger les options pour l'attribut %1",module,Magento_Eav
-"Cannot save attribute %1","Vous ne pouvez pas enregistrer l'attribut %1",module,Magento_Eav
+"Cannot save attribute %1","Vous ne pouvez pas sauvegarder l'attribut %1",module,Magento_Eav
 "Cannot save attribute","Enregistrement de l'attribut impossible",module,Magento_Eav
 "Cannot save attributeGroup","Impossible de sauvegarder le groupe d'attributss",module,Magento_Eav
 "Catalog Input Type for Store Owner","Type d'entrée catalogue pour le propriétaire du magasin",module,Magento_Eav

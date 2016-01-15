@@ -113,7 +113,7 @@
 "Can't delete root category.","Vous ne pouvez pas supprimer la catégorie racine.",module,Magento_Catalog
 "Cancel","Annuler",module,Magento_Catalog
 "Cannot delete category with id %1","Vous ne pouvez pas supprimer la catégorie id %1",module,Magento_Catalog
-"Cannot save product.","Vous ne pouvez pas enregistrer le produit.",module,Magento_Catalog
+"Cannot save product.","Vous ne pouvez pas sauvegarder le produit.",module,Magento_Catalog
 "Catalog, Search","Catalogue, Recherche",module,Magento_Catalog
 "Catalog Category Link","Lien vers les catégories de catalogue",module,Magento_Catalog
 "Catalog New Products List","Liste des nouveaux produits du catalogue",module,Magento_Catalog
@@ -157,12 +157,12 @@
 "Could not assign product ""%1"" to websites ""%2""","Impossible d'assigner le produit ""%1"" aux sites web ""%2""",module,Magento_Catalog
 "Could not move category","Impossible de déplacer la catégorie",module,Magento_Catalog
 "Could not remove custom option","Impossible de supprimer l'option personnalisée",module,Magento_Catalog
-"Could not save category: %1","Impossible d'enregistrer la catégorie: %1",module,Magento_Catalog
-"Could not save group price","Impossible d'enregistrer ce prix de groupe",module,Magento_Catalog
+"Could not save category: %1","Impossible de sauvegarder la catégorie: %1",module,Magento_Catalog
+"Could not save group price","Impossible de sauvegarder ce prix de groupe",module,Magento_Catalog
 "Could not save product ""%1"" with position %2 to category %3","Impossible de sauvegarder le  produit ""%1"" avec la position %2 dans la catégorie %3",module,Magento_Catalog
 "Could not save product ""%1"" with websites %2","Impossible de sauvegarder le produit ""%1"" avec les sites Web %2",module,Magento_Catalog
 "Could not save product ""%product"" with position %position to category %category","Impossible de sauvegarder le produit "" %produit"" avec la position %position désirée dans la catégorie %category",module,Magento_Catalog
-"Could not save product option","Impossible d'enregistrer l'option de produit",module,Magento_Catalog
+"Could not save product option","Impossible de sauvegarder l'option de produit",module,Magento_Catalog
 "Create Category","Créer une Catégorie",module,Magento_Catalog
 "Cross-sells","Ventes croisées",module,Magento_Catalog
 "Custom Design","Design Personnalisé",module,Magento_Catalog
@@ -434,11 +434,11 @@
 "Reset","Réinitialiser",module,Magento_Catalog
 "Role","Rôle",module,Magento_Catalog
 "Root","Racine",module,Magento_Catalog
-"Save & Close","Enregistrer et Fermer",module,Magento_Catalog
-"Save & Duplicate","Enregistrer et Dupliquer",module,Magento_Catalog
-"Save & Edit","Enregistrer et Modifier",module,Magento_Catalog
-"Save & New","Enregistrer et Nouveau",module,Magento_Catalog
-"Save and Continue Edit","Enregistrer et Continuer à Éditer",module,Magento_Catalog
+"Save & Close","Sauvegarder et Fermer",module,Magento_Catalog
+"Save & Duplicate","Sauvegarder et Dupliquer",module,Magento_Catalog
+"Save & Edit","Sauvegarder et Modifier",module,Magento_Catalog
+"Save & New","Sauvegarder et Nouveau",module,Magento_Catalog
+"Save and Continue Edit","Sauvegarder et Continuer à Éditer",module,Magento_Catalog
 "Save Attribute","Sauvegarder l'attribut",module,Magento_Catalog
 "Save Category","Sauvegarder la catégorie",module,Magento_Catalog
 "Save in New Attribute Set","Sauvegarder le Nouveau Jeu dAttributs",module,Magento_Catalog
@@ -557,7 +557,7 @@
 "This operation can take a long time","Cette opération peut prendre un certain temps",module,Magento_Catalog
 "This product doesn't have tier price","Ce produit n'a pas de prix tiers",module,Magento_Catalog
 "This product no longer exists.","Ce produit n'existe plus.",module,Magento_Catalog
-"This tab contains invalid data. Please resolve this before saving.","Cet onglet contient des données invalides. Veuillez les corriger avant d'enregistrer.",module,Magento_Catalog
+"This tab contains invalid data. Please resolve this before saving.","Cet onglet contient des données invalides. Veuillez les corriger avant de sauvegarder.",module,Magento_Catalog
 "Thumbnail","Vignette",module,Magento_Catalog
 "Tier Pricing","Tarification par palier",module,Magento_Catalog
 "Tile","Mosaïque",module,Magento_Catalog
@@ -569,7 +569,7 @@
 "Top/Right","Haut/Droit",module,Magento_Catalog
 "Type","Type",module,Magento_Catalog
 "Unable to remove product %1","Impossible de supprimer le produit %1",module,Magento_Catalog
-"Unable to save product","Impossible d'enregistrer le produit",module,Magento_Catalog
+"Unable to save product","Impossible de sauvegarder le produit",module,Magento_Catalog
 "Unassigned Attributes","Attributs non assignés",module,Magento_Catalog
 "Unique Value (not shared with other products)","Valeur unique (non partagée avec les autres produits)",module,Magento_Catalog
 "Unique Value","Valeur Unique",module,Magento_Catalog
@@ -624,7 +624,7 @@
 "We can't find the image file.","Impossible de trouver le fichier image.",module,Magento_Catalog
 "We can't move the category because the parent category name matches the child category name.","Nous ne pouvons pas déplacer la catégorie parce que le nom de la catégorie parente correspond au nom de catégorie enfant.",module,Magento_Catalog
 "We can't rebuild the index for an undefined product.","Nous ne pouvons pas reconstruire l'index d'un produit non défini.",module,Magento_Catalog
-"We can't save custom-defined options for bundles with dynamic pricing.","Nous ne pouvons pas enregistrer les options personnalisées, pour les produits groupés avec une tarification dynamique.",module,Magento_Catalog
+"We can't save custom-defined options for bundles with dynamic pricing.","Nous ne pouvons pas sauvegarder les options personnalisées, pour les produits groupés avec une tarification dynamique.",module,Magento_Catalog
 "We can't update the attribute.","Nous ne pouvons pas mettre à jour l'attribut.",module,Magento_Catalog
 "We couldn't copy file %1. Please delete media with non-existing images and try again.","Nous n'avons pu copier le fichier %1. Veuillez supprimer les médias inexistants et essayez à nouveau.",module,Magento_Catalog
 "We couldn't move this file: %1.","Nous n'avons pu déplacer ce fichier: %1.",module,Magento_Catalog

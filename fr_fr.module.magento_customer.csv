@@ -121,7 +121,7 @@
 "Create New Account Options","Options de création de nouveaux comptes",module,Magento_Customer
 "Create New Customer Account","Créer un Nouveau Compte Client",module,Magento_Customer
 "Create Order","Créer une Commande",module,Magento_Customer
-"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","La création d'un compte a de nombreux avantages: consultation rapide, enregistrer plusieurs adresses, suivre les commandes, les commandes et bien plus encore.",module,Magento_Customer
+"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","La création d'un compte a de nombreux avantages: consultation rapide, sauvegarder plusieurs adresses, suivre les commandes, les commandes et bien plus encore.",module,Magento_Customer
 "Current Password","Mot de Passe Actuel",module,Magento_Customer
 "Customer Configuration","Configuration client",module,Magento_Customer
 "Customer could not be deleted.","Le client ne peut être supprimé.",module,Magento_Customer
@@ -337,7 +337,7 @@
 "Reset","Réinitialiser",module,Magento_Customer
 "Sales Statistics","Statistiques de ventes",module,Magento_Customer
 "Save Address","Sauvegarder l'adresse",module,Magento_Customer
-"Save and Continue Edit","Enregistrer et Continuer à Éditer",module,Magento_Customer
+"Save and Continue Edit","Sauvegarder et Continuer à Éditer",module,Magento_Customer
 "Save Customer Group","Sauvegarder le groupe clients",module,Magento_Customer
 "Save Customer","Sauvegarder le client",module,Magento_Customer
 "Save","Sauvegarder",module,Magento_Customer
@@ -389,7 +389,7 @@
 "Tax VAT Number","Numéro de TVA",module,Magento_Customer
 "Thank you for confirming your %store_name account.","Merci de confirmer vorte compte %store_name account.",module,Magento_Customer
 "Thank you for registering with %1.","Merci pour votre inscription sur %1.",module,Magento_Customer
-"Thank you for registering with","Merci de vous enregistrer avec",module,Magento_Customer
+"Thank you for registering with","Merci de vous sauvegarder avec",module,Magento_Customer
 "The customer does not have default billing address.","Le client n'a pas d'adresse de facturation par défaut.",module,Magento_Customer
 "The customer group no longer exists.","Le groupe de clients n'existe pas.",module,Magento_Customer
 "The customer is now assigned to Customer Group %s.","Le client est maintenant assigné au Groupe de client %s.",module,Magento_Customer
@@ -437,7 +437,7 @@
 "Visitor","Visiteur",module,Magento_Customer
 "We can't delete the address right now.","Impossible de supprimer l'adresse.",module,Magento_Customer
 "We can't find a customer to revoke.","Impossible de trouver un client à révoquer.",module,Magento_Customer
-"We can't save the address.","Nous ne pouvons pas enregistrer l'adresse.",module,Magento_Customer
+"We can't save the address.","Nous ne pouvons pas sauvegarder l'adresse.",module,Magento_Customer
 "We can't save the customer.","Nous ne pouvons pas sauvegarder le client.",module,Magento_Customer
 "We can't share customer accounts globally when the accounts share identical email addresses on more than one website.","Nous ne pouvons pas partager les comptes clients globalement lorsque les comptes partagent les adresses email identiques sur plus d'un site web.",module,Magento_Customer
 "We're unable to send the password reset email.","Nous ne pouvons pas envoyer l'email de réinitialisation de mot de passe.",module,Magento_Customer

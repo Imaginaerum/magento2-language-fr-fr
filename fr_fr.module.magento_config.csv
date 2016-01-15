@@ -82,7 +82,7 @@
 "Use Default","Utiliser la valeur par défaut",module,Magento_Config
 "Use Website","Valeur du site web",module,Magento_Config
 "Value must be a URL or one of placeholders: %1","La valeur doit être une URL ou un des variables: %1",module,Magento_Config
-"We can't save the Cron expression.","Impossible d'enregistrer l'expression du CRON",module,Magento_Config
+"We can't save the Cron expression.","Impossible de sauvegarder l'expression du CRON",module,Magento_Config
 "website(%1) scope","portée du site web (%1)",module,Magento_Config
 "Website","Site Web",module,Magento_Config
 "Yes (301 Moved Permanently)","Oui (301 Document déplacé de façon permanente)",module,Magento_Config
