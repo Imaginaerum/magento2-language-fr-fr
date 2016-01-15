@@ -1,16 +1,3 @@
-"
-                                <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                                            from PayPal Credit®. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                                            Use PayPal’s free banner ads that let you advertise PayPal Credit® financing as a payment option when your customers check out with PayPal.
-                                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
-                            ","                    <a href="https:/financing.paypal.com/ppfinportal/content/whyUseFinancing" target="_blank">Pourquoi promouvoir le financement?</a><br/>
-                                <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit®. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
-                                Utilisez les bannières publicitaires gratuites de PayPal Credit® comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
-                                Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
-                                ou plus. <a href="https:/financing.paypal.com/ppfinportal/content/forrester" target="_blank">En savoir plus</a>.
-                ",custom,imaginaerum
 """%1"" is not a valid file","""%1"" n'est pas un fichier valide",custom,imaginaerum
 "--Please select--","--Veuillez choisir--",custom,imaginaerum
 "%1 RSS Feed","%1 Flux RSS",custom,imaginaerum
@@ -33,6 +20,7 @@
 "All Customers","Tous les Clients",custom,imaginaerum
 "All Stores","Tous les Magasins",custom,imaginaerum
 "All Users","Tous les utilisateurs",custom,imaginaerum
+"Allow Gift Message","Autoriser les Messages Cadeau",custom,imaginaerum
 "An error occurred while deleting the address.","Une erreur s'est produite lors de la suppression de l'adresse",custom,imaginaerum
 "Apply Coupon","Appliquer le bon de réduction",custom,imaginaerum
 "Attribute","Attribut",custom,imaginaerum
