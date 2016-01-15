@@ -8,14 +8,20 @@
 "Additional Information","Informations Additionnelles",custom,imaginaerum
 "All Customers","Tous les Clients",custom,imaginaerum
 "All Stores","Tous les Magasins",custom,imaginaerum
+"All Users","Tous les utilisateurs",custom,imaginaerum
+"Apply Coupon","Appliquer le bon de réduction",custom,imaginaerum
+"B","B",custom,imaginaerum
 "By Customers","Par Client",custom,imaginaerum
 "By Products","Par Produits",custom,imaginaerum
 "Columns","Colonnes",custom,imaginaerum
 "Credit Cards","Carte Bancaire",custom,imaginaerum
+"Customer Addresses","Adresses Client",custom,imaginaerum
 "Data Transfer","Transfert de données",custom,imaginaerum
 "Extensions","Extensions",custom,imaginaerum
+"File format is unknown","Format de fichier inconnu",custom,imaginaerum
 "Filters","Filtres",custom,imaginaerum
 "Find Partners & Extensions","Trouver des Partenaires & Extensions",custom,imaginaerum
+"Forgot Your Password","Mot de Passe oublié",custom,imaginaerum
 "GB","Go",custom,imaginaerum
 "GLOBAL","GLOBAL",custom,imaginaerum
 "Hello, %1!","Bonjour, %1!",custom,imaginaerum
@@ -44,7 +50,9 @@
 "Unable to send password reset email.","Impossible d'envoyer l'email de réinitialisation du mot de passe",custom,imaginaerum
 "unverified","non vérifié",custom,imaginaerum
 "User Content","Contenus des Utilisateurs",custom,imaginaerum
+"User Roles","Rôles Utilisateurs",custom,imaginaerum
 "VAT Number is Valid","Le numéro de TVA est valide",custom,imaginaerum
 "verified","vérifié",custom,imaginaerum
 "Visible In","Visible dans",custom,imaginaerum
+"Visible on Frontend","Visible sur le frontend",custom,imaginaerum
 "Visitors Only","Visiteurs Seulement",custom,imaginaerum
