@@ -333,7 +333,7 @@
 "Last Name","Nom",module,Magento_Paypal
 "Last Transaction ID","ID de la dernière transaction",module,Magento_Paypal
 "Learn More","En Savoir Plus",module,Magento_Paypal
-"Login","Identifiant",module,Magento_Paypal
+"Login","Se connecter",module,Magento_Paypal
 "Mass Pay Payment","Paiement en masse de salaire",module,Magento_Paypal
 "Matched (CVV2)","Correspondance (CVV2)",module,Magento_Paypal
 "Matched (CVV2CSC)","Correspondance (CVV2CSC)",module,Magento_Paypal
