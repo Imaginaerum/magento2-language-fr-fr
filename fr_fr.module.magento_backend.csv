@@ -81,7 +81,7 @@
 "Cancel","Annuler",module,Magento_Backend
 "Catalog Rewrites","Réécriture du Catalogue",module,Magento_Backend
 "Catalog","Catalogue",module,Magento_Backend
-"Changes have been made to this section that have not been saved.","Des modifications ont été apportées à cette section qui n'a pas été encore enregistrée.",module,Magento_Backend
+"Changes have been made to this section that have not been saved.","Des modifications ont été apportées à cette section qui n'a pas été encore sauvegardée.",module,Magento_Backend
 "Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","Les graphiques sont désactivés. Pour les activer, cliquez <a href=""%1"">ici</a>.",module,Magento_Backend
 "City","Ville",module,Magento_Backend
 "Clear","Vider",module,Magento_Backend
@@ -233,7 +233,7 @@
 "No change","Aucun Changement",module,Magento_Backend
 "No Data Found","Aucune Donnée Trouvée",module,Magento_Backend
 "No records found.","Aucun élément trouvé.",module,Magento_Backend
-"No search modules were registered","Aucun module de recherche n'a été enregistré",module,Magento_Backend
+"No search modules were registered","Aucun module de recherche n'a été sauvegardé",module,Magento_Backend
 "No","Non",module,Magento_Backend
 "of %1","sur %1",module,Magento_Backend
 "Offloader header","En-tête de transcodeur",module,Magento_Backend
@@ -247,7 +247,7 @@
 "password","mot de passe",module,Magento_Backend
 "Password","Mot de Passe",module,Magento_Backend
 "per page","par page",module,Magento_Backend
-"Please confirm scope switching. All data that hasn't been saved will be lost.","Confirmez-vous le changement de site ? Toutes les données non enregistrées seront perdues.",module,Magento_Backend
+"Please confirm scope switching. All data that hasn't been saved will be lost.","Confirmez-vous le changement de site ? Toutes les données non sauvegardées seront perdues.",module,Magento_Backend
 "Please correct the column format and try again.","Veuillez corriger le format colonne et essayez à nouveau.",module,Magento_Backend
 "Please correct the tab configuration and try again. Tab Id should be not empry","Veuillez corriger la configuration de l'onglet et essayez à nouveau. L'ID de l'onglet ne devrait pas être vide.",module,Magento_Backend
 "Please correct the tab configuration and try again.","Veuillez corriger la configuration de l'onglet et essayez à nouveau.",module,Magento_Backend
@@ -422,11 +422,11 @@
 "You need more permissions to access this.","Vous avez besoin de permissions supplémentaires pour accéder à ceci.",module,Magento_Backend
 "You need more permissions to do this.","Vous n'avez pas les droits nécessaires pour effectuer cette action.",module,Magento_Backend
 "You saved the account.","Compte sauvegardé.",module,Magento_Backend
-"You saved the design change.","Vous avez enregistré le changement de design.",module,Magento_Backend
+"You saved the design change.","Vous avez sauvegardé le changement de design.",module,Magento_Backend
 "You saved the store.","Magasin sauvegardé.",module,Magento_Backend
 "You saved the store view.","Vue Magasin sauvegardée.",module,Magento_Backend
 "You saved the website.","Site web sauvegardé.",module,Magento_Backend
-"You will have to sign in after you save your custom admin path.","Vous devrez vous reconnecter après avoir enregistré le chemin personnalisé.",module,Magento_Backend
+"You will have to sign in after you save your custom admin path.","Vous devrez vous reconnecter après avoir sauvegardé le chemin personnalisé.",module,Magento_Backend
 "Your Password","Votre Mot de Passe",module,Magento_Backend
 "YTD","Depuis le début de l'année",module,Magento_Backend
 "ZIP/Postal Code","Code postal",module,Magento_Backend

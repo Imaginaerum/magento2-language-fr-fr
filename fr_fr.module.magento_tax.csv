@@ -166,7 +166,7 @@
 "You cannot delete this tax class because it is used in existing %1(s).","Impossible de supprimer cette classe de taxe car elle est utilisée dans %1.",module,Magento_Tax
 "You cannot delete this tax class because it is used in Tax Rules. You have to delete the rules it is used in first.","Impossible de supprimer cette classe de taxe car elle est utilisée dans une règle de taxe. Vous devez d'abord supprimer les règles qui l'utilisent.",module,Magento_Tax
 "You deleted the tax rate.","Taux supprimé.",module,Magento_Tax
-"You saved the tax rate.","Taux de taxe enregistré.",module,Magento_Tax
+"You saved the tax rate.","Taux de taxe sauvegardé.",module,Magento_Tax
 "You saved the tax rule.","Règle de taxe sauvegardée.",module,Magento_Tax
 "Your credit card will be charged for","Votre carte de crédit sera débitée de",module,Magento_Tax
 "Zip/Post Code","Code Postal",module,Magento_Tax

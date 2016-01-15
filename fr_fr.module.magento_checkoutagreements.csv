@@ -36,4 +36,4 @@
 "Unable to remove checkout agreement %1","Impossible de supprimer la condition de vente %1",module,Magento_CheckoutAgreements
 "Unable to save checkout agreement %1","Impossible de sauvegarder la condition de vente %1",module,Magento_CheckoutAgreements
 "You deleted the condition.","Vous avez supprimé la condition.",module,Magento_CheckoutAgreements
-"You saved the condition.","La condition a été enregistrée.",module,Magento_CheckoutAgreements
+"You saved the condition.","La condition a été sauvegardée.",module,Magento_CheckoutAgreements

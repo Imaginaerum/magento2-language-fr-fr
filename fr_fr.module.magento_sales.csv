@@ -258,7 +258,7 @@
 "Invoice","Facture",module,Magento_Sales
 "Invoiced","Facturé",module,Magento_Sales
 "Invoices","Factures",module,Magento_Sales
-"IPN ""Refunded"". Refund issued by merchant. Registered notification about refunded amount of %1. Transaction ID: ""%2"". Credit Memo has not been created. Please create offline Credit Memo.","IPN ""Remboursement"". Rembourssement émis par le marchand. Notification enregistrée concerant le montant remboursé de %1. ID de transaction : ""%2"". L'avoir n'a pas été créé. Veuillez créer un avoir hors ligne.",module,Magento_Sales
+"IPN ""Refunded"". Refund issued by merchant. Registered notification about refunded amount of %1. Transaction ID: ""%2"". Credit Memo has not been created. Please create offline Credit Memo.","IPN ""Remboursement"". Rembourssement émis par le marchand. Notification sauvegardée concerant le montant remboursé de %1. ID de transaction : ""%2"". L'avoir n'a pas été créé. Veuillez créer un avoir hors ligne.",module,Magento_Sales
 "Is Closed","Est fermé",module,Magento_Sales
 "Item ordered qty","Qté commandée",module,Magento_Sales
 "Item Status","Statut",module,Magento_Sales
@@ -469,8 +469,8 @@
 "Registered a Void notification.","Notifier une annulation",module,Magento_Sales
 "Registered notification about captured amount of %1.","Notifier lors d'un encaissement d'un montant de %1.",module,Magento_Sales
 "Registered notification about refunded amount of %1.","Notifier lors d'un remboursement d'un montant de %1.",module,Magento_Sales
-"Registered update about approved payment.","Mise à jour enregistrée au sujet de paiement approuvé.",module,Magento_Sales
-"Registered update about denied payment.","Mise à jour enregistrée au sujet de paiement refusé.",module,Magento_Sales
+"Registered update about approved payment.","Mise à jour sauvegardée au sujet de paiement approuvé.",module,Magento_Sales
+"Registered update about denied payment.","Mise à jour sauvegardée au sujet de paiement refusé.",module,Magento_Sales
 "Remove Coupon Code","Supprimer le code de bon de réduction",module,Magento_Sales
 "Remove","Supprimer",module,Magento_Sales
 "Reorder","Renouveler",module,Magento_Sales
@@ -749,8 +749,8 @@
 "You have unassigned the order status.","Staut de commande retiré.",module,Magento_Sales
 "You put the order on hold.","La commande a été bloquée.",module,Magento_Sales
 "You released the order from holding status.","La commande est débloquée.",module,Magento_Sales
-"You saved the gift card message.","Message cadeau enregistré.",module,Magento_Sales
-"You saved the order status.","Statut de commande enregistré.",module,Magento_Sales
+"You saved the gift card message.","Message cadeau sauvegardé.",module,Magento_Sales
+"You saved the order status.","Statut de commande sauvegardé.",module,Magento_Sales
 "You sent the message.","Message envoyé.",module,Magento_Sales
 "You sent the order email.","Email de commande envoyé.",module,Magento_Sales
 "You updated the order address.","Adresse de la commande mise à jour.",module,Magento_Sales

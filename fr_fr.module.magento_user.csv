@@ -115,7 +115,7 @@
 "You have entered an invalid password for current user.","Mot de passe invalide.",module,Magento_User
 "You have revoked the user's tokens.","Les jetons de l'utilisateur ont été révoqués.",module,Magento_User
 "You need more permissions to access this.","Vous avez besoin de permissions supplémentaires pour accéder à ceci.",module,Magento_User
-"You saved the role.","Rôle enregistré.",module,Magento_User
+"You saved the role.","Rôle sauvegardé.",module,Magento_User
 "You saved the user.","Utilisateur sauvegardé.",module,Magento_User
 "You updated your password.","Mot de passe mis à jour.",module,Magento_User
 "Your password confirmation must match your password.","Le mot de passe de confirmation ne correspond pas au mot de passe renseigné.",module,Magento_User

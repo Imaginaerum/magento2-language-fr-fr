@@ -144,5 +144,5 @@
 "We found a directory with the same name. Please try another folder name.","Nous avons trouvé un répertoire avec le même nom. Veuillez essayer un autre nom.",module,Magento_Cms
 "WYSIWYG Options","Options WYSIWYG",module,Magento_Cms
 "You deleted the block.","Vous avez supprimé le bloc.",module,Magento_Cms
-"You saved the block.","Vous avez enregistré le bloc.",module,Magento_Cms
+"You saved the block.","Vous avez sauvegardé le bloc.",module,Magento_Cms
 "You saved this page.","Page sauvegardée.",module,Magento_Cms

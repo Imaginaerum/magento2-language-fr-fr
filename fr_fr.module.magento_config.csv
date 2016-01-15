@@ -88,4 +88,4 @@
 "Yes (301 Moved Permanently)","Oui (301 Document déplacé de façon permanente)",module,Magento_Config
 "Yes (302 Found)","Oui (302 Document déplacé de façon temporaire)",module,Magento_Config
 "Yes","Oui",module,Magento_Config
-"You saved the configuration.","Vous avez enregistré la configuration.",module,Magento_Config
+"You saved the configuration.","Vous avez sauvegardé la configuration.",module,Magento_Config

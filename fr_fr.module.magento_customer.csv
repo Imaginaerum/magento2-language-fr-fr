@@ -327,7 +327,7 @@
 "Recovery Link Expiration Period (days)","Durée avant expiration d'un lien de récupération (en jours)",module,Magento_Customer
 "Redirect Customer to Account Dashboard after Logging in","Rediriger les clients vers leur tableau de bord après connexion",module,Magento_Customer
 "region","région",module,Magento_Customer
-"Registered Customers","Clients enregistrés",module,Magento_Customer
+"Registered Customers","Clients sauvegardés",module,Magento_Customer
 "Remind Email Template","Template d'email de rappel",module,Magento_Customer
 "Require Emails Confirmation","Nécessite la confirmation par email",module,Magento_Customer
 "Reset Password Template","Gabarit de réinitialisation de mot de passe",module,Magento_Customer
@@ -464,7 +464,7 @@
 "You must confirm your %customer_email email before you can sign in (link is only valid once):","Vous devez confirmer votre email %customer_email afin que vous puissiez vous connecter (le lien n'est valable qu'une seule fois):",module,Magento_Customer
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","Vous devez confirmer votre compte. Vérifier dans vos email si vous avez reçu le lien de confirmation ou <a href=""%1"">cliquez ici </a> pour obtenir un nouveau lien.",module,Magento_Customer
 "You saved the account information.","Informations du compte sauvegardées",module,Magento_Customer
-"You saved the address.","Vous avez enregistré l'adresse.",module,Magento_Customer
+"You saved the address.","Vous avez sauvegardé l'adresse.",module,Magento_Customer
 "You saved the customer.","Vous avez sauvegardé le client.",module,Magento_Customer
 "You saved the customer group.","Groupe de clients sauvegardé.",module,Magento_Customer
 "You subscribe to ""General Subscription"".","Vous souscrivez à ""L'abonnement général"".",module,Magento_Customer

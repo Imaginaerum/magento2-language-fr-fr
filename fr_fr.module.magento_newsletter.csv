@@ -113,7 +113,7 @@
 "Thank you for your subscription.","Merci de votre inscription.",module,Magento_Newsletter
 "The confirmation request has been sent.","La demande de confirmation a été envoyée.",module,Magento_Newsletter
 "The newsletter template has been deleted.","Le gabarit de newsletter a été supprimé.",module,Magento_Newsletter
-"The newsletter template has been saved.","Le gabarit de newsletter a été enregistré.",module,Magento_Newsletter
+"The newsletter template has been saved.","Le gabarit de newsletter a été sauvegardé.",module,Magento_Newsletter
 "The problems you identified have been deleted.","Les problèmes que vous avez identifiés ont été supprimés.",module,Magento_Newsletter
 "There are no subscribers selected.","Aucun abonné sélectionné.",module,Magento_Newsletter
 "There was a problem with the subscription: %1","Il y a eu un problème lors de l'inscription: %1",module,Magento_Newsletter
@@ -135,12 +135,12 @@
 "We cannot mark as received subscriber.","Impossible de marquer comme reçue par l'abonné.",module,Magento_Newsletter
 "We found no problems.","Aucun problème détécté.",module,Magento_Newsletter
 "We removed the subscription.","Abonnement annulé.",module,Magento_Newsletter
-"We saved the subscription.","Abonnement enregistré.",module,Magento_Newsletter
+"We saved the subscription.","Abonnement sauvegardé.",module,Magento_Newsletter
 "We unsubscribed the people you identified.","Désinscription des personnes sélectionnés.",module,Magento_Newsletter
 "Web Site","Site Web",module,Magento_Newsletter
 "You have been successfully subscribed to our newsletter.","Nous vous confirmons votre abonnement à notre newsletter.",module,Magento_Newsletter
 "You have been unsubscribed from the newsletter.","Vous êtes maintenant désabonné à notre newsletter.",module,Magento_Newsletter
-"You saved the newsletter queue.","File d'attente de la newsletter enregistrée.",module,Magento_Newsletter
+"You saved the newsletter queue.","File d'attente de la newsletter sauvegardée.",module,Magento_Newsletter
 "You selected an invalid queue.","File d'attente invalide.",module,Magento_Newsletter
 "You unsubscribed.","Vous êtes désinscrit.",module,Magento_Newsletter
 "Your subscription has been confirmed.","Votre inscription a été confirmée.",module,Magento_Newsletter

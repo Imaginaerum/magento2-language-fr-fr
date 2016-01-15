@@ -48,5 +48,5 @@
 "yes","oui",module,Magento_Search
 "You already have an identical search term query.","Il existe déjà une requête de recherche identique.",module,Magento_Search
 "You deleted the search.","La recherche a été supprimée.",module,Magento_Search
-"You saved the search term.","Le terme de recherche a été enregistré.",module,Magento_Search
+"You saved the search term.","Le terme de recherche a été sauvegardé.",module,Magento_Search
 "Your search query can't be longer than %1, so we shortened your query.","La recherche ne peut pas excéder %1 caractères. Merci de raccourcir celle-ci.",module,Magento_Search

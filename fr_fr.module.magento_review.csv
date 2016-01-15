@@ -52,7 +52,7 @@
 "Next","Suivant",module,Magento_Review
 "Nickname","Pseudo",module,Magento_Review
 "Not Approved","Non approuvé",module,Magento_Review
-"Only registered users can write reviews. Please, <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Seuls les utilisateurs enregistrés peuvent soumettre leur avis. Veuillez <a href=""%1"">vous connecter</a> ou <a href=""%2"">créer un compte</a>",module,Magento_Review
+"Only registered users can write reviews. Please, <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Seuls les utilisateurs sauvegardés peuvent soumettre leur avis. Veuillez <a href=""%1"">vous connecter</a> ou <a href=""%2"">créer un compte</a>",module,Magento_Review
 "Option Title:","Titre de l'Option:",module,Magento_Review
 "Pending product review(s)","Commentaire(s) de produit en attente",module,Magento_Review
 "Pending Reviews of Customer `%1`","Avis en attente du client '%1'",module,Magento_Review
@@ -124,8 +124,8 @@
 "You deleted the rating.","Évaluation supprimée.",module,Magento_Review
 "You have submitted no reviews.","Vous n'avez posté aucun commentaire",module,Magento_Review
 "You're reviewing:","Vous commentez:",module,Magento_Review
-"You saved the rating.","Évaluation enregistrée.",module,Magento_Review
-"You saved the review.","Avis enregistré.",module,Magento_Review
+"You saved the rating.","Évaluation sauvegardée.",module,Magento_Review
+"You saved the review.","Avis sauvegardé.",module,Magento_Review
 "You submitted your review for moderation.","L'avis est en cours de validation.",module,Magento_Review
 "Your Rating","Votre évaluation",module,Magento_Review
 "Your Review","Votre avis",module,Magento_Review

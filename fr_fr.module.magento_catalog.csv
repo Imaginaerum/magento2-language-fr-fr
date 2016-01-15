@@ -135,7 +135,7 @@
 "Change Status","Changer le statut",module,Magento_Catalog
 "Change status","Changer le statut",module,Magento_Catalog
 "Change","Modifier",module,Magento_Catalog
-"Changes have been made to this section that have not been saved.","Des modifications ont été apportées à cette section qui n'a pas été encore enregistrée.",module,Magento_Catalog
+"Changes have been made to this section that have not been saved.","Des modifications ont été apportées à cette section qui n'a pas été encore sauvegardée.",module,Magento_Catalog
 "Check items to add to the cart or","Cochez les articles à ajouter au panier ou",module,Magento_Catalog
 "Choose existing category.","Choisissez une catégorie existante.",module,Magento_Catalog
 "Clear All","Tout Supprimer",module,Magento_Catalog
@@ -145,7 +145,7 @@
 "Close panel","Fermer le panel",module,Magento_Catalog
 "Close Window","Fermer la Fenêtre",module,Magento_Catalog
 "Collapse All","Tout Réduire",module,Magento_Catalog
-"Collection provider is not registered","La collection n'a pas été enregistrée",module,Magento_Catalog
+"Collection provider is not registered","La collection n'a pas été sauvegardée",module,Magento_Catalog
 "Comma-separated.","Séparées par des virgules.",module,Magento_Catalog
 "Comparable on Storefront","Comparable sur le magasin",module,Magento_Catalog
 "Comparable","Comparable",module,Magento_Catalog
@@ -631,7 +631,7 @@
 "We don't recognize or support this file extension type.","Le type de fichier n'est pas reconnu ou n'est pas autorisé.",module,Magento_Catalog
 "We found a duplicate website, tier price, customer group and quantity.","Nous avons trouvé un doublon de site, prix par palier, groupe de clients et quantité.",module,Magento_Catalog
 "We found other products you might like!","Nous avons trouvé d'autres produits qui pourraient vous intéresser!",module,Magento_Catalog
-"We saved the price alert subscription.","Nous avons enregistré votre abonnement concernant l'alerte de ce prix.",module,Magento_Catalog
+"We saved the price alert subscription.","Nous avons sauvegardé votre abonnement concernant l'alerte de ce prix.",module,Magento_Catalog
 "We saved the stock notification.","Nous avons sauvegardé la notification de stock.",module,Magento_Catalog
 "Web Site","Site Web",module,Magento_Catalog
 "Website","Site Web",module,Magento_Catalog
@@ -651,7 +651,7 @@
 "You have no items to compare.","Vous n'avez pas d'articles à comparer.",module,Magento_Catalog
 "You moved the category","Catégorie déplacée",module,Magento_Catalog
 "You removed product %1 from the comparison list.","Vous avez supprimé le produit %1 de la liste de comparaison.",module,Magento_Catalog
-"You saved the attribute set.","Vous avez enregistré le jeu d'attributs.",module,Magento_Catalog
+"You saved the attribute set.","Vous avez sauvegardé le jeu d'attributs.",module,Magento_Catalog
 "You saved the category.","Catégories Sauvegardée",module,Magento_Catalog
 "You saved the product.","Produit sauvegardé.",module,Magento_Catalog
-"You saved the product attribute.","Vous avez enregistré l'attribut produit.",module,Magento_Catalog
+"You saved the product attribute.","Vous avez sauvegardé l'attribut produit.",module,Magento_Catalog
