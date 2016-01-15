@@ -327,7 +327,7 @@
 "Recovery Link Expiration Period (days)","Durée avant expiration d'un lien de récupération (en jours)",module,Magento_Customer
 "Redirect Customer to Account Dashboard after Logging in","Rediriger les clients vers leur tableau de bord après connexion",module,Magento_Customer
 "region","région",module,Magento_Customer
-"Registered Customers","Clients sauvegardés",module,Magento_Customer
+"Registered Customers","Clients enregistrés",module,Magento_Customer
 "Remind Email Template","Template d'email de rappel",module,Magento_Customer
 "Require Emails Confirmation","Nécessite la confirmation par email",module,Magento_Customer
 "Reset Password Template","Gabarit de réinitialisation de mot de passe",module,Magento_Customer
