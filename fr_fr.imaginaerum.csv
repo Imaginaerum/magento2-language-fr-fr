@@ -79,6 +79,7 @@
 "Name:","Nom:",custom,imaginaerum
 "New Address","Nouvelle Adresse",custom,imaginaerum
 "New Product Template","Nouveau Gabarit Produit",custom,imaginaerum
+"Newsletter Template","Gabarits de Newsletter",custom,imaginaerum
 "Now Online","En Ligne",custom,imaginaerum
 "Number of wish lists: %1","Nombre de listes d'envies: %1",custom,imaginaerum
 "or ","ou",custom,imaginaerum
@@ -93,8 +94,10 @@
 "Product Templates","Gabarit Produit",custom,imaginaerum
 "Products in Cart","Produits dans les paniers",custom,imaginaerum
 "Qty:","Qté:",custom,imaginaerum
+"Rate Percent should be a positive number.","Le taux doit être un nombre positif.",custom,imaginaerum
 "Rating:","Note:",custom,imaginaerum
 "Read details","Voir les détails",custom,imaginaerum
+"Recently added item(s)","Article(s) Récemment Ajouté(s)",custom,imaginaerum
 "Region is invalid","Région invalide",custom,imaginaerum
 "Register","S'inscrire",custom,imaginaerum
 "Remove Email","Supprimer l'Email",custom,imaginaerum
@@ -114,6 +117,7 @@
 "Suffix","Suffixe",custom,imaginaerum
 "Symbol","symbole",custom,imaginaerum
 "TB","To",custom,imaginaerum
+"The account has been saved.","Compte sauvegardé",custom,imaginaerum
 "The block has been saved.","Bloc sauvegardé",custom,imaginaerum
 "The Date of Birth is required.","Date de naissance requise.",custom,imaginaerum
 "The first name cannot be empty.","Le prénom ne peut être vide",custom,imaginaerum
@@ -127,6 +131,7 @@
 "Top 5 Search Terms","Top 5 Recherche",custom,imaginaerum
 "Total %1 records found","%1 enregistrements trouvés",custom,imaginaerum
 "translation to the same value","traduction de la même valeur",custom,imaginaerum
+"Try another card","Veuillez essayer une autre carte",custom,imaginaerum
 "Unable to send password reset email.","Impossible d'envoyer l'email de réinitialisation du mot de passe",custom,imaginaerum
 "unverified","non vérifié",custom,imaginaerum
 "Update Items and Qty's","Mettre à jour les articles et les quantités",custom,imaginaerum
