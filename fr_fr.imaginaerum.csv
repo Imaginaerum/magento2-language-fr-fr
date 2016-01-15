@@ -3,14 +3,17 @@
 "%1 RSS Feed","%1 Flux RSS",custom,imaginaerum
 "%","%",custom,imaginaerum
 "%name% '%value%' is too long. It must has length %min% symbols.","%name% '%value%' est trop long. La valeur doit contenir moins de %min% caractères.",custom,imaginaerum
+"[New/Edit] URL Rewrite","[Ajouter/Éditer] Une Réécriture d'URL",custom,imaginaerum
 "%s - %s","%s - %s",custom,imaginaerum
 "%s","%s",custom,imaginaerum
+" Send auto-generated password","Envoyé un mot de passe généré",custom,imaginaerum
 "(ver. %1)","(ver. %1)",custom,imaginaerum
 "1 item in wish list","1 article dans la liste d'envies",custom,imaginaerum
 "255 by default","255 par défaut",custom,imaginaerum
 "Access Denied","Accès refusé",custom,imaginaerum
 "Active From","Actif Depuis",custom,imaginaerum
 "Active To","Actif Jusque",custom,imaginaerum
+"Add New Theme","Ajouter un thème",custom,imaginaerum
 "Add New Widget Instance","Ajouter une nouvelle instance de Widget",custom,imaginaerum
 "Add Products By SKU","Ajhouter des Produits par SKU",custom,imaginaerum
 "Add to Wishlist","Ajouter à la liste d'envies",custom,imaginaerum
@@ -21,12 +24,19 @@
 "All Stores","Tous les Magasins",custom,imaginaerum
 "All Users","Tous les utilisateurs",custom,imaginaerum
 "Allow Gift Message","Autoriser les Messages Cadeau",custom,imaginaerum
+"Allowed File Extensions","Extensions de fichier autorisées",custom,imaginaerum
+"Amount is required.","Montant requis",custom,imaginaerum
 "An error occurred while deleting the address.","Une erreur s'est produite lors de la suppression de l'adresse",custom,imaginaerum
+"Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. http://example.com/magento/","Chacun de ces champs peut utiliser une URL se terminant par '/' (slash) ex: http://example.com/magento/",custom,imaginaerum
+"Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. https://example.com/magento/","Chacun de ces champs peut utiliser une URL se terminant par '/' (slash) ex: https://example.com/magento/",custom,imaginaerum
 "Apply Coupon","Appliquer le bon de réduction",custom,imaginaerum
+"Apply To Products","Appliquer aux produits",custom,imaginaerum
 "Attribute '%1' is locked. ","L'attribut '%1' est verrouillé.",custom,imaginaerum
 "Attribute","Attribut",custom,imaginaerum
 "Authorize.net","Authorize.net",custom,imaginaerum
 "Autogenerate","Généré automatiquement",custom,imaginaerum
+"Autosettings","Réglages automatiques",custom,imaginaerum
+"Available Product Listing Sort By","Trier la liste des produit par",custom,imaginaerum
 "B","B",custom,imaginaerum
 "Base Image","Image de Base",custom,imaginaerum
 "Bestseller","Meilleures Ventes",custom,imaginaerum
@@ -40,28 +50,38 @@
 "Click on image to zoom","Cliquez sur l'image pour zoomer",custom,imaginaerum
 "CMS Block","Bloc CMS",custom,imaginaerum
 "Columns","Colonnes",custom,imaginaerum
+"Communications","Communications",custom,imaginaerum
 "Copy to Wish List","Copier vers la liste d'envies",custom,imaginaerum
 "Cost","Coût",custom,imaginaerum
 "Credit Card %1","Carte Bancaire %1",custom,imaginaerum
 "Credit Cards","Carte Bancaire",custom,imaginaerum
+"Custom Layout Update","Agencement personnalisé",custom,imaginaerum
 "Customer Addresses","Adresses Client",custom,imaginaerum
 "Customers Only","Clients Seulement",custom,imaginaerum
 "Data Transfer","Transfert de données",custom,imaginaerum
 "Date Of Birth","Date de naissance",custom,imaginaerum
 "DD","JJ",custom,imaginaerum
 "Decoding error: %1%2%3%4","Décodage de l'erreur: %1%2%3%4",custom,imaginaerum
+"Default Product Listing Sort By","Tri par défaut de la liste des produits",custom,imaginaerum
+"Default title","Titre par défaut",custom,imaginaerum
 "Default View","Vue Par Défaut",custom,imaginaerum
+"Display Mode","Affichage",custom,imaginaerum
+"Display Settings","Paramètres d'affichage",custom,imaginaerum
 "Edit Your Cart","Modifier votre panier",custom,imaginaerum
+"Email address can't be empty.","L'adresse Email ne peut être vide.",custom,imaginaerum
 "Email Address","Adresse Email",custom,imaginaerum
+"Enter https protocol to use Secure URLs in Admin.","Utiliser le protocole https pour utiliser les URLs sécurisées en Admin.",custom,imaginaerum
 "Enter your code","Saisissez votre code",custom,imaginaerum
 "Estimated Total","Total Estimé",custom,imaginaerum
 "Excl. Tax:","HT:",custom,imaginaerum
 "Expiration date is invalid.","Date d'expiration invalide.",custom,imaginaerum
 "Expiration date is required.","Date d'expiration requise",custom,imaginaerum
 "Extensions","Extensions",custom,imaginaerum
+"Fax is too long.","Fax trop long.",custom,imaginaerum
 "File does not contain data.","Le fichier ne contient aucune donnée",custom,imaginaerum
 "File format is unknown","Format de fichier inconnu",custom,imaginaerum
 "File is valid, but import is not possible","Le fichier est valide, mais impossible de l'importer",custom,imaginaerum
+"File was not uploaded.","Le fichier n'a pas été uploadé.",custom,imaginaerum
 "Filters","Filtres",custom,imaginaerum
 "Find Partners & Extensions","Trouver des Partenaires & Extensions",custom,imaginaerum
 "Folder","Répertoire",custom,imaginaerum
@@ -75,15 +95,19 @@
 "Id is required","id requis",custom,imaginaerum
 "ID Path","ID Chemin",custom,imaginaerum
 "If empty, the Product Name will be used","Si vide, le nom du Produit sera utilisé",custom,imaginaerum
+"Image Management","Gestion des images",custom,imaginaerum
 "Import/Export Tax Rates","Importer/Exporter Taux de Taxes",custom,imaginaerum
 "Incl. Tax:","TTC:",custom,imaginaerum
+"Include in Navigation Menu","Inclure dans le menu de navigation",custom,imaginaerum
 "Include","Inclure",custom,imaginaerum
 "Ineligible","Inéligible",custom,imaginaerum
 "Interface Language","Langue de l'interface",custom,imaginaerum
 "Invoice #%1","Facture #%1",custom,imaginaerum
+"Is Anchor","Is Anchor",custom,imaginaerum
 "Item %1 of %2","Article %1 sur %2",custom,imaginaerum
 "items selected","articles sélectionnés",custom,imaginaerum
 "Last URL","Dernière URL",custom,imaginaerum
+"Layered Navigation Price Step","Tranche de prix dans la navigation par couche",custom,imaginaerum
 "Loading next step...","Chargement de l'étape suivante...",custom,imaginaerum
 "MB","Mo",custom,imaginaerum
 "Meta Title","Titre Meta",custom,imaginaerum
@@ -91,6 +115,7 @@
 "n/a","n/a",custom,imaginaerum
 "Name:","Nom:",custom,imaginaerum
 "New Address","Nouvelle Adresse",custom,imaginaerum
+"New order status","Nouveau statut de commande",custom,imaginaerum
 "New Product Template","Nouveau Gabarit Produit",custom,imaginaerum
 "Newsletter Template","Gabarits de Newsletter",custom,imaginaerum
 "Now Online","En Ligne",custom,imaginaerum
@@ -139,6 +164,7 @@
 "The block has been saved.","Bloc sauvegardé",custom,imaginaerum
 "The Date of Birth is required.","Date de naissance requise.",custom,imaginaerum
 "The first name cannot be empty.","Le prénom ne peut être vide",custom,imaginaerum
+"The gift message has been saved.","Message cadeau sauvegardé",custom,imaginaerum
 "The message cannot be empty.","Le message ne peut être vide.",custom,imaginaerum
 "The sitemap has been saved.","Sitemap Sauvegardé",custom,imaginaerum
 "The website has been saved.","Site Web Sauvegardé",custom,imaginaerum
@@ -156,6 +182,7 @@
 "Unit Price Incl. Tax","Prix Unitaire TTC",custom,imaginaerum
 "unverified","non vérifié",custom,imaginaerum
 "Update Items and Qty's","Mettre à jour les articles et les quantités",custom,imaginaerum
+"Use Parent Category Settings","Utiliser les réglages de la catégorie parente",custom,imaginaerum
 "User Content","Contenus des Utilisateurs",custom,imaginaerum
 "User Roles","Rôles Utilisateurs",custom,imaginaerum
 "Variation Label","Libellé Variation",custom,imaginaerum
