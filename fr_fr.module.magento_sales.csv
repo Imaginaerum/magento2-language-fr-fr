@@ -723,7 +723,7 @@
 "We refunded %1 online.","Remboursement de %1 en ligne.",module,Magento_Sales
 "We will authorize %1 after the payment is approved at the payment gateway.","Nous autoriserons %1 une fois que le paiement aura été approuvé par la passerelle de paiement.",module,Magento_Sales
 "Website","Site Web",module,Magento_Sales
-"Wish List","Liste d'enVies",module,Magento_Sales
+"Wish List","Liste d'envies",module,Magento_Sales
 "Yes","Oui",module,Magento_Sales
 "You assigned the order status.","Statut de commande assigné.",module,Magento_Sales
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Vous pouvez suivre le statut de votre commande en <a href=""%account_url"">vous connectant à votre compte</a>.",module,Magento_Sales
