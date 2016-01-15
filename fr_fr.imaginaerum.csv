@@ -33,6 +33,7 @@
 "Buy %1 for %2","Achetez en %1 pour %2",custom,imaginaerum
 "By Customers","Par Client",custom,imaginaerum
 "By Products","Par Produits",custom,imaginaerum
+"Cannot find required columns: %1","Impossible de trouver la colonne requise: %1",custom,imaginaerum
 "Capture Amount","Capture du Montant",custom,imaginaerum
 "Change Price","Changer le Prix",custom,imaginaerum
 "Click <a href=""%1"" onclick=""this.target='_blank'"">here to print</a> a copy of your order confirmation.","Cliquez <a href=""%1"" onclick=""this.target='_blank'"">ici pour imprimer</a> une copie de votre confirmation de commande.",custom,imaginaerum
@@ -73,6 +74,7 @@
 "Hello, %1!","Bonjour, %1!",custom,imaginaerum
 "Id is required","id requis",custom,imaginaerum
 "ID Path","ID Chemin",custom,imaginaerum
+"If empty, the Product Name will be used","Si vide, le nom du Produit sera utilisé",custom,imaginaerum
 "Import/Export Tax Rates","Importer/Exporter Taux de Taxes",custom,imaginaerum
 "Incl. Tax:","TTC:",custom,imaginaerum
 "Include","Inclure",custom,imaginaerum
