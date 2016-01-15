@@ -436,7 +436,7 @@
 "PayPal Fee Information","Renseignements sur les frais PayPal",module,Magento_Paypal
 "PayPal gateway has rejected request. %1","PayPal a rejeté la demande. %1",module,Magento_Paypal
 "PayPal Merchant Pages Style","PayPal marchand pages de style",module,Magento_Paypal
-"PayPal Payment Gateways","PayPal Payment Gateways",module,Magento_Paypal
+"PayPal Payment Gateways","Passerelles de paiement PayPal",module,Magento_Paypal
 "PayPal Payment Solutions","Solutions de paiement PayPal",module,Magento_Paypal
 "PayPal Product Logo","Logo du Produit PayPal",module,Magento_Paypal
 "PayPal Protection Bonus","bonus de protection PayPal",module,Magento_Paypal
