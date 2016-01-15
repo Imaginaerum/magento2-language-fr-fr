@@ -1,58 +1,92 @@
 """%1"" is not a valid file","""%1"" n'est pas un fichier valide",custom,imaginaerum
 "%","%",custom,imaginaerum
 "%s - %s","%s - %s",custom,imaginaerum
+"%s","%s",custom,imaginaerum
 "(ver. %1)","(ver. %1)",custom,imaginaerum
 "Access Denied","Accès refusé",custom,imaginaerum
+"Add New Widget Instance","Ajouter une nouvelle instance de Widget",custom,imaginaerum
 "Add Products By SKU","Ajhouter des Produits par SKU",custom,imaginaerum
 "Add to Wishlist","Ajouter à la liste d'envies",custom,imaginaerum
 "Additional Information","Informations Additionnelles",custom,imaginaerum
+"Address %1 of %2","Adresse %1 sur %2",custom,imaginaerum
+"Advanced Pricing","Gestion avancée des Prix",custom,imaginaerum
 "All Customers","Tous les Clients",custom,imaginaerum
 "All Stores","Tous les Magasins",custom,imaginaerum
 "All Users","Tous les utilisateurs",custom,imaginaerum
 "Apply Coupon","Appliquer le bon de réduction",custom,imaginaerum
+"Authorize.net","Authorize.net",custom,imaginaerum
 "B","B",custom,imaginaerum
+"Buy %1 for %2","Achetez en %1 pour %2",custom,imaginaerum
 "By Customers","Par Client",custom,imaginaerum
 "By Products","Par Produits",custom,imaginaerum
+"Change Price","Changer le Prix",custom,imaginaerum
+"CMS Block","Bloc CMS",custom,imaginaerum
 "Columns","Colonnes",custom,imaginaerum
+"Cost","Coût",custom,imaginaerum
 "Credit Cards","Carte Bancaire",custom,imaginaerum
 "Customer Addresses","Adresses Client",custom,imaginaerum
 "Data Transfer","Transfert de données",custom,imaginaerum
+"Date Of Birth","Date de naissance",custom,imaginaerum
+"DD","JJ",custom,imaginaerum
+"Edit Your Cart","Modifier votre panier",custom,imaginaerum
+"Enter your code","Saisissez votre code",custom,imaginaerum
 "Extensions","Extensions",custom,imaginaerum
 "File format is unknown","Format de fichier inconnu",custom,imaginaerum
 "Filters","Filtres",custom,imaginaerum
 "Find Partners & Extensions","Trouver des Partenaires & Extensions",custom,imaginaerum
 "Forgot Your Password","Mot de Passe oublié",custom,imaginaerum
+"Fulfilled","Rempli",custom,imaginaerum
 "GB","Go",custom,imaginaerum
 "GLOBAL","GLOBAL",custom,imaginaerum
 "Hello, %1!","Bonjour, %1!",custom,imaginaerum
+"Id is required","id requis",custom,imaginaerum
 "ID Path","ID Chemin",custom,imaginaerum
 "Import/Export Tax Rates","Importer/Exporter Taux de Taxes",custom,imaginaerum
 "Invoice #%1","Facture #%1",custom,imaginaerum
+"Last URL","Dernière URL",custom,imaginaerum
+"MB","Mo",custom,imaginaerum
+"Meta Title","Titre Meta",custom,imaginaerum
+"MM","MM",custom,imaginaerum
 "n/a","n/a",custom,imaginaerum
 "Name:","Nom:",custom,imaginaerum
+"New Address","Nouvelle Adresse",custom,imaginaerum
 "Now Online","En Ligne",custom,imaginaerum
 "or ","ou",custom,imaginaerum
 "Order Summary","Résumé de la Commande",custom,imaginaerum
 "PayPal Settlement","Règlement PayPal",custom,imaginaerum
+"Please enter your comments.","Veuillez saisir votre commentaire",custom,imaginaerum
+"Postal Code","Code Postal",custom,imaginaerum
 "Prefix","Prefixe",custom,imaginaerum
+"Processing...","En cours de traitement...",custom,imaginaerum
+"Product Templates","Gabarit Produit",custom,imaginaerum
 "Products in Cart","Produits dans les paniers",custom,imaginaerum
 "Region is invalid","Région invalide",custom,imaginaerum
 "Register","S'inscrire",custom,imaginaerum
+"See All (%1 unread)","Voir Tout (%1 non lu(s))",custom,imaginaerum
 "SEO & Search","SEO & Recherche",custom,imaginaerum
+"Short Description","Description Courte",custom,imaginaerum
 "Show / Hide Editor","Afficher / Masquer l'Éditeur",custom,imaginaerum
 "Simple Product","Produit Simple",custom,imaginaerum
+"Special Price From Date","Prix Spécial De",custom,imaginaerum
 "Special Price To Date","Prix Spécial Jusque",custom,imaginaerum
 "Symbol","symbole",custom,imaginaerum
+"TB","To",custom,imaginaerum
 "The first name cannot be empty.","Le prénom ne peut être vide",custom,imaginaerum
+"The website has been saved.","Site Web Sauvegardé",custom,imaginaerum
 "This account is locked.","Ce compte est bloqué",custom,imaginaerum
+"Tier Price","Prix Tiers",custom,imaginaerum
+"To Date","Jusqu'à",custom,imaginaerum
+"Token is invalid.","Jeton Invalide",custom,imaginaerum
 "Top 5 Search Terms","Top 5 Recherche",custom,imaginaerum
 "Total %1 records found","%1 enregistrements trouvés",custom,imaginaerum
 "Unable to send password reset email.","Impossible d'envoyer l'email de réinitialisation du mot de passe",custom,imaginaerum
 "unverified","non vérifié",custom,imaginaerum
 "User Content","Contenus des Utilisateurs",custom,imaginaerum
 "User Roles","Rôles Utilisateurs",custom,imaginaerum
+"VAT Number is Invalid","Numéro de TVA invalide",custom,imaginaerum
 "VAT Number is Valid","Le numéro de TVA est valide",custom,imaginaerum
 "verified","vérifié",custom,imaginaerum
 "Visible In","Visible dans",custom,imaginaerum
 "Visible on Frontend","Visible sur le frontend",custom,imaginaerum
 "Visitors Only","Visiteurs Seulement",custom,imaginaerum
+"YYYY","AAAA",custom,imaginaerum
