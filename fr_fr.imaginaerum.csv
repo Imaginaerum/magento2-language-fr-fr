@@ -1,9 +1,12 @@
 """%1"" is not a valid file","""%1"" n'est pas un fichier valide",custom,imaginaerum
+"--Please select--","--Veuillez choisir--",custom,imaginaerum
 "%1 RSS Feed","%1 Flux RSS",custom,imaginaerum
 "%","%",custom,imaginaerum
 "%s - %s","%s - %s",custom,imaginaerum
 "%s","%s",custom,imaginaerum
 "(ver. %1)","(ver. %1)",custom,imaginaerum
+"1 item in wish list","1 article dans la liste d'envies",custom,imaginaerum
+"255 by default","255 par défaut",custom,imaginaerum
 "Access Denied","Accès refusé",custom,imaginaerum
 "Add New Widget Instance","Ajouter une nouvelle instance de Widget",custom,imaginaerum
 "Add Products By SKU","Ajhouter des Produits par SKU",custom,imaginaerum
@@ -14,14 +17,20 @@
 "All Customers","Tous les Clients",custom,imaginaerum
 "All Stores","Tous les Magasins",custom,imaginaerum
 "All Users","Tous les utilisateurs",custom,imaginaerum
+"An error occurred while deleting the address.","Une erreur s'est produite lors de la suppression de l'adresse",custom,imaginaerum
 "Apply Coupon","Appliquer le bon de réduction",custom,imaginaerum
+"Attribute","Attribut",custom,imaginaerum
 "Authorize.net","Authorize.net",custom,imaginaerum
+"Autogenerate","Généré automatiquement",custom,imaginaerum
 "B","B",custom,imaginaerum
+"Bestseller","Meilleures Ventes",custom,imaginaerum
 "Buy %1 for %2","Achetez en %1 pour %2",custom,imaginaerum
 "By Customers","Par Client",custom,imaginaerum
 "By Products","Par Produits",custom,imaginaerum
+"Capture Amount","Capture du Montant",custom,imaginaerum
 "Change Price","Changer le Prix",custom,imaginaerum
 "Click <a href=""%1"" onclick=""this.target='_blank'"">here to print</a> a copy of your order confirmation.","Cliquez <a href=""%1"" onclick=""this.target='_blank'"">ici pour imprimer</a> une copie de votre confirmation de commande.",custom,imaginaerum
+"Click on image to zoom","Cliquez sur l'image pour zoomer",custom,imaginaerum
 "CMS Block","Bloc CMS",custom,imaginaerum
 "Columns","Colonnes",custom,imaginaerum
 "Copy to Wish List","Copier vers la liste d'envies",custom,imaginaerum
@@ -31,11 +40,18 @@
 "Data Transfer","Transfert de données",custom,imaginaerum
 "Date Of Birth","Date de naissance",custom,imaginaerum
 "DD","JJ",custom,imaginaerum
+"Decoding error: %1%2%3%4","Décodage de l'erreur: %1%2%3%4",custom,imaginaerum
+"Default View","Vue Par Défaut",custom,imaginaerum
 "Edit Your Cart","Modifier votre panier",custom,imaginaerum
+"Email Address","Adresse Email",custom,imaginaerum
 "Enter your code","Saisissez votre code",custom,imaginaerum
+"Estimated Total","Total Estimé",custom,imaginaerum
+"Excl. Tax:","HT:",custom,imaginaerum
+"Expiration date is required.","Date d'expiration requise",custom,imaginaerum
 "Extensions","Extensions",custom,imaginaerum
 "File does not contain data.","Le fichier ne contient aucune donnée",custom,imaginaerum
 "File format is unknown","Format de fichier inconnu",custom,imaginaerum
+"File is valid, but import is not possible","Le fichier est valide, mais impossible de l'importer",custom,imaginaerum
 "Filters","Filtres",custom,imaginaerum
 "Find Partners & Extensions","Trouver des Partenaires & Extensions",custom,imaginaerum
 "Forgot Your Password","Mot de Passe oublié",custom,imaginaerum
@@ -47,18 +63,26 @@
 "Id is required","id requis",custom,imaginaerum
 "ID Path","ID Chemin",custom,imaginaerum
 "Import/Export Tax Rates","Importer/Exporter Taux de Taxes",custom,imaginaerum
+"Incl. Tax:","TTC:",custom,imaginaerum
+"Include","Inclure",custom,imaginaerum
+"Ineligible","Inéligible",custom,imaginaerum
 "Interface Language","Langue de l'interface",custom,imaginaerum
 "Invoice #%1","Facture #%1",custom,imaginaerum
+"Item %1 of %2","Article %1 sur %2",custom,imaginaerum
+"items selected","articles sélectionnés",custom,imaginaerum
 "Last URL","Dernière URL",custom,imaginaerum
+"Loading next step...","Chargement de l'étape suivante...",custom,imaginaerum
 "MB","Mo",custom,imaginaerum
 "Meta Title","Titre Meta",custom,imaginaerum
 "MM","MM",custom,imaginaerum
 "n/a","n/a",custom,imaginaerum
 "Name:","Nom:",custom,imaginaerum
 "New Address","Nouvelle Adresse",custom,imaginaerum
+"New Product Template","Nouveau Gabarit Produit",custom,imaginaerum
 "Now Online","En Ligne",custom,imaginaerum
 "Number of wish lists: %1","Nombre de listes d'envies: %1",custom,imaginaerum
 "or ","ou",custom,imaginaerum
+"Order #%1 (%2)","Commande #%1 (%2)",custom,imaginaerum
 "Order Count","Nombre de Commande",custom,imaginaerum
 "Order Summary","Résumé de la Commande",custom,imaginaerum
 "PayPal Settlement","Règlement PayPal",custom,imaginaerum
@@ -68,23 +92,32 @@
 "Processing...","En cours de traitement...",custom,imaginaerum
 "Product Templates","Gabarit Produit",custom,imaginaerum
 "Products in Cart","Produits dans les paniers",custom,imaginaerum
+"Qty:","Qté:",custom,imaginaerum
+"Rating:","Note:",custom,imaginaerum
 "Read details","Voir les détails",custom,imaginaerum
 "Region is invalid","Région invalide",custom,imaginaerum
 "Register","S'inscrire",custom,imaginaerum
+"Remove Email","Supprimer l'Email",custom,imaginaerum
+"Search Type","Type de Recherche",custom,imaginaerum
 "See All (%1 unread)","Voir Tout (%1 non lu(s))",custom,imaginaerum
+"Send From","Envoyé Par",custom,imaginaerum
 "Sender:","Expéditeur:",custom,imaginaerum
 "SEO & Search","SEO & Recherche",custom,imaginaerum
 "Share Wishlist","Partager ma liste d'envies",custom,imaginaerum
+"Shopping Cart Price Rule","Régle de prix panier",custom,imaginaerum
 "Shopping Cart Price Rules","Règles de Prix Panier",custom,imaginaerum
 "Short Description","Description Courte",custom,imaginaerum
 "Show / Hide Editor","Afficher / Masquer l'Éditeur",custom,imaginaerum
 "Simple Product","Produit Simple",custom,imaginaerum
 "Special Price From Date","Prix Spécial De",custom,imaginaerum
 "Special Price To Date","Prix Spécial Jusque",custom,imaginaerum
+"Suffix","Suffixe",custom,imaginaerum
 "Symbol","symbole",custom,imaginaerum
 "TB","To",custom,imaginaerum
 "The block has been saved.","Bloc sauvegardé",custom,imaginaerum
+"The Date of Birth is required.","Date de naissance requise.",custom,imaginaerum
 "The first name cannot be empty.","Le prénom ne peut être vide",custom,imaginaerum
+"The message cannot be empty.","Le message ne peut être vide.",custom,imaginaerum
 "The sitemap has been saved.","Sitemap Sauvegardé",custom,imaginaerum
 "The website has been saved.","Site Web Sauvegardé",custom,imaginaerum
 "This account is locked.","Ce compte est bloqué",custom,imaginaerum
@@ -99,10 +132,17 @@
 "Update Items and Qty's","Mettre à jour les articles et les quantités",custom,imaginaerum
 "User Content","Contenus des Utilisateurs",custom,imaginaerum
 "User Roles","Rôles Utilisateurs",custom,imaginaerum
+"Variation Label","Libellé Variation",custom,imaginaerum
 "VAT Number is Invalid","Numéro de TVA invalide",custom,imaginaerum
 "VAT Number is Valid","Le numéro de TVA est valide",custom,imaginaerum
 "verified","vérifié",custom,imaginaerum
+"Viewed","Vu",custom,imaginaerum
 "Visible In","Visible dans",custom,imaginaerum
 "Visible on Frontend","Visible sur le frontend",custom,imaginaerum
 "Visitors Only","Visiteurs Seulement",custom,imaginaerum
+"We can't update wish list.","Impossible de mettre à jour la liste d'envies.",custom,imaginaerum
+"Wishlist","Liste d'envies",custom,imaginaerum
+"Your Rating:","Votre Note:",custom,imaginaerum
+"Your search returns no results.","Aucun résultat pour votre recherche.",custom,imaginaerum
+"YouTube API key","Clé API YouTube",custom,imaginaerum
 "YYYY","AAAA",custom,imaginaerum
