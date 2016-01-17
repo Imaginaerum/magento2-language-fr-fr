@@ -1,8 +1,10 @@
 """%1"" is not a valid file","""%1"" n'est pas un fichier valide",custom,imaginaerum
 "--Please select--","--Veuillez choisir--",custom,imaginaerum
+"'%value%' appears to be an IP address, but IP addresses are not allowed.","'%value%' semble être une adresse IP, mais les adresses IP ne sont pas autorisées.",custom,imaginaerum
 "%1 has been updated in your wish list.","%1 mis à jour dans votre liste d'envies.",custom,imaginaerum
 "%1 RSS Feed","%1 Flux RSS",custom,imaginaerum
 "%","%",custom,imaginaerum
+"© 2015 Magento Demo Store. All Rights Reserved.","© 2015 Magento Demo Store. Tous droits réservés.",custom,imaginaerum
 "%name% '%value%' is too long. It must has length %min% symbols.","%name% '%value%' est trop long. Il doit avoir maximum %min% symboles.",custom,imaginaerum
 "%name% '%value%' is too short. It must has length %min% symbols.","%name% '%value%' est trop court. Il doit avoir minimum %min% symboles.",custom,imaginaerum
 "[New/Edit] URL Rewrite","[Ajouter/Éditer] Une Réécriture d'URL",custom,imaginaerum
@@ -150,6 +152,7 @@
 "Communications","Communications",custom,imaginaerum
 "Conditions (leave blank for all products)","Conditions (laisser vide pour appliquer à tous les produits)",custom,imaginaerum
 "Configurable Product Settings","Paramètres produit configurable",custom,imaginaerum
+"Confirm your new password","Confirmer le nouveau mot de passe",custom,imaginaerum
 "Continue to Review Your Order","Poursuivre pour vérifier votre commande",custom,imaginaerum
 "Continue to Shipping Information","Poursuivre vers les informations de livraison",custom,imaginaerum
 "Copy to Wish List","Copier vers la liste d'envies",custom,imaginaerum
@@ -195,6 +198,7 @@
 "Edit item","Éditer l'article",custom,imaginaerum
 "Edit Set Name","Éditer le nom du jeu d'attributs",custom,imaginaerum
 "Edit Your Cart","Modifiez votre panier",custom,imaginaerum
+"Eligible","Eligible",custom,imaginaerum
 "Email Address:","Adresse mail :",custom,imaginaerum
 "Email address can't be empty.","L'adresse email ne peut pas être vide.",custom,imaginaerum
 "Email Address","Adresse mail",custom,imaginaerum
@@ -213,6 +217,7 @@
 "Estimated Total","Total Estimé",custom,imaginaerum
 "Exact Match. Address and nine-digit ZIP code","Correspondance exacte. Adresse et code postal à neuf chiffres",custom,imaginaerum
 "example: ""sitemap/"" or ""/"" for base path (path must be writeable)","exemple: ""sitemap/"" ou ""/"" pour le chemin de base (le chemin doit être accessible en écriture)",custom,imaginaerum
+"Example: 0.0.0.1 or 123.1.0.25-alpha1","Exemple: 0.0.0.1 ou 123.1.0.25-alpha1",custom,imaginaerum
 "Exceptions Log File Name","Nom du fichier de log d'exceptions",custom,imaginaerum
 "Excl. Tax:","HT :",custom,imaginaerum
 "Expiration date is invalid.","Date d'expiration invalide.",custom,imaginaerum
@@ -287,6 +292,7 @@
 "kB","Ko",custom,imaginaerum
 "Last 5 Orders","5 dernières commandes",custom,imaginaerum
 "Last 5 Search Terms","5 derniers termes recherchés",custom,imaginaerum
+"Last name is too long.","Le prénom est trop long.",custom,imaginaerum
 "Last URL","Dernière URL",custom,imaginaerum
 "Layered Navigation Price Step","Tranche de prix dans la navigation par couche",custom,imaginaerum
 "Loading next step...","Chargement en cours de l'étape suivante...",custom,imaginaerum
@@ -300,6 +306,7 @@
 "Magento Admin","Admin Magento",custom,imaginaerum
 "Magento ver. %1","Magento ver. %1",custom,imaginaerum
 "Match Period To","Faire correspondre la période à",custom,imaginaerum
+"Maximum 255 chars","255 caractères minimum",custom,imaginaerum
 "Maximum Query Words Count","Nombre maxi de mots dans la requête",custom,imaginaerum
 "MB","Mo",custom,imaginaerum
 "Merchant Liability","Responsabilité du marchand",custom,imaginaerum
@@ -317,12 +324,14 @@
 "New password field cannot be empty.","Le champ de nouveau mot de passe ne peut pas être vide.",custom,imaginaerum
 "New Product Template","Nouveau Gabarit Produit",custom,imaginaerum
 "Newsletter Template","Gabarits de Newsletter",custom,imaginaerum
+"No confirmation","Aucune confirmation",custom,imaginaerum
 "No items were found using the following search criteria.","Aucun résultat pour ces critères de recherche.",custom,imaginaerum
 "No Liability Shift","Absence de responsabilité",custom,imaginaerum
 "Not supported cipher version","Version de cipher non supportée",custom,imaginaerum
 "Notification","Notification",custom,imaginaerum
 "Now Online","En Ligne",custom,imaginaerum
 "Number of wish lists: %1","Nombre de listes d'envies: %1",custom,imaginaerum
+"Operations","Operations",custom,imaginaerum
 "or ","ou",custom,imaginaerum
 "Order #%1 (%2)","Commande #%1 (%2)",custom,imaginaerum
 "Order Count","Nombre de Commande",custom,imaginaerum
@@ -356,6 +365,7 @@
 "Please enter a valid URL Key. For example ""example-page"", ""example-page.html"" or ""anotherlevel/example-page"".","Veuillez saisir une URL valide. Par exemple ""page-exemple"", ""page-exemple.html"" ou ""niveau/page-exemple"".",custom,imaginaerum
 "Please enter a valid XML-identifier. For example something_1, block5, id-4.","Veuillez saisir un identifiant XML valide. Par exemple, quelquechose_1, bloc5, id-4.",custom,imaginaerum
 "Please enter a valid zip code. For example 90602 or 90602-1234.","Veuillez saisir un code postal valide. Par exemple 92100.",custom,imaginaerum
+"Please enter new template name.","Saisissez un nom de gabarit.",custom,imaginaerum
 "Please enter search conditions to view products.","Veuillez entrer des conditions de recherche pour voir des produits.",custom,imaginaerum
 "Please enter the telephone number.","Veuillez renseigner le numéro de téléphone.",custom,imaginaerum
 "Please enter your comments.","Veuillez saisir votre commentaire",custom,imaginaerum
@@ -388,6 +398,7 @@
 "Posted By","Posté par",custom,imaginaerum
 "Preapproved Payment (BillUser API), either sent or received","Paiement pré-approuvés (BillUser API), envoyé ou reçu des",custom,imaginaerum
 "Prefix","Préfixe",custom,imaginaerum
+"Price is an invalid format.","Format prix invalide.",custom,imaginaerum
 "Processed Amount","Montant traité",custom,imaginaerum
 "Processing...","En cours de traitement...",custom,imaginaerum
 "Product Templates","Gabarit Produit",custom,imaginaerum
@@ -470,6 +481,8 @@
 "Summary Text for Aggregated Cart","Texte récapitulatif sur les paniers validés",custom,imaginaerum
 "Symbol","Symbole",custom,imaginaerum
 "System Log File Name","Nom de fichier de logs système",custom,imaginaerum
+"Tax amount is an invalid format.","Le montant de la taxe est dans un format invalide.",custom,imaginaerum
+"Tax/VAT Number","Numéro de TVA",custom,imaginaerum
 "TB","To",custom,imaginaerum
 "Telephone","Téléphone",custom,imaginaerum
 "Template Path Hints","Astuce chemin des gabarits",custom,imaginaerum
@@ -587,6 +600,7 @@
 "User Name:","Nom d'utilisateur :",custom,imaginaerum
 "User Roles","Rôles utilisateurs",custom,imaginaerum
 "Uses store frontend name by default.","Utiliser le nom du magasin par défaut.",custom,imaginaerum
+"UTF-8 is the only supported charset.","Seul UTF-8 est supporté",custom,imaginaerum
 "Variation Label","Libellé Variation",custom,imaginaerum
 "Variations","Variations",custom,imaginaerum
 "VAT Number is Invalid","Le numéro de TVA est invalide",custom,imaginaerum
@@ -602,6 +616,7 @@
 "Void action is not available.","L'action 'annuler' n'est pas disponible.",custom,imaginaerum
 "Warning!","Attention!",custom,imaginaerum
 "We can't update wish list.","Impossible de mettre à jour la liste d'envies.",custom,imaginaerum
+"We cannot detect a size.","Détection de taille impossible.",custom,imaginaerum
 "We cannot upload the file.","Upload du fichier impossible.",custom,imaginaerum
 "Website code may only contain letters (a-z), numbers (0-9) or underscore(_), the first character must be a letter","Le code de site web ne doit contenir que des lettres (a-z), des chiffres (0-9) ou underscore (_). Le premier caractère doit être une lettre.",custom,imaginaerum
 "Website is not specified","Site web non spécifié",custom,imaginaerum
@@ -620,6 +635,7 @@
 "You are now logged out","Vous vous êtes déconnecté(e).",custom,imaginaerum
 "You are receiving this notification because you subscribed to receive alerts when the following products are back in stock:","Vous recevez cette alerte car vous avez demandé à être alerté quand les produits suivants sont de nouveau disponibles :",custom,imaginaerum
 "You are receiving this notification because you subscribed to receive alerts when the prices for the following products changed:","Vous recevez cette alerte car vous avez demandé à être alerté quand les produits suivants sont modifiés :",custom,imaginaerum
+"You can buy this product only in increments of %1.","Vous ne pouvez acheter ce produit que par quantité de %1.",custom,imaginaerum
 "You can leave this box blank if you do not wish to add a gift message for the item.","Laissez vide si vous ne souhaitez pas ajouter de message cadeau pour l'article.",custom,imaginaerum
 "You can leave this box blank if you do not wish to add a gift message for this address.","Laissez vide si vous ne souhaitez pas ajouter de message cadeau pour cette adresse.",custom,imaginaerum
 "You have been unsubscribed.","Vous n'êtes plus inscrit(e) à la newsletter.",custom,imaginaerum
