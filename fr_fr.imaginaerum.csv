@@ -15,6 +15,7 @@
 "1 item in wish list","1 article dans la liste d'envies",custom,imaginaerum
 "3D Secure Card Validation","Validation carte 3D Secure",custom,imaginaerum
 "3D Secure","3D Secure",custom,imaginaerum
+"10 by default. Max - 10000","10 par défaut. Maximum - 10000",custom,imaginaerum
 "255 by default","255 par défaut",custom,imaginaerum
 "A category object is required for determining the product request path.","Un objet catégorie est obligatoire pour déterminer le chemin de requête du produit.",custom,imaginaerum
 "A page URL key for specified store already exists.","Il existe déjà un e clé d'URL de page pour la boutique sélectionnée.",custom,imaginaerum
@@ -84,6 +85,7 @@
 "Are you sure you want to proceed?","Voulez-vous vraiment continuer ?",custom,imaginaerum
 "Are you sure you want to refresh lifetime statistics? There can be performance impact during this operation.","Êtes-vous sûr(e) de vouloir rafraîchir les statistiques en temps réel ? Cela peut impacter les performances pendant la durée du rafraichissement.",custom,imaginaerum
 "Are you sure you want to remove this product from your wishlist?","Êtes-vous sûr(e) de vouloir enlever ce produit de votre liste d'envies ?",custom,imaginaerum
+"Are you sure you want to send an Invoice email to customer?","Êtes-vous sur(e) de vouloir envoyer la facture au client par email ?",custom,imaginaerum
 "Are you sure you would like to remove all products from your comparison?","Êtes-vous sûr(e) de vouloir enlever tous les produits de la comparaison ?",custom,imaginaerum
 "Are you sure you would like to remove this item from the compare products?","Êtes-vous sûr(e) de vouloir enlever cet article de la comparaison ?",custom,imaginaerum
 "Are you sure you would like to remove this item from the shopping cart?","Êtes-vous sûr(e) de vouloir retirer cet article du panier ?",custom,imaginaerum
@@ -93,6 +95,7 @@
 "Attempted Authentication, Bad Result","Tentative d'authentification. Mauvais résultat",custom,imaginaerum
 "Attempted Authentication, Good Result","Tentative d'authentification. Bon résultat",custom,imaginaerum
 "Attribute '%1' is locked. ","L'attribut '%1' est verrouillé.",custom,imaginaerum
+"Attribute Set with name '%1' already exists.","Un jeu d'attributs avec le nom '%1' existe déjà.",custom,imaginaerum
 "Attribute","Attribut",custom,imaginaerum
 "Authenticated, Bad Result","Authentifié. Mauvais résultat",custom,imaginaerum
 "Authenticated, Good Result","Authentifié. Bon résultat",custom,imaginaerum
@@ -198,6 +201,7 @@
 "Edit item","Éditer l'article",custom,imaginaerum
 "Edit Set Name","Éditer le nom du jeu d'attributs",custom,imaginaerum
 "Edit Your Cart","Modifiez votre panier",custom,imaginaerum
+"Elements","Éléments",custom,imaginaerum
 "Eligible","Eligible",custom,imaginaerum
 "Email Address:","Adresse mail :",custom,imaginaerum
 "Email address can't be empty.","L'adresse email ne peut pas être vide.",custom,imaginaerum
@@ -269,12 +273,14 @@
 "If empty, a default value will be used. Custom URL may be provided by CardinalCommerce agreement.","Si ce champ est vide, la valeur par défaut sera utilisée. Une URL personnalisée peut être fournie par un accord CardinalCommerce.",custom,imaginaerum
 "If empty, the Category Name will be used","Si vide, le nom de la catégorie sera utilisé",custom,imaginaerum
 "If empty, the Product Name will be used","Si vide, le nom du produit sera utilisé",custom,imaginaerum
+"If you can’t explain it simply, you don’t understand it very well.","Si vous ne pouvez pas l’expliquer simplement, c’est que vous ne l’avez pas suffisamment bien compris.",custom,imaginaerum
 "Image Management","Gestion des images",custom,imaginaerum
 "Import/Export Tax Rates","Importer/Exporter Taux de Taxes",custom,imaginaerum
 "Incl. Tax:","TTC :",custom,imaginaerum
 "Include in Navigation Menu","Inclure dans le menu de navigation",custom,imaginaerum
 "Include Tax In Grand Total","TTC dans le total",custom,imaginaerum
 "Include","Inclure",custom,imaginaerum
+"Inconsistent start date","Date de début incompatible",custom,imaginaerum
 "Incorrect credit card expiration date.","Mauvaise date d'expiration de carte de crédit.",custom,imaginaerum
 "Index product attributes for layered navigation building","Index des attributs produit pour la navigation par filtres",custom,imaginaerum
 "Index Product Stock Status","Indexer les statuts de stock de produit",custom,imaginaerum
@@ -327,6 +333,7 @@
 "No confirmation","Aucune confirmation",custom,imaginaerum
 "No items were found using the following search criteria.","Aucun résultat pour ces critères de recherche.",custom,imaginaerum
 "No Liability Shift","Absence de responsabilité",custom,imaginaerum
+"No wishlist item ID is defined.","Aucun ID d'article de la liste d'envies défini.",custom,imaginaerum
 "Not supported cipher version","Version de cipher non supportée",custom,imaginaerum
 "Notification","Notification",custom,imaginaerum
 "Now Online","En Ligne",custom,imaginaerum
@@ -495,6 +502,7 @@
 "The block has been saved.","Le bloc a bien été enregistré.",custom,imaginaerum
 "The Comment Text field cannot be empty.","Le champ texte du commentaire ne peut pas être vide.",custom,imaginaerum
 "The condition has been saved.","La condition a été sauvegardée.",custom,imaginaerum
+"The coupon code ""%1"" was applied.","Le code de réduction "%1" a été appliqué.",custom,imaginaerum
 "the credit memo email is not sent","l'email n'a pas été envoyé",custom,imaginaerum
 "The customer group has been deleted.","Le groupe clients a été supprimé.",custom,imaginaerum
 "The customer group has been saved.","Le groupe clients a été sauvegardé.",custom,imaginaerum
@@ -518,6 +526,7 @@
 "The page has been saved.","La page a bien été enregistrée.",custom,imaginaerum
 "The payment eCheck is not yet cleared.","Le chèque électronique de paiement n'est pas encore effacée.",custom,imaginaerum
 "The product attribute has been deleted.","L'attribut de produit a été effacé.",custom,imaginaerum
+"The review summary field can't be empty.","Le résumé de l'avis ne peut être vide.",custom,imaginaerum
 "The rule has been deleted.","La règle a été supprimée.",custom,imaginaerum
 "The rule has been saved.","La règle a été sauvegardée.",custom,imaginaerum
 "The rules have been applied.","Les règles ont bien été appliquées.",custom,imaginaerum
@@ -617,6 +626,7 @@
 "Warning!","Attention!",custom,imaginaerum
 "We can't update wish list.","Impossible de mettre à jour la liste d'envies.",custom,imaginaerum
 "We cannot detect a size.","Détection de taille impossible.",custom,imaginaerum
+"We cannot retrieve the wish list.","Impossible de retrouver la liste d'envies.",custom,imaginaerum
 "We cannot upload the file.","Upload du fichier impossible.",custom,imaginaerum
 "Website code may only contain letters (a-z), numbers (0-9) or underscore(_), the first character must be a letter","Le code de site web ne doit contenir que des lettres (a-z), des chiffres (0-9) ou underscore (_). Le premier caractère doit être une lettre.",custom,imaginaerum
 "Website is not specified","Site web non spécifié",custom,imaginaerum
@@ -655,6 +665,7 @@
 "Your order number is ","Votre numéro de commande est ",custom,imaginaerum
 "Your password has been updated.","Votre mot de passe a été mis à jour.",custom,imaginaerum
 "Your Rating:","Votre note :",custom,imaginaerum
+"Your Review (submitted on %1):","Votre avis (soumis sur %1):",custom,imaginaerum
 "Your review has been accepted for moderation.","Votre commentaire a été accepté pour modération.",custom,imaginaerum
 "Your search returns no results.","Aucun résultat pour votre recherche.",custom,imaginaerum
 "Your web server is configured incorrectly. As a result, configuration files with sensitive information are accessible from the outside. Please contact your hosting provider.","Votre serveur web est mal configuré. Les fichiers de configuration comportant des informations sensibles sont accessibles de l'extérieur. Consultez votre hébergeur.",custom,imaginaerum
