@@ -313,6 +313,7 @@
 "Order Created Date","Date de création de commande",custom,imaginaerum
 "Order Summary","Résumé de la Commande",custom,imaginaerum
 "Order Updated Date","Date de mise à jour de commande",custom,imaginaerum
+"Our bodies are our gardens - our wills are our gardeners.","Le personnage que nous sommes, c'est un jardin, et notre volonté le cultive.",custom,imaginaerum
 "Payer is not identified.","Payeur non identifié",custom,imaginaerum
 "Payment method is not defined","Le mode de paiement n'est pas défini",custom,imaginaerum
 "Payment updating error.","Erreur lors de la mise à jour de paiement.",custom,imaginaerum
@@ -392,6 +393,7 @@
 "Regular Price:","Prix normal :",custom,imaginaerum
 "Remaining Balance","Solde restant",custom,imaginaerum
 "Remove Email","Supprimer email",custom,imaginaerum
+"Remove Image","Supprimer l'image",custom,imaginaerum
 "Replace Existing Complex Data","Remplacer les données complexes existantes",custom,imaginaerum
 "Save Attribute Set","Sauvegarder le jeu d'attributs",custom,imaginaerum
 "save","économisez",custom,imaginaerum
