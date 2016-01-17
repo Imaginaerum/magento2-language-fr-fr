@@ -19,6 +19,7 @@
 "255 by default","255 par défaut",custom,imaginaerum
 "A category object is required for determining the product request path.","Un objet catégorie est obligatoire pour déterminer le chemin de requête du produit.",custom,imaginaerum
 "A page URL key for specified store already exists.","Il existe déjà un e clé d'URL de page pour la boutique sélectionnée.",custom,imaginaerum
+"A problem was encountered trying to change password.","Problème rencontré lors du changement de mot de passe.",custom,imaginaerum
 "A value is required for live mode. Refer to your CardinalCommerce agreement.","Une valeur est exigée pour le mode en direct. Référez-vous à votre accord cardinal de commerce.",custom,imaginaerum
 "Access denied.","Accès refusé.",custom,imaginaerum
 "Access Denied","Accès refusé",custom,imaginaerum
@@ -160,6 +161,7 @@
 "Continue to Shipping Information","Poursuivre vers les informations de livraison",custom,imaginaerum
 "Copy to Wish List","Copier vers la liste d'envies",custom,imaginaerum
 "Cost","Coût",custom,imaginaerum
+"Could not rebuild index for undefined product","Impossible de reconstruire l'index d'un produit non défini",custom,imaginaerum
 "Country of Manufacture","Pays de fabrication",custom,imaginaerum
 "Create Empty","Créer vide",custom,imaginaerum
 "Create New Wish List","Créer une liste d'envies",custom,imaginaerum
@@ -167,6 +169,7 @@
 "Credit card number does not match credit card type.","Le numéro de carte ne correspond pas au type de carte.",custom,imaginaerum
 "Credit card number mismatch with credit card type.","Le numéro de carte bancaire ne correspond pas au type de carte bancaire.",custom,imaginaerum
 "Credit card successfully updated","Carte Bancaire mise à jour",custom,imaginaerum
+"Credit card token is taken.","Carte Bancaire prise en compte",custom,imaginaerum
 "Credit Cards","Carte Bancaire",custom,imaginaerum
 "Credit memo's total must be positive.","Le total de l'avoir doit être positif",custom,imaginaerum
 "Current module EAV entity is undefined","Le module d'entités EAV actuel n'est pas défini",custom,imaginaerum
@@ -217,6 +220,7 @@
 "Enter your code","Saisissez votre code",custom,imaginaerum
 "Enter your destination to get a shipping estimate.","Choisissez votre destination pour estimer les frais de port",custom,imaginaerum
 "Entity instance is not defined","L'instance d'entité n'est pas définie",custom,imaginaerum
+"Entity type model must be an instance of ' 'Magento\CatalogImportExport\Model\Import\Product\Type\AbstractType","Le modéle de l'entité doit être une instance de Magento\CatalogImportExport\Model\Import\Product\Type\AbstractType",custom,imaginaerum
 "Error: unknown error.","Erreur inconnue.",custom,imaginaerum
 "Estimated Total","Total Estimé",custom,imaginaerum
 "Exact Match. Address and nine-digit ZIP code","Correspondance exacte. Adresse et code postal à neuf chiffres",custom,imaginaerum
@@ -226,6 +230,7 @@
 "Excl. Tax:","HT :",custom,imaginaerum
 "Expiration date is invalid.","Date d'expiration invalide.",custom,imaginaerum
 "Expiration date is required.","Date d'expiration requise",custom,imaginaerum
+"Expiration month is invalid.","Le mois d'expiration est invalide.",custom,imaginaerum
 "Extensions","Extensions",custom,imaginaerum
 "Failed to rollback","Erreur lors du retour arrière (rollback)",custom,imaginaerum
 "Failed to validate FTP","Erreur lors de la validation du FTP",custom,imaginaerum
@@ -276,6 +281,7 @@
 "If you can’t explain it simply, you don’t understand it very well.","Si vous ne pouvez pas l’expliquer simplement, c’est que vous ne l’avez pas suffisamment bien compris.",custom,imaginaerum
 "Image Management","Gestion des images",custom,imaginaerum
 "Import/Export Tax Rates","Importer/Exporter Taux de Taxes",custom,imaginaerum
+"Import has been done successfuly.","Import réalisé avec succès.",custom,imaginaerum
 "Incl. Tax:","TTC :",custom,imaginaerum
 "Include in Navigation Menu","Inclure dans le menu de navigation",custom,imaginaerum
 "Include Tax In Grand Total","TTC dans le total",custom,imaginaerum
@@ -286,6 +292,7 @@
 "Index Product Stock Status","Indexer les statuts de stock de produit",custom,imaginaerum
 "Ineligible","Inéligible",custom,imaginaerum
 "Interface Language","Langage de l'interface",custom,imaginaerum
+"Invalid Address Data provided","Données d'adresse invalide.",custom,imaginaerum
 "Invalid discount amount.","Montant de remise invalide.",custom,imaginaerum
 "Invalid password reset token.","Jeton de réinitialisation de mot de passe invalide.",custom,imaginaerum
 "Invoice #%1","Facture #%1",custom,imaginaerum
@@ -337,6 +344,7 @@
 "Not supported cipher version","Version de cipher non supportée",custom,imaginaerum
 "Notification","Notification",custom,imaginaerum
 "Now Online","En Ligne",custom,imaginaerum
+"Number of wish list conversions: %1","Nombre de conversions de la liste d'envies: %1",custom,imaginaerum
 "Number of wish lists: %1","Nombre de listes d'envies: %1",custom,imaginaerum
 "Operations","Operations",custom,imaginaerum
 "or ","ou",custom,imaginaerum
@@ -351,6 +359,7 @@
 "Payer is not identified.","Payeur non identifié",custom,imaginaerum
 "Payment method is not defined","Le mode de paiement n'est pas défini",custom,imaginaerum
 "Payment updating error.","Erreur lors de la mise à jour de paiement.",custom,imaginaerum
+"PayPal gateway rejected the request. %1","La passerelle PayPal à rejeté la requête. %1 ",custom,imaginaerum
 "PayPal Settlement","Règlement PayPal",custom,imaginaerum
 "Please, check your email for confirmation key.","Consultez vos emails pour obtenir la clé de confirmation.",custom,imaginaerum
 "Please agree to all Terms and Conditions before placing the orders.","Veuillez accepter les conditions générales de ventes avant de valider les commandes.",custom,imaginaerum
@@ -487,9 +496,11 @@
 "Summary of Your Review","Résumé de votre commentaire",custom,imaginaerum
 "Summary Text for Aggregated Cart","Texte récapitulatif sur les paniers validés",custom,imaginaerum
 "Symbol","Symbole",custom,imaginaerum
+"System doesn't allow to get file upload settings","Le système ne permet pas d'obtenir les paramètres d'upload du fichier",custom,imaginaerum
 "System Log File Name","Nom de fichier de logs système",custom,imaginaerum
 "Tax amount is an invalid format.","Le montant de la taxe est dans un format invalide.",custom,imaginaerum
 "Tax/VAT Number","Numéro de TVA",custom,imaginaerum
+"Taxes","Taxes",custom,imaginaerum
 "TB","To",custom,imaginaerum
 "Telephone","Téléphone",custom,imaginaerum
 "Template Path Hints","Astuce chemin des gabarits",custom,imaginaerum
@@ -552,6 +563,7 @@
 "There are no items in customer's wishlist at the moment","Aucun article dans la liste d'envies du client",custom,imaginaerum
 "There are no products matching the selection.","Aucun produit ne correspond à la sélection",custom,imaginaerum
 "There are rules that have been changed but were not applied. Please, click Apply Rules in order to see immediate effect in the catalog.","Certaines règles ont changé mais n'ont pas pu être appliquées. Cliquez sur 'Appliquer les règles' afin d'en voir le résultat immédiat.",custom,imaginaerum
+"There is already a registered customer using this email address. Please log in using this email address or enter a different email address to register your account.","Il existe déjà un client avec cette adresse email. Veuillez vous connecter avec cette adresse email ou saisir une adresse email différente pour créer votre compte .",custom,imaginaerum
 "There is no need to deny this payment.","Il n'est pas nécessaire de refuser ce paiement.",custom,imaginaerum
 "There was an error canceling transactions. Please contact us or try again later.","Erreur lors de l'annulation de transactions. Veuillez nous contacter ou réessayez ultérieurement.",custom,imaginaerum
 "There was an error validating the VAT ID.","Erreur lors de la validation du numéro de TVA.",custom,imaginaerum
