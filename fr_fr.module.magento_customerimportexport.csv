@@ -7,8 +7,8 @@
 "Please enter a valid email.","Veuillez saisir une adresse email valide.",module,Magento_CustomerImportExport
 "Please enter a valid region.","Veuillez renseigner une région valide.",module,Magento_CustomerImportExport
 "Please make sure attribute ""%s"" is not empty.","Veuillez vérifier que l'attribut ""%s"" n'est pas vide.",module,Magento_CustomerImportExport
-"Please specify a website.","Veuillez spécifier un site web.",module,Magento_CustomerImportExport
 "Please specify an email.","Veuillez spécifier un email.",module,Magento_CustomerImportExport
+"Please specify a website.","Veuillez spécifier un site web.",module,Magento_CustomerImportExport
 "This email is found more than once in the import file.","Cette adrresse email est présente plusieurs fois dans le fichier d'import.",module,Magento_CustomerImportExport
 "We can't find a customer who matches this email and website code.","Aucun client trouvé avec cette combinaison email et site web",module,Magento_CustomerImportExport
 "We can't find that customer address.","Adresse client introuvable.",module,Magento_CustomerImportExport

@@ -1,4 +1,3 @@
-"%name,","%name,",module,Magento_ProductAlert
 "Alert Email Sender","Expéditeur du mail d'alerte",module,Magento_ProductAlert
 "Alert subscription has been saved.","L'inscription à l'alerte a été sauvegardée.",module,Magento_ProductAlert
 "Allow Alert When Product Comes Back in Stock","Autoriser l'alerte de disponibilité de produit.",module,Magento_ProductAlert
@@ -11,12 +10,13 @@
 "Frequency","Fréquence",module,Magento_ProductAlert
 "In stock alert! We wanted you to know that these products are now available:","Produits en stock! Nous vous informons que les produits suivants sont à nouveau en stock:",module,Magento_ProductAlert
 "Invalid block type: %1","Type de bloc invalide: %1",module,Magento_ProductAlert
+"%name,","%name,",module,Magento_ProductAlert
 "Price:","Prix:",module,Magento_ProductAlert
 "Price Alert Email Template","Gabarit du mail d'alerte de changement de prix",module,Magento_ProductAlert
 "Price change alert! We wanted you to know that prices have changed for these products:","Changement de prix ! Nous vous informons du changement de prix pour nos produits:",module,Magento_ProductAlert
+"Product Alerts","Alertes du produit",module,Magento_ProductAlert
 "Product alerts cron warnings","Avertissements pour le CRON des alertes produits",module,Magento_ProductAlert
 "Product Alerts Run Settings","Paramétrage d'exécution des alertes de produit",module,Magento_ProductAlert
-"Product Alerts","Alertes du produit",module,Magento_ProductAlert
 "Sign up for price alert","Enregistrez-vous pour recevoir une alerte de modification de prix",module,Magento_ProductAlert
 "Sign up to be notified when this product is back in stock.","Inscrivez-vous pour être averti(e) lorsque le produit sera de nouveau en stock.",module,Magento_ProductAlert
 "Start Time","Heure de Début",module,Magento_ProductAlert

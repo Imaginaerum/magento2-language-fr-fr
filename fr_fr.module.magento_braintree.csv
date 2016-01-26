@@ -1,55 +1,52 @@
-"--Please Select--","--Faites un choix--",module,Magento_Braintree
-"* Required Fields","* Champs requis",module,Magento_Braintree
-".",".",module,Magento_Braintree
-"&nbsp;","&nbsp;",module,Magento_Braintree
-"3D Secure Verification Settings","Réglages Vérification 3D Secure",module,Magento_Braintree
 "3D Secure Verification","Vérification 3D Secure",module,Magento_Braintree
+"3D Secure Verification Settings","Réglages Vérification 3D Secure",module,Magento_Braintree
+".",".",module,Magento_Braintree
 "a,b,c","a,b,c",module,Magento_Braintree
 "Actions","Actions",module,Magento_Braintree
 "Add Credit Card","Ajouter une carte bancaire",module,Magento_Braintree
 "Add new card","Ajouter nouvelle carte",module,Magento_Braintree
-"Add Rule","Ajouter un règle",module,Magento_Braintree
 "Address","Adresse",module,Magento_Braintree
+"Add Rule","Ajouter un règle",module,Magento_Braintree
 "Advanced Braintree Settings","Paramètres avancés Braintree",module,Magento_Braintree
 "Advanced Fraud Protection","Protection contre les fraudes avancée",module,Magento_Braintree
 "Allow Duplicate Cards","Autoriser la duplication de cartes",module,Magento_Braintree
-"Allow to Edit Shipping Address Entered During Checkout on PayPal Side","Permet la modification de l'adresse de livraison saisie pendant le paiement du côté de PayPal",module,Magento_Braintree
 "Allowed Credit Card Types","Types de cartes de crédit autorisées",module,Magento_Braintree
-"Authorize and Capture","Autorisation et collecte",module,Magento_Braintree
+"Allow to Edit Shipping Address Entered During Checkout on PayPal Side","Permet la modification de l'adresse de livraison saisie pendant le paiement du côté de PayPal",module,Magento_Braintree
 "Authorize","Autoriser",module,Magento_Braintree
+"Authorize and Capture","Autorisation et collecte",module,Magento_Braintree
 "Back","Retour",module,Magento_Braintree
 "Basic Braintree Settings","Paramètres de base Braintree",module,Magento_Braintree
 "Billing Address","Adresse de Facturation",module,Magento_Braintree
 "Braintree","Braintree",module,Magento_Braintree
 "Can not find original authorization transaction for partial capture","Impossible de trouver l'autorisation de transaction initiale pour la capture partielle",module,Magento_Braintree
 "Capture action","Action de capture",module,Magento_Braintree
-"Card Number","Numéro de Carte",module,Magento_Braintree
-"Card Verification Number Visual Reference","Référence visuelle numérique de vérification de carte",module,Magento_Braintree
-"Card Verification Number","Numéro de cryptogramme",module,Magento_Braintree
 "Cardholder Name","Nom du titulaire de la carte",module,Magento_Braintree
+"Card Number","Numéro de Carte",module,Magento_Braintree
+"Card Verification Number","Numéro de cryptogramme",module,Magento_Braintree
+"Card Verification Number Visual Reference","Référence visuelle numérique de vérification de carte",module,Magento_Braintree
 "City","Ville",module,Magento_Braintree
 "Company","Société",module,Magento_Braintree
+"Country","Pays",module,Magento_Braintree
 "Country Specific Credit Card Types","Types de cartes bancaire spécifique pays",module,Magento_Braintree
 "Country Specific Settings","Paramètres spécifiques des pays",module,Magento_Braintree
-"Country","Pays",module,Magento_Braintree
+"Credit Card","Carte de Crédit",module,Magento_Braintree
 "Credit card does not exist","Carte bancaire inexistante",module,Magento_Braintree
 "Credit Card Number","Numéro de Carte de Crédit",module,Magento_Braintree
 "Credit card successfully added","Carte bancaire ajoutée avec succès",module,Magento_Braintree
 "Credit card successfully deleted","Carte bancaire supprimé avec succès",module,Magento_Braintree
+"Credit Card Type","Type de Carte de Crédit",module,Magento_Braintree
 "Credit card type is not allowed for this payment method.","Le type de carte bancaire n'est pas autorisé pour ce mode de paiement.",module,Magento_Braintree
 "Credit card type is not allowed for your country.","Type de carte bancaire non autorisés pour votre pays.",module,Magento_Braintree
-"Credit Card Type","Type de Carte de Crédit",module,Magento_Braintree
 "Credit Card Types","Types de Carte de Crédit",module,Magento_Braintree
-"Credit Card","Carte de Crédit",module,Magento_Braintree
-"CVV Verification","Vérification CVV",module,Magento_Braintree
 "CVV","CVV",module,Magento_Braintree
+"CVV Verification","Vérification CVV",module,Magento_Braintree
 "Debug","Déboguage",module,Magento_Braintree
-"Delete Credit Card","Supprimer la carte bancaire",module,Magento_Braintree
 "Delete","Supprimer",module,Magento_Braintree
+"Delete Credit Card","Supprimer la carte bancaire",module,Magento_Braintree
 "Display on Shopping Cart","Afficher dans le Panier",module,Magento_Braintree
+"Edit","Éditer",module,Magento_Braintree
 "Edit Credit Card","Modifier la carte bancaire",module,Magento_Braintree
 "Edit My Credit Cards","Mes Cartes de Crédit",module,Magento_Braintree
-"Edit","Éditer",module,Magento_Braintree
 "Enable Credit Card auto-detection on Storefront","Activer  l'auto-détection de carte bancaire sur la vue magasin",module,Magento_Braintree
 "Enable PayPal through Braintree","Activer PayPal via Braintree",module,Magento_Braintree
 "Enable this Solution","Activez cette Solution",module,Magento_Braintree
@@ -69,6 +66,7 @@
 "Merchant ID","ID de marchand",module,Magento_Braintree
 "Month","Mois",module,Magento_Braintree
 "My Credit Cards","Éditer mes Cartes de Crédit",module,Magento_Braintree
+"&nbsp;","&nbsp;",module,Magento_Braintree
 "New Credit Card","Nouvelle carte bancaire",module,Magento_Braintree
 "New Order Status","Statut de la Nouvelle Commande",module,Magento_Braintree
 "No","Non",module,Magento_Braintree
@@ -81,20 +79,22 @@
 "PayPal through Braintree","PayPal via Braintree",module,Magento_Braintree
 "Please agree to all the terms and conditions before placing the order.","Veuillez accepter les conditions générales de ventes avant de valider la commande.",module,Magento_Braintree
 "Please confirm that you want to delete this credit card","Veuillez confirmer que vous souhaitez supprimer cette carte de crédit",module,Magento_Braintree
-"Please select region, state or province","Sélectionnez un département / état",module,Magento_Braintree
 "Please Select","Veuillez Sélectionner",module,Magento_Braintree
+"--Please Select--","--Faites un choix--",module,Magento_Braintree
+"Please select region, state or province","Sélectionnez un département / état",module,Magento_Braintree
 "Please try again later","Veuillez réessayer plus tard",module,Magento_Braintree
 "Please wait 24 hours before trying to issue a partial refund.","Veuillez attendre 24 heures avant d'essayer de régler un remboursement partiel.",module,Magento_Braintree
 "Private Key","Clé Privée",module,Magento_Braintree
 "Public Key","Clé Publique",module,Magento_Braintree
 "Require Customer's Billing Address","Nécessite l'adresse de facturation du client",module,Magento_Braintree
+"* Required Fields","* Champs requis",module,Magento_Braintree
 "Save this card for future use","Sauvegarder cette carte pour une utilisation future",module,Magento_Braintree
 "Selected payment type is not allowed for billing country.","Le type de paiement sélectionné n'est pas autorisé pour le pays de facturation.",module,Magento_Braintree
 "Shipment","Expédition",module,Magento_Braintree
 "some error","une erreur",module,Magento_Braintree
-"Some transactions are already settled or voided and cannot be voided.","Certaines transactions sont déjà remboursées ou annulées et ne peuvent être annulées.",module,Magento_Braintree
 "Something went wrong while processing.","Une erreur s'est produite lors du traitement.",module,Magento_Braintree
 "Something went wrong while saving the card.","Une erreur s'est produite lors de l'enregistrement de la carte.",module,Magento_Braintree
+"Some transactions are already settled or voided and cannot be voided.","Certaines transactions sont déjà remboursées ou annulées et ne peuvent être annulées.",module,Magento_Braintree
 "Sort Order","Ordre de Tri",module,Magento_Braintree
 "State/Province","État/Province",module,Magento_Braintree
 "Stored Card","Carte bancaire sauvegardée",module,Magento_Braintree

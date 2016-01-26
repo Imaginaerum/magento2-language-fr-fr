@@ -1,7 +1,6 @@
-"-- Please Select --","-- Faire un Choix --",module,Magento_Theme
-"%1 Item(s)","%1 article(s)",module,Magento_Theme
-"%1 Item","%1 Produit",module,Magento_Theme
 "1 column","1 colonne",module,Magento_Theme
+"%1 Item","%1 Produit",module,Magento_Theme
+"%1 Item(s)","%1 article(s)",module,Magento_Theme
 "2 columns with left bar","2 colonnes avec colonne de gauche",module,Magento_Theme
 "2 columns with right bar","2 colonnes avec colonne de droite",module,Magento_Theme
 "3 columns","3 colonnes",module,Magento_Theme
@@ -9,16 +8,16 @@
 "Admin 1column","Admin 1 colonne",module,Magento_Theme
 "Admin empty","Admin vide",module,Magento_Theme
 "Allowed file types *.css.","Types de fichiers autorisés: *.css.",module,Magento_Theme
-"Allowed file types *.js.","Types de fichiers autorisés: *.js.",module,Magento_Theme
 "Allowed file types: ICO, PNG, GIF, JPG, JPEG, APNG, SVG. Not all browsers support all these formats!","Types de fichiers autorisés: ICO, PNG, GIF, JPEG, APNG, SVG. Attention, certains formats ne sont pas supportés par certains navigateurs.",module,Magento_Theme
+"Allowed file types *.js.","Types de fichiers autorisés: *.js.",module,Magento_Theme
 "Are you sure you want to delete this file?","Êtes-vous sûr de vouloir supprimer ce fichier?",module,Magento_Theme
 "Are you sure you want to delete this folder?","Êtes-vous sûr de vouloir supprimer ce dossier?",module,Magento_Theme
 "Are you sure you want to delete this theme?","Êtes-vous sûr de vouloir supprimer ce thème ?",module,Magento_Theme
 "Browse Files","Parcourir les fichiers",module,Magento_Theme
 "Circular-reference in theme inheritance detected for ""%1""","Une référence circulaire dans l'héritage du thème a été détectée pour ""%1""",module,Magento_Theme
 "Close","Fermer",module,Magento_Theme
-"Copy of %1","Copie de %1",module,Magento_Theme
 "Copy","Copie",module,Magento_Theme
+"Copy of %1","Copie de %1",module,Magento_Theme
 "Copyright © 2015 Magento. All rights reserved.","Copyright © 2015 Magento. Tous droits réservés.",module,Magento_Theme
 "Copyright","Copyright",module,Magento_Theme
 "Create Folder","Créer un dossier",module,Magento_Theme
@@ -36,10 +35,10 @@
 "Edit custom.css","Modifier custom.css",module,Magento_Theme
 "Edit custom instruction of robots.txt File","Modifier les instructions personnalisées du fichier robots.txt",module,Magento_Theme
 "Empty","Vide",module,Magento_Theme
-"Exception does not contain field '%1'","L'exception ne contient pas le champ ""%1""",module,Magento_Theme
 "exception","exception",module,Magento_Theme
+"Exception does not contain field '%1'","L'exception ne contient pas le champ ""%1""",module,Magento_Theme
 "Favicon Icon","Icône favicon",module,Magento_Theme
-"File not found: ""%1"".","Fichier non trouvé: ""%1"".",module,Magento_Theme
+"File not found: ""%1"".","Fichier non trouvé : ""%1"".",module,Magento_Theme
 "Fonts Assets","Ressources polices",module,Magento_Theme
 "Footer","Pied de page",module,Magento_Theme
 "For the best experience on our site, be sure to turn on Javascript in your browser.","Pour une meilleure expérience sur notre site, assurez-vous d'activer JavaScript dans votre navigateur.",module,Magento_Theme
@@ -58,14 +57,14 @@
 "JavaScript seems to be disabled in your browser.","Javascript est désactivé dans votre navigateur.",module,Magento_Theme
 "JS Editor","Éditeur JS",module,Magento_Theme
 "label","libellé",module,Magento_Theme
-"Local Storage seems to be disabled in your browser.","Le stockage local semble être désactivé dans votre navigateur.",module,Magento_Theme
 "localized exception","localized exception",module,Magento_Theme
+"Local Storage seems to be disabled in your browser.","Le stockage local semble être désactivé dans votre navigateur.",module,Magento_Theme
+"Logo Image","Image du logo",module,Magento_Theme
 "Logo Image Alt","Texte alternatif du logo",module,Magento_Theme
 "Logo Image Height","Hauteur du logo",module,Magento_Theme
 "Logo Image Width","Largeur du logo",module,Magento_Theme
-"Logo Image","Image du logo",module,Magento_Theme
 "Manage","Gérer",module,Magento_Theme
-"Max file size to upload %1M","Taille maximale du fichier: %1Mo",module,Magento_Theme
+"Max file size to upload %1M","Taille maximale du fichier : %1Mo",module,Magento_Theme
 "Max image size %1M","Taille maximale de l'image %1Mo",module,Magento_Theme
 "Media Storage","Stockage des Medias",module,Magento_Theme
 "Message","Message",module,Magento_Theme
@@ -79,6 +78,7 @@
 "Parent Theme","Thème parent",module,Magento_Theme
 "per page","par page",module,Magento_Theme
 "Phrase","Phrase",module,Magento_Theme
+"-- Please Select --","-- Faire un Choix --",module,Magento_Theme
 "Previous","Précédent",module,Magento_Theme
 "Remove","Supprimer",module,Magento_Theme
 "Report All Bugs","Signaler un dysfonctionnement",module,Magento_Theme
@@ -97,19 +97,19 @@
 "The CSS file must be less than %1M.","La taille du fichier CSS doit être inférieure a %1Mo.",module,Magento_Theme
 "The date range for this design change overlaps another design change for the specified store.","La date de changement de design chevauche avec une autre date pour ce magasin.",module,Magento_Theme
 "The JS file must be less than %1M.","La taille du fichier JS doit être inférieure a %1Mo.",module,Magento_Theme
-"The start date can't follow the end date.","La date de début ne peut pas être postérieure à la date de fin.",module,Magento_Theme
 "Theme: %1","Thème: %1",module,Magento_Theme
-"Theme CSS Assets","Ressources CSS du thème",module,Magento_Theme
+"Theme","Thème",module,Magento_Theme
 "Theme CSS","CSS du thème",module,Magento_Theme
+"Theme CSS Assets","Ressources CSS du thème",module,Magento_Theme
 "Theme id should be set","L'ID du thème doit être initialisé",module,Magento_Theme
 "Theme isn't deletable.","Le thème ne peut pas être supprimé.",module,Magento_Theme
 "Theme JavaScript","JavaScript du thème",module,Magento_Theme
 "Theme Path","Chemin du thème",module,Magento_Theme
 "Theme Preview Image","Image d'aperçu du thème",module,Magento_Theme
+"Themes","Thèmes",module,Magento_Theme
 "Theme Settings","Paramètres des thèmes",module,Magento_Theme
 "Theme Title","Nom du thème",module,Magento_Theme
-"Theme","Thème",module,Magento_Theme
-"Themes","Thèmes",module,Magento_Theme
+"The start date can't follow the end date.","La date de début ne peut pas être postérieure à la date de fin.",module,Magento_Theme
 "This action will delete your custom instructions and reset robots.txt file to system's default settings.","Cette action supprimera les instructions personnalisées et réinitialisera le fichier robots.txt avec les valeurs par défaut du système.",module,Magento_Theme
 "This file will replace the current custom.css file and can't be more than 2 MB.","Ce fichier remplacera le fichier custom.css. Il ne peut pas excéder 2 Mo.",module,Magento_Theme
 "This is demo store. No orders will be fulfilled.","Ceci est une boutique de démonstration. Aucune commande ne sera honorée.",module,Magento_Theme
@@ -125,16 +125,16 @@
 "Upload Images","Uploader des images",module,Magento_Theme
 "Upload JS Files","Iploader des fichiers JS",module,Magento_Theme
 "Use only standard alphanumeric, dashes and underscores.","Utilisez uniquement des lettres, tirets ou underscores.",module,Magento_Theme
+"We cannot delete the theme.","Impossible de supprimer le thème.",module,Magento_Theme
+"We cannot find a directory with this name.","Impossible de trouver un répertoire avec ce nom.",module,Magento_Theme
+"We cannot find a theme with id ""%1"".","Impossible de trouver le thème avec l'ID ""%1"".",module,Magento_Theme
+"We cannot find theme ""%1"".","Impossible de trouver le thème : ""%1"".",module,Magento_Theme
+"We cannot find the theme.","Impossible de trouver le thème.",module,Magento_Theme
 "We can't delete root directory %1 right now.","Impossible de supprimer le répertoire racine %1.",module,Magento_Theme
 "We can't find file.","Impossible de trouver le fichier.",module,Magento_Theme
 "We can't upload the CSS file right now.","Impossible d'uploader le fichier CSS.",module,Magento_Theme
 "We can't upload the file right now.","Nous ne pouvons pas uploader le fichier.",module,Magento_Theme
 "We can't upload the JS file right now.","Impossible d'uploader le fichier JS.",module,Magento_Theme
-"We cannot delete the theme.","Impossible de supprimer le thème.",module,Magento_Theme
-"We cannot find a directory with this name.","Impossible de trouver un répertoire avec ce nom.",module,Magento_Theme
-"We cannot find a theme with id ""%1"".","Impossible de trouver le thème avec l'ID ""%1"".",module,Magento_Theme
-"We cannot find the theme.","Impossible de trouver le thème.",module,Magento_Theme
-"We cannot find theme ""%1"".","Impossible de trouver le thème: ""%1"".",module,Magento_Theme
 "We could not detect a size.","Nous ne pouvons pas déterminer le poids du fichier.",module,Magento_Theme
 "We don't recognize this file extension.","Impossible de reconnaître l'extension de ce fichier.",module,Magento_Theme
 "We found a directory with the same name.","Un répertoire avec le même nom existe déjà.",module,Magento_Theme

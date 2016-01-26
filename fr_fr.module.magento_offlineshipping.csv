@@ -1,13 +1,11 @@
-"# of Items (and above)","Nombre d'articles (et au-delà)",module,Magento_OfflineShipping
-"# of Items vs. Destination","Nombre d'articles par destination",module,Magento_OfflineShipping
 "Calculate Handling Fee","Calculer les frais de dossier",module,Magento_OfflineShipping
 "Condition","Condition",module,Magento_OfflineShipping
 "Country","Pays",module,Magento_OfflineShipping
 "Displayed Error Message","Message d'erreur affiché",module,Magento_OfflineShipping
 "Duplicate Row #%1 (Country ""%2"", Region/State ""%3"", Zip ""%4"" and Value ""%5"")","Ligne #%1 dupliquée (Pays ""%2"", Région/Etat ""%3"", Code postal ""%4"" et Valeur ""%5"")",module,Magento_OfflineShipping
 "Enabled","Activé",module,Magento_OfflineShipping
-"Export CSV","Export CSV",module,Magento_OfflineShipping
 "Export","Exporter",module,Magento_OfflineShipping
+"Export CSV","Export CSV",module,Magento_OfflineShipping
 "Flat Rate","Tarif unique",module,Magento_OfflineShipping
 "For matching items only","Pour les objets concordants seulement",module,Magento_OfflineShipping
 "For shipment with matching items","Pour les expéditions avec articles concordants",module,Magento_OfflineShipping
@@ -19,6 +17,8 @@
 "Minimum Order Amount","Montant de commande minimum",module,Magento_OfflineShipping
 "No","Non",module,Magento_OfflineShipping
 "None","Aucun",module,Magento_OfflineShipping
+"# of Items (and above)","Nombre d'articles (et au-delà)",module,Magento_OfflineShipping
+"# of Items vs. Destination","Nombre d'articles par destination",module,Magento_OfflineShipping
 "Order Subtotal (and above)","Sous-total de la commande (et au dessus)",module,Magento_OfflineShipping
 "Per Item","Par Article",module,Magento_OfflineShipping
 "Per Order","Par Commande",module,Magento_OfflineShipping
@@ -30,12 +30,12 @@
 "Please correct Table Rate code type: %1.","Veuillez corriger la tarification pour le type %1.",module,Magento_OfflineShipping
 "Please correct Table Rates File Format.","Veuillez corriger le format de fichier de la tarification.",module,Magento_OfflineShipping
 "Please correct Table Rates format in the Row #%1.","Veuillez corriger le format de la tarification à la ligne #%1.",module,Magento_OfflineShipping
-"Price vs. Destination","Prix par destination",module,Magento_OfflineShipping
 "Price","Prix",module,Magento_OfflineShipping
+"Price vs. Destination","Prix par destination",module,Magento_OfflineShipping
 "Region/State","Région/État",module,Magento_OfflineShipping
+"Shipping Price","Tarif de livraison",module,Magento_OfflineShipping
 "Ship to Applicable Countries","Livrer dans les pays applicables",module,Magento_OfflineShipping
 "Ship to Specific Countries","Livrer dans des pays spécifiques",module,Magento_OfflineShipping
-"Shipping Price","Tarif de livraison",module,Magento_OfflineShipping
 "Show Method if Not Applicable","Afficher la méthide si elle n'est pas applicable",module,Magento_OfflineShipping
 "Something went wrong while importing table rates.","Une erreur s'est produite lors de l'importation de la tarification.",module,Magento_OfflineShipping
 "Sort Order","Ordre de Tri",module,Magento_OfflineShipping

@@ -1,4 +1,3 @@
-"""Need a New Relic account? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Click here to get one","Besoin d'un compte New Relic ? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Cliquez ici pour en obtenir un</a>.",module,Magento_NewRelicReporting
 "Cron","Cron",module,Magento_NewRelicReporting
 "Enable Cron","Activer le CRON",module,Magento_NewRelicReporting
 "Enable New Relic Integration","Activer l'intégration de New Relic",module,Magento_NewRelicReporting
@@ -6,6 +5,7 @@
 "Generated under Insights in Manage data -> API Keys -> Insert Keys","Générée dans Insights sous Manage data -> API Keys -> Insert Keys",module,Magento_NewRelicReporting
 "Insights API Key","Clé API d'Insights",module,Magento_NewRelicReporting
 "Insights API URL","URL de l'API Insights",module,Magento_NewRelicReporting
+"""Need a New Relic account? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Click here to get one","Besoin d'un compte New Relic ? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Cliquez ici pour en obtenir un</a>.",module,Magento_NewRelicReporting
 "New Relic Account ID","ID compte New Relic",module,Magento_NewRelicReporting
 "New Relic API Key","Clé API de New Relic",module,Magento_NewRelicReporting
 "New Relic API URL","URL de l'API de New Relic",module,Magento_NewRelicReporting

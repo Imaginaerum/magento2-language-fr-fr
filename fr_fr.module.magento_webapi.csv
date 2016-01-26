@@ -3,8 +3,8 @@
 "Cannot perform GET operation with store code 'all'","Impossible d'effectuer l'opération GET avec le code Magasin 'all'",module,Magento_Webapi
 "Default Response Charset","Charset de réponse par défaut",module,Magento_Webapi
 "If empty, UTF-8 will be used.","Si vide, l'UTF-8 sera utilisé.",module,Magento_Webapi
-"Invalid XML: Detected use of illegal DOCTYPE","XML invalide: Détection d'une utilisation illégale de DOCTYPE",module,Magento_Webapi
 "Invalid XML","XML invalide.",module,Magento_Webapi
+"Invalid XML: Detected use of illegal DOCTYPE","XML invalide: Détection d'une utilisation illégale de DOCTYPE",module,Magento_Webapi
 "Magento Web API","API Web Magento",module,Magento_Webapi
 "Message","Message",module,Magento_Webapi
 "message","message",module,Magento_Webapi

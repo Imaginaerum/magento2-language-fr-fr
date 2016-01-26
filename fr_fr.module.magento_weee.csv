@@ -10,8 +10,8 @@
 "Display Prices On Product View Page","Afficher les prix dans les fiches produits",module,Magento_Weee
 "Enable FPT","Activer les TFP",module,Magento_Weee
 "Excl. Tax","HT",module,Magento_Weee
-"Excluding FPT. Including FPT description and final price","TFP incluse dans Description et prix final",module,Magento_Weee
 "Excluding FPT","Hors TFP",module,Magento_Weee
+"Excluding FPT. Including FPT description and final price","TFP incluse dans Description et prix final",module,Magento_Weee
 "Final Price","Prix Final",module,Magento_Weee
 "Fixed Product Tax","Taxe Fixe de Produit",module,Magento_Weee
 "Fixed Product Taxes","Taxes Fixes de Produit",module,Magento_Weee
@@ -22,7 +22,7 @@
 "Including FPT only","FPT incluses uniquement",module,Magento_Weee
 "label_value' 'label_value' 'frontend_label","label_value' 'label_value' 'frontend_label",module,Magento_Weee
 "Tax","Taxe",module,Magento_Weee
-"Total Incl. Tax","Total TTC",module,Magento_Weee
 "Total","Total",module,Magento_Weee
-"We found a duplicate of website, country and state fields for a fixed product tax","Doublon site web, pays et état pour une taxe fixe de produit",module,Magento_Weee
+"Total Incl. Tax","Total TTC",module,Magento_Weee
 "Website","Site Web",module,Magento_Weee
+"We found a duplicate of website, country and state fields for a fixed product tax","Doublon site web, pays et état pour une taxe fixe de produit",module,Magento_Weee

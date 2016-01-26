@@ -1,4 +1,3 @@
-"-- Please Select --","-- Faire un Choix --",module,Magento_Store
 "Admin","Admin",module,Magento_Store
 "All Store Views","Toutes les Vues Magasin",module,Magento_Store
 "API interfaces reflection data.","Données de l'API Reflection.",module,Magento_Store
@@ -19,6 +18,7 @@
 "Name is required","Le nom est requis",module,Magento_Store
 "Only default scope allowed","Seule la portée par défaut est autorisé",module,Magento_Store
 "Page blocks HTML.","Code HTML des blocs de page.",module,Magento_Store
+"-- Please Select --","-- Faire un Choix --",module,Magento_Store
 "Reflection Data","Données de Reflection",module,Magento_Store
 "Requested store is inactive","La magasin est inactif.",module,Magento_Store
 "Requested store is not found","Le magasin est introuvable.",module,Magento_Store

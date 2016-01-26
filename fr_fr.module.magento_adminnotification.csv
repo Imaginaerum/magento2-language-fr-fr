@@ -1,23 +1,22 @@
-"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","Il n'est pas recommandé d'utiliser la variable {{base_url}} en production pour spécifier les URLs de base (sécurisée et non-sécurisée). Il est fortement recommandé de modifier cette valeur dans la <a href=""%1"">configuration</a> de Magento. ",module,Magento_AdminNotification
-" unread)"," non lu)",module,Magento_AdminNotification
 "1 Hour","1 Heure",module,Magento_AdminNotification
 "2 Hours","2 Heures",module,Magento_AdminNotification
 "6 Hours","6 Heures",module,Magento_AdminNotification
 "12 Hours","12 Heures",module,Magento_AdminNotification
 "24 Hours","24 Heures",module,Magento_AdminNotification
-"A total of %1 record(s) have been marked as Read.","%1 message(s) marqué(s) comme lu(s).",module,Magento_AdminNotification
 "Actions","Actions",module,Magento_AdminNotification
 "Are you sure?","Êtes-vous sûr(e)?",module,Magento_AdminNotification
-"Close popup","Fermer la popup",module,Magento_AdminNotification
+"A total of %1 record(s) have been marked as Read.","%1 message(s) marqué(s) comme lu(s).",module,Magento_AdminNotification
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","Il n'est pas recommandé d'utiliser la variable {{base_url}} en production pour spécifier les URLs de base (sécurisée et non-sécurisée). Il est fortement recommandé de modifier cette valeur dans la <a href=""%1"">configuration</a> de Magento.",module,Magento_AdminNotification
 "close","fermer",module,Magento_AdminNotification
 "Close","Fermer",module,Magento_AdminNotification
-"Critical System Messages","Messages Système Critiques",module,Magento_AdminNotification
+"Close popup","Fermer la popup",module,Magento_AdminNotification
 "critical","critique",module,Magento_AdminNotification
+"Critical System Messages","Messages Système Critiques",module,Magento_AdminNotification
 "Date Added","Date d'ajout",module,Magento_AdminNotification
 "Incoming Message","Message reçu",module,Magento_AdminNotification
 "Last Update","Dernière mise à jour",module,Magento_AdminNotification
-"Major System Messages","Messages Système Majeurs",module,Magento_AdminNotification
 "major","majeur",module,Magento_AdminNotification
+"Major System Messages","Messages Système Majeurs",module,Magento_AdminNotification
 "Mark as Read","Marquer comme lu",module,Magento_AdminNotification
 "Message","Message",module,Magento_AdminNotification
 "Messages Inbox","Boîte de Réception",module,Magento_AdminNotification
@@ -37,6 +36,7 @@
 "The message has been marked as Read.","Le message a été marqué comme lu.",module,Magento_AdminNotification
 "The message has been removed.","Le message a bien été supprimé.",module,Magento_AdminNotification
 "Total of %1 record(s) have been removed.","%1 enregistrement(s) supprimé(s).",module,Magento_AdminNotification
+" unread)"," non lu)",module,Magento_AdminNotification
 "Update Frequency","Fréquence de mise à jour",module,Magento_AdminNotification
 "Use HTTPS to Get Feed","Utiliser HTTPS pour Récupérer le Flux",module,Magento_AdminNotification
 "We couldn't mark the notification as Read because of an error.","Nous ne pouvons pas marquer la notification comme lue suite à une erreur.",module,Magento_AdminNotification

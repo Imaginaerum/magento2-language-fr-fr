@@ -1,7 +1,7 @@
 "Action","Action",module,Magento_Sitemap
 "Add Images into Sitemap","Ajouter les images au plan de site",module,Magento_Sitemap
 "Add Sitemap","Ajouter un Plan du Site",module,Magento_Sitemap
-"All","Tout",module,Magento_Sitemap
+"All","Tous",module,Magento_Sitemap
 "Always","Toujours",module,Magento_Sitemap
 "Base Only","Image de base uniquement",module,Magento_Sitemap
 "Catalog","Catalogue",module,Magento_Sitemap
@@ -10,16 +10,16 @@
 "Daily","Quotidien",module,Magento_Sitemap
 "Edit Sitemap","Modifier le Pplan de Site",module,Magento_Sitemap
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée.",module,Magento_Sitemap
-"Enable Submission to Robots.txt","Active la soumission dans le fichier robots.txt",module,Magento_Sitemap
 "Enabled","Activé",module,Magento_Sitemap
+"Enable Submission to Robots.txt","Active la soumission dans le fichier robots.txt",module,Magento_Sitemap
 "Error Email Recipient","Destinataire du mail d'erreur",module,Magento_Sitemap
 "Error Email Sender","Expéditeur du mail d'erreur",module,Magento_Sitemap
 "Error Email Template","Gabarit du mail d'erreur",module,Magento_Sitemap
-"example: ""/sitemap/"" or ""/"" for base path (path must be writeable)","exemple: ""/sitemap/"" ou ""/"" pour le chemin de base (le chemin doit être accessible en écriture)",module,Magento_Sitemap
+"example: ""/sitemap/"" or ""/"" for base path (path must be writeable)","exemple : ""/sitemap/"" ou ""/"" pour le chemin de base (le chemin doit être accessible en écriture)",module,Magento_Sitemap
 "example: sitemap.xml","exemple: sitemap.xml",module,Magento_Sitemap
 "File handler unreachable","Gestionnaire de fichiers inaccessible",module,Magento_Sitemap
-"File size in bytes.","Poids du fichier en octets.",module,Magento_Sitemap
 "Filename","Nom du fichier",module,Magento_Sitemap
+"File size in bytes.","Poids du fichier en octets.",module,Magento_Sitemap
 "Frequency","Fréquence",module,Magento_Sitemap
 "Generate","Générer",module,Magento_Sitemap
 "Generation Settings","Paramètres Globaux",module,Magento_Sitemap
@@ -31,8 +31,8 @@
 "Maximum No of URLs Per File","Nbr maximal d'URL par fichier",module,Magento_Sitemap
 "Monthly","Mensuel",module,Magento_Sitemap
 "Never","Jamais",module,Magento_Sitemap
-"New Site Map","Nouveau Plan de site",module,Magento_Sitemap
 "New Sitemap","Nouveau Plan de site",module,Magento_Sitemap
+"New Site Map","Nouveau Plan de site",module,Magento_Sitemap
 "None","Aucun",module,Magento_Sitemap
 "Path","Chemin",module,Magento_Sitemap
 "Please create the specified folder ""%1"" before saving the sitemap.","Veuillez créer le répertoire ""%1"" avant de sauvegarder le plan de site.",module,Magento_Sitemap
@@ -44,10 +44,10 @@
 "Save & Generate","Sauvegarder & générer",module,Magento_Sitemap
 "Search Engine Submission Settings","Paramètres de soumission aux moteurs de recherche",module,Magento_Sitemap
 "Site Map","Plan de Site",module,Magento_Sitemap
+"Sitemap","Plan de Site",module,Magento_Sitemap
 "Sitemap File Limits","Limites du fichier de plan de site",module,Magento_Sitemap
 "Sitemap Generation Warnings","Avertissements sur la génération du plan de site",module,Magento_Sitemap
 "Sitemap Information","Information Plan de Site",module,Magento_Sitemap
-"Sitemap","Plan de Site",module,Magento_Sitemap
 "Start Time","Heure de Début",module,Magento_Sitemap
 "Store View","Vue Magasin",module,Magento_Sitemap
 "The priority must be between 0 and 1.","La priorité doit être comprise entre 0 et 1.",module,Magento_Sitemap

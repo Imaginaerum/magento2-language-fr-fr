@@ -27,12 +27,12 @@
 "Please select a valid payment method.","Sélectionnez un mode de paiement valide.",module,Magento_Quote
 "Please specify a shipping method.","Sélectionnez un mode de livraison.",module,Magento_Quote
 "Selected option(s) or their combination is not currently available.","Les options sélectionnées ou leur combinaison sont actuellement indisponibles.",module,Magento_Quote
-"Shipping & Handling (%1)","Frais de port (%1)",module,Magento_Quote
-"Shipping & Handling","Frais de port",module,Magento_Quote
+"Shipping","Livraison",module,Magento_Quote
 "Shipping address is not set","L'adresse de livraison n'est pas configurée",module,Magento_Quote
 "Shipping address not set.","Adresse de livraison non définie.",module,Magento_Quote
+"Shipping & Handling (%1)","Frais de port (%1)",module,Magento_Quote
+"Shipping & Handling","Frais de port",module,Magento_Quote
 "Shipping method is not applicable for empty cart","La méthode d'expédition n'est pas applicable à un panier vide",module,Magento_Quote
-"Shipping","Livraison",module,Magento_Quote
 "Some item options or their combination are not currently available.","Certaines options d'articles ou leur combinaison sont actuellement indisponibles.",module,Magento_Quote
 "Some of the products below do not have all the required options.","Certains produits ne possèdent pas toutes les options requises.",module,Magento_Quote
 "Some of the selected options are not currently available.","Certaines options sélectionnées sont actuellement indisponibles.",module,Magento_Quote

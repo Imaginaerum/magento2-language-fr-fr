@@ -1,111 +1,12 @@
-"
-                            Allowable values: ""paypal"", ""primary"" (default), your_custom_value (a custom payment page style from your merchant account profile).
-                        ","                            Valeurs autorisées: ""paypal"", ""primary"" (default), your_custom_value (un style de page de paiement personnalisé à partir de votre profil de compte marchand).
-                        ",module,Magento_Paypal
-"
-                            The background color for the checkout page around the header and payment form.
-                        ","                            Couleur d’arrière-plan de la page paiement autour de l'en-tête et du formulaire de paiement.
-                        ",module,Magento_Paypal
-"
-                            The background color for the header of the checkout page. Case-insensitive six-character HTML hexadecimal color code in ASCII.
-                        ","                            Couleur de fond pour l'en-tête de la page de paiement. Code hexadécimal de la couleur.
-                        ",module,Magento_Paypal
-"
-                            The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged.
-                        ","                            Image en haut à gauche sur la page de paiement. La taille maximale est de 750x90px. <strong style=""color:red"">https</strong> est recommandé.
-                        ",module,Magento_Paypal
-"
-                            Will appear as a payment option only for customers who have at least one active billing agreement.
-                        ","                            Apparaît comme une option de paiement uniquement pour les clients qui ont au moins un accord de facturation actif.
-                        ",module,Magento_Paypal
-"
-                        <a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>
-                    ","                        <a href=""http://www.magentocommerce.com/paypal"">Accepter les paiements via PayPal!</a>
-                    ",module,Magento_Paypal
-"
-                        Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.
-                    ","                        Les marchands doivent faire une demande à PayPal pour activer les accords de facturation. Ne pas activer cette option tant que PayPal n'a pas confirmé que les accords de facturation sont activés sur votre compte marchand.
-                    ",module,Magento_Paypal
-"
-                    <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
-                                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
-                ","                    <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br/>
-                                <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit&#174;. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
-                                Utilisez les bannières publicitaires gratuites de PayPal Credit&#174; comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
-                                Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
-                                ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>.
-                ",module,Magento_Paypal
-"
-                    <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                                from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
-                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                                or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
-                ","                    <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br/>
-                                <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit&#174;. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
-                                Utilisez les bannières publicitaires gratuites de PayPal Credit&#174; comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
-                                Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
-                                ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>.
-                ",module,Magento_Paypal
-"
-                    <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
-                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                            or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
-                ","                    <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br/>
-                                <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit&#174;. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
-                                Utilisez les bannières publicitaires gratuites de PayPal Credit&#174; comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
-                                Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
-                                ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>.
-                ",module,Magento_Paypal
-"
-                    <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                        <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                        from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                        Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
-                        The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                        or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
-                ","                    <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br/>
-                                <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit&#174;. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
-                                Utilisez les bannières publicitaires gratuites de PayPal Credit&#174; comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
-                                Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
-                                ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>.
-                ",module,Magento_Paypal
-"
-                    PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>
-                ","                    PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accepter et procéder au paiement par carte bancaire et paiement PayPal.</i>
-                ",module,Magento_Paypal
-"
-                    Supporting of American Express cards require additional agreement. Learn more at <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.
-                ","                    Le support des cartes American Express nécessite un accord supplémentaire. En savoir plus au <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.
-                ",module,Magento_Paypal
-"-- Please Select --","-- Faire un Choix --",module,Magento_Paypal
-"-- Please Select Billing Agreement--","-- Veuillez choisir une entente de facturation--",module,Magento_Paypal
-"--Please Select--","--Faites un choix--",module,Magento_Paypal
-" to learn more."," en savoir plus.",module,Magento_Paypal
 "1","1",module,Magento_Paypal
 "2-pixel perimeter around the header space.","Périmètre de 2 pixels autour de l'espace d'en-tête",module,Magento_Paypal
-"A case that has been resolved and close requires a reimbursement.","Un cas a été résolu et nécessite un remboursement pour le clôturer.",module,Magento_Paypal
-"A payer is not identified.","Un payeur n'est pas identifié.",module,Magento_Paypal
-"A reversal has occurred on this transaction because of a customer dispute suspecting unauthorized spoof.","Une retour a eu lieu sur cette opération en raison d'un litige client soupçonné frauduleux et non autorisé.",module,Magento_Paypal
-"A reversal has occurred on this transaction because you have given the customer a refund.","Un retour a eu lieu sur cette transaction parce que vous avez effectué un  remboursement au client.",module,Magento_Paypal
-"A reversal has occurred on this transaction due to a chargeback by your customer.","Un retour a eu lieu sur cette transaction en raison d'un rejet de débit par votre client.",module,Magento_Paypal
-"A reversal has occurred on this transaction due to a complaint about the transaction from your customer.","Un retour a eu lieu sur cette opération en raison d'une réclamation au sujet de la transaction de votre client.",module,Magento_Paypal
-"A reversal has occurred on this transaction due to your customer triggering a money-back guarantee.","Un retour a eu lieu sur cette transaction en raison du déclenchement d'une garantie de remboursement par votre client.",module,Magento_Paypal
-"A wrong PayPal Express Checkout Token is specified.","Une mauvaise clé PayPal Express Checkout est spécifié.",module,Magento_Paypal
 "Ability for buyer to purchase without PayPal account.","Capacité pour l'acheteur d'acheter sans compte PayPal.",module,Magento_Paypal
+"A case that has been resolved and close requires a reimbursement.","Un cas a été résolu et nécessite un remboursement pour le clôturer.",module,Magento_Paypal
+"Acceptance Mark","Marque d'acceptation",module,Magento_Paypal
+"Acceptance Mark Image","Image de marque d'acceptation",module,Magento_Paypal
 "Accept payments with a completely customizable checkout page.","Accepter les paiements avec une page de paiement entièrement personnalisable.",module,Magento_Paypal
 "Accept payments with a PCI compliant checkout that keeps customers on your site.","Accepter les paiements avec une caisse compatible PCI qui garde les clients sur votre site.",module,Magento_Paypal
 "Accept payments with a PCI-compliant checkout that keeps customers on your site.","Accepter les paiements ayant la conformité PCI qui garde les clients sur votre site.",module,Magento_Paypal
-"Acceptance Mark Image","Image de marque d'acceptation",module,Magento_Paypal
-"Acceptance Mark","Marque d'acceptation",module,Magento_Paypal
 "Account-to-Account Payment, initiated by PayPal","Paiement de Compte à compte, initié par PayPal",module,Magento_Paypal
 "ACH Deposit (Hold for Dispute or Other Investigation)","Dépôt d'ACH (prise pour le conflit ou toute autre recherche)",module,Magento_Paypal
 "ACH Deposit (Reversal)","Dépôt d'ACH (inversion)",module,Magento_Paypal
@@ -113,64 +14,113 @@
 "ACH Withdrawal","Retrait d'ACH",module,Magento_Paypal
 "Active","Actif",module,Magento_Paypal
 "Add another payment method to your existing solution or as a stand-alone option.","Ajouter un autre mode de paiement à votre solution existante ou en tant qu'option autonome.",module,Magento_Paypal
-"Add PayPal as an additional payment method to your checkout page.","Ajouter PayPal comme moyen de paiement supplémentaire à votre page de paiement.",module,Magento_Paypal
 "Additional Options","Options additionnelles",module,Magento_Paypal
+"Add PayPal as an additional payment method to your checkout page.","Ajouter PayPal comme moyen de paiement supplémentaire à votre page de paiement.",module,Magento_Paypal
 "Address Verification System Response","Adresse du système de vérification de réponse",module,Magento_Paypal
 "Advanced Settings","Paramètres avancés",module,Magento_Paypal
 "Advertise PayPal Credit","Faites de la publicité pour PayPal",module,Magento_Paypal
 "Agreement Information","Information de l'entente",module,Magento_Paypal
-"All the address information matched","Vérification de toutes les informations de l'adresse",module,Magento_Paypal
-"Allow in Billing Agreement Wizard","Autoriser dans l'assistant d'entente de facturation",module,Magento_Paypal
+"<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                                from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                                or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br/>
+                                <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit&#174;. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
+                                Utilisez les bannières publicitaires gratuites de PayPal Credit&#174; comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
+                                Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
+                                ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>.",module,Magento_Paypal
+"<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                        <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                        from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                        Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                        The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                        or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br/>
+                                <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit&#174;. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
+                                Utilisez les bannières publicitaires gratuites de PayPal Credit&#174; comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
+                                Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
+                                ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>.",module,Magento_Paypal
+"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br/>
+                                <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit&#174;. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
+                                Utilisez les bannières publicitaires gratuites de PayPal Credit&#174; comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
+                                Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
+                                ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>.",module,Magento_Paypal
+"<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                            or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br/>
+                                <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit&#174;. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
+                                Utilisez les bannières publicitaires gratuites de PayPal Credit&#174; comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
+                                Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
+                                ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>.",module,Magento_Paypal
+"<a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>","<a href=""http://www.magentocommerce.com/paypal"">Accepter les paiements via PayPal!</a>",module,Magento_Paypal
+"Allowable values: ""paypal"", ""primary"" (default), your_custom_value (a custom payment page style from your merchant account profile).","Valeurs autorisées: ""paypal"", ""primary"" (default), your_custom_value (un style de page de paiement personnalisé à partir de votre profil de compte marchand).",module,Magento_Paypal
 "Allowed Credit Card Types","Types de cartes de crédit autorisées",module,Magento_Paypal
+"Allow in Billing Agreement Wizard","Autoriser dans l'assistant d'entente de facturation",module,Magento_Paypal
+"All the address information matched","Vérification de toutes les informations de l'adresse",module,Magento_Paypal
 "Also affects mini-shopping cart.","Affecte également le panier de mini-achats.",module,Magento_Paypal
+"A payer is not identified.","Un payeur n'est pas identifié.",module,Magento_Paypal
 "API Authentication Methods","Modes d'authentification de l'API",module,Magento_Paypal
 "API Certificate","Certificat d'API",module,Magento_Paypal
 "API Password","Mot de passe API",module,Magento_Paypal
 "API Signature","Signature API",module,Magento_Paypal
 "API Username","Pseudo API",module,Magento_Paypal
 "API Uses Proxy","API utilisant un proxy",module,Magento_Paypal
+"A reversal has occurred on this transaction because of a customer dispute suspecting unauthorized spoof.","Une retour a eu lieu sur cette opération en raison d'un litige client soupçonné frauduleux et non autorisé.",module,Magento_Paypal
+"A reversal has occurred on this transaction because you have given the customer a refund.","Un retour a eu lieu sur cette transaction parce que vous avez effectué un  remboursement au client.",module,Magento_Paypal
+"A reversal has occurred on this transaction due to a chargeback by your customer.","Un retour a eu lieu sur cette transaction en raison d'un rejet de débit par votre client.",module,Magento_Paypal
+"A reversal has occurred on this transaction due to a complaint about the transaction from your customer.","Un retour a eu lieu sur cette opération en raison d'une réclamation au sujet de la transaction de votre client.",module,Magento_Paypal
+"A reversal has occurred on this transaction due to your customer triggering a money-back guarantee.","Un retour a eu lieu sur cette transaction en raison du déclenchement d'une garantie de remboursement par votre client.",module,Magento_Paypal
 "Are you sure you want to do this?","Êtes-vous sûr(e) de vouloir faire cela?",module,Magento_Paypal
 "Ask Customer","Demandez au client",module,Magento_Paypal
 "Auction Payment other than through eBay","Paiement des enchères autres que par le biais d'eBay",module,Magento_Paypal
-"Authorization Honor Period (days)","Période d'autorisation d'honneur (jours)",module,Magento_Paypal
 "Authorization","Autorisation",module,Magento_Paypal
+"Authorization Honor Period (days)","Période d'autorisation d'honneur (jours)",module,Magento_Paypal
 "Auto","Auto",module,Magento_Paypal
 "AutoSweep","Champ automatique",module,Magento_Paypal
 "Available Balance","Solde Disponible",module,Magento_Paypal
 "AVS Street Does Not Match","AVS l'adresse de rue ne correspond pas",module,Magento_Paypal
 "AVS Street Match","AVS Correspondance exacte de l'adresse",module,Magento_Paypal
-"AVS Zip Does Not Match","AVS non concordance du code postal",module,Magento_Paypal
 "AVS zip","AVS code postal",module,Magento_Paypal
-"Back to Billing Agreements","Retour aux ententes de facturation",module,Magento_Paypal
+"AVS Zip Does Not Match","AVS non concordance du code postal",module,Magento_Paypal
+"A wrong PayPal Express Checkout Token is specified.","Une mauvaise clé PayPal Express Checkout est spécifié.",module,Magento_Paypal
 "Back","Retour",module,Magento_Paypal
+"Back to Billing Agreements","Retour aux ententes de facturation",module,Magento_Paypal
 "Balance Manager Account Bonus","compte de gestion de la balance bonus",module,Magento_Paypal
 "Basic Settings - PayPal Express Checkout","Paramètres de base - PayPal Express Checkout",module,Magento_Paypal
 "Basic Settings - PayPal Payflow Link","Paramètres de base - PayPal Payflow Link",module,Magento_Paypal
 "Basic Settings - PayPal Payflow Pro","Réglages de base - PayPal Payflow Pro",module,Magento_Paypal
 "Basic Settings - PayPal Payments Advanced","Paramètres de base - PayPal Payments Advanced",module,Magento_Paypal
-"Basic Settings - PayPal Payments Pro Hosted Solution","Réglages de base - Paiements PayPal Pro Solution Hébergé",module,Magento_Paypal
 "Basic Settings - PayPal Payments Pro","Réglages de base - PayPal Payments Pro",module,Magento_Paypal
+"Basic Settings - PayPal Payments Pro Hosted Solution","Réglages de base - Paiements PayPal Pro Solution Hébergé",module,Magento_Paypal
 "Basic Settings - PayPal Website Payments Pro Hosted Solution","Réglages de base - PayPal Website Payments Pro Solution Hébergé",module,Magento_Paypal
-"Bill-to Name","Nom de facturation",module,Magento_Paypal
 "Billing Agreement # %1","Entente de facturation # %1",module,Magento_Paypal
 "Billing Agreement #%1","Entente de facturation #%1",module,Magento_Paypal
-"Billing Agreement # ","Entente de facturation # ",module,Magento_Paypal
-"Billing Agreement Signup","Engagement d'entente de facturation ",module,Magento_Paypal
-"Billing Agreement View","Vue de l'entente de facturation",module,Magento_Paypal
 "Billing Agreement","Entente de Facturation",module,Magento_Paypal
+"Billing Agreement # ","Entente de facturation # ",module,Magento_Paypal
 "Billing Agreements","Ententes de Facturation",module,Magento_Paypal
+"Billing Agreement Signup","Engagement d'entente de facturation",module,Magento_Paypal
+"Billing Agreement View","Vue de l'entente de facturation",module,Magento_Paypal
 "Billing Information","Informations de Facturation",module,Magento_Paypal
+"Bill-to Name","Nom de facturation",module,Magento_Paypal
 "Bonus for first ACH Use","Bonus pour la première utilisation ACH",module,Magento_Paypal
 "button_label","button_label",module,Magento_Paypal
-"Buy now with PayPal","Acheter maintenant avec PayPal",module,Magento_Paypal
 "Buyer claims that a possible duplicate payment was made to the merchant.","L'acheteur prétend qu'un possible doublon de paiement a été fait par le marchand.",module,Magento_Paypal
 "Buyer claims that he did not receive goods or service.","L'acheteur prétend ne pas avoir reçu les biens ou les services.",module,Magento_Paypal
 "Buyer claims that he/she did not authorize transaction.","Acheteur affirmant qu'il/elle n'a pas autorisé la transaction.",module,Magento_Paypal
 "Buyer claims that the goods or service received differ from merchant’s description of the goods or service.","Acheteur affirmant que les biens ou les services reçus diffèrent de la description du marchand.",module,Magento_Paypal
 "Buyer claims that the received merchandise is unsatisfactory, defective, or damaged.","L'acheteur prétend que la marchandise reçue est insatisfaisante, défectueuse ou endommagée.",module,Magento_Paypal
 "Buyer Credit Payment","Paiement de crédit acheteur",module,Magento_Paypal
-"Buyer's Tax ID Type","Type d'ID de taxe de l'acheteur",module,Magento_Paypal
 "Buyer's Tax ID","ID de taxe de l'acheteur",module,Magento_Paypal
+"Buyer's Tax ID Type","Type d'ID de taxe de l'acheteur",module,Magento_Paypal
+"Buy now with PayPal","Acheter maintenant avec PayPal",module,Magento_Paypal
 "By default it is ""reports.paypal.com"".","Par défaut il est ""reports.paypal.com"".",module,Magento_Paypal
 "Cancel","Annuler",module,Magento_Paypal
 "Canceled","Annulée",module,Magento_Paypal
@@ -178,8 +128,8 @@
 "Card Security Code Does Not Match","Le code de sécurité de la carte ne correspond pas",module,Magento_Paypal
 "Catalog Category Page","Page Catégorie du Catalogue",module,Magento_Paypal
 "Catalog Product Page","Page Produit",module,Magento_Paypal
-"Charge-off","Frais-off",module,Magento_Paypal
 "Chargeback","Frais de retour",module,Magento_Paypal
+"Charge-off","Frais-off",module,Magento_Paypal
 "Checkout Cart Page","Page Panier",module,Magento_Paypal
 "Checkout with PayPal","Commander avec PayPal",module,Magento_Paypal
 "Choose a secure bundled payment solution for your business.","Choisissez une solution de paiement sécurisé pour votre entreprise.",module,Magento_Paypal
@@ -194,76 +144,76 @@
 "Coupon Redemption","Remboursement de coupon",module,Magento_Paypal
 "CPF","CPF",module,Magento_Paypal
 "Create...","Créer...",module,Magento_Paypal
+"Created","Crée",module,Magento_Paypal
 "Created:","Créé:",module,Magento_Paypal
 "Created At","Créé Le",module,Magento_Paypal
 "Created billing agreement #%1.","Entente de facturation #%1 créée.",module,Magento_Paypal
-"Created","Crée",module,Magento_Paypal
-"Credit Card Settings","Paramètres de carte de crédit",module,Magento_Paypal
 "Credit","Crédit",module,Magento_Paypal
+"Credit Card Settings","Paramètres de carte de crédit",module,Magento_Paypal
 "Currency Conversion required to cover negative balance","Conversion des devises nécessaires pour couvrir un solde négatif",module,Magento_Paypal
-"Custom Endpoint Hostname or IP-Address","Critère Personnalisé Hostname ou adresse IP",module,Magento_Paypal
-"Custom Path","Chemin d'accès personnalisé",module,Magento_Paypal
 "Custom","Personnalisé",module,Magento_Paypal
+"Custom Endpoint Hostname or IP-Address","Critère Personnalisé Hostname ou adresse IP",module,Magento_Paypal
 "Customer","Client",module,Magento_Paypal
+"Custom Path","Chemin d'accès personnalisé",module,Magento_Paypal
+"CVV2 Check Result by PayPal","Résultat de vérification de CVV2 par PayPal",module,Magento_Paypal
 "CVV and AVS Settings","Paramètres CVV et AVS",module,Magento_Paypal
 "CVV Entry is Editable","L'entrée CVV est modifiable",module,Magento_Paypal
-"CVV2 Check Result by PayPal","Résultat de vérification de CVV2 par PayPal",module,Magento_Paypal
 "Daily","Quotidien",module,Magento_Paypal
 "Date","Date",module,Magento_Paypal
+"Debit","Débit",module,Magento_Paypal
 "Debit Card Cash Back","Retour d'argent par carte de débit",module,Magento_Paypal
 "Debit Card Transaction","Transaction par carte de débit",module,Magento_Paypal
 "Debit or Credit","Débit ou crédit",module,Magento_Paypal
-"Debit","Débit",module,Magento_Paypal
 "Debug Mode","Mode debug",module,Magento_Paypal
 "Direct Payment API","API Paiement direct",module,Magento_Paypal
+"Display","Affichage",module,Magento_Paypal
 "Display Express Checkout in the Payment Information step","Afficher le paiement Express dans l'étape des informations de paiement",module,Magento_Paypal
 "Display on Product Details Page","Affichage sur la page de détails d'un produit",module,Magento_Paypal
 "Display on Shopping Cart","Afficher dans le Panier",module,Magento_Paypal
-"Display","Affichage",module,Magento_Paypal
 "Displays on catalog pages and homepage.","L'affichage sur les pages de catalogue et l'accueil",module,Magento_Paypal
 "Dispute","Contestation",module,Magento_Paypal
 "Don't have a PayPal account? Simply enter your email address.","Vous n'avez pas de compte PayPal ? Il suffit d'entrer votre adresse email.",module,Magento_Paypal
 "Dynamic","Dynamique",module,Magento_Paypal
 "eBay Auction Payment","Paiement des enchères eBay",module,Magento_Paypal
+"Edit","Éditer",module,Magento_Paypal
 "Edit Payment Information","Modifier l'information sur le paiement",module,Magento_Paypal
 "Edit Shopping Cart","Modifier le Panier",module,Magento_Paypal
-"Edit","Éditer",module,Magento_Paypal
 "EFT Funding (German banking)","Placement d'EFT (opérations bancaires allemandes)",module,Magento_Paypal
-"Email Associated with PayPal Merchant Account (Optional)","Email associé au compte PayPal Merchant (Facultatif)",module,Magento_Paypal
-"Email Associated with PayPal Merchant Account","Email associée à Compte Marchand PayPal",module,Magento_Paypal
 "Email","Email",module,Magento_Paypal
+"Email Associated with PayPal Merchant Account","Email associée à Compte Marchand PayPal",module,Magento_Paypal
+"Email Associated with PayPal Merchant Account (Optional)","Email associé au compte PayPal Merchant (Facultatif)",module,Magento_Paypal
 "Enable Automatic Fetching","Activer la récupération automatique",module,Magento_Paypal
+"Enabled","Activé",module,Magento_Paypal
 "Enable Express Checkout","Activer Express Checkout",module,Magento_Paypal
 "Enable Payflow Link","Activer Payflow Link",module,Magento_Paypal
 "Enable PayPal Credit","Activer PayPal Credit",module,Magento_Paypal
 "Enable PayPal Guest Checkout","Activer le passage de commande pour invité avec PayPal",module,Magento_Paypal
 "Enable SSL verification","Activer la vérification SSL",module,Magento_Paypal
 "Enable this Solution","Activez cette Solution",module,Magento_Paypal
-"Enabled","Activé",module,Magento_Paypal
-"Error processing payment, please try again later.","Erreur sur le traitement du paiement, veuillez essayer plus tard.",module,Magento_Paypal
 "Error","Erreur",module,Magento_Paypal
-"Event Code","Code Événement",module,Magento_Paypal
+"Error processing payment, please try again later.","Erreur sur le traitement du paiement, veuillez essayer plus tard.",module,Magento_Paypal
 "Event","Événement",module,Magento_Paypal
+"Event Code","Code Événement",module,Magento_Paypal
 "Every 3 days","Tous les 3 Jours",module,Magento_Paypal
 "Every 7 days","Tous les 7 Jours",module,Magento_Paypal
 "Every 10 days","Tous les 10 Jours",module,Magento_Paypal
 "Every 14 days","Tous les 14 Jours",module,Magento_Paypal
 "Every 30 days","Tous les 30 Jours",module,Magento_Paypal
 "Every 40 days","Tous les 40 Jours",module,Magento_Paypal
+"Exact Match.","Correspondance Exacte.",module,Magento_Paypal
 "Exact Match. Address and Postal Code. International","Correspondance exacte. Adresse et code postal. International",module,Magento_Paypal
 "Exact Match. Address and Postal Code. UK-specific","Correspondance exacte. Adresse et code postal. Spécifique au Royaume-Uni",module,Magento_Paypal
-"Exact Match.","Correspondance Exacte.",module,Magento_Paypal
+"Express Checkout","Express Checkout",module,Magento_Paypal
 "Express Checkout and Order have been canceled.","Le paiement Express Chackout et la commande ont été annulés.",module,Magento_Paypal
 "Express Checkout APIs","APIs de Express Checkout",module,Magento_Paypal
 "Express Checkout has been canceled.","Le paiement Express Checkout a été annulé.",module,Magento_Paypal
-"Express Checkout","Express Checkout",module,Magento_Paypal
-"Fee: Foreign ACH Withdrawal","Frais: Retrait ACH étrangères",module,Magento_Paypal
-"Fee: Mass Pay Request","Frais: demande de paiement de masse",module,Magento_Paypal
-"Fee: Web Site Payments Pro Account Monthly","Frais: Paiements du Site Web de compte mensuel Pro",module,Magento_Paypal
-"Fee: WorldLink Check Withdrawal","Frais: retrait par chèque WorldLink",module,Magento_Paypal
 "Fee Amount","Montant des Frais",module,Magento_Paypal
 "Fee Debit or Credit","Frais de débit ou de crédit",module,Magento_Paypal
+"Fee: Foreign ACH Withdrawal","Frais: Retrait ACH étrangères",module,Magento_Paypal
+"Fee: Mass Pay Request","Frais: demande de paiement de masse",module,Magento_Paypal
 "Fee Reversal","Frais d'inversion",module,Magento_Paypal
+"Fee: Web Site Payments Pro Account Monthly","Frais: Paiements du Site Web de compte mensuel Pro",module,Magento_Paypal
+"Fee: WorldLink Check Withdrawal","Frais: retrait par chèque WorldLink",module,Magento_Paypal
 "Fetch Updates","Mises à jour chercher",module,Magento_Paypal
 "Finish Date","Date de fin",module,Magento_Paypal
 "First Name","Prénom",module,Magento_Paypal
@@ -271,47 +221,47 @@
 "Frontend Experience Settings","Paramètres d'expérience en frontend",module,Magento_Paypal
 "Funding","Financement",module,Magento_Paypal
 "General: adjustment of a type not belonging to the other T12xx categories","Général: ajustement d'un type n'appartenant pas aux autres Catégories de T12xx",module,Magento_Paypal
+"General Adjustment without businessrelated event","Ajustement général sans événement lié au marché",module,Magento_Paypal
 "General (Authorization)","Général (Autorisation)",module,Magento_Paypal
 "General: bonus of a type not belonging to the other T08xx categories","Général: bonification d'un type n'appartenant pas aux autres Catégories de T08xx",module,Magento_Paypal
+"General Currency Conversion","Conversion de devises général",module,Magento_Paypal
 "General (Dividend)","Général (dividendes)",module,Magento_Paypal
 "General: event not yet categorized","Général: événement pas encore classé par catégorie",module,Magento_Paypal
+"General Funding of PayPal Account ","Financement général de compte PayPal ",module,Magento_Paypal
 "General (Funds Transfer from PayPal Account to Another)","Général (transfert de fonds de compte PayPal à un autre)",module,Magento_Paypal
+"General Information","Informations Générales",module,Magento_Paypal
 "General: non-payment fee of a type not belonging to the other T01xx categories","Général: Taxe de non-paiement d'un type qui n'appartiennent pas aux autres Catégories T01xx",module,Magento_Paypal
 "General. Product no longer supported","Généralités. Ce Produit n'est plus pris en charge",module,Magento_Paypal
 "General (Purchase with a credit card)","Généraux (achat avec une carte de crédit)",module,Magento_Paypal
 "General: received payment of a type not belonging to the other T00xx categories","Général: paiement reçu d'un type n'appartenant pas aux autres Catégories de T00xx",module,Magento_Paypal
+"General Redemption","Remboursement général",module,Magento_Paypal
 "General: reversal of a type not belonging to the other T11xx categories","Général: inversion d'un type n'appartenant pas aux autres Catégories de T11xx",module,Magento_Paypal
 "General: temporary hold of a type not belonging to the other T15xx categories","Général: suspension temporaire d'un type qui n'appartiennent pas aux autres Catégories T15xx",module,Magento_Paypal
 "General: Use of PayPal account for purchasing as well as receiving payments","Compte général: utilisation de PayPal pour l'achat ainsi que la réception des paiements",module,Magento_Paypal
+"General Withdrawal from PayPal Account","Retrait général de compte PayPal",module,Magento_Paypal
 "General: Withdrawal from PayPal Account","Général: Retrait de compte PayPal",module,Magento_Paypal
 "General: Withdrawal to Non-Bank Entity","Général: Retrait à l'entité non-bancaire",module,Magento_Paypal
-"General Adjustment without businessrelated event","Ajustement général sans événement lié au marché",module,Magento_Paypal
-"General Currency Conversion","Conversion de devises général",module,Magento_Paypal
-"General Funding of PayPal Account ","Financement général de compte PayPal ",module,Magento_Paypal
-"General Information","Informations Générales",module,Magento_Paypal
-"General Redemption","Remboursement général",module,Magento_Paypal
-"General Withdrawal from PayPal Account","Retrait général de compte PayPal",module,Magento_Paypal
 "Get Credentials from PayPal","Obtenez les informations d'accès de PayPal",module,Magento_Paypal
 "Get Publisher ID from PayPal","Obtenez l'ID Editeur de PayPal",module,Magento_Paypal
 "Gift Certificate Payment: purchase of Gift Certificate","Paiement par chèque cadeau: achat de chèques cadeaux",module,Magento_Paypal
 "Gift Certificate Redemption","Rachat de Chèque Cadeau",module,Magento_Paypal
 "Gross Amount","Montant brut",module,Magento_Paypal
-"Header (center)","Header (centre)",module,Magento_Paypal
 "Header Background Color","Couleur d'arrière plan de l'entête",module,Magento_Paypal
 "Header Border Color","Couleur de la bordure de l'entête",module,Magento_Paypal
+"Header (center)","Header (centre)",module,Magento_Paypal
 "Header Image URL","URL de l'Image d'entête",module,Magento_Paypal
 "Help","Aide",module,Magento_Paypal
 "here","ici",module,Magento_Paypal
 "Hidden Virtual PayPal Debit Card Transaction","Transaction virtuelle cachée de carte de débit de PayPal",module,Magento_Paypal
 "Hold for Dispute Investigation","Bloquer pendant l'enquête de litige",module,Magento_Paypal
 "Home Page","Page d'Accueil",module,Magento_Paypal
-"I'm sorry - but we are not able to complete your transaction. Please contact us so we can assist you.","Nous ne sommes pas en mesure de compléter votre transaction. Veuillez nous contacter afin que nous puissions vous aider.",module,Magento_Paypal
-"I'm sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you.","Nous ne sommes pas en mesure de traiter votre paiement. Veuillez essayer une autre méthode de paiement ou contactez-nous afin que nous puissions vous aider.",module,Magento_Paypal
 "ID","ID",module,Magento_Paypal
 "If not specified, Default Country from General Config will be used","S'il n'est pas spécifié, le pays par défaut dans la configuration général sera utilisé",module,Magento_Paypal
 "If this option is enabled, customer can change shipping address and shipping method on PayPal website. In live mode works via HTTPS protocol only.","Si cette option est activée, le Client peut changer l'adresse de livraison et d'expédition méthode sur le site de PayPal. Travail en mode direct via le protocole HTTPS uniquement.",module,Magento_Paypal
 "If you do not have multiple users set up on your account, please re-enter your Vendor/Merchant Login here.","Si vous ne disposez pas de plusieurs utilisateurs mis en place sur votre compte, veuillez entrer de nouveau votre login Vendeur/ Marchand ici.",module,Magento_Paypal
 "Important: ","Important: ",module,Magento_Paypal
+"I'm sorry - but we are not able to complete your transaction. Please contact us so we can assist you.","Nous ne sommes pas en mesure de compléter votre transaction. Veuillez nous contacter afin que nous puissions vous aider.",module,Magento_Paypal
+"I'm sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you.","Nous ne sommes pas en mesure de traiter votre paiement. Veuillez essayer une autre méthode de paiement ou contactez-nous afin que nous puissions vous aider.",module,Magento_Paypal
 "Incentive","Incitation",module,Magento_Paypal
 "Incl. Tax","TTC",module,Magento_Paypal
 "International AVS Indicator Does Not Match","Indicateur international AVS ne correspond pas",module,Magento_Paypal
@@ -319,26 +269,26 @@
 "Invalid block type","Type de bloc invalide",module,Magento_Paypal
 "Invalid method %1::%2(%3)","Méthode invalide %1::%2(%3)",module,Magento_Paypal
 "Invoice ID","ID Facture",module,Magento_Paypal
-"IPN ""%1"". %2 Transaction amount %3. Transaction ID: ""%4""","IPN ""%1"". %2 Montant de Transaction %3. Transaction ID: ""%4""",module,Magento_Paypal
+"IPN ""%1""","IPN ""%1""",module,Magento_Paypal
 "IPN ""%1"". A dispute has been resolved and closed. %2 Transaction amount %3.","IPN ""%1"". Un différend a été résolu et clôturé. %2 Montant de la transaction %3.",module,Magento_Paypal
 "IPN ""%1"". Case type ""%2"". Case ID ""%3"" %4","IPN ""%1"". Type de cas ""%2"". Cas ID ""%3"" %4",module,Magento_Paypal
-"IPN ""%1""","IPN ""%1""",module,Magento_Paypal
+"IPN ""%1"". %2 Transaction amount %3. Transaction ID: ""%4""","IPN ""%1"". %2 Montant de Transaction %3. Transaction ID: ""%4""",module,Magento_Paypal
 "IPN (Instant Payment Notification) Only","Notification instantanée de paiement (IPN) seulement",module,Magento_Paypal
+"Item","Article",module,Magento_Paypal
+"Items in Your Shopping Cart","Articles dans votre panier",module,Magento_Paypal
 "It is recommended to set this value to ""Debit or Credit Card"" per store views.","Il est recommandé de fixer cette valeur à ""Carte de débit ou de crédit"" pour chaque vue magasin.",module,Magento_Paypal
 "It is recommended to set this value to ""Magento_Paypal"" per store views.","Il est recommandé de définir cette valeur à ""Magento_Paypal"" par vue magasin.",module,Magento_Paypal
 "It is recommended to set this value to ""PayPal"" per store views.","Il est recommandé de fixer cette valeur à ""PayPal"" par vues de magasin.",module,Magento_Paypal
-"Item","Article",module,Magento_Paypal
-"Items in Your Shopping Cart","Articles dans votre panier",module,Magento_Paypal
 "Last Correlation ID","Dernier ID de corrélation",module,Magento_Paypal
 "Last Name","Nom",module,Magento_Paypal
 "Last Transaction ID","ID de la dernière transaction",module,Magento_Paypal
 "Learn More","En Savoir Plus",module,Magento_Paypal
 "Login","Se connecter",module,Magento_Paypal
 "Mass Pay Payment","Paiement en masse de salaire",module,Magento_Paypal
+"Matched Address only (no ZIP)","Correspondance des adresses seulement (sans le code postal)",module,Magento_Paypal
+"Matched Address only (no ZIP) International","Correspondance des adresses internationnales seulement (sans le code postal)",module,Magento_Paypal
 "Matched (CVV2)","Correspondance (CVV2)",module,Magento_Paypal
 "Matched (CVV2CSC)","Correspondance (CVV2CSC)",module,Magento_Paypal
-"Matched Address only (no ZIP) International","Correspondance des adresses internationnales seulement (sans le code postal)",module,Magento_Paypal
-"Matched Address only (no ZIP)","Correspondance des adresses seulement (sans le code postal)",module,Magento_Paypal
 "Matched five-digit ZIP only (no Address)","Correspondance sur 5 chiffres du code postal uniquement",module,Magento_Paypal
 "Matched Postal Code only (no Address)","Correspondance du code postal uniquement",module,Magento_Paypal
 "Matched whole nine-didgit ZIP (no Address)","Correspondance sur 9 chiffres du code postal",module,Magento_Paypal
@@ -347,7 +297,9 @@
 "Merchant Location","Localisation du marchand",module,Magento_Paypal
 "Merchant Protection Eligibility","Protection à l'éligibilité du Marchand",module,Magento_Paypal
 "Merchant Referral Bonus","Prime de recommandation marchande",module,Magento_Paypal
+"Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.","Les marchands doivent faire une demande à PayPal pour activer les accords de facturation. Ne pas activer cette option tant que PayPal n'a pas confirmé que les accords de facturation sont activés sur votre compte marchand.",module,Magento_Paypal
 "Mobile Payment (made via a mobile phone)","Paiement par mobile (réalisées par l'intermédiaire d'un téléphone mobile)",module,Magento_Paypal
+"N/A","N/A",module,Magento_Paypal
 "N/A. Address not checked, or acquirer had no response. Service not available","N/A. L'adresse n'a pas été vérifié, ou l'acquéreur n'a pas donné de réponse. Service non disponible",module,Magento_Paypal
 "N/A. Global Unavailable","N/A. Global Indisponible",module,Magento_Paypal
 "N/A. International Unavailable","N/A. International Indisponible",module,Magento_Paypal
@@ -362,20 +314,19 @@
 "N/A. The merchant did not provide AVS information","N/A. Le commerçant ne possède pas d'information AVS",module,Magento_Paypal
 "N/A. The merchant has not implemented CVV2 code handling","N/A. Le commerçant n'a pas mis en œuvre de code CVV2",module,Magento_Paypal
 "N/A. Unavailable","N/A. Indisponible.",module,Magento_Paypal
-"N/A","N/A",module,Magento_Paypal
 "Near PayPal Credit checkout button","Près du bouton de paiement PayPal Credit",module,Magento_Paypal
 "Negative Balance","Solde Négatif",module,Magento_Paypal
 "Never","Jamais",module,Magento_Paypal
 "New Billing Agreement","Nouvelle entente de facturation",module,Magento_Paypal
-"No Details matched. International","Aucune correspondance trouvée. International",module,Magento_Paypal
+"No","Non",module,Magento_Paypal
 "No Details matched","Aucune correspondance trouvée",module,Magento_Paypal
+"No Details matched. International","Aucune correspondance trouvée. International",module,Magento_Paypal
 "No Logo","Auncun Logo",module,Magento_Paypal
 "No match","Aucune correspondance",module,Magento_Paypal
-"No","Non",module,Magento_Paypal
 "None of the address information matched","Aucune correspondance trouvée dans l'adresse",module,Magento_Paypal
-"Not sure what PayPal payment method to use? Click ","Pas certain de la méthode paiement à utiliser sur PayPal? Cliquez ",module,Magento_Paypal
 "Note: %1","Note: %1",module,Magento_Paypal
 "Notice that PayPal can handle up to 10 shipping options. That is why Magento will transfer only first 10 cheapest shipping options if there are more than 10 available.","PayPal est capable de gérer jusqu'à 10 options de livraison. C'est pour cela que Magento transfèrera uniquement les 10 options de livraison les moins chères s'il y en a plus que 10.",module,Magento_Paypal
+"Not sure what PayPal payment method to use? Click ","Pas certain de la méthode paiement à utiliser sur PayPal? Cliquez ",module,Magento_Paypal
 "Now accepting PayPal (150 X 40)","Nous acceptons désormais PayPal (150 X 40)",module,Magento_Paypal
 "Now accepting PayPal (150 X 60)","Nous acceptons désormais PayPal (150 X 60)",module,Magento_Paypal
 "Number of Child Authorizations","Nombre d'autorisations enfants",module,Magento_Paypal
@@ -383,56 +334,55 @@
 "Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Une fois connecté à votre compte PayPal Payflow Link, accédez aux paramètres de service - Hosted Checkout Pages - Menu configuration et définissez les options décrites ci-dessous",module,Magento_Paypal
 "Open Authorization","Ouvrez l'autorisation",module,Magento_Paypal
 "or","ou",module,Magento_Paypal
+"Order","Commande",module,Magento_Paypal
 "Order #","Commande #",module,Magento_Paypal
+"Ordered amount of %1","Montant commandé de %1",module,Magento_Paypal
 "Order ID","ID Commande",module,Magento_Paypal
 "Order Status","Statut de la Commande",module,Magento_Paypal
 "Order Total","Total de la commande",module,Magento_Paypal
 "Order Valid Period (days)","Période de validité d'une commande (jours)",module,Magento_Paypal
-"Order","Commande",module,Magento_Paypal
-"Ordered amount of %1","Montant commandé de %1",module,Magento_Paypal
 "Page Background Color","Couleur d'arrière plan de la page",module,Magento_Paypal
 "Page Style","Style de page",module,Magento_Paypal
-"Part of the address information matched","Correspondance trouvée sur une partie de l'adresse.",module,Magento_Paypal
 "Partner","Partenaire",module,Magento_Paypal
+"Part of the address information matched","Correspondance trouvée sur une partie de l'adresse.",module,Magento_Paypal
 "Password","Mot de Passe",module,Magento_Paypal
 "Payer Address ID","ID adresse du Payeur",module,Magento_Paypal
 "Payer Address Status","Statut adresse du Payeur",module,Magento_Paypal
 "Payer Email","Email du Payeur",module,Magento_Paypal
 "Payer ID","ID Payeur",module,Magento_Paypal
 "Payer Status","Statut du Payeur",module,Magento_Paypal
-"Payflow Link (Includes Express Checkout)","Payflow Link (Contient Express Checkout)",module,Magento_Paypal
 "Payflow Link and Express Checkout","Payflow Link et Express Checkout",module,Magento_Paypal
+"Payflow Link (Includes Express Checkout)","Payflow Link (Contient Express Checkout)",module,Magento_Paypal
 "Payflow PNREF: #%1.","Payflow PNREF: #%1.",module,Magento_Paypal
-"Payflow Pro (Includes Express Checkout)","Payflow Pro (Contient Express Checkout)",module,Magento_Paypal
-"Payflow Pro and Express Checkout","Payflow Pro et Express Checkout",module,Magento_Paypal
 "Payflow Pro","Payflow Pro",module,Magento_Paypal
+"Payflow Pro and Express Checkout","Payflow Pro et Express Checkout",module,Magento_Paypal
+"Payflow Pro (Includes Express Checkout)","Payflow Pro (Contient Express Checkout)",module,Magento_Paypal
 "Payment Action","Action de Paiement",module,Magento_Paypal
 "Payment Applicable From","Paiement valable depuis",module,Magento_Paypal
-"Payment Method:","Mode de paiement:",module,Magento_Paypal
 "Payment Method","Mode de paiement",module,Magento_Paypal
+"Payment Method:","Mode de paiement:",module,Magento_Paypal
 "Payment Refund initiated by merchant","Remboursement de paiement initié par le marchand",module,Magento_Paypal
-"Payments Advanced (Includes Express Checkout)","Payments Advanced (Contient Express Checkout)",module,Magento_Paypal
 "Payments Advanced and Express Checkout","Payments Advanced et Express Checkout",module,Magento_Paypal
+"Payments Advanced (Includes Express Checkout)","Payments Advanced (Contient Express Checkout)",module,Magento_Paypal
 "Payments by PayPal (150 X 40)","Paiements par PayPal (150 X 40)",module,Magento_Paypal
 "Payments by PayPal (150 X 60)","Paiements par PayPal (150 X 60)",module,Magento_Paypal
 "Payments Pro and Express Checkout","Payments Pro et Express Checkout",module,Magento_Paypal
 "Payments Pro Hosted Solution","Paiements Pro Solution Hébergé",module,Magento_Paypal
+"PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>","PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accepter et procéder au paiement par carte bancaire et paiement PayPal.</i>",module,Magento_Paypal
 "PayPal Balance Manager function of PayPal account","Fonction du gestionnaire PayPal solde du compte PayPal",module,Magento_Paypal
 "PayPal Billing Agreement Settings","Paramètres d'entente de facturation PayPal",module,Magento_Paypal
 "PayPal Buyer Warranty Bonus","PayPal bonus garantie acheteur",module,Magento_Paypal
-"PayPal can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.","PayPal ne peut traiter les commandes avec un solde nul. Pour terminer votre achat, veuillez passer par le processus de commande standard.",module,Magento_Paypal
 "PayPal Canceled Reversal","Remboursement PayPal Annulé",module,Magento_Paypal
+"PayPal can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.","PayPal ne peut traiter les commandes avec un solde nul. Pour terminer votre achat, veuillez passer par le processus de commande standard.",module,Magento_Paypal
 "PayPal Debit Card Cash Advance","PayPal avance de trésorerie de débit par carte",module,Magento_Paypal
 "PayPal Debit Card Withdrawal from ATM","PayPal par carte de débit Retrait ATM",module,Magento_Paypal
+"PayPal Express Checkout","PayPal Express Checkout",module,Magento_Paypal
 "PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
                         You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
-                        <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>
-                ","PayPal Express Checkout permet à vos client d'obtenir un financement PayPal Credit&#174; - sans coût supplémentaire pour vous.
+                        <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","PayPal Express Checkout permet à vos client d'obtenir un financement PayPal Credit&#174; - sans coût supplémentaire pour vous.
                         Vous êtes payé, même si les clients ont du retard. Un bouton de paiement pré-intégrée permet aux clients de payer avec PayPal Credit rapidement&#174;.
-                        <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">En savoir plus</a>
-                ",module,Magento_Paypal
+                        <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">En savoir plus</a>",module,Magento_Paypal
 "PayPal Express Checkout Token does not exist.","Le jeton PayPal Express n'existe pas",module,Magento_Paypal
-"PayPal Express Checkout","PayPal Express Checkout",module,Magento_Paypal
 "PayPal Fee Information","Renseignements sur les frais PayPal",module,Magento_Paypal
 "PayPal gateway has rejected request. %1","PayPal a rejeté la demande. %1",module,Magento_Paypal
 "PayPal Merchant Pages Style","PayPal marchand pages de style",module,Magento_Paypal
@@ -442,8 +392,8 @@
 "PayPal Protection Bonus","bonus de protection PayPal",module,Magento_Paypal
 "PayPal recommends that you set up an additional User on your account at manager.paypal.com","PayPal vous recommande de mettre en place un utilisateur supplémentaire dans votre compte sur manager.paypal.com",module,Magento_Paypal
 "PayPal recommends you set up an additional User on your account at manager.paypal.com, instead of entering your admin username and password here. This will enhance your security and prevent service interruptions if you later change your password. If you do not want to set up an additional User, you can re-enter your Merchant Login here.","PayPal vous recommande de mettre en place un utilisateur supplémentaire dans votre compte à manager.paypal.com, au lieu d'entrer votre nom d'utilisateur et mot de passe admin ici. Cela permettra d'améliorer votre sécurité et éviter les interruptions de service si vous changez votre mot de passe. Si vous ne voulez pas mettre en place un utilisateur supplémentaire, vous pouvez réintégrer votre compte marchand ici.",module,Magento_Paypal
-"PayPal Reference ID Type","Référence PayPal ID Type",module,Magento_Paypal
 "PayPal Reference ID","Référence PayPal ID",module,Magento_Paypal
+"PayPal Reference ID Type","Référence PayPal ID Type",module,Magento_Paypal
 "PayPal response hasn't required fields.","La réponse de PayPal ne comporte pas les champs obligatoires.",module,Magento_Paypal
 "PayPal retains reports for 45 days.","PayPal conserve des rapports pendant 45 jours.",module,Magento_Paypal
 "PayPal Reversed","Remboursement PayPal",module,Magento_Paypal
@@ -452,8 +402,11 @@
 "Place Order","Passez la commande",module,Magento_Paypal
 "Please agree to all the terms and conditions before placing the order.","Veuillez accepter les conditions générales de ventes avant de valider la commande.",module,Magento_Paypal
 "Please do not refresh the page until you complete payment.","Merci de ne pas rafraîchir la page jusqu'à la fin du paiement.",module,Magento_Paypal
-"Please select a shipping method...","Sélectionnez un mode de livraison...",module,Magento_Paypal
+"-- Please Select --","-- Faire un Choix --",module,Magento_Paypal
 "Please Select","Veuillez Sélectionner",module,Magento_Paypal
+"--Please Select--","--Faites un choix--",module,Magento_Paypal
+"Please select a shipping method...","Sélectionnez un mode de livraison...",module,Magento_Paypal
+"-- Please Select Billing Agreement--","-- Veuillez choisir une entente de facturation--",module,Magento_Paypal
 "Please specify the correct billing agreement ID and try again.","Veuillez spécifier un ID correcte d'entente de facturation et essayez à nouveau.",module,Magento_Paypal
 "Please update order data to get shipping methods and rates","Veuillez mettre à jour les données de commande pour obtenir les modes et tarifs de livraison",module,Magento_Paypal
 "Points Incentive Redemption","Rachat d'incitation de points",module,Magento_Paypal
@@ -466,12 +419,12 @@
 "Proxy Host","Hôte proxy",module,Magento_Paypal
 "Proxy Port","Port de proxy",module,Magento_Paypal
 "Publisher ID","ID Editeur",module,Magento_Paypal
-"Purchase Point","Acheté sur (Magasin)",module,Magento_Paypal
 "Purchased","Acheté",module,Magento_Paypal
+"Purchase Point","Acheté sur (Magasin)",module,Magento_Paypal
 "Qty","Qté",module,Magento_Paypal
 "Reauthorization","Réautorisation",module,Magento_Paypal
-"Reference ID:","ID de réference:",module,Magento_Paypal
 "Reference ID","Réference ID",module,Magento_Paypal
+"Reference ID:","ID de réference:",module,Magento_Paypal
 "Reference Information","Information sur la référence",module,Magento_Paypal
 "Reimbursement for a chargeback.","Remboursement des frais de rejet de débit.",module,Magento_Paypal
 "Reimbursement of Chargeback","Remboursement des rejets de débit.",module,Magento_Paypal
@@ -483,11 +436,11 @@
 "Require CVV Entry","Entrée CVV Exiger",module,Magento_Paypal
 "Required PayPal Settings","Réglages PayPal requis",module,Magento_Paypal
 "Required to display a banner","Nécessaire pour afficher une bannière",module,Magento_Paypal
+"Reversal","Inversion",module,Magento_Paypal
 "Reversal of an adjustment.","Inversion d'un ajustement.",module,Magento_Paypal
 "Reversal of General Account Hold","Inversion de prise de compte général",module,Magento_Paypal
 "Reversal of hold for Dispute Investigation","Débloquer pendant l'enquête de litige",module,Magento_Paypal
 "Reversal of Points Usage","Inversion d'utilisation de points",module,Magento_Paypal
-"Reversal","Inversion",module,Magento_Paypal
 "Reward Voucher Redemption","Rachat de bon de récompense",module,Magento_Paypal
 "Sale","Vente",module,Magento_Paypal
 "Sales","Ventes",module,Magento_Paypal
@@ -502,24 +455,24 @@
 "Settlement of a chargeback.","Le règlement d'un rejet de débit.",module,Magento_Paypal
 "Settlement Report Settings","Les paramètres du rapport de règlement",module,Magento_Paypal
 "SFTP Credentials","Informations d'accès SFTP",module,Magento_Paypal
-"Ship-to Name","Nom de livraison",module,Magento_Paypal
-"Ship To","Livré à",module,Magento_Paypal
 "Shipping Address","Adresse de Livraison",module,Magento_Paypal
 "Shipping Information","Informations de livraison",module,Magento_Paypal
 "Shipping Method","Mode de Livraison",module,Magento_Paypal
+"Ship To","Livré à",module,Magento_Paypal
+"Ship-to Name","Nom de livraison",module,Magento_Paypal
 "Shop now using (150 X 40)","Magasin utilisant maintenant (150 X 40)",module,Magento_Paypal
 "Shop now using (150 X 60)","Magasin utilisant maintenant (150 X 60)",module,Magento_Paypal
-"Shortcut Buttons Flavor","Boutons de raccourci Flavor",module,Magento_Paypal
 "Shortcut","Raccourci",module,Magento_Paypal
+"Shortcut Buttons Flavor","Boutons de raccourci Flavor",module,Magento_Paypal
 "Sidebar (right)","Sidebar (droite)",module,Magento_Paypal
 "Sign a billing agreement to streamline further purchases  with PayPal.","Signez un entente de facturation afin de rationaliser davantage les achats avec PayPal.",module,Magento_Paypal
 "Size","Taille",module,Magento_Paypal
-"Skip Order Review Step","Passer la revue de la commande ",module,Magento_Paypal
+"Skip Order Review Step","Passer la revue de la commande",module,Magento_Paypal
 "Something went wrong while processing your order.","Une erreur s'est produite lors du traitement de votre commande.",module,Magento_Paypal
 "Sorry, but something went wrong. Please contact PayPal customer service.","Une erreur s'est produite. Veuillez contacter le service client de PayPal.",module,Magento_Paypal
 "Sorry, no quotes are available for this order right now.","Désolé, aucune estimation n'est actuellement disponible pour cette commande.",module,Magento_Paypal
-"Sorry, something went wrong. Please try again later.","Une erreur s'est produite. Veuillez réessayer plus tard.",module,Magento_Paypal
 "Sorry, something went wrong.","Une erreur s'est produite.",module,Magento_Paypal
+"Sorry, something went wrong. Please try again later.","Une erreur s'est produite. Veuillez réessayer plus tard.",module,Magento_Paypal
 "Sort Order","Ordre de Tri",module,Magento_Paypal
 "Specifies what the Authorization Honor Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.","Indiquez quelle est la période d'autorisation d'honneur sur ​​le compte PayPal du marchand. Il doit refléter le paramétrage dans PayPal.",module,Magento_Paypal
 "Specifies what the Order Valid Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.","Indiquez quelle est la période de validité de commande sur ​​le compte PayPal du marchand. Il doit refléter le paramétrage dans PayPal.",module,Magento_Paypal
@@ -531,13 +484,17 @@
 "Subscription ID","ID Abonnement",module,Magento_Paypal
 "Subscription Payment, either payment sent or payment received","Paiement d'abonnement, paiement envoyé ou paiement reçu",module,Magento_Paypal
 "Subtotal","Sous-Total",module,Magento_Paypal
+"Supporting of American Express cards require additional agreement. Learn more at <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.","Le support des cartes American Express nécessite un accord supplémentaire. En savoir plus au <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.",module,Magento_Paypal
 "Test Mode","Mode Test",module,Magento_Paypal
 "The authorized amount is %1.","Le montant autorisé est %1.",module,Magento_Paypal
+"The background color for the checkout page around the header and payment form.","Couleur d’arrière-plan de la page paiement autour de l'en-tête et du formulaire de paiement.",module,Magento_Paypal
+"The background color for the header of the checkout page. Case-insensitive six-character HTML hexadecimal color code in ASCII.","Couleur de fond pour l'en-tête de la page de paiement. Code hexadécimal de la couleur.",module,Magento_Paypal
 "The billing agreement ""%1"" has been canceled.","L'entente de facturation ""%1"" a été annulée.",module,Magento_Paypal
 "The billing agreement ""%1"" has been created.","L'entente de facturation ""%1"" a été créée.",module,Magento_Paypal
 "The Billing Agreement status is not set.","Le statut de l'entente de facturation n'est pas défini.",module,Magento_Paypal
 "The customer ID is not set.","L'ID du Client n'est pas défini.",module,Magento_Paypal
 "The default number of child authorizations in your PayPal account is 1. To do multiple authorizations please contact PayPal to request an increase.","Le nombre par Défaut d'autorisations enfants dans votre compte Paypal est de 1. Veuillez contacter PayPal pour demander une augmentation.",module,Magento_Paypal
+"The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged.","Image en haut à gauche sur la page de paiement. La taille maximale est de 750x90px. <strong style=""color:red"">https</strong> est recommandé.",module,Magento_Paypal
 "The maximum number of child authorizations is reached.","Le nombre maximum d'autorisations enfants est atteint.",module,Magento_Paypal
 "The merchant account is not yet verified.","Le compte marchand n'est pas encore vérifié.",module,Magento_Paypal
 "The merchant holds a non-U.S. account and doesn't have a withdrawal mechanism.","Le marchand titulaire d'un compte non-U.S et ne dispose pas d'un système de mécanisme de retrait.",module,Magento_Paypal
@@ -552,13 +509,14 @@
 "The PayPal certificate does not exist.","Le certificat PayPal n'existe pas.",module,Magento_Paypal
 "The PayPal certificate file is empty.","Le fichier de certificat PayPal est vide.",module,Magento_Paypal
 "The PayPal gateway rejected the request. %1","La passerelle PayPal a rejeté la demande. %1",module,Magento_Paypal
-"The reference ID is not set.","L'ID de référence n'est pas défini.",module,Magento_Paypal
 "There are no billing agreements yet.","Il n'existe aucune entente de facturation pour le moment.",module,Magento_Paypal
+"The reference ID is not set.","L'ID de référence n'est pas défini.",module,Magento_Paypal
 "This customer didn't include a confirmed address.","Ce client ne possède pas d'adresse confirmée.",module,Magento_Paypal
 "This feature needs be enabled first for the merchant account through PayPal technical support.","Cette fonctionnalité doit d'abord être activée pour le compte commerçant via le support technique de PayPal.",module,Magento_Paypal
 "Time of Day","Heure du jour",module,Magento_Paypal
 "Title","Titre",module,Magento_Paypal
 "To check out, please sign in with your email address.","Pour commander, veuillez vous connecter avec votre adresse email.",module,Magento_Paypal
+" to learn more."," en savoir plus.",module,Magento_Paypal
 "To use PayPal Payflow Link, you must configure your PayPal Payflow Link account on the PayPal website.","Pour utiliser PayPal Payflow Link, vous devez configurer votre compte PayPal Payflow Link sur le site PayPal.",module,Magento_Paypal
 "To use PayPal Payments Advanced, you must configure  your PayPal Payments Advanced account on the PayPal website.","Pour utiliser PayPal Paiements Advanced, vous devez configurer votre compte PayPal Paiements Advanced sur le site PayPal.",module,Magento_Paypal
 "Transaction has been declined","La transaction a été refusée",module,Magento_Paypal
@@ -573,25 +531,29 @@
 "Unable to fetch transaction details.","Impossible de récupérer les détails de la transaction.",module,Magento_Paypal
 "Unable to save Billing Agreement:","Impossible de sauvegarder le contrat de facturation:",module,Magento_Paypal
 "Unknown reason. Please contact PayPal customer service.","raison inconnue. S'il vous plaît contactez le service Clientèle de PayPal.",module,Magento_Paypal
-"Update Shipping Method","Changer de mode de livraison",module,Magento_Paypal
 "Updated:","Modifié:",module,Magento_Paypal
-"Updated At","Mise à jour à",module,Magento_Paypal
 "Updated","Mis à jour",module,Magento_Paypal
+"Updated At","Mise à jour à",module,Magento_Paypal
+"Update Shipping Method","Changer de mode de livraison",module,Magento_Paypal
 "URL method for Cancel URL and Return URL","Méthode d'URL pour les URL d'annulation et de retour",module,Magento_Paypal
-"Use colon to specify port. For example: ""test.example.com:5224"".","Employez les deux points pour spécifier le port. Par exemple: ""test.example.com:5224"".",module,Magento_Paypal
+"Use colon to specify port. For example: ""test.example.com:5224"".","Employez les deux points pour spécifier le port. Par exemple : ""test.example.com:5224"".",module,Magento_Paypal
 "Use Proxy","Utiliser un proxy",module,Magento_Paypal
-"User-initiated Currency Conversion","L'utilisateur de conversion de devises lancé",module,Magento_Paypal
 "User","Utilisateur",module,Magento_Paypal
+"User-initiated Currency Conversion","L'utilisateur de conversion de devises lancé",module,Magento_Paypal
 "Vendor","Vendeur",module,Magento_Paypal
+"View","Voir",module,Magento_Paypal
 "View Demo","Voir la Demo",module,Magento_Paypal
 "View Order","Voir la Commande",module,Magento_Paypal
-"View Transaction Details","Voir les détails des transactions",module,Magento_Paypal
 "View Transaction","Voir la transaction",module,Magento_Paypal
-"View","Voir",module,Magento_Paypal
+"View Transaction Details","Voir les détails des transactions",module,Magento_Paypal
 "Virtual PayPal Debit Card Transaction","Virtual transaction PayPal par carte de débit",module,Magento_Paypal
 "Virtual Terminal Payment","Terminal de paiement virtuel",module,Magento_Paypal
 "Void","Invalider",module,Magento_Paypal
 "We are connecting to the PayPal SFTP server to retrieve new reports. Are you sure you want to continue?","Nous nous connectons au serveur SFTP PayPal pour récupérer les nouveaux rapports. Êtes-vous sûr de vouloir continuer ?",module,Magento_Paypal
+"Website Payments Pro Hosted Solution","Solution hébergée Website Payments Pro",module,Magento_Paypal
+"Website Payments Pro Hosted Solution and Express Checkout","Website Payments Pro Hosted Solution et Express Checkout",module,Magento_Paypal
+"We cannot create a target file for reading reports.","Impossible de créer le fichier pour la lecture des rapports.",module,Magento_Paypal
+"We cannot send the new order email.","Nous ne pouvons pas envoyer l'email de nouvelle commande.",module,Magento_Paypal
 "We can't cancel the billing agreement.","Nous ne pouvons pas annuler l'entente de facturation.",module,Magento_Paypal
 "We can't contact the PayPal gateway.","Nous ne pouvons pas communiquer avec la passerelle PayPal.",module,Magento_Paypal
 "We can't create a billing agreement for this order.","Impossible de créer un accord de facturation pour cette commande.",module,Magento_Paypal
@@ -605,33 +567,30 @@
 "We can't start Express Checkout.","Impossible de démarrer Express Checkout.",module,Magento_Paypal
 "We can't start the billing agreement wizard.","Nous ne pouvons pas lancer l'assistant d'entente de facturation.",module,Magento_Paypal
 "We can't update shipping method.","Nous ne pouvons pas mettre à jour la méthode d'expédition.",module,Magento_Paypal
-"We cannot create a target file for reading reports.","Impossible de créer le fichier pour la lecture des rapports.",module,Magento_Paypal
-"We cannot send the new order email.","Nous ne pouvons pas envoyer l'email de nouvelle commande.",module,Magento_Paypal
 "We couldn't finish the billing agreement wizard.","Nous n'avons pu terminer l'assistant d'entente de facturation.",module,Magento_Paypal
 "We fetched %1 report rows from ""%2@%3.""","%1 lignes récupérées dans le rapport ""%2@%3.""",module,Magento_Paypal
 "We found nothing to fetch because of an empty configuration.","Aucune données en raison d'une configuration vide.",module,Magento_Paypal
 "We'll authorize the amount of %1 as soon as the payment gateway approves it.","Nous autoriserons le montant de %1 dès que la passerelle de paiement sera approuvée.",module,Magento_Paypal
 "We prefer PayPal (150 X 40)","Nous préférons PayPal (150 X 40)",module,Magento_Paypal
 "We prefer PayPal (150 X 60)","Nous préférons PayPal (150 X 60)",module,Magento_Paypal
-"Website Payments Pro Hosted Solution and Express Checkout","Website Payments Pro Hosted Solution et Express Checkout",module,Magento_Paypal
-"Website Payments Pro Hosted Solution","Solution hébergée Website Payments Pro",module,Magento_Paypal
 "What is PayPal?","Qu'est-ce que PayPal ?",module,Magento_Paypal
 "Whether to create a billing agreement, if there are no active billing agreements available.","Créer une entente de facturation, s'il n'y a aucune entente de facturation active disponible.",module,Magento_Paypal
+"Will appear as a payment option only for customers who have at least one active billing agreement.","Apparaît comme une option de paiement uniquement pour les clients qui ont au moins un accord de facturation actif.",module,Magento_Paypal
 "WorldLink Withdrawal","Retrait WorldLink",module,Magento_Paypal
 "Would you like to sign a billing agreement to streamline further purchases with PayPal?","Souhaitez-vous signer une entente de facturation afin de rationaliser vos futurs achats avec PayPal ?",module,Magento_Paypal
+"Yes","Oui",module,Magento_Paypal
 "Yes. Matched Address and five-didgit ZIP","Oui, Correspondance de l'adresse et du code postal à 5 chiffres",module,Magento_Paypal
 "Yes (PayPal recommends this option)","Oui (PayPal recommande cette option)",module,Magento_Paypal
-"Yes","Oui",module,Magento_Paypal
 "You canceled the billing agreement.","Vous avez annulé l'entente de facturation.",module,Magento_Paypal
 "You cannot void a verification transaction.","Vous ne pouvez pas annuler une opération de transaction.",module,Magento_Paypal
 "You deleted the billing agreement.","Vous avez supprimé l'entente de facturation.",module,Magento_Paypal
 "You need an authorization transaction to void.","Vous avez besoin d'une transaction d'autorisation pour annuler.",module,Magento_Paypal
 "You notified customer about creditmemo #%1.","Vous notifiez le client sur le remboursement #%1.",module,Magento_Paypal
 "You notified customer about invoice #%1.","Vous avez notifier le client à propos de la facture #%1.",module,Magento_Paypal
+"Your billing agreement # is: ","Votre identifiant d'entente de facturation est: ",module,Magento_Paypal
+"Your credit card will be charged for","Votre carte de crédit sera débitée de",module,Magento_Paypal
+"Your payment has been declined. Please try again.","Votre paiement a été refusé. Veuillez essayer à nouveau.",module,Magento_Paypal
 "You will be redirected to the payment system website.","Vous allez être redirigé vers le Site Web du système de paiement.",module,Magento_Paypal
 "You will be redirected to the PayPal website.","Vous allez être redirigé vers le site PayPal.",module,Magento_Paypal
 "You will be redirected to the PayPal website when you place an order.","Vous serez redirigé vers le site de PayPal à l'issue de votre commande.",module,Magento_Paypal
 "You will be required to enter your payment details after you place an order.","Vous devrez saisir les informations de paiement après la validation de votre commande.",module,Magento_Paypal
-"Your billing agreement # is: ","Votre identifiant d'entente de facturation est: ",module,Magento_Paypal
-"Your credit card will be charged for","Votre carte de crédit sera débitée de",module,Magento_Paypal
-"Your payment has been declined. Please try again.","Votre paiement a été refusé. Veuillez essayer à nouveau.",module,Magento_Paypal

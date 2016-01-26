@@ -1,24 +1,23 @@
-"'Gateway error: ' .","'Erreur passerelle: ' .",module,Magento_Authorizenet
 "Accepted Currency","Devise acceptée",module,Magento_Authorizenet
 "amount %1","montant %1",module,Magento_Authorizenet
 "API Login ID","ID de connexion à l'API",module,Magento_Authorizenet
+"authorize","autoriser",module,Magento_Authorizenet
 "Authorize and Capture","Autorisation et collecte",module,Magento_Authorizenet
 "authorize and capture","autoriser et collecter",module,Magento_Authorizenet
 "Authorize.net Direct Post","Soumission Directe Authorize.net",module,Magento_Authorizenet
 "Authorize.Net Transaction ID %1.","Authorize.Net Transaction ID %1.",module,Magento_Authorizenet
 "Authorize Only","Autorisation Seulement",module,Magento_Authorizenet
-"authorize","autoriser",module,Magento_Authorizenet
 "AVS Response","Réponse AVS",module,Magento_Authorizenet
 "Cannot place order.","Impossible de créer votre commande.",module,Magento_Authorizenet
 "capture","collecter",module,Magento_Authorizenet
 "Card Code Response","Réponse du code carte",module,Magento_Authorizenet
 "Card Verification Number","Numéro de cryptogramme",module,Magento_Authorizenet
 "CAVV Response","Réponse CAVV",module,Magento_Authorizenet
-"Credit Card: xxxx-%1","Carte de Crédit: xxxx-%1",module,Magento_Authorizenet
 "Credit Card Number","Numéro de Carte de Crédit",module,Magento_Authorizenet
 "Credit Card Type","Type de Carte de Crédit",module,Magento_Authorizenet
 "Credit Card Types","Types de Carte de Crédit",module,Magento_Authorizenet
 "Credit Card Verification","Vérification de la Carte de Crédit",module,Magento_Authorizenet
+"Credit Card: xxxx-%1","Carte de Crédit: xxxx-%1",module,Magento_Authorizenet
 "Debug","Déboguage",module,Magento_Authorizenet
 "Email Customer","Email Client",module,Magento_Authorizenet
 "Enabled","Activé",module,Magento_Authorizenet
@@ -28,6 +27,7 @@
 "Fraud Detection ","Détection de fraude ",module,Magento_Authorizenet
 "Fraud Filters","Filtres anti-fraude",module,Magento_Authorizenet
 "Gateway error: %1","Erreur Passerelle: %1",module,Magento_Authorizenet
+"'Gateway error: ' .","'Erreur passerelle: ' .",module,Magento_Authorizenet
 "Gateway URL","URL de la passerelle",module,Magento_Authorizenet
 "Invalid amount for capture.","Montant de collecte invalide.",module,Magento_Authorizenet
 "Invalid amount for refund.","Montant invalide pour le remboursement.",module,Magento_Authorizenet
@@ -47,13 +47,13 @@
 "Please choose a payment method.","Veuillez sélectionner une méthode de paiement.",module,Magento_Authorizenet
 "Please enter a transaction ID to authorize this payment.","Veuillez entrer un ID de transaction pour autoriser ce paiement.",module,Magento_Authorizenet
 "refund","rembourser",module,Magento_Authorizenet
-"Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.","Une erreur s'est Produite: le montant payé ne correspond pas au montant de la commande. Veuillez corriger cela et essayer à nouveau.",module,Magento_Authorizenet
 "Something went wrong in the payment gateway.","Une erreur s'est produite sur la passerelle de paiement.",module,Magento_Authorizenet
+"Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.","Une erreur s'est Produite: le montant payé ne correspond pas au montant de la commande. Veuillez corriger cela et essayer à nouveau.",module,Magento_Authorizenet
 "Sort Order","Ordre de Tri",module,Magento_Authorizenet
 "successful.","succès",module,Magento_Authorizenet
 "Test Mode","Mode Test",module,Magento_Authorizenet
-"The transaction was declined because the response hash validation failed.","La transaction a été refusée parce que la réponse de validation du hachage a échoué.",module,Magento_Authorizenet
 "There was a payment authorization error.","Il y a une erreur sur l'autorisation du paiement.",module,Magento_Authorizenet
+"The transaction was declined because the response hash validation failed.","La transaction a été refusée parce que la réponse de validation du hachage a échoué.",module,Magento_Authorizenet
 "This payment didn't work out because we can't find this order.","Ce paiement n'a pas été effectué car la commande est introuvable.",module,Magento_Authorizenet
 "Title","Titre",module,Magento_Authorizenet
 "Transaction %1 has been approved. Amount %2. Transaction status is ""%3""","Transaction %1 approuvée. Montant %2. Le statut de la transaction est ""3%""",module,Magento_Authorizenet

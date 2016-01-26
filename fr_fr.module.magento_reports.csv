@@ -9,10 +9,10 @@
 "Applied Coupon","Coupons utilisés",module,Magento_Reports
 "Are you sure you want to refresh lifetime statistics right now? This operation may slow down your customers' shopping experience.","Etes-vous sûr que vous voulez rafraîchir les statistiques ? Cette opération peut ralentir la navigation de vos clients.",module,Magento_Reports
 "Are you sure you want to refresh statistics for the last day?","Êtes-vous sûr de vouloir rafraîchir les statistiques?",module,Magento_Reports
-"Average (Approved)","Moyenne (approuvé)",module,Magento_Reports
 "Average","Moyen",module,Magento_Reports
-"Best Sellers Report","Rapport des meilleures ventes",module,Magento_Reports
+"Average (Approved)","Moyenne (approuvé)",module,Magento_Reports
 "Bestsellers","Meilleures ventes",module,Magento_Reports
+"Best Sellers Report","Rapport des meilleures ventes",module,Magento_Reports
 "Canceled","Annulée",module,Magento_Reports
 "Carrier/Method","Transporteur/Méthode",module,Magento_Reports
 "Carts","Paniers",module,Magento_Reports
@@ -22,22 +22,22 @@
 "Compared Products Images and Names Template","Gabarit des images et noms des produits comparés",module,Magento_Reports
 "Compared Products List Template","Gabarit de liste de produits comparés",module,Magento_Reports
 "Coupon Code","Code du bon de réduction",module,Magento_Reports
+"Coupons","Bons de Réduction",module,Magento_Reports
 "Coupons Report","Rapport des bons de réduction",module,Magento_Reports
 "Coupons Usage Report","Rapport des utilisations des bons de réduction",module,Magento_Reports
-"Coupons","Bons de Réduction",module,Magento_Reports
 "Created","Crée",module,Magento_Reports
 "CSV","CSV",module,Magento_Reports
 "Current Month Starts","Le mois en cours commence le",module,Magento_Reports
-"Customer Reviews Report","Rapport des avis clients",module,Magento_Reports
-"Customer Shopping Carts","Paniers du client",module,Magento_Reports
 "Customer","Client",module,Magento_Reports
+"Customer Reviews Report","Rapport des avis clients",module,Magento_Reports
+"Customers","Clients",module,Magento_Reports
 "Customers by Number of Orders","Clients par nombre de commandes",module,Magento_Reports
 "Customers by number of orders","Clients par nombre de commandes",module,Magento_Reports
 "Customers by Orders Total","Clients par montant de commande",module,Magento_Reports
+"Customer Shopping Carts","Paniers du client",module,Magento_Reports
 "Customers Report","Rapport clients",module,Magento_Reports
 "Customers Reviews","Clients ayant commenté",module,Magento_Reports
-"Customers that have Wish List: %1","Les clients possédant une liste d'envies: %1",module,Magento_Reports
-"Customers","Clients",module,Magento_Reports
+"Customers that have Wish List: %1","Les clients possédant une liste d'envies : %1",module,Magento_Reports
 "Dashboard","Tableau de bord",module,Magento_Reports
 "Date Used","Date Utilisée",module,Magento_Reports
 "Day","Jour",module,Magento_Reports
@@ -47,8 +47,8 @@
 "Detail","Détail",module,Magento_Reports
 "Details","Details",module,Magento_Reports
 "Discount","Remise",module,Magento_Reports
-"Downloads Report","Rapport des téléchargements",module,Magento_Reports
 "Downloads","Téléchargements",module,Magento_Reports
+"Downloads Report","Rapport des téléchargements",module,Magento_Reports
 "Email","Email",module,Magento_Reports
 "Empty Rows","Lignes Vides",module,Magento_Reports
 "Error","Erreur",module,Magento_Reports
@@ -60,64 +60,64 @@
 "From","De",module,Magento_Reports
 "Guest","Invité",module,Magento_Reports
 "ID","ID",module,Magento_Reports
-"In stock","En stock",module,Magento_Reports
 "Index type is not valid","Type d'indexe invalide",module,Magento_Reports
+"In stock","En stock",module,Magento_Reports
 "Interval","Intervalle",module,Magento_Reports
 "Invalid date specified","Date invalide",module,Magento_Reports
-"Invoice Report","Rapport des factures",module,Magento_Reports
-"Invoiced Orders","Commandes facturées",module,Magento_Reports
 "Invoiced","Facturé",module,Magento_Reports
+"Invoiced Orders","Commandes facturées",module,Magento_Reports
+"Invoice Report","Rapport des factures",module,Magento_Reports
 "IP Address","Adresse IP",module,Magento_Reports
-"Items in Cart","Articles dans le panier",module,Magento_Reports
 "Items","Éléments",module,Magento_Reports
+"Items in Cart","Articles dans le panier",module,Magento_Reports
 "Last Credit Memo Created Date","Date de création du dernier avoir",module,Magento_Reports
 "Last Invoice Created Date","Date de création de la dernière facture",module,Magento_Reports
 "Last Name","Nom",module,Magento_Reports
 "Last Review","Dernier Commentaire",module,Magento_Reports
-"Last updated: %1. To refresh last day's <a href=""%2"">statistics</a>, click <a href=""%3"">here</a>.","Dernière mise à jour: %1. Pour rafraîchir les <a href=""%2"">statistiques</a>, cliquez <a href=""%3"">ici</a>.",module,Magento_Reports
+"Last updated: %1. To refresh last day's <a href=""%2"">statistics</a>, click <a href=""%3"">here</a>.","Dernière mise à jour : %1. Pour rafraîchir les <a href=""%2"">statistiques</a>, cliquez <a href=""%3"">ici</a>.",module,Magento_Reports
 "Learn More","En Savoir Plus",module,Magento_Reports
 "Link","Lien",module,Magento_Reports
 "List of Products Recently Compared and Removed from the Compare List by Visitor","Liste des derniers produits comparés et enlevés de la liste de comparaison par un visiteur",module,Magento_Reports
 "List of Products Recently Viewed by Visitor","Liste des derniers produits vus par le visiteur",module,Magento_Reports
-"Low Stock Report","Rapport des stocks bas",module,Magento_Reports
 "Low Stock","Stock bas",module,Magento_Reports
 "Low stock","Stock bas",module,Magento_Reports
+"Low Stock Report","Rapport des stocks bas",module,Magento_Reports
 "Month","Mois",module,Magento_Reports
-"Most Viewed Products Report","Rapport des produits les plus consultés",module,Magento_Reports
 "Most Viewed","Les plus consultés",module,Magento_Reports
+"Most Viewed Products Report","Rapport des produits les plus consultés",module,Magento_Reports
 "Name","Nom",module,Magento_Reports
-"New Accounts Report","Rapport des nouveaux comptes",module,Magento_Reports
 "New Accounts","Nouveaux comptes",module,Magento_Reports
-"No report code is specified.","Aucun code de rapport spécifié.",module,Magento_Reports
+"New Accounts Report","Rapport des nouveaux comptes",module,Magento_Reports
 "No","Non",module,Magento_Reports
-"Number of items bought from a Wish List: %1","Nombre d'articles achetés à partir d'une liste d'envies: %1",module,Magento_Reports
+"No report code is specified.","Aucun code de rapport spécifié.",module,Magento_Reports
+"Number of items bought from a Wish List: %1","Nombre d'articles achetés à partir d'une liste d'envies : %1",module,Magento_Reports
 "Number of Products to display","Nombre de produits à afficher",module,Magento_Reports
-"Number of times Wish Lists have been shared (emailed): %1","Nombre de fois où une liste d'envies a été partagée (email): %1",module,Magento_Reports
-"Number of Wish List conversions: %1","Nombre de conversions à partir des listes d'envies: %1",module,Magento_Reports
+"Number of times Wish Lists have been shared (emailed): %1","Nombre de fois où une liste d'envies a été partagée (email) : %1",module,Magento_Reports
+"Number of Wish List conversions: %1","Nombre de conversions à partir des listes d'envies : %1",module,Magento_Reports
 "Number of Wish List referrals: %1","Nombre de listes d'envies références: %1",module,Magento_Reports
-"Number of Wish Lists: %1","Nombre de liste d'envies: %1",module,Magento_Reports
+"Number of Wish Lists: %1","Nombre de liste d'envies : %1",module,Magento_Reports
 "Offline Refunds","Remboursements hors ligne",module,Magento_Reports
 "Online Refunds","Remboursements en ligne",module,Magento_Reports
 "Order Count Report","Rapport du nombre de commandes",module,Magento_Reports
 "Order Created","Commande créée",module,Magento_Reports
+"Ordered Products Report","Rapport des produits commandés",module,Magento_Reports
+"Ordered Quantity","Quantité commandée",module,Magento_Reports
 "Order Quantity","Quantité commandée",module,Magento_Reports
+"Orders","Commandes",module,Magento_Reports
 "Order Taxes Report Grouped by Tax Rate","Rapport de TVA & taxes groupées par taux de taxe",module,Magento_Reports
 "Order Taxes Report Grouped by Tax Rates","Rapport de taxes de commande groupés par taux d'imposition",module,Magento_Reports
 "Order Total Report","Rapport des totals de commandes",module,Magento_Reports
 "Order Updated","Mise à jour commande",module,Magento_Reports
-"Ordered Products Report","Rapport des produits commandés",module,Magento_Reports
-"Ordered Quantity","Quantité commandée",module,Magento_Reports
-"Orders","Commandes",module,Magento_Reports
 "Out of stock","En rupture de stock",module,Magento_Reports
-"Paid Invoices","Factures payées",module,Magento_Reports
 "Paid","Payée",module,Magento_Reports
+"Paid Invoices","Factures payées",module,Magento_Reports
 "Period","Période",module,Magento_Reports
-"Price Rule","Règle de prix panier",module,Magento_Reports
 "Price","Prix",module,Magento_Reports
-"Product Reviews Report","Rapport des avis produits",module,Magento_Reports
-"Product Reviews","Avis produit",module,Magento_Reports
-"Product Views Report","Rapport des produits vus",module,Magento_Reports
+"Price Rule","Règle de prix panier",module,Magento_Reports
 "Product","Produit",module,Magento_Reports
+"Product Reviews","Avis produit",module,Magento_Reports
+"Product Reviews Report","Rapport des avis produits",module,Magento_Reports
+"Products","Produits",module,Magento_Reports
 "Products Bestsellers Report","Rapport des meilleures ventes",module,Magento_Reports
 "Products in Carts","Produits dans des paniers",module,Magento_Reports
 "Products in carts","Produits dans des paniers",module,Magento_Reports
@@ -125,31 +125,32 @@
 "Products Ordered","Produits commandés",module,Magento_Reports
 "Products Report","Rapport produits",module,Magento_Reports
 "Products Reviews","Produits commentés",module,Magento_Reports
-"Products","Produits",module,Magento_Reports
+"Product Views Report","Rapport des produits vus",module,Magento_Reports
 "Profit","Bénéfice",module,Magento_Reports
 "Promotion Coupons Usage Report","Rapport d'utilisation des bons de promotion",module,Magento_Reports
 "Purchases","Achats",module,Magento_Reports
 "Quantity","Quantité",module,Magento_Reports
 "Rate","Taux",module,Magento_Reports
-"Recent statistics have been updated.","Les statistiques récentes ont été mise à jour.",module,Magento_Reports
-"Recently Compared Products","Derniers produits comparés",module,Magento_Reports
 "Recently Compared","Dernières comparaisons",module,Magento_Reports
+"Recently Compared Products","Derniers produits comparés",module,Magento_Reports
+"Recently Viewed","Vu récemment",module,Magento_Reports
 "Recently Viewed/Compared Products","Produits récemment consultés/comparés",module,Magento_Reports
 "Recently Viewed Products","Derniers Produits Consultés",module,Magento_Reports
-"Recently Viewed","Vu récemment",module,Magento_Reports
-"Refresh Lifetime Statistics","Rafraichir les statistiques depuis le début",module,Magento_Reports
-"Refresh Statistics for the Last Day","Rafraichir les statistiques pour le dernier jour",module,Magento_Reports
-"Refresh Statistics","Actualiser les statistiques",module,Magento_Reports
+"Recent statistics have been updated.","Les statistiques récentes ont été mise à jour.",module,Magento_Reports
 "Refresh","Rafraîchir",module,Magento_Reports
-"Refunded Orders","Commandes remboursées",module,Magento_Reports
+"Refresh Lifetime Statistics","Rafraichir les statistiques depuis le début",module,Magento_Reports
+"Refresh Statistics","Actualiser les statistiques",module,Magento_Reports
+"Refresh Statistics for the Last Day","Rafraichir les statistiques pour le dernier jour",module,Magento_Reports
 "Refunded","Remboursé",module,Magento_Reports
+"Refunded Orders","Commandes remboursées",module,Magento_Reports
 "Refunds Report","Rapport des remboursements",module,Magento_Reports
 "Report","Rapport",module,Magento_Reports
 "Reports","Rapports",module,Magento_Reports
 "Revenue","Chiffre d'affaires",module,Magento_Reports
 "Review","Avis",module,Magento_Reports
-"Reviews for %1","Commentaires pour %1",module,Magento_Reports
 "Reviews","Avis",module,Magento_Reports
+"Reviews for %1","Commentaires pour %1",module,Magento_Reports
+"Sales","Ventes",module,Magento_Reports
 "Sales Discount","Remises",module,Magento_Reports
 "Sales Items","Articles vendus",module,Magento_Reports
 "Sales Report","Rapport des ventes",module,Magento_Reports
@@ -157,39 +158,38 @@
 "Sales Subtotal","Sous-total des ventes",module,Magento_Reports
 "Sales Tax","Taxes",module,Magento_Reports
 "Sales Total","Total des ventes",module,Magento_Reports
-"Sales","Ventes",module,Magento_Reports
 "Select Date","Sélectionner une date",module,Magento_Reports
 "Select day of the month.","Choisissez le jour du mois.",module,Magento_Reports
-"Shipping Report","Rapport sur les livraisons",module,Magento_Reports
 "Shipping","Livraison",module,Magento_Reports
+"Shipping Report","Rapport sur les livraisons",module,Magento_Reports
 "Shopping Cart","Panier",module,Magento_Reports
 "Show By","Afficher par",module,Magento_Reports
 "Show for Current","Afficher pour le",module,Magento_Reports
-"Show Report For:","Afficher le rapport pour:",module,Magento_Reports
 "Show Report","Afficher le rapport",module,Magento_Reports
+"Show Report For:","Afficher le rapport pour:",module,Magento_Reports
 "Show Reviews","Afficher les commentaires",module,Magento_Reports
 "SKU","SKU",module,Magento_Reports
 "Statistics","Statistiques",module,Magento_Reports
 "Stock Quantity","Quantité en stock",module,Magento_Reports
 "Subtotal","Sous-Total",module,Magento_Reports
+"Tax","Taxe",module,Magento_Reports
 "Tax Amount","Montant TVA",module,Magento_Reports
 "Tax Report","Rapport des taxes",module,Magento_Reports
-"Tax","Taxe",module,Magento_Reports
 "The Order Updated report is created in real time and does not require a refresh.","La rapport des mises à jour des commandes est créé en temps réel et ne nécessite pas d'être rafraîchi.",module,Magento_Reports
 "The product type filter specified is incorrect.","Le filtre ""Type de produit"" est invalide.",module,Magento_Reports
 "Times Deleted","Nombre de suppressions",module,Magento_Reports
 "Title","Titre",module,Magento_Reports
 "To","À",module,Magento_Reports
+"Total","Total",module,Magento_Reports
+"Total Invoiced","Total Facturé",module,Magento_Reports
 "Total Invoiced vs. Paid Report","Rapport du facturé en fonction du payé",module,Magento_Reports
 "Total Invoiced VS Paid Report","Rapport du facturé en fonction du payé",module,Magento_Reports
-"Total Invoiced","Total Facturé",module,Magento_Reports
 "Total Ordered Report","Rapport du total commandé",module,Magento_Reports
-"Total Refunded Report","Rapport des remboursements",module,Magento_Reports
 "Total Refunded","Total Remboursé",module,Magento_Reports
+"Total Refunded Report","Rapport des remboursements",module,Magento_Reports
 "Total Sales Shipping","Total des ventes d'expédition",module,Magento_Reports
 "Total Shipped Report","Rapport des expéditions",module,Magento_Reports
 "Total Shipping","Total expédition",module,Magento_Reports
-"Total","Total",module,Magento_Reports
 "undefined","indéfini",module,Magento_Reports
 "Unlimited","Illimité",module,Magento_Reports
 "Unpaid Invoices","Factures Impayées",module,Magento_Reports
@@ -205,9 +205,9 @@
 "We can't refresh lifetime statistics.","Nous n'avons pas pu rafraîchir les statistiques depuis le début.",module,Magento_Reports
 "We can't refresh recent statistics.","Impossible de rafraîchir les statistiques récentes.",module,Magento_Reports
 "Wish List Purchase","Commander à partir de listes d'envies",module,Magento_Reports
+"Wish Lists","Listes d'EnVies",module,Magento_Reports
 "Wish List vs. Regular Order","Listes d'envies / Commande classique",module,Magento_Reports
-"Wish Lists","Listes d'Envies",module,Magento_Reports
-"Year-To-Date Starts","L'année en cours commence le",module,Magento_Reports
 "Year","Année",module,Magento_Reports
+"Year-To-Date Starts","L'année en cours commence le",module,Magento_Reports
 "Yes","Oui",module,Magento_Reports
 "You refreshed lifetime statistics.","Statistiques rafraîchie.",module,Magento_Reports

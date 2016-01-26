@@ -1,7 +1,7 @@
 "1 Day Freight","Frêt 1 jour",module,Magento_Fedex
+"2 Day","2 Jours",module,Magento_Fedex
 "2 Day AM","J+2 matin",module,Magento_Fedex
 "2 Day Freight","Frêt 2 jours",module,Magento_Fedex
-"2 Day","2 Jours",module,Magento_Fedex
 "3 Day Freight","Frêt 3 jours",module,Magento_Fedex
 "Account ID","ID de compte",module,Magento_Fedex
 "Adult","Adulte",module,Magento_Fedex
@@ -19,11 +19,11 @@
 "Express Saver","Express Économe",module,Magento_Fedex
 "FedEx 10kg Box","Colis 10kg FedEx",module,Magento_Fedex
 "FedEx 25kg Box","Colis 25kg FedEx",module,Magento_Fedex
+"FedEx","FedEx",module,Magento_Fedex
 "FedEx Box","Colis FedEx",module,Magento_Fedex
 "FedEx Envelope","Enveloppe FedEx",module,Magento_Fedex
 "FedEx Pak","Pack FedEx",module,Magento_Fedex
 "FedEx Tube","Tube FedEx",module,Magento_Fedex
-"FedEx","FedEx",module,Magento_Fedex
 "First Overnight","Le lendemain",module,Magento_Fedex
 "For some reason we can't retrieve tracking info right now.","Impossible de retrouver les informations de suivi.",module,Magento_Fedex
 "Free Method","Mode gratuit",module,Magento_Fedex

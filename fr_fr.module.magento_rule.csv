@@ -14,16 +14,16 @@
 "FALSE","FAUSSES",module,Magento_Rule
 "greater than","est supérieur(e) à",module,Magento_Rule
 "If %1 of these conditions are %2:","Si %1 ces conditions sont %2:",module,Magento_Rule
-"is not one of","ne fait pas partie de",module,Magento_Rule
-"is not","est différent(e) de",module,Magento_Rule
-"is one of","fait partie de",module,Magento_Rule
 "is","est égal(e) à",module,Magento_Rule
+"is not","est différent(e) de",module,Magento_Rule
+"is not one of","ne fait pas partie de",module,Magento_Rule
+"is one of","fait partie de",module,Magento_Rule
 "less than","est inférieur(e) à",module,Magento_Rule
 "Open Chooser","Ouvrir le sélecteur",module,Magento_Rule
 "Perform following actions","Effectuer les actions suivantes",module,Magento_Rule
 "Please choose a condition to add.","Veuillez choisir une condition à ajouter.",module,Magento_Rule
-"Please choose a valid discount amount.","Veuillez spécifier une valeur de remise valide.",module,Magento_Rule
 "Please choose an action to add.","Veuillez choisir une action à ajouter.",module,Magento_Rule
+"Please choose a valid discount amount.","Veuillez spécifier une valeur de remise valide.",module,Magento_Rule
 "Please specify a website.","Veuillez spécifier un site web.",module,Magento_Rule
 "Please specify Customer Groups.","Veuillez spécifier les groupes de client.",module,Magento_Rule
 "Remove","Supprimer",module,Magento_Rule

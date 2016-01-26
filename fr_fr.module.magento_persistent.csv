@@ -1,15 +1,15 @@
-"""Remember Me"" Default Value","Valeur par Défaut du ""Se Souvenir de Moi""",module,Magento_Persistent
 "Check &quot;Remember Me&quot; to access your shopping cart on this computer even if you are not signed in.","Cocher &quot;Se souvenir de moi&quot; pour accéder à votre panier sur cet ordinateur même si vous n'êtes pas connecté à votre compte.",module,Magento_Persistent
 "Clear Persistence on Sign Out","Ne plus se souvenir de moi lors de la déconnexion",module,Magento_Persistent
-"Enable ""Remember Me""","Activer ""Se souvenir de moi""",module,Magento_Persistent
 "Enable Persistence","Activer la persistance",module,Magento_Persistent
+"Enable ""Remember Me""","Activer ""Se souvenir de moi""",module,Magento_Persistent
 "General Options","Options générales",module,Magento_Persistent
 "Method ""%1"" is not defined in ""%2""","La méthode ""%1"" n'est pas définie dans ""%2""",module,Magento_Persistent
 "Not you?","Ce n'est pas vous ?",module,Magento_Persistent
-"Persist Shopping Cart","Panier Persistant",module,Magento_Persistent
 "Persistence Lifetime (seconds)","Durée de vie de la persistance (secondes)",module,Magento_Persistent
 "Persistent Shopping Cart","Panier Persistant",module,Magento_Persistent
+"Persist Shopping Cart","Panier Persistant",module,Magento_Persistent
 "Remember Me","Se souvenir de moi",module,Magento_Persistent
+"""Remember Me"" Default Value","Valeur par Défaut du ""Se Souvenir de Moi""",module,Magento_Persistent
 "To check out, please sign in using your email address.","Pour commander, veuillez vous connecter en utilisant votre adresse email.",module,Magento_Persistent
 "We cannot load the configuration from file %1.","Nous ne pouvons pas charger la configuration à partir du fichier %1.",module,Magento_Persistent
 "Welcome, %1!","Bienvenu, %1 !",module,Magento_Persistent

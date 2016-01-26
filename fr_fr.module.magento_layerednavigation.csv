@@ -9,18 +9,18 @@
 "item","article",module,Magento_LayeredNavigation
 "items","articles",module,Magento_LayeredNavigation
 "Layered Navigation","Navigation par filtres",module,Magento_LayeredNavigation
-"Maximum number of price intervals is 100","Le nombre maxi d'intervalles de prix est 100",module,Magento_LayeredNavigation
 "Maximum Number of Price Intervals","Nombre maxi d'intervalles de prix",module,Magento_LayeredNavigation
+"Maximum number of price intervals is 100","Le nombre maxi d'intervalles de prix est 100",module,Magento_LayeredNavigation
 "No","Non",module,Magento_LayeredNavigation
 "Now Shopping by","Acheter par",module,Magento_LayeredNavigation
 "Please specify the number of products, that will not be divided into subintervals.","Spécifiez le nombre de produits qui ne seront pas divisés en sous-intervalles.",module,Magento_LayeredNavigation
+"Position","Position",module,Magento_LayeredNavigation
 "Position in Layered Navigation","Position dans la navigation par filtres",module,Magento_LayeredNavigation
 "Position of attribute in layered navigation block","Position de l'attribut dans le bloc de navigation par filtres",module,Magento_LayeredNavigation
-"Position","Position",module,Magento_LayeredNavigation
 "Previous","Précédent",module,Magento_LayeredNavigation
 "Price Navigation Step Calculation","Type de calcul des tranches de prix",module,Magento_LayeredNavigation
-"Remove This Item","Supprimer cet Élément",module,Magento_LayeredNavigation
 "Remove","Supprimer",module,Magento_LayeredNavigation
+"Remove This Item","Supprimer cet Élément",module,Magento_LayeredNavigation
 "Shop By","Filtrer Par",module,Magento_LayeredNavigation
 "Shopping Options","Affiner les options",module,Magento_LayeredNavigation
 "This setting will be applied when all prices in the specific price interval are equal.","Ce paramétrage s'appliquera lorsque tous les prix seront égaux dans l'intervalle de prix spécifique.",module,Magento_LayeredNavigation

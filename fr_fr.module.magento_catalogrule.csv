@@ -3,20 +3,20 @@
 "Add New Rule","Ajouter une nouvelle règle",module,Magento_CatalogRule
 "Adjust final price to discount value","Nouveau prix en montant fixe",module,Magento_CatalogRule
 "Adjust final price to this percentage","Pourcentage du prix original",module,Magento_CatalogRule
+"Apply","Appliquer",module,Magento_CatalogRule
 "Apply as fixed amount","Remise d'un montant fixe",module,Magento_CatalogRule
 "Apply as percentage of original","En pourcentage du prix d'origine",module,Magento_CatalogRule
 "Apply Rules","Appliquer les Règles",module,Magento_CatalogRule
-"Apply","Appliquer",module,Magento_CatalogRule
 "Attribute Set","Jeu d'Attributs",module,Magento_CatalogRule
 "By Fixed value","remise d'une valeur de",module,Magento_CatalogRule
 "By Percentage","remise en %%",module,Magento_CatalogRule
+"Catalog","Catalogue",module,Magento_CatalogRule
 "Catalog Price Rule","Règle de prix catalogue",module,Magento_CatalogRule
 "Catalog Product Rule","Règle produit catalogue",module,Magento_CatalogRule
 "Catalog Rule Product","Règles Produit Catalogue",module,Magento_CatalogRule
-"Catalog","Catalogue",module,Magento_CatalogRule
-"Conditions (don't add conditions if rule is applied to all products)","Conditions (ne pas ajouter de conditions si la règle doit s'appliquer à tous les produits)",module,Magento_CatalogRule
-"Conditions Combination","Combinaison de conditions",module,Magento_CatalogRule
 "Conditions","Conditions",module,Magento_CatalogRule
+"Conditions Combination","Combinaison de conditions",module,Magento_CatalogRule
+"Conditions (don't add conditions if rule is applied to all products)","Conditions (ne pas ajouter de conditions si la règle doit s'appliquer à tous les produits)",module,Magento_CatalogRule
 "Could not rebuild index for empty products array","Impossible de reconstruire un index produit vide",module,Magento_CatalogRule
 "Customer Groups","Groupes Clients",module,Magento_CatalogRule
 "Description","Description",module,Magento_CatalogRule
@@ -38,14 +38,14 @@
 "Percentage discount should be between 0 and 100.","La remise en pourcentage doit être comprise entre 0 et 100.",module,Magento_CatalogRule
 "Pricing Structure Rules","Règles d'application des prix",module,Magento_CatalogRule
 "Priority","Priorité",module,Magento_CatalogRule
-"Product Attribute","Attribut Produit",module,Magento_CatalogRule
 "Product","Produit",module,Magento_CatalogRule
+"Product Attribute","Attribut Produit",module,Magento_CatalogRule
 "Promo","Promo",module,Magento_CatalogRule
 "Promotions","Promotions",module,Magento_CatalogRule
+"Rule","Règle",module,Magento_CatalogRule
 "Rule Information","Information sur la Règle",module,Magento_CatalogRule
 "Rule Name","Nom de la Règle",module,Magento_CatalogRule
 "Rule price","Règle de Prix",module,Magento_CatalogRule
-"Rule","Règle",module,Magento_CatalogRule
 "Save and Apply","Sauvegarder et appliquer",module,Magento_CatalogRule
 "Save and Continue Edit","Sauvegarder et Continuer à Éditer",module,Magento_CatalogRule
 "SKU","SKU",module,Magento_CatalogRule
@@ -54,21 +54,21 @@
 "Status","Statut",module,Magento_CatalogRule
 "Subproduct discounts","Activer les remises sur les sous-produits",module,Magento_CatalogRule
 "This rule no longer exists.","Cette règle n'existe plus.",module,Magento_CatalogRule
+"To","À",module,Magento_CatalogRule
 "To Fixed Value","Nouveau prix",module,Magento_CatalogRule
 "To Percentage","nouveau prix en %%",module,Magento_CatalogRule
-"To","À",module,Magento_CatalogRule
 "Type","Type",module,Magento_CatalogRule
 "Unknown action.","Action inconnue.",module,Magento_CatalogRule
-"Update product's %1 %2: %3","Mettre à jour le %1 du produit %2: %3",module,Magento_CatalogRule
-"Update the Product","Mettre à jour le Produit",module,Magento_CatalogRule
 "Updated rules applied.","Mise à jour des règles appliquée.",module,Magento_CatalogRule
+"Update product's %1 %2: %3","Mettre à jour le %1 du produit %2 : %3",module,Magento_CatalogRule
+"Update the Product","Mettre à jour le Produit",module,Magento_CatalogRule
+"Web Site","Site Web",module,Magento_CatalogRule
+"Websites","Sites Web",module,Magento_CatalogRule
 "We can't apply the rules.","Impossible d'appliquer les règles.",module,Magento_CatalogRule
 "We can't delete this rule right now. Please review the log and try again.","Impossible de supprimer la règle. Veuillez consulter le journal des erreurs et essayer à nouveau.",module,Magento_CatalogRule
 "We can't find a rule to delete.","Impossible de trouver la règle à supprimer.",module,Magento_CatalogRule
 "We can't rebuild the index for an undefined product.","Nous ne pouvons pas reconstruire l'index d'un produit non défini.",module,Magento_CatalogRule
 "We found updated rules that are not applied. Please click ""Apply Rules"" to update your catalog.","Certaines règles n'ont pas été appliquées. Veuillez cliquer sur ""Appliquer les règles"" pour mettre à jour le catalogue.",module,Magento_CatalogRule
-"Web Site","Site Web",module,Magento_CatalogRule
-"Websites","Sites Web",module,Magento_CatalogRule
 "Wrong rule specified.","Mauvaise règle spécifiée",module,Magento_CatalogRule
 "Yes","Oui",module,Magento_CatalogRule
 "You deleted the rule.","Règle Supprimée.",module,Magento_CatalogRule

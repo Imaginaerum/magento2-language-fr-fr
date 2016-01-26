@@ -1,5 +1,5 @@
-"Cron (Scheduled Tasks) - all the times are in minutes","Cron (Tâches programmées) - tous les temps sont en minutes",module,Magento_Cron
 "Cron configuration options for group: ","Options de configuration du CRON du groupe: ",module,Magento_Cron
+"Cron (Scheduled Tasks) - all the times are in minutes","Cron (Tâches programmées) - tous les temps sont en minutes",module,Magento_Cron
 "Daily","Quotidien",module,Magento_Cron
 "Failure History Lifetime","Durée de vie de l'historique des échecs",module,Magento_Cron
 "For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.","Afin que les URLs soient générées correctement lors de l'exécution de cron, assurez-vous que les URL non sécurisée et sécurisée sont correctement renseignées.",module,Magento_Cron

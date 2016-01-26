@@ -1,10 +1,8 @@
-"%1 - %2","%1 - %2",module,Magento_CatalogSearch
 "%1 and above","%1 et plus",module,Magento_CatalogSearch
 "%1 and greater","%1 et plus",module,Magento_CatalogSearch
-"<strong>%1 item</strong> were found using the following search criteria","<strong>%1 article</strong> trouvé avec les critères de recherche suivants",module,Magento_CatalogSearch
-"<strong>%1 items</strong> were found using the following search criteria","<strong>%1 articles</strong> trouvés avec les critères de recherche suivants",module,Magento_CatalogSearch
+"%1 - %2","%1 - %2",module,Magento_CatalogSearch
 "Advanced Search","Recherche Avancée",module,Magento_CatalogSearch
-"All","Tout",module,Magento_CatalogSearch
+"All","Tous",module,Magento_CatalogSearch
 "Bucket do not exists","Le bucket n'existe pas",module,Magento_CatalogSearch
 "Catalog Advanced Search","Recherche avancée dans le catalogue",module,Magento_CatalogSearch
 "Catalog Search","Recherche catalogue",module,Magento_CatalogSearch
@@ -26,10 +24,12 @@
 "Rebuild Catalog product fulltext search index","Reconstruire l'index de recherche sur le texte complet du catalogue produit",module,Magento_CatalogSearch
 "Relevance","Pertinence",module,Magento_CatalogSearch
 "Results","Résultats",module,Magento_CatalogSearch
-"Search results for: '%1'","Résultats de recherche pour: '%1'",module,Magento_CatalogSearch
+"Search","Rechercher",module,Magento_CatalogSearch
+"Search results for: '%1'","Résultats de recherche pour : '%1'",module,Magento_CatalogSearch
 "Search Settings","Paramètres de recherche",module,Magento_CatalogSearch
 "Search Weight","Poids dans la recherche",module,Magento_CatalogSearch
-"Search","Rechercher",module,Magento_CatalogSearch
+"<strong>%1 items</strong> were found using the following search criteria","<strong>%1 articles</strong> trouvés avec les critères de recherche suivants",module,Magento_CatalogSearch
+"<strong>%1 item</strong> were found using the following search criteria","<strong>%1 article</strong> trouvé avec les critères de recherche suivants",module,Magento_CatalogSearch
 "up to %1","jusqu'à %1",module,Magento_CatalogSearch
 "We can't find any items matching these search criteria.","Nous ne pouvons pas trouver tous les éléments correspondant à ces critères de recherche.",module,Magento_CatalogSearch
 "Yes","Oui",module,Magento_CatalogSearch
