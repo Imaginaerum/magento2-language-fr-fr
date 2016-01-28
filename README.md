@@ -1,0 +1,1 @@
+http://imaginaerum.github.io/magento2-language-fr-fr
