@@ -1,20 +1,28 @@
+"%1 Catalog Price Rules based on ""%2"" attribute have been disabled.","La règle de prix catalogue %1 basée sur l'attribut ""%2"" a été désactivée.",custom,Imaginaerum
+"""%1"" exceeds the allowed length.","""%1"" excède la longueur autorisée",custom,Imaginaerum
+"%1 has been added to your wishlist. Click <a href=""%2"">here</a> to continue shopping.","%1 a été ajouté à votre liste d'envies. Cliquez <a href=""%2"">ici</a> pour continuer vos achats.",custom,Imaginaerum
 "%1 has been updated in your wish list.","%1 mis à jour dans votre liste d'envies.",custom,Imaginaerum
 """%1"" is not a valid file","""%1"" n'est pas un fichier valide",custom,Imaginaerum
 "1 item in wish list","1 article dans la liste d'envies",custom,Imaginaerum
 "%1 items in wish list","%1 articles dans la liste d'envies",custom,Imaginaerum
 "%1 RSS Feed","%1 Flux RSS",custom,Imaginaerum
+"%1 Shopping Cart Price Rules based on ""%2"" attribute have been disabled.","Les règles de prix panier %1 basées sur l'attribut ""%2"" ont été désactivées.",custom,Imaginaerum
 "3D Secure","3D Secure",custom,Imaginaerum
 "3D Secure Card Validation","Validation carte 3D Secure",custom,Imaginaerum
 "10 by default. Max - 10000","10 par défaut. Maximum - 10000",custom,Imaginaerum
 "255 by default","255 par défaut",custom,Imaginaerum
 "%","%",custom,Imaginaerum
 "A category object is required for determining the product request path.","Un objet catégorie est obligatoire pour déterminer le chemin de requête du produit.",custom,Imaginaerum
+"Accept payments with a completely customizable checkout.","Accepter les paiements avec une page de paiement entièrement personnalisable.",custom,Imaginaerum
 "Access Denied","Accès refusé",custom,Imaginaerum
 "Access denied.","Accès refusé.",custom,Imaginaerum
 "Account Created on:","Compte créé le :",custom,Imaginaerum
 "Acknowledge","Accusé de réception",custom,Imaginaerum
 "Active From","Actif à partir du",custom,Imaginaerum
 "Active To","Actif jusqu'au",custom,Imaginaerum
+"Adapter object must be an instance of %1","Adapter doit être une instance de %1",custom,Imaginaerum
+"Add configurable attributes to the current set (""<span data-role=""name-container"">%1</span>"")","Ajouter un attribut configurable au groupe d'attribut actuel (""<span data-role=""name-container"">%1</span>"")",custom,Imaginaerum
+"Add configurable attributes to the new set based on current","Ajouter des attributs configurables au nouveau jeu d'attributs sur le jeu d'attributs actuel",custom,Imaginaerum
 "Add gift options for the Entire Order","Ajouter des options cadeau pour toute la commande",custom,Imaginaerum
 "Add Group Price","Ajouter un prix par groupe",custom,Imaginaerum
 "Additional Information","Informations complémentaires",custom,Imaginaerum
@@ -96,6 +104,7 @@
 "Amount cannot be negative.","Le montant ne peut être négatif.",custom,Imaginaerum
 "Amount is required.","Montant requis",custom,Imaginaerum
 "Amount must be greater than zero","Le montant doit être supérieur à zéro",custom,Imaginaerum
+"An attribute set with the ""%1"" name already exists.","Le jeu d'attributs ""% 1"" existe déjà.",custom,Imaginaerum
 "Anchor symbol (#) is not supported in request path","Le symbole dièse (#) n'est pas supporté dans le chemin de requête",custom,Imaginaerum
 "and","et",custom,Imaginaerum
 "An error occurred while assigning order status. Status has not been assigned.","Erreur lors de l'assignation du statut de commande. Le statut n'a pas pu être assigné.",custom,Imaginaerum
@@ -119,6 +128,7 @@
 "Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. http://example.com/magento/","Chacun de ces champs peut utiliser une URL se terminant par '/' (slash) ex: http://example.com/magento/",custom,Imaginaerum
 "Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. https://example.com/magento/","Chacun de ces champs peut utiliser une URL se terminant par '/' (slash) ex: https://example.com/magento/",custom,Imaginaerum
 "A page URL key for specified store already exists.","Il existe déjà un e clé d'URL de page pour la boutique sélectionnée.",custom,Imaginaerum
+"A payment method must be specified.","La méthode de paiement doit être spécifiée.",custom,Imaginaerum
 "Applies to Any of the Specified Order Statuses","S'applique à tous les statuts de commande spécifiés",custom,Imaginaerum
 "Apply Coupon","Utiliser un bon de réduction",custom,Imaginaerum
 "Apply Layered Navigation if Search Results are Less Than","Appliquer la navigation par filtre si les résultats de recherche sont inférieurs à",custom,Imaginaerum

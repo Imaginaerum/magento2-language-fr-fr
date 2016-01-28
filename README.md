@@ -31,11 +31,11 @@ Create folder your-magento-path/app/i18n/imaginaerum/fr_fr and extract zip into 
 
 | Total | Translated | Left | Progression |
 | -------------: | -----------------------: | -----------------------: | :---------: |
-| 9095 | 8501 | 594 | ![Progress](http://progressed.io/bar/93) |
+| 9095 | 8511 | 584 | ![Progress](http://progressed.io/bar/93) |
 
 | Key | Total | Translated | Left | Progression |
 | :----- | -------------: | -----------------------: | -----------------------: | :---------: |
-| Custom Imaginaerum | 1323 | 729 | 594 | ![Progress](http://progressed.io/bar/55) |
+| Custom Imaginaerum | 1323 | 739 | 584 | ![Progress](http://progressed.io/bar/55) |
 | Lib lib/web/mage/adminhtml/backup.js | 4 | 4 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Lib lib/web/mage/adminhtml/wysiwyg/widget.js | 1 | 1 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Lib lib/web/mage/backend/suggest.js | 3 | 3 | 0 | ![Progress](http://progressed.io/bar/100) |

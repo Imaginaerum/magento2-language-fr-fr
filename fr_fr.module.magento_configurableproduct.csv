@@ -1,7 +1,7 @@
 "Actions","Actions",module,Magento_ConfigurableProduct
 "Add configurable attributes to the current Attribute Set (""%1"")","Ajouter un attribut configurable au groupe d'attribut actuel (""%1"")",module,Magento_ConfigurableProduct
 "Add configurable attributes to the existing Attribute Set","Ajouter un attribut configurable au groupe d'attribut existant",module,Magento_ConfigurableProduct
-"Add configurable attributes to the new Attribute Set based on current","Ajouter des attributs configurables au nouveau jeu d'attributs sur la jeu d'attributs courant",module,Magento_ConfigurableProduct
+"Add configurable attributes to the new Attribute Set based on current","Ajouter des attributs configurables au nouveau jeu d'attributs sur le jeu d'attributs actuel",module,Magento_ConfigurableProduct
 "Add Products Manually","Ajouter les produits manuellement",module,Magento_ConfigurableProduct
 "Alt Text","Texte Alternatif",module,Magento_ConfigurableProduct
 "An attribute has been removed. This attribute will no longer appear in your configurations.","Un attribut a été supprimé. Cet attribut n'apparaîtra plus dans vos configurations.",module,Magento_ConfigurableProduct
