@@ -385,6 +385,7 @@
 "Log Settings","Paramètres de log",custom,Imaginaerum
 "Magento Admin","Admin Magento",custom,Imaginaerum
 "Magento ver. %1","Magento ver. %1",custom,Imaginaerum
+"Manage Encryption Key","Gérer les clés de chiffrement",custom,Imaginaerum
 "Marketing","Marketing",custom,Imaginaerum
 "Match Period To","Faire correspondre la période à",custom,Imaginaerum
 "Maximum 255 chars","255 caractères minimum",custom,Imaginaerum
@@ -736,6 +737,7 @@
 "Visitors Only","Visiteurs seulement",custom,Imaginaerum
 "Void action is not available.","L'action 'annuler' n'est pas disponible.",custom,Imaginaerum
 "Warning!","Attention!",custom,Imaginaerum
+"Web Setup Wizard","Assistant d'installation",custom,Imaginaerum
 "Website code may only contain letters (a-z), numbers (0-9) or underscore(_), the first character must be a letter","Le code de site web ne doit contenir que des lettres (a-z), des chiffres (0-9) ou underscore (_). Le premier caractère doit être une lettre.",custom,Imaginaerum
 "Website is not specified","Site web non spécifié",custom,Imaginaerum
 "Website Payments Standard","PayPal Standard",custom,Imaginaerum
