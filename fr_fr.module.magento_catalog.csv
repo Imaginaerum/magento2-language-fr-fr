@@ -95,7 +95,7 @@
 "Bottom/Left","En bas à gauche",module,Magento_Catalog
 "Bottom/Right","En bas à droite",module,Magento_Catalog
 "Buy %1 for %2 each","Achetez-en %1 pour %2",module,Magento_Catalog
-"Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","Acheter %1 pour %2 et <strong class=""benefit"">économisez<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>",module,Magento_Catalog
+"Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3""> %4</span>%</strong>","Acheter %1 pour %2 et <strong class=""benefit"">économisez<span class=""percent tier-%3""> %4</span>%</strong>",module,Magento_Catalog
 "Buy %1 for: ","Acheter %1 pour: ",module,Magento_Catalog
 "Cache Lifetime (Seconds)","Durée de vie du cache (secondes)",module,Magento_Catalog
 "Cancel","Annuler",module,Magento_Catalog

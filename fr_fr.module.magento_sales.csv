@@ -369,8 +369,8 @@
 "Parent Transaction ID","ID de transaction principale",module,Magento_Sales
 "Partial","Partiel",module,Magento_Sales
 "Path ""%1"" is not part of allowed directory ""%2""","Le chemin ""%1"" ne fait pas partie du répertoire autorisé ""%2""",module,Magento_Sales
-"Payment &amp; Shipping Information","Paiement &amp; information de livraison",module,Magento_Sales
-"Payment &amp; Shipping Method","Paiement &amp; méthode de livraison",module,Magento_Sales
+"Payment & Shipping Information","Paiement & information de livraison",module,Magento_Sales
+"Payment & Shipping Method","Paiement & méthode de livraison",module,Magento_Sales
 "Payment Information","Informations de paiement",module,Magento_Sales
 "Payment Method","Mode de paiement",module,Magento_Sales
 "Payment Method:","Mode de paiement:",module,Magento_Sales
@@ -519,7 +519,7 @@
 "Shipping Address","Adresse de Livraison",module,Magento_Sales
 "Shipping Address: ","Adresse de livraison: ",module,Magento_Sales
 "Shipping Amount","Montant de la livraison",module,Magento_Sales
-"Shipping &amp; Handling","Frais de port",module,Magento_Sales
+"Shipping & Handling","Frais de port",module,Magento_Sales
 "Shipping and Handling","Livraison et frais de traitement",module,Magento_Sales
 "Shipping Excl. Tax (%1)","Livraison HT (%1)",module,Magento_Sales
 "Shipping & Handling","Frais de port",module,Magento_Sales
@@ -642,8 +642,8 @@
 "Transaction Details","Détail de la transaction",module,Magento_Sales
 "Transaction has been approved.","La transaction a été approuvée.",module,Magento_Sales
 "Transaction has been voided/declined.","La transaction a été annulée/déclinée.",module,Magento_Sales
-"Transaction ID: ""%1""","ID de transaction: ""%1""",module,Magento_Sales
-" Transaction ID: ""%1"""," ID de transaction: ""%1""",module,Magento_Sales
+"Transaction ID: ""%1"""," ID de transaction: ""%1""",module,Magento_Sales
+" Transaction ID: ""%1""","  ID de transaction: ""%1""",module,Magento_Sales
 "Transaction ID","ID Transaction",module,Magento_Sales
 "Transactions","Transactions",module,Magento_Sales
 "Transaction Type","Type de transaction",module,Magento_Sales
@@ -716,7 +716,7 @@
 "We refunded %1 offline.","Remboursement de %1 hors ligne.",module,Magento_Sales
 "We refunded %1 online.","Remboursement de %1 en ligne.",module,Magento_Sales
 "We will authorize %1 after the payment is approved at the payment gateway.","Nous autoriserons %1 une fois que le paiement aura été approuvé par la passerelle de paiement.",module,Magento_Sales
-"Wish List","Liste d'enVies",module,Magento_Sales
+"Wish List","Liste d'envies",module,Magento_Sales
 "Yes","Oui",module,Magento_Sales
 "You assigned the order status.","Statut de commande assigné.",module,Magento_Sales
 "You canceled the invoice.","La facture a été annulée.",module,Magento_Sales

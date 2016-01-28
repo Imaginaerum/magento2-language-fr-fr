@@ -20,7 +20,7 @@
         les nouveaux produits seront créés. Utilisez cette étape pour personnaliser les images et les prix de vos nouveaux produits .",module,Magento_ConfigurableProduct
 "Browse Files...","Parcourir les fichiers...",module,Magento_ConfigurableProduct
 "Browse to find or drag image here","Parcourir les fichiers ou glisser l'image ici",module,Magento_ConfigurableProduct
-"Bulk Images &amp; Price","Action de masse Images &amp; Prix",module,Magento_ConfigurableProduct
+"Bulk Images & Price","Action de masse Images & Prix",module,Magento_ConfigurableProduct
 "Cancel","Annuler",module,Magento_ConfigurableProduct
 "Cannot delete option with id: %1","Vous ne pouvez pas supprimer l'option id: %1",module,Magento_ConfigurableProduct
 "Cannot delete variations from product: %1","Vous ne pouvez pas supprimer les variations du produit: %1",module,Magento_ConfigurableProduct

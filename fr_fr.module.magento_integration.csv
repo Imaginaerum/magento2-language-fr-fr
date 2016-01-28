@@ -54,6 +54,7 @@
 "Integration Tokens for Extensions","Clé d'intégration pour les extensions",module,Magento_Integration
 "Integration with ID '%1' does not exist.","Intégration avec l'ID '%1' n'existe pas.",module,Magento_Integration
 "Integration with ID '%1' doesn't exist.","Intégration avec l'ID '%1' n'existe pas.",module,Magento_Integration
+"Integration with ID '%1' doesn't exist.","Intégration avec l'ID '%1' n'existe pas.",module,Magento_Integration
 "Integration with name '%1' exists.","Intégration avec le nom '%1' existe.",module,Magento_Integration
 "Internal error. Check exception log for details.","Erreur interne. Vérifiez le journal d'exception pour plus de détails.",module,Magento_Integration
 "Invalid Callback URL","URL de rappel invalide",module,Magento_Integration

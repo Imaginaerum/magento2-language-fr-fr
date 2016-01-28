@@ -79,7 +79,7 @@
 "Package","Package",module,Magento_Shipping
 "Packages","Packages",module,Magento_Shipping
 "Page not found.","Page introuvable.",module,Magento_Shipping
-"Payment &amp; Shipping Method","Paiement &amp; méthode de livraison",module,Magento_Shipping
+"Payment & Shipping Method","Paiement & méthode de livraison",module,Magento_Shipping
 "Payment Information","Informations de paiement",module,Magento_Shipping
 "Percent","Pourcent",module,Magento_Shipping
 "Per Order","Par Commande",module,Magento_Shipping
@@ -114,7 +114,6 @@
 "Shipments","Expéditions",module,Magento_Shipping
 "Shipment Total","Total de l'expédition",module,Magento_Shipping
 "Shipped or billed on:","Livré ou facturé le:",module,Magento_Shipping
-"Shipping &amp; Handling Information","Informations de livraison",module,Magento_Shipping
 "Shipping and Tracking Information","Informations de livraison et de suivi",module,Magento_Shipping
 "Shipping Information","Informations de livraison",module,Magento_Shipping
 "Shipping labels is not available.","Les étiquettes d'expédition ne sont pas disponibles.",module,Magento_Shipping

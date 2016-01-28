@@ -16,6 +16,7 @@
 "Fixed Product Tax","Taxe Fixe de Produit",module,Magento_Weee
 "Fixed Product Taxes","Taxes Fixes de Produit",module,Magento_Weee
 "FPT","TFP",module,Magento_Weee
+"frontend_label","frontend_label",module,Magento_Weee
 "Incl. Tax","TTC",module,Magento_Weee
 "Include FPT In Subtotal","Inclure TFP dans le sous-total",module,Magento_Weee
 "Including FPT and FPT description","TFP incluses et description des TFP",module,Magento_Weee

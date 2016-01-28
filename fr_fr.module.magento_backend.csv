@@ -70,13 +70,13 @@
 "Catalog","Catalogue",module,Magento_Backend
 "Catalog Rewrites","Réécriture du Catalogue",module,Magento_Backend
 "Changes have been made to this section that have not been saved.","Des modifications ont été apportées à cette section qui n'a pas été encore sauvegardée.",module,Magento_Backend
-"Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","Les graphiques sont désactivés. Pour les activer, cliquez <a href=""%1"">ici</a>.",module,Magento_Backend
+"Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","Les données graphiques sont désactivés. Pour les activer, cliquez <a href=""%1"">ici</a>.",module,Magento_Backend
 "City","Ville",module,Magento_Backend
 "Clear","Vider",module,Magento_Backend
 "Close","Fermer",module,Magento_Backend
 "Code","Code",module,Magento_Backend
 "Community Edition","Community Edition",module,Magento_Backend
-"Copyright&copy; %1 Magento Commerce Inc. All rights reserved.","Copyright&copy; %1 Magento Commerce Inc. Tous droits réservés.",module,Magento_Backend
+"Copyright© %1 Magento Commerce Inc. All rights reserved.","Copyright© %1 Magento Commerce Inc. Tous droits réservés.",module,Magento_Backend
 "Country","Pays",module,Magento_Backend
 "Country Options","Options des Pays",module,Magento_Backend
 "Create DB Backup","Créer une sauvegarde de la base de données",module,Magento_Backend
@@ -161,7 +161,7 @@
 "General Settings","Paramètres Généraux",module,Magento_Backend
 "Go Today","Aller à aujourd'hui",module,Magento_Backend
 "Guest","Invité",module,Magento_Backend
-"<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading"">Erreur 404</h1><p>Page introuvable.</p>",module,Magento_Backend
+"<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading"">Erreur 404</h1><p>Page non trouvée.</p>",module,Magento_Backend
 "Home","Accueil",module,Magento_Backend
 "Host","Serveur",module,Magento_Backend
 "Hour","Heure",module,Magento_Backend
@@ -403,6 +403,7 @@
 "What is this?","Qu'est-ce que c'est?",module,Magento_Backend
 "WK","Semaine",module,Magento_Backend
 "Yes","Oui",module,Magento_Backend
+"You can't delete the design change.","Vous ne pouvez pas supprimer le changement de design.",module,Magento_Backend
 "You can't delete the design change.","Vous ne pouvez pas supprimer le changement de design.",module,Magento_Backend
 "You deleted the design change.","Changement de design supprimé.",module,Magento_Backend
 "You deleted the store.","Vous avez supprimé le magasin.",module,Magento_Backend

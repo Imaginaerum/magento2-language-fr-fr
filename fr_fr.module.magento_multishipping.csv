@@ -80,7 +80,7 @@
 "The requested payment method is not available for multishipping.","La méthode de paiement demandée n'est pas disponible pour la livraison à plusieurs adresses.",module,Magento_Multishipping
 "Total","Total",module,Magento_Multishipping
 "Total for this address","Total pour cette adresse",module,Magento_Multishipping
-"Update Qty &amp; Addresses","Mettre à jour les quantités et adresses",module,Magento_Multishipping
+"Update Qty & Addresses","Mettre à jour les quantités et les adresses",module,Magento_Multishipping
 "We cannot open the overview page.","Impossible d'ouvrir la vue générale.",module,Magento_Multishipping
 "We can't complete your order because you don't have a payment method set up.","Impossible de terminer la commande car aucune méthode de paiement n'a été sélectionnée.",module,Magento_Multishipping
 "We received your order!","Nous avons pris en compte votre commande !",module,Magento_Multishipping

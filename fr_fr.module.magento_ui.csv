@@ -1,4 +1,5 @@
 "Action","Action",module,Magento_Ui
+"Add New %1","Ajouter %1",module,Magento_Ui
 "'Add New ' .","'Ajouter ' .",module,Magento_Ui
 "A positive or negative non-decimal number please","Uniquement des nombres entiers positifs ou négatifs autorisés.",module,Magento_Ui
 "Attention","Attention",module,Magento_Ui

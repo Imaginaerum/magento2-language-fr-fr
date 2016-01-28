@@ -54,7 +54,7 @@
 "Are you sure you want to delete this item?","Êtes-vous sûr(e) de bien vouloir supprimer cet élément?",module,Magento_Customer
 "Are you sure you want to do this?","Êtes-vous sûr(e) de vouloir faire cela?",module,Magento_Customer
 "Are you sure you want to remove this item?","Êtes-vous sûr de vouloir supprimer cet article ?",module,Magento_Customer
-"Are you sure you want to revoke the customer\'s tokens?","Êtes-vous sûr de vouloir révoquer les avis des clients?",module,Magento_Customer
+"Are you sure you want to revoke the customer's tokens?","Êtes-vous sûr de vouloir révoquer les avis des clients?",module,Magento_Customer
 "Assign a Customer Group","Assigner un groupe clients",module,Magento_Customer
 "A total of %1 record(s) were deleted.","Un total de %1 enregistrement(s) ont été supprimés.",module,Magento_Customer
 "A total of %1 record(s) were updated.","Un total de %1 enregistrement(s) mis à jour.",module,Magento_Customer

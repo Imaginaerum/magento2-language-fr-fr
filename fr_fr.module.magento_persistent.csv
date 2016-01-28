@@ -1,4 +1,4 @@
-"Check &quot;Remember Me&quot; to access your shopping cart on this computer even if you are not signed in.","Cocher &quot;Se souvenir de moi&quot; pour accéder à votre panier sur cet ordinateur même si vous n'êtes pas connecté à votre compte.",module,Magento_Persistent
+"Check ""Remember Me"" to access your shopping cart on this computer even if you are not signed in.","Cocher ""Se souvenir de moi"" pour accéder à votre panier sur cet ordinateur même si vous n'êtes pas connecté à votre compte.",module,Magento_Persistent
 "Clear Persistence on Sign Out","Ne plus se souvenir de moi lors de la déconnexion",module,Magento_Persistent
 "Enable Persistence","Activer la persistance",module,Magento_Persistent
 "Enable ""Remember Me""","Activer ""Se souvenir de moi""",module,Magento_Persistent

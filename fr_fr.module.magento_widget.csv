@@ -57,7 +57,7 @@
 "Specified Page","Page spécifiée",module,Magento_Widget
 "Storefront Properties","Propritétés du front office",module,Magento_Widget
 "Template","Gabarit",module,Magento_Widget
-"The text of the link to the My Account &gt; Order by SKU page","Le texte du lien ""Mon Compte"" &gt; ""Commande par SKU""",module,Magento_Widget
+"The text of the link to the My Account > Order by SKU page","Le texte du lien Mon Compte & Commande par SKU",module,Magento_Widget
 "The widget instance has been deleted.","L'instance de widget a bien été effacée.",module,Magento_Widget
 "The widget instance has been saved.","L'instance de widget a bien été sauvegardée.",module,Magento_Widget
 "Type","Type",module,Magento_Widget
