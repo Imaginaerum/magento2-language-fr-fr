@@ -1,146 +1,146 @@
-"Action","Action",module,Magento_Newsletter
-"Added","Ajouté",module,Magento_Newsletter
-"Add New Template","Ajouter un Nouveau Gabarit",module,Magento_Newsletter
-"Add to Queue","Ajouter à la file d'attente",module,Magento_Newsletter
-"Allow Guest Subscription","Autoriser l'inscription des invités",module,Magento_Newsletter
-"Are you sure that you want to strip all tags?","Êtes-vous sûr(e) de vouloir supprimer tous les tags ?",module,Magento_Newsletter
-"Are you sure you want to delete this template?","Êtes-vous sûr de vouloir supprimer ce gabarit?",module,Magento_Newsletter
-"A total of %1 record(s) were updated.","Un total de %1 enregistrement(s) mis à jour.",module,Magento_Newsletter
-"Back","Retour",module,Magento_Newsletter
-"Cancel","Annuler",module,Magento_Newsletter
-"Cancelled","Annulé",module,Magento_Newsletter
-"Choose Store View:","Choisir la vue magasin:",module,Magento_Newsletter
-"Confirmation Email Sender","Expéditeur du mail de confirmation",module,Magento_Newsletter
-"Confirmation Email Template","Gabarit du mail de confirmation",module,Magento_Newsletter
-"Convert to Plain Text","Convertir en texte simple",module,Magento_Newsletter
-" Copy"," Copie",module,Magento_Newsletter
-"Create Newsletter Template","Créer un nouveau gabarit de newsletter",module,Magento_Newsletter
-"CSV","CSV",module,Magento_Newsletter
-"Customer","Client",module,Magento_Newsletter
-"Customer First Name","Prénom du client",module,Magento_Newsletter
-"Customer Last Name","Nom du client",module,Magento_Newsletter
-"Delete","Supprimer",module,Magento_Newsletter
-"Delete Selected Problems","Supprimer les problèmes sélectionnés",module,Magento_Newsletter
-"Delete Template","Supprimer le Gabarit",module,Magento_Newsletter
-"Do you really want to cancel the queue?","Voulez-vous vraiment supprimer la file ?",module,Magento_Newsletter
-"Duplicate template code","Code de gabarit dupliqué",module,Magento_Newsletter
-"Edit Newsletter","Éditer la newsletter",module,Magento_Newsletter
-"Edit Newsletter Template","Éditer le gabarit de newsletter",module,Magento_Newsletter
-"Edit Queue","Modifier la file d(attente",module,Magento_Newsletter
-"Edit Template","Éditer le gabarit",module,Magento_Newsletter
-"Email","Email",module,Magento_Newsletter
-"Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée.",module,Magento_Newsletter
-"Enter your email address","Saisissez votre email",module,Magento_Newsletter
-"Error Code","Code Erreur",module,Magento_Newsletter
-"Error Text","Texte Erreur",module,Magento_Newsletter
-"Excel XML","XML Excel",module,Magento_Newsletter
-"Follow this link to unsubscribe <!-- This tag is for unsubscribe link  --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>","Cliquez sur ce lien pour vous désinscrire <!-- Sert au lien de désinscription --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>",module,Magento_Newsletter
-"Guest","Invité",module,Magento_Newsletter
-"ID","ID",module,Magento_Newsletter
-"Message","Message",module,Magento_Newsletter
-"Need to Confirm","Confirmation nécessaire",module,Magento_Newsletter
-"New Newsletter Template","Nouveau gabarit de newsletter",module,Magento_Newsletter
-"Newsletter","Newsletter",module,Magento_Newsletter
-"Newsletter Message Preview","Prévisualisation du message de la newsletter",module,Magento_Newsletter
-"Newsletter Problem Reports","Rapports des problèmes de newsletter",module,Magento_Newsletter
-"Newsletter Problems Report","Rapport des problèmes de newsletter",module,Magento_Newsletter
-"Newsletter Queue","File d'attente newsletter",module,Magento_Newsletter
-"Newsletter Styles","Styles de newsletter",module,Magento_Newsletter
-"Newsletter Subscribers","Abonnés à la newsletter",module,Magento_Newsletter
-"Newsletter Subscription","Abonnement à la newsletter",module,Magento_Newsletter
-"Newsletter Subscriptions","Abonnements à la newsletter",module,Magento_Newsletter
-"Newsletter Templates","Gabarits newsletter",module,Magento_Newsletter
-"New Template","Nouveau gabarit",module,Magento_Newsletter
-"Not Activated","Non activé",module,Magento_Newsletter
-"No Templates Found","Aucun gabarit trouvé",module,Magento_Newsletter
-"Not Sent","Non envoyé",module,Magento_Newsletter
-"Pause","Pause",module,Magento_Newsletter
-"Paused","En Pause",module,Magento_Newsletter
-"Please correct the newsletter template and try again.","Veuillez corriger le gabarit de la newsletter et essayez à nouveau.",module,Magento_Newsletter
-"Please enter a new template name.","Veuillez renseigner un nom de gabarit.",module,Magento_Newsletter
-"Please enter a valid email address.","Saisissez un email valide.",module,Magento_Newsletter
-"Please select one or more subscribers.","Veuillez sélectionner un ou plusieurs abonnés.",module,Magento_Newsletter
-"Preview","Prévisualiser",module,Magento_Newsletter
-"Preview Template","Prévisualiser le gabarit",module,Magento_Newsletter
-"Processed","Terminé",module,Magento_Newsletter
-"Queue Date Start","Date de démarrage de la file",module,Magento_Newsletter
-"Queue End","Fin de la file",module,Magento_Newsletter
-"Queue Information","Informations de file",module,Magento_Newsletter
-"Queue Newsletter","File d'attente newsletter",module,Magento_Newsletter
-"Queue Start","Début de la file",module,Magento_Newsletter
-"Queue Start Date","Démarrer la file d'attente",module,Magento_Newsletter
-"Queue Subject","Sujet de la file",module,Magento_Newsletter
-"Recipients","Destinataires",module,Magento_Newsletter
-"Reset","Réinitialiser",module,Magento_Newsletter
-"Resume","Reprendre",module,Magento_Newsletter
-"Return HTML Version","Revenir à la version HTML",module,Magento_Newsletter
-"Save and Resume","Sauvegarder et Continuer",module,Magento_Newsletter
-"Save As","Sauvegarder Sous",module,Magento_Newsletter
-"Save Newsletter","Sauvegarder la Newsletter",module,Magento_Newsletter
-"Save Template","Sauvegarder le Gabarit",module,Magento_Newsletter
-"Sender","Expéditeur",module,Magento_Newsletter
-"Sender Email","Email de l'Expéditeur",module,Magento_Newsletter
-"Sender Name","Nom de l'expéditeur",module,Magento_Newsletter
-"Sending","Envoi en cours",module,Magento_Newsletter
-"Sent","Envoyé",module,Magento_Newsletter
-"Sign Up for Our Newsletter:","Inscription à notre newsletter:",module,Magento_Newsletter
-"Something went wrong while saving this template.","Une erreur s'est produite lors de l'enregistrement de ce gabarit.",module,Magento_Newsletter
-"Something went wrong while saving your subscription.","Une erreur s'est produite lors de l'enregistrement de cette abonnement.",module,Magento_Newsletter
-"Something went wrong while unsubscribing you.","Une erreur s'est produite lors de la désinscription.",module,Magento_Newsletter
-"Something went wrong with the subscription.","Une erreur s'est produite lors de la souscription à l'abonnement.",module,Magento_Newsletter
-"Sorry, but the administrator denied subscription for guests. Please <a href=""%1"">register</a>.","Désolé, les abonnements pour les invités sont désactivés. Veuillez vous <a href=""%1"">sauvegarder</a>.",module,Magento_Newsletter
-"Start","Commencer",module,Magento_Newsletter
-"Status","Statut",module,Magento_Newsletter
-"Store","Magasin",module,Magento_Newsletter
-"Store View","Vue Magasin",module,Magento_Newsletter
-"Subject","Sujet",module,Magento_Newsletter
-"Subscribe","Inscription",module,Magento_Newsletter
-"Subscribed","Inscrit",module,Magento_Newsletter
-"Subscriber","Abonné",module,Magento_Newsletter
-"Subscribers","Abonnés",module,Magento_Newsletter
-"Subscribers From","Abonnés de",module,Magento_Newsletter
-"Subscription Options","Options d'inscription",module,Magento_Newsletter
-"Success Email Sender","Expéditeur du mail de succès",module,Magento_Newsletter
-"Success Email Template","Gabarit du mail de succès",module,Magento_Newsletter
-"Template","Gabarit",module,Magento_Newsletter
-"Template Content","Contenu du gabarit",module,Magento_Newsletter
-"Template Information","Informations gabarit",module,Magento_Newsletter
-"Template Name","Nom du Gabarit",module,Magento_Newsletter
-"Template Styles","Styles de Gabarit",module,Magento_Newsletter
-"Template Subject","Sujet du Gabarit",module,Magento_Newsletter
-"Template Type","Type de Gabarit",module,Magento_Newsletter
-"Thank you for subscribing to our newsletter.","Merci pour votre abonnement à notre newsletter.",module,Magento_Newsletter
-"Thank you for your subscription.","Merci de votre inscription.",module,Magento_Newsletter
-"The confirmation request has been sent.","La demande de confirmation a été envoyée.",module,Magento_Newsletter
-"The newsletter template has been deleted.","Le gabarit de newsletter a été supprimé.",module,Magento_Newsletter
-"The newsletter template has been saved.","Le gabarit de newsletter a été sauvegardé.",module,Magento_Newsletter
-"The problems you identified have been deleted.","Les problèmes que vous avez identifiés ont été supprimés.",module,Magento_Newsletter
-"There are no subscribers selected.","Aucun abonné sélectionné.",module,Magento_Newsletter
-"There was a problem with the subscription: %1","Il y a eu un problème lors de l'inscription: %1",module,Magento_Newsletter
-"This email address is already assigned to another user.","Cet email est déjà assigné à un utilisateur.",module,Magento_Newsletter
-"This is an invalid subscription confirmation code.","Le code de confirmation de l'abonnement est invalide.",module,Magento_Newsletter
-"This is an invalid subscription ID.","L'identifiant de l'abonnement est invalide.",module,Magento_Newsletter
-"To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:","Avant de recevoir notre newsletter, vous devez confirmer votre abonnement en cliquant sur le lien suivant:",module,Magento_Newsletter
-"Total of %1 record(s) were deleted.","%1 enregistrement(s) ont été effacés.",module,Magento_Newsletter
-"Type","Type",module,Magento_Newsletter
-"Unconfirmed","Non confirmé",module,Magento_Newsletter
-"Unsubscribe","Désabonner",module,Magento_Newsletter
-"Unsubscribed","Désinscrit",module,Magento_Newsletter
-"Unsubscribe Selected","Désinscription sélectionnée",module,Magento_Newsletter
-"Unsubscription Email Sender","Expéditeur du mail de désinscription",module,Magento_Newsletter
-"Unsubscription Email Template","Gabarit du mail de désinscription",module,Magento_Newsletter
-"Updated","Mis à jour",module,Magento_Newsletter
-"View Newsletter","Voir la newsletter",module,Magento_Newsletter
-"Web Site","Site Web",module,Magento_Newsletter
-"We cannot mark as received subscriber.","Impossible de marquer comme reçue par l'abonné.",module,Magento_Newsletter
-"We can't delete this template right now.","Impossible de supprimer le gabarit.",module,Magento_Newsletter
-"We found no problems.","Aucun problème détécté.",module,Magento_Newsletter
-"We removed the subscription.","Abonnement annulé.",module,Magento_Newsletter
-"We saved the subscription.","Abonnement sauvegardé.",module,Magento_Newsletter
-"We unsubscribed the people you identified.","Désinscription des personnes sélectionnés.",module,Magento_Newsletter
-"You have been successfully subscribed to our newsletter.","Nous vous confirmons votre abonnement à notre newsletter.",module,Magento_Newsletter
-"You have been unsubscribed from the newsletter.","Vous êtes maintenant désabonné à notre newsletter.",module,Magento_Newsletter
-"Your subscription has been confirmed.","Votre inscription a été confirmée.",module,Magento_Newsletter
-"You saved the newsletter queue.","File d'attente de la newsletter sauvegardée.",module,Magento_Newsletter
-"You selected an invalid queue.","File d'attente invalide.",module,Magento_Newsletter
-"You unsubscribed.","Vous êtes désinscrit.",module,Magento_Newsletter
+"Action","Action"
+"Added","Ajouté"
+"Add New Template","Ajouter un Nouveau Gabarit"
+"Add to Queue","Ajouter à la file d'attente"
+"Allow Guest Subscription","Autoriser l'inscription des invités"
+"Are you sure that you want to strip all tags?","Êtes-vous sûr(e) de vouloir supprimer tous les tags ?"
+"Are you sure you want to delete this template?","Êtes-vous sûr de vouloir supprimer ce gabarit?"
+"A total of %1 record(s) were updated.","Un total de %1 enregistrement(s) mis à jour."
+"Back","Retour"
+"Cancel","Annuler"
+"Cancelled","Annulé"
+"Choose Store View:","Choisir la vue magasin:"
+"Confirmation Email Sender","Expéditeur du mail de confirmation"
+"Confirmation Email Template","Gabarit du mail de confirmation"
+"Convert to Plain Text","Convertir en texte simple"
+" Copy"," Copie"
+"Create Newsletter Template","Créer un nouveau gabarit de newsletter"
+"CSV","CSV"
+"Customer","Client"
+"Customer First Name","Prénom du client"
+"Customer Last Name","Nom du client"
+"Delete","Supprimer"
+"Delete Selected Problems","Supprimer les problèmes sélectionnés"
+"Delete Template","Supprimer le Gabarit"
+"Do you really want to cancel the queue?","Voulez-vous vraiment supprimer la file ?"
+"Duplicate template code","Code de gabarit dupliqué"
+"Edit Newsletter","Éditer la newsletter"
+"Edit Newsletter Template","Éditer le gabarit de newsletter"
+"Edit Queue","Modifier la file d(attente"
+"Edit Template","Éditer le gabarit"
+"Email","Email"
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée."
+"Enter your email address","Saisissez votre email"
+"Error Code","Code Erreur"
+"Error Text","Texte Erreur"
+"Excel XML","XML Excel"
+"Follow this link to unsubscribe <!-- This tag is for unsubscribe link  --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>","Cliquez sur ce lien pour vous désinscrire <!-- Sert au lien de désinscription --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>"
+"Guest","Invité"
+"ID","ID"
+"Message","Message"
+"Need to Confirm","Confirmation nécessaire"
+"New Newsletter Template","Nouveau gabarit de newsletter"
+"Newsletter","Newsletter"
+"Newsletter Message Preview","Prévisualisation du message de la newsletter"
+"Newsletter Problem Reports","Rapports des problèmes de newsletter"
+"Newsletter Problems Report","Rapport des problèmes de newsletter"
+"Newsletter Queue","File d'attente newsletter"
+"Newsletter Styles","Styles de newsletter"
+"Newsletter Subscribers","Abonnés à la newsletter"
+"Newsletter Subscription","Abonnement à la newsletter"
+"Newsletter Subscriptions","Abonnements à la newsletter"
+"Newsletter Templates","Gabarits newsletter"
+"New Template","Nouveau gabarit"
+"Not Activated","Non activé"
+"No Templates Found","Aucun gabarit trouvé"
+"Not Sent","Non envoyé"
+"Pause","Pause"
+"Paused","En Pause"
+"Please correct the newsletter template and try again.","Veuillez corriger le gabarit de la newsletter et essayez à nouveau."
+"Please enter a new template name.","Veuillez renseigner un nom de gabarit."
+"Please enter a valid email address.","Saisissez un email valide."
+"Please select one or more subscribers.","Veuillez sélectionner un ou plusieurs abonnés."
+"Preview","Prévisualiser"
+"Preview Template","Prévisualiser le gabarit"
+"Processed","Terminé"
+"Queue Date Start","Date de démarrage de la file"
+"Queue End","Fin de la file"
+"Queue Information","Informations de file"
+"Queue Newsletter","File d'attente newsletter"
+"Queue Start","Début de la file"
+"Queue Start Date","Démarrer la file d'attente"
+"Queue Subject","Sujet de la file"
+"Recipients","Destinataires"
+"Reset","Réinitialiser"
+"Resume","Reprendre"
+"Return HTML Version","Revenir à la version HTML"
+"Save and Resume","Sauvegarder et Continuer"
+"Save As","Sauvegarder Sous"
+"Save Newsletter","Sauvegarder la Newsletter"
+"Save Template","Sauvegarder le Gabarit"
+"Sender","Expéditeur"
+"Sender Email","Email de l'Expéditeur"
+"Sender Name","Nom de l'expéditeur"
+"Sending","Envoi en cours"
+"Sent","Envoyé"
+"Sign Up for Our Newsletter:","Inscription à notre newsletter:"
+"Something went wrong while saving this template.","Une erreur s'est produite lors de l'enregistrement de ce gabarit."
+"Something went wrong while saving your subscription.","Une erreur s'est produite lors de l'enregistrement de cette abonnement."
+"Something went wrong while unsubscribing you.","Une erreur s'est produite lors de la désinscription."
+"Something went wrong with the subscription.","Une erreur s'est produite lors de la souscription à l'abonnement."
+"Sorry, but the administrator denied subscription for guests. Please <a href=""%1"">register</a>.","Désolé, les abonnements pour les invités sont désactivés. Veuillez vous <a href=""%1"">sauvegarder</a>."
+"Start","Commencer"
+"Status","Statut"
+"Store","Magasin"
+"Store View","Vue Magasin"
+"Subject","Sujet"
+"Subscribe","Inscription"
+"Subscribed","Inscrit"
+"Subscriber","Abonné"
+"Subscribers","Abonnés"
+"Subscribers From","Abonnés de"
+"Subscription Options","Options d'inscription"
+"Success Email Sender","Expéditeur du mail de succès"
+"Success Email Template","Gabarit du mail de succès"
+"Template","Gabarit"
+"Template Content","Contenu du gabarit"
+"Template Information","Informations gabarit"
+"Template Name","Nom du Gabarit"
+"Template Styles","Styles de Gabarit"
+"Template Subject","Sujet du Gabarit"
+"Template Type","Type de Gabarit"
+"Thank you for subscribing to our newsletter.","Merci pour votre abonnement à notre newsletter."
+"Thank you for your subscription.","Merci de votre inscription."
+"The confirmation request has been sent.","La demande de confirmation a été envoyée."
+"The newsletter template has been deleted.","Le gabarit de newsletter a été supprimé."
+"The newsletter template has been saved.","Le gabarit de newsletter a été sauvegardé."
+"The problems you identified have been deleted.","Les problèmes que vous avez identifiés ont été supprimés."
+"There are no subscribers selected.","Aucun abonné sélectionné."
+"There was a problem with the subscription: %1","Il y a eu un problème lors de l'inscription: %1"
+"This email address is already assigned to another user.","Cet email est déjà assigné à un utilisateur."
+"This is an invalid subscription confirmation code.","Le code de confirmation de l'abonnement est invalide."
+"This is an invalid subscription ID.","L'identifiant de l'abonnement est invalide."
+"To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:","Avant de recevoir notre newsletter, vous devez confirmer votre abonnement en cliquant sur le lien suivant:"
+"Total of %1 record(s) were deleted.","%1 enregistrement(s) ont été effacés."
+"Type","Type"
+"Unconfirmed","Non confirmé"
+"Unsubscribe","Désabonner"
+"Unsubscribed","Désinscrit"
+"Unsubscribe Selected","Désinscription sélectionnée"
+"Unsubscription Email Sender","Expéditeur du mail de désinscription"
+"Unsubscription Email Template","Gabarit du mail de désinscription"
+"Updated","Mis à jour"
+"View Newsletter","Voir la newsletter"
+"Web Site","Site Web"
+"We cannot mark as received subscriber.","Impossible de marquer comme reçue par l'abonné."
+"We can't delete this template right now.","Impossible de supprimer le gabarit."
+"We found no problems.","Aucun problème détécté."
+"We removed the subscription.","Abonnement annulé."
+"We saved the subscription.","Abonnement sauvegardé."
+"We unsubscribed the people you identified.","Désinscription des personnes sélectionnés."
+"You have been successfully subscribed to our newsletter.","Nous vous confirmons votre abonnement à notre newsletter."
+"You have been unsubscribed from the newsletter.","Vous êtes maintenant désabonné à notre newsletter."
+"Your subscription has been confirmed.","Votre inscription a été confirmée."
+"You saved the newsletter queue.","File d'attente de la newsletter sauvegardée."
+"You selected an invalid queue.","File d'attente invalide."
+"You unsubscribed.","Vous êtes désinscrit."

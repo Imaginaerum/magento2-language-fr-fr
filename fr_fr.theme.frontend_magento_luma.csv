@@ -1,44 +1,44 @@
-"About Us","Qui sommes-nous ?",theme,frontend/Magento/luma
-"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend/Magento/luma
-"Billing Info","Informations de Facturation",theme,frontend/Magento/luma
-"Check the status of orders","Vérifier le statut des commandes",theme,frontend/Magento/luma
-"Clear All","Tout Supprimer",theme,frontend/Magento/luma
-"%customer_name,","%customer_name,",theme,frontend/Magento/luma
-"Customer Service","Service Client",theme,frontend/Magento/luma
-"Email:","Email:",theme,frontend/Magento/luma
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Mot de passe oublié ? Cliquez <a href=""%reset_url"">ici</a> pour le réinitialiser.",theme,frontend/Magento/luma
-"For shipping to multiple family members and friends","Pour expédier à votre famille ou à vos amis",theme,frontend/Magento/luma
-"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Heures d'ouverture:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Si vous avez des questions concernant votre commande, vous pouvez nous envoyer un email à l'adresse <a href=""mailto:%store_email"">%store_email</a>",theme,frontend/Magento/luma
-"Manage Addresses","Gérer les Adresses",theme,frontend/Magento/luma
-"%name,","%name,",theme,frontend/Magento/luma
-"Now Shopping by","Acheter par",theme,frontend/Magento/luma
-"Once your package ships we will send you a tracking number.","Un numéro de suivi vous sera envoyé lorsque votre commande sera expédiée.",theme,frontend/Magento/luma
-"Order History","Historique Commande",theme,frontend/Magento/luma
-"Order Status","Statut de la Commande",theme,frontend/Magento/luma
-"Password:","Mot de Passe:",theme,frontend/Magento/luma
-"Password you set when creating account","Mot de passe que vous avez défini lors de la création de votre compte",theme,frontend/Magento/luma
-"Payment Method","Mode de paiement",theme,frontend/Magento/luma
-"Placed on <span class=""no-link"">%created_at</span>","Passée le <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
-"Previous","Précédent",theme,frontend/Magento/luma
-"Proceed through checkout faster","Passer vos commandes plus rapidement",theme,frontend/Magento/luma
-"Quick Checkout","Commande Rapide",theme,frontend/Magento/luma
-"Remove","Supprimer",theme,frontend/Magento/luma
-"Remove This Item","Supprimer cet Élément",theme,frontend/Magento/luma
-"Shipping Info","Informations de Livraison",theme,frontend/Magento/luma
-"Shipping Method","Mode de Livraison",theme,frontend/Magento/luma
-"Shop By","Filtrer Par",theme,frontend/Magento/luma
-"Shopping Options","Affiner les options",theme,frontend/Magento/luma
-"Store alternative addresses","Sauvegarder plusieurs adresses",theme,frontend/Magento/luma
-"Thank you for your order from %store_name.","Merci pour votre commande sur %store_name.",theme,frontend/Magento/luma
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Pour vous connecter, utilisez les identifiants renseignés lors de votre commande ou en vous rendant sur la page <a href=""%customer_url"">Mon Compte</a>:",theme,frontend/Magento/luma
-"View past orders","Voir vos précédentes commandes",theme,frontend/Magento/luma
-"Welcome to %store_name.","Bienvenu sur %store_name.",theme,frontend/Magento/luma
-"When you sign in to your account, you will be able to:","Lorsque vous êtes connecté à votre compte, vous pouvez:",theme,frontend/Magento/luma
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Vous pouvez suivre le statut de votre commande en <a href=""%account_url"">vous connectant à votre compte</a>.",theme,frontend/Magento/luma
-"Your Credit Memo #%creditmemo_id for Order #%order_id","Votre avoir #%creditmemo_id pour la commande #%order_id",theme,frontend/Magento/luma
-"Your Invoice #%invoice_id for Order #%order_id","Votre Facture #%invoice_id pour la Commande #%order_id",theme,frontend/Magento/luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Votre commande #%increment_id a été mise à jour avec le statut <strong>%order_status</strong>.",theme,frontend/Magento/luma
-"Your Order <span class=""no-link"">#%increment_id</span>","Votre Commande <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
-"Your Shipment #%shipment_id for Order #%order_id","Livraison #%shipment_id pour la commande #%order_id",theme,frontend/Magento/luma
-"Your shipping confirmation is below. Thank you again for your business.","Voici votre confirmation d'expédition. Encore merci de votre achat.",theme,frontend/Magento/luma
+"About Us","Qui sommes-nous ?"
+"Billing Info","Informations de Facturation"
+"Check the status of orders","Vérifier le statut des commandes"
+"Clear All","Tout Supprimer"
+"%customer_name,","%customer_name,"
+"Customer Service","Service Client"
+"Email:","Email:"
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Mot de passe oublié ? Cliquez <a href=""%reset_url"">ici</a> pour le réinitialiser."
+"For shipping to multiple family members and friends","Pour expédier à votre famille ou à vos amis"
+"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Heures d'ouverture:<br /><span class=""no-link"">%store_hours</span>."
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Si vous avez des questions concernant votre commande, vous pouvez nous envoyer un email à l'adresse <a href=""mailto:%store_email"">%store_email</a>"
+"Manage Addresses","Gérer les Adresses"
+"%name,","%name,"
+"Now Shopping by","Acheter par"
+"Once your package ships we will send you a tracking number.","Un numéro de suivi vous sera envoyé lorsque votre commande sera expédiée."
+"Order History","Historique Commande"
+"Order Status","Statut de la Commande"
+"Password:","Mot de Passe:"
+"Password you set when creating account","Mot de passe que vous avez défini lors de la création de votre compte"
+"Payment Method","Mode de paiement"
+"Placed on <span class=""no-link"">%created_at</span>","Passée le <span class=""no-link"">%created_at</span>"
+"Previous","Précédent"
+"Proceed through checkout faster","Passer vos commandes plus rapidement"
+"Quick Checkout","Commande Rapide"
+"Remove","Supprimer"
+"Remove This Item","Supprimer cet Élément"
+"Shipping Info","Informations de Livraison"
+"Shipping Method","Mode de Livraison"
+"Shop By","Filtrer Par"
+"Shopping Options","Affiner les options"
+"Store alternative addresses","Sauvegarder plusieurs adresses"
+"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>"
+"Thank you for your order from %store_name.","Merci pour votre commande sur %store_name."
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Pour vous connecter, utilisez les identifiants renseignés lors de votre commande ou en vous rendant sur la page <a href=""%customer_url"">Mon Compte</a>:"
+"View past orders","Voir vos précédentes commandes"
+"Welcome to %store_name.","Bienvenu sur %store_name."
+"When you sign in to your account, you will be able to:","Lorsque vous êtes connecté à votre compte, vous pouvez:"
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Vous pouvez suivre le statut de votre commande en <a href=""%account_url"">vous connectant à votre compte</a>."
+"Your Credit Memo #%creditmemo_id for Order #%order_id","Votre avoir #%creditmemo_id pour la commande #%order_id"
+"Your Invoice #%invoice_id for Order #%order_id","Votre Facture #%invoice_id pour la Commande #%order_id"
+"Your Order <span class=""no-link"">#%increment_id</span>","Votre Commande <span class=""no-link"">#%increment_id</span>"
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Votre commande #%increment_id a été mise à jour avec le statut <strong>%order_status</strong>."
+"Your Shipment #%shipment_id for Order #%order_id","Livraison #%shipment_id pour la commande #%order_id"
+"Your shipping confirmation is below. Thank you again for your business.","Voici votre confirmation d'expédition. Encore merci de votre achat."

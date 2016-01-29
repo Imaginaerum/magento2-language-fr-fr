@@ -1,64 +1,64 @@
-"Action","Action",module,Magento_Sitemap
-"Add Images into Sitemap","Ajouter les images au plan de site",module,Magento_Sitemap
-"Add Sitemap","Ajouter un Plan du Site",module,Magento_Sitemap
-"All","Tous",module,Magento_Sitemap
-"Always","Toujours",module,Magento_Sitemap
-"Base Only","Image de base uniquement",module,Magento_Sitemap
-"Catalog","Catalogue",module,Magento_Sitemap
-"Categories Options","Options pour les Catégories",module,Magento_Sitemap
-"CMS Pages Options","Options pour les Pages CMS",module,Magento_Sitemap
-"Daily","Quotidien",module,Magento_Sitemap
-"Edit Sitemap","Modifier le Pplan de Site",module,Magento_Sitemap
-"Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée.",module,Magento_Sitemap
-"Enabled","Activé",module,Magento_Sitemap
-"Enable Submission to Robots.txt","Active la soumission dans le fichier robots.txt",module,Magento_Sitemap
-"Error Email Recipient","Destinataire du mail d'erreur",module,Magento_Sitemap
-"Error Email Sender","Expéditeur du mail d'erreur",module,Magento_Sitemap
-"Error Email Template","Gabarit du mail d'erreur",module,Magento_Sitemap
-"example: ""/sitemap/"" or ""/"" for base path (path must be writeable)","exemple : ""/sitemap/"" ou ""/"" pour le chemin de base (le chemin doit être accessible en écriture)",module,Magento_Sitemap
-"example: sitemap.xml","exemple: sitemap.xml",module,Magento_Sitemap
-"File handler unreachable","Gestionnaire de fichiers inaccessible",module,Magento_Sitemap
-"Filename","Nom du fichier",module,Magento_Sitemap
-"File size in bytes.","Poids du fichier en octets.",module,Magento_Sitemap
-"Frequency","Fréquence",module,Magento_Sitemap
-"Generate","Générer",module,Magento_Sitemap
-"Generation Settings","Paramètres Globaux",module,Magento_Sitemap
-"Hourly","Toutes les heures",module,Magento_Sitemap
-"ID","ID",module,Magento_Sitemap
-"Last Generated","Dernière Génération",module,Magento_Sitemap
-"Link for Google","Lien pour Google",module,Magento_Sitemap
-"Maximum File Size","Poids maximal du fichier",module,Magento_Sitemap
-"Maximum No of URLs Per File","Nbr maximal d'URL par fichier",module,Magento_Sitemap
-"Monthly","Mensuel",module,Magento_Sitemap
-"Never","Jamais",module,Magento_Sitemap
-"New Sitemap","Nouveau Plan de site",module,Magento_Sitemap
-"New Site Map","Nouveau Plan de site",module,Magento_Sitemap
-"None","Aucun",module,Magento_Sitemap
-"Path","Chemin",module,Magento_Sitemap
-"Please create the specified folder ""%1"" before saving the sitemap.","Veuillez créer le répertoire ""%1"" avant de sauvegarder le plan de site.",module,Magento_Sitemap
-"Please define a correct path.","Veuillez spécifier un chemin correct.",module,Magento_Sitemap
-"Please make sure that ""%1"" is writable by the web-server.","Veuillez vérifier que ""%1"" est accessible en écriture sur le serveur web.",module,Magento_Sitemap
-"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in the filename. No spaces or other characters are allowed.","Veuillez n'utiliser que des lettres (a-z ou A-Z), des nombres (0-9) ou des underscores (_) dans le nom du fichier. Les espaces ou autres caractères ne sont pas autorisés.",module,Magento_Sitemap
-"Priority","Priorité",module,Magento_Sitemap
-"Products Options","Options pour les Produits",module,Magento_Sitemap
-"Save & Generate","Sauvegarder & générer",module,Magento_Sitemap
-"Search Engine Submission Settings","Paramètres de soumission aux moteurs de recherche",module,Magento_Sitemap
-"Site Map","Plan de Site",module,Magento_Sitemap
-"Sitemap","Plan de Site",module,Magento_Sitemap
-"Sitemap File Limits","Limites du fichier de plan de site",module,Magento_Sitemap
-"Sitemap Generation Warnings","Avertissements sur la génération du plan de site",module,Magento_Sitemap
-"Sitemap Information","Information Plan de Site",module,Magento_Sitemap
-"Start Time","Heure de Début",module,Magento_Sitemap
-"Store View","Vue Magasin",module,Magento_Sitemap
-"The priority must be between 0 and 1.","La priorité doit être comprise entre 0 et 1.",module,Magento_Sitemap
-"The sitemap ""%1"" has been generated.","Le plan de site ""%1"" a bien été généré.",module,Magento_Sitemap
-"This sitemap no longer exists.","Ce plan de site n'existe plus.",module,Magento_Sitemap
-"Valid values range from 0.0 to 1.0.","Les valeurs valides sont comprises entre 0.0 et 1.0.",module,Magento_Sitemap
-"We can't find a sitemap to delete.","Impossible de trouver le plan de site à supprimer.",module,Magento_Sitemap
-"We can't find a sitemap to generate.","Impossible de trouver le plan de site à générer.",module,Magento_Sitemap
-"We can't generate the sitemap right now.","Impossible de générer le plan de site.",module,Magento_Sitemap
-"Weekly","Hebdomadaire",module,Magento_Sitemap
-"XML Sitemap","Plan de Site XML",module,Magento_Sitemap
-"Yearly","Annuel",module,Magento_Sitemap
-"You deleted the sitemap.","Plan de Site a été supprimé.",module,Magento_Sitemap
-"You saved the sitemap.","Plan de Site a été sauvegardé.",module,Magento_Sitemap
+"Action","Action"
+"Add Images into Sitemap","Ajouter les images au plan de site"
+"Add Sitemap","Ajouter un Plan du Site"
+"All","Tous"
+"Always","Toujours"
+"Base Only","Image de base uniquement"
+"Catalog","Catalogue"
+"Categories Options","Options pour les Catégories"
+"CMS Pages Options","Options pour les Pages CMS"
+"Daily","Quotidien"
+"Edit Sitemap","Modifier le Pplan de Site"
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée."
+"Enabled","Activé"
+"Enable Submission to Robots.txt","Active la soumission dans le fichier robots.txt"
+"Error Email Recipient","Destinataire du mail d'erreur"
+"Error Email Sender","Expéditeur du mail d'erreur"
+"Error Email Template","Gabarit du mail d'erreur"
+"example: ""/sitemap/"" or ""/"" for base path (path must be writeable)","exemple : ""/sitemap/"" ou ""/"" pour le chemin de base (le chemin doit être accessible en écriture)"
+"example: sitemap.xml","exemple: sitemap.xml"
+"File handler unreachable","Gestionnaire de fichiers inaccessible"
+"Filename","Nom du fichier"
+"File size in bytes.","Poids du fichier en octets."
+"Frequency","Fréquence"
+"Generate","Générer"
+"Generation Settings","Paramètres Globaux"
+"Hourly","Toutes les heures"
+"ID","ID"
+"Last Generated","Dernière Génération"
+"Link for Google","Lien pour Google"
+"Maximum File Size","Poids maximal du fichier"
+"Maximum No of URLs Per File","Nbr maximal d'URL par fichier"
+"Monthly","Mensuel"
+"Never","Jamais"
+"New Sitemap","Nouveau Plan de site"
+"New Site Map","Nouveau Plan de site"
+"None","Aucun"
+"Path","Chemin"
+"Please create the specified folder ""%1"" before saving the sitemap.","Veuillez créer le répertoire ""%1"" avant de sauvegarder le plan de site."
+"Please define a correct path.","Veuillez spécifier un chemin correct."
+"Please make sure that ""%1"" is writable by the web-server.","Veuillez vérifier que ""%1"" est accessible en écriture sur le serveur web."
+"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in the filename. No spaces or other characters are allowed.","Veuillez n'utiliser que des lettres (a-z ou A-Z), des nombres (0-9) ou des underscores (_) dans le nom du fichier. Les espaces ou autres caractères ne sont pas autorisés."
+"Priority","Priorité"
+"Products Options","Options pour les Produits"
+"Save & Generate","Sauvegarder & générer"
+"Search Engine Submission Settings","Paramètres de soumission aux moteurs de recherche"
+"Site Map","Plan de Site"
+"Sitemap","Plan de Site"
+"Sitemap File Limits","Limites du fichier de plan de site"
+"Sitemap Generation Warnings","Avertissements sur la génération du plan de site"
+"Sitemap Information","Information Plan de Site"
+"Start Time","Heure de Début"
+"Store View","Vue Magasin"
+"The priority must be between 0 and 1.","La priorité doit être comprise entre 0 et 1."
+"The sitemap ""%1"" has been generated.","Le plan de site ""%1"" a bien été généré."
+"This sitemap no longer exists.","Ce plan de site n'existe plus."
+"Valid values range from 0.0 to 1.0.","Les valeurs valides sont comprises entre 0.0 et 1.0."
+"We can't find a sitemap to delete.","Impossible de trouver le plan de site à supprimer."
+"We can't find a sitemap to generate.","Impossible de trouver le plan de site à générer."
+"We can't generate the sitemap right now.","Impossible de générer le plan de site."
+"Weekly","Hebdomadaire"
+"XML Sitemap","Plan de Site XML"
+"Yearly","Annuel"
+"You deleted the sitemap.","Plan de Site a été supprimé."
+"You saved the sitemap.","Plan de Site a été sauvegardé."

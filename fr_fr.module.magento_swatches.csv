@@ -1,25 +1,25 @@
-"Add Swatch","Ajouter un Swatch",module,Magento_Swatches
-"Admin is a required field in the each row","Le champ Admin est obligatoire pour chaque ligne",module,Magento_Swatches
-"Allows use fallback logic for replacing swatch image with product swatch or base image","Utilisez la logique de fallback pour remplacer l'image de swatch avec le scatch du produit ou l'image de base",module,Magento_Swatches
-"Create New Value","Créez une Nouvelle Valeur",module,Magento_Swatches
-"Delete","Supprimer",module,Magento_Swatches
-"Deselect All","Tout Désélectionner",module,Magento_Swatches
-"Filtering by this attribute will update the product image on catalog page","Filtrer par cet attribut mettra jour l'image du produit sur la page catalogue",module,Magento_Swatches
-"Is Default","Par Défaut",module,Magento_Swatches
-"Manage Swatch (values of your attribute)","Gérer les Swatch (valeurs des attributs)",module,Magento_Swatches
-"Options","Options",module,Magento_Swatches
-"Remove Attribute","Supprimer l'Attribut",module,Magento_Swatches
-"Remove Option","Supprimer l'Option",module,Magento_Swatches
-"Save Option","Sauvegarder l'Option",module,Magento_Swatches
-"Select All","Sélectionner tout",module,Magento_Swatches
-"Select values from each attribute to include in this product. Each unique combination of values creates a unigue product SKU.","Sélectionnez les valeurs pour chaque attribut à inclure pour ce produit. Chaque combinaison créera un SKU produit unique.",module,Magento_Swatches
-"Sort Option","Option de Tri",module,Magento_Swatches
-"Sort Variations","Trier les variations",module,Magento_Swatches
-"Step 2: Attribute Values","Étape 2: Valeurs des Attributs",module,Magento_Swatches
-"Swatch","Swatch",module,Magento_Swatches
-"Swatches per Product","Swatches par produit",module,Magento_Swatches
-"Swatch Helper: not valid parameter for product instantiation","Helper Swatch: paramètre invalide pour l'instanciation du produit",module,Magento_Swatches
-"Text Swatch","Texte Swatch",module,Magento_Swatches
-"Update Product Preview Image","Mettre à jour l'image produit",module,Magento_Swatches
-"Use Product Image for Swatch if Possible","Utilisez l'image du produit pour le Swatch si possible",module,Magento_Swatches
-"Visual Swatch","Visuel du Swatch",module,Magento_Swatches
+"Add Swatch","Ajouter un Swatch"
+"Admin is a required field in the each row","Le champ Admin est obligatoire pour chaque ligne"
+"Allows use fallback logic for replacing swatch image with product swatch or base image","Utilisez la logique de fallback pour remplacer l'image de swatch avec le scatch du produit ou l'image de base"
+"Create New Value","Créez une Nouvelle Valeur"
+"Delete","Supprimer"
+"Deselect All","Tout Désélectionner"
+"Filtering by this attribute will update the product image on catalog page","Filtrer par cet attribut mettra jour l'image du produit sur la page catalogue"
+"Is Default","Par Défaut"
+"Manage Swatch (values of your attribute)","Gérer les Swatch (valeurs des attributs)"
+"Options","Options"
+"Remove Attribute","Supprimer l'Attribut"
+"Remove Option","Supprimer l'Option"
+"Save Option","Sauvegarder l'Option"
+"Select All","Sélectionner tout"
+"Select values from each attribute to include in this product. Each unique combination of values creates a unigue product SKU.","Sélectionnez les valeurs pour chaque attribut à inclure pour ce produit. Chaque combinaison créera un SKU produit unique."
+"Sort Option","Option de Tri"
+"Sort Variations","Trier les variations"
+"Step 2: Attribute Values","Étape 2: Valeurs des Attributs"
+"Swatch","Swatch"
+"Swatches per Product","Swatches par produit"
+"Swatch Helper: not valid parameter for product instantiation","Helper Swatch: paramètre invalide pour l'instanciation du produit"
+"Text Swatch","Texte Swatch"
+"Update Product Preview Image","Mettre à jour l'image produit"
+"Use Product Image for Swatch if Possible","Utilisez l'image du produit pour le Swatch si possible"
+"Visual Swatch","Visuel du Swatch"

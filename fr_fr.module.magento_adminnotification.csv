@@ -1,49 +1,49 @@
-"1 Hour","1 Heure",module,Magento_AdminNotification
-"2 Hours","2 Heures",module,Magento_AdminNotification
-"6 Hours","6 Heures",module,Magento_AdminNotification
-"12 Hours","12 Heures",module,Magento_AdminNotification
-"24 Hours","24 Heures",module,Magento_AdminNotification
-"Actions","Actions",module,Magento_AdminNotification
-"Are you sure?","Êtes-vous sûr(e)?",module,Magento_AdminNotification
-"A total of %1 record(s) have been marked as Read.","%1 message(s) marqué(s) comme lu(s).",module,Magento_AdminNotification
-"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","Il n'est pas recommandé d'utiliser la variable {{base_url}} en production pour spécifier les URLs de base (sécurisée et non-sécurisée). Il est fortement recommandé de modifier cette valeur dans la <a href=""%1"">configuration</a> de Magento.",module,Magento_AdminNotification
-"close","fermer",module,Magento_AdminNotification
-"Close","Fermer",module,Magento_AdminNotification
-"Close popup","Fermer la popup",module,Magento_AdminNotification
-"critical","critique",module,Magento_AdminNotification
-"Critical System Messages","Messages Système Critiques",module,Magento_AdminNotification
-"Date Added","Date d'ajout",module,Magento_AdminNotification
-"Incoming Message","Message reçu",module,Magento_AdminNotification
-"Last Update","Dernière mise à jour",module,Magento_AdminNotification
-"major","majeur",module,Magento_AdminNotification
-"Major System Messages","Messages Système Majeurs",module,Magento_AdminNotification
-"Mark as Read","Marquer comme lu",module,Magento_AdminNotification
-"Message","Message",module,Magento_AdminNotification
-"Messages Inbox","Boîte de Réception",module,Magento_AdminNotification
-"minor","mineur",module,Magento_AdminNotification
-"notice","notice",module,Magento_AdminNotification
-"Notifications","Notifications",module,Magento_AdminNotification
-"One or more of the Cache Types are invalidated: %1. ","Un ou Plusieurs Types de Cache sont invalides: %1. ",module,Magento_AdminNotification
-"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Veuillez vous rendre dans la <a href=""%1"">Gestion du cache</a> et rafraîchir tous les types de cache.",module,Magento_AdminNotification
-"Please select messages.","Veuillez sélectionner des messages.",module,Magento_AdminNotification
-"Read Details","Voir les détails",module,Magento_AdminNotification
-"Remove","Supprimer",module,Magento_AdminNotification
-"See All (","Voir tout (",module,Magento_AdminNotification
-"Severity","Sévérité",module,Magento_AdminNotification
-"Synchronization of media storages has been completed.","Synchronisation du stockage des médias terminée.",module,Magento_AdminNotification
-"System Messages:","Messages Système:",module,Magento_AdminNotification
-"System messages","Messages Système",module,Magento_AdminNotification
-"The message has been marked as Read.","Le message a été marqué comme lu.",module,Magento_AdminNotification
-"The message has been removed.","Le message a bien été supprimé.",module,Magento_AdminNotification
-"Total of %1 record(s) have been removed.","%1 enregistrement(s) supprimé(s).",module,Magento_AdminNotification
-" unread)"," non lu)",module,Magento_AdminNotification
-"Update Frequency","Fréquence de mise à jour",module,Magento_AdminNotification
-"Use HTTPS to Get Feed","Utiliser HTTPS pour Récupérer le Flux",module,Magento_AdminNotification
-"We couldn't mark the notification as Read because of an error.","Nous ne pouvons pas marquer la notification comme lue suite à une erreur.",module,Magento_AdminNotification
-"We couldn't remove the messages because of an error.","Nous ne pouvons pas supprimer les messages suite à une erreur.",module,Magento_AdminNotification
-"We were unable to synchronize one or more media files. Please refer to the log file for details.","Nous n'avons pas été en mesure de synchroniser un ou plusieurs fichiers médias. Veuillez consulter les logs pour obtenir plus de détails.",module,Magento_AdminNotification
-"Wrong message type","Mauvais type de message",module,Magento_AdminNotification
-"Wrong notification ID specified.","Mauvais ID de notification spécifié.",module,Magento_AdminNotification
-"You have %1 new system message","Vous avez %1 nouveau message système",module,Magento_AdminNotification
-"You have %1 new system messages","Vous avez %1 nouveaux messages système",module,Magento_AdminNotification
-"Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.","Votre serveur Web n'est pas correctement configuré et permet l'accès à des fichiers sensibles. Veuillez corriger le problème rapidement ou contacter votre hébergeur.",module,Magento_AdminNotification
+"1 Hour","1 Heure"
+"2 Hours","2 Heures"
+"6 Hours","6 Heures"
+"12 Hours","12 Heures"
+"24 Hours","24 Heures"
+"Actions","Actions"
+"Are you sure?","Êtes-vous sûr(e)?"
+"A total of %1 record(s) have been marked as Read.","%1 message(s) marqué(s) comme lu(s)."
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","Il n'est pas recommandé d'utiliser la variable {{base_url}} en production pour spécifier les URLs de base (sécurisée et non-sécurisée). Il est fortement recommandé de modifier cette valeur dans la <a href=""%1"">configuration</a> de Magento."
+"close","fermer"
+"Close","Fermer"
+"Close popup","Fermer la popup"
+"critical","critique"
+"Critical System Messages","Messages Système Critiques"
+"Date Added","Date d'ajout"
+"Incoming Message","Message reçu"
+"Last Update","Dernière mise à jour"
+"major","majeur"
+"Major System Messages","Messages Système Majeurs"
+"Mark as Read","Marquer comme lu"
+"Message","Message"
+"Messages Inbox","Boîte de Réception"
+"minor","mineur"
+"notice","notice"
+"Notifications","Notifications"
+"One or more of the Cache Types are invalidated: %1. ","Un ou Plusieurs Types de Cache sont invalides: %1.  "
+"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Veuillez vous rendre dans la <a href=""%1"">Gestion du cache</a> et rafraîchir tous les types de cache."
+"Please select messages.","Veuillez sélectionner des messages."
+"Read Details","Voir les détails"
+"Remove","Supprimer"
+"See All (","Voir tout ("
+"Severity","Sévérité"
+"Synchronization of media storages has been completed.","Synchronisation du stockage des médias terminée."
+"System Messages:","Messages Système:"
+"System messages","Messages Système"
+"The message has been marked as Read.","Le message a été marqué comme lu."
+"The message has been removed.","Le message a bien été supprimé."
+"Total of %1 record(s) have been removed.","%1 enregistrement(s) supprimé(s)."
+" unread)","  non lu)"
+"Update Frequency","Fréquence de mise à jour"
+"Use HTTPS to Get Feed","Utiliser HTTPS pour Récupérer le Flux"
+"We couldn't mark the notification as Read because of an error.","Nous ne pouvons pas marquer la notification comme lue suite à une erreur."
+"We couldn't remove the messages because of an error.","Nous ne pouvons pas supprimer les messages suite à une erreur."
+"We were unable to synchronize one or more media files. Please refer to the log file for details.","Nous n'avons pas été en mesure de synchroniser un ou plusieurs fichiers médias. Veuillez consulter les logs pour obtenir plus de détails."
+"Wrong message type","Mauvais type de message"
+"Wrong notification ID specified.","Mauvais ID de notification spécifié."
+"You have %1 new system message","Vous avez %1 nouveau message système"
+"You have %1 new system messages","Vous avez %1 nouveaux messages système"
+"Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.","Votre serveur Web n'est pas correctement configuré et permet l'accès à des fichiers sensibles. Veuillez corriger le problème rapidement ou contacter votre hébergeur."

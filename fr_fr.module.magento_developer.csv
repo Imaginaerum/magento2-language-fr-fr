@@ -1,9 +1,9 @@
-"Allowed IPs (comma separated)","IPs autorisées (séparées par des virgules)",module,Magento_Developer
-"Client side less compilation","Compilation less coté client",module,Magento_Developer
-"Developer Client Restrictions","Restrictions Client Développeur",module,Magento_Developer
-"Format for IDE '%1' is not supported","Le format pour l'EDI '%1' n'est pas pris en charge",module,Magento_Developer
-"Front-end development workflow","Automatisation de processus coté front office",module,Magento_Developer
-"Leave empty for access from any location.","Laissez vide si vous souhaitez y accéder depuis n'importe où.",module,Magento_Developer
-"Not available in production mode","Non disponible en mode production",module,Magento_Developer
-"Server side less compilation","Compilation less coté serveur",module,Magento_Developer
-"Workflow type","Type d'automatisation de processus",module,Magento_Developer
+"Allowed IPs (comma separated)","IPs autorisées (séparées par des virgules)"
+"Client side less compilation","Compilation less coté client"
+"Developer Client Restrictions","Restrictions Client Développeur"
+"Format for IDE '%1' is not supported","Le format pour l'EDI '%1' n'est pas pris en charge"
+"Front-end development workflow","Automatisation de processus coté front office"
+"Leave empty for access from any location.","Laissez vide si vous souhaitez y accéder depuis n'importe où."
+"Not available in production mode","Non disponible en mode production"
+"Server side less compilation","Compilation less coté serveur"
+"Workflow type","Type d'automatisation de processus"

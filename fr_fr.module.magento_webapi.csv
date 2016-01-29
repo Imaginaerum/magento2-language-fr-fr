@@ -1,19 +1,19 @@
-"Authentication header format is invalid.","Le format d'en-tête d'authentification est invalide.",module,Magento_Webapi
-"Authentication header is absent.","L'en-tête d'authentification est manquant.",module,Magento_Webapi
-"Cannot perform GET operation with store code 'all'","Impossible d'effectuer l'opération GET avec le code Magasin 'all'",module,Magento_Webapi
-"Default Response Charset","Charset de réponse par défaut",module,Magento_Webapi
-"If empty, UTF-8 will be used.","Si vide, l'UTF-8 sera utilisé.",module,Magento_Webapi
-"Invalid XML","XML invalide.",module,Magento_Webapi
-"Invalid XML: Detected use of illegal DOCTYPE","XML invalide: Détection d'une utilisation illégale de DOCTYPE",module,Magento_Webapi
-"Magento Web API","API Web Magento",module,Magento_Webapi
-"Message","Message",module,Magento_Webapi
-"message","message",module,Magento_Webapi
-"Not allowed parameters: %1. Please use only %2 and %3.","Paramètres non autorisés: %1. Veuillez utiliser uniquement %2 et %3.",module,Magento_Webapi
-"Operation ""%1"" not found.","L'opération ""%1"" est introuvable.",module,Magento_Webapi
-"Operation allowed only in HTTPS","Opération autorisée uniquement en HTTPS",module,Magento_Webapi
-"Request does not match any route.","La requête ne correspond à aucune route.",module,Magento_Webapi
-"Requested service is not available: ""%1""","Le service demandé n'est pas dispobible: ""%1""",module,Magento_Webapi
-"REST and SOAP configurations, generated WSDL file.","Configurations REST et SOAP, fichier WSDL généré.",module,Magento_Webapi
-"SOAP extension is not loaded.","L'extension SOAP n'est pas chargée.",module,Magento_Webapi
-"SOAP Settings","Paramètres SOAP",module,Magento_Webapi
-"Web Services Configuration","Configuration des Web Services",module,Magento_Webapi
+"Authentication header format is invalid.","Le format d'en-tête d'authentification est invalide."
+"Authentication header is absent.","L'en-tête d'authentification est manquant."
+"Cannot perform GET operation with store code 'all'","Impossible d'effectuer l'opération GET avec le code Magasin 'all'"
+"Default Response Charset","Charset de réponse par défaut"
+"If empty, UTF-8 will be used.","Si vide, l'UTF-8 sera utilisé."
+"Invalid XML","XML invalide."
+"Invalid XML: Detected use of illegal DOCTYPE","XML invalide: Détection d'une utilisation illégale de DOCTYPE"
+"Magento Web API","API Web Magento"
+"Message","Message"
+"message","message"
+"Not allowed parameters: %1. Please use only %2 and %3.","Paramètres non autorisés: %1. Veuillez utiliser uniquement %2 et %3."
+"Operation ""%1"" not found.","L'opération ""%1"" est introuvable."
+"Operation allowed only in HTTPS","Opération autorisée uniquement en HTTPS"
+"Request does not match any route.","La requête ne correspond à aucune route."
+"Requested service is not available: ""%1""","Le service demandé n'est pas dispobible: ""%1"""
+"REST and SOAP configurations, generated WSDL file.","Configurations REST et SOAP, fichier WSDL généré."
+"SOAP extension is not loaded.","L'extension SOAP n'est pas chargée."
+"SOAP Settings","Paramètres SOAP"
+"Web Services Configuration","Configuration des Web Services"

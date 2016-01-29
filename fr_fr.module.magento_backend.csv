@@ -1,427 +1,426 @@
-"%1 cache type(s) disabled.","%1 type(s) de cache désactivé(s).",module,Magento_Backend
-"%1 cache type(s) enabled.","%1 type(s) de cache activé(s).",module,Magento_Backend
-"%1 cache type(s) refreshed.","%1 type(s) de cache actualisé(s).",module,Magento_Backend
-"2YTD","Depuis le début de l'année dernière",module,Magento_Backend
-"About the calendar","À propos du calendrier",module,Magento_Backend
-"Access denied","Accès refusé",module,Magento_Backend
-"Access Denied.","Accès Refusé.",module,Magento_Backend
-"Account Information","Informations du Compte",module,Magento_Backend
-"Account Setting","Paramètres du Compte",module,Magento_Backend
-"Actions","Actions",module,Magento_Backend
-"Add Block Names to Hints","Ajouter les Nom des Blocs aux Astuces",module,Magento_Backend
-"Add Design Change","Ajouter un changement de design",module,Magento_Backend
-"Additional Cache Management","Gestion Additionnelle du Cache",module,Magento_Backend
-"Additional Settings","Paramètres Additionnels",module,Magento_Backend
-"Add New","Ajouter",module,Magento_Backend
-"Add New Image","Ajouter un Image",module,Magento_Backend
-"Add Secret Key to URLs","Ajouter une Clé Secrète aux URLs",module,Magento_Backend
-"Add Store Code to Urls","Ajouter le code du Magasin aux URLs",module,Magento_Backend
-"Admin","Admin",module,Magento_Backend
-"Admin Base URL","URL de Base de l'Admin",module,Magento_Backend
-"Admin Session Lifetime (seconds)","Durée de Vie de la Session Admin (en secondes)",module,Magento_Backend
-"Admin User Emails","Emails de l'Administrateur",module,Magento_Backend
-"Advanced","Avancé",module,Magento_Backend
-"All Cache","Tous les caches",module,Magento_Backend
-"All Countries","Tous les Pays",module,Magento_Backend
-"All Files","Tous les Fichiers",module,Magento_Backend
-"Allow Countries","Autoriser les Pays",module,Magento_Backend
-"Allows customers to stay logged in when switching between different stores.","Permet aux Clients de rester connectés si ils naviguent entre les différents Magasins.",module,Magento_Backend
-"Allow Symlinks","Autoriser les Liens Symboliques",module,Magento_Backend
-"All Store Views","Toutes les Vues Magasin",module,Magento_Backend
-"All Websites","Tous les Sites Web",module,Magento_Backend
-"Alternative text for next link in pagination menu. If empty, default arrow image will used.","Texte alternatif pour le lien «suivant» dans le menu de pagination. Si vous le laissez vide, c'est la caractère par Défaut qui sera utilisé.",module,Magento_Backend
-"Alternative text for previous link in pagination menu. If empty, default arrow image will used.","Texte alternatif pour le lien « précédent » dans le menu de pagination. Si vous le laissez vide, c'est la flêche par Défaut qui sera utilisée.",module,Magento_Backend
-"Amounts","Montants",module,Magento_Backend
-"Anchor Text for Next","Texte d'ancrage pour Suivant",module,Magento_Backend
-"Anchor Text for Previous","Texte d'ancrage pour Précédent",module,Magento_Backend
-"An error occurred while clearing the image cache.","Erreur lors de la purge du cache des images.",module,Magento_Backend
-"An error occurred while clearing the JavaScript/CSS cache.","Erreur lors de la purge du cache javascript/CSS.",module,Magento_Backend
-"An error occurred while disabling cache.","Une erreur s'est produite pendant la désactivation du cache.",module,Magento_Backend
-"An error occurred while enabling cache.","Une erreur s'est produite pendant l'activation du cache.",module,Magento_Backend
-"An error occurred while refreshing cache.","Une erreur s'est produite pendant le rafraîchissement du cache.",module,Magento_Backend
-"An error occurred while saving account.","Erreur lors de la sauvegarde du compte.",module,Magento_Backend
-"Any","Tous",module,Magento_Backend
-"Are you sure?","Êtes-vous sûr(e)?",module,Magento_Backend
-"Are you sure you want to do this?","Êtes-vous sûr(e) de vouloir faire cela?",module,Magento_Backend
-"Authentication error occurred.","Une erreur d'authentification s'est produites.",module,Magento_Backend
-"Authentication storage is incorrect.","Le stockage des authentifications est incorrect.",module,Magento_Backend
-"Auto-redirect to Base URL","Rediriger automatiquement vers l'URL de base",module,Magento_Backend
-"Average","Moyen",module,Magento_Backend
-"Average Order","Moyenne des Commandes",module,Magento_Backend
-"Back","Retour",module,Magento_Backend
-"Backup Options","Options de Sauvegarde",module,Magento_Backend
-"Base Link URL","Lien vers l'URL de base",module,Magento_Backend
-"Base URL","URL de Base",module,Magento_Backend
-"Base URL for Static View Files","URL de base pour les fichiers statiques",module,Magento_Backend
-"Base URL for User Media Files","URL de base pour les fichiers médias des utilisateurs",module,Magento_Backend
-"Base URLs","URLs de Base",module,Magento_Backend
-"Base URLs (Secure)","URLs de base (Sécurisées)",module,Magento_Backend
-"Before modifying the store view code please make sure it is not used in index.php.","Avant de modifier le code de vue magasin, assurez-vous qu'il n'est pas utilisé dans le fichier index.php.",module,Magento_Backend
-"Before modifying the website code please make sure it is not used in index.php.","Avant de modifier le code de site web, assurez-vous qu'il n'est pas utilisé dans le fichier index.php.",module,Magento_Backend
-"Bestsellers","Meilleures ventes",module,Magento_Backend
-"Big Image","Grande Image",module,Magento_Backend
-"Block Information","Information du Bloc",module,Magento_Backend
-"Browse Files...","Parcourir les fichiers...",module,Magento_Backend
-"Cache Control","Contrôle du Cache",module,Magento_Backend
-"Cache Management","Gestion du Cache",module,Magento_Backend
-"Cache Storage Management","Gestion du Cache",module,Magento_Backend
-"Cache Type","Type de Cache",module,Magento_Backend
-"Cancel","Annuler",module,Magento_Backend
-"Catalog","Catalogue",module,Magento_Backend
-"Catalog Rewrites","Réécriture du Catalogue",module,Magento_Backend
-"Changes have been made to this section that have not been saved.","Des modifications ont été apportées à cette section qui n'a pas été encore sauvegardée.",module,Magento_Backend
-"Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","Les données graphiques sont désactivés. Pour les activer, cliquez <a href=""%1"">ici</a>.",module,Magento_Backend
-"City","Ville",module,Magento_Backend
-"Clear","Vider",module,Magento_Backend
-"Close","Fermer",module,Magento_Backend
-"Code","Code",module,Magento_Backend
-"Community Edition","Community Edition",module,Magento_Backend
-"Copyright© %1 Magento Commerce Inc. All rights reserved.","Copyright© %1 Magento Commerce Inc. Tous droits réservés.",module,Magento_Backend
-"Country","Pays",module,Magento_Backend
-"Country Options","Options des Pays",module,Magento_Backend
-"Create DB Backup","Créer une sauvegarde de la base de données",module,Magento_Backend
-"Create Store","Créer un Magasin",module,Magento_Backend
-"Create Store View","Créer une Vue Magasin",module,Magento_Backend
-"Create Website","Créer un Site Web",module,Magento_Backend
-"CSS Settings","Paramètres CSS",module,Magento_Backend
-"Current Month","Mois en Cours",module,Magento_Backend
-"Current User Identity Verification","Vérification de l'identité de l'utilisateur actuel",module,Magento_Backend
-"Custom Admin Path","Chemin d'accès au back office personnalisé",module,Magento_Backend
-"Custom Admin URL","URL Admin personnalisée",module,Magento_Backend
-"Custom Design","Design Personnalisé",module,Magento_Backend
-"Custom Email 1","Email Personnalisé 1",module,Magento_Backend
-"Custom Email 2","Email Personnalisé 2",module,Magento_Backend
-"Customer","Client",module,Magento_Backend
-"Customers","Clients",module,Magento_Backend
-"Customer Support","Support Client",module,Magento_Backend
-"Customer View","Vue Client",module,Magento_Backend
-"Dashboard","Tableau de bord",module,Magento_Backend
-"Date From","Du",module,Magento_Backend
-"Date selector","Sélecteur de Date",module,Magento_Backend
-"Date To","Au",module,Magento_Backend
-"Debug","Déboguage",module,Magento_Backend
-"Default Country","Pays par Défaut",module,Magento_Backend
-"Default No-route URL","URL par Défaut de la page pour une ressource non trouvée",module,Magento_Backend
-"Default Pages","Pages par Défaut",module,Magento_Backend
-"Default Store","Magasin par Défaut",module,Magento_Backend
-"Default Store View","Vue Magasin par Défaut",module,Magento_Backend
-"Default Web URL","URL Web par Défaut",module,Magento_Backend
-"Delete %1","Supprimer %1",module,Magento_Backend
-"Delete %1 '%2'","Supprimer %1 '%2'",module,Magento_Backend
-"Delete","Supprimer",module,Magento_Backend
-"[ deleted ]","[ effacé ]",module,Magento_Backend
-" [deleted]"," [effacé]",module,Magento_Backend
-"Delete Store","Supprimer le Magasin",module,Magento_Backend
-"Delete Store View","Supprimer la Vue Magasin",module,Magento_Backend
-"Delete Web Site","Supprimer le Site Web",module,Magento_Backend
-"Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","Effacer un %1 n'effacera pas les informations associées avec le %1 (par ex. catégories, produits, etc.), mais il ne sera pas possible de restaurer le %1. Nous vous suggérons de créer une sauvegarde de la base de données avant d'effacer le %1.",module,Magento_Backend
-"Description","Description",module,Magento_Backend
-"Design","Design",module,Magento_Backend
-"Design Change","Changement de Design",module,Magento_Backend
-"Design Theme","Thème de design",module,Magento_Backend
-"Developer","Développeur",module,Magento_Backend
-"Disable","Désactiver",module,Magento_Backend
-"Disabled","Désactivé",module,Magento_Backend
-"Disable Email Communications","Désactiver les envois d'email",module,Magento_Backend
-"Disable Modules Output","Désactiver la sortie des modules",module,Magento_Backend
-"Edit Design Change","Modifier le changement de design",module,Magento_Backend
-"Edit Store","Modifier le Magasin",module,Magento_Backend
-"Edit Store Design Change","Modifier le changement de design du magasin",module,Magento_Backend
-"Edit Store View","Modifier la vue magasin",module,Magento_Backend
-"Edit Web Site","Modifier le Site Web",module,Magento_Backend
-"Email","Email",module,Magento_Backend
-"Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée.",module,Magento_Backend
-"Enable","Activer",module,Magento_Backend
-"Enable Charts","Activer les Graphiques",module,Magento_Backend
-"Enabled","Activé",module,Magento_Backend
-"Enabled for Admin","Activée pour l'admin",module,Magento_Backend
-"Enabled for Storefront","Activer pour le front office",module,Magento_Backend
-"Enabled Template Path Hints for Admin","Activer les astuce chemin des gabarits sur le back office",module,Magento_Backend
-"Enabled Template Path Hints for Storefront","Activer les astuce chemin des gabarits sur le front office",module,Magento_Backend
-"Enable Javascript Bundling","Activer la concaténation des fichiers JavaScript",module,Magento_Backend
-"Enable Single-Store Mode","Activer le mode ""mono-boutique""",module,Magento_Backend
-"Error","Erreur",module,Magento_Backend
-"European Union Countries","Pays de l'Union Européenne",module,Magento_Backend
-"Export","Exporter",module,Magento_Backend
-"Export block for grid %1 is not defined","Le bloc d'export pour la grille %1 n'est pas défini",module,Magento_Backend
-"Export to:","Exporter vers:",module,Magento_Backend
-"Find a string in client user-agent header and switch to specific design theme for that browser.","Analyse une chaîne dans l'en-tête ""User-Agent"" par le navigateur client et sélectionne un design spécifique pour ce navigateur.",module,Magento_Backend
-"First Day of Week","Premier Jour de la Semaine",module,Magento_Backend
-"First Name","Prénom",module,Magento_Backend
-"Flush Cache Storage","Vider le Cache",module,Magento_Backend
-"Flush Catalog Images Cache","Vider le Cache des Images du Catalogue",module,Magento_Backend
-"Flush JavaScript/CSS Cache","Vider le Cache JavaScript/CSS",module,Magento_Backend
-"Flush Magento Cache","Vider le Cache Magento",module,Magento_Backend
-"Flush Static Files Cache","Vider le Cache des Fichiers Statiques",module,Magento_Backend
-"Forgot and Reset Email Sender","Expéditeur de l'email d'oubli et réinitialisation de mot de passe",module,Magento_Backend
-"Forgot Password Email Template","Gabarit du mail d'oubli de mot de passe",module,Magento_Backend
-"From","De",module,Magento_Backend
-"General","Général",module,Magento_Backend
-"General Contact","Contact Général",module,Magento_Backend
-"General Settings","Paramètres Généraux",module,Magento_Backend
-"Go Today","Aller à aujourd'hui",module,Magento_Backend
-"Guest","Invité",module,Magento_Backend
-"<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading"">Erreur 404</h1><p>Page non trouvée.</p>",module,Magento_Backend
-"Home","Accueil",module,Magento_Backend
-"Host","Serveur",module,Magento_Backend
-"Hour","Heure",module,Magento_Backend
-"How many links to display at once.","Nombre de liens à afficher à la fois.",module,Magento_Backend
-"If the current frame position does not cover utmost pages, will render link to current position plus/minus this value.","Si la trame de pagination ne couvre pas les pages aux extrémités, Magento affichera les liens vers la page en cours plus ou moins la valeur ci-dessus.",module,Magento_Backend
-"If you continue to receive this message, please contact the store owner.","Si ce message persiste, veuillez nous contacter.",module,Magento_Backend
-"Image Adapter","Générateur d'image",module,Magento_Backend
-"Image Processing Settings","Paramètres de traitement d'image",module,Magento_Backend
-"Images","Images",module,Magento_Backend
-"Images Cache","Cache des Images",module,Magento_Backend
-"Images (.gif, .jpg, .png)","Images (.gif, .jpg, .png)",module,Magento_Backend
-"Interface Locale","Langue de l'Interface",module,Magento_Backend
-"Invalidated","Invalidé",module,Magento_Backend
-"Invalid export type supplied for grid export block","Le type d'exportation est invalide",module,Magento_Backend
-"Invalid Form Key. Please refresh the page.","Clé de Formulaire Invalide. Veuillez Actualiser la page.",module,Magento_Backend
-"invalid request","requête invalide",module,Magento_Backend
-"Inventory Stock Status","Statut du stock de l'inventaire",module,Magento_Backend
-"Items","Éléments",module,Magento_Backend
-"JavaScript/CSS","JavaScript/CSS",module,Magento_Backend
-"JavaScript/CSS Cache","Cache JavaScript/CSS",module,Magento_Backend
-"JavaScript may be disabled in your browser.","JavaScript est peut être désactivé dans votre navigateurs.",module,Magento_Backend
-"JavaScript Settings","Paramètres JavaScript",module,Magento_Backend
-"Last 7 Days","7 derniers jours",module,Magento_Backend
-"Last 24 Hours","Dernières 24 heures",module,Magento_Backend
-"Last Name","Nom",module,Magento_Backend
-"Last Orders","Dernières Commandes",module,Magento_Backend
-"Last Search Terms","Derniers Termes Recherchés",module,Magento_Backend
-"Lifetime Sales","Ventes depuis le début",module,Magento_Backend
-"Loading...","Chargement en cours...",module,Magento_Backend
-"Locale","Locale",module,Magento_Backend
-"Locale Options","Options de localisation",module,Magento_Backend
-"Login is Case Sensitive","L'identifiant utilisateur est sensible à la casse",module,Magento_Backend
-"Magento","Magento",module,Magento_Backend
-"Magento Admin Panel","Panneau d'Administration de Magento",module,Magento_Backend
-"Mail Sending Settings","Paramètres d'envoi des emails",module,Magento_Backend
-"Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/","Assurez-vous que l'URL se termine par un '/' (slash), ex: http://yourdomain/magento/",module,Magento_Backend
-"Manage Stores","Gérer les Magasins",module,Magento_Backend
-"Mass Actions","Actions de masse",module,Magento_Backend
-"May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","Peut être vide ou commencer par la variable {{secure_base_url}} ou {{unsecure_base_url}}",module,Magento_Backend
-"May be empty or start with {{unsecure_base_url}} placeholder.","Peut être vide ou commencer par la variable {{unsecure_base_url}}",module,Magento_Backend
-"Media (.avi, .flv, .swf)","Média (.avi, .flv, .swf)",module,Magento_Backend
-"Merge CSS Files","Fusionner les Fichiers CSS",module,Magento_Backend
-"Merge JavaScript Files","Fusionner les Fichiers JavaScript",module,Magento_Backend
-"Minify CSS Files","Minifier les Fichiers CSS",module,Magento_Backend
-"Minify Html","Minifier le HTML",module,Magento_Backend
-"Minify JavaScript Files","Minifier les fichiers JavaScript",module,Magento_Backend
-"Minute","Minute",module,Magento_Backend
-"Most Viewed Products","Produits les plus consultés",module,Magento_Backend
-"My Account","Mon compte",module,Magento_Backend
-"Name","Nom",module,Magento_Backend
-"New ","Nouveau ",module,Magento_Backend
-"New Customers","Nouveaux Clients",module,Magento_Backend
-"New Password","Nouveau Mot de Passe",module,Magento_Backend
-"New Store","Nouveau Magasin",module,Magento_Backend
-"New Store Design Change","Nouveau changement de design",module,Magento_Backend
-"New Store View","Nouvelle Vue Magasin",module,Magento_Backend
-"New Web Site","Nouveau Site Web",module,Magento_Backend
-"Next","Suivant",module,Magento_Backend
-"Next page","Page Suivante",module,Magento_Backend
-"No","Non",module,Magento_Backend
-"No change","Aucun Changement",module,Magento_Backend
-"No Data Found","Aucune Donnée Trouvée",module,Magento_Backend
-"No records found.","Aucun élément trouvé.",module,Magento_Backend
-"No search modules were registered","Aucun module de recherche n'a été sauvegardé",module,Magento_Backend
-"of %1","sur %1",module,Magento_Backend
-"Offloader header","En-tête de transcodeur",module,Magento_Backend
-"Order #%1","Commande #%1",module,Magento_Backend
-"Order","Commande",module,Magento_Backend
-"Orders","Commandes",module,Magento_Backend
-"Pagination","Pagination",module,Magento_Backend
-"Pagination Frame","Pagination",module,Magento_Backend
-"Pagination Frame Skip","Taille de la Pagination",module,Magento_Backend
-"password","mot de passe",module,Magento_Backend
-"Password","Mot de Passe",module,Magento_Backend
-"Password Confirmation","Confirmation du Mot de Passe",module,Magento_Backend
-"per page","par page",module,Magento_Backend
-"Please confirm scope switching. All data that hasn't been saved will be lost.","Confirmez-vous le changement de site ? Toutes les données non sauvegardées seront perdues.",module,Magento_Backend
-"Please correct the column format and try again.","Veuillez corriger le format colonne et essayez à nouveau.",module,Magento_Backend
-"Please correct the tab configuration and try again.","Veuillez corriger la configuration de l'onglet et essayez à nouveau.",module,Magento_Backend
-"Please correct the tab configuration and try again. Tab Id should be not empry","Veuillez corriger la configuration de l'onglet et essayez à nouveau. L'ID de l'onglet ne devrait pas être vide.",module,Magento_Backend
-"Please enter a number 1 or greater in this field.","Veuillez saisir un nombre supérieur ou égal à 1.",module,Magento_Backend
-"Please make sure that all global admin search modules are installed and activated.","Vérifiez que tous les modules admin de recherche sont installés et activés",module,Magento_Backend
-"-- Please Select --","-- Faire un Choix --",module,Magento_Backend
-"Please select items.","Sélectionnez des éléments.",module,Magento_Backend
-"Please try to sign out and sign in again.","Veuillez essayer de vous déconnectez et vous reconnecter une nouvelle fois.",module,Magento_Backend
-"Port (25)","Port (25)",module,Magento_Backend
-"Pregenerated product images files","Fichiers des Images Produits prégénérés",module,Magento_Backend
-"Preprocessed view files and static files","Fichiers de vue et fichiers statiques prétraités",module,Magento_Backend
-"Previous","Précédent",module,Magento_Backend
-"Previous page","Page Précédente",module,Magento_Backend
-"Price","Prix",module,Magento_Backend
-"Product","Produit",module,Magento_Backend
-"Quantity","Quantité",module,Magento_Backend
-"Rebuild","Reconstruire",module,Magento_Backend
-"Rebuild Catalog Index","Reconstruire l'Index du Catalogue",module,Magento_Backend
-"Rebuild Flat Catalog Category","Reconstruire le catalogue à plat des catégories",module,Magento_Backend
-"Rebuild Flat Catalog Product","Reconstruire le catalogue à plat des produits",module,Magento_Backend
-"records found","enregistrements trouvés",module,Magento_Backend
-"Recovery Link Expiration Period (days)","Durée avant expiration d'un lien de récupération (en jours)",module,Magento_Backend
-"Refresh","Rafraîchir",module,Magento_Backend
-"Region/State","Région/État",module,Magento_Backend
-"Reload Data","Recharger les Données",module,Magento_Backend
-"Report Bugs","Rapporter un Bug",module,Magento_Backend
-"Reset","Réinitialiser",module,Magento_Backend
-"Reset Filter","Réinitialiser le Filtre",module,Magento_Backend
-"Reset to Default","Utiliser les valeurs par défaut",module,Magento_Backend
-"Return-Path Email","Adresse email de réponse",module,Magento_Backend
-"Revenue","Chiffre d'affaires",module,Magento_Backend
-"Root Category","Catégorie Racine",module,Magento_Backend
-"Sales Representative","Représentant des ventes",module,Magento_Backend
-"Save","Sauvegarder",module,Magento_Backend
-"Save Account","Sauvegarder le compte",module,Magento_Backend
-"Save Cache Settings","Sauvegarder les paramètres du cache",module,Magento_Backend
-"Save Store","Sauvegarder le Magasin",module,Magento_Backend
-"Save Store View","Sauvegarder la Vue Magasin",module,Magento_Backend
-"Save Web Site","Sauvegarder le Site Web",module,Magento_Backend
-"Search","Rechercher",module,Magento_Backend
-"Search Engine Optimization","Optimisation pour les moteurs de recherche",module,Magento_Backend
-"Search Index","Index de Recherche",module,Magento_Backend
-"Search strings are either normal strings or regular exceptions (PCRE). They are matched in the same order as entered. Examples:<br /><span style=""font-family:monospace"">Firefox<br />/^mozilla/i</span>","Les recherches sont des chaines de caractères ou des expressions régulière (PCRE). Elles correspondent à leur ordre de saisie. Exemples:<br /><span style=""font-family:monospace"">Firefox<br />/^mozilla/i</span>",module,Magento_Backend
-"Secure Base Link URL","URL de base sécurisée",module,Magento_Backend
-"Secure Base URL","URL de base sécurisée",module,Magento_Backend
-"Secure Base URL for Static View Files","URL de base sécurisée pour les fichiers statiques",module,Magento_Backend
-"Secure Base URL for User Media Files","URL de base sécurisée pour les fichiers médias des utilisateurs",module,Magento_Backend
-"Security","Sécurité",module,Magento_Backend
-"see error log for details","consultez le journal des logs pour plus de détails",module,Magento_Backend
-"Select All","Sélectionner tout",module,Magento_Backend
-"selected","sélectionné",module,Magento_Backend
-"Select Range:","Sélectionner la Plage:",module,Magento_Backend
-"Select Visible","Sélectionner les éléments visibles",module,Magento_Backend
-"Sender Email","Email de l'Expéditeur",module,Magento_Backend
-"Sender Name","Nom de l'expéditeur",module,Magento_Backend
-"Services","Services",module,Magento_Backend
-"Service unavailable: %1","Service inaccessible: %1",module,Magento_Backend
-"Session Validation Settings","Paramètres de validation de session",module,Magento_Backend
-"Set as Default","Définir par défaut",module,Magento_Backend
-"Set Return-Path","Renseigner le chemin de retour",module,Magento_Backend
-"Shipping","Livraison",module,Magento_Backend
-"Sign in","Connexion",module,Magento_Backend
-"Sign Out","Se déconnecter",module,Magento_Backend
-"Sign Static Files","Signer les fichiers statiques",module,Magento_Backend
-"Single-Store Mode","Mode ""mono-boutique""",module,Magento_Backend
-"Something went wrong. Please try again.","Une erreur s'est Produite. Veuillez réessayer.",module,Magento_Backend
-"Something went wrong while saving. Please review the error log.","Une erreur s'est produite lors de la sauvegarde. Veuillez vérifier le journal des erreurs.",module,Magento_Backend
-"Sort Order","Ordre de Tri",module,Magento_Backend
-"Specified cache type(s) don't exist: %1","Les types de cache spécifiés n'existent pas: %1",module,Magento_Backend
-"Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","Spécifiez l'URL ou utilisez la variable {{base_url}}",module,Magento_Backend
-"Specify URL or {{base_url}} placeholder.","Spécifiez l'URL ou utilisez la variable {{base_url}}",module,Magento_Backend
-"Startup Page","Page d'accueil",module,Magento_Backend
-"Static Files Settings","Paramètres des fichiers statiques",module,Magento_Backend
-"Status","Statut",module,Magento_Backend
-"Store","Magasin",module,Magento_Backend
-"Store Design","Design du magasin",module,Magento_Backend
-"Store Email Addresses","Adresses email du magasin",module,Magento_Backend
-"Store Hours of Operation","Heures d'ouvertures du magasin",module,Magento_Backend
-"Store Information","Informations Magasin",module,Magento_Backend
-"Store Name","Nom du Magasin",module,Magento_Backend
-"Store Phone Number","Numéro de téléphone du magasin",module,Magento_Backend
-"Stores","Magasins",module,Magento_Backend
-"Stores Configuration","Configuration des Magasins",module,Magento_Backend
-"Store View","Vue Magasin",module,Magento_Backend
-"Store View:","Vue Magasin:",module,Magento_Backend
-"Store view doesn't exist","La vue magasin n'existe pas",module,Magento_Backend
-"Store View Information","Information de vue magasin",module,Magento_Backend
-"Street Address","Adresse",module,Magento_Backend
-"Street Address Line 2","Adresse Ligne 2",module,Magento_Backend
-"<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).","<strong style=""color:red"">Attention!</strong> Quand vous utilisez le code magasin dans les URLs, il est possible dans certains cas que le système ne fonctionne pas correctement si vous utilisez des services tiers dans lesquels vous avez spécifié des URLs sans le code magasin (ex. PayPal etc.).",module,Magento_Backend
-"Submit","Envoyer",module,Magento_Backend
-"System","Système",module,Magento_Backend
-"Tags","Tags",module,Magento_Backend
-"Tax","Taxe",module,Magento_Backend
-"Template Settings","Paramètres de gabarit",module,Magento_Backend
-"The cache storage may contain additional data. Are you sure that you want to flush it?","Le  cache peut contenir d'autres données. Êtes-vous sûr de vouloir le vider?",module,Magento_Backend
-"The database was backed up.","La base de données a été sauvegardée.",module,Magento_Backend
-"The image cache was cleaned.","Le cache des images a été nettoyé.",module,Magento_Backend
-"The information in this tab has been changed.","Les informations contenues dans cet onglet ont été changées.",module,Magento_Backend
-"The JavaScript/CSS cache has been cleaned.","Le cache javascript/CSS a été nettoyé.",module,Magento_Backend
-"The Magento cache storage has been flushed.","Le cache Magento a été purgé.",module,Magento_Backend
-"Themes JavaScript and CSS files combined to one file.","Fichiers de thèmes JavaScript et CSS combinés en un seul fichier.",module,Magento_Backend
-"There are no search keywords.","Il n'y a aucun mot clé de recherche.",module,Magento_Backend
-"The static files cache has been cleaned.","Le cache des fichiers statiques a été vidé.",module,Magento_Backend
-"The store does not exist","Le magasin n'existe pas.",module,Magento_Backend
-"The website does not exist.","Le site web n'existe pas.",module,Magento_Backend
-"This is only a demo store. You can browse and place orders, but nothing will be processed.","Ceci est une boutique de démonstration. Vous pouvez naviguer et passer des commandes, mais aucune ne pourra être traitée.",module,Magento_Backend
-"This setting will not be taken into account if system has more than one store view.","Ce paramètre ne sera pas pris en compte si le système a plus d'une vue magasin.",module,Magento_Backend
-"This store cannot be deleted.","Ce magasin ne peut pas être effacé.",module,Magento_Backend
-"This store view cannot be deleted.","Cette vue magasin ne peut pas être supprimée.",module,Magento_Backend
-"This tab contains invalid data. Please resolve this before saving.","Cet onglet contient des données invalides. Veuillez les corriger avant de sauvegarder.",module,Magento_Backend
-"This website cannot be deleted.","Ce site web ne peut pas être effacé.",module,Magento_Backend
-"Thumbnail","Vignette",module,Magento_Backend
-"Time","Temps",module,Magento_Backend
-"Timezone","Fuseau horaire",module,Magento_Backend
-"To","À",module,Magento_Backend
-"Top destinations","Top destinations",module,Magento_Backend
-"Top Search Terms","Termes les plus recherchés",module,Magento_Backend
-"Total","Total",module,Magento_Backend
-"To use this website you must first enable JavaScript in your browser.","Pour utiliser ce site dans les meilleures conditions, vous devez activer JavaScript dans votre navigateur.",module,Magento_Backend
-"Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.","Les caches de traduction, de blocs et autres sorties doivent être désactivés pour utiliser la traduction en ligne sur le font office et sur le back office.",module,Magento_Backend
-"Translate Inline","Traduire en Ligne",module,Magento_Backend
-"Unable to delete store. Please, try again later.","Impossible de supprimer le Magasin. Veuillez réessayer ultérieurement.",module,Magento_Backend
-"Unable to delete store view. Please, try again later.","Impossible de supprimer la Vue Magasin. Veuillez réessayer ultérieurement.",module,Magento_Backend
-"Unable to delete website. Please, try again later.","Impossible de supprimer le Site Web. Veuillez réessayer ultérieurement.",module,Magento_Backend
-"Unknown block type","Type de bloc inconnu",module,Magento_Backend
-"Unselect All","Désélectionner Tout",module,Magento_Backend
-"Unselect Visible","Désélectionner les éléments visibles",module,Magento_Backend
-"Url Options","Options d'URL",module,Magento_Backend
-"Use Custom Admin Path","Utiliser le chemin d'accès au back office personnalisé",module,Magento_Backend
-"Use Custom Admin URL","Utiliser une URL Admin personnalisée",module,Magento_Backend
-"User-Agent Exceptions","Exceptions User-Agent",module,Magento_Backend
-"User Email","Email Utilisateur",module,Magento_Backend
-"User Name","Nom de l'utilisateur",module,Magento_Backend
-"Username","Nom d'utilisateur",module,Magento_Backend
-"user name","nom d'utilisateur",module,Magento_Backend
-"Use Secure URLs in Admin","Utiliser des URLs sécurisées dans l'Administration",module,Magento_Backend
-"Use Secure URLs on Storefront","Utiliser des URLs sécurisées sur le front office",module,Magento_Backend
-"Use SID on Storefront","Utiliser SID sur le front office",module,Magento_Backend
-"Use Web Server Rewrites","Utiliser les réécritures du serveur web",module,Magento_Backend
-"Validate HTTP_USER_AGENT","Valider HTTP_USER_AGENT",module,Magento_Backend
-"Validate HTTP_VIA","Valider HTTP_VIA",module,Magento_Backend
-"Validate HTTP_X_FORWARDED_FOR","Valider HTTP_X_FORWARDED_FOR",module,Magento_Backend
-"Validate REMOTE_ADDR","Valider REMOTE_ADDR",module,Magento_Backend
-"Values less than 60 are ignored.","Les valeurs inférieures à 60 sont ignorées.",module,Magento_Backend
-"VAT Number","Numéro de TVA",module,Magento_Backend
-"ver. %1","ver. %1",module,Magento_Backend
-"Views","Vues",module,Magento_Backend
-"View Statistics For:","Voir les statistiques pour:",module,Magento_Backend
-"Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.","Attention ! L'activation de cette fonctionnalité n'est pas recommandée dans un environnement de production car elle présente un risque de sécurité potentiel.",module,Magento_Backend
-"Web","Web",module,Magento_Backend
-"Web Site","Site Web",module,Magento_Backend
-"Web Site Information","Information Site Web",module,Magento_Backend
-"We can't create a backup right now. Please try again later.","Nous ne pouvons pas créer une sauvegarde. Veuillez réessayer plus tard.",module,Magento_Backend
-"We can't refresh lifetime statistics.","Nous n'avons pas pu rafraîchir les statistiques depuis le début.",module,Magento_Backend
-"We could not detect a size.","Nous ne pouvons pas déterminer le poids du fichier.",module,Magento_Backend
-"We couldn't find any records.","Aucun enregistrement trouvé.",module,Magento_Backend
-"We don't recognize or support this file extension type.","Le type de fichier n'est pas reconnu ou n'est pas autorisé.",module,Magento_Backend
-"Weekend Days","Jours de Weekend",module,Magento_Backend
-"Welcome, please sign in","Bienvenu ! Veuillez vous connecter",module,Magento_Backend
-"We updated lifetime statistic.","Nous avons mis à jour les statistiques depuis le début.",module,Magento_Backend
-"What is this?","Qu'est-ce que c'est?",module,Magento_Backend
-"WK","Semaine",module,Magento_Backend
-"Yes","Oui",module,Magento_Backend
-"You can't delete the design change.","Vous ne pouvez pas supprimer le changement de design.",module,Magento_Backend
-"You can't delete the design change.","Vous ne pouvez pas supprimer le changement de design.",module,Magento_Backend
-"You deleted the design change.","Changement de design supprimé.",module,Magento_Backend
-"You deleted the store.","Vous avez supprimé le magasin.",module,Magento_Backend
-"You deleted the store view.","Vous avez supprimé la vue magasin.",module,Magento_Backend
-"You deleted the website.","Vous avez supprimé le site web.",module,Magento_Backend
-"You did not sign in correctly or your account is temporarily disabled.","Erreur dans les paramètres de connexion ou votre compte est temporairement désactivé.",module,Magento_Backend
-"You entered an invalid Secret Key. Please refresh the page.","La clé secrète fournie est invalide. Veuillez rafraîchir la page.",module,Magento_Backend
-"You flushed the cache storage.","Vous avez vidé le cache.",module,Magento_Backend
-"You have entered an invalid password for current user.","Mot de passe invalide.",module,Magento_Backend
-"You have logged out.","Vous vous êtes déconnecté(e).",module,Magento_Backend
-"You need more permissions to access this.","Vous avez besoin de permissions supplémentaires pour accéder à ceci.",module,Magento_Backend
-"You need more permissions to do this.","Vous n'avez pas les droits nécessaires pour effectuer cette action.",module,Magento_Backend
-"Your Password","Votre Mot de Passe",module,Magento_Backend
-"You saved the account.","Compte sauvegardé.",module,Magento_Backend
-"You saved the design change.","Vous avez sauvegardé le changement de design.",module,Magento_Backend
-"You saved the store.","Magasin sauvegardé.",module,Magento_Backend
-"You saved the store view.","Vue Magasin sauvegardée.",module,Magento_Backend
-"You saved the website.","Site web sauvegardé.",module,Magento_Backend
-"You will have to sign in after you save your custom admin path.","Vous devrez vous reconnecter après avoir sauvegardé le chemin personnalisé.",module,Magento_Backend
-"YTD","Depuis le début de l'année",module,Magento_Backend
-"ZIP/Postal Code","Code postal",module,Magento_Backend
+"%1 cache type(s) disabled.","%1 type(s) de cache désactivé(s)."
+"%1 cache type(s) enabled.","%1 type(s) de cache activé(s)."
+"%1 cache type(s) refreshed.","%1 type(s) de cache actualisé(s)."
+"2YTD","Depuis le début de l'année dernière"
+"<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading"">Erreur 404</h1><p>Page introuvable.</p>"
+"About the calendar","À propos du calendrier"
+"Access denied","Accès refusé"
+"Access Denied.","Accès Refusé."
+"Account Information","Informations du Compte"
+"Account Setting","Paramètres du Compte"
+"Actions","Actions"
+"Add Block Names to Hints","Ajouter les Nom des Blocs aux Astuces"
+"Add Design Change","Ajouter un changement de design"
+"Additional Cache Management","Gestion Additionnelle du Cache"
+"Additional Settings","Paramètres Additionnels"
+"Add New","Ajouter"
+"Add New Image","Ajouter un Image"
+"Add Secret Key to URLs","Ajouter une Clé Secrète aux URLs"
+"Add Store Code to Urls","Ajouter le code du Magasin aux URLs"
+"Admin","Admin"
+"Admin Base URL","URL de Base de l'Admin"
+"Admin Session Lifetime (seconds)","Durée de Vie de la Session Admin (en secondes)"
+"Admin User Emails","Emails de l'Administrateur"
+"Advanced","Avancé"
+"All Cache","Tous les caches"
+"All Countries","Tous les Pays"
+"All Files","Tous les Fichiers"
+"Allow Countries","Autoriser les Pays"
+"Allows customers to stay logged in when switching between different stores.","Permet aux Clients de rester connectés si ils naviguent entre les différents Magasins."
+"Allow Symlinks","Autoriser les Liens Symboliques"
+"All Store Views","Toutes les Vues Magasin"
+"All Websites","Tous les Sites Web"
+"Alternative text for next link in pagination menu. If empty, default arrow image will used.","Texte alternatif pour le lien «suivant» dans le menu de pagination. Si vous le laissez vide, c'est la caractère par Défaut qui sera utilisé."
+"Alternative text for previous link in pagination menu. If empty, default arrow image will used.","Texte alternatif pour le lien « précédent » dans le menu de pagination. Si vous le laissez vide, c'est la flêche par Défaut qui sera utilisée."
+"Amounts","Montants"
+"Anchor Text for Next","Texte d'ancrage pour Suivant"
+"Anchor Text for Previous","Texte d'ancrage pour Précédent"
+"An error occurred while clearing the image cache.","Erreur lors de la purge du cache des images."
+"An error occurred while clearing the JavaScript/CSS cache.","Erreur lors de la purge du cache javascript/CSS."
+"An error occurred while disabling cache.","Une erreur s'est produite pendant la désactivation du cache."
+"An error occurred while enabling cache.","Une erreur s'est produite pendant l'activation du cache."
+"An error occurred while refreshing cache.","Une erreur s'est produite pendant le rafraîchissement du cache."
+"An error occurred while saving account.","Erreur lors de la sauvegarde du compte."
+"Any","Tous"
+"Are you sure?","Êtes-vous sûr(e)?"
+"Are you sure you want to do this?","Êtes-vous sûr(e) de vouloir faire cela?"
+"Authentication error occurred.","Une erreur d'authentification s'est produites."
+"Authentication storage is incorrect.","Le stockage des authentifications est incorrect."
+"Auto-redirect to Base URL","Rediriger automatiquement vers l'URL de base"
+"Average","Moyen"
+"Average Order","Moyenne des Commandes"
+"Back","Retour"
+"Backup Options","Options de Sauvegarde"
+"Base Link URL","Lien vers l'URL de base"
+"Base URL","URL de Base"
+"Base URL for Static View Files","URL de base pour les fichiers statiques"
+"Base URL for User Media Files","URL de base pour les fichiers médias des utilisateurs"
+"Base URLs","URLs de Base"
+"Base URLs (Secure)","URLs de base (Sécurisées)"
+"Before modifying the store view code please make sure it is not used in index.php.","Avant de modifier le code de vue magasin, assurez-vous qu'il n'est pas utilisé dans le fichier index.php."
+"Before modifying the website code please make sure it is not used in index.php.","Avant de modifier le code de site web, assurez-vous qu'il n'est pas utilisé dans le fichier index.php."
+"Bestsellers","Meilleures ventes"
+"Big Image","Grande Image"
+"Block Information","Information du Bloc"
+"Browse Files...","Parcourir les fichiers..."
+"Cache Control","Contrôle du Cache"
+"Cache Management","Gestion du Cache"
+"Cache Storage Management","Gestion du Cache"
+"Cache Type","Type de Cache"
+"Cancel","Annuler"
+"Catalog","Catalogue"
+"Catalog Rewrites","Réécriture du Catalogue"
+"Changes have been made to this section that have not been saved.","Des modifications ont été apportées à cette section qui n'a pas été encore sauvegardée."
+"Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","Les données graphiques sont désactivées. Cliquez <a href=""%1"">ici</a> pour les activer."
+"City","Ville"
+"Clear","Vider"
+"Close","Fermer"
+"Code","Code"
+"Community Edition","Community Edition"
+"Copyright&copy; %1 Magento Commerce Inc. All rights reserved.","Copyright&copy; %1 Magento Commerce Inc. Tous droits réservés."
+"Country","Pays"
+"Country Options","Options des Pays"
+"Create DB Backup","Créer une sauvegarde de la base de données"
+"Create Store","Créer un Magasin"
+"Create Store View","Créer une Vue Magasin"
+"Create Website","Créer un Site Web"
+"CSS Settings","Paramètres CSS"
+"Current Month","Mois en Cours"
+"Current User Identity Verification","Vérification de l'identité de l'utilisateur actuel"
+"Custom Admin Path","Chemin d'accès au back office personnalisé"
+"Custom Admin URL","URL Admin personnalisée"
+"Custom Design","Design Personnalisé"
+"Custom Email 1","Email Personnalisé 1"
+"Custom Email 2","Email Personnalisé 2"
+"Customer","Client"
+"Customers","Clients"
+"Customer Support","Support Client"
+"Customer View","Vue Client"
+"Dashboard","Tableau de bord"
+"Date From","Du"
+"Date selector","Sélecteur de Date"
+"Date To","Au"
+"Debug","Déboguage"
+"Default Country","Pays par Défaut"
+"Default No-route URL","URL par Défaut de la page pour une ressource non trouvée"
+"Default Pages","Pages par Défaut"
+"Default Store","Magasin par Défaut"
+"Default Store View","Vue Magasin par Défaut"
+"Default Web URL","URL Web par Défaut"
+"Delete %1","Supprimer %1"
+"Delete %1 '%2'","Supprimer %1 '%2'"
+"Delete","Supprimer"
+"[ deleted ]","[ effacé ]"
+" [deleted]","  [effacé]"
+"Delete Store","Supprimer le Magasin"
+"Delete Store View","Supprimer la Vue Magasin"
+"Delete Web Site","Supprimer le Site Web"
+"Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","Effacer un %1 n'effacera pas les informations associées avec le %1 (par ex. catégories, produits, etc.), mais il ne sera pas possible de restaurer le %1. Nous vous suggérons de créer une sauvegarde de la base de données avant d'effacer le %1."
+"Description","Description"
+"Design","Design"
+"Design Change","Changement de Design"
+"Design Theme","Thème de design"
+"Developer","Développeur"
+"Disable","Désactiver"
+"Disabled","Désactivé"
+"Disable Email Communications","Désactiver les envois d'email"
+"Disable Modules Output","Désactiver la sortie des modules"
+"Edit Design Change","Modifier le changement de design"
+"Edit Store","Modifier le Magasin"
+"Edit Store Design Change","Modifier le changement de design du magasin"
+"Edit Store View","Modifier la vue magasin"
+"Edit Web Site","Modifier le Site Web"
+"Email","Email"
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée."
+"Enable","Activer"
+"Enable Charts","Activer les Graphiques"
+"Enabled","Activé"
+"Enabled for Admin","Activée pour l'admin"
+"Enabled for Storefront","Activer pour le front office"
+"Enabled Template Path Hints for Admin","Activer les astuce chemin des gabarits sur le back office"
+"Enabled Template Path Hints for Storefront","Activer les astuce chemin des gabarits sur le front office"
+"Enable Javascript Bundling","Activer la concaténation des fichiers JavaScript"
+"Enable Single-Store Mode","Activer le mode ""mono-boutique"""
+"Error","Erreur"
+"European Union Countries","Pays de l'Union Européenne"
+"Export","Exporter"
+"Export block for grid %1 is not defined","Le bloc d'export pour la grille %1 n'est pas défini"
+"Export to:","Exporter vers:"
+"Find a string in client user-agent header and switch to specific design theme for that browser.","Analyse une chaîne dans l'en-tête ""User-Agent"" par le navigateur client et sélectionne un design spécifique pour ce navigateur."
+"First Day of Week","Premier Jour de la Semaine"
+"First Name","Prénom"
+"Flush Cache Storage","Vider le Cache"
+"Flush Catalog Images Cache","Vider le Cache des Images du Catalogue"
+"Flush JavaScript/CSS Cache","Vider le Cache JavaScript/CSS"
+"Flush Magento Cache","Vider le Cache Magento"
+"Flush Static Files Cache","Vider le Cache des Fichiers Statiques"
+"Forgot and Reset Email Sender","Expéditeur de l'email d'oubli et réinitialisation de mot de passe"
+"Forgot Password Email Template","Gabarit du mail d'oubli de mot de passe"
+"From","De"
+"General","Général"
+"General Contact","Contact Général"
+"General Settings","Paramètres Généraux"
+"Go Today","Aller à aujourd'hui"
+"Guest","Invité"
+"Home","Accueil"
+"Host","Serveur"
+"Hour","Heure"
+"How many links to display at once.","Nombre de liens à afficher à la fois."
+"If the current frame position does not cover utmost pages, will render link to current position plus/minus this value.","Si la trame de pagination ne couvre pas les pages aux extrémités, Magento affichera les liens vers la page en cours plus ou moins la valeur ci-dessus."
+"If you continue to receive this message, please contact the store owner.","Si ce message persiste, veuillez nous contacter."
+"Image Adapter","Générateur d'image"
+"Image Processing Settings","Paramètres de traitement d'image"
+"Images","Images"
+"Images Cache","Cache des Images"
+"Images (.gif, .jpg, .png)","Images (.gif, .jpg, .png)"
+"Interface Locale","Langue de l'Interface"
+"Invalidated","Invalidé"
+"Invalid export type supplied for grid export block","Le type d'exportation est invalide"
+"Invalid Form Key. Please refresh the page.","Clé de Formulaire Invalide. Veuillez Actualiser la page."
+"invalid request","requête invalide"
+"Inventory Stock Status","Statut du stock de l'inventaire"
+"Items","Éléments"
+"JavaScript/CSS","JavaScript/CSS"
+"JavaScript/CSS Cache","Cache JavaScript/CSS"
+"JavaScript may be disabled in your browser.","JavaScript est peut être désactivé dans votre navigateurs."
+"JavaScript Settings","Paramètres JavaScript"
+"Last 7 Days","7 derniers jours"
+"Last 24 Hours","Dernières 24 heures"
+"Last Name","Nom"
+"Last Orders","Dernières Commandes"
+"Last Search Terms","Derniers Termes Recherchés"
+"Lifetime Sales","Ventes depuis le début"
+"Loading...","Chargement en cours..."
+"Locale","Locale"
+"Locale Options","Options de localisation"
+"Login is Case Sensitive","L'identifiant utilisateur est sensible à la casse"
+"Magento","Magento"
+"Magento Admin Panel","Panneau d'Administration de Magento"
+"Mail Sending Settings","Paramètres d'envoi des emails"
+"Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/","Assurez-vous que l'URL se termine par un '/' (slash), ex: http://yourdomain/magento/"
+"Manage Stores","Gérer les Magasins"
+"Mass Actions","Actions de masse"
+"May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","Peut être vide ou commencer par la variable {{secure_base_url}} ou {{unsecure_base_url}}"
+"May be empty or start with {{unsecure_base_url}} placeholder.","Peut être vide ou commencer par la variable {{unsecure_base_url}}"
+"Media (.avi, .flv, .swf)","Média (.avi, .flv, .swf)"
+"Merge CSS Files","Fusionner les Fichiers CSS"
+"Merge JavaScript Files","Fusionner les Fichiers JavaScript"
+"Minify CSS Files","Minifier les Fichiers CSS"
+"Minify Html","Minifier le HTML"
+"Minify JavaScript Files","Minifier les fichiers JavaScript"
+"Minute","Minute"
+"Most Viewed Products","Produits les plus consultés"
+"My Account","Mon compte"
+"Name","Nom"
+"New ","Nouveau "
+"New Customers","Nouveaux Clients"
+"New Password","Nouveau Mot de Passe"
+"New Store","Nouveau Magasin"
+"New Store Design Change","Nouveau changement de design"
+"New Store View","Nouvelle Vue Magasin"
+"New Web Site","Nouveau Site Web"
+"Next","Suivant"
+"Next page","Page Suivante"
+"No","Non"
+"No change","Aucun Changement"
+"No Data Found","Aucune Donnée Trouvée"
+"No records found.","Aucun élément trouvé."
+"No search modules were registered","Aucun module de recherche n'a été sauvegardé"
+"of %1","sur %1"
+"Offloader header","En-tête de transcodeur"
+"Order #%1","Commande #%1"
+"Order","Commande"
+"Orders","Commandes"
+"Pagination","Pagination"
+"Pagination Frame","Pagination"
+"Pagination Frame Skip","Taille de la Pagination"
+"password","mot de passe"
+"Password","Mot de Passe"
+"Password Confirmation","Confirmation du Mot de Passe"
+"per page","par page"
+"Please confirm scope switching. All data that hasn't been saved will be lost.","Confirmez-vous le changement de site ? Toutes les données non sauvegardées seront perdues."
+"Please correct the column format and try again.","Veuillez corriger le format colonne et essayez à nouveau."
+"Please correct the tab configuration and try again.","Veuillez corriger la configuration de l'onglet et essayez à nouveau."
+"Please correct the tab configuration and try again. Tab Id should be not empry","Veuillez corriger la configuration de l'onglet et essayez à nouveau. L'ID de l'onglet ne devrait pas être vide."
+"Please enter a number 1 or greater in this field.","Veuillez saisir un nombre supérieur ou égal à 1."
+"Please make sure that all global admin search modules are installed and activated.","Vérifiez que tous les modules admin de recherche sont installés et activés"
+"-- Please Select --","-- Faire un Choix --"
+"Please select items.","Sélectionnez des éléments."
+"Please try to sign out and sign in again.","Veuillez essayer de vous déconnectez et vous reconnecter une nouvelle fois."
+"Port (25)","Port (25)"
+"Pregenerated product images files","Fichiers des Images Produits prégénérés"
+"Preprocessed view files and static files","Fichiers de vue et fichiers statiques prétraités"
+"Previous","Précédent"
+"Previous page","Page Précédente"
+"Price","Prix"
+"Product","Produit"
+"Quantity","Quantité"
+"Rebuild","Reconstruire"
+"Rebuild Catalog Index","Reconstruire l'Index du Catalogue"
+"Rebuild Flat Catalog Category","Reconstruire le catalogue à plat des catégories"
+"Rebuild Flat Catalog Product","Reconstruire le catalogue à plat des produits"
+"records found","enregistrements trouvés"
+"Recovery Link Expiration Period (days)","Durée avant expiration d'un lien de récupération (en jours)"
+"Refresh","Rafraîchir"
+"Region/State","Région/État"
+"Reload Data","Recharger les Données"
+"Report Bugs","Rapporter un Bug"
+"Reset","Réinitialiser"
+"Reset Filter","Réinitialiser le Filtre"
+"Reset to Default","Utiliser les valeurs par défaut"
+"Return-Path Email","Adresse email de réponse"
+"Revenue","Chiffre d'affaires"
+"Root Category","Catégorie Racine"
+"Sales Representative","Représentant des ventes"
+"Save","Sauvegarder"
+"Save Account","Sauvegarder le compte"
+"Save Cache Settings","Sauvegarder les paramètres du cache"
+"Save Store","Sauvegarder le Magasin"
+"Save Store View","Sauvegarder la Vue Magasin"
+"Save Web Site","Sauvegarder le Site Web"
+"Search","Rechercher"
+"Search Engine Optimization","Optimisation pour les moteurs de recherche"
+"Search Index","Index de Recherche"
+"Search strings are either normal strings or regular exceptions (PCRE). They are matched in the same order as entered. Examples:<br /><span style=""font-family:monospace"">Firefox<br />/^mozilla/i</span>","Les recherches sont des chaines de caractères ou des expressions régulière (PCRE). Elles correspondent à leur ordre de saisie. Exemples:<br /><span style=""font-family:monospace"">Firefox<br />/^mozilla/i</span>"
+"Secure Base Link URL","URL de base sécurisée"
+"Secure Base URL","URL de base sécurisée"
+"Secure Base URL for Static View Files","URL de base sécurisée pour les fichiers statiques"
+"Secure Base URL for User Media Files","URL de base sécurisée pour les fichiers médias des utilisateurs"
+"Security","Sécurité"
+"see error log for details","consultez le journal des logs pour plus de détails"
+"Select All","Sélectionner tout"
+"selected","sélectionné"
+"Select Range:","Sélectionner la Plage:"
+"Select Visible","Sélectionner les éléments visibles"
+"Sender Email","Email de l'Expéditeur"
+"Sender Name","Nom de l'expéditeur"
+"Services","Services"
+"Service unavailable: %1","Service inaccessible: %1"
+"Session Validation Settings","Paramètres de validation de session"
+"Set as Default","Définir par défaut"
+"Set Return-Path","Renseigner le chemin de retour"
+"Shipping","Livraison"
+"Sign in","Connexion"
+"Sign Out","Se déconnecter"
+"Sign Static Files","Signer les fichiers statiques"
+"Single-Store Mode","Mode ""mono-boutique"""
+"Something went wrong. Please try again.","Une erreur s'est Produite. Veuillez réessayer."
+"Something went wrong while saving. Please review the error log.","Une erreur s'est produite lors de la sauvegarde. Veuillez vérifier le journal des erreurs."
+"Sort Order","Ordre de Tri"
+"Specified cache type(s) don't exist: %1","Les types de cache spécifiés n'existent pas: %1"
+"Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","Spécifiez l'URL ou utilisez la variable {{base_url}}"
+"Specify URL or {{base_url}} placeholder.","Spécifiez l'URL ou utilisez la variable {{base_url}}"
+"Startup Page","Page d'accueil"
+"Static Files Settings","Paramètres des fichiers statiques"
+"Status","Statut"
+"Store","Magasin"
+"Store Design","Design du magasin"
+"Store Email Addresses","Adresses email du magasin"
+"Store Hours of Operation","Heures d'ouvertures du magasin"
+"Store Information","Informations Magasin"
+"Store Name","Nom du Magasin"
+"Store Phone Number","Numéro de téléphone du magasin"
+"Stores","Magasins"
+"Stores Configuration","Configuration des Magasins"
+"Store View","Vue Magasin"
+"Store View:","Vue Magasin:"
+"Store view doesn't exist","La vue magasin n'existe pas"
+"Store View Information","Information de vue magasin"
+"Street Address","Adresse"
+"Street Address Line 2","Adresse Ligne 2"
+"Submit","Envoyer"
+"System","Système"
+"Tags","Tags"
+"Tax","Taxe"
+"Template Settings","Paramètres de gabarit"
+"The cache storage may contain additional data. Are you sure that you want to flush it?","Le  cache peut contenir d'autres données. Êtes-vous sûr de vouloir le vider?"
+"The database was backed up.","La base de données a été sauvegardée."
+"The image cache was cleaned.","Le cache des images a été nettoyé."
+"The information in this tab has been changed.","Les informations contenues dans cet onglet ont été changées."
+"The JavaScript/CSS cache has been cleaned.","Le cache javascript/CSS a été nettoyé."
+"The Magento cache storage has been flushed.","Le cache Magento a été purgé."
+"Themes JavaScript and CSS files combined to one file.","Fichiers de thèmes JavaScript et CSS combinés en un seul fichier."
+"There are no search keywords.","Il n'y a aucun mot clé de recherche."
+"The static files cache has been cleaned.","Le cache des fichiers statiques a été vidé."
+"The store does not exist","Le magasin n'existe pas."
+"The website does not exist.","Le site web n'existe pas."
+"This is only a demo store. You can browse and place orders, but nothing will be processed.","Ceci est une boutique de démonstration. Vous pouvez naviguer et passer des commandes, mais aucune ne pourra être traitée."
+"This setting will not be taken into account if system has more than one store view.","Ce paramètre ne sera pas pris en compte si le système a plus d'une vue magasin."
+"This store cannot be deleted.","Ce magasin ne peut pas être effacé."
+"This store view cannot be deleted.","Cette vue magasin ne peut pas être supprimée."
+"This tab contains invalid data. Please resolve this before saving.","Cet onglet contient des données invalides. Veuillez les corriger avant de sauvegarder."
+"This website cannot be deleted.","Ce site web ne peut pas être effacé."
+"Thumbnail","Vignette"
+"Time","Temps"
+"Timezone","Fuseau horaire"
+"To","À"
+"Top destinations","Top destinations"
+"Top Search Terms","Termes les plus recherchés"
+"Total","Total"
+"To use this website you must first enable JavaScript in your browser.","Pour utiliser ce site dans les meilleures conditions, vous devez activer JavaScript dans votre navigateur."
+"Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.","Les caches de traduction, de blocs et autres sorties doivent être désactivés pour utiliser la traduction en ligne sur le font office et sur le back office."
+"Translate Inline","Traduire en Ligne"
+"Unable to delete store. Please, try again later.","Impossible de supprimer le Magasin. Veuillez réessayer ultérieurement."
+"Unable to delete store view. Please, try again later.","Impossible de supprimer la Vue Magasin. Veuillez réessayer ultérieurement."
+"Unable to delete website. Please, try again later.","Impossible de supprimer le Site Web. Veuillez réessayer ultérieurement."
+"Unknown block type","Type de bloc inconnu"
+"Unselect All","Désélectionner Tout"
+"Unselect Visible","Désélectionner les éléments visibles"
+"Url Options","Options d'URL"
+"Use Custom Admin Path","Utiliser le chemin d'accès au back office personnalisé"
+"Use Custom Admin URL","Utiliser une URL Admin personnalisée"
+"User-Agent Exceptions","Exceptions User-Agent"
+"User Email","Email Utilisateur"
+"User Name","Nom de l'utilisateur"
+"Username","Nom d'utilisateur"
+"user name","nom d'utilisateur"
+"Use Secure URLs in Admin","Utiliser des URLs sécurisées dans l'Administration"
+"Use Secure URLs on Storefront","Utiliser des URLs sécurisées sur le front office"
+"Use SID on Storefront","Utiliser SID sur le front office"
+"Use Web Server Rewrites","Utiliser les réécritures du serveur web"
+"Validate HTTP_USER_AGENT","Valider HTTP_USER_AGENT"
+"Validate HTTP_VIA","Valider HTTP_VIA"
+"Validate HTTP_X_FORWARDED_FOR","Valider HTTP_X_FORWARDED_FOR"
+"Validate REMOTE_ADDR","Valider REMOTE_ADDR"
+"Values less than 60 are ignored.","Les valeurs inférieures à 60 sont ignorées."
+"VAT Number","Numéro de TVA"
+"ver. %1","ver. %1"
+"Views","Vues"
+"View Statistics For:","Voir les statistiques pour:"
+"Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.","Attention ! L'activation de cette fonctionnalité n'est pas recommandée dans un environnement de production car elle présente un risque de sécurité potentiel."
+"<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).","<strong style=""color:red"">Attention!</strong> Quand vous utilisez le code magasin dans les URLs, il est possible dans certains cas que le système ne fonctionne pas correctement si vous utilisez des services tiers dans lesquels vous avez spécifié des URLs sans le code magasin (ex. PayPal etc.)."
+"Web","Web"
+"Web Site","Site Web"
+"Web Site Information","Information Site Web"
+"We can't create a backup right now. Please try again later.","Nous ne pouvons pas créer une sauvegarde. Veuillez réessayer plus tard."
+"We can't refresh lifetime statistics.","Nous n'avons pas pu rafraîchir les statistiques depuis le début."
+"We could not detect a size.","Nous ne pouvons pas déterminer le poids du fichier."
+"We couldn't find any records.","Aucun enregistrement trouvé."
+"We don't recognize or support this file extension type.","Le type de fichier n'est pas reconnu ou n'est pas autorisé."
+"Weekend Days","Jours de Weekend"
+"Welcome, please sign in","Bienvenu ! Veuillez vous connecter"
+"We updated lifetime statistic.","Nous avons mis à jour les statistiques depuis le début."
+"What is this?","Qu'est-ce que c'est?"
+"WK","Semaine"
+"Yes","Oui"
+"You can't delete the design change.","Vous ne pouvez pas supprimer le changement de design."
+"You deleted the design change.","Changement de design supprimé."
+"You deleted the store.","Vous avez supprimé le magasin."
+"You deleted the store view.","Vous avez supprimé la vue magasin."
+"You deleted the website.","Vous avez supprimé le site web."
+"You did not sign in correctly or your account is temporarily disabled.","Erreur dans les paramètres de connexion ou votre compte est temporairement désactivé."
+"You entered an invalid Secret Key. Please refresh the page.","La clé secrète fournie est invalide. Veuillez rafraîchir la page."
+"You flushed the cache storage.","Vous avez vidé le cache."
+"You have entered an invalid password for current user.","Mot de passe invalide."
+"You have logged out.","Vous vous êtes déconnecté(e)."
+"You need more permissions to access this.","Vous avez besoin de permissions supplémentaires pour accéder à ceci."
+"You need more permissions to do this.","Vous n'avez pas les droits nécessaires pour effectuer cette action."
+"Your Password","Votre Mot de Passe"
+"You saved the account.","Compte sauvegardé."
+"You saved the design change.","Vous avez sauvegardé le changement de design."
+"You saved the store.","Magasin sauvegardé."
+"You saved the store view.","Vue Magasin sauvegardée."
+"You saved the website.","Site web sauvegardé."
+"You will have to sign in after you save your custom admin path.","Vous devrez vous reconnecter après avoir sauvegardé le chemin personnalisé."
+"YTD","Depuis le début de l'année"
+"ZIP/Postal Code","Code postal"

@@ -1,93 +1,93 @@
-"%1 x %2","%1 x %2",module,Magento_Bundle
-"Add Products to New Option","Ajouter les produits à la nouvelle option",module,Magento_Bundle
-"Add Products to Option ""%1""","Ajouter les produits à l'option ""%1""",module,Magento_Bundle
-"Add Products to Option","Ajouter des produits à l'option",module,Magento_Bundle
-"Add Selected Products","Ajouter les produits sélectionnés",module,Magento_Bundle
-"As low as","À partir de",module,Magento_Bundle
-"As Low as","À partir de",module,Magento_Bundle
-"Availability:","Disponibilité:",module,Magento_Bundle
-"Availability","Disponibilité",module,Magento_Bundle
-"Bundle Items","Articles packagés",module,Magento_Bundle
-"Bundle product could not contain another composite product","Un produit packagé ne peut pas contenir un autre produit composite",module,Magento_Bundle
-"Buy %1 with %2 discount each","Achetez-en %1 et profitez d'une remise de %2 par produit",module,Magento_Bundle
-"Canceled","Annulée",module,Magento_Bundle
-"Cannot delete option with id %1","Impossible de supprimer l'option ID %1",module,Magento_Bundle
-"Can not find product link with id ""%1""","Impossible de trouver le produit à lier avec l'ID ""%1""",module,Magento_Bundle
-"Child with specified sku: ""%1"" already assigned to product: ""%2""","Le produit enfant avec le SKU ""%1"" est déjà assigné au produit ""%2""",module,Magento_Bundle
-"Choose a selection...","Choisissez une sélection",module,Magento_Bundle
-"Close","Fermer",module,Magento_Bundle
-"Could not save child: ""%1""","Impossible de sauvegarder l'enfant : ""%1""",module,Magento_Bundle
-"Could not save option","Impossible de sauvegarder l'option",module,Magento_Bundle
-"Create New Option","Créer une nouvelle option",module,Magento_Bundle
-"Customize %1","Personnaliser %1",module,Magento_Bundle
-"Customize and Add to Cart","Personnaliser et Ajouter au Panier",module,Magento_Bundle
-"Default","Par défaut",module,Magento_Bundle
-"Default Quantity","Quantité par défaut",module,Magento_Bundle
-"Delete","Supprimer",module,Magento_Bundle
-"Delete Option","Supprimer cette Option",module,Magento_Bundle
-"Discount Amount","Montant de la Remise",module,Magento_Bundle
-"Dynamic","Dynamique",module,Magento_Bundle
-"Fixed","Fixé",module,Magento_Bundle
-"From:","De:",module,Magento_Bundle
-"From","De",module,Magento_Bundle
-"Gift Message","Message Cadeau",module,Magento_Bundle
-"Go back to product details","Retour aux détails du produit",module,Magento_Bundle
-"ID","ID",module,Magento_Bundle
-"Id field of product link is required","Le champ ID pour lier le produit est obligatoire",module,Magento_Bundle
-"Input Type","Type de Saisie",module,Magento_Bundle
-"In stock","En stock",module,Magento_Bundle
-"Invoiced","Facturé",module,Magento_Bundle
-"Message:","Message:",module,Magento_Bundle
-"N/A","N/A",module,Magento_Bundle
-"Name","Nom",module,Magento_Bundle
-"New Option","Nouvelle Option",module,Magento_Bundle
-"None","Aucun",module,Magento_Bundle
-"No options of this product are available.","Aucune option n'est disponible pour ce produit.",module,Magento_Bundle
-"Only implemented for bundle product","Uniquement implémenté pour les produits packagés",module,Magento_Bundle
-"Option Title","Titre de l'Option",module,Magento_Bundle
-"Ordered","Commandé",module,Magento_Bundle
-"Out of stock","En rupture de stock",module,Magento_Bundle
-"Percent","Pourcent",module,Magento_Bundle
-"Percent Discount","Remise en pourcentage",module,Magento_Bundle
-"Please select all required options.","Veuillez sélectionner les options requires.",module,Magento_Bundle
-"Please specify product option(s).","Veuillez préciser la ou les options de produits.",module,Magento_Bundle
-"Position","Position",module,Magento_Bundle
-"Price","Prix",module,Magento_Bundle
-"Price Range","Tranche de prix",module,Magento_Bundle
-"Price Type","Type de Prix",module,Magento_Bundle
-"Product","Produit",module,Magento_Bundle
-"Product Name","Nom du produit",module,Magento_Bundle
-"Product with specified sku: ""%1"" does not contain option: ""%2""","Le produit avec le SKU ""%1"" ne contient pas l'option ""%2""",module,Magento_Bundle
-"Product with specified sku: %1 is not a bundle product","Le produit avec le SKU %1 n'est pas un produit packagé",module,Magento_Bundle
-"Product with specified sku: ""%1"" is not a bundle product","Le produit avec le SKU ""%1"" n'est pas un produit packagé",module,Magento_Bundle
-"Qty Invoiced","Qté facturée",module,Magento_Bundle
-"Qty Shipped","Qté livrée",module,Magento_Bundle
-"Quantity:","Quantité:",module,Magento_Bundle
-"Quantity","Quantité",module,Magento_Bundle
-"Refunded","Remboursé",module,Magento_Bundle
-"Regular Price","Prix Normal",module,Magento_Bundle
-"Requested bundle option product doesn't exist","Les options du produit packagé n'existent pas",module,Magento_Bundle
-"Requested option doesn't exist","L'option n'existe pas",module,Magento_Bundle
-"Required","Requis",module,Magento_Bundle
-"* Required Fields","* Champs requis",module,Magento_Bundle
-"Row Total","Total Ligne",module,Magento_Bundle
-"-- Select --","-- Faites un Choix --",module,Magento_Bundle
-"Separately","Séparément",module,Magento_Bundle
-"Ship Bundle Items","Livrer les articles packagés",module,Magento_Bundle
-"Shipped","Livré",module,Magento_Bundle
-"SKU","SKU",module,Magento_Bundle
-"Store View Title","Titre de la vue magasin",module,Magento_Bundle
-"Subtotal","Sous-Total",module,Magento_Bundle
-"Summary","Résumé",module,Magento_Bundle
-"The options you selected are not available.","Les options sélectionnés ne sont pas disponibles.",module,Magento_Bundle
-"There are no products in this option.","Il n'y a pas de produit pour cette option.",module,Magento_Bundle
-"There is no defined renderer for ""%1"" option type.","Il n'y a pas de générateur d'affichage pour le type d'option ""%1"".",module,Magento_Bundle
-"The required options you selected are not available.","Les options requises sélectionnées ne sont pas disponibles.",module,Magento_Bundle
-"To:","À:",module,Magento_Bundle
-"To","À",module,Magento_Bundle
-"Together","Ensemble",module,Magento_Bundle
-"Use Default Value","Utiliser la valeur par défaut",module,Magento_Bundle
-"User Defined","Défini par l'utilisateur",module,Magento_Bundle
-"We can't add this item to your shopping cart right now.","Impossible d'ajouter ce produit au panier.",module,Magento_Bundle
-"What are you looking for?","Que recherchez-vous ?",module,Magento_Bundle
-"Your Customization","Votre personnalisation",module,Magento_Bundle
+"%1 x %2","%1 x %2"
+"Add Products to New Option","Ajouter les produits à la nouvelle option"
+"Add Products to Option ""%1""","Ajouter les produits à l'option ""%1"""
+"Add Products to Option","Ajouter des produits à l'option"
+"Add Selected Products","Ajouter les produits sélectionnés"
+"As low as","À partir de"
+"As Low as","À partir de"
+"Availability:","Disponibilité:"
+"Availability","Disponibilité"
+"Bundle Items","Articles packagés"
+"Bundle product could not contain another composite product","Un produit packagé ne peut pas contenir un autre produit composite"
+"Buy %1 with %2 discount each","Achetez-en %1 et profitez d'une remise de %2 par produit"
+"Canceled","Annulée"
+"Cannot delete option with id %1","Impossible de supprimer l'option ID %1"
+"Can not find product link with id ""%1""","Impossible de trouver le produit à lier avec l'ID ""%1"""
+"Child with specified sku: ""%1"" already assigned to product: ""%2""","Le produit enfant avec le SKU ""%1"" est déjà assigné au produit ""%2"""
+"Choose a selection...","Choisissez une sélection"
+"Close","Fermer"
+"Could not save child: ""%1""","Impossible de sauvegarder l'enfant : ""%1"""
+"Could not save option","Impossible de sauvegarder l'option"
+"Create New Option","Créer une nouvelle option"
+"Customize %1","Personnaliser %1"
+"Customize and Add to Cart","Personnaliser et Ajouter au Panier"
+"Default","Par défaut"
+"Default Quantity","Quantité par défaut"
+"Delete","Supprimer"
+"Delete Option","Supprimer cette Option"
+"Discount Amount","Montant de la Remise"
+"Dynamic","Dynamique"
+"Fixed","Fixé"
+"From:","De:"
+"From","De"
+"Gift Message","Message Cadeau"
+"Go back to product details","Retour aux détails du produit"
+"ID","ID"
+"Id field of product link is required","Le champ ID pour lier le produit est obligatoire"
+"Input Type","Type de Saisie"
+"In stock","En stock"
+"Invoiced","Facturé"
+"Message:","Message:"
+"N/A","N/A"
+"Name","Nom"
+"New Option","Nouvelle Option"
+"None","Aucun"
+"No options of this product are available.","Aucune option n'est disponible pour ce produit."
+"Only implemented for bundle product","Uniquement implémenté pour les produits packagés"
+"Option Title","Titre de l'Option"
+"Ordered","Commandé"
+"Out of stock","En rupture de stock"
+"Percent","Pourcent"
+"Percent Discount","Remise en pourcentage"
+"Please select all required options.","Veuillez sélectionner les options requires."
+"Please specify product option(s).","Veuillez préciser la ou les options de produits."
+"Position","Position"
+"Price","Prix"
+"Price Range","Tranche de prix"
+"Price Type","Type de Prix"
+"Product","Produit"
+"Product Name","Nom du produit"
+"Product with specified sku: ""%1"" does not contain option: ""%2""","Le produit avec le SKU ""%1"" ne contient pas l'option ""%2"""
+"Product with specified sku: %1 is not a bundle product","Le produit avec le SKU %1 n'est pas un produit packagé"
+"Product with specified sku: ""%1"" is not a bundle product","Le produit avec le SKU ""%1"" n'est pas un produit packagé"
+"Qty Invoiced","Qté facturée"
+"Qty Shipped","Qté livrée"
+"Quantity:","Quantité:"
+"Quantity","Quantité"
+"Refunded","Remboursé"
+"Regular Price","Prix Normal"
+"Requested bundle option product doesn't exist","Les options du produit packagé n'existent pas"
+"Requested option doesn't exist","L'option n'existe pas"
+"Required","Requis"
+"* Required Fields","* Champs requis"
+"Row Total","Total Ligne"
+"-- Select --","-- Faites un Choix --"
+"Separately","Séparément"
+"Ship Bundle Items","Livrer les articles packagés"
+"Shipped","Livré"
+"SKU","SKU"
+"Store View Title","Titre de la vue magasin"
+"Subtotal","Sous-Total"
+"Summary","Résumé"
+"The options you selected are not available.","Les options sélectionnés ne sont pas disponibles."
+"There are no products in this option.","Il n'y a pas de produit pour cette option."
+"There is no defined renderer for ""%1"" option type.","Il n'y a pas de générateur d'affichage pour le type d'option ""%1""."
+"The required options you selected are not available.","Les options requises sélectionnées ne sont pas disponibles."
+"To:","À:"
+"To","À"
+"Together","Ensemble"
+"Use Default Value","Utiliser la valeur par défaut"
+"User Defined","Défini par l'utilisateur"
+"We can't add this item to your shopping cart right now.","Impossible d'ajouter ce produit au panier."
+"What are you looking for?","Que recherchez-vous ?"
+"Your Customization","Votre personnalisation"

@@ -1,808 +1,568 @@
-"%1 Catalog Price Rules based on ""%2"" attribute have been disabled.","La règle de prix catalogue %1 basée sur l'attribut ""%2"" a été désactivée.",custom,Imaginaerum
-"""%1"" exceeds the allowed length.","""%1"" excède la longueur autorisée",custom,Imaginaerum
-"%1 has been added to your wishlist. Click <a href=""%2"">here</a> to continue shopping.","%1 a été ajouté à votre liste d'envies. Cliquez <a href=""%2"">ici</a> pour continuer vos achats.",custom,Imaginaerum
-"%1 has been updated in your wish list.","%1 mis à jour dans votre liste d'envies.",custom,Imaginaerum
-"""%1"" is not a valid file","""%1"" n'est pas un fichier valide",custom,Imaginaerum
-"1 item in wish list","1 article dans la liste d'envies",custom,Imaginaerum
-"%1 items in wish list","%1 articles dans la liste d'envies",custom,Imaginaerum
-"%1 RSS Feed","%1 Flux RSS",custom,Imaginaerum
-"%1's Wish List","Liste d'envies de %1",custom,Imaginaerum
-"3D Secure","3D Secure",custom,Imaginaerum
-"3D Secure Card Validation","Validation carte 3D Secure",custom,Imaginaerum
-"10 by default. Max - 10000","10 par défaut. Maximum - 10000",custom,Imaginaerum
-"255 by default","255 par défaut",custom,Imaginaerum
-"%","%",custom,Imaginaerum
-"A category object is required for determining the product request path.","Un objet catégorie est obligatoire pour déterminer le chemin de requête du produit.",custom,Imaginaerum
-"Accept payments with a completely customizable checkout.","Accepter les paiements avec une page de paiement entièrement personnalisable.",custom,Imaginaerum
-"Access Denied","Accès refusé",custom,Imaginaerum
-"Access denied.","Accès refusé.",custom,Imaginaerum
-"Account Created on:","Compte créé le :",custom,Imaginaerum
-"Acknowledge","Accusé de réception",custom,Imaginaerum
-"Active From","Actif à partir du",custom,Imaginaerum
-"Active To","Actif jusqu'au",custom,Imaginaerum
-"Adapter object must be an instance of %1","Adapter doit être une instance de %1",custom,Imaginaerum
-"Add configurable attributes to the current set (""<span data-role=""name-container"">%1</span>"")","Ajouter un attribut configurable au groupe d'attribut actuel (""<span data-role=""name-container"">%1</span>"")",custom,Imaginaerum
-"Add configurable attributes to the new set based on current","Ajouter des attributs configurables au nouveau jeu d'attributs sur le jeu d'attributs actuel",custom,Imaginaerum
-"Add gift options for the Entire Order","Ajouter des options cadeau pour toute la commande",custom,Imaginaerum
-"Add Group Price","Ajouter un prix par groupe",custom,Imaginaerum
-"Additional Information","Informations complémentaires",custom,Imaginaerum
-"Add New Addresses","Ajouter de nouvelles adresses",custom,Imaginaerum
-"Add New Review","Ajouter nouveau commentaire",custom,Imaginaerum
-"Add New Set","Ajouter un jeu",custom,Imaginaerum
-"Add New Theme","Ajouter un thème",custom,Imaginaerum
-"Add New Widget Instance","Ajouter une nouvelle instance de widget",custom,Imaginaerum
-"Add Order Comments","Ajouter des commentaires de commande",custom,Imaginaerum
-"Add Products By SKU","Ajhouter des Produits par SKU",custom,Imaginaerum
-"Add Recipient","Ajouter destinataire",custom,Imaginaerum
-"Address %1 of %2","Adresse %1 sur %2",custom,Imaginaerum
-"Add Tier","Ajouter un palier",custom,Imaginaerum
-"Add to Wishlist","Ajouter à la liste d'envies",custom,Imaginaerum
-"Admin Accounts Locks","Comptes admin bloqués",custom,Imaginaerum
-"Advanced Pricing","Gestion avancée des Prix",custom,Imaginaerum
-"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                                            from PayPal Credit®. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                                            Use PayPal’s free banner ads that let you advertise PayPal Credit® financing as a payment option when your customers check out with PayPal.
-                                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br>
-                                <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit®. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
-                                Utilisez les bannières publicitaires gratuites de PayPal Credit® comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
-                                Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
-                                ou plus. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>.",custom,Imaginaerum
-"<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                                from PayPal Credit®. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                                Use PayPal’s free banner ads that let you advertise PayPal Credit® financing as a payment option when your customers check out with PayPal.
-                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                                or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br>
-                                <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit®. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
-                                Utilisez les bannières publicitaires gratuites de PayPal Credit® comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
-                                Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
-                                ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>.",custom,Imaginaerum
-"<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                            from PayPal Credit®. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                            Use PayPal’s free banner ads that let you advertise PayPal Credit® financing as a payment option when your customers check out with PayPal.
-                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                            or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br>
-                                <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit®. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
-                                Utilisez les bannières publicitaires gratuites de PayPal Credit® comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
-                                Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
-                                ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>.",custom,Imaginaerum
-"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                                            from PayPal Credit®. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                                            Use PayPal’s free banner ads that let you advertise PayPal Credit® financing as a payment option when your customers check out with PayPal.
-                                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br>
-                                <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit®. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
-                                Utilisez les bannières publicitaires gratuites de PayPal Credit® comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
-                                Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
-                                ou plus. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>.",custom,Imaginaerum
-"<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                        <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                        from PayPal Credit®. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                        Use PayPal’s free banner ads that let you advertise PayPal Credit® financing as a payment option when your customers check out with PayPal.
-                        The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                        or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br>
-                                <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit®. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
-                                Utilisez les bannières publicitaires gratuites de PayPal Credit® comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
-                                Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
-                                ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>.",custom,Imaginaerum
-"<a href=""https://www.braintreegateway.com/login"" target=""_blank"">Click here to login to your existing Braintree account</a>. Or to setup a new account and accept payments on your website, <a href=""https://apply.braintreegateway.com/signup/us"" target=""_blank"">click here to signup for a Braintree account</a>.","<a href=""https://www.braintreegateway.com/login"" target=""_blank"">Cliquez ici pour vous connecter à cotre compte Braintree</a>. Pour créer un compte Braintree, <a href=""https://apply.braintreegateway.com/signup/us"" target=""_blank"">cliquez ici</a>.",custom,Imaginaerum
-"<a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>","<a href=""http://www.magentocommerce.com/paypal"">Accepter les paiements via PayPal!</a>",custom,Imaginaerum
-"All Customers","Tous les Clients",custom,Imaginaerum
-"Allowable values: ""paypal"", ""primary"" (default), your_custom_value (a custom payment page style from your merchant account profile).","Valeurs autorisées: ""paypal"", ""primary"" (default), your_custom_value (un style de page de paiement personnalisé à partir de votre profil de compte marchand).",custom,Imaginaerum
-"Allowed File Extensions","Extensions de fichier autorisées",custom,Imaginaerum
-"Allowed file extensions to upload","Extensions de fichier autorisées pour l'envoi",custom,Imaginaerum
-"Allow Gift Message","Autoriser le message cadeau",custom,Imaginaerum
-"Allow HTML Tags on Frontend","Autoriser les balises HTML sur le frontend",custom,Imaginaerum
-"Allow Partial Authorization","Permettre l'autorisation partielle",custom,Imaginaerum
-"All Stores","Tous les Magasins",custom,Imaginaerum
-"All Users","Tous les utilisateurs",custom,Imaginaerum
-"Already registered?","Vous avez déjà un compte ?",custom,Imaginaerum
-"Amount cannot be negative.","Le montant ne peut être négatif.",custom,Imaginaerum
-"Amount is required.","Montant requis",custom,Imaginaerum
-"Amount must be greater than zero","Le montant doit être supérieur à zéro",custom,Imaginaerum
-"An attribute group named ""/name/"" already exists"".","Un groupe d'attributs ""/name/"" existe déjà"".",custom,Imaginaerum
-"Anchor symbol (#) is not supported in request path","Le symbole dièse (#) n'est pas supporté dans le chemin de requête",custom,Imaginaerum
-"and","et",custom,Imaginaerum
-"An error occurred while assigning order status. Status has not been assigned.","Erreur lors de l'assignation du statut de commande. Le statut n'a pas pu être assigné.",custom,Imaginaerum
-"An error occurred while deleting email template data. Please review log and try again.","Erreur lors de la suppression des données de gabarit d'email. Consultez les logs.",custom,Imaginaerum
-"An error occurred while deleting record(s).","Une erreur est survenue pendant la suppression des enregistrements.",custom,Imaginaerum
-"An error occurred while deleting the address.","Erreur lors de la suppression de l'adresse.",custom,Imaginaerum
-"An error occurred while deleting the rule. Please review the log and try again.","Erreur lors de la suppression de la règle. Vérifiez les logs et réessayez.",custom,Imaginaerum
-"An error occurred while deleting this set.","Erreur lors de la suppression de ce jeu.",custom,Imaginaerum
-"An error occurred while deleting this template.","Erreur lors de la suppression de ce gabarit.",custom,Imaginaerum
-"An error occurred while deleting URL Rewrite.","Une erreur est survenue pendant la suppression des réécritures d'URLs.",custom,Imaginaerum
-"An error occurred while saving. Please review the error log.","Erreur lors de la sauvegarde. Vérifiez les logs.",custom,Imaginaerum
-"An error occurred while saving review.","Une erreur est survenue lors de l'enregistrement du commentaire.",custom,Imaginaerum
-"An error occurred while saving the attribute set.","Erreur lors de la sauvegarde du jeu d'attributs.",custom,Imaginaerum
-"An error occurred while saving the customer.","Erreur lors de la sauvegarde du client.",custom,Imaginaerum
-"An error occurred while saving the rule data. Please review the log and try again.","Erreur lors de la sauvegarde de la règle. Vérifiez les logs et réessayez.",custom,Imaginaerum
-"An error occurred while saving this configuration:","Erreur lors de la sauvegarde de cette configuration.",custom,Imaginaerum
-"An error occurred while saving this template.","Erreur lors de la sauvegarde de ce gabarit.",custom,Imaginaerum
-"An error occurred while saving URL Rewrite.","Une erreur est survenur pendant l'enregistrement de la réécriture d'URL.",custom,Imaginaerum
-"An error occurred while updating the selected review(s).","Erreur lors de la mise à jour des commentaires sélectionnés.",custom,Imaginaerum
-"Any data created since the backup was made will be lost including admin users, customers and orders.","Toutes les données créées depuis que la sauvegarde a été réalisée seront perdues (dont les comptes administrateurs, les clients et les commandes).",custom,Imaginaerum
-"Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. http://example.com/magento/","Chacun de ces champs peut utiliser une URL se terminant par '/' (slash) ex: http://example.com/magento/",custom,Imaginaerum
-"Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. https://example.com/magento/","Chacun de ces champs peut utiliser une URL se terminant par '/' (slash) ex: https://example.com/magento/",custom,Imaginaerum
-"A page URL key for specified store already exists.","Il existe déjà un e clé d'URL de page pour la boutique sélectionnée.",custom,Imaginaerum
-"A payment method must be specified.","La méthode de paiement doit être spécifiée.",custom,Imaginaerum
-"Applies to Any of the Specified Order Statuses","S'applique à tous les statuts de commande spécifiés",custom,Imaginaerum
-"Apply Coupon","Utiliser un bon de réduction",custom,Imaginaerum
-"Apply Layered Navigation if Search Results are Less Than","Appliquer la navigation par filtre si les résultats de recherche sont inférieurs à",custom,Imaginaerum
-"Apply To Products","Appliquer aux produits",custom,Imaginaerum
-"A problem was encountered trying to change password.","Problème rencontré lors du changement de mot de passe.",custom,Imaginaerum
-"Are you sure that you want to delete this template?","Êtes-vous sûr(e) de vouloir supprimer ce gabarit ?",custom,Imaginaerum
-"Are you sure that you want to remove this item?","Êtes-vous sûr(e) de vouloir retirer cet article ?",custom,Imaginaerum
-"Are you sure that you want to strip tags?","Êtes-vous sûr(e) de vouloir supprimer les tags ?",custom,Imaginaerum
-"Are you sure you want to cancel your payment? Click OK to cancel your payment and release the amount on hold. Click Cancel to enter another credit card and continue with your payment.","Êtes-vous sûr(e) de vouloir annuler votre paiement ? Cliquez sur OK pour annuler votre paiement et libérer le montant bloqué. Cliquez sur Annuler pour saisir une autre carte bancaire et continuer le paiement.",custom,Imaginaerum
-"Are you sure you want to delete this integration? You can't undo this action.","Êtes-vous sûr de vouloir supprimer cette intégration? Vous ne pouvez pas annuler cette action.",custom,Imaginaerum
-"Are you sure you want to proceed?","Voulez-vous vraiment continuer ?",custom,Imaginaerum
-"Are you sure you want to refresh lifetime statistics? There can be performance impact during this operation.","Êtes-vous sûr(e) de vouloir rafraîchir les statistiques en temps réel ? Cela peut impacter les performances pendant la durée du rafraichissement.",custom,Imaginaerum
-"Are you sure you want to remove this product from your wishlist?","Êtes-vous sûr(e) de vouloir enlever ce produit de votre liste d'envies ?",custom,Imaginaerum
-"Are you sure you want to send an Invoice email to customer?","Êtes-vous sur(e) de vouloir envoyer la facture au client par email ?",custom,Imaginaerum
-"Are you sure you would like to remove all products from your comparison?","Êtes-vous sûr(e) de vouloir enlever tous les produits de la comparaison ?",custom,Imaginaerum
-"Are you sure you would like to remove this item from the compare products?","Êtes-vous sûr(e) de vouloir enlever cet article de la comparaison ?",custom,Imaginaerum
-"Are you sure you would like to remove this item from the shopping cart?","Êtes-vous sûr(e) de vouloir retirer cet article du panier ?",custom,Imaginaerum
-"As low as:","Prix spécial :",custom,Imaginaerum
-"Associate to Website","Associer à un site web",custom,Imaginaerum
-"At least one recipient must be specified.","Au moins un destinataire doit être saisi.",custom,Imaginaerum
-"Attempted Authentication, Bad Result","Tentative d'authentification. Mauvais résultat",custom,Imaginaerum
-"Attempted Authentication, Good Result","Tentative d'authentification. Bon résultat",custom,Imaginaerum
-"Attribute '%1' is locked. ","L'attribut '%1' est verrouillé.  ",custom,Imaginaerum
-"Attribute","Attribut",custom,Imaginaerum
-"Attribute Set with name '%1' already exists.","Un jeu d'attributs avec le nom '%1' existe déjà.",custom,Imaginaerum
-"Authenticated, Bad Result","Authentifié. Mauvais résultat",custom,Imaginaerum
-"Authenticated, Good Result","Authentifié. Bon résultat",custom,Imaginaerum
-"Authorize.net","Authorize.net",custom,Imaginaerum
-"Authorize.Net Transaction ID %1","Transaction Authorize.Net ID %1",custom,Imaginaerum
-"Autogenerate","Générer automatiquement",custom,Imaginaerum
-"Autosettings","Réglages automatiques",custom,Imaginaerum
-"Available Product Listing Sort By","Trier la liste des produit par",custom,Imaginaerum
-"A value is required for live mode. Refer to your CardinalCommerce agreement.","Une valeur est exigée pour le mode en direct. Référez-vous à votre accord cardinal de commerce.",custom,Imaginaerum
-"Average Orders","Moyenne des commandes",custom,Imaginaerum
-"B","B",custom,Imaginaerum
-"Back to Login","Retour à l'identification",custom,Imaginaerum
-"Base Image","Image de base",custom,Imaginaerum
-"Basic Settings - PayPal Payments Standard","Réglages de base - PayPal Payments Standard",custom,Imaginaerum
-"Basic Settings - PayPal Website Payments Pro","Réglages de base - PayPal Website Payments Pro",custom,Imaginaerum
-"Basic Settings - PayPal Website Payments Standard","Réglages de base - PayPal Website Payments Standard",custom,Imaginaerum
-"Before modifying the store view code please make sure that it is not used in index.php.","Avant de modifier le code de vue magasin, assurez-vous qu'il n'est pas utilisé dans le fichier index.php.",custom,Imaginaerum
-"Before modifying the website code please make sure that it is not used in index.php.","Avant de modifier le code de site web, assurez-vous qu'il n'est pas utilisé dans le fichier index.php.",custom,Imaginaerum
-"Bestseller","Meilleures Ventes",custom,Imaginaerum
-"Bundle with dynamic pricing cannot include custom defined options. Options will not be saved.","Un bundle avec un prix dynamique ne peut pas inclure d'options définies. Les options ne seront pas sauvegardées.",custom,Imaginaerum
-"Buy %1 for %2","Achetez en %1 pour %2",custom,Imaginaerum
-"By creating an account with our store, you will be able to move through the checkout process faster, store multiple shipping addresses, view and track your orders in your account and more.","En créant un compte sur notre boutique, vous pourrez passer vos commandes plus rapidement, enregistrer plusieurs adresses de livraison, consulter et suivre vos commandes, et plein d'autres choses encore.",custom,Imaginaerum
-"By Customers","Par Client",custom,Imaginaerum
-"By Fixed Amount","Remise d'un montant fixe",custom,Imaginaerum
-"By Percentage of the Original Price","En pourcentage du prix d'origine",custom,Imaginaerum
-"By Products","Par Produits",custom,Imaginaerum
-"Cache storage may contain additional data. Are you sure that you want flush it?","Le stockage de cache peut contenir d\'autres données. Êtes-vous sûr(e) de vouloir le purger ?",custom,Imaginaerum
-"Can be Divided into Multiple Boxes for Shipping","Peut être divisé en plusieurs colis pour la livraison",custom,Imaginaerum
-"Cannot add item to shopping cart","Impossible d'ajouter l'article au panier",custom,Imaginaerum
-"Cannot add the item to shopping cart","Impossible d'ajouter l'article au panier.",custom,Imaginaerum
-"Cannot create an invoice without products.","Impossible de créer une facture sans produits.",custom,Imaginaerum
-"Cannot create credit memo for the order.","Impossible de créer un avoir pour la commande.",custom,Imaginaerum
-"Cannot delete the design change.","Impossible de supprimer le changement de design.",custom,Imaginaerum
-"Cannot delete tracking number.","Impossible de supprimer le numéro de suivi.",custom,Imaginaerum
-"Cannot find required columns: %1","Impossible de trouver la colonne requise: %1",custom,Imaginaerum
-"Cannot initialize shipment for adding tracking number.","Impossible d'initialiser l'expédition pour ajouter le numéro de suivi.",custom,Imaginaerum
-"Cannot initialize shipment for delete tracking number.","Impossible d'initialiser l'expédition pour supprimer le numéro de suivi.",custom,Imaginaerum
-"Cannot load track with retrieving identifier.","Impossible de charger le suivi avec l'identifiant.",custom,Imaginaerum
-"Cannot save address.","Impossible de sauvegarder l'adresse.",custom,Imaginaerum
-"Cannot save the credit memo.","Impossible de sauvegarder l'avoir.",custom,Imaginaerum
-"Cannot save the customer.","Impossible de sauvegarder le client.",custom,Imaginaerum
-"Cannot share customer accounts globally because some customer accounts with the same emails exist on multiple websites and cannot be merged.","Impossible de partager les comptes clients globalement car il existe des comptes avec le même emails sur plusieurs sites web qui ne peuvent pas être fusionnés.",custom,Imaginaerum
-"Cannot update the item's quantity.","Impossible de mettre à jour la quantité de l'article.",custom,Imaginaerum
-"Can't delete item from wishlist","Impossible d'enlever l'article de la liste d'envies.",custom,Imaginaerum
-"Capture Amount","Capturer le montant",custom,Imaginaerum
-"Card type does not match credit card number.","Le type de carte ne correspond pas au numéro de carte.",custom,Imaginaerum
-"Catalog Price Rules","Règles de prix catalogue",custom,Imaginaerum
-"Category Feeds","Flux de la catégorie",custom,Imaginaerum
-"Change Price","Changer le Prix",custom,Imaginaerum
-"Checkout as a Guest","Commander en tant qu'invité",custom,Imaginaerum
-"Checkout as a Guest or Register","Régler en tant qu'invité ou s'enregistrer",custom,Imaginaerum
-"Checkout as Guest","Régler en tant qu'invité",custom,Imaginaerum
-"Checkout Method","Mode de commande",custom,Imaginaerum
-"Checkout with Multiple Addresses","Livrer à plusieurs adresses",custom,Imaginaerum
-"Check ""Remember Me"" to access your shopping cart on this computer when you are logged out","Cocher ""Se souvenir de moi"" pour accéder à votre panier sur cet ordinateur si vous n'êtes pas connecté à votre compte.",custom,Imaginaerum
-"Check this checkbox if you want to add a link to an rss feed to your wishlist.","Cochez cette case si vous souhaitez ajouter un lien vers un flux RSS vers votre liste d'envies",custom,Imaginaerum
-"Choose","Choisir",custom,Imaginaerum
-"Clear Persistence on Log Out","Effacer la persistance lors de la déconnexion",custom,Imaginaerum
-"Click on image to zoom","Cliquez sur l'image pour zoomer",custom,Imaginaerum
-"CMS Block","Bloc CMS",custom,Imaginaerum
-"Column names: ""%1"" are invalid","Noms de colonne: ""%1"" invalides",custom,Imaginaerum
-"Columns","Colonnes",custom,Imaginaerum
-"Communications","Communications",custom,Imaginaerum
-"Company is invalid","Nom de la société invalide",custom,Imaginaerum
-"Company is too long.","Le nom de la société est trop long.",custom,Imaginaerum
-"Conditions (leave blank for all products)","Conditions (laisser vide pour appliquer à tous les produits)",custom,Imaginaerum
-"Configurable Product Settings","Paramètres produit configurable",custom,Imaginaerum
-"Confirm your new password","Confirmer le nouveau mot de passe",custom,Imaginaerum
-"Contact your bank or try another card","Contactez votre banque ou essayez une autre carte bancaire",custom,Imaginaerum
-"Continue to Review Your Order","Poursuivre pour vérifier votre commande",custom,Imaginaerum
-"Continue to Shipping Information","Poursuivre vers les informations de livraison",custom,Imaginaerum
-"© 2015 Magento Demo Store. All Rights Reserved.","© 2015 Magento Demo Store. Tous droits réservés.",custom,Imaginaerum
-"Copy to Wish List","Copier vers la liste d'envies",custom,Imaginaerum
-"Cost","Coût",custom,Imaginaerum
-"Could not rebuild index for undefined product","Impossible de reconstruire l'index d'un produit non défini",custom,Imaginaerum
-"Country code alpha-2 is not accepted","Code pays alpha-2 non accepté",custom,Imaginaerum
-"Country code alpha-3 is not accepted","Code pays alpha-3 non accepté",custom,Imaginaerum
-"Country of Manufacture","Pays de fabrication",custom,Imaginaerum
-"Create account","Créer un compte",custom,Imaginaerum
-"Create Empty","Créer vide",custom,Imaginaerum
-"Create New Wish List","Créer une liste d'envies",custom,Imaginaerum
-"Credit Card %1","Carte Bancaire %1",custom,Imaginaerum
-"Credit card number does not match credit card type.","Le numéro de carte ne correspond pas au type de carte.",custom,Imaginaerum
-"Credit card number mismatch with credit card type.","Le numéro de carte bancaire ne correspond pas au type de carte bancaire.",custom,Imaginaerum
-"Credit Cards","Carte Bancaire",custom,Imaginaerum
-"Credit card successfully updated","Carte Bancaire mise à jour",custom,Imaginaerum
-"Credit card token is taken.","Carte Bancaire prise en compte",custom,Imaginaerum
-"Credit memo's total must be positive.","Le total de l'avoir doit être positif",custom,Imaginaerum
-"Currently Shopping by:","Filtre en cours :",custom,Imaginaerum
-"Current module EAV entity is undefined","Le module d'entités EAV actuel n'est pas défini",custom,Imaginaerum
-"Current module pathname is undefined","Le chemin d'accès actuel du module n'est pas défini",custom,Imaginaerum
-"Customer Addresses","Adresses client",custom,Imaginaerum
-"Customer address for such customer doesn't exist","L'adresse client n’existe pas",custom,Imaginaerum
-"Customer email is required","L'email du client est obligatoire",custom,Imaginaerum
-"Customer Groups must be specified.","Les groupes client doivent être spécifiés.",custom,Imaginaerum
-"Customers Only","Clients seulement",custom,Imaginaerum
-"Customer website ID must be specified when using the website scope","L'identifiant du site web du client doit être renseigné lorsque la portée du site web est utilisée.",custom,Imaginaerum
-"Custom Layout Update","Mise à jour d'agencement personnalisé",custom,Imaginaerum
-"Cvv Response Code","Code de réponse du pictogramme visuel",custom,Imaginaerum
-"Data is invalid or file is not uploaded","Les données sont invalides ou le fichier n'a pas été uploadé",custom,Imaginaerum
-"Data Transfer","Transfert de données",custom,Imaginaerum
-"Date Of Birth","Date de naissance",custom,Imaginaerum
-"DD","JJ",custom,Imaginaerum
-"Decoding error: %1%2%3%4","Décodage de l'erreur: %1%2%3%4",custom,Imaginaerum
-"Default Product Listing Sort By","Tri par défaut de la liste des produits",custom,Imaginaerum
-"Default title","Titre par défaut",custom,Imaginaerum
-"Default View","Vue Par Défaut",custom,Imaginaerum
-"Default ""What's This"" Text Message","Texte par Défaut du message ""Qu'est ce que c'est""",custom,Imaginaerum
-"Delete Attribute Set","Supprimer le jeu d'attributs",custom,Imaginaerum
-"Delete Group Price","Supprimer le prix pour le groupe",custom,Imaginaerum
-"Destination directory is not writable","Le répertoire de destination n'a pas les droits en écriture",custom,Imaginaerum
-"Destination file path must be a string","Le chemin du fichier de destination doit être une chaîne de caractères",custom,Imaginaerum
-"Discount Codes","Codes de remises",custom,Imaginaerum
-"Display Mode","Affichage",custom,Imaginaerum
-"Display Settings","Paramètres d'affichage",custom,Imaginaerum
-"Double click on a group to rename it","Double-cliquez sur un groupe pour le renommer",custom,Imaginaerum
-"each","pièce",custom,Imaginaerum
-"Easy access to your order history and status","Consultez et suivez vos commandes",custom,Imaginaerum
-"Edit Customer's Address","Éditer l'adresse du client",custom,Imaginaerum
-"Edit item","Éditer l'article",custom,Imaginaerum
-"Edit Set Name","Éditer le nom du jeu d'attributs",custom,Imaginaerum
-"Edit Your Cart","Modifiez votre panier",custom,Imaginaerum
-"Elements","Éléments",custom,Imaginaerum
-"Eligible","Eligible",custom,Imaginaerum
-"Email Address","Adresse mail",custom,Imaginaerum
-"Email Address:","Adresse mail :",custom,Imaginaerum
-"Email address can't be empty.","L'adresse email ne peut pas être vide.",custom,Imaginaerum
-"E-mail is invalid","Email invalide",custom,Imaginaerum
-"E-mail is not specified","Email non spécifié",custom,Imaginaerum
-"Email is too long.","Email trop long",custom,Imaginaerum
-"Enable CAPTCHA on Frontend","Activer le CAPTCHA dans le frontend",custom,Imaginaerum
-"Enabled for Frontend","Activée pour le frontend",custom,Imaginaerum
-"Enable Discount to Subproducts","Activer les remises sur les sous-produits",custom,Imaginaerum
-"Enable WSDL Cache","Activer le cache WSDL",custom,Imaginaerum
-"End on","Fin le",custom,Imaginaerum
-"Enter your code","Saisissez votre code",custom,Imaginaerum
-"Enter your destination to get a shipping estimate.","Choisissez votre destination pour estimer les frais de port",custom,Imaginaerum
-"Entity instance is not defined","L'instance d'entité n'est pas définie",custom,Imaginaerum
-"Entity type model must be an instance of ' 'Magento\CatalogImportExport\Model\Import\Product\Type\AbstractType","Le modéle de l'entité doit être une instance de Magento\CatalogImportExport\Model\Import\Product\Type\AbstractType",custom,Imaginaerum
-"Error: unknown error.","Erreur inconnue.",custom,Imaginaerum
-"Estimated Total","Total Estimé",custom,Imaginaerum
-"Exact Match. Address and nine-digit ZIP code","Correspondance exacte. Adresse et code postal à neuf chiffres",custom,Imaginaerum
-"Example: 0.0.0.1 or 123.1.0.25-alpha1","Exemple: 0.0.0.1 ou 123.1.0.25-alpha1",custom,Imaginaerum
-"Exceptions Log File Name","Nom du fichier de log d'exceptions",custom,Imaginaerum
-"Excl. Tax:","HT :",custom,Imaginaerum
-"Expiration date is invalid.","Date d'expiration invalide.",custom,Imaginaerum
-"Expiration date is required.","Date d'expiration requise",custom,Imaginaerum
-"Expiration month is invalid.","Le mois d'expiration est invalide.",custom,Imaginaerum
-"Extensions","Extensions",custom,Imaginaerum
-"Failed to rollback","Erreur lors du retour arrière (rollback)",custom,Imaginaerum
-"Failed to validate FTP","Erreur lors de la validation du FTP",custom,Imaginaerum
-"Fast and easy check out","Commander plus vite et plus facilement",custom,Imaginaerum
-"Fax is too long.","Fax trop long.",custom,Imaginaerum
-"Field is not complete","Champ non complet",custom,Imaginaerum
-"File %1 is not writeable.","Fichier %1 non accessible en écriture.",custom,Imaginaerum
-"File does not contain data.","Le fichier ne contient aucune donnée",custom,Imaginaerum
-"File does not contain data. Please upload another one","Le fichier ne contient pas de données. Veuillez en uploader un autre.",custom,Imaginaerum
-"File format is unknown","Le format de fichier n'est pas reconnu",custom,Imaginaerum
-"File is partially valid, but import is not possible","Le fichier est partiellement valide, mais l'import est impossible.",custom,Imaginaerum
-"File is valid, but import is not possible","Le fichier est valide, mais l'import est impossible.",custom,Imaginaerum
-"File was not uploaded","Le fichier n'a pas été uploadé",custom,Imaginaerum
-"File was not uploaded.","Le fichier n'a pas été uploadé.",custom,Imaginaerum
-"Filters","Filtres",custom,Imaginaerum
-"Find Order By:","Tri :",custom,Imaginaerum
-"Find Partners & Extensions","Trouver des Partenaires & Extensions",custom,Imaginaerum
-"First name is invalid","Prénom invalide",custom,Imaginaerum
-"Folder","Répertoire",custom,Imaginaerum
-"Forgot an Item?","Vous avez oublié un article ?",custom,Imaginaerum
-"Forgot Your Password","Mot de passe oublié",custom,Imaginaerum
-"Forgot your user name or password?","Nom d'utilisateur ou mot de passe oublié ?",custom,Imaginaerum
-"Form code is not defined","Le code du formulaire n'est pas défini.",custom,Imaginaerum
-"For Windows server only.","Pour les serveurs windows uniquement.",custom,Imaginaerum
-"From Date","Date de début",custom,Imaginaerum
-"From your My Account Dashboard you have the ability to view a snapshot of your recent account activity and update your account information. Select a link below to view or edit information.","Depuis le tableau de bord 'Mon compte', vous pouvez avoir un aperçu de vos récentes activités et mettre à jour les informations de votre compte. Sélectionnez un lien ci-dessous pour voir ou modifier les informations.",custom,Imaginaerum
-"Frontend","Frontend",custom,Imaginaerum
-"Frontend label is not defined","Le libellé de front office n'est pas défini",custom,Imaginaerum
-"Frontend Properties","Propriétés du frontend",custom,Imaginaerum
-"Fulfilled","Rempli",custom,Imaginaerum
-"GB","Go",custom,Imaginaerum
-"Gender is required.","Le genre est obligatoire.",custom,Imaginaerum
-"Get a Quote","Obtenir une estimation",custom,Imaginaerum
-"Gift Options for this address.","Options cadeau pour cette adresse.",custom,Imaginaerum
-"GLOBAL","GLOBAL",custom,Imaginaerum
-"Global Attribute","Attribut global",custom,Imaginaerum
-"Grid Settings","Paramètres de la Grille",custom,Imaginaerum
-"Header column names already set","L'en-tête des noms de colonnes a déjà été défini",custom,Imaginaerum
-"Hello, %1!","Bonjour, %1!",custom,Imaginaerum
-"Help Us Keep Magento Healthy - Report All Bugs","Aidez-nous à améliorer Magento - Signalez tous les bugs",custom,Imaginaerum
-"Help Us to Keep Magento Healthy","Aidez-nous à améliorer Magento",custom,Imaginaerum
-"How do you rate this product?","Quelle note donneriez-vous à ce produit ?",custom,Imaginaerum
-"HTML tags are not allowed","Les balises HTML ne sont pas autorisées",custom,Imaginaerum
-"ID is invalid.","ID invalide",custom,Imaginaerum
-"Id is required","id requis",custom,Imaginaerum
-"ID Path","ID chemin",custom,Imaginaerum
-"If empty, a default value will be used. Custom URL may be provided by CardinalCommerce agreement.","Si ce champ est vide, la valeur par défaut sera utilisée. Une URL personnalisée peut être fournie par un accord CardinalCommerce.",custom,Imaginaerum
-"If empty, the Category Name will be used","Si vide, le nom de la catégorie sera utilisé",custom,Imaginaerum
-"If empty, the Product Name will be used","Si vide, le nom du produit sera utilisé",custom,Imaginaerum
-"Image Management","Gestion des images",custom,Imaginaerum
-"Import/Export Tax Rates","Importer/Exporter Taux de Taxes",custom,Imaginaerum
-"Import has been done successfuly.","Import réalisé avec succès.",custom,Imaginaerum
-"Incl. Tax:","TTC :",custom,Imaginaerum
-"Include","Inclure",custom,Imaginaerum
-"Include in Navigation Menu","Inclure dans le menu de navigation",custom,Imaginaerum
-"Include Tax In Grand Total","TTC dans le total",custom,Imaginaerum
-"Inconsistent start date","Date de début incompatible",custom,Imaginaerum
-"Incorrect credit card expiration date.","Mauvaise date d'expiration de carte de crédit.",custom,Imaginaerum
-"Index product attributes for layered navigation building","Index des attributs produit pour la navigation par filtres",custom,Imaginaerum
-"Index Product Stock Status","Indexer les statuts de stock de produit",custom,Imaginaerum
-"Ineligible","Inéligible",custom,Imaginaerum
-"Interface Language","Langage de l'interface",custom,Imaginaerum
-"Invalid Address Data provided","Données d'adresse invalide.",custom,Imaginaerum
-"Invalid discount amount.","Montant de remise invalide.",custom,Imaginaerum
-"Invalid password reset token.","Jeton de réinitialisation de mot de passe invalide.",custom,Imaginaerum
-"Invoice #%1","Facture #%1",custom,Imaginaerum
-"Is Anchor","Is Anchor",custom,Imaginaerum
-"Issuer Liability","Responsabilité de l'émetteur",custom,Imaginaerum
-"Item %1 of %2","Article %1 sur %2",custom,Imaginaerum
-"items selected","élément(s) sélectionné(s)",custom,Imaginaerum
-"Items that you do not want to show in the catalog or search results should have status 'Disabled' in the desired store.","Les articles que vous ne voulez pas afficher dans le catalogue ou dans les résultats de recherche doivent avoir le statut 'Désactivé' dans le magasin souhaité.",custom,Imaginaerum
-"Items that you don't want to show in the catalog or search results should have status 'Disabled' in the desired store.","Les articles que vous ne voulez pas afficher dans le catalogue ou dans les résultats de recherche doivent avoir le statut 'Désactivé' dans le magasin souhaité.",custom,Imaginaerum
-"kB","Ko",custom,Imaginaerum
-"Last 5 Orders","5 dernières commandes",custom,Imaginaerum
-"Last 5 Search Terms","5 derniers termes recherchés",custom,Imaginaerum
-"Last name is too long.","Le prénom est trop long.",custom,Imaginaerum
-"Last URL","Dernière URL",custom,Imaginaerum
-"Layered Navigation Price Step","Tranche de prix dans la navigation par couche",custom,Imaginaerum
-"Loading next step...","Chargement en cours de l'étape suivante...",custom,Imaginaerum
-"Log In","Connexion",custom,Imaginaerum
-"Log in","Connexion",custom,Imaginaerum
-"Login and password are required.","L'identifiant et le mot de passe sont obligatoires.",custom,Imaginaerum
-"Login Information","Information de connexion",custom,Imaginaerum
-"Log into Magento Admin Page","Connexion à l'administration Magento",custom,Imaginaerum
-"Log Out","Déconnexion",custom,Imaginaerum
-"Log Settings","Paramètres de log",custom,Imaginaerum
-"Magento Admin","Admin Magento",custom,Imaginaerum
-"Magento ver. %1","Magento ver. %1",custom,Imaginaerum
-"Manage Encryption Key","Gérer les clés de chiffrement",custom,Imaginaerum
-"Marketing","Marketing",custom,Imaginaerum
-"Match Period To","Faire correspondre la période à",custom,Imaginaerum
-"Maximum 255 chars","255 caractères minimum",custom,Imaginaerum
-"Maximum Query Words Count","Nombre maxi de mots dans la requête",custom,Imaginaerum
-"MB","Mo",custom,Imaginaerum
-"Merchant account ID is invalid.","ID du compte marchand invalide.",custom,Imaginaerum
-"Merchant Liability","Responsabilité du marchand",custom,Imaginaerum
-"Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.","Les marchands doivent faire une demande à PayPal pour activer les accords de facturation. Ne pas activer cette option tant que PayPal n'a pas confirmé que les accords de facturation sont activés sur votre compte marchand.",custom,Imaginaerum
-"Meta Title","Titre méta",custom,Imaginaerum
-"Method ","Méthode ",custom,Imaginaerum
-"Middle Name/Initial","Patronyme/Initiales",custom,Imaginaerum
-"Minimum Qty for Item's Status to be Out of Stock","Quantité mini pour que l'article soit considéré comme épuisé",custom,Imaginaerum
-"MM","MM",custom,Imaginaerum
-"More Views","Plus de vues",custom,Imaginaerum
-"n/a","n/a",custom,Imaginaerum
-"Name:","Nom :",custom,Imaginaerum
-"%name% '%value%' is too long. It must has length %min% symbols.","%name% '%value%' est trop long. Il doit avoir maximum %min% symboles.",custom,Imaginaerum
-"%name% '%value%' is too short. It must has length %min% symbols.","%name% '%value%' est trop court. Il doit avoir minimum %min% symboles.",custom,Imaginaerum
-"New Address","Nouvelle adresse",custom,Imaginaerum
-"New Addresses","Nouvelle Adresse",custom,Imaginaerum
-"New Customer Address","Nouvelle adresse client",custom,Imaginaerum
-"[New/Edit] URL Rewrite","[Ajouter/Éditer] Une Réécriture d'URL",custom,Imaginaerum
-"New order status","Nouveau statut de commande",custom,Imaginaerum
-"New Password and Confirm New Password values didn't match.","Les valeurs du nouveau mot de passe et la confirmation du nouveau mot de passe ne correspondent pas.",custom,Imaginaerum
-"New password field cannot be empty.","Le champ de nouveau mot de passe ne peut pas être vide.",custom,Imaginaerum
-"New Product Template","Nouveau Gabarit Produit",custom,Imaginaerum
-"Newsletter Template","Gabarits de Newsletter",custom,Imaginaerum
-"No confirmation","Aucune confirmation",custom,Imaginaerum
-"No items were found using the following search criteria.","Aucun résultat pour ces critères de recherche.",custom,Imaginaerum
-"No Liability Shift","Absence de responsabilité",custom,Imaginaerum
-"(Not %1?)","(Pas %1?)",custom,Imaginaerum
-"Notification","Notification",custom,Imaginaerum
-"Not supported cipher version","Version de cipher non supportée",custom,Imaginaerum
-"No wishlist item ID is defined.","Aucun ID d'article de la liste d'envies défini.",custom,Imaginaerum
-"Now Online","En Ligne",custom,Imaginaerum
-"Number of wish list conversions: %1","Nombre de conversions de la liste d'envies: %1",custom,Imaginaerum
-"Number of wish lists: %1","Nombre de listes d'envies: %1",custom,Imaginaerum
-"Operations","Operations",custom,Imaginaerum
-"or ","ou ",custom,Imaginaerum
-"Order #%1 (%2)","Commande #%1 (%2)",custom,Imaginaerum
-"Order Count","Nombre de Commande",custom,Imaginaerum
-"Order Created Date","Date de création de commande",custom,Imaginaerum
-"Order Date: %1","Date de la Commande: %1",custom,Imaginaerum
-"Order Summary","Résumé de la Commande",custom,Imaginaerum
-"Order Updated Date","Date de mise à jour de commande",custom,Imaginaerum
-"Original value for Magento_Store module","Valeur originale pour le module Magento_Store",custom,Imaginaerum
-"Other Settings","Autres réglages",custom,Imaginaerum
-"Password and password confirmation are not equal.","Le mot de passe et la confirmation du mot de passe ne sont pas identiques.",custom,Imaginaerum
-"Payer is not identified.","Payeur non identifié",custom,Imaginaerum
-"Payment method is not defined","Le mode de paiement n'est pas défini",custom,Imaginaerum
-"Payment updating error.","Erreur lors de la mise à jour de paiement.",custom,Imaginaerum
-"PayPal Express Checkout lets you give customers access to financing through PayPal Credit® - at no additional cost to you.
-                        You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit®.
-                        <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","PayPal Express Checkout permet à vos client d'obtenir un financement PayPal Credit® - sans coût supplémentaire pour vous.
-                        Vous êtes payé, même si les clients ont du retard. Un bouton de paiement pré-intégrée permet aux clients de payer avec PayPal Credit rapidement®.
-                        <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">En savoir plus</a>",custom,Imaginaerum
-"PayPal gateway rejected the request. %1","La passerelle PayPal à rejeté la requête. %1",custom,Imaginaerum
-"PayPal response hasn't required fields.","La réponse de PayPal ne comporte pas les champs obligatoires.",custom,Imaginaerum
-"PayPal Settlement","Règlement PayPal",custom,Imaginaerum
-"Please agree to all Terms and Conditions before placing the orders.","Veuillez accepter les conditions générales de ventes avant de valider les commandes.",custom,Imaginaerum
-"Please, check your email for confirmation key.","Consultez vos emails pour obtenir la clé de confirmation.",custom,Imaginaerum
-"Please choose to register or to checkout as a guest","Choisissez de vous enregistrer ou de passer votre commande en tant qu'invité",custom,Imaginaerum
-"Please correct the value for '%1' column","Veuillez corriger la valeur de la colonne '%1'",custom,Imaginaerum
-"Please define a correct Cookie instance.","Définissez une instance de cookie correcte.",custom,Imaginaerum
-"Please define a correct Product instance.","Définissez une instance de produit correcte.",custom,Imaginaerum
-"Please define the correct Sender information.","Définissez correctement les informations de l'expéditeur.",custom,Imaginaerum
-"Please enter 6 or more characters.","Veuillez saisir au moins 6 caractères.",custom,Imaginaerum
-"Please enter 7 or more characters. Password should contain both numeric and alphabetic characters.","Veuillez saisir au moins 7 caractères. Le mot de passe doit contenir à la fois des caractères numériques et alphabétiques.",custom,Imaginaerum
-"Please enter a number lower than 100.","Veuillez saisir un nombre inférieur à 100.",custom,Imaginaerum
-"Please enter a password.","Veuillez saisir un mot de passe",custom,Imaginaerum
-"Please enter a valid email address(for example johndoe@domain.com.).","Veuillez saisir une adresse email valide (par exemple johndoe@domain.com.).",custom,Imaginaerum
-"Please enter a valid email address. For example johndoe@domain.com.","Veuillez saisir une adresse email valide. Par exemple prenom.nom@domaine.com",custom,Imaginaerum
-"Please enter a valid fax number. For example (123) 456-7890 or 123-456-7890.","Veuillez saisir un numéro de fax valide. Par exemple 0123456789.",custom,Imaginaerum
-"Please enter a valid full date","Veuillez saisir une date complète valide.",custom,Imaginaerum
-"Please enter a valid month (1-12).","Veuillez saisir un mois valide (1-12).",custom,Imaginaerum
-"Please enter a valid password.","Veuillez saisir un mot de passe valide.",custom,Imaginaerum
-"Please enter a valid social security number (for example, 123-45-6789).","Veuillez saisir un numéro de sécurité social valide (par exemple, 123-45-6789).",custom,Imaginaerum
-"Please enter a valid social security number. For example 123-45-6789.","Veuillez saisir un numéro de sécurité sociale valide. Par exemple 123-45-6789.",custom,Imaginaerum
-"Please enter a valid URL. Protocol is required (http://, https:// or ftp://)","Veuillez saisir une URL valide. Le protocole est obligatire (http://, https:// ou ftp://)",custom,Imaginaerum
-"Please enter a valid XML-identifier. For example something_1, block5, id-4.","Veuillez saisir un identifiant XML valide. Par exemple, quelquechose_1, bloc5, id-4.",custom,Imaginaerum
-"Please enter a valid zip code. For example 90602 or 90602-1234.","Veuillez saisir un code postal valide. Par exemple 92100.",custom,Imaginaerum
-"Please enter new template name.","Saisissez un nom de gabarit.",custom,Imaginaerum
-"Please enter search conditions to view products.","Veuillez entrer des conditions de recherche pour voir des produits.",custom,Imaginaerum
-"Please enter the telephone number.","Veuillez renseigner le numéro de téléphone.",custom,Imaginaerum
-"Please enter your comments.","Veuillez saisir votre commentaire",custom,Imaginaerum
-"Please enter your email address below. You will receive a link to reset your password.","Saisissez votre email ci-dessous. Nous vous enverrons un lien pour réinitialiser votre mot de passe.",custom,Imaginaerum
-"Please input a valid CSS-length. For example 100px or 77pt or 20em or .5ex or 50%.","Veuillez saisir une longueur CSS valide. Par exemple 100px ou 77pt ou 20 em ou .5ex ou 50%.",custom,Imaginaerum
-"Please input a valid email address.","Saisissez un email valide.",custom,Imaginaerum
-"Please log in below:","Veuillez vous identifier :",custom,Imaginaerum
-"Please log in to download your product.","Veuillez vous connecter pour pouvoir télécharger votre produit.",custom,Imaginaerum
-"--Please select--","--Veuillez choisir--",custom,Imaginaerum
-"Please select a customer.","Sélectionnez un client",custom,Imaginaerum
-"Please select a file","Sélectionnez un fichier",custom,Imaginaerum
-"Please select a store.","Sélectionnez un magasin",custom,Imaginaerum
-"Please select catalog searches.","Sélectionnez les recherches catalogue",custom,Imaginaerum
-"Please select one of the above options.","Veuillez choisir une des options ci-dessus.",custom,Imaginaerum
-"Please select one of the options.","Veuillez choisir une des options.",custom,Imaginaerum
-"Please select products.","Veuillez choisir des produits.",custom,Imaginaerum
-"Please select product(s).","Sélectionnez un ou des poduits.",custom,Imaginaerum
-"Please specify either a category or a product, or both.","Spécifiez une catégorie, un produit ou les deux.",custom,Imaginaerum
-"Please specify payment method.","Choisissez un mode de paiement.",custom,Imaginaerum
-"Please specify shipping method.","Choisissez un mode de livraison.",custom,Imaginaerum
-"Please specify the product's option(s).","Veuillez spécifier la (les) option(s) de produit",custom,Imaginaerum
-"Please specify the product's required option(s).","Spécifiez la ou les option(s) obligatoire(s).",custom,Imaginaerum
-"Please use numbers only in this field. Please avoid spaces or other characters such as dots or commas.","Seuls les chiffres sont autorisés dans ce champ. Évitez les espaces ou autres caractères tels que les points ou les virgules.",custom,Imaginaerum
-"Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Veuillez utiliser uniquement des lettres (a-z), des chiffres (0-9) ou underscore (_) dans ce champ, en commençant par une lettre.",custom,Imaginaerum
-"Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Utilisez uniquement des lettres (a-z ou A-Z), des chiffres (0-9) ou des underscores (_) dans ce champ. Le premier caractère doit être une lettre.",custom,Imaginaerum
-"Please use only letters (a-z or A-Z) or numbers (0-9) only in this field. No spaces or other characters are allowed.","Veuillez utiliser uniquement des lettres (a-z) ou des chiffres (0-9) dans ce champ. Les espaces et autres caractères ne sont pas autorisés.",custom,Imaginaerum
-"Please use only letters (a-z or A-Z) or numbers (0-9) or spaces and # only in this field.","Veuillez utiliser uniquement des lettres (a-z), des chiffres (0-9), des espaces ou des dièses (#) dans ce champ.",custom,Imaginaerum
-"Please use only visible characters and spaces.","Veuillez utiliser uniquement des caractères visibles et des espaces.",custom,Imaginaerum
-"Please wait, loading...","Veuillez patienter, chargement en cours...",custom,Imaginaerum
-"Please wait until the action ends.","Veuillez attendre que l'action se termine.",custom,Imaginaerum
-"Postal Code","Code Postal",custom,Imaginaerum
-"Postal code is invalid","Code postal invalide",custom,Imaginaerum
-"Posted By","Posté par",custom,Imaginaerum
-"Preapproved Payment (BillUser API), either sent or received","Paiement pré-approuvés (BillUser API), envoyé ou reçu des",custom,Imaginaerum
-"Prefix","Préfixe",custom,Imaginaerum
-"Price is an invalid format.","Format prix invalide.",custom,Imaginaerum
-"Processed Amount","Montant traité",custom,Imaginaerum
-"Processing...","En cours de traitement...",custom,Imaginaerum
-"Products in Cart","Produits dans les paniers",custom,Imaginaerum
-"Product Templates","Gabarit Produit",custom,Imaginaerum
-"Qty:","Qté :",custom,Imaginaerum
-"Qty for Item's Status to Become Out of Stock","Qté pour que le statut du produit passe à épuisé",custom,Imaginaerum
-"Queue Newsletter...","File de newsletter",custom,Imaginaerum
-"Quick simple product creation","Création rapide de produit simple",custom,Imaginaerum
-"Rate Percent should be a positive number.","Le taux doit être un nombre positif.",custom,Imaginaerum
-"Rating:","Note :",custom,Imaginaerum
-"Rating isn't Available","Les notations ne sont pas activées",custom,Imaginaerum
-"Read details","Lire les détails",custom,Imaginaerum
-"Recently added item(s)","Derniers articles ajoutés",custom,Imaginaerum
-"Recipient:","Destinataire :",custom,Imaginaerum
-"Redirect","Rediriger",custom,Imaginaerum
-"Region is invalid","Région invalide",custom,Imaginaerum
-"Register","S'enregistrer",custom,Imaginaerum
-"Register and save time!","Gagnez du temps !",custom,Imaginaerum
-"Registered notification about approved payment.","Notification enregistré au sujet de paiement approuvé.",custom,Imaginaerum
-"Registered notification about denied payment.","Notification enregistré sur le paiement refusé.",custom,Imaginaerum
-"Register to Create an Account","Enregistrez-vous pour créer un compte",custom,Imaginaerum
-"Register with us for future convenience:","Enregistrez-vous et profitez de nombreux avantages :",custom,Imaginaerum
-"Regular Payment","Paiement régulier",custom,Imaginaerum
-"Regular Price:","Prix normal :",custom,Imaginaerum
-"Remaining Balance","Solde restant",custom,Imaginaerum
-"Remove Email","Supprimer email",custom,Imaginaerum
-"Remove Image","Supprimer l'image",custom,Imaginaerum
-"Replace Existing Complex Data","Remplacer les données complexes existantes",custom,Imaginaerum
-"RSS link to %1's wishlist","Lien vers le flux RSS de la liste d'envies de %1",custom,Imaginaerum
-"%s","%s",custom,Imaginaerum
-"save","économisez",custom,Imaginaerum
-"Save Attribute Set","Sauvegarder le jeu d'attributs",custom,Imaginaerum
-"Search Type","Type de recherche",custom,Imaginaerum
-"See All (%1 unread)","Voir Tout (%1 non lu(s))",custom,Imaginaerum
-"Select a billing address from your address book or enter a new address.","Choisissez une adresse de facturation dans votre carnet d'adresses ou saisissez une nouvelle adresse.",custom,Imaginaerum
-"Select a shipping address from your address book or enter a new address.","Choisissez une adresse de livraison dans votre carnet d'adresses ou saisissez une <a href=""#"" onclick=""shipping.newAddress(true); return false;"">nouvelle adresse</a>.",custom,Imaginaerum
-"Select Configurable Attributes","Sélectionnez les attributs configurables",custom,Imaginaerum
-" Send auto-generated password"," Envoyé un mot de passe généré",custom,Imaginaerum
-"Sender:","Expéditeur :",custom,Imaginaerum
-"Send From","Envoyé de",custom,Imaginaerum
-"Send Welcome Email","Envoyer un email de bienvenue",custom,Imaginaerum
-"Send Welcome Email after Confirmation","Envoyer un mail de bienvenue après la confirmation",custom,Imaginaerum
-"SEO & Search","SEO & Recherche",custom,Imaginaerum
-"Session Start Time","Début de session",custom,Imaginaerum
-"Set as Default Billing Address","Définir comme adresse de facturation par défaut",custom,Imaginaerum
-"Set as Default Shipping Address","Définir comme adresse de livraison par défaut",custom,Imaginaerum
-"Set Product as New from Date","Nouveauté depuis le",custom,Imaginaerum
-"Set Product as New to Date","Nouveauté jusqu'au",custom,Imaginaerum
-"Severe 3D Secure Card Validation","Vérification 3D Secure stricte",custom,Imaginaerum
-"Severe validation removes chargeback liability on merchant.","La vérification 3D Secure stricte annule la responsabilité de rétrofacturation du marchand",custom,Imaginaerum
-"Severe Validation Removes Chargeback Liability on Merchant","La vérification 3D Secure stricte annule la responsabilité de rétrofacturation du marchand",custom,Imaginaerum
-"Share Wishlist","Partager la liste d'envies",custom,Imaginaerum
-"Shipping method has not been selected yet","Le mode de livraison n'a pas encore été choisi",custom,Imaginaerum
-"Shipping selection is not applicable.","Le choix de livraison n'est pas applicable.",custom,Imaginaerum
-"Ship to different address","Livrer à une autre adresse",custom,Imaginaerum
-"Ship to this address","Livrer à cette adresse",custom,Imaginaerum
-"Shopping Cart Price Rule","Règle de prix panier",custom,Imaginaerum
-"Shopping Cart Price Rules","Règles de prix panier",custom,Imaginaerum
-"Shortcut on Product View","Raccourci sur le produit Voir",custom,Imaginaerum
-"Shortcut on Shopping Cart","Raccourci sur le panier",custom,Imaginaerum
-"Short Description","Description courte",custom,Imaginaerum
-"Show / Hide Editor","Afficher/masquer l'éditeur",custom,Imaginaerum
-"Show VAT Number on Frontend","Afficher le numéro de TVA sur le frontend",custom,Imaginaerum
-"Sign a billing agreement to streamline further purchases with PayPal.","Signer une entente de facturation afin de rationaliser les achats supplémentaires auprès de PayPal.",custom,Imaginaerum
-"Sku","Réf.",custom,Imaginaerum
-"Small Image","Petite image",custom,Imaginaerum
-"Sorry, no quotes are available for this order at this time.","Aucun mode de livraison n'est disponible pour votre adresse.",custom,Imaginaerum
-"Source file moving failed","Erreur lors du déplacement du fichier source",custom,Imaginaerum
-"Source is not set","La source n'est pas définie",custom,Imaginaerum
-"Special Price:","Prix spécial :",custom,Imaginaerum
-"Special Price From Date","Prix spécial à partir du",custom,Imaginaerum
-"Special Price To Date","Prix spécial jusqu'au",custom,Imaginaerum
-"%s - %s","%s - %s",custom,Imaginaerum
-"SSL Error: Invalid or self-signed certificate","Erreur SSL: Certificat invalide ou auto-signé",custom,Imaginaerum
-"Start date cannot be greater than end date.","La date de début doit être antérieure à la date de fin.",custom,Imaginaerum
-"Starting at:","À partir de :",custom,Imaginaerum
-"Stock Status","État du stock",custom,Imaginaerum
-"Stop Further Rules Processing","Ne pas traiter les règles suivantes (non cumulable)",custom,Imaginaerum
-"Store view doesn't exist","La vue magasin n'existe pas",custom,Imaginaerum
-"Street address is required.","Adresse requise.",custom,Imaginaerum
-"Subscription ID is invalid.","ID de souscription invalide.",custom,Imaginaerum
-"Subtotal Excl. Tax","Sous Total HT",custom,Imaginaerum
-"Subtotal Incl. Tax","Sous Total TTC",custom,Imaginaerum
-"Suffix","Suffixe",custom,Imaginaerum
-"Summary of Your Review","Résumé de votre commentaire",custom,Imaginaerum
-"Summary Text for Aggregated Cart","Texte récapitulatif sur les paniers validés",custom,Imaginaerum
-"Supporting of American Express cards require additional agreement. Learn more at <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.","Le support des cartes American Express nécessite un accord supplémentaire. En savoir plus au <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.",custom,Imaginaerum
-"Symbol","Symbole",custom,Imaginaerum
-"System doesn't allow to get file upload settings","Le système ne permet pas d'obtenir les paramètres d'upload du fichier",custom,Imaginaerum
-"System Log File Name","Nom de fichier de logs système",custom,Imaginaerum
-"Tax amount is an invalid format.","Le montant de la taxe est dans un format invalide.",custom,Imaginaerum
-"Taxes","Taxes",custom,Imaginaerum
-"Tax/VAT Number","Numéro de TVA",custom,Imaginaerum
-"TB","To",custom,Imaginaerum
-"Telephone","Téléphone",custom,Imaginaerum
-"Template Path Hints","Astuce chemin des gabarits",custom,Imaginaerum
-"Text length does not satisfy specified text range.","La longueur du texte ne satisfait pas la plage de texte spécifiée.",custom,Imaginaerum
-"The account has been saved.","Le compte a été sauvegardé.",custom,Imaginaerum
-"The account information has been saved.","Les informations du compte ont été sauvegardées.",custom,Imaginaerum
-"The address has been deleted.","L'adresse a été supprimée.",custom,Imaginaerum
-"The address has been saved.","L'adresse a été sauvegardée.",custom,Imaginaerum
-"The background color for the checkout page around the header and payment form.","Couleur d’arrière-plan de la page paiement autour de l'en-tête et du formulaire de paiement.",custom,Imaginaerum
-"The background color for the header of the checkout page. Case-insensitive six-character HTML hexadecimal color code in ASCII.","Couleur de fond pour l'en-tête de la page de paiement. Code hexadécimal de la couleur.",custom,Imaginaerum
-"The block has been deleted.","Le bloc a bien été effacé.",custom,Imaginaerum
-"The block has been saved.","Le bloc a bien été enregistré.",custom,Imaginaerum
-"The Comment Text field cannot be empty.","Le champ texte du commentaire ne peut pas être vide.",custom,Imaginaerum
-"The condition has been deleted.","Condition supprimée.",custom,Imaginaerum
-"The condition has been saved.","La condition a été sauvegardée.",custom,Imaginaerum
-"The coupon code was canceled.","Le coupon de réduction a été annulé.",custom,Imaginaerum
-"the credit memo email is not sent","l'email n'a pas été envoyé",custom,Imaginaerum
-"The customer group has been deleted.","Le groupe clients a été supprimé.",custom,Imaginaerum
-"The customer group has been saved.","Le groupe clients a été sauvegardé.",custom,Imaginaerum
-"The customer is currently assigned to Customer Group %s.","Le client est actuellement assigné au groupe client %s.",custom,Imaginaerum
-"The database and media backup has been created.","La sauvegarde de la base de données et des media a bien été créée.",custom,Imaginaerum
-"The database backup has been created.","La sauvegarde de la base de données a bien été créée.",custom,Imaginaerum
-"The Date of Birth is required.","La date de naissance est obligatoire.",custom,Imaginaerum
-"The email address is empty.","L'email est vide.",custom,Imaginaerum
-"The email template has been deleted.","Le gabarit d'email a été supprimé.",custom,Imaginaerum
-"The email template has been saved.","Le gabarit d'email a été sauvegardé.",custom,Imaginaerum
-"The first name cannot be empty.","Le prénom ne peut pas être vide.",custom,Imaginaerum
-"The gift message has been saved.","Le message cadeau a bien été sauvegardé.",custom,Imaginaerum
-"The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged.","Image en haut à gauche sur la page de paiement. La taille maximale est de 750x90px. <strong style=""color:red"">https</strong> est recommandé.",custom,Imaginaerum
-"the invoice email is not sent","l'email n'a pas été envoyé",custom,Imaginaerum
-"the invoice email was sent","l'email a été envoyé",custom,Imaginaerum
-"The invoice no longer exists.","La facture n'existe plus.",custom,Imaginaerum
-"The last name cannot be empty.","Le nom de famille ne peut pas être vide.",custom,Imaginaerum
-"The message cannot be empty.","Le message ne peut pas être vide.",custom,Imaginaerum
-"Theme Version","Version du Thème",custom,Imaginaerum
-"The onepage checkout is disabled.","Le passage de commande en une seule page est désactivé.",custom,Imaginaerum
-"the order confirmation email is not sent","l'email de confirmation n'a pas été envoyé",custom,Imaginaerum
-"the order confirmation email was sent","l'email de confirmation a été envoyé",custom,Imaginaerum
-"The page has been saved.","La page a bien été enregistrée.",custom,Imaginaerum
-"The payment eCheck is not yet cleared.","Le chèque électronique de paiement n'est pas encore effacée.",custom,Imaginaerum
-"The payment update has been made.","La mise à jour du paiement a été effectuée.",custom,Imaginaerum
-"The product attribute has been deleted.","L'attribut de produit a été effacé.",custom,Imaginaerum
-"There are no items in customer's shopping cart at the moment","Aucun article dans le panier du client",custom,Imaginaerum
-"There are no items in customer's wishlist at the moment","Aucun article dans la liste d'envies du client",custom,Imaginaerum
-"There are no products matching the selection.","Aucun produit ne correspond à la sélection",custom,Imaginaerum
-"There are rules that have been changed but were not applied. Please, click Apply Rules in order to see immediate effect in the catalog.","Certaines règles ont changé mais n'ont pas pu être appliquées. Cliquez sur 'Appliquer les règles' afin d'en voir le résultat immédiat.",custom,Imaginaerum
-"There is already a registered customer using this email address. Please log in using this email address or enter a different email address to register your account.","Il existe déjà un client avec cette adresse email. Veuillez vous connecter avec cette adresse email ou saisir une adresse email différente pour créer votre compte .",custom,Imaginaerum
-"There is no need to deny this payment.","Il n'est pas nécessaire de refuser ce paiement.",custom,Imaginaerum
-"The review summary field can't be empty.","Le résumé de l'avis ne peut être vide.",custom,Imaginaerum
-"There was an error canceling transactions. Please contact us or try again later.","Erreur lors de l'annulation de transactions. Veuillez nous contacter ou réessayez ultérieurement.",custom,Imaginaerum
-"There was an error validating the VAT ID.","Erreur lors de la validation du numéro de TVA.",custom,Imaginaerum
-"The rule has been deleted.","La règle a été supprimée.",custom,Imaginaerum
-"The rule has been saved.","La règle a été sauvegardée.",custom,Imaginaerum
-"The rules have been applied.","Les règles ont bien été appliquées.",custom,Imaginaerum
-"The selected backup(s) has been deleted.","Les sauvegardes sélectionnées ont été effacées.",custom,Imaginaerum
-"The sender name cannot be empty.","Le nom de l'expéditeur ne peut pas être vide.",custom,Imaginaerum
-"The sitemap has been deleted.","Le plan de site a bien été effacé.",custom,Imaginaerum
-"The sitemap has been saved.","Le plan de site a bien été enregistrée.",custom,Imaginaerum
-"The store has been deleted.","Le magasin a été supprimé.",custom,Imaginaerum
-"The store has been saved.","Le magasin a été sauvegardé.",custom,Imaginaerum
-"The store view has been deleted.","La vue magasin a été supprimée.",custom,Imaginaerum
-"The store view has been saved","La vue magasin a été sauvegardée.",custom,Imaginaerum
-"The system backup has been created.","La sauvegarde du système a été créée.",custom,Imaginaerum
-"The tax rate has been deleted.","Le taux de taxe a été supprimé.",custom,Imaginaerum
-"The tax rate has been saved.","Le taux de taxe a été sauvegardé.",custom,Imaginaerum
-"The tax rule has been saved.","La règle de taxe a été sauvegardée.",custom,Imaginaerum
-"The TAX/VAT number is required.","Le numéro de TVA est obligatoire.",custom,Imaginaerum
-"The template Name must not be empty.","Le nom du gabarit ne doit pas être vide.",custom,Imaginaerum
-"The URL Rewrite has been deleted.","La réécriture d'URL a été effacée.",custom,Imaginaerum
-"The user name cannot be empty.","Le nom de l'utilisateur ne peut être vide.",custom,Imaginaerum
-"The website has been deleted.","Le site web a été supprimé.",custom,Imaginaerum
-"The website has been saved.","Le site web a été sauvegardé.",custom,Imaginaerum
-"This account is locked.","Ce compte est bloqué",custom,Imaginaerum
-"This attribute cannot be deleted.","Cet attribut ne peut pas être supprimé.",custom,Imaginaerum
-"This date is a required value.","Cette date est obligatoire.",custom,Imaginaerum
-"This email will be sent instead of default welcome email, after account confirmation.","Cet email sera envoyé à la place de l'email de bienvenue, après la confirmation de création du compte.",custom,Imaginaerum
-"This operation requires an existing transaction object.","Cette opération nécessite l'existance d'une transaction.",custom,Imaginaerum
-"This refund is for a partial amount but the Transaction has not settled. ","Ce remboursement est pour un montant partiel, mais la transaction n'est pas établie. ",custom,Imaginaerum
-"This section is not allowed.","Cette section n'est pas autorisée.",custom,Imaginaerum
-"This tab contains invalid data. Please solve the problem before saving.","Cet onglet contient des données non valides. Veuillez résoudre le problème avant de sauvegarder.",custom,Imaginaerum
-"Tier Price","Prix par quantité",custom,Imaginaerum
-"To cancel pending authorizations and release amounts that have already been processed during this payment, click Cancel.","Pour annuler les autorisations en cours et libérer les montants déjà prélevés pendant ce processus, cliquez sur Annuler.",custom,Imaginaerum
-"To Date","Date de fin",custom,Imaginaerum
-"To Fixed Amount","Nouveau prix en montant fixe",custom,Imaginaerum
-"Token is invalid.","Jeton Invalide",custom,Imaginaerum
-"Top 5 Search Terms","5 termes les plus recherchés",custom,Imaginaerum
-"To Percentage of the Original Price","Pourcentage du prix original",custom,Imaginaerum
-"To proceed to Checkout, please log in using your email address.","Pour continuer la commande, veuillez vous connecter en utilisant votre email.",custom,Imaginaerum
-"To show VAT number on frontend, set Show VAT Number on Frontend option to Yes.","Pour afficher le numéro de TVA dans le frontend, réglez l'option d'affichage du numéro de TVA dans le frontend à Oui.",custom,Imaginaerum
-"Total %1 records found","%1 enregistrements trouvés",custom,Imaginaerum
-"Total incl. tax","Total TTC",custom,Imaginaerum
-"Transaction type is required.","Type de transaction requis.",custom,Imaginaerum
-"Translate, blocks and other output caches should be disabled for both frontend and admin inline translations.","Les caches de traduction, de blocs et autres sorties doivent être désactivés pour utiliser la traduction en ligne.",custom,Imaginaerum
-"translation to the same value","traduction de la même valeur",custom,Imaginaerum
-"Try another card","Veuillez essayer une autre carte",custom,Imaginaerum
-"Two and more slashes together are not permitted in request path","Il n'est pas autorisé d'utiliser 2 slashes ou plus à la suite dans le chemin de requête.",custom,Imaginaerum
-"Unable to apply rules.","Impossible d'appliquer les règles.",custom,Imaginaerum
-"Unable to find a rule to delete.","Impossible de trouver la règle à supprimer.",custom,Imaginaerum
-"Unable to proceed. Please, try again.","Impossible de continuer. Veuillez réessayer ultérieurement.",custom,Imaginaerum
-"Unable to proceed. Please, try again","Impossible de continuer. Veuillez réessayer ultérieurement.",custom,Imaginaerum
-"Unable to send password reset email.","Impossible d'envoyer l'email de réinitialisation du mot de passe",custom,Imaginaerum
-"Unit Price Excl. Tax","Prix Unitaire HT",custom,Imaginaerum
-"Unit Price Incl. Tax","Prix Unitaire TTC",custom,Imaginaerum
-"unverified","non vérifié",custom,Imaginaerum
-"Update Items and Qty's","Mettre à jour les articles et quantités",custom,Imaginaerum
-"Update Prices Using the Following Information","Mettre à jour les prix en utilisant l'information suivante",custom,Imaginaerum
-"Update prices using the following information","Mettre à jour les prix en utilisant l'information suivante",custom,Imaginaerum
-"Update product's %1 %2: %3","Mettre à jour le %1 du produit %2 : %3",custom,Imaginaerum
-"Update Total","Mettre à jour le total",custom,Imaginaerum
-"Uploaded file has no extension","Le fichier uploadé n'a pas d'extension",custom,Imaginaerum
-"Upload HTTP Error","Erreur HTTP de téléchargement",custom,Imaginaerum
-"Upload I/O Error","Erreur entrée/Sortie de téléchargement",custom,Imaginaerum
-"Upload Security Error","Erreur de sécurité de téléchargement",custom,Imaginaerum
-"Use Billing Address","Utiliser l'adresse de facturation",custom,Imaginaerum
-"Used as Default For","Utilisé par défaut pour",custom,Imaginaerum
-"Used Currently For","Utilisé actuellement pour",custom,Imaginaerum
-"Use in Advanced Search","Utiliser dans la recherche avancée",custom,Imaginaerum
-"Use In Layered Navigation","Utiliser dans la navigation par filtres",custom,Imaginaerum
-"Use in Quick Search","Utiliser dans la recherche rapide",custom,Imaginaerum
-"Use In Search Results Layered Navigation","Utiliser dans la navigation par filtres des résultats de recherche",custom,Imaginaerum
-"Use Parent Category Settings","Utiliser les réglages de la catégorie parente",custom,Imaginaerum
-"User Content","Contenus des Utilisateurs",custom,Imaginaerum
-"User Name:","Nom d'utilisateur :",custom,Imaginaerum
-"User Roles","Rôles utilisateurs",custom,Imaginaerum
-"Use Secure URLs in Frontend","Utiliser des URLs sécurisées pour le front office (mon compte et passage de commande)",custom,Imaginaerum
-"Use SID on Frontend","Utiliser un SID dans le front office",custom,Imaginaerum
-"Uses store frontend name by default.","Utiliser le nom du magasin par défaut.",custom,Imaginaerum
-"Use To Create Configurable Product","Utiliser pour créer un produit configurable",custom,Imaginaerum
-"UTF-8 is the only supported charset.","Seul UTF-8 est supporté",custom,Imaginaerum
-"'%value%' appears to be an IP address, but IP addresses are not allowed.","'%value%' semble être une adresse IP, mais les adresses IP ne sont pas autorisées.",custom,Imaginaerum
-"Variation Label","Libellé Variation",custom,Imaginaerum
-"Variations","Variations",custom,Imaginaerum
-"VAT number","Numéro de TVA",custom,Imaginaerum
-"VAT Number is Invalid","Le numéro de TVA est invalide",custom,Imaginaerum
-"VAT Number is Valid","Le numéro de TVA est valide",custom,Imaginaerum
-"(ver. %1)","(ver. %1)",custom,Imaginaerum
-"verified","vérifié",custom,Imaginaerum
-"View All Reviews","Voir tous les commentaires",custom,Imaginaerum
-"View cart","Voir le Panier",custom,Imaginaerum
-"View Details","Voir les détails",custom,Imaginaerum
-"Viewed","Vu",custom,Imaginaerum
-"Visible In","Visible dans",custom,Imaginaerum
-"Visible on Frontend","Visible sur le site coté client",custom,Imaginaerum
-"Visitors Only","Visiteurs seulement",custom,Imaginaerum
-"Void action is not available.","L'action 'annuler' n'est pas disponible.",custom,Imaginaerum
-"Warning!","Attention!",custom,Imaginaerum
-"Web Setup Wizard","Assistant d'installation",custom,Imaginaerum
-"Website code may only contain letters (a-z), numbers (0-9) or underscore(_), the first character must be a letter","Le code de site web ne doit contenir que des lettres (a-z), des chiffres (0-9) ou underscore (_). Le premier caractère doit être une lettre.",custom,Imaginaerum
-"Website is not specified","Site web non spécifié",custom,Imaginaerum
-"Website Payments Standard","PayPal Standard",custom,Imaginaerum
-"Website Payments Standard Payment","Paiement PayPal Standard",custom,Imaginaerum
-"Websites must be specified.","Les sites web doivent être spécifiés.",custom,Imaginaerum
-"We cannot detect a size.","Détection de taille impossible.",custom,Imaginaerum
-"We cannot retrieve the wish list.","Impossible de retrouver la liste d'envies.",custom,Imaginaerum
-"We cannot upload the file.","Upload du fichier impossible.",custom,Imaginaerum
-"We can't find the link you requested.","Impossible de trouver le lien demandé.",custom,Imaginaerum
-"We can't find the quote item.","Impossible de trouver le commentaire du produit.",custom,Imaginaerum
-"We can't update wish list.","Impossible de mettre à jour la liste d'envies.",custom,Imaginaerum
-"We couldn't mark the notification as Read because of an error.","Nous ne pouvons pas marquer la notification comme lue suite à une erreur.",custom,Imaginaerum
-"We couldn't remove the messages because of an error.","Nous ne pouvons pas supprimer les messages suite à une erreur.",custom,Imaginaerum
-"We don't have as many of some products as you want.","Nous ne disposons pas de tous les produits que vous souhaitez.",custom,Imaginaerum
-"We don't have some of the products you want.","Nous ne disposons pas de certains des produits que vous souhaitez.",custom,Imaginaerum
-"We don't recognize this file extension.","Impossible de reconnaître l'extension de ce fichier.",custom,Imaginaerum
-"Welcome","Bienvenue",custom,Imaginaerum
-"Widget Instance","Instance de widget",custom,Imaginaerum
-"Widget Instance Title","Titre de l'instance de widget",custom,Imaginaerum
-"Will appear as a payment option only for customers who have at least one active billing agreement.","Apparaît comme une option de paiement uniquement pour les clients qui ont au moins un accord de facturation actif.",custom,Imaginaerum
-"Wishlist - %1 item(s)","Liste d'envies - %1 article(s)",custom,Imaginaerum
-"Wishlist","Liste d'envies",custom,Imaginaerum
-"Wish List could not be created.","La liste d'envies n'a pas été crée.",custom,Imaginaerum
-"Wrong transactional account email type","Le type d'email de compte transactionnel est erroné",custom,Imaginaerum
-"You are currently not subscribed to any newsletter.","Vous n'êtes abonné à aucune newsletter.",custom,Imaginaerum
-"You are currently not subscribed to our newsletter.","Vous n'êtes pas abonné(e) à notre newsletter",custom,Imaginaerum
-"You are currently subscribed to 'General Subscription'.","Vous êtes abonné à 'Abonnement général'",custom,Imaginaerum
-"You are now logged out","Vous vous êtes déconnecté(e).",custom,Imaginaerum
-"You are receiving this notification because you subscribed to receive alerts when the following products are back in stock:","Vous recevez cette alerte car vous avez demandé à être alerté quand les produits suivants sont de nouveau disponibles :",custom,Imaginaerum
-"You are receiving this notification because you subscribed to receive alerts when the prices for the following products changed:","Vous recevez cette alerte car vous avez demandé à être alerté quand les produits suivants sont modifiés :",custom,Imaginaerum
-"You can buy this product only in increments of %1.","Vous ne pouvez acheter ce produit que par quantité de %1.",custom,Imaginaerum
-"You can leave this box blank if you do not wish to add a gift message for the item.","Laissez vide si vous ne souhaitez pas ajouter de message cadeau pour l'article.",custom,Imaginaerum
-"You can leave this box blank if you do not wish to add a gift message for this address.","Laissez vide si vous ne souhaitez pas ajouter de message cadeau pour cette adresse.",custom,Imaginaerum
-"You have been unsubscribed.","Vous n'êtes plus inscrit(e) à la newsletter.",custom,Imaginaerum
-"You have logged out and will be redirected to our homepage in 5 seconds.","Vous vous êtes déconnecté(e) et vous serez redirigé(e) vers la page d'accueil dans 5 secondes.",custom,Imaginaerum
-"You have no additional address entries in your address book.","Vous n'avez pas d'entrées supplémentaires dans votre carnet d'adresses.",custom,Imaginaerum
-"You may also be interested in the following product(s)","Vous pourriez également être intéressé par le(s) produit(s) suivant(s)",custom,Imaginaerum
-"You need to specify order items.","Vous devez spécifier les articles de la commande.",custom,Imaginaerum
-"Your Checkout Progress","Avancement de votre commande",custom,Imaginaerum
-"Your design change for the specified store intersects with another one, please specify another date range.","Votre changement de design pour le magasin spécifié interfère avec un autre. Spécifiez une autre tranche de dates.",custom,Imaginaerum
-"You're reviewing:","Vous commentez:",custom,Imaginaerum
-"Your order cannot be completed at this time as there is no payment methods available for it.","Vous ne pouvez pas continuer votre commande car aucun mode de paiement n'est disponible.",custom,Imaginaerum
-"Your order cannot be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address.","Vous ne pouvez pas continuer votre commande car aucun mode de livraison n'est disponible pour votre adresse.",custom,Imaginaerum
-"Your order has been received.","Votre commande a bien été reçue.",custom,Imaginaerum
-"Your order # is: %1.","ID de votre commande: %1.",custom,Imaginaerum
-"Your order number is ","Votre numéro de commande est ",custom,Imaginaerum
-"Your password has been updated.","Votre mot de passe a été mis à jour.",custom,Imaginaerum
-"Your Rating:","Votre note :",custom,Imaginaerum
-"Your review has been accepted for moderation.","Votre commentaire a été accepté pour modération.",custom,Imaginaerum
-"Your Review (submitted on %1):","Votre avis (soumis sur %1):",custom,Imaginaerum
-"Your search returns no results.","Aucun résultat pour votre recherche.",custom,Imaginaerum
-"Your web server is configured incorrectly. As a result, configuration files with sensitive information are accessible from the outside. Please contact your hosting provider.","Votre serveur web est mal configuré. Les fichiers de configuration comportant des informations sensibles sont accessibles de l'extérieur. Consultez votre hébergeur.",custom,Imaginaerum
-"YouTube API key","Clé API YouTube",custom,Imaginaerum
-"Youtube or Vimeo supported","Youtube ou Vimeo supportés",custom,Imaginaerum
-"You will be redirected to the PayPal website in a few seconds.","Vous serez redirigé vers le site de PayPal dans quelques secondes.",custom,Imaginaerum
-"You will have to log in after you save your custom admin path.","Vous devrez vous reconnecter après avoir enregistré le chemin personnalisé.",custom,Imaginaerum
-"You will receive an order confirmation email with details of your order and a link to track its progress.","Vous allez recevoir un mail de confirmation avec les détails de votre commande ainsi qu'un lien pour suivre son avancement.",custom,Imaginaerum
-"YYYY","AAAA",custom,Imaginaerum
+"%1 Catalog Price Rules based on ""%2"" attribute have been disabled.","La règle de prix catalogue %1 basée sur l'attribut ""%2"" a été désactivée."
+"%1 has been added to your wishlist. Click <a href=""%2"">here</a> to continue shopping.","%1 a été ajouté à votre liste d'envies. Cliquez <a href=""%2"">ici</a> pour continuer vos achats."
+"%1 is available for purchase in increments of %2","%1 doit être acheté par multiple de %2."
+"1 item in wish list","1 article dans la liste d'envies"
+"%1 items in wish list","%1 articles dans la liste d'envies"
+"%1 RSS Feed","%1 Flux RSS"
+"%1 Shopping Cart Price Rules based on ""%2"" attribute have been disabled.","La règle de prix panier %1 basée sur l'attribut ""%2"" a été désactivée."
+"10 by default. Max - 10000","10 par défaut. Maximum - 10000"
+"255 by default","255 par défaut"
+"A category object is required for determining the product request path.","Un objet catégorie est obligatoire pour déterminer le chemin de requête du produit."
+"Account Created on:","Compte créé le :"
+"Acknowledge","Accusé de réception"
+"Add Group Price","Ajouter un prix par groupe"
+"Additional Information","Informations complémentaires"
+"Add New Addresses","Ajouter de nouvelles adresses"
+"Add New Review","Ajouter nouveau commentaire"
+"Add New Set","Ajouter un jeu"
+"Add New Theme","Ajouter un thème"
+"Add New Widget Instance","Ajouter une nouvelle instance de widget"
+"Add Order Comments","Ajouter des commentaires de commande"
+"Add Products By SKU","Ajhouter des Produits par SKU"
+"Add Recipient","Ajouter destinataire"
+"Address %1 of %2","Adresse %1 sur %2"
+"Add Tier","Ajouter un palier"
+"Admin Accounts Locks","Comptes admin bloqués"
+"Advanced Pricing","Gestion avancée des Prix"
+"All Customers","Tous les Clients"
+"Allowed File Extensions","Extensions de fichier autorisées"
+"Allowed file extensions to upload","Extensions de fichier autorisées pour l'envoi"
+"Allow Gift Message","Autoriser le message cadeau"
+"Allow HTML Tags on Frontend","Autoriser les balises HTML sur le frontend"
+"Allow Partial Authorization","Permettre l'autorisation partielle"
+"All Stores","Tous les Magasins"
+"All Users","Tous les utilisateurs"
+"Already registered?","Vous avez déjà un compte ?"
+"Amount cannot be negative.","Le montant ne peut être négatif."
+"Amount is required.","Montant requis"
+"Amount must be greater than zero","Le montant doit être supérieur à zéro"
+"and","et"
+"An error occurred while assigning order status. Status has not been assigned.","Erreur lors de l'assignation du statut de commande. Le statut n'a pas pu être assigné."
+"An error occurred while deleting email template data. Please review log and try again.","Erreur lors de la suppression des données de gabarit d'email. Consultez les logs."
+"An error occurred while deleting record(s).","Une erreur est survenue pendant la suppression des enregistrements."
+"An error occurred while deleting the address.","Erreur lors de la suppression de l'adresse."
+"An error occurred while deleting this set.","Erreur lors de la suppression de ce jeu."
+"An error occurred while deleting this template.","Erreur lors de la suppression de ce gabarit."
+"An error occurred while saving. Please review the error log.","Erreur lors de la sauvegarde. Vérifiez les logs."
+"An error occurred while saving review.","Une erreur est survenue lors de l'enregistrement du commentaire."
+"An error occurred while saving the attribute set.","Erreur lors de la sauvegarde du jeu d'attributs."
+"An error occurred while saving the customer.","Erreur lors de la sauvegarde du client."
+"An error occurred while saving this configuration:","Erreur lors de la sauvegarde de cette configuration."
+"An error occurred while saving this template.","Erreur lors de la sauvegarde de ce gabarit."
+"An error occurred while updating the selected review(s).","Erreur lors de la mise à jour des commentaires sélectionnés."
+"Any data created since the backup was made will be lost including admin users, customers and orders.","Toutes les données créées depuis que la sauvegarde a été réalisée seront perdues (dont les comptes administrateurs, les clients et les commandes)."
+"Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. http://example.com/magento/","Chacun de ces champs peut utiliser une URL se terminant par '/' (slash) ex: http://example.com/magento/"
+"Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. https://example.com/magento/","Chacun de ces champs peut utiliser une URL se terminant par '/' (slash) ex: https://example.com/magento/"
+"A page URL key for specified store already exists.","Il existe déjà un e clé d'URL de page pour la boutique sélectionnée."
+"Applies to Any of the Specified Order Statuses","S'applique à tous les statuts de commande spécifiés"
+"Apply Coupon","Utiliser un bon de réduction"
+"Apply Layered Navigation if Search Results are Less Than","Appliquer la navigation par filtre si les résultats de recherche sont inférieurs à"
+"A problem was encountered trying to change password.","Problème rencontré lors du changement de mot de passe."
+"Are you sure that you want to strip tags?","Êtes-vous sûr(e) de vouloir supprimer les tags ?"
+"Are you sure you want to cancel your payment? Click OK to cancel your payment and release the amount on hold. Click Cancel to enter another credit card and continue with your payment.","Êtes-vous sûr(e) de vouloir annuler votre paiement ? Cliquez sur OK pour annuler votre paiement et libérer le montant bloqué. Cliquez sur Annuler pour saisir une autre carte bancaire et continuer le paiement."
+"Are you sure you want to proceed?","Voulez-vous vraiment continuer ?"
+"Are you sure you want to refresh lifetime statistics? There can be performance impact during this operation.","Êtes-vous sûr(e) de vouloir rafraîchir les statistiques en temps réel ? Cela peut impacter les performances pendant la durée du rafraichissement."
+"Are you sure you would like to remove all products from your comparison?","Êtes-vous sûr(e) de vouloir enlever tous les produits de la comparaison ?"
+"Are you sure you would like to remove this item from the compare products?","Êtes-vous sûr(e) de vouloir enlever cet article de la comparaison ?"
+"Are you sure you would like to remove this item from the shopping cart?","Êtes-vous sûr(e) de vouloir retirer cet article du panier ?"
+"Associate to Website","Associer à un site web"
+"At least one recipient must be specified.","Au moins un destinataire doit être saisi."
+"Attempted Authentication, Bad Result","Tentative d'authentification. Mauvais résultat"
+"Attempted Authentication, Good Result","Tentative d'authentification. Bon résultat"
+"Attribute '%1' is locked. ","L'attribut '%1' est verrouillé.  "
+"Attribute","Attribut"
+"Attribute Set with name '%1' already exists.","Un jeu d'attributs avec le nom '%1' existe déjà."
+"Authenticated, Bad Result","Authentifié. Mauvais résultat"
+"Authenticated, Good Result","Authentifié. Bon résultat"
+"Authorize.net","Authorize.net"
+"Autogenerate","Générer automatiquement"
+"Autosettings","Réglages automatiques"
+"A value is required for live mode. Refer to your CardinalCommerce agreement.","Une valeur est exigée pour le mode en direct. Référez-vous à votre accord cardinal de commerce."
+"Average Orders","Moyenne des commandes"
+"B","B"
+"Base Image","Image de base"
+"Basic Settings - PayPal Payments Standard","Réglages de base - PayPal Payments Standard"
+"Basic Settings - PayPal Website Payments Pro","Réglages de base - PayPal Website Payments Pro"
+"Basic Settings - PayPal Website Payments Standard","Réglages de base - PayPal Website Payments Standard"
+"Before modifying the store view code please make sure that it is not used in index.php.","Avant de modifier le code de vue magasin, assurez-vous qu'il n'est pas utilisé dans le fichier index.php."
+"Before modifying the website code please make sure that it is not used in index.php.","Avant de modifier le code de site web, assurez-vous qu'il n'est pas utilisé dans le fichier index.php."
+"Bestseller","Meilleures Ventes"
+"Bundle with dynamic pricing cannot include custom defined options. Options will not be saved.","Un bundle avec un prix dynamique ne peut pas inclure d'options définies. Les options ne seront pas sauvegardées."
+"Buy %1 for %2","Achetez en %1 pour %2"
+"By creating an account with our store, you will be able to move through the checkout process faster, store multiple shipping addresses, view and track your orders in your account and more.","En créant un compte sur notre boutique, vous pourrez passer vos commandes plus rapidement, enregistrer plusieurs adresses de livraison, consulter et suivre vos commandes, et plein d'autres choses encore."
+"By Customers","Par Client"
+"By Fixed Amount","Remise d'un montant fixe"
+"By Percentage of the Original Price","En pourcentage du prix d'origine"
+"By Products","Par Produits"
+"Cache storage may contain additional data. Are you sure that you want flush it?","Le stockage de cache peut contenir d\'autres données. Êtes-vous sûr(e) de vouloir le purger ?"
+"Can be Divided into Multiple Boxes for Shipping","Peut être divisé en plusieurs colis pour la livraison"
+"Cannot add item to shopping cart","Impossible d'ajouter l'article au panier"
+"Cannot add the item to shopping cart","Impossible d'ajouter l'article au panier."
+"Cannot create an invoice without products.","Impossible de créer une facture sans produits."
+"Cannot create credit memo for the order.","Impossible de créer un avoir pour la commande."
+"Cannot delete the design change.","Impossible de supprimer le changement de design."
+"Cannot delete tracking number.","Impossible de supprimer le numéro de suivi."
+"Cannot find required columns: %1","Impossible de trouver la colonne requise: %1"
+"Cannot initialize shipment for adding tracking number.","Impossible d'initialiser l'expédition pour ajouter le numéro de suivi."
+"Cannot initialize shipment for delete tracking number.","Impossible d'initialiser l'expédition pour supprimer le numéro de suivi."
+"Cannot load track with retrieving identifier.","Impossible de charger le suivi avec l'identifiant."
+"Cannot save address.","Impossible de sauvegarder l'adresse."
+"Cannot save the credit memo.","Impossible de sauvegarder l'avoir."
+"Cannot save the customer.","Impossible de sauvegarder le client."
+"Cannot share customer accounts globally because some customer accounts with the same emails exist on multiple websites and cannot be merged.","Impossible de partager les comptes clients globalement car il existe des comptes avec le même emails sur plusieurs sites web qui ne peuvent pas être fusionnés."
+"Cannot update the item's quantity.","Impossible de mettre à jour la quantité de l'article."
+"Can't delete item from wishlist","Impossible d'enlever l'article de la liste d'envies."
+"Capture Amount","Capturer le montant"
+"Card type does not match credit card number.","Le type de carte ne correspond pas au numéro de carte."
+"Catalog Price Rules","Règles de prix catalogue"
+"Category Feeds","Flux de la catégorie"
+"Change Price","Changer le Prix"
+"Checkout as a Guest","Commander en tant qu'invité"
+"Checkout as a Guest or Register","Régler en tant qu'invité ou s'enregistrer"
+"Checkout as Guest","Régler en tant qu'invité"
+"Checkout Method","Mode de commande"
+"Check this checkbox if you want to add a link to an rss feed to your wishlist.","Cochez cette case si vous souhaitez ajouter un lien vers un flux RSS vers votre liste d'envies"
+"Clear Persistence on Log Out","Effacer la persistance lors de la déconnexion"
+"<a href=""https://www.braintreegateway.com/login"" target=""_blank"">Click here to login to your existing Braintree account</a>. Or to setup a new account and accept payments on your website, <a href=""https://apply.braintreegateway.com/signup/us"" target=""_blank"">click here to signup for a Braintree account</a>.","<a href=""https://www.braintreegateway.com/login"" target=""_blank"">Cliquez ici pour vous connecter à cotre compte Braintree</a>. Pour créer un compte Braintree, <a href=""https://apply.braintreegateway.com/signup/us"" target=""_blank"">cliquez ici</a>."
+"Click on image to zoom","Cliquez sur l'image pour zoomer"
+"Column names: ""%1"" are invalid","Noms de colonne: ""%1"" invalides"
+"Columns","Colonnes"
+"Communications","Communications"
+"Company is invalid","Nom de la société invalide"
+"Conditions (leave blank for all products)","Conditions (laisser vide pour appliquer à tous les produits)"
+"Configurable Product Settings","Paramètres produit configurable"
+"Contact your bank or try another card","Contactez votre banque ou essayez une autre carte bancaire"
+"Continue to Review Your Order","Poursuivre pour vérifier votre commande"
+"&copy; 2015 Magento Demo Store. All Rights Reserved.","© 2015 Magento Demo Store. Tous droits réservés."
+"Copy to Wish List","Copier vers la liste d'envies"
+"Cost","Coût"
+"Could not rebuild index for undefined product","Impossible de reconstruire l'index d'un produit non défini"
+"Country code alpha-2 is not accepted","Code pays alpha-2 non accepté"
+"Country code alpha-3 is not accepted","Code pays alpha-3 non accepté"
+"Country of Manufacture","Pays de fabrication"
+"Create account","Créer un compte"
+"Create Empty","Créer vide"
+"Create New Wish List","Créer une liste d'envies"
+"Credit Card %1","Carte Bancaire %1"
+"Credit card number does not match credit card type.","Le numéro de carte ne correspond pas au type de carte."
+"Credit card number mismatch with credit card type.","Le numéro de carte bancaire ne correspond pas au type de carte bancaire."
+"Credit Cards","Carte Bancaire"
+"Credit card successfully updated","Carte Bancaire mise à jour"
+"Credit card token is taken.","Carte Bancaire prise en compte"
+"Credit memo's total must be positive.","Le total de l'avoir doit être positif"
+"Currently Shopping by:","Filtre en cours :"
+"Current module EAV entity is undefined","Le module d'entités EAV actuel n'est pas défini"
+"Current module pathname is undefined","Le chemin d'accès actuel du module n'est pas défini"
+"Customer Addresses","Adresses client"
+"Customer address for such customer doesn't exist","L'adresse client n’existe pas"
+"Customer email is required","L'email du client est obligatoire"
+"Customer Groups must be specified.","Les groupes client doivent être spécifiés."
+"Customers Only","Clients seulement"
+"Customer website ID must be specified when using the website scope","L'identifiant du site web du client doit être renseigné lorsque la portée du site web est utilisée."
+"Cvv Response Code","Code de réponse du pictogramme visuel"
+"Data is invalid or file is not uploaded","Les données sont invalides ou le fichier n'a pas été uploadé"
+"Data Transfer","Transfert de données"
+"DD","JJ"
+"Decoding error: %1%2%3%4","Décodage de l'erreur: %1%2%3%4"
+"Default View","Vue Par Défaut"
+"Delete Attribute Set","Supprimer le jeu d'attributs"
+"Delete Group Price","Supprimer le prix pour le groupe"
+"Destination directory is not writable","Le répertoire de destination n'a pas les droits en écriture"
+"Destination file path must be a string","Le chemin du fichier de destination doit être une chaîne de caractères"
+"Discount Codes","Codes de remises"
+"Display Settings","Paramètres d'affichage"
+"each","pièce"
+"Easy access to your order history and status","Consultez et suivez vos commandes"
+"Edit Customer's Address","Éditer l'adresse du client"
+"Edit item","Éditer l'article"
+"Edit Set Name","Éditer le nom du jeu d'attributs"
+"Edit Your Cart","Modifiez votre panier"
+"Elements","Éléments"
+"Eligible","Eligible"
+"Email address can't be empty.","L'adresse email ne peut pas être vide."
+"E-mail is invalid","Email invalide"
+"E-mail is not specified","Email non spécifié"
+"Email is too long.","Email trop long"
+"Enable CAPTCHA on Frontend","Activer le CAPTCHA dans le frontend"
+"Enabled for Frontend","Activée pour le frontend"
+"Enable Discount to Subproducts","Activer les remises sur les sous-produits"
+"Enable WSDL Cache","Activer le cache WSDL"
+"Enter your code","Saisissez votre code"
+"Enter your destination to get a shipping estimate.","Choisissez votre destination pour estimer les frais de port"
+"Entity instance is not defined","L'instance d'entité n'est pas définie"
+"Error: unknown error.","Erreur inconnue."
+"Estimated Total","Total Estimé"
+"Exact Match. Address and nine-digit ZIP code","Correspondance exacte. Adresse et code postal à neuf chiffres"
+"Example: 0.0.0.1 or 123.1.0.25-alpha1","Exemple: 0.0.0.1 ou 123.1.0.25-alpha1"
+"Exceptions Log File Name","Nom du fichier de log d'exceptions"
+"Expiration date is invalid.","Date d'expiration invalide."
+"Expiration date is required.","Date d'expiration requise"
+"Expiration month is invalid.","Le mois d'expiration est invalide."
+"Extensions","Extensions"
+"Fast and easy check out","Commander plus vite et plus facilement"
+"Fax is too long.","Fax trop long."
+"Field is not complete","Champ non complet"
+"File does not contain data.","Le fichier ne contient aucune donnée"
+"File does not contain data. Please upload another one","Le fichier ne contient pas de données. Veuillez en uploader un autre."
+"File format is unknown","Le format de fichier n'est pas reconnu"
+"File is partially valid, but import is not possible","Le fichier est partiellement valide, mais l'import est impossible."
+"File is valid, but import is not possible","Le fichier est valide, mais l'import est impossible."
+"File was not uploaded","Le fichier n'a pas été uploadé"
+"Filters","Filtres"
+"Find Partners & Extensions","Trouver des Partenaires & Extensions"
+"First name is invalid","Prénom invalide"
+"Folder","Répertoire"
+"Forgot an Item?","Vous avez oublié un article ?"
+"Forgot your user name or password?","Nom d'utilisateur ou mot de passe oublié ?"
+"Form code is not defined","Le code du formulaire n'est pas défini."
+"For Windows server only.","Pour les serveurs windows uniquement."
+"From your My Account Dashboard you have the ability to view a snapshot of your recent account activity and update your account information. Select a link below to view or edit information.","Depuis le tableau de bord 'Mon compte', vous pouvez avoir un aperçu de vos récentes activités et mettre à jour les informations de votre compte. Sélectionnez un lien ci-dessous pour voir ou modifier les informations."
+"Frontend","Frontend"
+"Frontend label is not defined","Le libellé de front office n'est pas défini"
+"Fulfilled","Rempli"
+"GB","Go"
+"Gender is required.","Le genre est obligatoire."
+"Get a Quote","Obtenir une estimation"
+"Gift Options for this address.","Options cadeau pour cette adresse."
+"Global Attribute","Attribut global"
+"Header column names already set","L'en-tête des noms de colonnes a déjà été défini"
+"Hello, %1!","Bonjour, %1!"
+"Help Us Keep Magento Healthy - Report All Bugs","Aidez-nous à améliorer Magento - Signalez tous les bugs"
+"Help Us to Keep Magento Healthy","Aidez-nous à améliorer Magento"
+"How do you rate this product?","Quelle note donneriez-vous à ce produit ?"
+"ID is invalid.","ID invalide"
+"Id is required","id requis"
+"ID Path","ID chemin"
+"If empty, a default value will be used. Custom URL may be provided by CardinalCommerce agreement.","Si ce champ est vide, la valeur par défaut sera utilisée. Une URL personnalisée peut être fournie par un accord CardinalCommerce."
+"If empty, the Category Name will be used","Si vide, le nom de la catégorie sera utilisé"
+"If empty, the Product Name will be used","Si vide, le nom du produit sera utilisé"
+"Image Management","Gestion des images"
+"Import/Export Tax Rates","Importer/Exporter Taux de Taxes"
+"Import has been done successfuly.","Import réalisé avec succès."
+"Include","Inclure"
+"Include Tax In Grand Total","TTC dans le total"
+"Inconsistent start date","Date de début incompatible"
+"Incorrect credit card expiration date.","Mauvaise date d'expiration de carte de crédit."
+"Index product attributes for layered navigation building","Index des attributs produit pour la navigation par filtres"
+"Index Product Stock Status","Indexer les statuts de stock de produit"
+"Ineligible","Inéligible"
+"Interface Language","Langage de l'interface"
+"Invalid Address Data provided","Données d'adresse invalide."
+"Invalid discount amount.","Montant de remise invalide."
+"Invalid password reset token.","Jeton de réinitialisation de mot de passe invalide."
+"Invoice #%1","Facture #%1"
+"Issuer Liability","Responsabilité de l'émetteur"
+"Item %1 of %2","Article %1 sur %2"
+"Items that you do not want to show in the catalog or search results should have status 'Disabled' in the desired store.","Les articles que vous ne voulez pas afficher dans le catalogue ou dans les résultats de recherche doivent avoir le statut 'Désactivé' dans le magasin souhaité."
+"Items that you don't want to show in the catalog or search results should have status 'Disabled' in the desired store.","Les articles que vous ne voulez pas afficher dans le catalogue ou dans les résultats de recherche doivent avoir le statut 'Désactivé' dans le magasin souhaité."
+"kB","Ko"
+"Last 5 Orders","5 dernières commandes"
+"Last 5 Search Terms","5 derniers termes recherchés"
+"Last URL","Dernière URL"
+"Loading next step...","Chargement en cours de l'étape suivante..."
+"Login and password are required.","L'identifiant et le mot de passe sont obligatoires."
+"Login Information","Information de connexion"
+"Log Out","Déconnexion"
+"Log Settings","Paramètres de log"
+"Magento Admin","Admin Magento"
+"Magento ver. %1","Magento ver. %1"
+"Marketing","Marketing"
+"Match Period To","Faire correspondre la période à"
+"Maximum 255 chars","255 caractères minimum"
+"Maximum Query Words Count","Nombre maxi de mots dans la requête"
+"MB","Mo"
+"Merchant Liability","Responsabilité du marchand"
+"Meta Title","Titre méta"
+"Middle Name/Initial","Patronyme/Initiales"
+"Minimum Qty for Item's Status to be Out of Stock","Quantité mini pour que l'article soit considéré comme épuisé"
+"MM","MM"
+"More Views","Plus de vues"
+"%name% '%value%' is too long. It must has length %min% symbols.","%name% '%value%' est trop long. Il doit avoir maximum %min% symboles."
+"%name% '%value%' is too short. It must has length %min% symbols.","%name% '%value%' est trop court. Il doit avoir minimum %min% symboles."
+"New Address","Nouvelle adresse"
+"New Addresses","Nouvelle Adresse"
+"New Customer Address","Nouvelle adresse client"
+"New password field cannot be empty.","Le champ de nouveau mot de passe ne peut pas être vide."
+"New Product Template","Nouveau Gabarit Produit"
+"Newsletter Template","Gabarits de Newsletter"
+"No items were found using the following search criteria.","Aucun résultat pour ces critères de recherche."
+"No Liability Shift","Absence de responsabilité"
+"(Not %1?)","(Pas %1?)"
+"Notification","Notification"
+"Not supported cipher version","Version de cipher non supportée"
+"No wishlist item ID is defined.","Aucun ID d'article de la liste d'envies défini."
+"Now Online","En Ligne"
+"Operations","Operations"
+"Order #%1 (%2)","Commande #%1 (%2)"
+"Order Count","Nombre de Commande"
+"Order Created Date","Date de création de commande"
+"Order Summary","Résumé de la Commande"
+"Order Updated Date","Date de mise à jour de commande"
+"Original value for Magento_Store module","Valeur originale pour le module Magento_Store"
+"Other Settings","Autres réglages"
+"Password and password confirmation are not equal.","Le mot de passe et la confirmation du mot de passe ne sont pas identiques."
+"Payer is not identified.","Payeur non identifié"
+"Payment method is not defined","Le mode de paiement n'est pas défini"
+"Payment updating error.","Erreur lors de la mise à jour de paiement."
+"PayPal gateway rejected the request. %1","La passerelle PayPal à rejeté la requête. %1"
+"PayPal Settlement","Règlement PayPal"
+"Please define a correct Cookie instance.","Définissez une instance de cookie correcte."
+"Please enter 6 or more characters.","Veuillez saisir au moins 6 caractères."
+"Please enter 7 or more characters. Password should contain both numeric and alphabetic characters.","Veuillez saisir au moins 7 caractères. Le mot de passe doit contenir à la fois des caractères numériques et alphabétiques."
+"Please enter a number lower than 100.","Veuillez saisir un nombre inférieur à 100."
+"Please enter a password.","Veuillez saisir un mot de passe"
+"Please enter a valid email address. For example johndoe@domain.com.","Veuillez saisir une adresse email valide. Par exemple prenom.nom@domaine.com"
+"Please enter a valid fax number. For example (123) 456-7890 or 123-456-7890.","Veuillez saisir un numéro de fax valide. Par exemple 0123456789."
+"Please enter a valid full date","Veuillez saisir une date complète valide."
+"Please enter a valid month (1-12).","Veuillez saisir un mois valide (1-12)."
+"Please enter a valid password.","Veuillez saisir un mot de passe valide."
+"Please enter a valid social security number. For example 123-45-6789.","Veuillez saisir un numéro de sécurité sociale valide. Par exemple 123-45-6789."
+"Please enter a valid XML-identifier. For example something_1, block5, id-4.","Veuillez saisir un identifiant XML valide. Par exemple, quelquechose_1, bloc5, id-4."
+"Please enter a valid zip code. For example 90602 or 90602-1234.","Veuillez saisir un code postal valide. Par exemple 92100."
+"Please enter new template name.","Saisissez un nom de gabarit."
+"Please enter search conditions to view products.","Veuillez entrer des conditions de recherche pour voir des produits."
+"Please enter the telephone number.","Veuillez renseigner le numéro de téléphone."
+"Please enter your comments.","Veuillez saisir votre commentaire"
+"Please enter your email address below. You will receive a link to reset your password.","Saisissez votre email ci-dessous. Nous vous enverrons un lien pour réinitialiser votre mot de passe."
+"Please input a valid CSS-length. For example 100px or 77pt or 20em or .5ex or 50%.","Veuillez saisir une longueur CSS valide. Par exemple 100px ou 77pt ou 20 em ou .5ex ou 50%."
+"Please input a valid email address.","Saisissez un email valide."
+"Please log in below:","Veuillez vous identifier :"
+"Please log in to download your product.","Veuillez vous connecter pour pouvoir télécharger votre produit."
+"Please select a file","Sélectionnez un fichier"
+"Please select catalog searches.","Sélectionnez les recherches catalogue"
+"Please select one of the above options.","Veuillez choisir une des options ci-dessus."
+"Please select one of the options.","Veuillez choisir une des options."
+"Please specify either a category or a product, or both.","Spécifiez une catégorie, un produit ou les deux."
+"Please specify shipping method.","Choisissez un mode de livraison."
+"Please specify the product's option(s).","Veuillez spécifier la (les) option(s) de produit"
+"Please specify the product's required option(s).","Spécifiez la ou les option(s) obligatoire(s)."
+"Please use numbers only in this field. Please avoid spaces or other characters such as dots or commas.","Seuls les chiffres sont autorisés dans ce champ. Évitez les espaces ou autres caractères tels que les points ou les virgules."
+"Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Veuillez utiliser uniquement des lettres (a-z), des chiffres (0-9) ou underscore (_) dans ce champ, en commençant par une lettre."
+"Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Utilisez uniquement des lettres (a-z ou A-Z), des chiffres (0-9) ou des underscores (_) dans ce champ. Le premier caractère doit être une lettre."
+"Please use only letters (a-z or A-Z) or numbers (0-9) only in this field. No spaces or other characters are allowed.","Veuillez utiliser uniquement des lettres (a-z) ou des chiffres (0-9) dans ce champ. Les espaces et autres caractères ne sont pas autorisés."
+"Please use only letters (a-z or A-Z) or numbers (0-9) or spaces and # only in this field.","Veuillez utiliser uniquement des lettres (a-z), des chiffres (0-9), des espaces ou des dièses (#) dans ce champ."
+"Please use only visible characters and spaces.","Veuillez utiliser uniquement des caractères visibles et des espaces."
+"Please wait until the action ends.","Veuillez attendre que l'action se termine."
+"Postal Code","Code Postal"
+"Postal code is invalid","Code postal invalide"
+"Posted By","Posté par"
+"Prefix","Préfixe"
+"Price is an invalid format.","Format prix invalide."
+"Processed Amount","Montant traité"
+"Products in Cart","Produits dans les paniers"
+"Product Templates","Gabarit Produit"
+"Quick simple product creation","Création rapide de produit simple"
+"Rate Percent should be a positive number.","Le taux doit être un nombre positif."
+"Recently added item(s)","Derniers articles ajoutés"
+"Recipient:","Destinataire :"
+"Register and save time!","Gagnez du temps !"
+"Registered notification about approved payment.","Notification enregistré au sujet de paiement approuvé."
+"Registered notification about denied payment.","Notification enregistré sur le paiement refusé."
+"Register to Create an Account","Enregistrez-vous pour créer un compte"
+"Register with us for future convenience:","Enregistrez-vous et profitez de nombreux avantages :"
+"Regular Payment","Paiement régulier"
+"Remaining Balance","Solde restant"
+"Remove Email","Supprimer email"
+"Replace Existing Complex Data","Remplacer les données complexes existantes"
+"%s","%s"
+"Save Attribute Set","Sauvegarder le jeu d'attributs"
+"Search Type","Type de recherche"
+"See All (%1 unread)","Voir Tout (%1 non lu(s))"
+"Select a billing address from your address book or enter a new address.","Choisissez une adresse de facturation dans votre carnet d'adresses ou saisissez une nouvelle adresse."
+"Select a shipping address from your address book or enter a new address.","Choisissez une adresse de livraison dans votre carnet d'adresses ou saisissez une <a href=""#"" onclick=""shipping.newAddress(true); return false;"">nouvelle adresse</a>."
+"Select Configurable Attributes","Sélectionnez les attributs configurables"
+" Send auto-generated password","  Envoyé un mot de passe généré"
+"Send From","Envoyé de"
+"Send Welcome Email","Envoyer un email de bienvenue"
+"Send Welcome Email after Confirmation","Envoyer un mail de bienvenue après la confirmation"
+"SEO & Search","SEO & Recherche"
+"Session Start Time","Début de session"
+"Set as Default Billing Address","Définir comme adresse de facturation par défaut"
+"Set as Default Shipping Address","Définir comme adresse de livraison par défaut"
+"Set Product as New from Date","Nouveauté depuis le"
+"Set Product as New to Date","Nouveauté jusqu'au"
+"Shipping method has not been selected yet","Le mode de livraison n'a pas encore été choisi"
+"Shipping selection is not applicable.","Le choix de livraison n'est pas applicable."
+"Ship to different address","Livrer à une autre adresse"
+"Ship to this address","Livrer à cette adresse"
+"Shopping Cart Price Rules","Règles de prix panier"
+"Shortcut on Product View","Raccourci sur le produit Voir"
+"Shortcut on Shopping Cart","Raccourci sur le panier"
+"Short Description","Description courte"
+"Show / Hide Editor","Afficher/masquer l'éditeur"
+"Show VAT Number on Frontend","Afficher le numéro de TVA sur le frontend"
+"Small Image","Petite image"
+"Source file moving failed","Erreur lors du déplacement du fichier source"
+"Source is not set","La source n'est pas définie"
+"Special Price From Date","Prix spécial à partir du"
+"Special Price To Date","Prix spécial jusqu'au"
+"%s - %s","%s - %s"
+"SSL Error: Invalid or self-signed certificate","Erreur SSL: Certificat invalide ou auto-signé"
+"Start date cannot be greater than end date.","La date de début doit être antérieure à la date de fin."
+"Stock Status","État du stock"
+"Street address is required.","Adresse requise."
+"Subscription ID is invalid.","ID de souscription invalide."
+"Suffix","Suffixe"
+"Summary of Your Review","Résumé de votre commentaire"
+"Summary Text for Aggregated Cart","Texte récapitulatif sur les paniers validés"
+"Symbol","Symbole"
+"System doesn't allow to get file upload settings","Le système ne permet pas d'obtenir les paramètres d'upload du fichier"
+"System Log File Name","Nom de fichier de logs système"
+"Tax amount is an invalid format.","Le montant de la taxe est dans un format invalide."
+"Taxes","Taxes"
+"TB","To"
+"Template Path Hints","Astuce chemin des gabarits"
+"Text length does not satisfy specified text range.","La longueur du texte ne satisfait pas la plage de texte spécifiée."
+"The account has been saved.","Le compte a été sauvegardé."
+"The account information has been saved.","Les informations du compte ont été sauvegardées."
+"The address has been deleted.","L'adresse a été supprimée."
+"The address has been saved.","L'adresse a été sauvegardée."
+"The block has been deleted.","Le bloc a bien été effacé."
+"The block has been saved.","Le bloc a bien été enregistré."
+"The condition has been deleted.","Condition supprimée."
+"The condition has been saved.","La condition a été sauvegardée."
+"The coupon code was canceled.","Le coupon de réduction a été annulé."
+"the credit memo email is not sent","l'email n'a pas été envoyé"
+"The customer group has been deleted.","Le groupe clients a été supprimé."
+"The customer group has been saved.","Le groupe clients a été sauvegardé."
+"The customer is currently assigned to Customer Group %s.","Le client est actuellement assigné au groupe client %s."
+"The database and media backup has been created.","La sauvegarde de la base de données et des media a bien été créée."
+"The database backup has been created.","La sauvegarde de la base de données a bien été créée."
+"The Date of Birth is required.","La date de naissance est obligatoire."
+"The email address is empty.","L'email est vide."
+"The email template has been deleted.","Le gabarit d'email a été supprimé."
+"The email template has been saved.","Le gabarit d'email a été sauvegardé."
+"The gift message has been saved.","Le message cadeau a bien été sauvegardé."
+"the invoice email is not sent","l'email n'a pas été envoyé"
+"The invoice no longer exists.","La facture n'existe plus."
+"The message cannot be empty.","Le message ne peut pas être vide."
+"Theme Version","Version du Thème"
+"The onepage checkout is disabled.","Le passage de commande en une seule page est désactivé."
+"The page has been saved.","La page a bien été enregistrée."
+"The payment eCheck is not yet cleared.","Le chèque électronique de paiement n'est pas encore effacée."
+"The payment update has been made.","La mise à jour du paiement a été effectuée."
+"The product attribute has been deleted.","L'attribut de produit a été effacé."
+"There are no items in customer's shopping cart at the moment","Aucun article dans le panier du client"
+"There are no items in customer's wishlist at the moment","Aucun article dans la liste d'envies du client"
+"There are no products matching the selection.","Aucun produit ne correspond à la sélection"
+"There are rules that have been changed but were not applied. Please, click Apply Rules in order to see immediate effect in the catalog.","Certaines règles ont changé mais n'ont pas pu être appliquées. Cliquez sur 'Appliquer les règles' afin d'en voir le résultat immédiat."
+"There is already a registered customer using this email address. Please log in using this email address or enter a different email address to register your account.","Il existe déjà un client avec cette adresse email. Veuillez vous connecter avec cette adresse email ou saisir une adresse email différente pour créer votre compte ."
+"There is no need to deny this payment.","Il n'est pas nécessaire de refuser ce paiement."
+"The review summary field can't be empty.","Le résumé de l'avis ne peut être vide."
+"There was an error canceling transactions. Please contact us or try again later.","Erreur lors de l'annulation de transactions. Veuillez nous contacter ou réessayez ultérieurement."
+"There was an error validating the VAT ID.","Erreur lors de la validation du numéro de TVA."
+"The rules have been applied.","Les règles ont bien été appliquées."
+"The selected backup(s) has been deleted.","Les sauvegardes sélectionnées ont été effacées."
+"The sender name cannot be empty.","Le nom de l'expéditeur ne peut pas être vide."
+"The sitemap has been deleted.","Le plan de site a bien été effacé."
+"The sitemap has been saved.","Le plan de site a bien été enregistrée."
+"The store has been deleted.","Le magasin a été supprimé."
+"The store has been saved.","Le magasin a été sauvegardé."
+"The store view has been deleted.","La vue magasin a été supprimée."
+"The store view has been saved","La vue magasin a été sauvegardée."
+"The system backup has been created.","La sauvegarde du système a été créée."
+"The tax rate has been deleted.","Le taux de taxe a été supprimé."
+"The tax rate has been saved.","Le taux de taxe a été sauvegardé."
+"The tax rule has been saved.","La règle de taxe a été sauvegardée."
+"The TAX/VAT number is required.","Le numéro de TVA est obligatoire."
+"The template Name must not be empty.","Le nom du gabarit ne doit pas être vide."
+"The user name cannot be empty.","Le nom de l'utilisateur ne peut être vide."
+"The website has been deleted.","Le site web a été supprimé."
+"The website has been saved.","Le site web a été sauvegardé."
+"This account is locked.","Ce compte est bloqué"
+"This attribute cannot be deleted.","Cet attribut ne peut pas être supprimé."
+"This date is a required value.","Cette date est obligatoire."
+"This email will be sent instead of default welcome email, after account confirmation.","Cet email sera envoyé à la place de l'email de bienvenue, après la confirmation de création du compte."
+"This operation requires an existing transaction object.","Cette opération nécessite l'existance d'une transaction."
+"This section is not allowed.","Cette section n'est pas autorisée."
+"Tier Price","Prix par quantité"
+"To cancel pending authorizations and release amounts that have already been processed during this payment, click Cancel.","Pour annuler les autorisations en cours et libérer les montants déjà prélevés pendant ce processus, cliquez sur Annuler."
+"To Fixed Amount","Nouveau prix en montant fixe"
+"Token is invalid.","Jeton Invalide"
+"Top 5 Search Terms","5 termes les plus recherchés"
+"To Percentage of the Original Price","Pourcentage du prix original"
+"To proceed to Checkout, please log in using your email address.","Pour continuer la commande, veuillez vous connecter en utilisant votre email."
+"To show VAT number on frontend, set Show VAT Number on Frontend option to Yes.","Pour afficher le numéro de TVA dans le frontend, réglez l'option d'affichage du numéro de TVA dans le frontend à Oui."
+"Total %1 records found","%1 enregistrements trouvés"
+"Transaction type is required.","Type de transaction requis."
+"Translate, blocks and other output caches should be disabled for both frontend and admin inline translations.","Les caches de traduction, de blocs et autres sorties doivent être désactivés pour utiliser la traduction en ligne."
+"translation to the same value","traduction de la même valeur"
+"Try another card","Veuillez essayer une autre carte"
+"Two and more slashes together are not permitted in request path","Il n'est pas autorisé d'utiliser 2 slashes ou plus à la suite dans le chemin de requête."
+"Unable to apply rules.","Impossible d'appliquer les règles."
+"Unable to find a rule to delete.","Impossible de trouver la règle à supprimer."
+"Unable to proceed. Please, try again.","Impossible de continuer. Veuillez réessayer ultérieurement."
+"Unable to send password reset email.","Impossible d'envoyer l'email de réinitialisation du mot de passe"
+"unverified","non vérifié"
+"Update Items and Qty's","Mettre à jour les articles et quantités"
+"Update Prices Using the Following Information","Mettre à jour les prix en utilisant l'information suivante"
+"Update Total","Mettre à jour le total"
+"Uploaded file has no extension","Le fichier uploadé n'a pas d'extension"
+"Upload HTTP Error","Erreur HTTP de téléchargement"
+"Upload I/O Error","Erreur entrée/Sortie de téléchargement"
+"Upload Security Error","Erreur de sécurité de téléchargement"
+"Use Billing Address","Utiliser l'adresse de facturation"
+"Used as Default For","Utilisé par défaut pour"
+"Used Currently For","Utilisé actuellement pour"
+"Use in Advanced Search","Utiliser dans la recherche avancée"
+"Use in Quick Search","Utiliser dans la recherche rapide"
+"User Content","Contenus des Utilisateurs"
+"User Roles","Rôles utilisateurs"
+"Use Secure URLs in Frontend","Utiliser des URLs sécurisées pour le front office (mon compte et passage de commande)"
+"Use SID on Frontend","Utiliser un SID dans le front office"
+"Uses store frontend name by default.","Utiliser le nom du magasin par défaut."
+"Use To Create Configurable Product","Utiliser pour créer un produit configurable"
+"UTF-8 is the only supported charset.","Seul UTF-8 est supporté"
+"Variation Label","Libellé Variation"
+"Variations","Variations"
+"VAT Number is Invalid","Le numéro de TVA est invalide"
+"verified","vérifié"
+"View All Reviews","Voir tous les commentaires"
+"View cart","Voir le Panier"
+"Viewed","Vu"
+"Visible In","Visible dans"
+"Visible on Frontend","Visible sur le site coté client"
+"Visitors Only","Visiteurs seulement"
+"Void action is not available.","L'action 'annuler' n'est pas disponible."
+"Website code may only contain letters (a-z), numbers (0-9) or underscore(_), the first character must be a letter","Le code de site web ne doit contenir que des lettres (a-z), des chiffres (0-9) ou underscore (_). Le premier caractère doit être une lettre."
+"Website is not specified","Site web non spécifié"
+"Website Payments Standard","PayPal Standard"
+"Website Payments Standard Payment","Paiement PayPal Standard"
+"Websites must be specified.","Les sites web doivent être spécifiés."
+"We cannot detect a size.","Détection de taille impossible."
+"We can't update wish list.","Impossible de mettre à jour la liste d'envies."
+"Welcome","Bienvenue"
+"We sent the message.","Message envoyé."
+"Widget Instance","Instance de widget"
+"Widget Instance Title","Titre de l'instance de widget"
+"Wishlist - %1 item(s)","Liste d'envies - %1 article(s)"
+"Wish List could not be created.","La liste d'envies n'a pas été crée."
+"Wrong transactional account email type","Le type d'email de compte transactionnel est erroné"
+"You are currently not subscribed to any newsletter.","Vous n'êtes abonné à aucune newsletter."
+"You are currently not subscribed to our newsletter.","Vous n'êtes pas abonné(e) à notre newsletter"
+"You are currently subscribed to 'General Subscription'.","Vous êtes abonné à 'Abonnement général'"
+"You are now logged out","Vous vous êtes déconnecté(e)."
+"You are receiving this notification because you subscribed to receive alerts when the following products are back in stock:","Vous recevez cette alerte car vous avez demandé à être alerté quand les produits suivants sont de nouveau disponibles :"
+"You are receiving this notification because you subscribed to receive alerts when the prices for the following products changed:","Vous recevez cette alerte car vous avez demandé à être alerté quand les produits suivants sont modifiés :"
+"You can buy this product only in increments of %1.","Vous ne pouvez acheter ce produit que par quantité de %1."
+"You can leave this box blank if you do not wish to add a gift message for the item.","Laissez vide si vous ne souhaitez pas ajouter de message cadeau pour l'article."
+"You can leave this box blank if you do not wish to add a gift message for this address.","Laissez vide si vous ne souhaitez pas ajouter de message cadeau pour cette adresse."
+"You have been unsubscribed.","Vous n'êtes plus inscrit(e) à la newsletter."
+"You have logged out and will be redirected to our homepage in 5 seconds.","Vous vous êtes déconnecté(e) et vous serez redirigé(e) vers la page d'accueil dans 5 secondes."
+"You have no additional address entries in your address book.","Vous n'avez pas d'entrées supplémentaires dans votre carnet d'adresses."
+"You may also be interested in the following product(s)","Vous pourriez également être intéressé par le(s) produit(s) suivant(s)"
+"You need to specify order items.","Vous devez spécifier les articles de la commande."
+"Your design change for the specified store intersects with another one, please specify another date range.","Votre changement de design pour le magasin spécifié interfère avec un autre. Spécifiez une autre tranche de dates."
+"Your order cannot be completed at this time as there is no payment methods available for it.","Vous ne pouvez pas continuer votre commande car aucun mode de paiement n'est disponible."
+"Your order cannot be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address.","Vous ne pouvez pas continuer votre commande car aucun mode de livraison n'est disponible pour votre adresse."
+"Your order # is: %1.","ID de votre commande: %1."
+"Your review has been accepted for moderation.","Votre commentaire a été accepté pour modération."
+"Your Review (submitted on %1):","Votre avis (soumis sur %1):"
+"Your search returns no results.","Aucun résultat pour votre recherche."
+"Your web server is configured incorrectly. As a result, configuration files with sensitive information are accessible from the outside. Please contact your hosting provider.","Votre serveur web est mal configuré. Les fichiers de configuration comportant des informations sensibles sont accessibles de l'extérieur. Consultez votre hébergeur."
+"Youtube or Vimeo supported","Youtube ou Vimeo supportés"
+"You will be redirected to the PayPal website in a few seconds.","Vous serez redirigé vers le site de PayPal dans quelques secondes."
+"You will have to log in after you save your custom admin path.","Vous devrez vous reconnecter après avoir enregistré le chemin personnalisé."
+"You will receive an order confirmation email with details of your order and a link to track its progress.","Vous allez recevoir un mail de confirmation avec les détails de votre commande ainsi qu'un lien pour suivre son avancement."
+"YYYY","AAAA"
+"Zip code should not contain characters other than digits.","Le code postal ne doit contenir que des chiffres."
