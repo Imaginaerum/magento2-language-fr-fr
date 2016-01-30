@@ -1,7 +1,7 @@
 {
     "name": "imaginaerum/magento2-language-fr-fr",
     "description": "Magento2 French Language Pack (fr_FR)",
-    "version": "100.3.0",
+    "version": "100.3.1",
     "type": "magento2-language",
     "license": [
         "MIT"
