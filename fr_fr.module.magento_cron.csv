@@ -1,4 +1,4 @@
-"Cron configuration options for group: ","Options de configuration du CRON du groupe:  "
+"Cron configuration options for group: ","Options de configuration du CRON du groupe: "
 "Cron (Scheduled Tasks) - all the times are in minutes","Cron (Tâches programmées) - tous les temps sont en minutes"
 "Daily","Quotidien"
 "Failure History Lifetime","Durée de vie de l'historique des échecs"
@@ -14,5 +14,5 @@
 "Schedule Ahead for","Programmer en avance de"
 "Success History Lifetime","Durée de vie de l'historique des succès"
 "Use Separate Process","Utiliser des processus séparés"
-"We can't save the cron expression.","Impossible de sauvegarder l'expression du CRON"
+"We can't save the cron expression.","Impossible de sauvegarder l'expression du CRON."
 "Weekly","Hebdomadaire"
