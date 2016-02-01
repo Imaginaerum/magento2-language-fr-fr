@@ -59,6 +59,7 @@
 "We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","Nous ne possédons pas suffisamment de ""%1"" pour honorer votre demande, alors nous mettrons en réapprovisionnement les %2 restant(s)."
 "We don't have as many ""%1"" as you requested.","Nous ne possédons pas suffisament de ""%1"" pour honorer votre demande."
 "We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","Nous ne possédons pas suffisamment de ""%1"" pour honorer votre demande, mais nous mettrons en réapprovisionnement les %2 restants."
+"You can buy %1 only in increments of %2.","Vous pouvez acheter %1 uniquement par quantité de %2."
 "You can buy %1 only in quantities of %2 at a time.","Vous pouvez acheter %1 uniquement par quantité de %2."
 "You can buy this product only in increments of %1.","Vous ne pouvez acheter ce produit que par quantité de %1."
 "You can buy this product only in quantities of %1 at a time.","Vous pouvez acheter ce produit uniquement par quantité de %1."

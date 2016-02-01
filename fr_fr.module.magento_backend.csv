@@ -211,6 +211,7 @@
 "Export block for grid %1 is not defined","Le bloc d'export pour la grille %1 n'est pas défini"
 "Export to:","Exporter vers:"
 "Extensions","Extensions"
+"File extension not known or unsupported type.","Extension de fichier non reconnue ou non supportée."
 "File System","Système de Fichiers"
 "Find a string in client user-agent header and switch to specific design theme for that browser.","Analyse une chaîne dans l'en-tête ""User-Agent"" par le navigateur client et sélectionne un design spécifique pour ce navigateur."
 "First Day of Week","Premier Jour de la Semaine"

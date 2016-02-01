@@ -120,6 +120,7 @@
 "The header column names are already set.","Les noms de colonnes d'en-tête sont déjà définis."
 "The import was successful.","L'importation a réussi."
 "The input entity code is not equal to entity adapter code.","Le code entrée d'entité ne correspond pas au code de l'adaptateur de l'entité."
+"There is no data for export","Aucune donnée à exporter"
 "There is no data for the export.","Il n'existe aucune données pour l'exportation."
 "There is no sample file for this entity.","Il n'y a pas de fichier d'exemple pour cette entité."
 "The source file moving process failed.","Le processus de déplacement du fichier source a échoué."

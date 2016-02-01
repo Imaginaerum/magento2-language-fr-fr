@@ -52,5 +52,6 @@
 "We can't find any items matching these search criteria.","Nous ne pouvons pas trouver tous les éléments correspondant à ces critères de recherche."
 "Yes","oui"
 "yes","oui"
+"Your search query can't be longer than %1, so we had to shorten your query.","La longueur de votre recherche ne peut excéder %1, nous avons donc réduit votre requête."
 "Your search returned no results.","Votre recherche n'a donné aucun résultat."
 "Your search returns no results.","Aucun résultat pour votre recherche."
