@@ -99,6 +99,7 @@
 "Total incl. tax","Total TTC",module,Magento_Bundle
 "Use Default Value","Utiliser la valeur par défaut",module,Magento_Bundle
 "User Defined","Défini par l'utilisateur",module,Magento_Bundle
+"We cannot add this item to your shopping cart.","Impossible d'ajouter cet article dans le panier.",module,Magento_Bundle
 "We can't add this item to your shopping cart right now.","Impossible d'ajouter ce produit au panier.",module,Magento_Bundle
 "What are you looking for?","Que recherchez-vous ?",module,Magento_Bundle
 "Your Customization","Votre personnalisation",module,Magento_Bundle

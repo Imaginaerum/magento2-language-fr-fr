@@ -34,7 +34,9 @@
 "Anchor Custom Title","Présenter un titre personnalisé",module,Magento_Sales
 "An error occurred while assigning order status. Status has not been assigned.","Erreur lors de l'assignation du statut de commande. Le statut n'a pas pu être assigné.",module,Magento_Sales
 "An item object is not specified.","Un article n'est pas spécifié.",module,Magento_Sales
+"An order with subscription items was registered.","Une commande avec abonnement à été enregistrée.",module,Magento_Sales
 "Any","TOUT",module,Magento_Sales
+"A payment method must be specified.","Une méthode de paiement doit être spécifiée.",module,Magento_Sales
 "A PDF object is not specified.","L'objet PDF n'est pas spécifié.",module,Magento_Sales
 "A PDF page object is not specified.","La Page PDF n'est pas spécifié.",module,Magento_Sales
 "Append Comments","Ajouter les commentaires",module,Magento_Sales
@@ -725,6 +727,7 @@
 "Website","Site Web",module,Magento_Sales
 "We canceled %1 order(s).","Annulation de %1 commande(s).",module,Magento_Sales
 "We cannot add order history.","Impossible d'ajouter un commentaire à l'historique.",module,Magento_Sales
+"We cannot add this item to your shopping cart.","Impossible d'ajouter cet article dans le panier.",module,Magento_Sales
 "We cannot cancel this order.","Impossible d'annuler cette commande.",module,Magento_Sales
 "We cannot create an empty shipment.","Impossible de créer une expédition vide.",module,Magento_Sales
 "We cannot determine the field name.","Impossible de déterminer le nom du champ.",module,Magento_Sales

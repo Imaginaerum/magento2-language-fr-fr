@@ -14,6 +14,7 @@
 "Integrations API configuration file.","Intégrations API du fichier de configuration.",module,Magento_Webapi
 "Invalid XML","XML invalide",module,Magento_Webapi
 "Invalid XML: Detected use of illegal DOCTYPE","XML invalide: Détection d'une utilisation illégale de DOCTYPE",module,Magento_Webapi
+"Magento is not yet installed","Magento n'est pas installé",module,Magento_Webapi
 "Magento Web API","API Web Magento",module,Magento_Webapi
 "Message","Message",module,Magento_Webapi
 "message","message",module,Magento_Webapi

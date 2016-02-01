@@ -6,7 +6,9 @@
 "Add Products to Option ""%1""","Ajouter les produits à l'option ""%1""",module,Magento_Translation
 "Add Selected Products","Ajouter les produits sélectionnés",module,Magento_Translation
 "Allow","Autoriser",module,Magento_Translation
+"Are you sure you want to delete the folder named","Etes vous sûr(e) de vouloir supprimer le dossier",module,Magento_Translation
 "Are you sure you want to delete this address?","Êtes-vous sûr(e) de vouloir effacer cette adresse ?",module,Magento_Translation
+"Assign theme to your live store-view:","Assigner un thème à la vue magasin:",module,Magento_Translation
 "B","B",module,Magento_Translation
 "Cancel","Annuler",module,Magento_Translation
 "Card type does not match credit card number.","Le type de carte ne correspond pas au numéro de carte.",module,Magento_Translation

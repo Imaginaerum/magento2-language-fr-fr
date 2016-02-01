@@ -22,6 +22,7 @@
 """%1"" uses too many characters.","""%1"" utilise trop de caractères.",module,Magento_Customer
 """%1"" width exceeds allowed value of %2 px.","La largeur de ""%1"" excède la valeur de %2 px.",module,Magento_Customer
 "Account already active","Compte déjà actif",module,Magento_Customer
+"Account confirmation is required. Please, check your email for the confirmation link. To resend the confirmation email please <a href=""%1"">click here</a>.","Confirmation de compte requise. Veuillez vérifier vos emails pour obtenir le lien de confirmation. Pour recevoir à nouveau la confirmation, <a href=""%1"">cliquez ici</a>.",module,Magento_Customer
 "Account Created:","Compte Créé:",module,Magento_Customer
 "Account Created in","Compte créé dans",module,Magento_Customer
 "Account Created in:","Compte créé dans:",module,Magento_Customer
@@ -53,12 +54,15 @@
 "A login and a password are required.","Un identifiant et un mot de passe sont nécessaires.",module,Magento_Customer
 "Always optional.","Toujours optionnel.",module,Magento_Customer
 "An error occurred while deleting the address.","Erreur lors de la suppression de l'adresse.",module,Magento_Customer
+"An error occurred while editing the customer.","Une erreur s'est produite lors de l’édition du client.",module,Magento_Customer
+"An error occurred while resetting customer password.","Une erreur s'est produite lors de la réinitialisation du mot de passe.",module,Magento_Customer
 "An error occurred while saving the customer.","Erreur lors de la sauvegarde du client.",module,Magento_Customer
 "A problem was encountered trying to change password.","Problème rencontré lors du changement de mot de passe.",module,Magento_Customer
 "Are you sure that you want to remove this item?","Êtes-vous sûr(e) de vouloir retirer cet article?",module,Magento_Customer
 "Are you sure to assign selected customers to new group?","Etes-vous sûr(e) de vouloir assigner les clients sélectionnés au nouveau groupe?",module,Magento_Customer
 "Are you sure to delete selected customers?","Êtes-vous sûr(e) de vouloir supprimer les clients sélectionnés?",module,Magento_Customer
 "Are you sure to unsubscribe selected customers from newsletter?","Êtes-vous sûr(e) de vouloir désinscrire les clients sélectionnés à la newsletter?",module,Magento_Customer
+"Are you sure you want to delete?","Etes vous sur(e) de vouloir supprimer?",module,Magento_Customer
 "Are you sure you want to delete this address?","Êtes-vous sûr(e) de vouloir effacer cette adresse ?",module,Magento_Customer
 "Are you sure you want to delete this item?","Êtes-vous sûr(e) de bien vouloir supprimer cet élément?",module,Magento_Customer
 "Are you sure you want to do this?","Êtes-vous sûr(e) de vouloir faire cela?",module,Magento_Customer

@@ -1,5 +1,6 @@
 "'%1' file extension is not supported","'%1' extension de fichier non supportée",module,Magento_ImportExport
 "Adapter must be an instance of MagentoImportExportModelImportAbstractSource","Adapter doit être une instance de \Magento\ImportExport\Model\Import\AbstractSource",module,Magento_ImportExport
+"Adapter object must be an instance of %1","L'objet de l'Adapter doit être une instance de %1",module,Magento_ImportExport
 "Additional data","Donnée additionnelle",module,Magento_ImportExport
 "Add/Update","Ajouter/Mettre à jour",module,Magento_ImportExport
 "Add/Update Complex Data","Ajouter/Mettre à jour des données complexes",module,Magento_ImportExport
@@ -29,6 +30,7 @@
 "Download","télécharger",module,Magento_ImportExport
 "Download full report","Téléchargez le rapport complet",module,Magento_ImportExport
 "Download Sample File","Télécharger le fichier d'exemple",module,Magento_ImportExport
+"Entity adapter object must be an instance of %1 or %2","L'objet de l'Adapter doit être une instance de %1 ou %2",module,Magento_ImportExport
 "Entity Attributes","Attributs d'entité",module,Magento_ImportExport
 "Entity is unknown","L'entité est inconnue",module,Magento_ImportExport
 "Entity Type","Type d'entité",module,Magento_ImportExport
@@ -46,6 +48,7 @@
 "File does not contain data. Please upload another one","Le fichier ne contient pas de données. Veuillez en uploader un autre",module,Magento_ImportExport
 "File format is unknown","Le format de fichier n'est pas reconnu",module,Magento_ImportExport
 "File is partially valid, but import is not possible","Le fichier est partiellement valide, mais l'import est impossible",module,Magento_ImportExport
+"File is totally invalid. Please fix errors and re-upload file.","Fichier invalide. Veuillez corriger les erreurs et le re-uploader.",module,Magento_ImportExport
 "File is valid, but import is not possible","Le fichier est valide, mais l'import est impossible",module,Magento_ImportExport
 "File is valid! To start import process press ""Import"" button","Le fichier est valide. Cliquez sur le bouton ""Importer"" pour démarrer le processus d'import",module,Magento_ImportExport
 "File to Import","Fichier à importer",module,Magento_ImportExport

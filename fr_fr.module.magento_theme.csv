@@ -143,7 +143,9 @@
 "We cannot find a theme with id ""%1"".","Impossible de trouver le thème avec l'ID ""%1"".",module,Magento_Theme
 "We cannot find theme ""%1"".","Impossible de trouver le thème : ""%1"".",module,Magento_Theme
 "We cannot find the theme.","Impossible de trouver le thème.",module,Magento_Theme
+"We cannot upload the CSS file.","Impossible d'uploader le fichier CSS.",module,Magento_Theme
 "We cannot upload the file.","Upload du fichier impossible.",module,Magento_Theme
+"We cannot upload the JS file.","Impossible d'uploader le fichier JS.",module,Magento_Theme
 "We can't delete root directory %1 right now.","Impossible de supprimer le répertoire racine %1.",module,Magento_Theme
 "We can't find file.","Impossible de trouver le fichier.",module,Magento_Theme
 "We can't upload the CSS file right now.","Impossible d'uploader le fichier CSS.",module,Magento_Theme

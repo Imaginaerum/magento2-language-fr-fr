@@ -2,6 +2,7 @@
 "1 item","1 article",module,Magento_Checkout
 "%1 items","%1 articles",module,Magento_Checkout
 "%1 was updated in your shopping cart.","%1 a été mis à jour dans votre panier.",module,Magento_Checkout
+"Account confirmation is required. Please, check your e-mail for confirmation link. To resend confirmation email please <a href=""%1"">click here</a>.","Confirmation de compte requise. Veuillez vérifier vos emails pour obtenir le lien de confirmation. Pour recevoir à nouveau la confirmation, <a href=""%1"">cliquez ici</a>.",module,Magento_Checkout
 "Address","Adresse",module,Magento_Checkout
 "After Adding a Product Redirect to Shopping Cart","Rediriger vers le panier après l'ajout d'un produit",module,Magento_Checkout
 "Allow Guest Checkout","Autoriser le passage de commande en tant qu'invité",module,Magento_Checkout
@@ -197,8 +198,12 @@
 "View cart","Voir le Panier",module,Magento_Checkout
 "View Details","Voir les détails",module,Magento_Checkout
 "We adjusted product quantities to fit the required increments.","Nous avons ajusté les quantités de produits pour adapter les incréments nécessaires.",module,Magento_Checkout
+"We cannot add this item to your shopping cart","Impossible d'ajouter cet article dans le panier.",module,Magento_Checkout
 "We cannot apply the coupon code.","Nous ne pouvons pas appliquer le code promo.",module,Magento_Checkout
 "We cannot configure the product.","Nous ne pouvons pas configurer le produit.",module,Magento_Checkout
+"We cannot remove the item.","Impossible de supprimer cet article.",module,Magento_Checkout
+"We cannot update the item.","Impossible de mettre à jour cet article.",module,Magento_Checkout
+"We cannot update the shopping cart.","Impossible de mettre à jour le panier.",module,Magento_Checkout
 "We can't add this item to your shopping cart right now.","Impossible d'ajouter ce produit au panier.",module,Magento_Checkout
 "We can't find the product.","Impossible de trouver le produit.",module,Magento_Checkout
 "We can't find the quote item.","Impossible de trouver le commentaire du produit.",module,Magento_Checkout

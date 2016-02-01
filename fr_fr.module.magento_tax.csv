@@ -5,6 +5,7 @@
 "Add New Tax Rule","Ajouter une nouvelle règle",module,Magento_Tax
 "After Discount","Après remise",module,Magento_Tax
 "An error occurred","Une erreur est survenue",module,Magento_Tax
+"An error occurred while deleting this tax rate.","Une erreur s'est produite lors de la suppression du taux de taxe.",module,Magento_Tax
 "An error occurred while loading this tax rate.","Une erreur s'est produite lors du chargement de ce taux de taxe.",module,Magento_Tax
 "Apply Customer Tax","Appliquer la taxe client",module,Magento_Tax
 "Apply discount on price including tax is calculated based on store tax, if ""Apply Tax after Discount"" is selected.","L’application du montant de réduction sur les prix TTC est calculée sur la base de la taxe du magasin si ""Appliquer les taxes après la remise"" est sélectionnée.",module,Magento_Tax

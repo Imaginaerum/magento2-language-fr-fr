@@ -111,6 +111,7 @@
 "Attribute Set already exists.","Jeu d'attribut déjà existant.",module,Magento_Catalog
 "Attribute Sets","Jeux d'attributs",module,Magento_Catalog
 "Attribute Set with name '%1' already exists.","Un jeu d'attributs avec le nom '%1' existe déjà.",module,Magento_Catalog
+"Attribute with the same code (%1) already exists.","Un attribut avec le même code (%1) existe déjà.",module,Magento_Catalog
 "Automatic (equalize price ranges)","Automatique (égalise les tranches de prix)",module,Magento_Catalog
 "Automatic (equalize product counts)","Automatique (égalise le nombre de produits)",module,Magento_Catalog
 "Autosettings","Réglages automatiques",module,Magento_Catalog
@@ -168,6 +169,7 @@
 "Clear Price","Effacer le prix",module,Magento_Catalog
 "Click for price","Cliquez pour afficher le prix",module,Magento_Catalog
 "Click here or drag and drop to add images.","Cliquez ici ou glisser-déposer pour ajouter des images.",module,Magento_Catalog
+"Click on image to view it full sized","Cliquez sur l'image pour la voir en taille réelle.",module,Magento_Catalog
 "Click on image to zoom","Cliquez sur l'image pour zoomer",module,Magento_Catalog
 "Close panel","Fermer le panel",module,Magento_Catalog
 "Close Window","Fermer la Fenêtre",module,Magento_Catalog
@@ -280,6 +282,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "ex. http://domain.com","Par ex: http://domaine.com",module,Magento_Catalog
 "Expand All","Tout Développer",module,Magento_Catalog
 "Failed to save new media gallery entry.","Échec de l'enregistrement de  la galerie.",module,Magento_Catalog
+"Field ""%1"" was not found in DO ""%2"".","Champs ""%1"" introuvable dans DO ""%2"".",module,Magento_Catalog
 "Field is not complete","Champ non complet",module,Magento_Catalog
 "File '%1' is not an image.","Le fichier '%1' n'est pas une image.",module,Magento_Catalog
 "File extension not known or unsupported type.","Extension de fichier non reconnue ou non supportée.",module,Magento_Catalog
@@ -388,6 +391,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Max Characters","Nombre maxi de caractères",module,Magento_Catalog
 "Maximal Depth","Profondeur maxi",module,Magento_Catalog
 "Maximum 255 chars","255 caractères minimum",module,Magento_Catalog
+"Maximum allowed image size for '%1' is %2x%3 px.","La taille image maximale autorisée pour '%1' est %2x%3 px.",module,Magento_Catalog
 "Maximum image height","Hauteur maximum d'image",module,Magento_Catalog
 "Maximum Image Size","Taille d'image maximum",module,Magento_Catalog
 "Maximum image width","Largeur maximum d'image",module,Magento_Catalog
@@ -660,6 +664,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "The attribute model is not defined.","Le modèle d'attribut n'est pas défini.",module,Magento_Catalog
 "The attribute set has been removed.","Le jeu d'attributs a été supprimé.",module,Magento_Catalog
 "The BuyRequest instance in options group is incorrect.","L'instance BuyRequest du groupe d'options est incorrecte.",module,Magento_Catalog
+"The category must be an instance of MagentoCatalogModelCategory.","La catégorie doit être une instance de MagentoCatalogModelCategory.",module,Magento_Catalog
 "The configuration item instance in options group is incorrect.","L'instance d'élément de configuration dans le groupe d'options est incorrecte.",module,Magento_Catalog
 "The configuration item option instance in options group is incorrect.","L'instance de l'option d'élément de configuration dans le groupe d'options est incorrecte.",module,Magento_Catalog
 "The field isn't complete.","Champ incomplet.",module,Magento_Catalog

@@ -17,6 +17,7 @@
 "Enabled for Checkout","Activé pour Commander",module,Magento_Fedex
 "Europe First Priority","Prioritaire Europe",module,Magento_Fedex
 "Express Saver","Express Économe",module,Magento_Fedex
+"Failed to parse xml document: %1","Impossible de parcourir le document xml: %1",module,Magento_Fedex
 "FedEx 10kg Box","Colis 10kg FedEx",module,Magento_Fedex
 "FedEx 25kg Box","Colis 25kg FedEx",module,Magento_Fedex
 "FedEx","FedEx",module,Magento_Fedex

@@ -5,7 +5,9 @@
 "E-mail is invalid","Email invalide",module,Magento_CustomerImportExport
 "E-mail is not specified","Email non spécifié",module,Magento_CustomerImportExport
 "Excel XML","XML Excel",module,Magento_CustomerImportExport
+"Invalid password length","Longueur du mot de passe invalide.",module,Magento_CustomerImportExport
 "Invalid value in Store column (store does not exists?)","Valeur invalide dans la colonne ""Magasin"" (le magasin n'existe peut-être pas ?)",module,Magento_CustomerImportExport
+"Invalid value in website column","Valeur de colonne site web invalide",module,Magento_CustomerImportExport
 "Orphan rows that will be skipped due default row errors","Lignes ophelines qui seront ignorées en raison d'erreurs",module,Magento_CustomerImportExport
 "Please enter a password with a valid length.","Veuillez renseigner un mot de passe avec une longueur valide.",module,Magento_CustomerImportExport
 "Please enter a valid email.","Veuillez saisir une adresse email valide.",module,Magento_CustomerImportExport

@@ -37,6 +37,7 @@
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée.",module,Magento_Email
 "Email Templates","Gabarits d'email",module,Magento_Email
 "Error filtering template: %s","Erreur lors du traitement du gabarit: %s",module,Magento_Email
+"Failed to load template. See error log for details.","Impossible de charger le template. Veuillez consulter les logs pour plus de détails.",module,Magento_Email
 """file"" parameter must be specified","le paramètre ""file"" doit être renseigné",module,Magento_Email
 """file"" parameter must be specified and must not be empty","Le paramètre ""file"" doit être renseigné et ne peut pas être vide",module,Magento_Email
 "Footer Template","Gabarit du pied de page",module,Magento_Email

@@ -19,6 +19,11 @@
 "Add to Compare","Ajouter au comparateur",module,Magento_Wishlist
 "Add to Wishlist","Ajouter à ma liste d'envie",module,Magento_Wishlist
 "Add to Wish List","Ajouter à ma liste d'envie",module,Magento_Wishlist
+"An error occurred while adding item to wish list: %1","Une erreur s'est produite lors de l'ajout à la liste d'envies du produit: %1",module,Magento_Wishlist
+"An error occurred while adding item to wish list.","Une erreur s'est produite lors de l'ajout de l'article à la liste d'envies.",module,Magento_Wishlist
+"An error occurred while deleting the item from wish list: %1","Une erreur s'est produite lors de la suppression de l'article de la liste d'envies: %1",module,Magento_Wishlist
+"An error occurred while deleting the item from wish list.","Une erreur s'est produite lors de la suppression de l'article de la liste d'envies.",module,Magento_Wishlist
+"An error occurred while updating wish list.","Une erreur s'est produite lors de la mise à jour de la liste d'envies.",module,Magento_Wishlist
 "An item option with code %1 already exists.","Une option article avec le code %1 existe déjà.",module,Magento_Wishlist
 "Are you sure that you want to remove this item?","Êtes-vous sûr(e) de vouloir retirer cet article?",module,Magento_Wishlist
 "Are you sure you want to remove this item?","Êtes-vous sûr de vouloir supprimer cet article ?",module,Magento_Wishlist
@@ -109,6 +114,7 @@
 "View all Wish List items","Voir tous les articles de la liste d'envies",module,Magento_Wishlist
 "View Details","Voir les détails",module,Magento_Wishlist
 "View Product","Voir le Produit",module,Magento_Wishlist
+"We cannot add this item to your shopping cart.","Impossible d'ajouter cet article dans le panier.",module,Magento_Wishlist
 "We cannot retrieve the Wish List.","Impossible de récuperer la liste d'enVies.",module,Magento_Wishlist
 "We can't add the item to the cart right now.","Impossible d'ajouter le produit au panier.",module,Magento_Wishlist
 "We can't add the item to Wish List right now: %1.","Impossible d'ajouter l'article à la liste d'envies: %1.",module,Magento_Wishlist

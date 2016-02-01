@@ -6,6 +6,7 @@
 "Action","Action",module,Magento_CatalogSearch
 "Advanced Search","Recherche Avancée",module,Magento_CatalogSearch
 "All","Tous",module,Magento_CatalogSearch
+"Applies for ""Like"" search type only","Appliquez pour les recherches de type ""Like"" seulement",module,Magento_CatalogSearch
 "Apply Layered Navigation if Search Results are Less Than","Appliquer la navigation par filtre si les résultats de recherche sont inférieurs à",module,Magento_CatalogSearch
 "Are you sure?","Êtes-vous sûr(e)?",module,Magento_CatalogSearch
 "Bucket do not exists","Le bucket n'existe pas",module,Magento_CatalogSearch

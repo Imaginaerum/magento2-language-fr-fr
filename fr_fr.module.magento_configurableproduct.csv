@@ -1,8 +1,10 @@
 "%","%",module,Magento_ConfigurableProduct
 "Actions","Actions",module,Magento_ConfigurableProduct
 "Add configurable attributes to the current Attribute Set (""%1"")","Ajouter un attribut configurable au groupe d'attribut actuel (""%1"")",module,Magento_ConfigurableProduct
+"Add configurable attributes to the current set (""<span data-role=""name-container"">%1</span>"")","Ajouter des attributs configurables au jeu d'attributs (""<span data-role=""name-container"">%1</span>"")",module,Magento_ConfigurableProduct
 "Add configurable attributes to the existing Attribute Set","Ajouter un attribut configurable au groupe d'attribut existant",module,Magento_ConfigurableProduct
 "Add configurable attributes to the new Attribute Set based on current","Ajouter des attributs configurables au nouveau jeu d'attributs sur la jeu d'attributs courant",module,Magento_ConfigurableProduct
+"Add configurable attributes to the new set based on current","Ajouter des attributs configurables au jeu d'attributs",module,Magento_ConfigurableProduct
 "Add Option","Ajouter une option",module,Magento_ConfigurableProduct
 "Add Products Manually","Ajouter les produits manuellement",module,Magento_ConfigurableProduct
 "Alt Text","Texte Alternatif",module,Magento_ConfigurableProduct
@@ -49,6 +51,7 @@
 "Create Empty","Créer vide",module,Magento_ConfigurableProduct
 "Create New Attribute","Créer un Nouvel Attribut",module,Magento_ConfigurableProduct
 "Create New Value","Créez une Nouvelle Valeur",module,Magento_ConfigurableProduct
+"Create New Variation Set","Créer un nouveau jeu de variations",module,Magento_ConfigurableProduct
 "Create Product Configurations","Créer des configurations de produit",module,Magento_ConfigurableProduct
 "Current Variations","Variations actuelles",module,Magento_ConfigurableProduct
 "Delete","Supprimer",module,Magento_ConfigurableProduct
@@ -60,6 +63,7 @@
 "File extension not known or unsupported type.","Extension de fichier non reconnue ou non supportée.",module,Magento_ConfigurableProduct
 "For better results, add attributes and attribute values to your products.","Pour de meilleurs résultats, ajouter des attributs et des valeurs d'attribut à vos produits.",module,Magento_ConfigurableProduct
 "Generate Products","Générer les Produits",module,Magento_ConfigurableProduct
+"Generate Variations","Générer Variations",module,Magento_ConfigurableProduct
 "Hidden","Caché",module,Magento_ConfigurableProduct
 "Hide from Product Page","Cacher sur la page du produit",module,Magento_ConfigurableProduct
 "ID","ID",module,Magento_ConfigurableProduct

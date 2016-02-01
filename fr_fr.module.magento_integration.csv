@@ -23,6 +23,7 @@
 "Cannot convert to access token due to token is not request type","Vous ne pouvez pas convertir le jeton en raison du type d'autorisation qui n'a pas demandé le type",module,Magento_Integration
 "Cannot create request token because consumer token is not a verifier token","Vous ne pouvez pas créer de demande d'authentification car l'API n'a pas été vérifiée",module,Magento_Integration
 "Cannot get access token because consumer token is not a request token","Impossible d'obtenir le jeton d'accès car l'API n'est pas une requête identifiable",module,Magento_Integration
+"Cleanup entries older than X minutes.","Nettoyer les entrées plus vielles de X minutes.",module,Magento_Integration
 "Cleanup Probability","Probabilité de nettoyage",module,Magento_Integration
 "Cleanup Settings","Paramètres de nettoyage",module,Magento_Integration
 "Consumer Key","Clé API",module,Magento_Integration

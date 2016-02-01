@@ -100,6 +100,7 @@
 "label","libellé",module,Magento_Eav
 "Letters","Lettres",module,Magento_Eav
 "Letters (a-z, A-Z) or Numbers (0-9)","Lettres (a-z, A-Z) ou chiffres (0-9)",module,Magento_Eav
+"Maximum length of attribute code must be less than %1 symbols","La longueur maximale du code attribut est de %1 symboles",module,Magento_Eav
 "Multiple Select","Sélection multiple",module,Magento_Eav
 "No","Non",module,Magento_Eav
 "None","aucun",module,Magento_Eav
