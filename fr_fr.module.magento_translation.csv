@@ -127,5 +127,7 @@
 "Upload Security Error","Erreur de sécurité de téléchargement",module,Magento_Translation
 "We don't recognize or support this file extension type.","Le type de fichier n'est pas reconnu ou n'est pas autorisé.",module,Magento_Translation
 "Yes","oui",module,Magento_Translation
+"You must select items to copy","Veuillez sélectionner les objets à copier",module,Magento_Translation
+"You must select items to move","Veuillez sélectionner les objets à déplacer",module,Magento_Translation
 "Your order cannot be completed at this time as there is no payment methods available for it.","Vous ne pouvez pas continuer votre commande car aucun mode de paiement n'est disponible.",module,Magento_Translation
 "Your order cannot be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address.","Vous ne pouvez pas continuer votre commande car aucun mode de livraison n'est disponible pour votre adresse.",module,Magento_Translation

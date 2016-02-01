@@ -7,6 +7,7 @@
 "Actions","Actions",module,Magento_AdminNotification
 "Are you sure?","Êtes-vous sûr(e)?",module,Magento_AdminNotification
 "A total of %1 record(s) have been marked as Read.","%1 message(s) marqué(s) comme lu(s).",module,Magento_AdminNotification
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. It is highly recommended to change this value in your Magento <a href=""%1"">configuration</a>.","Il n'est pas recommandé d'utiliser la variable {{base_url}} en production pour spécifier les URLs de base (sécurisée et non-sécurisée). Il est fortement recommandé de modifier cette valeur dans la <a href=""%1"">configuration</a> de Magento.",module,Magento_AdminNotification
 "{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","Il n'est pas recommandé d'utiliser la variable {{base_url}} en production pour spécifier les URLs de base (sécurisée et non-sécurisée). Il est fortement recommandé de modifier cette valeur dans la <a href=""%1"">configuration</a> de Magento.",module,Magento_AdminNotification
 "Cancel","Annuler",module,Magento_AdminNotification
 "close","fermer",module,Magento_AdminNotification

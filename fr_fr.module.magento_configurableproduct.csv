@@ -23,6 +23,7 @@
 "Based on your selections <span class=""new-products-count"" data-bind=""text:countVariations""></span>
         new products will be created. Use this step to customize images and price for your new products.","Sur la base de vos sélections <span class=""new-products-count"" data-bind=""text:countVariations""></span>
         les nouveaux produits seront créés. Utilisez cette étape pour personnaliser les images et les prix de vos nouveaux produits .",module,Magento_ConfigurableProduct
+"begin typing to add value","Commencez à saisir pour ajouter une valeur",module,Magento_ConfigurableProduct
 "Browse Files...","Parcourir les fichiers...",module,Magento_ConfigurableProduct
 "Browse to find or drag image here","Parcourir les fichiers ou glisser l'image ici",module,Magento_ConfigurableProduct
 "Bulk Images &amp; Price","Action de masse Images &amp; Prix",module,Magento_ConfigurableProduct

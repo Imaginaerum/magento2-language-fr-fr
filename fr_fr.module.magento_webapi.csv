@@ -4,6 +4,8 @@
 "Authentication header is absent.","L'en-tête d'authentification est manquant.",module,Magento_Webapi
 "Available APIs","APIs Disponibles",module,Magento_Webapi
 "Cannot perform GET operation with store code 'all'","Impossible d'effectuer l'opération GET avec le code Magasin 'all'",module,Magento_Webapi
+"Content-Type header is empty.","Content-Type de l'entête vide.",module,Magento_Webapi
+"Content-Type header is invalid.","Content-Type de l'entête invalide.",module,Magento_Webapi
 "Custom","Personnalisé",module,Magento_Webapi
 "Decoding error: %1%2%3%4","Décodage de l'erreur: %1%2%3%4",module,Magento_Webapi
 "Decoding error.","Décodage de l'erreur.",module,Magento_Webapi
@@ -24,6 +26,7 @@
 "Operation allowed only in HTTPS","Opération autorisée uniquement en HTTPS",module,Magento_Webapi
 "Request does not match any route.","La requête ne correspond à aucune route.",module,Magento_Webapi
 "Requested service is not available: ""%1""","Le service demandé n'est pas dispobible: ""%1""",module,Magento_Webapi
+"Request method is invalid.","Méthode de requête invalide.",module,Magento_Webapi
 "Resource Access","Accès aux ressources",module,Magento_Webapi
 "Resources","Ressources",module,Magento_Webapi
 "REST and SOAP configurations, generated WSDL file.","Configurations REST et SOAP, fichier WSDL généré.",module,Magento_Webapi

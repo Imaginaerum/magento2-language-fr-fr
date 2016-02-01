@@ -291,6 +291,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Fixed","Fixé",module,Magento_Catalog
 "fl","fl",module,Magento_Catalog
 "For internal use","Pour un usage interne",module,Magento_Catalog
+"For internal use. Must be unique with no spaces. Maximum length of attribute code must be less than %1 symbols","Pour usage interne: Doit être unique et sans espaces. La longueur maximale du code de l'attribut doit être de %1 caractères",module,Magento_Catalog
 "For the last time placed.","Lors de la dernière requête.",module,Magento_Catalog
 "<label class=""label""><span>from</span></label>","<label class=""label""><span>du</span></label>",module,Magento_Catalog
 "Frontend","Frontend",module,Magento_Catalog
@@ -669,6 +670,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "The configuration item option instance in options group is incorrect.","L'instance de l'option d'élément de configuration dans le groupe d'options est incorrecte.",module,Magento_Catalog
 "The field isn't complete.","Champ incomplet.",module,Magento_Catalog
 "The file '%1' for '%2' has an invalid extension.","Le fichier '%1' pour '%2' a une extension invalide.",module,Magento_Catalog
+"The file '%1' is invalid. Please choose another one","Fichier ""%1"" invalide. Veuillez en choisir un autre",module,Magento_Catalog
 "The file '%1' you uploaded is larger than the %2 megabytes allowed by our server.","Le fichier ""%1"" que vous avez téléchargé est plus grand que les %2 mégaoctets permises par notre serveur.",module,Magento_Catalog
 "The file options format is not valid.","Le format du fichier des options est invalide.",module,Magento_Catalog
 "The file upload failed.","Le chargement du fichier a échoué.",module,Magento_Catalog
@@ -813,6 +815,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "You already have an identical search term query.","Il existe déjà une requête de recherche identique.",module,Magento_Catalog
 "You are about to delete all products in this attribute set. Are you sure you want to do that?","Vous êtes sur le point de supprimer tous les produits possédant ce jeu attribut. Êtes-vous sûr de vouloir faire ça?",module,Magento_Catalog
 "You can't remove attributes from this attribute set.","Vous ne pouvez pas supprimer les attributs depuis ce jeu d'attribut.",module,Magento_Catalog
+"You can't update your attribute.","Impossible de mettre à jour l'attribut.",module,Magento_Catalog
 "You cleared the comparison list.","Vous avez vidé la liste de comparaison.",module,Magento_Catalog
 "You deleted the category.","Catégorie supprimée.",module,Magento_Catalog
 "You deleted the product attribute.","Vous avez supprimé l'attribut du produit.",module,Magento_Catalog

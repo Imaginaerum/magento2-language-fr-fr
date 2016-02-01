@@ -10,6 +10,7 @@
 "No","Non",module,Magento_EncryptionKey
 "Not supported cipher version","Version de cipher non supportée",module,Magento_EncryptionKey
 "Please enter an encryption key.","Veuillez renseigner une clé de chiffrement.",module,Magento_EncryptionKey
+"The encryption key format is invalid.","Format de clé de chiffrement invalide.",module,Magento_EncryptionKey
 "The encryption key has been changed.","La clé de chiffrement a été modifiée.",module,Magento_EncryptionKey
 "The encryption key is used to protect passwords and other sensitive data.","La clé de chiffrement est utilisée pour protéger les mots de passe et autres données sensibles.",module,Magento_EncryptionKey
 "The generated key will be displayed after changing.","La clé générée sera affichée après avoir été changée.",module,Magento_EncryptionKey

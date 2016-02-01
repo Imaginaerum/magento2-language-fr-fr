@@ -108,6 +108,7 @@
 "Checkout Cart Page","Page Panier",module,Magento_Paypal
 "Checkout with PayPal","Commander avec PayPal",module,Magento_Paypal
 "Choose a secure bundled payment solution for your business.","Choisissez une solution de paiement sécurisé pour votre entreprise.",module,Magento_Paypal
+"Click here if you are not redirected within 10 seconds.","Cliquez ici si vous n'êtes pas redirigé d'ici 10 secondes",module,Magento_Paypal
 "Close","Fermer",module,Magento_Paypal
 "CNPJ","CNPJ",module,Magento_Paypal
 "Complaint","Réclamation",module,Magento_Paypal

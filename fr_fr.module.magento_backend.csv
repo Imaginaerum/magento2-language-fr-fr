@@ -103,6 +103,10 @@
 "Category:","Catégorie:",module,Magento_Backend
 "Changes have been made to this section that have not been saved.","Des modifications ont été apportées à cette section qui n'a pas été encore sauvegardée.",module,Magento_Backend
 "Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","Les données graphiques sont désactivées. Cliquez <a href=""%1"">ici</a> pour les activer.",module,Magento_Backend
+"Chosen category does not associated with the chosen store.","La catégorie n'est pas associée au magasin.",module,Magento_Backend
+"Chosen cms page does not associated with any website.","La page CMS n'est pas associée à un site web.",module,Magento_Backend
+"Chosen cms page does not associated with the chosen store.","La page CMS n'est pas associée à un magasin.",module,Magento_Backend
+"Chosen product does not associated with the chosen store or category.","Le produit n'est pas associée au magasin ou une catégorie.",module,Magento_Backend
 "City","Ville",module,Magento_Backend
 "Clear","Vider",module,Magento_Backend
 "Close","Fermer",module,Magento_Backend

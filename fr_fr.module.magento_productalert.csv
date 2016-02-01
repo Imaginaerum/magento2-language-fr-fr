@@ -2,6 +2,7 @@
 "Alert subscription has been saved.","L'inscription à l'alerte a été sauvegardée.",module,Magento_ProductAlert
 "Allow Alert When Product Comes Back in Stock","Autoriser l'alerte de disponibilité de produit",module,Magento_ProductAlert
 "Allow Alert When Product Price Changes","Autoriser l'alerte de changement de prix",module,Magento_ProductAlert
+"Click here not to receive alerts for this product.","Cliquez ici pour ne plus recevoir d'alertes pour ce produit.",module,Magento_ProductAlert
 "Click here to stop alerts for this product.","Cliquez ici pour vous désinscrire des alertes pour ce produit.",module,Magento_ProductAlert
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée.",module,Magento_ProductAlert
 "Error Email Recipient","Destinataire du mail d'erreur",module,Magento_ProductAlert

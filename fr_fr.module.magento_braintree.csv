@@ -20,21 +20,35 @@
 "Amount must be greater than zero","Le montant doit être supérieur à zéro",module,Magento_Braintree
 "Authorize","autoriser",module,Magento_Braintree
 "Authorize and Capture","Autoriser et collecter",module,Magento_Braintree
+"Avs Postal Code Response Code","Réponse AVS code postal",module,Magento_Braintree
+"Avs Street Address Response Code","Réponse AVS adresse",module,Magento_Braintree
 "Back","Retour",module,Magento_Braintree
 "Basic Braintree Settings","Paramètres de base Braintree",module,Magento_Braintree
 "Be sure to Enable Advanced Fraud Protection in Your Braintree Account in Settings/Processing Section","Assurez-vous d'activer la protection avancée de fraude dans votre compte Braintree dans la section ""Settings/Processing""",module,Magento_Braintree
 "Billing Address","Adresse de facturation",module,Magento_Braintree
+"Billing address ID is invalid.","ID Adresse de facturation invalide.",module,Magento_Braintree
+"Billing day of month cannot be updated","Le jour de facturation ne peut être mis à jour",module,Magento_Braintree
+"Billing day of month is invalid","Le jour de facturation est invalide",module,Magento_Braintree
+"Billing day of month must be numeric","Le jour de facturation doit être un nombre",module,Magento_Braintree
 "Braintree","Braintree",module,Magento_Braintree
+"Cannot cancel release","Impossible d'annuler la diffusion",module,Magento_Braintree
+"Cannot edit a canceled subscription.","Impossible d'éditer un abonnement annulé.",module,Magento_Braintree
+"Cannot edit expired subscription","Impossible d'éditer un abonnement expiré.",module,Magento_Braintree
 "Can not find original authorization transaction for partial capture","Impossible de trouver l'autorisation de transaction initiale pour la capture partielle",module,Magento_Braintree
+"Cannot hold in escrow","Impossible de bloquer",module,Magento_Braintree
+"Cannot partially refund escrowed transaction","Impossible de faire un remboursement partiel sur une transaction bloquée",module,Magento_Braintree
+"Cannot release from escrow","Impossible de diffuser",module,Magento_Braintree
 "Capture action","Action de capture",module,Magento_Braintree
 "Cardholder Name","Nom du titulaire de la carte",module,Magento_Braintree
 "Cardholder name is too long.","Nom du titulaire de la carte trop long.",module,Magento_Braintree
 "Card Number","Numéro de Carte",module,Magento_Braintree
 "Card Verification Number","Numéro de cryptogramme",module,Magento_Braintree
 "Card Verification Number Visual Reference","Référence visuelle numérique de vérification de carte",module,Magento_Braintree
+"Channel is too long","Chaîne trop longue",module,Magento_Braintree
 "Check card details or try another card","Veuillez vérifier la carte ou en essayer une autre",module,Magento_Braintree
 "City","Ville",module,Magento_Braintree
 "<a href=""https://www.braintreegateway.com/login"" target=""_blank"">Click here to login to your existing Braintree account</a>. Or to setup a new account and accept payments on your website, <a href=""https://apply.braintreegateway.com/signup/us"" target=""_blank"">click here to signup for a Braintree account</a>.","<a href=""https://www.braintreegateway.com/login"" target=""_blank"">Cliquez ici pour vous connecter à cotre compte Braintree</a>. Pour créer un compte Braintree, <a href=""https://apply.braintreegateway.com/signup/us"" target=""_blank"">cliquez ici</a>.",module,Magento_Braintree
+"Client Side Encryption Key","Clé de chiffrement côté client",module,Magento_Braintree
 "Company","Société",module,Magento_Braintree
 "Company is invalid","Nom de la société invalide",module,Magento_Braintree
 "Company is too long.","Le nom de la société est trop long.",module,Magento_Braintree
@@ -55,9 +69,14 @@
 "Credit card successfully updated","Carte Bancaire mise à jour",module,Magento_Braintree
 "Credit card token is taken.","Carte Bancaire prise en compte.",module,Magento_Braintree
 "Credit Card Type","Type de Carte de Crédit",module,Magento_Braintree
+"Credit card type is not accepted by this merchant account.","Type de carte de crédit non acceptée avec ce compte marchand.",module,Magento_Braintree
 "Credit card type is not allowed for this payment method.","Le type de carte bancaire n'est pas autorisé pour ce mode de paiement.",module,Magento_Braintree
 "Credit card type is not allowed for your country.","Type de carte bancaire non autorisés pour votre pays.",module,Magento_Braintree
 "Credit Card Types","Types de Carte de Crédit",module,Magento_Braintree
+"Customer ID is invalid.","ID client invalide.",module,Magento_Braintree
+"Custom field is invalid","Champs personnalisé invalide.",module,Magento_Braintree
+"Custom field is invalid.","Champs personnalisé invalide.",module,Magento_Braintree
+"Custom field is too long.","Champs personnalisé trop long.",module,Magento_Braintree
 "CVV","CVV",module,Magento_Braintree
 "CVV is required.","L'entrée CVV est requise.",module,Magento_Braintree
 "CVV must be 3 or 4 digits.","L'entrée CVV doit contenir 3 ou 4 chiffres.",module,Magento_Braintree
@@ -83,7 +102,9 @@
 "Expiration Date","Date d'Expiration",module,Magento_Braintree
 "Expiration date is invalid.","Date d'expiration invalide.",module,Magento_Braintree
 "Expiration date is required.","Date d'expiration requise.",module,Magento_Braintree
+"Expiration date year is invalid.","Année de date d'expiration invalide.",module,Magento_Braintree
 "Expiration month is invalid.","Le mois d'expiration est invalide.",module,Magento_Braintree
+"Expiration year is invalid.","Année de date d'expiration invalide.",module,Magento_Braintree
 "Extended Address","Extension d'adresse",module,Magento_Braintree
 "Extended address is invalid","Extension d'adresse invalide",module,Magento_Braintree
 "Extended address is too long.","Extension d'adresse trop longue.",module,Magento_Braintree
@@ -127,6 +148,7 @@
 "Payment from Specific Countries","Mode de paiement autorisé pour les pays spécifiques",module,Magento_Braintree
 "Payment Information","Informations de paiement",module,Magento_Braintree
 "PayPal through Braintree","PayPal via Braintree",module,Magento_Braintree
+"Plan ID is invalid.","ID Plan invalide.",module,Magento_Braintree
 "Please agree to all the terms and conditions before placing the order.","Veuillez accepter les conditions générales de ventes avant de valider la commande.",module,Magento_Braintree
 "Please confirm that you want to delete this credit card","Veuillez confirmer que vous souhaitez supprimer cette carte de crédit",module,Magento_Braintree
 "Please Select","Faire un Choix",module,Magento_Braintree
@@ -172,7 +194,9 @@
 "Token is invalid.","Jeton Invalide.",module,Magento_Braintree
 "Transaction declined: ","Transaction refusée: ",module,Magento_Braintree
 "Transaction declined by gateway: Check card details or try another card","Transaction refusée par la passerelle: Voir détails de la carte ou essayez une autre carte",module,Magento_Braintree
+"Transaction type is invalid.","Type de transaction invalide.",module,Magento_Braintree
 "Transaction type is required.","Type de transaction requis.",module,Magento_Braintree
+"Trial duration unit is invalid.","Unité de période d'essai invalide.",module,Magento_Braintree
 "Try another card","Veuillez essayer une autre carte",module,Magento_Braintree
 "Type","Type",module,Magento_Braintree
 "Typing in a credit card number will automatically select the credit card type","Saisissez le numéro de carte de crédit sélectionnera automatiquement le type de carte",module,Magento_Braintree

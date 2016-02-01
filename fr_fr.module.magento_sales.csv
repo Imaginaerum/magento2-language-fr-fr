@@ -115,6 +115,7 @@
 "Comment added","Commentaire ajouté",module,Magento_Sales
 "Comments History","Historique de commentaires",module,Magento_Sales
 "Comment Text","Texte du commentaire",module,Magento_Sales
+"Comment text cannot be empty.","Le commentaire ne peut être vide.",module,Magento_Sales
 "Company","Société",module,Magento_Sales
 "Complete","Terminée",module,Magento_Sales
 "Configure","Configurer",module,Magento_Sales
@@ -654,6 +655,7 @@
 "The transaction ""%1"" cannot be captured yet.","La transaction ""%1"" ne peut être capturée pour le moment.",module,Magento_Sales
 "The transaction ""%1"" (%2) is already closed.","La transaction ""%1"" (%2) est déjà close.",module,Magento_Sales
 "The transaction details have been updated.","Les détails de la transaction ont été mis à jour.",module,Magento_Sales
+"The Transaction ID field cannot be empty.","Le champs ID de la transaction ne peut être vide.",module,Magento_Sales
 "This item price or quantity is not valid for checkout.","Le prix ou la quantité de cet article est invalide pour commander.",module,Magento_Sales
 "This message will be shown in the shopping cart when the subtotal (after discount) is lower than the minimum allowed amount.","Ce message sera affiché dans le panier lorsque le sous-total (après remise) est inférieur au montant minimum autorisé.",module,Magento_Sales
 "This order already has associated customer account","Cette commande est déjà associée à un compte client",module,Magento_Sales
