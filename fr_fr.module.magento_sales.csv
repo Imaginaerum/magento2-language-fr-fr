@@ -787,6 +787,7 @@
 "You have not put the order on hold.","La commande n'a pas été bloquée."
 "You have placed no orders.","Vous n'avez encore jamais commandé."
 "You have put %1 order(s) on hold.","%1 commande(s) bloquée(s)."
+"You have saved the order status.","Statut commande sauvegardé."
 "You have unassigned the order status.","Staut de commande retiré."
 "You need to specify a shipping method.","Vous devez spécifier une méthode de livraison."
 "You need to specify order items.","Vous devez spécifier les articles de la commande."

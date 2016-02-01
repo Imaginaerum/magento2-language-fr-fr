@@ -31,7 +31,7 @@ Create folder your-magento-path/app/i18n/imaginaerum/fr_fr and extract zip into 
 
 | Total | Translated | Left | Progression |
 | -------------: | -----------------------: | -----------------------: | :---------: |
-| 9815 | 9295 | 520 | ![Progress](http://progressed.io/bar/94) |
+| 9815 | 9296 | 519 | ![Progress](http://progressed.io/bar/94) |
 
 | Key | Total | Translated | Left | Progression |
 | :----- | -------------: | -----------------------: | -----------------------: | :---------: |
@@ -114,7 +114,7 @@ Create folder your-magento-path/app/i18n/imaginaerum/fr_fr and extract zip into 
 | Module Magento_Review | 157 | 151 | 6 | ![Progress](http://progressed.io/bar/96) |
 | Module Magento_Rss | 58 | 54 | 4 | ![Progress](http://progressed.io/bar/93) |
 | Module Magento_Rule | 38 | 38 | 0 | ![Progress](http://progressed.io/bar/100) |
-| Module Magento_Sales | 833 | 806 | 27 | ![Progress](http://progressed.io/bar/96) |
+| Module Magento_Sales | 833 | 807 | 26 | ![Progress](http://progressed.io/bar/96) |
 | Module Magento_SalesRule | 164 | 163 | 1 | ![Progress](http://progressed.io/bar/99) |
 | Module Magento_SalesSequence | 2 | 2 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_Search | 52 | 52 | 0 | ![Progress](http://progressed.io/bar/100) |
