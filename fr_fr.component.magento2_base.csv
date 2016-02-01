@@ -1,24 +1,24 @@
-"Cancel","Annuler"
-"Close","Fermer"
-"Insert Widget...","Insérer un widget..."
-"Loading...","Chargement en cours..."
-"Maximum length of this field must be equal or less than %1 symbols.","La longueur maximale de ce champ doit être inférieure ou égale à %1 caractères."
-"Method ","Méthode "
-"No records found.","Aucun élément trouvé."
-"Original value for Magento_Store module","Valeur originale pour le module Magento_Store"
-"Please enter a date between %min and %max.","Veuillez renseigner une Date comprise entre %min et %max."
-"Please enter a date in the past.","Veuillez saisir une date dans le passé."
-"Please enter a valid day (1-%1).","Veuillez renseigner un jour valide (1-%1)."
-"Please enter a valid year (1900-%1).","Veuillez renseigner une année valide (1-%1)."
-"Please enter a value greater than or equal to %s.","Veuillez renseigner une valeur supérieure ou égale à %s."
-"Please enter a value less than or equal to %s.","Veuillez renseigner une valeur inférieure ou égale à %s."
-"Please wait...","Veuillez patienter..."
-"Recent items","Éléments récents"
-"%s","%s"
-"Save","Sauvegarder"
-"Show all...","Voir tout..."
-"%s - %s","%s - %s"
-"Submit","Envoyer"
-"This is a required field.","Ce champ est obligatoire."
-"Translate","Traduire"
-"translation to the same value","traduction de la même valeur"
+"Cancel","Annuler",component,Magento2_Base
+"Close","Fermer",component,Magento2_Base
+"Insert Widget...","Insérer un widget...",component,Magento2_Base
+"Loading...","Chargement en cours...",component,Magento2_Base
+"Maximum length of this field must be equal or less than %1 symbols.","La longueur maximale de ce champ doit être inférieure ou égale à %1 caractères.",component,Magento2_Base
+"Method ","Méthode ",component,Magento2_Base
+"No records found.","Aucun élément trouvé.",component,Magento2_Base
+"Original value for Magento_Store module","Valeur originale pour le module Magento_Store",component,Magento2_Base
+"Please enter a date between %min and %max.","Veuillez renseigner une Date comprise entre %min et %max.",component,Magento2_Base
+"Please enter a date in the past.","Veuillez saisir une date dans le passé.",component,Magento2_Base
+"Please enter a valid day (1-%1).","Veuillez renseigner un jour valide (1-%1).",component,Magento2_Base
+"Please enter a valid year (1900-%1).","Veuillez renseigner une année valide (1-%1).",component,Magento2_Base
+"Please enter a value greater than or equal to %s.","Veuillez renseigner une valeur supérieure ou égale à %s.",component,Magento2_Base
+"Please enter a value less than or equal to %s.","Veuillez renseigner une valeur inférieure ou égale à %s.",component,Magento2_Base
+"Please wait...","Veuillez patienter...",component,Magento2_Base
+"Recent items","Éléments récents",component,Magento2_Base
+"%s","%s",component,Magento2_Base
+"Save","Sauvegarder",component,Magento2_Base
+"Show all...","Voir tout...",component,Magento2_Base
+"%s - %s","%s - %s",component,Magento2_Base
+"Submit","Envoyer",component,Magento2_Base
+"This is a required field.","Ce champ est obligatoire.",component,Magento2_Base
+"Translate","Traduire",component,Magento2_Base
+"translation to the same value","traduction de la même valeur",component,Magento2_Base

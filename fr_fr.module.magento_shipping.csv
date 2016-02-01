@@ -1,185 +1,185 @@
-"About Your Shipment","À Propos de votre Expédition"
-"Action","Action"
-"Add","Ajouter"
-"Add Package","Ajouter un Colis"
-"Add Products","Ajouter des produits"
-"Add Products to Package","Ajouter des Produits au Colis"
-"Add Selected Product(s) to Package","Ajouter les produits sélectionnés au paquet"
-"Add Tracking Number","Ajouter un numéro de suivi"
-"All Allowed Countries","Tous les Pays Autorisés"
-"An error occurred while creating shipping label.","Erreur lors de la création de l'étiquette de livraison."
-"Append Comments","Ajouter les commentaires"
-"Apply custom Shipping Policy","Appliquer des conditions de livraison personnalisées"
-"Are you sure?","Êtes-vous sûr(e)?"
-"Are you sure you want to send a Shipment email to customer?","Êtes-vous sûr de vouloir envoyer un email d'expédition au client ?"
-"Back to My Orders","Retour à mes commandes"
-"Cancel","Annuler"
-"Cannot add new comment.","Impossible d'ajouter un commentaire."
-"Cannot add tracking number.","Impossible d'ajouter un numéro de suivi."
-"Cannot delete tracking number.","Impossible de supprimer le numéro de suivi."
-"Cannot do shipment for the order.","Impossible de créer une expédition pour la commande."
-"Cannot do shipment for the order separately from invoice.","Impossible de créer une expédition pour la commande séparément de la facture."
-"Cannot initialize shipment for adding tracking number.","Impossible d'initialiser l'expédition pour ajouter le numéro de suivi."
-"Cannot initialize shipment for delete tracking number.","Impossible d'initialiser l'expédition pour supprimer le numéro de suivi."
-"Cannot load track with retrieving identifier.","Impossible de charger le suivi avec l'identifiant."
-"Cannot save shipment.","Impossible de sauvegarder l'expédition."
-"Cannot send shipment information.","Impossible d'envoyer les informations d'expédition."
-"Carrier","Transporteur"
-"Carrier:","Transporteur:"
-"City","Ville"
-"Close Window","Fermer la Fenêtre"
-"cm","cm"
-"Comment Text","Texte du commentaire"
-"contact us","Nous contacter"
-"Contents","Contenus"
-"Country","Pays"
-"Create Packages","Créer les paquets"
-"Create Shipping Label","Créer l'étiquette de livraison"
-"Create Shipping Label...","Créer l'étiquette de livraison..."
-"Customs Value","Valeur Personnalisées"
-"Custom Value","Valeur Personnalisée"
-"Date","Date"
-"Delete","Supprimer"
-"Delete Package","Effacer le paquet"
-"Delivered on:","Livré le:"
-"Delivered to:","Livré à:"
-"Description","Description"
-"Development","Développement"
-"Divide to equal weight (one request)","Diviser en poids égal (une requête)"
-"Email Copy of Shipment","Envoyer une copie de la livraison par mail"
-"Email has not been sent","L'email n'a pas été envoyé"
-"email us at ","nous envoyer un email à "
-"Error:","Erreur:"
-"Explanation","Explication"
-"Fixed","Fixé"
-" for more information or "," pour plus d'information ou "
-"Girth","Circonférence"
-"Height","Hauteur"
-"in","in"
-"Incl. Tax","TTC"
-"Info:","Info:"
-"Invalid carrier: %1","Transporteur invalide : %1"
-"Invalid value(s) for Qty to Ship","Quantité(s) à expédier invalide(s)"
-"Items in the Package","Articles dans le paquet"
-"Items Shipped","Articles expédiés"
-"Items to Ship","Articles à expédier"
-"kg","kg"
-"lb","lb"
-"Length","Longueur"
-"Live","En production"
-"Local Time","Heure Locale"
-"Location","Lieu"
-"message","message"
-"N/A","N/A"
-"New Shipment","Nouvelle Livraison"
-"New Shipment for Order #%1","Nouvelle expédition pour la commande #%1"
-"No detail for number ""%1""","Aucun détail pour le numéro ""%1"""
-"No packages for request","Pas de paquet demandé"
-"No shipping information available","Aucune information de livraison disponible"
-"Number","Numéro"
-"OK","Ok"
-"Order # %1","Commande #%1"
-"Order Total","Total de la commande"
-"Order tracking","Suivi de commande"
-"Origin","Origine"
-"Package","Package"
-"Packages","Packages"
-"Page not found.","Page introuvable."
-"Payment &amp; Shipping Method","Paiement &amp; méthode de livraison"
-"Payment Information","Informations de paiement"
-"Percent","Pourcent"
-"Per Order","Par Commande"
-"Per Package","Par paquet"
-"Please enter a comment.","Veuillez saisir un commentaire."
-"Please enter a tracking number.","Veuillez renseigner un numéro de suivi."
-"Please select products.","Veuillez sélectionner des produits."
-"Please specify a carrier.","Veuillez spécifier un transporteur."
-"Print","Imprimer"
-"Print All Shipments","Imprimer toutes les livraisons"
-"Print Shipment","Imprimer la Livraison"
-"Print Shipping Label","Imprimer l'étiquette de livraison"
-"Product","produit"
-"Product Name","Nom du produit"
-"Products should be added to package(s)","Les produits devraient être ajoutés au(x) paquet(s)"
-"Qty","Qté"
-"Qty Ordered","Qté commandée"
-"Qty Shipped","Qté livrée"
-"Qty to Ship","Qté à Expédier"
-"Region/State","Région/État"
-"Response info is not exist.","Les informations de la réponse n'existent pas."
-"Save","Sauvegarder"
-"Security validation of XML document has been failed.","La validation de sécurité du document XML a été échoué."
-"Select All","sélectionner tout"
-"Send Tracking Information","Envoyer les informations de suivi"
-"Service Type:","Type de Service:"
-"Ship","Expédier"
-"Shipment #%1 | %3 (%2)","Expédition #%1 | %3 (%2)"
-"Shipment #","Expédition #"
-"Shipment Comments","Commentaires de Livraison"
-"Shipment History","Historique de Livraison"
-"Shipment Options","Options d'Expédition"
-"Shipments","Expéditions"
-"Shipment Total","Total de l'expédition"
-"Shipped or billed on:","Livré ou facturé le:"
-"Shipping &amp; Handling Information","Informations de livraison"
-"Shipping and Tracking Information","Informations de livraison et de suivi"
-"Shipping Information","Informations de livraison"
-"Shipping labels is not available.","Les étiquettes d'expédition ne sont pas disponibles."
-"Shipping Methods","Modes de livraison"
-"Shipping Policy","Conditions de livraison"
-"Shipping Policy Parameters","Paramètres des conditions de livraison"
-"Shipping Settings","Paramètres de livraison"
-"Show Packages","Afficher les paquets"
-"Signature Confirmation","Confirmation de Signature"
-"Signed by:","Signé par:"
-"Size","Taille"
-"SKU","SKU"
-"Sorry, but we can't deliver to the destination country with this shipping module.","Désolé, impossible de livrer dans ce pays de destination avec ce module de livraison."
-"Specific Countries","Certains Pays"
-"Status:","Statut:"
-"Street Address","Adresse"
-"Street Address Line 2","Adresse Ligne 2"
-"Submit Shipment","Valider l'expédition"
-"The comment text field cannot be empty.","Le champ texte du commentaire ne peut pas être vide."
-"The order no longer exists.","La commande n'existe plus."
-"The order was placed using %1.","Commande passée en utilisant %1."
-"There are no shipping labels related to selected orders.","Aucune étiquette d'expédition liées aux commandes sélectionnées."
-"There are no shipping labels related to selected shipments.","Aucune étiquette d'expédition liées aux expéditions sélectionnées."
-"There is no tracking available.","Aucun suivi disponible."
-"There is no tracking available for this shipment.","Aucun suivi disponible pour la livraison."
-"the shipment email is not sent","l'email d'expédition n'a pas été envoyé"
-"the shipment email was sent","l'email d'expédition a été envoyé"
-"The shipment has been created.","L'expédition a bien été créée."
-"The shipping module is not available.","Le module de livraison n'est pas disponible."
-"The value that you entered is not valid.","La valeur n'est pas valide."
-"This shipping method is not available. Please specify the zip code.","La méthode de livraison n'est pas disponible. Veuillez spécifier un code postal."
-"Title","Titre"
-"Total Shipping Charges","Montant total de la livraison"
-"Total Weight","Poids Total"
-"Track:","Suivre:"
-"Track history","Historique du Suivi"
-"Tracking Information","Informations de Suivi"
-"Tracking information is currently not available. Please ","Les informations de suivi ne sont pas disponibles pour le moment. Vous pouvez "
-"Tracking information is unavailable.","Les informations de suivi sont indisponibles."
-"Tracking Number:","Numéro de suivi:"
-"Tracking Number(s):","Numéro(s) de suivi:"
-"Track Order","Suivre la Commande"
-"Track this shipment","Suivre cette livraison"
-"Type","Type"
-"Use origin weight (few requests)","Utiliser le poids d'origine (peu de requêtes)"
-"USPS domestic shipments don't use package types.","Les expéditions USPS domestic n'utilisent pas ce type de colis."
-"View Another Order","Voir une Autre Commande"
-"We can't delete tracking number.","Impossible de supprimer le numéro de suivi."
-"We can't initialize shipment for adding tracking number.","Impossible d'initialiser l'expédition pour l'ajout d'un numéro de suivi."
-"We can't initialize shipment for delete tracking number.","Impossible d'initialiser l'expédition pour supprimer le numéro de suivi."
-"We can't load track with retrieving identifier right now.","Impossible de charger le suivi avec l'identifiant."
-"We can't save the shipment right now.","Impossible de sauvegarder l'expédition."
-"We don't have enough information to create shipping labels. Please make sure your store information and settings are complete.","Il manque des informations pour créer des étiquettes d'expédition. Veuillez vérifier que vos informations de magasin et les paramètres sont complets."
-"We don't recognize or support the file extension in this shipment: %1.","L'extension du fichier n'est pas reconnue ou supportée pour l'expédition : %1."
-"Weight:","Poids:"
-"Weight","Poids"
-"Width","Largeur"
-"You are trying to add a quantity for some products that doesn't match the quantity that was shipped.","Vous essayez d'ajouter une quantité de produits qui ne correspond pas à la quantité qui a été expédiée."
-"You created the shipping label.","Etiquette d'expédition créée."
-"You sent the shipment.","Expédition envoyée."
-"ZIP/Postal Code","Code postal"
+"About Your Shipment","À Propos de votre Expédition",module,Magento_Shipping
+"Action","Action",module,Magento_Shipping
+"Add","Ajouter",module,Magento_Shipping
+"Add Package","Ajouter un Colis",module,Magento_Shipping
+"Add Products","Ajouter des produits",module,Magento_Shipping
+"Add Products to Package","Ajouter des Produits au Colis",module,Magento_Shipping
+"Add Selected Product(s) to Package","Ajouter les produits sélectionnés au paquet",module,Magento_Shipping
+"Add Tracking Number","Ajouter un numéro de suivi",module,Magento_Shipping
+"All Allowed Countries","Tous les Pays Autorisés",module,Magento_Shipping
+"An error occurred while creating shipping label.","Erreur lors de la création de l'étiquette de livraison.",module,Magento_Shipping
+"Append Comments","Ajouter les commentaires",module,Magento_Shipping
+"Apply custom Shipping Policy","Appliquer des conditions de livraison personnalisées",module,Magento_Shipping
+"Are you sure?","Êtes-vous sûr(e)?",module,Magento_Shipping
+"Are you sure you want to send a Shipment email to customer?","Êtes-vous sûr de vouloir envoyer un email d'expédition au client ?",module,Magento_Shipping
+"Back to My Orders","Retour à mes commandes",module,Magento_Shipping
+"Cancel","Annuler",module,Magento_Shipping
+"Cannot add new comment.","Impossible d'ajouter un commentaire.",module,Magento_Shipping
+"Cannot add tracking number.","Impossible d'ajouter un numéro de suivi.",module,Magento_Shipping
+"Cannot delete tracking number.","Impossible de supprimer le numéro de suivi.",module,Magento_Shipping
+"Cannot do shipment for the order.","Impossible de créer une expédition pour la commande.",module,Magento_Shipping
+"Cannot do shipment for the order separately from invoice.","Impossible de créer une expédition pour la commande séparément de la facture.",module,Magento_Shipping
+"Cannot initialize shipment for adding tracking number.","Impossible d'initialiser l'expédition pour ajouter le numéro de suivi.",module,Magento_Shipping
+"Cannot initialize shipment for delete tracking number.","Impossible d'initialiser l'expédition pour supprimer le numéro de suivi.",module,Magento_Shipping
+"Cannot load track with retrieving identifier.","Impossible de charger le suivi avec l'identifiant.",module,Magento_Shipping
+"Cannot save shipment.","Impossible de sauvegarder l'expédition.",module,Magento_Shipping
+"Cannot send shipment information.","Impossible d'envoyer les informations d'expédition.",module,Magento_Shipping
+"Carrier","Transporteur",module,Magento_Shipping
+"Carrier:","Transporteur:",module,Magento_Shipping
+"City","Ville",module,Magento_Shipping
+"Close Window","Fermer la Fenêtre",module,Magento_Shipping
+"cm","cm",module,Magento_Shipping
+"Comment Text","Texte du commentaire",module,Magento_Shipping
+"contact us","Nous contacter",module,Magento_Shipping
+"Contents","Contenus",module,Magento_Shipping
+"Country","Pays",module,Magento_Shipping
+"Create Packages","Créer les paquets",module,Magento_Shipping
+"Create Shipping Label","Créer l'étiquette de livraison",module,Magento_Shipping
+"Create Shipping Label...","Créer l'étiquette de livraison...",module,Magento_Shipping
+"Customs Value","Valeur Personnalisées",module,Magento_Shipping
+"Custom Value","Valeur Personnalisée",module,Magento_Shipping
+"Date","Date",module,Magento_Shipping
+"Delete","Supprimer",module,Magento_Shipping
+"Delete Package","Effacer le paquet",module,Magento_Shipping
+"Delivered on:","Livré le:",module,Magento_Shipping
+"Delivered to:","Livré à:",module,Magento_Shipping
+"Description","Description",module,Magento_Shipping
+"Development","Développement",module,Magento_Shipping
+"Divide to equal weight (one request)","Diviser en poids égal (une requête)",module,Magento_Shipping
+"Email Copy of Shipment","Envoyer une copie de la livraison par mail",module,Magento_Shipping
+"Email has not been sent","L'email n'a pas été envoyé",module,Magento_Shipping
+"email us at ","nous envoyer un email à ",module,Magento_Shipping
+"Error:","Erreur:",module,Magento_Shipping
+"Explanation","Explication",module,Magento_Shipping
+"Fixed","Fixé",module,Magento_Shipping
+" for more information or "," pour plus d'information ou ",module,Magento_Shipping
+"Girth","Circonférence",module,Magento_Shipping
+"Height","Hauteur",module,Magento_Shipping
+"in","in",module,Magento_Shipping
+"Incl. Tax","TTC",module,Magento_Shipping
+"Info:","Info:",module,Magento_Shipping
+"Invalid carrier: %1","Transporteur invalide : %1",module,Magento_Shipping
+"Invalid value(s) for Qty to Ship","Quantité(s) à expédier invalide(s)",module,Magento_Shipping
+"Items in the Package","Articles dans le paquet",module,Magento_Shipping
+"Items Shipped","Articles expédiés",module,Magento_Shipping
+"Items to Ship","Articles à expédier",module,Magento_Shipping
+"kg","kg",module,Magento_Shipping
+"lb","lb",module,Magento_Shipping
+"Length","Longueur",module,Magento_Shipping
+"Live","En production",module,Magento_Shipping
+"Local Time","Heure Locale",module,Magento_Shipping
+"Location","Lieu",module,Magento_Shipping
+"message","message",module,Magento_Shipping
+"N/A","N/A",module,Magento_Shipping
+"New Shipment","Nouvelle Livraison",module,Magento_Shipping
+"New Shipment for Order #%1","Nouvelle expédition pour la commande #%1",module,Magento_Shipping
+"No detail for number ""%1""","Aucun détail pour le numéro ""%1""",module,Magento_Shipping
+"No packages for request","Pas de paquet demandé",module,Magento_Shipping
+"No shipping information available","Aucune information de livraison disponible",module,Magento_Shipping
+"Number","Numéro",module,Magento_Shipping
+"OK","Ok",module,Magento_Shipping
+"Order # %1","Commande #%1",module,Magento_Shipping
+"Order Total","Total de la commande",module,Magento_Shipping
+"Order tracking","Suivi de commande",module,Magento_Shipping
+"Origin","Origine",module,Magento_Shipping
+"Package","Package",module,Magento_Shipping
+"Packages","Packages",module,Magento_Shipping
+"Page not found.","Page introuvable.",module,Magento_Shipping
+"Payment &amp; Shipping Method","Paiement &amp; méthode de livraison",module,Magento_Shipping
+"Payment Information","Informations de paiement",module,Magento_Shipping
+"Percent","Pourcent",module,Magento_Shipping
+"Per Order","Par Commande",module,Magento_Shipping
+"Per Package","Par paquet",module,Magento_Shipping
+"Please enter a comment.","Veuillez saisir un commentaire.",module,Magento_Shipping
+"Please enter a tracking number.","Veuillez renseigner un numéro de suivi.",module,Magento_Shipping
+"Please select products.","Veuillez sélectionner des produits.",module,Magento_Shipping
+"Please specify a carrier.","Veuillez spécifier un transporteur.",module,Magento_Shipping
+"Print","Imprimer",module,Magento_Shipping
+"Print All Shipments","Imprimer toutes les livraisons",module,Magento_Shipping
+"Print Shipment","Imprimer la Livraison",module,Magento_Shipping
+"Print Shipping Label","Imprimer l'étiquette de livraison",module,Magento_Shipping
+"Product","produit",module,Magento_Shipping
+"Product Name","Nom du produit",module,Magento_Shipping
+"Products should be added to package(s)","Les produits devraient être ajoutés au(x) paquet(s)",module,Magento_Shipping
+"Qty","Qté",module,Magento_Shipping
+"Qty Ordered","Qté commandée",module,Magento_Shipping
+"Qty Shipped","Qté livrée",module,Magento_Shipping
+"Qty to Ship","Qté à Expédier",module,Magento_Shipping
+"Region/State","Région/État",module,Magento_Shipping
+"Response info is not exist.","Les informations de la réponse n'existent pas.",module,Magento_Shipping
+"Save","Sauvegarder",module,Magento_Shipping
+"Security validation of XML document has been failed.","La validation de sécurité du document XML a été échoué.",module,Magento_Shipping
+"Select All","sélectionner tout",module,Magento_Shipping
+"Send Tracking Information","Envoyer les informations de suivi",module,Magento_Shipping
+"Service Type:","Type de Service:",module,Magento_Shipping
+"Ship","Expédier",module,Magento_Shipping
+"Shipment #%1 | %3 (%2)","Expédition #%1 | %3 (%2)",module,Magento_Shipping
+"Shipment #","Expédition #",module,Magento_Shipping
+"Shipment Comments","Commentaires de Livraison",module,Magento_Shipping
+"Shipment History","Historique de Livraison",module,Magento_Shipping
+"Shipment Options","Options d'Expédition",module,Magento_Shipping
+"Shipments","Expéditions",module,Magento_Shipping
+"Shipment Total","Total de l'expédition",module,Magento_Shipping
+"Shipped or billed on:","Livré ou facturé le:",module,Magento_Shipping
+"Shipping &amp; Handling Information","Informations de livraison",module,Magento_Shipping
+"Shipping and Tracking Information","Informations de livraison et de suivi",module,Magento_Shipping
+"Shipping Information","Informations de livraison",module,Magento_Shipping
+"Shipping labels is not available.","Les étiquettes d'expédition ne sont pas disponibles.",module,Magento_Shipping
+"Shipping Methods","Modes de livraison",module,Magento_Shipping
+"Shipping Policy","Conditions de livraison",module,Magento_Shipping
+"Shipping Policy Parameters","Paramètres des conditions de livraison",module,Magento_Shipping
+"Shipping Settings","Paramètres de livraison",module,Magento_Shipping
+"Show Packages","Afficher les paquets",module,Magento_Shipping
+"Signature Confirmation","Confirmation de Signature",module,Magento_Shipping
+"Signed by:","Signé par:",module,Magento_Shipping
+"Size","Taille",module,Magento_Shipping
+"SKU","SKU",module,Magento_Shipping
+"Sorry, but we can't deliver to the destination country with this shipping module.","Désolé, impossible de livrer dans ce pays de destination avec ce module de livraison.",module,Magento_Shipping
+"Specific Countries","Certains Pays",module,Magento_Shipping
+"Status:","Statut:",module,Magento_Shipping
+"Street Address","Adresse",module,Magento_Shipping
+"Street Address Line 2","Adresse Ligne 2",module,Magento_Shipping
+"Submit Shipment","Valider l'expédition",module,Magento_Shipping
+"The comment text field cannot be empty.","Le champ texte du commentaire ne peut pas être vide.",module,Magento_Shipping
+"The order no longer exists.","La commande n'existe plus.",module,Magento_Shipping
+"The order was placed using %1.","Commande passée en utilisant %1.",module,Magento_Shipping
+"There are no shipping labels related to selected orders.","Aucune étiquette d'expédition liées aux commandes sélectionnées.",module,Magento_Shipping
+"There are no shipping labels related to selected shipments.","Aucune étiquette d'expédition liées aux expéditions sélectionnées.",module,Magento_Shipping
+"There is no tracking available.","Aucun suivi disponible.",module,Magento_Shipping
+"There is no tracking available for this shipment.","Aucun suivi disponible pour la livraison.",module,Magento_Shipping
+"the shipment email is not sent","l'email d'expédition n'a pas été envoyé",module,Magento_Shipping
+"the shipment email was sent","l'email d'expédition a été envoyé",module,Magento_Shipping
+"The shipment has been created.","L'expédition a bien été créée.",module,Magento_Shipping
+"The shipping module is not available.","Le module de livraison n'est pas disponible.",module,Magento_Shipping
+"The value that you entered is not valid.","La valeur n'est pas valide.",module,Magento_Shipping
+"This shipping method is not available. Please specify the zip code.","La méthode de livraison n'est pas disponible. Veuillez spécifier un code postal.",module,Magento_Shipping
+"Title","Titre",module,Magento_Shipping
+"Total Shipping Charges","Montant total de la livraison",module,Magento_Shipping
+"Total Weight","Poids Total",module,Magento_Shipping
+"Track:","Suivre:",module,Magento_Shipping
+"Track history","Historique du Suivi",module,Magento_Shipping
+"Tracking Information","Informations de Suivi",module,Magento_Shipping
+"Tracking information is currently not available. Please ","Les informations de suivi ne sont pas disponibles pour le moment. Vous pouvez ",module,Magento_Shipping
+"Tracking information is unavailable.","Les informations de suivi sont indisponibles.",module,Magento_Shipping
+"Tracking Number:","Numéro de suivi:",module,Magento_Shipping
+"Tracking Number(s):","Numéro(s) de suivi:",module,Magento_Shipping
+"Track Order","Suivre la Commande",module,Magento_Shipping
+"Track this shipment","Suivre cette livraison",module,Magento_Shipping
+"Type","Type",module,Magento_Shipping
+"Use origin weight (few requests)","Utiliser le poids d'origine (peu de requêtes)",module,Magento_Shipping
+"USPS domestic shipments don't use package types.","Les expéditions USPS domestic n'utilisent pas ce type de colis.",module,Magento_Shipping
+"View Another Order","Voir une Autre Commande",module,Magento_Shipping
+"We can't delete tracking number.","Impossible de supprimer le numéro de suivi.",module,Magento_Shipping
+"We can't initialize shipment for adding tracking number.","Impossible d'initialiser l'expédition pour l'ajout d'un numéro de suivi.",module,Magento_Shipping
+"We can't initialize shipment for delete tracking number.","Impossible d'initialiser l'expédition pour supprimer le numéro de suivi.",module,Magento_Shipping
+"We can't load track with retrieving identifier right now.","Impossible de charger le suivi avec l'identifiant.",module,Magento_Shipping
+"We can't save the shipment right now.","Impossible de sauvegarder l'expédition.",module,Magento_Shipping
+"We don't have enough information to create shipping labels. Please make sure your store information and settings are complete.","Il manque des informations pour créer des étiquettes d'expédition. Veuillez vérifier que vos informations de magasin et les paramètres sont complets.",module,Magento_Shipping
+"We don't recognize or support the file extension in this shipment: %1.","L'extension du fichier n'est pas reconnue ou supportée pour l'expédition : %1.",module,Magento_Shipping
+"Weight:","Poids:",module,Magento_Shipping
+"Weight","Poids",module,Magento_Shipping
+"Width","Largeur",module,Magento_Shipping
+"You are trying to add a quantity for some products that doesn't match the quantity that was shipped.","Vous essayez d'ajouter une quantité de produits qui ne correspond pas à la quantité qui a été expédiée.",module,Magento_Shipping
+"You created the shipping label.","Etiquette d'expédition créée.",module,Magento_Shipping
+"You sent the shipment.","Expédition envoyée.",module,Magento_Shipping
+"ZIP/Postal Code","Code postal",module,Magento_Shipping

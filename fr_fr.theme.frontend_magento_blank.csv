@@ -1,7 +1,7 @@
-"Account","Compte"
-"Account Dashboard","Tableau de bord du Compte"
-"Account Information","Informations du Compte"
-"Address Book","Carnet d'adresses"
-"Menu","Menu"
-"Settings","Paramètres"
-"Summary","Résumé"
+"Account","Compte",theme,frontend/Magento/blank
+"Account Dashboard","Tableau de bord du Compte",theme,frontend/Magento/blank
+"Account Information","Informations du Compte",theme,frontend/Magento/blank
+"Address Book","Carnet d'adresses",theme,frontend/Magento/blank
+"Menu","Menu",theme,frontend/Magento/blank
+"Settings","Paramètres",theme,frontend/Magento/blank
+"Summary","Résumé",theme,frontend/Magento/blank

@@ -1,28 +1,28 @@
-"<pre>' . . . . '</pre>","<pre>' . . . . '</pre>"
-"'Add New ' .","'Ajouter ' ."
-"'Gateway error: ' .","'Erreur passerelle: ' ."
-"Integration with ID '%1' doesn't exist.","Intégration avec l'ID '%1' n'existe pas."
-"Invalid backend model specified: ","Model Backend invalide: "
-"'Invalid backend model specified: ' .","'Model Backend invalide: '."
-"'Invalid cookie lifetime: ' .","'Durée de vie du cookie invalide: ' ."
-"'Invalid domain name: ' .","'Nom de domaine invalide: ' ."
-"label_value' 'label_value' 'frontend_label","label_value' 'label_value' 'frontend_label"
-"""Need a New Relic account? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Click here to get one","Besoin d'un compte New Relic ? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Cliquez ici pour en obtenir une</a>"
-"'New ' .","'Nouveau ' ."
-"Path ""%value%"" may not include parent directory traversal (""../"", "".."").","Le chemin ""%value%"" ne doit pas inclure de répertoire parent (""../"", ""..\"")."
-"Priority Mail Express Flat Rate Boxes","Priority Mail Express Flat Rate Boxes"
-"Priority Mail Express Flat Rate Boxes Hold For Pickup","Priority Mail Express Flat Rate Boxes Hold For Pickup"
-"Priority Mail Express International Flat Rate Boxes","Priority Mail Express International Flat Rate Boxes"
-"'Remove ' .","'Supprimer ' ."
-"Standard Post","Standard Post"
-"The configuration parameter ""formElement"" is a required for ""' . . '"" field.","Le paramètre de configuration ""formElement"" est requis pour me champ ""' . . '""."
-"The file ""' . . '"" does not exist","Le fichier ""' . . '"" n'existe pas"
-"The specified image adapter cannot be used because of: ","'L'adaptateur image ne peut être utilisé en raison de: "
-"'The specified image adapter cannot be used because of: ' .","'L'adaptateur image ne peut être utilisé en raison de: ' ."
+"<pre>' . . . . '</pre>","<pre>' . . . . '</pre>",deprecated,Imaginaerum
+"'Add New ' .","'Ajouter ' .",deprecated,Imaginaerum
+"'Gateway error: ' .","'Erreur passerelle: ' .",deprecated,Imaginaerum
+"Integration with ID '%1' doesn't exist.","Intégration avec l'ID '%1' n'existe pas.",deprecated,Imaginaerum
+"Invalid backend model specified: ","Model Backend invalide: ",deprecated,Imaginaerum
+"'Invalid backend model specified: ' .","'Model Backend invalide: '.",deprecated,Imaginaerum
+"'Invalid cookie lifetime: ' .","'Durée de vie du cookie invalide: ' .",deprecated,Imaginaerum
+"'Invalid domain name: ' .","'Nom de domaine invalide: ' .",deprecated,Imaginaerum
+"label_value' 'label_value' 'frontend_label","label_value' 'label_value' 'frontend_label",deprecated,Imaginaerum
+"""Need a New Relic account? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Click here to get one","Besoin d'un compte New Relic ? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Cliquez ici pour en obtenir une</a>",deprecated,Imaginaerum
+"'New ' .","'Nouveau ' .",deprecated,Imaginaerum
+"Path ""%value%"" may not include parent directory traversal (""../"", "".."").","Le chemin ""%value%"" ne doit pas inclure de répertoire parent (""../"", ""..\"").",deprecated,Imaginaerum
+"Priority Mail Express Flat Rate Boxes","Priority Mail Express Flat Rate Boxes",deprecated,Imaginaerum
+"Priority Mail Express Flat Rate Boxes Hold For Pickup","Priority Mail Express Flat Rate Boxes Hold For Pickup",deprecated,Imaginaerum
+"Priority Mail Express International Flat Rate Boxes","Priority Mail Express International Flat Rate Boxes",deprecated,Imaginaerum
+"'Remove ' .","'Supprimer ' .",deprecated,Imaginaerum
+"Standard Post","Standard Post",deprecated,Imaginaerum
+"The configuration parameter ""formElement"" is a required for ""' . . '"" field.","Le paramètre de configuration ""formElement"" est requis pour me champ ""' . . '"".",deprecated,Imaginaerum
+"The file ""' . . '"" does not exist","Le fichier ""' . . '"" n'existe pas",deprecated,Imaginaerum
+"The specified image adapter cannot be used because of: ","'L'adaptateur image ne peut être utilisé en raison de: ",deprecated,Imaginaerum
+"'The specified image adapter cannot be used because of: ' .","'L'adaptateur image ne peut être utilisé en raison de: ' .",deprecated,Imaginaerum
 "We can't save the address:
 %1","Impossible de sauvegarder l'adresse :
-%1"
-"We're sorry, an error has occurred while generating this email.","Désolé, une erreur s'est produite durant la génération de cet email."
+%1",deprecated,Imaginaerum
+"We're sorry, an error has occurred while generating this email.","Désolé, une erreur s'est produite durant la génération de cet email.",deprecated,Imaginaerum
 "<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                                 <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
                                 from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
@@ -32,7 +32,7 @@
                                 <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit&#174;. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
                                 Utilisez les bannières publicitaires gratuites de PayPal Credit&#174; comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
                                 Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
-                                ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>."
+                                ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>.",deprecated,Imaginaerum
 "<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                         <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
                         from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
@@ -42,7 +42,7 @@
                                 <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit&#174;. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
                                 Utilisez les bannières publicitaires gratuites de PayPal Credit&#174; comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
                                 Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
-                                ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>."
+                                ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>.",deprecated,Imaginaerum
 "<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                                             <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
                                             from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
@@ -52,7 +52,7 @@
                                 <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit&#174;. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
                                 Utilisez les bannières publicitaires gratuites de PayPal Credit&#174; comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
                                 Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
-                                ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>."
+                                ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>.",deprecated,Imaginaerum
 "<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                             <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
                             from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
@@ -62,5 +62,5 @@
                                 <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit&#174;. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
                                 Utilisez les bannières publicitaires gratuites de PayPal Credit&#174; comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
                                 Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
-                                ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>."
-"You can't delete the design change.","Vous ne pouvez pas supprimer le changement de design."
+                                ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>.",deprecated,Imaginaerum
+"You can't delete the design change.","Vous ne pouvez pas supprimer le changement de design.",deprecated,Imaginaerum

@@ -1,54 +1,54 @@
-"%1 - Discounts and Coupons","%1 - Remises et Coupons"
-"%1 has reached a quantity of %2.","%1 ayant atteint la quantité de %2."
-"%1 - Special Products","%1 - Produits en promotion"
-"%1's Wishlist","Liste d'envies de %1"
-"Catalog","Catalogue"
-"Category Feeds","Flux de la catégorie"
-"Click for price","Cliquez pour afficher le prix"
-"Comment: %1<br/>","Commentaire: %1<br/>"
-"Comment:","Commentaire:"
-"Coupons/Discounts","Coupons/Réductions"
-"Current Status: %1<br/>","Statut actuel: %1<br/>"
-"Customer Name: %1","Nom du client : %1"
-"Customer Order Status Notification","Notification de statut de commande client"
-"Details for %1 #%2","Détails pour %1 #%2"
-"Discount (%1)","Remise (%1)"
-"Discount","Remise"
-"Enable RSS","Activer le flux RSS"
-"Feed","Flux"
-"From:","De:"
-"Get Feed","Récupérer le Flux"
-"Gift Message","Message Cadeau"
-"Grand Total","Montant Total"
-"Low Stock Products","Produits ayant un faible niveau de stock"
-"Message:","Message:"
-"Miscellaneous Feeds","Flux Divers"
-"New Orders","Nouvelles commandes"
-"New Products","Nouveau produit"
-"New Products from %1","Nouveaux produits de %1"
-"Order #%1 created at %2","Commande #%1 créée le %2"
-"Order # %1 Notification(s)","Notification(s) commande #%1"
-"Page not found.","Page introuvable."
-"Pending product review(s)","Commentaire(s) de produit en attente"
-"Price: %1","Prix: %1"
-"Product: ""%1"" reviewed by: %2","Produits : ""%1"" avis de : %2"
-"Product: <a href=""%1"" target=""_blank"">%2</a> <br/>","Produit : <a href=""%1"" target=""_blank"">%2</a> <br/>"
-"Purchased From: %1","Commandé sur: %1"
-"Review: %1 <br/>","Avis: %1 <br/>"
-"Rss Config","Configuration RSS"
-"RSS Feeds","Flux RSS"
-"Shipping &amp; Handling","Frais de port"
-"Special Expires On: %1","Prix promotionnel jusqu'au : %1"
-"Special Price: %1","Prix Spécial: %1"
-"Special Products","Produits spéciaux"
-"Store: %1 <br/>","Magasin: %1 <br/>"
-"Subscribe to RSS Feed","S'abonner au flux RSS"
-"Subtotal","Sous-Total"
-"Summary of review: %1 <br/>","Résumé de l'avis: %1 <br/>"
-"Tax","Taxe"
-"There are no Rss Feeds.","Aucun flux RSS."
-"To:","À:"
-"Top Level Category","Catégorie de niveau supérieur"
-"Total: %1<br/>","Total: %1<br/>"
-"We cannot retrieve the wish list.","Impossible de récuperer la liste d'enVies."
-"Wishlist","Liste d'enVies"
+"%1 - Discounts and Coupons","%1 - Remises et Coupons",module,Magento_Rss
+"%1 has reached a quantity of %2.","%1 ayant atteint la quantité de %2.",module,Magento_Rss
+"%1 - Special Products","%1 - Produits en promotion",module,Magento_Rss
+"%1's Wishlist","Liste d'envies de %1",module,Magento_Rss
+"Catalog","Catalogue",module,Magento_Rss
+"Category Feeds","Flux de la catégorie",module,Magento_Rss
+"Click for price","Cliquez pour afficher le prix",module,Magento_Rss
+"Comment: %1<br/>","Commentaire: %1<br/>",module,Magento_Rss
+"Comment:","Commentaire:",module,Magento_Rss
+"Coupons/Discounts","Coupons/Réductions",module,Magento_Rss
+"Current Status: %1<br/>","Statut actuel: %1<br/>",module,Magento_Rss
+"Customer Name: %1","Nom du client : %1",module,Magento_Rss
+"Customer Order Status Notification","Notification de statut de commande client",module,Magento_Rss
+"Details for %1 #%2","Détails pour %1 #%2",module,Magento_Rss
+"Discount (%1)","Remise (%1)",module,Magento_Rss
+"Discount","Remise",module,Magento_Rss
+"Enable RSS","Activer le flux RSS",module,Magento_Rss
+"Feed","Flux",module,Magento_Rss
+"From:","De:",module,Magento_Rss
+"Get Feed","Récupérer le Flux",module,Magento_Rss
+"Gift Message","Message Cadeau",module,Magento_Rss
+"Grand Total","Montant Total",module,Magento_Rss
+"Low Stock Products","Produits ayant un faible niveau de stock",module,Magento_Rss
+"Message:","Message:",module,Magento_Rss
+"Miscellaneous Feeds","Flux Divers",module,Magento_Rss
+"New Orders","Nouvelles commandes",module,Magento_Rss
+"New Products","Nouveau produit",module,Magento_Rss
+"New Products from %1","Nouveaux produits de %1",module,Magento_Rss
+"Order #%1 created at %2","Commande #%1 créée le %2",module,Magento_Rss
+"Order # %1 Notification(s)","Notification(s) commande #%1",module,Magento_Rss
+"Page not found.","Page introuvable.",module,Magento_Rss
+"Pending product review(s)","Commentaire(s) de produit en attente",module,Magento_Rss
+"Price: %1","Prix: %1",module,Magento_Rss
+"Product: ""%1"" reviewed by: %2","Produits : ""%1"" avis de : %2",module,Magento_Rss
+"Product: <a href=""%1"" target=""_blank"">%2</a> <br/>","Produit : <a href=""%1"" target=""_blank"">%2</a> <br/>",module,Magento_Rss
+"Purchased From: %1","Commandé sur: %1",module,Magento_Rss
+"Review: %1 <br/>","Avis: %1 <br/>",module,Magento_Rss
+"Rss Config","Configuration RSS",module,Magento_Rss
+"RSS Feeds","Flux RSS",module,Magento_Rss
+"Shipping &amp; Handling","Frais de port",module,Magento_Rss
+"Special Expires On: %1","Prix promotionnel jusqu'au : %1",module,Magento_Rss
+"Special Price: %1","Prix Spécial: %1",module,Magento_Rss
+"Special Products","Produits spéciaux",module,Magento_Rss
+"Store: %1 <br/>","Magasin: %1 <br/>",module,Magento_Rss
+"Subscribe to RSS Feed","S'abonner au flux RSS",module,Magento_Rss
+"Subtotal","Sous-Total",module,Magento_Rss
+"Summary of review: %1 <br/>","Résumé de l'avis: %1 <br/>",module,Magento_Rss
+"Tax","Taxe",module,Magento_Rss
+"There are no Rss Feeds.","Aucun flux RSS.",module,Magento_Rss
+"To:","À:",module,Magento_Rss
+"Top Level Category","Catégorie de niveau supérieur",module,Magento_Rss
+"Total: %1<br/>","Total: %1<br/>",module,Magento_Rss
+"We cannot retrieve the wish list.","Impossible de récuperer la liste d'enVies.",module,Magento_Rss
+"Wishlist","Liste d'enVies",module,Magento_Rss

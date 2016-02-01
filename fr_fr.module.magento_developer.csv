@@ -1,41 +1,41 @@
-"Add Block Names to Hints","Ajouter les Nom des Blocs aux Astuces"
-"Allowed IPs (comma separated)","IPs autorisées (séparées par des virgules)"
-"Allow Symlinks","Autoriser les Liens Symboliques"
-"Asynchronous indexing","Indexation asynchrone"
-"Client side less compilation","Compilation less coté client"
-"CSS Settings","Paramètres CSS"
-"Debug","Déboguage"
-"Developer Client Restrictions","Restrictions Client Développeur"
-"Dictionary (Translation on Storefront side)","Dictionnaire (Traduction coté Front Office)"
-"Disable","Désactiver"
-"Embedded (Translation on Admin side)","Embarqué (Traduction coté Back Office)"
-"Enable","Activer"
-"Enabled for Admin","Activée pour l'admin"
-"Enabled for Storefront","Activer pour le front office"
-"Enabled Template Path Hints for Admin","Activer les astuce chemin des gabarits sur le back office"
-"Enabled Template Path Hints for Storefront","Activer les astuce chemin des gabarits sur le front office"
-"Enable Javascript Bundling","Activer la concaténation des fichiers JavaScript"
-"Format for IDE '%1' is not supported","Le format pour l'EDI '%1' n'est pas pris en charge"
-"Front-end development workflow","Automatisation de processus coté front office"
-"Grid Settings","Paramètres de la Grille"
-"Image Adapter","Générateur d'image"
-"Image Processing Settings","Paramètres de traitement d'image"
-"JavaScript Settings","Paramètres JavaScript"
-"Leave empty for access from any location.","Laissez vide si vous souhaitez y accéder depuis n'importe où."
-"Log JS Errors to Session Storage","Stocker les erreurs JS en Session"
-"Log JS Errors to Session Storage Key","Clé de Session pour le stockage des erreurs JS"
-"Merge CSS Files","Fusionner les Fichiers CSS"
-"Merge JavaScript Files","Fusionner les Fichiers JavaScript"
-"Minify CSS Files","Minifier les Fichiers CSS"
-"Minify Html","Minifier le HTML"
-"Minify JavaScript Files","Minifier les fichiers JavaScript"
-"Not available in production mode","Non disponible en mode production"
-"Server side less compilation","Compilation less coté serveur"
-"Sign Static Files","Signer les fichiers statiques"
-"Static Files Settings","Paramètres des fichiers statiques"
-"Template Settings","Paramètres de gabarit"
-"Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.","Les caches de traduction, de blocs et autres sorties doivent être désactivés pour utiliser la traduction en ligne sur le font office et sur le back office."
-"Translate Inline","Traduire en Ligne"
-"Translation Strategy","Stratégie de Traduction"
-"Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.","Attention ! L'activation de cette fonctionnalité n'est pas recommandée dans un environnement de production car elle présente un risque de sécurité potentiel."
-"Workflow type","Type d'automatisation de processus"
+"Add Block Names to Hints","Ajouter les Nom des Blocs aux Astuces",module,Magento_Developer
+"Allowed IPs (comma separated)","IPs autorisées (séparées par des virgules)",module,Magento_Developer
+"Allow Symlinks","Autoriser les Liens Symboliques",module,Magento_Developer
+"Asynchronous indexing","Indexation asynchrone",module,Magento_Developer
+"Client side less compilation","Compilation less coté client",module,Magento_Developer
+"CSS Settings","Paramètres CSS",module,Magento_Developer
+"Debug","Déboguage",module,Magento_Developer
+"Developer Client Restrictions","Restrictions Client Développeur",module,Magento_Developer
+"Dictionary (Translation on Storefront side)","Dictionnaire (Traduction coté Front Office)",module,Magento_Developer
+"Disable","Désactiver",module,Magento_Developer
+"Embedded (Translation on Admin side)","Embarqué (Traduction coté Back Office)",module,Magento_Developer
+"Enable","Activer",module,Magento_Developer
+"Enabled for Admin","Activée pour l'admin",module,Magento_Developer
+"Enabled for Storefront","Activer pour le front office",module,Magento_Developer
+"Enabled Template Path Hints for Admin","Activer les astuce chemin des gabarits sur le back office",module,Magento_Developer
+"Enabled Template Path Hints for Storefront","Activer les astuce chemin des gabarits sur le front office",module,Magento_Developer
+"Enable Javascript Bundling","Activer la concaténation des fichiers JavaScript",module,Magento_Developer
+"Format for IDE '%1' is not supported","Le format pour l'EDI '%1' n'est pas pris en charge",module,Magento_Developer
+"Front-end development workflow","Automatisation de processus coté front office",module,Magento_Developer
+"Grid Settings","Paramètres de la Grille",module,Magento_Developer
+"Image Adapter","Générateur d'image",module,Magento_Developer
+"Image Processing Settings","Paramètres de traitement d'image",module,Magento_Developer
+"JavaScript Settings","Paramètres JavaScript",module,Magento_Developer
+"Leave empty for access from any location.","Laissez vide si vous souhaitez y accéder depuis n'importe où.",module,Magento_Developer
+"Log JS Errors to Session Storage","Stocker les erreurs JS en Session",module,Magento_Developer
+"Log JS Errors to Session Storage Key","Clé de Session pour le stockage des erreurs JS",module,Magento_Developer
+"Merge CSS Files","Fusionner les Fichiers CSS",module,Magento_Developer
+"Merge JavaScript Files","Fusionner les Fichiers JavaScript",module,Magento_Developer
+"Minify CSS Files","Minifier les Fichiers CSS",module,Magento_Developer
+"Minify Html","Minifier le HTML",module,Magento_Developer
+"Minify JavaScript Files","Minifier les fichiers JavaScript",module,Magento_Developer
+"Not available in production mode","Non disponible en mode production",module,Magento_Developer
+"Server side less compilation","Compilation less coté serveur",module,Magento_Developer
+"Sign Static Files","Signer les fichiers statiques",module,Magento_Developer
+"Static Files Settings","Paramètres des fichiers statiques",module,Magento_Developer
+"Template Settings","Paramètres de gabarit",module,Magento_Developer
+"Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.","Les caches de traduction, de blocs et autres sorties doivent être désactivés pour utiliser la traduction en ligne sur le font office et sur le back office.",module,Magento_Developer
+"Translate Inline","Traduire en Ligne",module,Magento_Developer
+"Translation Strategy","Stratégie de Traduction",module,Magento_Developer
+"Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.","Attention ! L'activation de cette fonctionnalité n'est pas recommandée dans un environnement de production car elle présente un risque de sécurité potentiel.",module,Magento_Developer
+"Workflow type","Type d'automatisation de processus",module,Magento_Developer

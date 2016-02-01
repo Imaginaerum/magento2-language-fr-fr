@@ -1,4 +1,4 @@
-"Account Number","Numéro de Compte"
-"Enable","Activer"
-"Google Analytics","Google Analytics"
-"Google API","API Google"
+"Account Number","Numéro de Compte",module,Magento_GoogleAnalytics
+"Enable","Activer",module,Magento_GoogleAnalytics
+"Google Analytics","Google Analytics",module,Magento_GoogleAnalytics
+"Google API","API Google",module,Magento_GoogleAnalytics
