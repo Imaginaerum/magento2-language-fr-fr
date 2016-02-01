@@ -76,8 +76,8 @@
 "Alt Text","Texte Alternatif",module,Magento_Catalog
 "AM","AM",module,Magento_Catalog
 "A name is required.","Un nom est requis.",module,Magento_Catalog
-"An attribute group named ""/name/"" already exists"".","Un groupe d'attributs ""/name/"" existe déjà"".",module,Magento_Catalog
-"An attribute group named ""/name/"" already exists"".","Un groupe d'attributs ""/name/"" existe déjà"".",module,Magento_Catalog
+"An attribute group named ""/name/"" already exists"".","Un groupe d\'attributs ""/name/"" existe déjà"".",module,Magento_Catalog
+"An attribute group named ""/name/"" already exists"".","Un groupe d\'attributs ""/name/"" existe déjà"".",module,Magento_Catalog
 "An attribute set named '%1' already exists.","Le jeu d'attributs ""%1"" existe déjà.",module,Magento_Catalog
 "An attribute with the same code (%1) already exists.","Un attribut avec le même code (%1) existe déjà.",module,Magento_Catalog
 "An attribute with this code already exists.","Un attribut avec ce code existe déjà.",module,Magento_Catalog

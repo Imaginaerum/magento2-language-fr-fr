@@ -139,7 +139,7 @@
 "System","Système",module,Magento_ConfigurableProduct
 "The configurable product does not have any variation attribute.","Le produit configurable n'a aucune variation d'attribut.",module,Magento_ConfigurableProduct
 "This attribute is used in configurable products.","Cet attribut est utilisé dans les produits configurables.",module,Magento_ConfigurableProduct
-"This attribute is used in configurable products. You cannot remove it from the attribute set.","Cet attribut est utilisé dans des Produits configurables. Vous ne pouvez pas le retirer de ce jeu d\'attributs.",module,Magento_ConfigurableProduct
+"This attribute is used in configurable products. You cannot remove it from the attribute set.","Cet attribut est utilisé dans des Produits configurables. Vous ne pouvez pas le retirer de ce jeu d'attributs.",module,Magento_ConfigurableProduct
 "This group contains attributes used in configurable products. Please move these attributes to another group and try again.","Ce groupe contient des attributs utilisés dans les produits configurables. Veuillez déplacer ces attributs dans un autre groupe et essayez à nouveau.",module,Magento_ConfigurableProduct
 "Thumbnail","Vignette",module,Magento_ConfigurableProduct
 "Upload image","Uploader l'Image",module,Magento_ConfigurableProduct
