@@ -603,6 +603,7 @@
 "Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.","Attention ! L'activation de cette fonctionnalité n'est pas recommandée dans un environnement de production car elle présente un risque de sécurité potentiel."
 "<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).","<strong style=""color:red"">Attention!</strong> Quand vous utilisez le code magasin dans les URLs, il est possible dans certains cas que le système ne fonctionne pas correctement si vous utilisez des services tiers dans lesquels vous avez spécifié des URLs sans le code magasin (ex. PayPal etc.)."
 "Web","Web"
+"Web Setup Wizard","Assistant Configuration Web"
 "website(%1) scope","portée du site web (%1)"
 "Website","Site Web"
 "Web Site","Site Web"

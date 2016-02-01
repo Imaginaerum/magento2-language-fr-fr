@@ -1,6 +1,7 @@
 "CSV","CSV"
 "Customer address for such customer doesn't exist","L'adresse client n’existe pas"
 "Customer address id column is not specified","La colonne ID de l'adresse client n'est pas spécifiée"
+"E-mail is duplicated in import file","Email en double dans le fichier d'import"
 "E-mail is invalid","Email invalide"
 "E-mail is not specified","Email non spécifié"
 "Excel XML","XML Excel"

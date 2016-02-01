@@ -1,4 +1,5 @@
 "'%1' file extension is not supported","'%1' extension de fichier non supportée"
+"Adapter must be an instance of MagentoImportExportModelImportAbstractSource","Adapter doit être une instance de \Magento\ImportExport\Model\Import\AbstractSource"
 "Additional data","Donnée additionnelle"
 "Add/Update","Ajouter/Mettre à jour"
 "Add/Update Complex Data","Ajouter/Mettre à jour des données complexes"

@@ -7,6 +7,7 @@
 "Allow Qty Below 0 and Notify Customer","Autoriser les quantités négatives et prévenir le client"
 "Automatically Return Credit Memo Item to Stock","Remettre automatiquement en stock un article faisant l'objet d'un avoir"
 "Backorders","Reliquats"
+"Changing can take some time due to processing whole catalog.","Le changement de cette valeur peut prendre du temps car elle nécessite le traitement de tout le catalogue."
 "Could not rebuild index for empty products array","Impossible de reconstruire un index produit vide"
 "Customer Group","Groupe de clients"
 "Decimal qty increments is not allowed.","Les incréments de quantités ne peuvent pas être une valeur décimale."

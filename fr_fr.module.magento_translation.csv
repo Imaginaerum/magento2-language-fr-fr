@@ -53,6 +53,7 @@
 "Please enter 6 or more characters. Leading or trailing spaces will be ignored.","Veuillez saisir au moins 6 caractères. Les espaces en début ou en fin de chaîne seront ignorés."
 "Please enter 7 or more characters. Password should contain both numeric and alphabetic characters.","Veuillez saisir au moins 7 caractères. Le mot de passe doit contenir à la fois des caractères numériques et alphabétiques."
 "Please enter a date between %min and %max.","Veuillez renseigner une Date comprise entre %min et %max."
+"Please enter a date in the past.","Veuillez saisir une date dans le passé."
 "Please enter a number 0 or greater in this field.","Veuillez saisir un nombre supérieur ou égal à 0 dans ce champ."
 "Please enter a number greater than 0 in this field.","Veuillez saisir un nombre supérieur à 0 dans ce champ."
 "Please enter a number lower than 100.","Veuillez saisir un nombre inférieur à 100."
