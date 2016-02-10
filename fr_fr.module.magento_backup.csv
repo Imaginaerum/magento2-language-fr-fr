@@ -81,6 +81,7 @@
 "We can't delete one or more backups.","Nous ne pouvons pas supprimer une ou plusieurs sauvegardes.",module,Magento_Backup
 "We can't find the backup file.","Nous ne pouvons pas trouver le fichier de sauvegarde.",module,Magento_Backup
 "We can't save the Cron expression.","Impossible de sauvegarder l'expression du CRON.",module,Magento_Backup
+"We couldn't connect to the FTP.","Nous ne pouvons pas nous connecter au FTP.",module,Magento_Backup
 "You created the database and media backup.","Vous avez créé la sauvegarde de la base de données et des médias.",module,Magento_Backup
 "You created the database backup.","Vous avez créé la sauvegarde de la base de données.",module,Magento_Backup
 "You created the system backup.","Vous avez créé la sauvegarde du système.",module,Magento_Backup
