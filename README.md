@@ -31,7 +31,7 @@ Create folder your-magento-path/app/i18n/imaginaerum/fr_fr and extract zip into 
 
 | Total | Translated | Left | Progression |
 | -------------: | -----------------------: | -----------------------: | :---------: |
-| 9815 | 9416 | 399 | ![Progress](http://progressed.io/bar/95) |
+| 9815 | 9421 | 394 | ![Progress](http://progressed.io/bar/95) |
 
 | Key | Total | Translated | Left | Progression |
 | :----- | -------------: | -----------------------: | -----------------------: | :---------: |
@@ -54,7 +54,7 @@ Create folder your-magento-path/app/i18n/imaginaerum/fr_fr and extract zip into 
 | Module Magento_Authorization | 2 | 2 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_Authorizenet | 116 | 92 | 24 | ![Progress](http://progressed.io/bar/79) |
 | Module Magento_Backend | 675 | 656 | 19 | ![Progress](http://progressed.io/bar/97) |
-| Module Magento_Backup | 104 | 93 | 11 | ![Progress](http://progressed.io/bar/89) |
+| Module Magento_Backup | 104 | 94 | 10 | ![Progress](http://progressed.io/bar/90) |
 | Module Magento_Braintree | 329 | 217 | 112 | ![Progress](http://progressed.io/bar/65) |
 | Module Magento_Bundle | 105 | 105 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_Captcha | 26 | 26 | 0 | ![Progress](http://progressed.io/bar/100) |
@@ -114,7 +114,7 @@ Create folder your-magento-path/app/i18n/imaginaerum/fr_fr and extract zip into 
 | Module Magento_Review | 157 | 152 | 5 | ![Progress](http://progressed.io/bar/96) |
 | Module Magento_Rss | 58 | 55 | 3 | ![Progress](http://progressed.io/bar/94) |
 | Module Magento_Rule | 38 | 38 | 0 | ![Progress](http://progressed.io/bar/100) |
-| Module Magento_Sales | 833 | 814 | 19 | ![Progress](http://progressed.io/bar/97) |
+| Module Magento_Sales | 833 | 817 | 16 | ![Progress](http://progressed.io/bar/98) |
 | Module Magento_SalesRule | 164 | 163 | 1 | ![Progress](http://progressed.io/bar/99) |
 | Module Magento_SalesSequence | 2 | 2 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_Search | 52 | 52 | 0 | ![Progress](http://progressed.io/bar/100) |
@@ -136,6 +136,6 @@ Create folder your-magento-path/app/i18n/imaginaerum/fr_fr and extract zip into 
 | Module Magento_Webapi | 40 | 36 | 4 | ![Progress](http://progressed.io/bar/90) |
 | Module Magento_Weee | 28 | 28 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_Widget | 76 | 76 | 0 | ![Progress](http://progressed.io/bar/100) |
-| Module Magento_Wishlist | 148 | 145 | 3 | ![Progress](http://progressed.io/bar/97) |
+| Module Magento_Wishlist | 148 | 146 | 2 | ![Progress](http://progressed.io/bar/98) |
 | Theme frontend/Magento/blank | 7 | 7 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Theme frontend/Magento/luma | 64 | 63 | 1 | ![Progress](http://progressed.io/bar/98) |
