@@ -743,6 +743,7 @@
 "We can't find this wish list.","Impossible de trouver cette liste d'envies.",module,Magento_Sales
 "We can't get the order instance right now.","Impossible de récupérer l'instance de la commande.",module,Magento_Sales
 "We can't save the credit memo right now.","Impossible de sauvegarder l'avoir.",module,Magento_Sales
+"We can't save the invoice.","Impossible de sauvegarder la facture.",module,Magento_Sales
 "We can't save the invoice right now.","Impossible de sauvegarder la facture.",module,Magento_Sales
 "We can't send the email order right now.","Impossible d'envoyer l'email de la commande.",module,Magento_Sales
 "We can't send the invoice email right now.","Impossible d'envoyer l'email de la facture.",module,Magento_Sales
