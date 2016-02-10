@@ -125,6 +125,7 @@
 "We can't delete item from Wish List right now.","Impossible de supprimer cet article de la liste d'envies.",module,Magento_Wishlist
 "We can't delete the item from the Wish List right now.","Impossible de supprimer le produit de la liste d'envies.",module,Magento_Wishlist
 "We can't delete the item from Wish List right now because of an error: %1.","Impossible de supprimer cet article de la liste d'envies en raison de l'erreur suivante: %1.",module,Magento_Wishlist
+"We can't load the wish list item.","Impossible de charger le produit de la liste d'envies.",module,Magento_Wishlist
 "We can't load the Wish List item right now.","Impossible de charger le produit de la liste d'envies.",module,Magento_Wishlist
 "We can't move the item to the wish list.","Impossible de déplacer ce produit dans la liste d'envies.",module,Magento_Wishlist
 "We can't specify a product.","Impossible de spécifier le produit.",module,Magento_Wishlist
