@@ -754,6 +754,7 @@
 "We can't void the credit memo.","Impossible d'annuler l'avoir.",module,Magento_Sales
 "We can't void the payment right now.","Impossible d'annuler le paiement.",module,Magento_Sales
 "We could not add a product to cart by the ID ""%1"".","Impossible d'ajouter le produit avec l'ID ""%1"" au panier.",module,Magento_Sales
+"We couldn't send the email order.","Nous n'avons pas pu envoyer l'email de commande.",module,Magento_Sales
 "We couldn't update the payment.","Nous ne pouvons pas mettre à jour le paiement.",module,Magento_Sales
 "We don't have enough information to save the parent transaction ID.","Nous n'avons pas assez d'information pour sauvegarder l'identifiant de transaction parent.",module,Magento_Sales
 "We don't recognize the draw line data. Please define the ""lines"" array.","Ligne non reconnue. Veuillez définir un jeu de lignes.",module,Magento_Sales
