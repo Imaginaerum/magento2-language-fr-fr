@@ -200,6 +200,8 @@
 "Try another card","Veuillez essayer une autre carte",module,Magento_Braintree
 "Type","Type",module,Magento_Braintree
 "Typing in a credit card number will automatically select the credit card type","Saisissez le numéro de carte de crédit sélectionnera automatiquement le type de carte",module,Magento_Braintree
+"Unsuccessful transaction cannot be cloned.","Les transactions non abouties ne peuvent être dupliquées.",module,Magento_Braintree
+"Update Existing Token is invalid.","Le jeton de mise à jour est invalide.",module,Magento_Braintree
 "Use Cache","Utiliser le Cache",module,Magento_Braintree
 "Used for direct fraud tool integration. Make sure you also contact <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> to setup your Kount account.","Utilisé pour l'intégration de l'outil de détection de fraude. Assurez-vous également de contacter <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> pour configurer votre compte Kount.",module,Magento_Braintree
 "Use Vault","Utiliser Vault",module,Magento_Braintree
