@@ -156,7 +156,7 @@
 "We don't recognize this file extension.","Impossible de reconnaître l'extension de ce fichier.",module,Magento_Theme
 "We found a directory with the same name.","Un répertoire avec le même nom existe déjà.",module,Magento_Theme
 "We found no files.","Aucun fichier trouvé.",module,Magento_Theme
-"Welcome, %1!","Bienvenu, %1 !",module,Magento_Theme
+"Welcome, %1!","Bienvenue, %1 !",module,Magento_Theme
 "Welcome Text","Texte de bienvenue",module,Magento_Theme
 "We use cookies to make your experience better.","Nous utilisons les cookies pour vous offrir une meilleure expérience utilisateur.",module,Magento_Theme
 "WK","Semaine",module,Magento_Theme

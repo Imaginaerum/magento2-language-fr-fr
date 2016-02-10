@@ -149,7 +149,7 @@
 "Default Shipping Address","Adresse de livraison par défaut",module,Magento_Customer
 "Default Value for Disable Automatic Group Changes Based on VAT ID","Valeur par Défaut pour la désactivation des changement de groupe automatiques basés sur le numéro de TVA",module,Magento_Customer
 "Default Welcome Email","Email d'accueil par défaut",module,Magento_Customer
-"Default Welcome Email Without Password","Email de bienvenu par défaut sans mot de passe",module,Magento_Customer
+"Default Welcome Email Without Password","Email de bienvenue par défaut sans mot de passe",module,Magento_Customer
 "Delete","Supprimer",module,Magento_Customer
 "Delete Address","Supprimer l'Adresse",module,Magento_Customer
 "Delete Customer","Supprimer le Client",module,Magento_Customer
@@ -392,7 +392,7 @@
 "Sending","Envoi en cours",module,Magento_Customer
 "Send Welcome Email","Envoyer un email de bienvenue",module,Magento_Customer
 "Send Welcome Email after Confirmation","Envoyer un mail de bienvenue après la confirmation",module,Magento_Customer
-"Send Welcome Email From","Envoyer le message de bienvenu Depuis",module,Magento_Customer
+"Send Welcome Email From","Envoyer le message de bienvenue Depuis",module,Magento_Customer
 "Sent","Envoyé",module,Magento_Customer
 "Session Start Time","Début de session",module,Magento_Customer
 "Set a New Password","Définir un nouveau mot de passe",module,Magento_Customer
@@ -488,10 +488,10 @@
 "This email does not require confirmation.","Cet email ne nécessite pas de confirmation.",module,Magento_Customer
 "This email will be sent instead of default welcome email, after account confirmation.","Cet email sera envoyé à la place de l'email de bienvenue, après la confirmation de création du compte.",module,Magento_Customer
 "This email will be sent instead of the Default Welcome Email, after account confirmation. <br /><br />
-                        Email template chosen based on theme fallback when ""Default"" option is selected.","Cet email est envoyé à la place de l'email de bienvenu par défaut après confirmation du compte. <br /><br />
+                        Email template chosen based on theme fallback when ""Default"" option is selected.","Cet email est envoyé à la place de l'email de bienvenue par défaut après confirmation du compte. <br><br>
                         Le gabarit d'email choisi est basé sur le fallback du thème quand l'option ""Par Défaut"" est choisie.",module,Magento_Customer
 "This email will be sent instead of the Default Welcome Email, if a customer was created without password. <br /><br />
-                        Email template chosen based on theme fallback when ""Default"" option is selected.","Cet email est envoyé à la place de l'email par défaut de bienvenu si un client a crée un compte sans mot de passe. <br /><br />
+                        Email template chosen based on theme fallback when ""Default"" option is selected.","Cet email est envoyé à la place de l'email par défaut de bienvenue si un client a crée un compte sans mot de passe. <br><br>
                         Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée.",module,Magento_Customer
 "To show VAT number on frontend, set Show VAT Number on Frontend option to Yes.","Pour afficher le numéro de TVA dans le frontend, réglez l'option d'affichage du numéro de TVA dans le frontend à Oui.",module,Magento_Customer
 "To show VAT number on Storefront, set Show VAT Number on Storefront option to Yes.","Pour afficher le numéro de TVA sur la vue client, régler l'option d'affichage du numéro de TVA du Magasin à Oui.",module,Magento_Customer
@@ -533,8 +533,8 @@
 "We can't save the address.","Nous ne pouvons pas sauvegarder l'adresse.",module,Magento_Customer
 "We can't save the customer.","Nous ne pouvons pas sauvegarder le client.",module,Magento_Customer
 "We can't share customer accounts globally when the accounts share identical email addresses on more than one website.","Nous ne pouvons pas partager les comptes clients globalement lorsque les comptes partagent les adresses email identiques sur plus d'un site web.",module,Magento_Customer
-"Welcome Email","Email de bienvenu",module,Magento_Customer
-"Welcome to %store_name.","Bienvenu sur %store_name.",module,Magento_Customer
+"Welcome Email","Email de bienvenue",module,Magento_Customer
+"Welcome to %store_name.","Bienvenue sur %store_name.",module,Magento_Customer
 "We're unable to send the password reset email.","Nous ne pouvons pas envoyer l'email de réinitialisation de mot de passe.",module,Magento_Customer
 "When you sign in to your account, you will be able to:","Lorsque vous êtes connecté à votre compte, vous pouvez:",module,Magento_Customer
 "Wishlist - %1 item(s)","Liste d'envies - %1 article(s)",module,Magento_Customer
