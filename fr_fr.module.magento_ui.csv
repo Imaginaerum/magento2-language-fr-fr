@@ -75,5 +75,6 @@
 "This is a required field.","Ce champ est obligatoire.",module,Magento_Ui
 "ui/grid/filters/elements/select","ui/grid/filters/elements/select",module,Magento_Ui
 "Unsupported bookmark action.","Action de vue non supportée.",module,Magento_Ui
+"Use this key to retrieve collected js errors","Utilisez cette clé pour retrouver les erreurs js collectées",module,Magento_Ui
 "Vul hier een geldige datum in.","Vul hier een geldige datum in.",module,Magento_Ui
 "Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx","Le code postal doit être compris entre 902xx-xxxx et 905-xx-xxxx",module,Magento_Ui
