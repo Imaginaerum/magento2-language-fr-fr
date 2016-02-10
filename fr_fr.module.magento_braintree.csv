@@ -56,6 +56,8 @@
 "Country","Pays",module,Magento_Braintree
 "Country code alpha-2 is not accepted","Code pays alpha-2 non accepté",module,Magento_Braintree
 "Country code alpha-3 is not accepted","Code pays alpha-3 non accepté",module,Magento_Braintree
+"Country code numeric is not accepted","Code pays numérique non accepté",module,Magento_Braintree
+"Country name is not an accepted country.","Non du pays non accepté.",module,Magento_Braintree
 "Country Specific Credit Card Types","Types de cartes bancaire spécifique pays",module,Magento_Braintree
 "Country Specific Settings","Paramètres spécifiques des pays",module,Magento_Braintree
 "Credit Card","Carte de Crédit",module,Magento_Braintree
@@ -68,12 +70,15 @@
 "Credit card successfully deleted","Carte bancaire supprimé avec succès",module,Magento_Braintree
 "Credit card successfully updated","Carte Bancaire mise à jour",module,Magento_Braintree
 "Credit card token is taken.","Carte Bancaire prise en compte.",module,Magento_Braintree
+"Credit card token is too long.","Jeton carte de crédit trop long.",module,Magento_Braintree
 "Credit Card Type","Type de Carte de Crédit",module,Magento_Braintree
 "Credit card type is not accepted by this merchant account.","Type de carte de crédit non acceptée avec ce compte marchand.",module,Magento_Braintree
 "Credit card type is not allowed for this payment method.","Le type de carte bancaire n'est pas autorisé pour ce mode de paiement.",module,Magento_Braintree
 "Credit card type is not allowed for your country.","Type de carte bancaire non autorisés pour votre pays.",module,Magento_Braintree
 "Credit Card Types","Types de Carte de Crédit",module,Magento_Braintree
 "Customer ID is invalid.","ID client invalide.",module,Magento_Braintree
+"Customer ID is required.","ID Client requis.",module,Magento_Braintree
+"Customer ID is too long.","ID Client trop long.",module,Magento_Braintree
 "Custom field is invalid","Champs personnalisé invalide.",module,Magento_Braintree
 "Custom field is invalid.","Champs personnalisé invalide.",module,Magento_Braintree
 "Custom field is too long.","Champs personnalisé trop long.",module,Magento_Braintree

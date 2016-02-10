@@ -530,6 +530,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Products per Page on Grid Default Value","Valeur par défaut pour le nombre de produits par page dans l'affichage en grille",module,Magento_Catalog
 "Products per Page on List Allowed Values","Valeurs autorisées pour le nombre de produits par page dans l'affichage en liste",module,Magento_Catalog
 "Products per Page on List Default Value","Valeur par défaut pour le nombre de produits par page dans l'affichage en liste",module,Magento_Catalog
+"Product Template","Gabarit Produit",module,Magento_Catalog
 "Product Templates","Gabarit Produit",module,Magento_Catalog
 "Product Thumbnail Itself","Vignette du produit lui-même",module,Magento_Catalog
 "Product URL Suffix","Suffixe d'URL des Produits",module,Magento_Catalog
