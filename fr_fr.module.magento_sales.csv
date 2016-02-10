@@ -746,6 +746,7 @@
 "We can't save the invoice.","Impossible de sauvegarder la facture.",module,Magento_Sales
 "We can't save the invoice right now.","Impossible de sauvegarder la facture.",module,Magento_Sales
 "We can't send the email order right now.","Impossible d'envoyer l'email de la commande.",module,Magento_Sales
+"We can't send the invoice email.","Impossible d'envoyer l'email de la facture.",module,Magento_Sales
 "We can't send the invoice email right now.","Impossible d'envoyer l'email de la facture.",module,Magento_Sales
 "We can't send the shipment right now.","Impossible d'envoyer l'email de l'expédition.",module,Magento_Sales
 "We can't update the item's quantity right now.","Impossible de mettre à jour la quantité de l'article.",module,Magento_Sales
