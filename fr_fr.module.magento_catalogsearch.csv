@@ -31,6 +31,7 @@
 "No","Non",module,Magento_CatalogSearch
 "No items were found using the following search criteria.","Aucun résultat pour ces critères de recherche.",module,Magento_CatalogSearch
 "Please specify at least one search term.","Spécifiez au moins un terme de recherche.",module,Magento_CatalogSearch
+"Please specify correct data.","Veuillez remplir des données correctes.",module,Magento_CatalogSearch
 "Popular Search Terms","Termes de recherche populaires",module,Magento_CatalogSearch
 "Product","produit",module,Magento_CatalogSearch
 "Rebuild Catalog product fulltext search index","Reconstruire l'index de recherche sur le texte complet du catalogue produit",module,Magento_CatalogSearch

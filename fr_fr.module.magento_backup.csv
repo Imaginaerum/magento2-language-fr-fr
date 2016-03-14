@@ -48,8 +48,10 @@
 "Rollback","Restaurer",module,Magento_Backup
 "Scheduled Backup Settings","Paramètres de sauvegarde programmée",module,Magento_Backup
 "Size(bytes)","Taille (octets)",module,Magento_Backup
+"Something went wrong putting your store into maintenance mode.","Une erreur s'est produite lors de la mise en maintenance du magasin.",module,Magento_Backup
 "Something went wrong while putting your store into maintenance mode.","Une erreur s'est produite lors de la mise en maintenance magasin.",module,Magento_Backup
 "Something went wrong while writing to the backup file ""%1"".","Une erreur s'est produite lors de l'écriture du fichier de sauvegarde ""%1"".",module,Magento_Backup
+"Something went wrong writing to the backup file ""%1"".","Une erreur s'est produite lors de l'annulation de l'écriture du fichier de sauvegarde ""%1"".",module,Magento_Backup
 "Sorry, but we cannot read from or write to backup file ""%1"".","Désolé, mais nous ne pouvons pas lire ou écrire le fichier de sauvegarde ""%1"".",module,Magento_Backup
 "Start Time","Heure de Début",module,Magento_Backup
 "successful","succès",module,Magento_Backup
@@ -65,6 +67,7 @@
 "The database and media backup has been created.","La sauvegarde de la base de données et des media a bien été créée.",module,Magento_Backup
 "The database backup has been created.","La sauvegarde de la base de données a bien été créée.",module,Magento_Backup
 "The selected backup(s) has been deleted.","Les sauvegardes sélectionnées ont été effacées.",module,Magento_Backup
+"The system backup (excluding media) has been created.","La sauvegarde du système (médias exclus) a été crée.",module,Magento_Backup
 "The system backup has been created.","La sauvegarde du système a été créée.",module,Magento_Backup
 "This action cannot be undone.","Cette action ne peut pas être annulée.",module,Magento_Backup
 "This may take a few moments.","Ceci peut prendre quelques instants.",module,Magento_Backup

@@ -32,6 +32,7 @@
 "Billing day of month must be numeric","Le jour de facturation doit être un nombre",module,Magento_Braintree
 "Braintree","Braintree",module,Magento_Braintree
 "Cannot cancel release","Impossible d'annuler la diffusion",module,Magento_Braintree
+"Cannot clone transaction without submit_for_settlement flag.","Impossible de cloner la transaction sans le flag submit_for_settlement.",module,Magento_Braintree
 "Cannot edit a canceled subscription.","Impossible d'éditer un abonnement annulé.",module,Magento_Braintree
 "Cannot edit expired subscription","Impossible d'éditer un abonnement expiré.",module,Magento_Braintree
 "Can not find original authorization transaction for partial capture","Impossible de trouver l'autorisation de transaction initiale pour la capture partielle",module,Magento_Braintree
@@ -76,7 +77,9 @@
 "Credit card type is not allowed for this payment method.","Le type de carte bancaire n'est pas autorisé pour ce mode de paiement.",module,Magento_Braintree
 "Credit card type is not allowed for your country.","Type de carte bancaire non autorisés pour votre pays.",module,Magento_Braintree
 "Credit Card Types","Types de Carte de Crédit",module,Magento_Braintree
+"Customer does not have any credit cards.","Le client ne possède pas de carte de crédit.",module,Magento_Braintree
 "Customer ID is invalid.","ID client invalide.",module,Magento_Braintree
+"Customer ID is not an allowed ID.","ID Client non autorisé",module,Magento_Braintree
 "Customer ID is required.","ID Client requis.",module,Magento_Braintree
 "Customer ID is too long.","ID Client trop long.",module,Magento_Braintree
 "Custom field is invalid","Champs personnalisé invalide.",module,Magento_Braintree
@@ -145,14 +148,22 @@
 "New Order Status","Statut de la Nouvelle Commande",module,Magento_Braintree
 "New order status","Statut de la Nouvelle Commande",module,Magento_Braintree
 "No","Non",module,Magento_Braintree
+"Number of billing cycles cannot be blank","Le nombre de cycles de facturation ne peut être vide",module,Magento_Braintree
+"Number of billing cycles is too small","Le nombre de cycles de facturation est trop petit",module,Magento_Braintree
+"Number of billing cycles must be greater than zero","Le nombre de cycles de facturation doit être supérieur à zéro",module,Magento_Braintree
+"Number of billing cycles must be numeric","Le nombre de cycles de facturation doit être un nombre",module,Magento_Braintree
 "or","ou",module,Magento_Braintree
+"Order ID is too long.","ID commande trop long",module,Magento_Braintree
 "Override Merchant Name","Remplacement du Nom Marchand",module,Magento_Braintree
 "Payment action","Action de Paiement",module,Magento_Braintree
 "Payment Action","Action de Paiement",module,Magento_Braintree
 "Payment from Applicable Countries","Mode de paiement autorisé pour les pays applicables",module,Magento_Braintree
 "Payment from Specific Countries","Mode de paiement autorisé pour les pays spécifiques",module,Magento_Braintree
 "Payment Information","Informations de paiement",module,Magento_Braintree
+"Payment method conflict","Conflit méthode de paiement",module,Magento_Braintree
+"Payment method conflict with venmo sdk","Conflit méthode de paiement avec le sdk venmo",module,Magento_Braintree
 "PayPal through Braintree","PayPal via Braintree",module,Magento_Braintree
+"Phone is too long.","Numéro de téléphone trop long",module,Magento_Braintree
 "Plan ID is invalid.","ID Plan invalide.",module,Magento_Braintree
 "Please agree to all the terms and conditions before placing the order.","Veuillez accepter les conditions générales de ventes avant de valider la commande.",module,Magento_Braintree
 "Please confirm that you want to delete this credit card","Veuillez confirmer que vous souhaitez supprimer cette carte de crédit",module,Magento_Braintree
@@ -163,7 +174,11 @@
 "Please wait 24 hours before trying to issue a partial refund.","Veuillez attendre 24 heures avant d'essayer de régler un remboursement partiel.",module,Magento_Braintree
 "Postal Code","Code Postal",module,Magento_Braintree
 "Postal code is invalid","Code postal invalide",module,Magento_Braintree
+"Postal code is required.","Code postal requis.",module,Magento_Braintree
+"Postal code may contain no more than 9 letter or number characters.","Le code postal doit contenir moins de 9 lettres ou nombres.",module,Magento_Braintree
+"Price cannot be blank.","Le prix ne peut être vide",module,Magento_Braintree
 "Price is an invalid format.","Format prix invalide.",module,Magento_Braintree
+"Price is too large","Prix trop grand",module,Magento_Braintree
 "Private Key","Clé Privée",module,Magento_Braintree
 "Public Key","Clé Publique",module,Magento_Braintree
 "Region is invalid","Région invalide",module,Magento_Braintree
@@ -181,11 +196,15 @@
 "State/Province","État/Province",module,Magento_Braintree
 "Stored Card","Carte bancaire sauvegardée",module,Magento_Braintree
 "Street Address","Adresse",module,Magento_Braintree
+"Street address is invalid","adresse invalide",module,Magento_Braintree
 "Street address is required.","Adresse requise.",module,Magento_Braintree
+"Street address is too long.","Adresse trop longue",module,Magento_Braintree
 "Submit","Envoyer",module,Magento_Braintree
 "Subscription ID is invalid.","ID de souscription invalide.",module,Magento_Braintree
 "Switch/Solo/Maestro Only","Switch/Solo/Maestro Seulement",module,Magento_Braintree
+"Tax amount cannot be negative.","Le montant de la taxe ne peut être négatif.",module,Magento_Braintree
 "Tax amount is an invalid format.","Le montant de la taxe est dans un format invalide.",module,Magento_Braintree
+"Tax amount is too large.","Montant de la taxe trop important.",module,Magento_Braintree
 "The processor declined your transaction, please re-enter your payment information","Le processus a refusé votre transaction, veuillez entrer de nouveau vos informations de paiement",module,Magento_Braintree
 "The processor responded with an unknown error","Le processus a répondu avec une erreur inconnue",module,Magento_Braintree
 "There was an error capturing the transaction: %1.","Erreur lors de la capture de transaction: %1.",module,Magento_Braintree
@@ -197,11 +216,16 @@
 "This refund is for a partial amount but the Transaction has not settled. ","Ce remboursement est pour un montant partiel, mais la transaction n'est pas établie. ",module,Magento_Braintree
 "Title","Titre",module,Magento_Braintree
 "Token is invalid.","Jeton Invalide.",module,Magento_Braintree
+"Token is not an allowed token.","Jeton non valide.",module,Magento_Braintree
+"Too many addresses per customer","Trop d'adresse par client",module,Magento_Braintree
 "Transaction declined: ","Transaction refusée: ",module,Magento_Braintree
 "Transaction declined by gateway: Check card details or try another card","Transaction refusée par la passerelle: Voir détails de la carte ou essayez une autre carte",module,Magento_Braintree
 "Transaction type is invalid.","Type de transaction invalide.",module,Magento_Braintree
 "Transaction type is required.","Type de transaction requis.",module,Magento_Braintree
+"Trial duration is an invalid format.","Format invalide pour la période d'essai",module,Magento_Braintree
+"Trial duration is required.","Période d'essai requise.",module,Magento_Braintree
 "Trial duration unit is invalid.","Unité de période d'essai invalide.",module,Magento_Braintree
+"Try again later","Veuillez réessayer plus tard",module,Magento_Braintree
 "Try another card","Veuillez essayer une autre carte",module,Magento_Braintree
 "Type","Type",module,Magento_Braintree
 "Typing in a credit card number will automatically select the credit card type","Saisissez le numéro de carte de crédit sélectionnera automatiquement le type de carte",module,Magento_Braintree

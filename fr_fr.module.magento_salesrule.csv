@@ -127,6 +127,7 @@
 "Specified rule does not allow coupons","La règle spécifiée ne permet pas l'utilisation de coupons",module,Magento_SalesRule
 "Specified rule only allows auto generated coupons","La règle spécifiée permet uniquement l'utilisation de coupons générés",module,Magento_SalesRule
 "Start","Commencer",module,Magento_SalesRule
+"Start on","Démarrer",module,Magento_SalesRule
 "Status","Statut",module,Magento_SalesRule
 "Stop Further Rules Processing","Ne pas traiter les règles suivantes",module,Magento_SalesRule
 "Store View Specific Labels","Libellés spécifiques par vue magasin",module,Magento_SalesRule

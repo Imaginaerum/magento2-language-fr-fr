@@ -143,6 +143,7 @@
 "URL Key","Clé d'URL",module,Magento_Cms
 "We cannot create a new directory.","Impossible de créer un nouveau répertoire.",module,Magento_Cms
 "We cannot delete directory %1.","Impossible de supprimer le répertoire %1.",module,Magento_Cms
+"We cannot delete root directory %1.","Impossible de supprimer le répertoire %1.",module,Magento_Cms
 "We cannot upload the file.","Upload du fichier impossible.",module,Magento_Cms
 "We can't delete root directory %1 right now.","Impossible de supprimer le répertoire racine %1.",module,Magento_Cms
 "We can't find a block to delete.","Nous ne trouvons pas le bloc à supprimer.",module,Magento_Cms

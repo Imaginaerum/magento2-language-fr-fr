@@ -99,6 +99,7 @@
 "Skip to content","Allez au contenu",module,Magento_Theme
 "Something is wrong with the file upload settings.","Une erreur s'est produite lors de l'upload fichier.",module,Magento_Theme
 "Sorry, something went wrong. That's all we know.","Une erreur s'est produite.",module,Magento_Theme
+"Sorry, there was an unknown error.","Erreur inconnue",module,Magento_Theme
 "Start date cannot be greater than end date.","La date de début doit être antérieure à la date de fin.",module,Magento_Theme
 "Storage Root","Racine du stockage",module,Magento_Theme
 "Test Label","Test Label",module,Magento_Theme
@@ -112,6 +113,7 @@
 "Theme CSS Assets","Ressources CSS du thème",module,Magento_Theme
 "Theme id should be set","L'ID du thème doit être initialisé",module,Magento_Theme
 "Theme isn't deletable.","Le thème ne peut pas être supprimé.",module,Magento_Theme
+"Theme isn't editable.","Thème non éditable.",module,Magento_Theme
 "Theme JavaScript","JavaScript du thème",module,Magento_Theme
 "Theme Path","Chemin du thème",module,Magento_Theme
 "Theme Preview Image","Image d'aperçu du thème",module,Magento_Theme
@@ -122,6 +124,7 @@
 "The start date can't follow the end date.","La date de début ne peut pas être postérieure à la date de fin.",module,Magento_Theme
 "This action will delete your custom instructions and reset robots.txt file to system's default settings.","Cette action supprimera les instructions personnalisées et réinitialisera le fichier robots.txt avec les valeurs par défaut du système.",module,Magento_Theme
 "This file will replace the current custom.css file and can't be more than 2 MB.","Ce fichier remplacera le fichier custom.css. Il ne peut pas excéder 2 Mo.",module,Magento_Theme
+"This is demo store. All orders will not be transferred.","Ceci est une boutique de démo. Aucune commande ne sera traitée.",module,Magento_Theme
 "This is demo store. No orders will be fulfilled.","Ceci est une boutique de démonstration. Aucune commande ne sera honorée.",module,Magento_Theme
 "This theme is not editable.","Ce thème n'est pas modifiable.",module,Magento_Theme
 "This will be displayed just before body closing tag.","Ceci sera affiché juste avant la balise de fermeture du body.",module,Magento_Theme
@@ -137,10 +140,12 @@
 "Upload JS Files","Iploader des fichiers JS",module,Magento_Theme
 "Use only standard alphanumeric, dashes and underscores.","Utilisez uniquement des lettres, tirets ou underscores.",module,Magento_Theme
 "(ver. %1)","(ver. %1)",module,Magento_Theme
+"We cannot delete root directory %1.","Impossible de supprimer le répertoire %1.",module,Magento_Theme
 "We cannot delete the theme.","Impossible de supprimer le thème.",module,Magento_Theme
 "We cannot detect a size.","Détection de taille impossible.",module,Magento_Theme
 "We cannot find a directory with this name.","Impossible de trouver un répertoire avec ce nom.",module,Magento_Theme
 "We cannot find a theme with id ""%1"".","Impossible de trouver le thème avec l'ID ""%1"".",module,Magento_Theme
+"We cannot find file","Fichier introuvable",module,Magento_Theme
 "We cannot find theme ""%1"".","Impossible de trouver le thème : ""%1"".",module,Magento_Theme
 "We cannot find the theme.","Impossible de trouver le thème.",module,Magento_Theme
 "We cannot upload the CSS file.","Impossible d'uploader le fichier CSS.",module,Magento_Theme

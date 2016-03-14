@@ -45,6 +45,7 @@
 "Export","Exporter",module,Magento_ImportExport
 "Exported %1 rows.","%1 lignes exportées.",module,Magento_ImportExport
 "Export File Format","Format du fichier d'export",module,Magento_ImportExport
+"Export has been done.","Export effectué",module,Magento_ImportExport
 "Export Settings","Paramètres d'export",module,Magento_ImportExport
 "Field separator","Séparateur de champs",module,Magento_ImportExport
 "File does not contain data.","Le fichier ne contient aucune donnée.",module,Magento_ImportExport
@@ -93,9 +94,11 @@
 "Please correct the file format.","Veuillez corriger le format de fichier.",module,Magento_ImportExport
 "Please correct the value for '%1' column","Veuillez corriger la valeur de la colonne ""%1""",module,Magento_ImportExport
 "Please correct the value for ""%1"" column.","Veuillez corriger la valeur de la colonne ""%1"".",module,Magento_ImportExport
+"Please correct the value for '%s'.","Saisir une valeur correcte pour '%s'.",module,Magento_ImportExport
 "Please enter a correct entity.","Veuillez saisir une entité correcte.",module,Magento_ImportExport
 "Please enter a correct entity model.","Veuillez entrer un modèle d'entité correcte.",module,Magento_ImportExport
 "Please enter a correct entity model","Veuillez entrer un modèle d'entité correcte",module,Magento_ImportExport
+"Please fix errors and re-upload file.","Veuillez corriger les erreur et renvoyer le fichier.",module,Magento_ImportExport
 "Please provide filter data.","Veuillez fournir des données de filtrage.",module,Magento_ImportExport
 "-- Please Select --","-- Faire un Choix --",module,Magento_ImportExport
 "Please specify a source.","Veuillez spécifier une source.",module,Magento_ImportExport
@@ -132,6 +135,7 @@
 "There is no sample file for this entity.","Il n'y a pas de fichier d'exemple pour cette entité.",module,Magento_ImportExport
 "The source file moving process failed.","Le processus de déplacement du fichier source a échoué.",module,Magento_ImportExport
 "The source is not set.","La source n'est pas défini.",module,Magento_ImportExport
+"The total size of the uploadable files can't be more than %1M","La taille total des fichiers ne peut pas être supérieure à %1M",module,Magento_ImportExport
 "The validation is complete.","La validation est terminée.",module,Magento_ImportExport
 "This file does not contain any data.","Ce fichier ne contient pas de données.",module,Magento_ImportExport
 "This file is empty. Please try another one.","Ce fichier est vide. Veuillez en essayer un autre.",module,Magento_ImportExport
@@ -140,6 +144,7 @@
 "Uploaded file has no extension","Le fichier uploadé n'a pas d'extension",module,Magento_ImportExport
 "URL key for specified store already exists.","La clé d'URL pour le magasin existe déjà.",module,Magento_ImportExport
 "User","Utilisateur",module,Magento_ImportExport
+"Validation finished successfully","Succès lors de la validation",module,Magento_ImportExport
 "Validation Results","Résultat de validation",module,Magento_ImportExport
 "We can't determine the attribute filter type.","Nous ne pouvons pas déterminer le type de filtre d'attribut.",module,Magento_ImportExport
 "We can't filter an attribute with no attribute options.","Nous ne pouvons pas filtrer un attribut sans options d'attributs.",module,Magento_ImportExport

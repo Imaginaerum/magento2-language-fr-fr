@@ -30,6 +30,7 @@
 "Store is inactive","Magasin désactivé",module,Magento_Store
 "Store with the same code","Magasin avec le même code",module,Magento_Store
 "The store code may contain only letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.","Le code du magasin ne peut contenir que des lettres (a-z), nombres (0-9) ou underscore (_). Le premier caractère doit être une lettre.",module,Magento_Store
+"The store code may contain only letters (a-z), numbers (0-9) or underscore(_),' ' the first character must be a letter","Le code magasin doit contenir uniquement des lettres (a-z), nombres (0-9) underscore (_),' ' le premier caractère doit être une lettre",module,Magento_Store
 "Various XML configurations that were collected across modules and merged.","Plusieurs configurations XML ont été récupérés dans les modules et ont été fusionnées.",module,Magento_Store
 "Website code may only contain letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.","Le code du site web ne peut contenir que des lettres (a-z), nombres (0-9) ou underscore (_). Le premier caractère doit être une lettre.",module,Magento_Store
 "Website code may only contain letters (a-z), numbers (0-9) or underscore(_), the first character must be a letter","Le code de site web ne doit contenir que des lettres (a-z), des chiffres (0-9) ou underscore (_). Le premier caractère doit être une lettre",module,Magento_Store

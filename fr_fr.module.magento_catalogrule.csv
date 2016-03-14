@@ -61,6 +61,7 @@
 "SKU","SKU",module,Magento_CatalogRule
 "Something went wrong while saving the rule data. Please review the error log.","Une erreur s'est produite lors de l'enregistrement de la règle. Veuillez vérifier le journal des erreurs.",module,Magento_CatalogRule
 "Start","Commencer",module,Magento_CatalogRule
+"Start on","Démarrer",module,Magento_CatalogRule
 "Status","Statut",module,Magento_CatalogRule
 "Stop Further Rules Processing","Ne pas traiter les règles suivantes",module,Magento_CatalogRule
 "Subproduct discounts","Activer les remises sur les sous-produits",module,Magento_CatalogRule

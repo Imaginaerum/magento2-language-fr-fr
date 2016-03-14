@@ -364,11 +364,14 @@
 "Please enter a number greater than 0 in this field.","Veuillez saisir un nombre supérieur à 0 dans ce champ.",module,Magento_Backend
 "Please enter a valid credit card number.","Veuillez saisir un numéro de carte bancaire valide.",module,Magento_Backend
 "Please enter a valid date.","Veuillez saisir une date valide.",module,Magento_Backend
+"Please enter a valid dollar amount (for example, $100.00).","Veuillez saisir un montant en dollar valide (par exemple, $100.00).",module,Magento_Backend
 "Please enter a valid email address(for example johndoe@domain.com.).","Veuillez saisir une adresse email valide. Par exemple prenom.nom@domaine.com.",module,Magento_Backend
 "Please enter a valid number in this field.","Veuillez saisir un nombre valide.",module,Magento_Backend
 "Please enter a valid password.","Veuillez saisir un mot de passe valide.",module,Magento_Backend
 "Please enter a valid phone number (for example, (123) 456-7890 or 123-456-7890).","Veuillez saisir un numéro de téléphone valide.",module,Magento_Backend
 "Please enter a valid social security number (for example, 123-45-6789).","Veuillez saisir un numéro de sécurité sociale valide. Par exemple 123-45-6789.",module,Magento_Backend
+"Please enter a valid URL (for examples, http://www.example.com or www.example.com).","Veuillez saisir une URL valide (par exemple, http://www.example.com ou www.example.com).",module,Magento_Backend
+"Please enter a valid URL (for example, the URL must begin with ""http://"").","Veuillez saisir une URL valide (doit commencer par ""http://"").",module,Magento_Backend
 "Please enter a valid zip code.","Veuillez saisir un code postal valide.",module,Magento_Backend
 "Please enter a valid zip code (for example, 90602 or 90602-1234).","Veuillez saisir un code postal valide. Par exemple 92100.",module,Magento_Backend
 "Please make sure that all global admin search modules are installed and activated.","Vérifiez que tous les modules admin de recherche sont installés et activés.",module,Magento_Backend
@@ -376,6 +379,7 @@
 "-- Please Select --","-- Faire un Choix --",module,Magento_Backend
 "Please select an option.","Sélectionnez une option.",module,Magento_Backend
 "Please select items.","Veuillez sélectionner un élement.",module,Magento_Backend
+"Please select one of these options.","Choisir une des options suivantes",module,Magento_Backend
 "Please select State/Province.","Veuillez choisir un état/province.",module,Magento_Backend
 "Please specify the admin custom URL.","Spécifiez l'URL d'Admin personnalisée.",module,Magento_Backend
 "Please try to sign out and sign in again.","Veuillez essayer de vous déconnectez et vous reconnecter une nouvelle fois.",module,Magento_Backend
@@ -463,6 +467,7 @@
 "Sort Order","Ordre de Tri",module,Magento_Backend
 "Specified","Spécifié",module,Magento_Backend
 "Specified cache type(s) don't exist: %1","Les types de cache spécifiés n'existent pas: %1",module,Magento_Backend
+"Specified cache type(s) don't exist: ","Types(s) de cache spécifié(s) inexistant(s) ",module,Magento_Backend
 "Specify a fully qualified URL.","Spécifiez une URL qualifiée.",module,Magento_Backend
 "Specify a URL or path that starts with placeholder(s): %1, and ends with ""/"".","Spécifiez une URL ou un chemin qui commence par: %1, et se termine par ""/"".",module,Magento_Backend
 "Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","Spécifiez l'URL ou utilisez la variable {{base_url}}.",module,Magento_Backend

@@ -35,6 +35,7 @@
 "Video Error","Erreur Vidéo",module,Magento_ProductVideo
 "Video not found","Vidéo introuvable",module,Magento_ProductVideo
 "Vimeo supported.<br />To add YouTube video, please <a href=""%1"">enter YouTube API Key</a> first.","Viméo supporté. Pour ajouter une vidéo YouTube, veuillez <a href=""%1"">renseigner une clé d'API YouTube</a>.",module,Magento_ProductVideo
+"You have not entered youtube API key. No information about youtube video will be retrieved.","Aucune clé API youtube saisie. Les informations de la vidéo youtube ne peuvent être retrouvées.",module,Magento_ProductVideo
 "YouTube and Vimeo supported.","YouTube et Vimeo sont supportés.",module,Magento_ProductVideo
 "YouTube API key","Clé d'API YouTube",module,Magento_ProductVideo
 "YouTube API Key","Clé d'API YouTube",module,Magento_ProductVideo

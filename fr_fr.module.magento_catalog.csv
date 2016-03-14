@@ -614,6 +614,9 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Small Image","Petite image",module,Magento_Catalog
 "Some of the selected item options are not currently available.","Certaines options ne sont pas actuellement disponibles.",module,Magento_Catalog
 "Something went wrong  clearing the comparison list.","Une erreur s'est produite lors de la vidange de la liste de comparaison.",module,Magento_Catalog
+"Something went wrong removing products from the websites.","Une erreur s'est produite lors de la suppression des produits depuis les sites web.",module,Magento_Catalog
+"Something went wrong saving the attribute.","Une erreur s'est produite lors de la sauvegarde de l'attribut.",module,Magento_Catalog
+"Something went wrong saving the URL rewite.","Une erreur s'est produite lors de la sauvegarde de réécriture d'URL",module,Magento_Catalog
 "Something went wrong while adding products to websites.","Une erreur s'est produite lors de l'ajout des produits aux sites web.",module,Magento_Catalog
 "Something went wrong while processing the request.","Une erreur s'est produite lors du traitement de la demande.",module,Magento_Catalog
 "Something went wrong while removing products from the websites.","Une erreur s'est produite lors de la suppression des produits des sites web.",module,Magento_Catalog
@@ -671,8 +674,10 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "The configuration item option instance in options group is incorrect.","L'instance de l'option d'élément de configuration dans le groupe d'options est incorrecte.",module,Magento_Catalog
 "The field isn't complete.","Champ incomplet.",module,Magento_Catalog
 "The file '%1' for '%2' has an invalid extension.","Le fichier '%1' pour '%2' a une extension invalide.",module,Magento_Catalog
+"The file '%1' is empty. Please choose another one","Fichier ""%1"" vide. Veuillez en choisir un autre.",module,Magento_Catalog
 "The file '%1' is invalid. Please choose another one","Fichier ""%1"" invalide. Veuillez en choisir un autre",module,Magento_Catalog
 "The file '%1' you uploaded is larger than the %2 megabytes allowed by our server.","Le fichier ""%1"" que vous avez téléchargé est plus grand que les %2 mégaoctets permises par notre serveur.",module,Magento_Catalog
+"The file is empty. Please choose another one","Fichier vide. Veuillez en choisir un autre.",module,Magento_Catalog
 "The file options format is not valid.","Le format du fichier des options est invalide.",module,Magento_Catalog
 "The file upload failed.","Le chargement du fichier a échoué.",module,Magento_Catalog
 "The file you uploaded is larger than %1 Megabytes allowed by server","Le fichier uploadé a une taille supérieure à %1 Mo. Maximum autorisé sur le serveur",module,Magento_Catalog
@@ -690,6 +695,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "The product attribute has been deleted.","L'attribut de produit a été effacé.",module,Magento_Catalog
 "The product has required options.","Le produit nécessite une ou plusieurs options.",module,Magento_Catalog
 "The product instance type in options group is incorrect.","Le type d'instance du produit dans le groupe d'options est incorrecte.",module,Magento_Catalog
+"The product is not loaded.","Produit non chargé",module,Magento_Catalog
 "There are no customers for this alert.","Aucun client pour cette alerte.",module,Magento_Catalog
 "There are no products matching the selection.","Aucun produit ne correspond à la sélection.",module,Magento_Catalog
 "There are not websites for assign to product","Il n'y a pas de sites web pour l'assigner au produit",module,Magento_Catalog
@@ -732,6 +738,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Type","Type",module,Magento_Catalog
 "Unable to remove product %1","Impossible de supprimer le produit %1",module,Magento_Catalog
 "Unable to save product","Impossible de sauvegarder le produit",module,Magento_Catalog
+"Unable to save the category","Impossible de sauvegarder la catégorie",module,Magento_Catalog
 "Unassigned Attributes","Attributs non assignés",module,Magento_Catalog
 "Unique Value","Valeur Unique",module,Magento_Catalog
 "Unique Value (not shared with other products)","Valeur unique (non partagée avec les autres produits)",module,Magento_Catalog

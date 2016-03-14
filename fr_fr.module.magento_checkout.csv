@@ -163,6 +163,7 @@
 "Shopping Cart Sidebar","Barre latérale du panier",module,Magento_Checkout
 "Something went wrong while processing your order. Please try again later.","Une erreur s'est produite lors du traitement de votre commande. Veuillez réessayer plus tard.",module,Magento_Checkout
 "Sorry, guest checkout is not available.","Désolé, le passage de commande des invités n'est pas disponible.",module,Magento_Checkout
+"Sorry, guest checkout is not enabled.","Les commandes invités sont desactivées",module,Magento_Checkout
 "Sorry, no quotes are available for this order at this time.","Aucun mode de livraison n'est disponible pour votre adresse.",module,Magento_Checkout
 "State/Province","État/Province",module,Magento_Checkout
 "Street Address %1","Rue - Voie - Bât. %1",module,Magento_Checkout
@@ -223,6 +224,7 @@
 "Wrong minimum amount.","Montant minimum incorrect.",module,Magento_Checkout
 "You added %1 to your shopping cart.","Le produit %1 a été ajouté à votre panier.",module,Magento_Checkout
 "You canceled the coupon code.","Vous avez annulé le code de promo.",module,Magento_Checkout
+"You can create an account after checkout.","Vous pourrez créer un compte après avoir passé votre commande",module,Magento_Checkout
 "You have no items in your shopping cart.","Aucun article dans votre panier.",module,Magento_Checkout
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","Vous devez confirmer votre compte. Vérifier dans vos email si vous avez reçu le lien de confirmation ou <a href=""%1"">cliquez ici </a> pour obtenir un nouveau lien.",module,Magento_Checkout
 "Your Checkout Progress","Avancement de votre commande",module,Magento_Checkout

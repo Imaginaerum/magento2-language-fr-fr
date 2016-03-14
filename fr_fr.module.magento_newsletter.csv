@@ -95,6 +95,7 @@
 "Something went wrong while saving your subscription.","Une erreur s'est produite lors de l'enregistrement de cette abonnement.",module,Magento_Newsletter
 "Something went wrong while unsubscribing you.","Une erreur s'est produite lors de la désinscription.",module,Magento_Newsletter
 "Something went wrong with the subscription.","Une erreur s'est produite lors de la souscription à l'abonnement.",module,Magento_Newsletter
+"Something went wrong with the un-subscription.","Une erreur s'est produite lors de la désinscription.",module,Magento_Newsletter
 "Sorry, but the administrator denied subscription for guests. Please <a href=""%1"">register</a>.","Désolé, les abonnements pour les invités sont désactivés. Veuillez vous <a href=""%1"">sauvegarder</a>.",module,Magento_Newsletter
 "Sorry, but the administrator denied subscription for guests. ' 'Please <a href=""%1"">register</a>.","Désolé, les abonnements pour les invités sont désactivés. Veuillez vous <a href=""%1"">sauvegarder</a>.",module,Magento_Newsletter
 "Start","Commencer",module,Magento_Newsletter
@@ -120,6 +121,7 @@
 "Thank you for subscribing to our newsletter.","Merci pour votre abonnement à notre newsletter.",module,Magento_Newsletter
 "Thank you for your subscription.","Merci de votre inscription.",module,Magento_Newsletter
 "The confirmation request has been sent.","La demande de confirmation a été envoyée.",module,Magento_Newsletter
+"The newsletter queue has been saved.","File d'attente newsletter sauvegardée.",module,Magento_Newsletter
 "The newsletter template has been deleted.","Le gabarit de newsletter a été supprimé.",module,Magento_Newsletter
 "The newsletter template has been saved.","Le gabarit de newsletter a été sauvegardé.",module,Magento_Newsletter
 "The problems you identified have been deleted.","Les problèmes que vous avez identifiés ont été supprimés.",module,Magento_Newsletter

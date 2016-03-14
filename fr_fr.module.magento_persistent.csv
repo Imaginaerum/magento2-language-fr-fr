@@ -13,6 +13,7 @@
 "Persist Shopping Cart","Panier Persistant",module,Magento_Persistent
 "Remember Me","Se souvenir de moi",module,Magento_Persistent
 """Remember Me"" Default Value","Valeur par Défaut du ""Se Souvenir de Moi""",module,Magento_Persistent
+"To check out, please log in using your email address.","Pour commander, veuillez vous connecter avec votre adresse email.",module,Magento_Persistent
 "To check out, please sign in using your email address.","Pour commander, veuillez vous connecter en utilisant votre adresse email.",module,Magento_Persistent
 "We cannot load the configuration from file %1.","Nous ne pouvons pas charger la configuration à partir du fichier %1.",module,Magento_Persistent
 "Welcome, %1!","Bienvenue, %1 !",module,Magento_Persistent

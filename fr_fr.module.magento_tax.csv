@@ -131,6 +131,9 @@
 "Something went wrong","Une erreur s'est produite",module,Magento_Tax
 "Something went wrong deleting this rate.","Une erreur s'est produite lors de la suppression de ce taux.",module,Magento_Tax
 "Something went wrong deleting this tax rule.","Une erreur s'est produite lors de la suppression de cette règle de taxe.",module,Magento_Tax
+"Something went wrong saving this rate.","Une erreur s'est produite lors de la sauvegarde du taux.",module,Magento_Tax
+"Something went wrong saving this tax class.","Une erreur s'est produite lors de la sauvegarde de la classe de taxe.",module,Magento_Tax
+"Something went wrong saving this tax rule.","Une erreur s'est produite lors de la sauvegarde de la règle de taxe.",module,Magento_Tax
 "Sort Order","Ordre de Tri",module,Magento_Tax
 "State","État",module,Magento_Tax
 "State/Region","État/Région",module,Magento_Tax

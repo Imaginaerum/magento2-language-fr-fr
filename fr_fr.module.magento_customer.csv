@@ -137,6 +137,7 @@
 "Customer View","Vue Client",module,Magento_Customer
 "Customer website ID must be specified when using the website scope","L'identifiant du site web du client doit être renseigné lorsque la portée du site web est utilisée",module,Magento_Customer
 "Customer will stay on the current page if ""No"" is selected.","Le client restera sur la page en cours si ""Non"" est sélectionné.",module,Magento_Customer
+"Customer with the same email already exists in associated website.","Un client avec le même email existe déjà dans le site web.",module,Magento_Customer
 "Date of Birth","Date d'Anniversaire",module,Magento_Customer
 "Date Of Birth","Date d'Anniversaire",module,Magento_Customer
 "Day","Jour",module,Magento_Customer
@@ -297,6 +298,7 @@
 "Page not found.","Page introuvable.",module,Magento_Customer
 "Password:","Mot de Passe:",module,Magento_Customer
 "Password","Mot de Passe",module,Magento_Customer
+"Password doesn't match for this account.","La mot de passe du compte ne correspond pas",module,Magento_Customer
 "Password forgotten","Mot de passe oublié",module,Magento_Customer
 "Password Options","Options de mot de passe",module,Magento_Customer
 "Password Template Email Sender","Gabarit Expéditeur du mail d'envoi du mot de passe",module,Magento_Customer
@@ -459,6 +461,7 @@
 "The customer would belong to Customer Group %s.","Le Client fait partie du groupe %s.",module,Magento_Customer
 "The Date of Birth is required.","La date de naissance est obligatoire.",module,Magento_Customer
 "The first name cannot be empty.","Le prénom ne peut pas être vide.",module,Magento_Customer
+"The group ""%1"" cannot be deleted","Le groupe ""%1"" ne peut être supprimé",module,Magento_Customer
 "The last name cannot be empty.","Le nom de famille ne peut pas être vide.",module,Magento_Customer
 "The password can not begin or end with a space.","Le mot de passe ne peut commencer ou se terminer par un espace.",module,Magento_Customer
 "The password can't begin or end with a space.","Le mot de passe ne peut pas commencer ou se terminer par un espace.",module,Magento_Customer
