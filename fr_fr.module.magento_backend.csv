@@ -383,6 +383,7 @@
 "Please select State/Province.","Veuillez choisir un état/province.",module,Magento_Backend
 "Please specify the admin custom URL.","Spécifiez l'URL d'Admin personnalisée.",module,Magento_Backend
 "Please try to sign out and sign in again.","Veuillez essayer de vous déconnectez et vous reconnecter une nouvelle fois.",module,Magento_Backend
+"Please use this date format: dd/mm/yyyy. For example, enter ""17/03/2006"" to represent March 17, 2006.","Utilisez le format de date suivant: dd/mm/yyyy. Par exemple, saisissez ""17/03/2006"" pour obtenir March 17, 2006.",module,Magento_Backend
 "Please wait...","Veuillez patienter...",module,Magento_Backend
 "Please wait, loading...","Veuillez patienter, chargement en cours...",module,Magento_Backend
 "Port (25)","Port (25)",module,Magento_Backend

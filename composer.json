@@ -8,7 +8,12 @@
         "magento",
         "magento2",
         "plugin",
-        "module"
+        "module",
+        "french",
+        "language pack",
+        "fr_FR",
+        "i18n",
+        "fr"
     ],
     "license": [
         "MIT"

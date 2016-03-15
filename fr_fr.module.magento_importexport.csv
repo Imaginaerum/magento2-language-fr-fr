@@ -40,6 +40,7 @@
 "Error File","Fichier d'erreur",module,Magento_ImportExport
 "Error in data structure: %1 values are mixed","Erreur dans la structure de données: %1 des valeurs sont mélangées",module,Magento_ImportExport
 "Error message","error_message",module,Magento_ImportExport
+"Errors limit (%1) reached. Please fix errors and re-upload file.","Nombre d'erreur (%1) atteint. Corrigez les erreurs et renvoyez le fichier.",module,Magento_ImportExport
 "Exclude","Exclure",module,Magento_ImportExport
 "Execution Time","Temps d'exécution",module,Magento_ImportExport
 "Export","Exporter",module,Magento_ImportExport

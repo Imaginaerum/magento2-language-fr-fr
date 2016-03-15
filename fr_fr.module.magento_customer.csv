@@ -345,6 +345,7 @@
 "Please enter your email address below to receive a password reset link.","Veuillez entrer votre adresse email ci-dessous pour recevoir un lien de réinitialisation de mot de passe.",module,Magento_Customer
 "Please enter your email address below. You will receive a link to reset your password.","Saisissez votre email ci-dessous. Nous vous enverrons un lien pour réinitialiser votre mot de passe.",module,Magento_Customer
 "Please enter your email below and we will send you the confirmation link.","Veuillez entrer votre email ci-dessous pour recevoir le lien de confirmation.",module,Magento_Customer
+"Please load the wish list item.","Veuillez charger l'article de la liste d'envies.",module,Magento_Customer
 "Please load Wish List item.","Veuillez charger la liste d'envie.",module,Magento_Customer
 "Please make sure your passwords match.","Vérifiez que vos mots de passe concordent.",module,Magento_Customer
 "-- Please Select --","-- Faire un Choix --",module,Magento_Customer

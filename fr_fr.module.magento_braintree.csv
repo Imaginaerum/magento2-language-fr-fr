@@ -118,26 +118,36 @@
 "Extended address is invalid","Extension d'adresse invalide",module,Magento_Braintree
 "Extended address is too long.","Extension d'adresse trop longue.",module,Magento_Braintree
 "Fax is too long.","Fax trop long.",module,Magento_Braintree
+"First billing date cannot be in the past","La date de première facturation ne peut être une date antérieure",module,Magento_Braintree
+"First billing date cannot be updated","La date de première facturation ne peut être mise à jour",module,Magento_Braintree
+"First billing date is invalid","La date de première facturation est invalide",module,Magento_Braintree
 "First Name","Prénom",module,Magento_Braintree
 "First name is invalid","Prénom invalide",module,Magento_Braintree
 "First name is too long.","Prénom trop long.",module,Magento_Braintree
+"ID has already been taken.","ID déjà donné.",module,Magento_Braintree
 "ID is invalid.","ID invalide.",module,Magento_Braintree
 "Id is required","id requis",module,Magento_Braintree
 "Incomplete payment information.","Informations de paiement incomplet.",module,Magento_Braintree
+"Inconsistent country","Pays incompatible",module,Magento_Braintree
+"Inconsistent number of billing cycles","Nombre de cycles de facturation incompatible",module,Magento_Braintree
 "Inconsistent start date","Date de début incompatible",module,Magento_Braintree
 "Incorrect payment method.","Méthode de paiement incorrecte.",module,Magento_Braintree
 "Invalid Address Data provided","Données d'adresse invalide",module,Magento_Braintree
+"Invalid Credit Card Data provided","Données de carte de crédit invalides",module,Magento_Braintree
 "Invalid Customer ID provided","ID client invalide",module,Magento_Braintree
 "Invalid request format","Format de requête invalide",module,Magento_Braintree
+"Invalid venmo sdk payment method code","Code de la méthode de paiement venmo sdk invalide",module,Magento_Braintree
 "Invalid verification merchant account ID","Vérification ID compte marchand invalide",module,Magento_Braintree
 "Invoice","Facture",module,Magento_Braintree
 "Is Default","Par Défaut",module,Magento_Braintree
 "Issue Number","Numéro de problème",module,Magento_Braintree
 "Last Name","Nom",module,Magento_Braintree
+"Last name is invalid","Nom invalide",module,Magento_Braintree
 "Last name is too long.","Le prénom est trop long.",module,Magento_Braintree
 "Locality is invalid","Localité invalide",module,Magento_Braintree
 "Locality is too long.","Localité trop longue",module,Magento_Braintree
 "Make Default","Créer par Défaut",module,Magento_Braintree
+"Merchant account does not support MOTO","Le compte marchand ne supporte pas MOTO",module,Magento_Braintree
 "Merchant Account ID","ID Compte Marchand",module,Magento_Braintree
 "Merchant account ID is invalid.","ID du compte marchand invalide.",module,Magento_Braintree
 "Merchant account is suspended.","Compte marchand suspendu.",module,Magento_Braintree
@@ -165,6 +175,8 @@
 "Payment Information","Informations de paiement",module,Magento_Braintree
 "Payment method conflict","Conflit méthode de paiement",module,Magento_Braintree
 "Payment method conflict with venmo sdk","Conflit méthode de paiement avec le sdk venmo",module,Magento_Braintree
+"Payment method token is invalid.","Jeton de méthode de paiement invalide.",module,Magento_Braintree
+"Payment method token is required.","Jeton de méthode de paiement requis",module,Magento_Braintree
 "PayPal through Braintree","PayPal via Braintree",module,Magento_Braintree
 "Phone is too long.","Numéro de téléphone trop long",module,Magento_Braintree
 "Plan ID is invalid.","ID Plan invalide.",module,Magento_Braintree
@@ -176,6 +188,7 @@
 "Please try again later","Veuillez réessayer plus tard",module,Magento_Braintree
 "Please wait 24 hours before trying to issue a partial refund.","Veuillez attendre 24 heures avant d'essayer de régler un remboursement partiel.",module,Magento_Braintree
 "Postal Code","Code Postal",module,Magento_Braintree
+"Postal code can only contain letters, numbers, spaces, and hyphens.","Le code postal ne peut contenir que des lettres, nombres, espaces et traits d'union",module,Magento_Braintree
 "Postal code is invalid","Code postal invalide",module,Magento_Braintree
 "Postal code is required.","Code postal requis.",module,Magento_Braintree
 "Postal code may contain no more than 9 letter or number characters.","Le code postal doit contenir moins de 9 lettres ou nombres.",module,Magento_Braintree

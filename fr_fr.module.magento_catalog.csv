@@ -498,6 +498,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Prev","Préc",module,Magento_Catalog
 "Price: %1","Prix: %1",module,Magento_Catalog
 "Price","Prix",module,Magento_Catalog
+"Price as configured:","Prix ​​de cette configuration:",module,Magento_Catalog
 "Price Type","Type de Prix",module,Magento_Catalog
 "Print This Page","Imprimer cette page",module,Magento_Catalog
 "Product %1 doesn't have linked %2 as %3","Le produit %1 n'a pas pu être liée au %2 ainsi qu'au %3",module,Magento_Catalog

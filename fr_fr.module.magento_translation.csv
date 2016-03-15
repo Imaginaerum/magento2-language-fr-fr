@@ -28,6 +28,7 @@
 "Edit Order","Éditer la commande",module,Magento_Translation
 "Embedded (Translation on Admin side)","Embarqué (Traduction coté Back Office)",module,Magento_Translation
 "Error","Erreur",module,Magento_Translation
+"Error happened while creating wishlist. Please try again later","Erreur lors de la création de la liste d'envies. Veuillez réessayer plus tard",module,Magento_Translation
 "Error: unknown error.","Erreur inconnue.",module,Magento_Translation
 "File extension not known or unsupported type.","Extension de fichier non reconnue ou non supportée.",module,Magento_Translation
 "Folder","Répertoire",module,Magento_Translation
@@ -46,6 +47,7 @@
 "No","Non",module,Magento_Translation
 "No confirmation","Aucune confirmation",module,Magento_Translation
 "No records found.","Aucun élément trouvé.",module,Magento_Translation
+"No stores were reassigned.","Aucun magasin assigné",module,Magento_Translation
 "Ok","Ok",module,Magento_Translation
 "OK","Ok",module,Magento_Translation
 "Please add rows to option.","Veuillez ajouter des lignes à l'option.",module,Magento_Translation

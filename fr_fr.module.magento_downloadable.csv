@@ -58,6 +58,7 @@
 "Out of stock","En rupture de stock",module,Magento_Downloadable
 "Pending","En attente",module,Magento_Downloadable
 "Please log in to download your product.","Veuillez vous connecter pour pouvoir télécharger votre produit.",module,Magento_Downloadable
+"Please log in to download your product or purchase <a href=""%1"">%2</a>.","Veuillez vous connecter pour télécharger votre produit <a href=""%1"">%2</a>.",module,Magento_Downloadable
 "Please set resource file and link type.","Renseignez le fichier de ressource et le type de lien.",module,Magento_Downloadable
 "Please sign in to download your product.","Veuillez vous connecter pour télécharger votre produit.",module,Magento_Downloadable
 "Please sign in to download your product or purchase <a href=""%1"">%2</a>.","Veuillez vous connecter pour télécharger votre produit, ou achetez <a href=""%1"">%2</a>.",module,Magento_Downloadable

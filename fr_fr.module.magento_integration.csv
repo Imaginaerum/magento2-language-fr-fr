@@ -68,6 +68,7 @@
 "New Integration","Nouvelle intégration",module,Magento_Integration
 "No Integrations Found","Aucune Integration trouvées",module,Magento_Integration
 "No permissions requested","Aucune autorisation demandée",module,Magento_Integration
+"Number of maximum redirects for OAuth consumer credentials Post request.","Nombre maximum de requêtes de redirection OAuth atteint",module,Magento_Integration
 "OAuth","OAuth",module,Magento_Integration
 "OAuth consumer credentials HTTP Post maxredirects","OAuth consumer credentials HTTP Post maxredirects",module,Magento_Integration
 "OAuth consumer credentials HTTP Post timeout","OAuth consumer credentials HTTP Post timeout",module,Magento_Integration

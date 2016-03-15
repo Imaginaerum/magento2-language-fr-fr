@@ -437,6 +437,7 @@
 "Please select products","Veuillez sélectionner des produits",module,Magento_Sales
 "Please select products.","Veuillez sélectionner des produits.",module,Magento_Sales
 "Please set a proper payment and order id.","Veuillez définir un paiement et un identifiant de commande appropriés.",module,Magento_Sales
+"Please set a proper payment object.","Veuillez définir un objet de paiement correct.",module,Magento_Sales
 "Please specify a payment method.","Veuillez sélectionner une méthode de paiement.",module,Magento_Sales
 "Please specify a shipping method.","Sélectionnez un mode de livraison.",module,Magento_Sales
 "Please specify order items.","Veuillez spécifier les articles de la commande.",module,Magento_Sales
