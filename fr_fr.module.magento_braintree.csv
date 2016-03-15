@@ -102,6 +102,7 @@
 "Edit My Credit Cards","Mes Cartes de Crédit",module,Magento_Braintree
 "Email is an invalid format.","Format email invalide.",module,Magento_Braintree
 "Email is too long.","Email trop long.",module,Magento_Braintree
+"Enable Credit Card auto-detection on front-end","Activer la détection automatique de carte de crédit sur le front-end",module,Magento_Braintree
 "Enable Credit Card auto-detection on Storefront","Activer  l'auto-détection de carte bancaire sur la vue magasin",module,Magento_Braintree
 "Enabled","Activé",module,Magento_Braintree
 "Enable PayPal through Braintree","Activer PayPal via Braintree",module,Magento_Braintree

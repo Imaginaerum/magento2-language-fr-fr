@@ -1,6 +1,7 @@
 "CSV","CSV",module,Magento_CustomerImportExport
 "Customer address for such customer doesn't exist","L'adresse client n’existe pas",module,Magento_CustomerImportExport
 "Customer address id column is not specified","La colonne ID de l'adresse client n'est pas spécifiée",module,Magento_CustomerImportExport
+"Customer with such email and website code doesn't exist","Le client avec le code site web et cet e-mail inexistant",module,Magento_CustomerImportExport
 "E-mail and website combination is not found","Combinaison E-mail et site web non trouvée",module,Magento_CustomerImportExport
 "E-mail is duplicated in import file","Email en double dans le fichier d'import",module,Magento_CustomerImportExport
 "E-mail is invalid","Email invalide",module,Magento_CustomerImportExport

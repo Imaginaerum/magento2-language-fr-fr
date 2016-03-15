@@ -405,6 +405,7 @@
 "PDF Credit Memos","Avoirs en PDF",module,Magento_Sales
 "PDF Creditmemos","Avoirs en PDF",module,Magento_Sales
 "PDF Invoices","Factures en PDF",module,Magento_Sales
+"PDF Packing Slips","Bordereaux PDF",module,Magento_Sales
 "PDF Print-outs","Impressions PDF",module,Magento_Sales
 "PDF Shipments","PDF des Expéditions",module,Magento_Sales
 "Pending","En attente",module,Magento_Sales

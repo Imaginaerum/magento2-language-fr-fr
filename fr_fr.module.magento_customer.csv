@@ -136,6 +136,7 @@
 "Customers Only","Clients seulement",module,Magento_Customer
 "Customer View","Vue Client",module,Magento_Customer
 "Customer website ID must be specified when using the website scope","L'identifiant du site web du client doit être renseigné lorsque la portée du site web est utilisée",module,Magento_Customer
+"Customer will receive an email with a link to reset password.","Le client recevra un email contenant un lien de réinitialisation mot de passe",module,Magento_Customer
 "Customer will stay on the current page if ""No"" is selected.","Le client restera sur la page en cours si ""Non"" est sélectionné.",module,Magento_Customer
 "Customer with the same email already exists in associated website.","Un client avec le même email existe déjà dans le site web.",module,Magento_Customer
 "Date of Birth","Date d'Anniversaire",module,Magento_Customer
@@ -404,8 +405,10 @@
 "Share Customer Accounts","Partager les comptes client",module,Magento_Customer
 "Shipping Address","Adresse de Livraison",module,Magento_Customer
 "Ship-to Name","Nom de livraison",module,Magento_Customer
+"Shopping Cart - %1 item(s)","Panier - %1 article(s)",module,Magento_Customer
 "Shopping Cart","Panier",module,Magento_Customer
 "Shopping Cart from %1","Panier de %1",module,Magento_Customer
+"Shopping Cart of %1 - %2 item(s)","Panier %1 - %2 article(s)",module,Magento_Customer
 "Show Date of Birth","Afficher la date de naissance",module,Magento_Customer
 "Show Gender","Afficher le genre",module,Magento_Customer
 "Show Middle Name (initial)","Afficher les initiales",module,Magento_Customer
@@ -474,6 +477,7 @@
 "There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.","Il existe déjà un compte pour cette adresse email. Si vous êtes sûr d'avoir correctement saisi votre email, <a href=""%1"">cliquez ici</a> pour récupérer votre mot de passe et accéder à votre compte.",module,Magento_Customer
 "There was an error confirming the account","Il y a eu une erreur de confirmation de compte",module,Magento_Customer
 "There was an error detecting Customer Group.","Une erreur a été détectée dans le groupe clients.",module,Magento_Customer
+"There was an error validating the login and password.","Erreur lors de la validation login et mot de passe.",module,Magento_Customer
 "There was an error validating the VAT ID.","Erreur lors de la validation du numéro de TVA.",module,Magento_Customer
 "There was recently a request to change the password for your account.","Nous avons reçu une demande pour changer le mot de passe de cotre compte.",module,Magento_Customer
 "The suffix that goes after name (Jr., Sr., etc.)","Le suffixe Vient après le nom (Jr., Sr., etc.)",module,Magento_Customer
