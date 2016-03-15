@@ -8,6 +8,7 @@
 "Check the status of orders","Vérifier le statut des commandes",theme,frontend/Magento/luma
 "Clear All","Tout Supprimer",theme,frontend/Magento/luma
 "Continue to Shipping Information","Poursuivre vers les informations de livraison",theme,frontend/Magento/luma
+"Copy Selected to Wish List","Copier la sélection vers la liste d'envies",theme,frontend/Magento/luma
 "Copy to Wish List","Copier vers la liste d'envies",theme,frontend/Magento/luma
 "%customer_name,","%customer_name,",theme,frontend/Magento/luma
 "Customer Service","Service Client",theme,frontend/Magento/luma

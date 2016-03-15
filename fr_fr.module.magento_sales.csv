@@ -745,6 +745,7 @@
 "We can't find this order status.","Impossible de trouver ce statut de commande.",module,Magento_Sales
 "We can't find this wish list.","Impossible de trouver cette liste d'envies.",module,Magento_Sales
 "We can't get the order instance right now.","Impossible de récupérer l'instance de la commande.",module,Magento_Sales
+"We can't save the address:n%1","Impossible de sauvegarder l'adresse:n%1",module,Magento_Sales
 "We can't save the credit memo right now.","Impossible de sauvegarder l'avoir.",module,Magento_Sales
 "We can't save the invoice.","Impossible de sauvegarder la facture.",module,Magento_Sales
 "We can't save the invoice right now.","Impossible de sauvegarder la facture.",module,Magento_Sales
@@ -765,6 +766,7 @@
 "We don't have enough information to save the parent transaction ID.","Nous n'avons pas assez d'information pour sauvegarder l'identifiant de transaction parent.",module,Magento_Sales
 "We don't recognize the draw line data. Please define the ""lines"" array.","Ligne non reconnue. Veuillez définir un jeu de lignes.",module,Magento_Sales
 "We found an invalid entity model.","Modèle d'entité invalide.",module,Magento_Sales
+"We found an invalid qty to ship for item ""%1"".","Quantité livraison invalide pour l'article ""%1"".",module,Magento_Sales
 "We found an invalid quantity to invoice item ""%1"".","Il y a une quantité invalide sur l'article de la facture ""%1"".",module,Magento_Sales
 "We found an invalid quantity to refund item ""%1"".","Quantité invalide pour le remboursement de l'article ""%1"".",module,Magento_Sales
 "We found an invalid quantity to ship for item ""%1"".","Quantité à livrer invalide pour l'article ""%1"".",module,Magento_Sales

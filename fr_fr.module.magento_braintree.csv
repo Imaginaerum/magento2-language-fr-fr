@@ -66,6 +66,7 @@
 "Credit Card Number","Numéro de Carte de Crédit",module,Magento_Braintree
 "Credit card number is invalid.","Numéro de carte de crédit invalide.",module,Magento_Braintree
 "Credit card number is required.","Numéro de carte de crédit requis.",module,Magento_Braintree
+"Credit card number must be 12-19 digits.","Le numéro de carte de crédit doit contenir entre 12 et 19 chiffres.",module,Magento_Braintree
 "Credit Cards","Carte Bancaire",module,Magento_Braintree
 "Credit card successfully added","Carte bancaire ajoutée avec succès",module,Magento_Braintree
 "Credit card successfully deleted","Carte bancaire supprimé avec succès",module,Magento_Braintree
@@ -139,11 +140,13 @@
 "Make Default","Créer par Défaut",module,Magento_Braintree
 "Merchant Account ID","ID Compte Marchand",module,Magento_Braintree
 "Merchant account ID is invalid.","ID du compte marchand invalide.",module,Magento_Braintree
+"Merchant account is suspended.","Compte marchand suspendu.",module,Magento_Braintree
 "Merchant ID","ID de marchand",module,Magento_Braintree
 "Mismatch currency iso code","Discordance code iso devise",module,Magento_Braintree
 "Month","Mois",module,Magento_Braintree
 "My Credit Cards","Éditer mes Cartes de Crédit",module,Magento_Braintree
 "&nbsp;","&nbsp;",module,Magento_Braintree
+"Need a customer_id, payment_method_token, credit_card, or subscription_id.","customer_id, payment_method_token, credit_card, ou subscription_id requis.",module,Magento_Braintree
 "New Credit Card","Nouvelle carte bancaire",module,Magento_Braintree
 "New Order Status","Statut de la Nouvelle Commande",module,Magento_Braintree
 "New order status","Statut de la Nouvelle Commande",module,Magento_Braintree

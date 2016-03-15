@@ -120,6 +120,7 @@
 "We can't add the item to Wish List right now: %1.","Impossible d'ajouter l'article à la liste d'envies: %1.",module,Magento_Wishlist
 "We can't add the item to Wish List right now.","Impossible d'ajouter l'article à la liste d'envies.",module,Magento_Wishlist
 "We can't add this item to your shopping cart right now.","Impossible d'ajouter ce produit au panier.",module,Magento_Wishlist
+"We can't configure the product.","Impossible de configurer le produit.",module,Magento_Wishlist
 "We can't configure the product right now.","Impossible de configurer le produit.",module,Magento_Wishlist
 "We can't create the Wish List right now.","Impossible de créer la liste d'envies.",module,Magento_Wishlist
 "We can't delete item from Wish List right now.","Impossible de supprimer cet article de la liste d'envies.",module,Magento_Wishlist
