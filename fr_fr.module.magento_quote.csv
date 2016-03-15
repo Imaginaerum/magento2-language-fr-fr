@@ -40,6 +40,7 @@
 "Some of the selected options are not currently available.","Certaines options sélectionnées sont actuellement indisponibles.",module,Magento_Quote
 "Something went wrong during the item options declaration.","Une erreur s'est produite lors de la déclaration des options de l'article.",module,Magento_Quote
 "Store Credit","Carte de crédit du magasin",module,Magento_Quote
+"Subscription Items","Abonnement articles",module,Magento_Quote
 "Subtotal","Sous-Total",module,Magento_Quote
 "Tax","Taxe",module,Magento_Quote
 "The address model is not defined.","Le modèle d'adresse n'est pas défini.",module,Magento_Quote

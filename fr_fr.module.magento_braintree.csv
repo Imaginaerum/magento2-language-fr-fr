@@ -79,6 +79,7 @@
 "Credit card type is not allowed for your country.","Type de carte bancaire non autorisés pour votre pays.",module,Magento_Braintree
 "Credit Card Types","Types de Carte de Crédit",module,Magento_Braintree
 "Customer does not have any credit cards.","Le client ne possède pas de carte de crédit.",module,Magento_Braintree
+"Customer ID has already been taken.","ID Client déjà fourni.",module,Magento_Braintree
 "Customer ID is invalid.","ID client invalide.",module,Magento_Braintree
 "Customer ID is not an allowed ID.","ID Client non autorisé",module,Magento_Braintree
 "Customer ID is required.","ID Client requis.",module,Magento_Braintree
@@ -202,6 +203,9 @@
 "* Required Fields","* Champs requis",module,Magento_Braintree
 "Save this card for future use","Sauvegarder cette carte pour une utilisation future",module,Magento_Braintree
 "Selected payment type is not allowed for billing country.","Le type de paiement sélectionné n'est pas autorisé pour le pays de facturation.",module,Magento_Braintree
+"Service fee amount cannot be negative","Montant des frais de service ne peut être négatif",module,Magento_Braintree
+"Service fee amount format is invalid","Montant des frais de service invalide",module,Magento_Braintree
+"Service fee amount is too large","Montant des frais de service trop important",module,Magento_Braintree
 "Shipment","Expédition",module,Magento_Braintree
 "some error","Une erreur",module,Magento_Braintree
 "Something went wrong while processing.","Une erreur s'est produite lors du traitement.",module,Magento_Braintree

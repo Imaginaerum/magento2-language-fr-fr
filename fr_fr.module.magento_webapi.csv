@@ -14,6 +14,7 @@
 "If empty, UTF-8 will be used.","Si vide, l'UTF-8 sera utilisé.",module,Magento_Webapi
 "Integrations API Configuration","Configuration API Intégrations",module,Magento_Webapi
 "Integrations API configuration file.","Intégrations API du fichier de configuration.",module,Magento_Webapi
+"Internal Error. Details are available in Magento log file. Report ID: %1","Erreur interne. Détails disponibles dans les fichiers log Magento. ID rapport: %1",module,Magento_Webapi
 "Invalid XML","XML invalide",module,Magento_Webapi
 "Invalid XML: Detected use of illegal DOCTYPE","XML invalide: Détection d'une utilisation illégale de DOCTYPE",module,Magento_Webapi
 "Magento is not yet installed","Magento n'est pas installé",module,Magento_Webapi
@@ -30,6 +31,7 @@
 "Resource Access","Accès aux ressources",module,Magento_Webapi
 "Resources","Ressources",module,Magento_Webapi
 "REST and SOAP configurations, generated WSDL file.","Configurations REST et SOAP, fichier WSDL généré.",module,Magento_Webapi
+"Server internal error. See details in report api/%1","Erreur serveur interne. Voir les détails dans le rapport api/%1",module,Magento_Webapi
 "SOAP extension is not loaded.","L'extension SOAP n'est pas chargée.",module,Magento_Webapi
 "SOAP Settings","Paramètres SOAP",module,Magento_Webapi
 "UTF-8 is the only supported charset.","Seul UTF-8 est supporté.",module,Magento_Webapi

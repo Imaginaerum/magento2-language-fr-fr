@@ -532,6 +532,7 @@
 "The website does not exist.","Le site web n'existe pas.",module,Magento_Backend
 "The website has been deleted.","Le site web a été supprimé.",module,Magento_Backend
 "The website has been saved.","Le site web a été sauvegardé.",module,Magento_Backend
+"This attribute shares the same value in all stores.","Cet attribut partage les mêmes valeurs dans tous les magasins.",module,Magento_Backend
 "This is a required field.","Ce champ est obligatoire.",module,Magento_Backend
 "This is only a demo store. You can browse and place orders, but nothing will be processed.","Ceci est une boutique de démonstration. Vous pouvez naviguer et passer des commandes, mais aucune ne pourra être traitée.",module,Magento_Backend
 "This section is not allowed.","Cette section n'est pas autorisée.",module,Magento_Backend

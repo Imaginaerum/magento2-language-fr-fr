@@ -179,6 +179,7 @@
 "The customer address is not valid.","L'adresse du client n'est pas valide.",module,Magento_Checkout
 "The onepage checkout is disabled.","Le passage de commande en une seule page est désactivé.",module,Magento_Checkout
 "The product does not exist.","Le produit n'existe pas.",module,Magento_Checkout
+"There are more than one shipping address.","Il existe plusieurs adresses de livraison",module,Magento_Checkout
 "There are more than one shipping addresses.","Il y a plus d'une adresse de livraison.",module,Magento_Checkout
 "There is already a registered customer using this email address. Please log in using this email address or enter a different email address to register your account.","Il existe déjà un client avec cette adresse email. Veuillez vous connecter avec cette adresse email ou saisir une adresse email différente pour créer votre compte .",module,Magento_Checkout
 "This quote item does not exist.","Ce commentaire d'article n'existe pas.",module,Magento_Checkout

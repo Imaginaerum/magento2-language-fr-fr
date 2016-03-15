@@ -2,6 +2,7 @@
 "Change Encryption Key","Changer la clé de chiffrement",module,Magento_EncryptionKey
 "Deployment configuration file is not writable.","Le fichier de configuration du déploiement n'est pas accessible en écriture.",module,Magento_EncryptionKey
 "Encryption Key","Clé de chiffrement",module,Magento_EncryptionKey
+"Encryption Key Change","Changement de clé de cryptage",module,Magento_EncryptionKey
 "File %1 is not writeable.","Le Fichier %1 n'est pas accessible en écriture.",module,Magento_EncryptionKey
 "ID","ID",module,Magento_EncryptionKey
 "Manage Encryption Key","Gérer la clé de chiffrement",module,Magento_EncryptionKey

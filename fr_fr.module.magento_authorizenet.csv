@@ -94,5 +94,6 @@
 "We couldn't process your order right now. Please try again later.","Nous ne pouvons pas traiter votre commande maintenant. Veuillez réessayer ultérieurement.",module,Magento_Authorizenet
 "What is this?","Qu'est-ce que c'est?",module,Magento_Authorizenet
 "You created the order.","La commande a été créée.",module,Magento_Authorizenet
+"You have reached the maximum number of credit cards ' 'allowed to be used for the payment.","Nombre d'utilisation de cartes de crédit atteint pour ce mode de paiement.",module,Magento_Authorizenet
 "You'll be asked for your payment details before placing an order.","Vous serez averti(e)s des détails de paiement avant cotre confirmation de commande.",module,Magento_Authorizenet
 "Your credit card has been declined. You can click OK to add another credit card to complete your purchase. Or you can cancel this credit transaction and pay a different way.","Votre carte de crédit a été refusée. Vous pouvez cliquer sur OK pour ajouter une autre carte de crédit afin d'effectuer l'achat. Ou vous pouvez annuler cette opération et choisir un autre moyen de paiement.",module,Magento_Authorizenet
