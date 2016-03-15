@@ -686,6 +686,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "The filters must be an array.","Les filtres doivent être sous forme de tableau.",module,Magento_Catalog
 "The Flat Catalog module has a limit of %2$d filterable and/or sortable attributes.Currently there are %1$d of them.Please reduce the number of filterable/sortable attributes in order to use this module","Le module de catalogue à plat a une limite de %2$d filtrables et/ou d'attributs triables. Actuellement, il y a %1$d d'entre eux. Veuillez réduire le nombre d'attributs filtrables/triables pour utiliser ce module",module,Magento_Catalog
 "The Flat Catalog module has a limit of %2$d filterable and/or sortable attributes."" ""Currently there are %1$d of them."" ""Please reduce the number of filterable/sortable attributes in order to use this module","Le module de catalogue à plat a une limite de %2$d filtrables et/ou d'attributs triables. Actuellement, il y a %1$d d'entre eux. Veuillez réduire le nombre d'attributs filtrables/triables pour utiliser ce module",module,Magento_Catalog
+"The From Date value should be less than or equal to the To Date value.","La date de départ doit être inférieure ou égale à la date de fin.",module,Magento_Catalog
 "The image cannot be removed as it has been assigned to the other image role","L'image ne peut pas être supprimée car elle a été assignée à un autre rôle d'image",module,Magento_Catalog
 "The image content is not valid.","Le contenu de l'image n'est pas valide.",module,Magento_Catalog
 "The image does not exist.","L'image n'existe pas.",module,Magento_Catalog
@@ -825,6 +826,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "You added product %1 to the comparison list.","Vous avez ajouté le produit %1 à la liste de comparaison.",module,Magento_Catalog
 "You already have an identical search term query.","Il existe déjà une requête de recherche identique.",module,Magento_Catalog
 "You are about to delete all products in this attribute set. Are you sure you want to do that?","Vous êtes sur le point de supprimer tous les produits possédant ce jeu attribut. Êtes-vous sûr de vouloir faire ça?",module,Magento_Catalog
+"You cannot remove system attributes from this set.","Impossible de supprimer les attributs système depuis ce jeu d'attributs.",module,Magento_Catalog
 "You can't remove attributes from this attribute set.","Vous ne pouvez pas supprimer les attributs depuis ce jeu d'attribut.",module,Magento_Catalog
 "You can't update your attribute.","Impossible de mettre à jour l'attribut.",module,Magento_Catalog
 "You cleared the comparison list.","Vous avez vidé la liste de comparaison.",module,Magento_Catalog

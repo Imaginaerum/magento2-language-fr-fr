@@ -221,6 +221,7 @@
 "Street address is required.","Adresse requise.",module,Magento_Braintree
 "Street address is too long.","Adresse trop longue",module,Magento_Braintree
 "Submit","Envoyer",module,Magento_Braintree
+"Subscription has already been canceled.","Abonnement déjà annulé",module,Magento_Braintree
 "Subscription ID is invalid.","ID de souscription invalide.",module,Magento_Braintree
 "Switch/Solo/Maestro Only","Switch/Solo/Maestro Seulement",module,Magento_Braintree
 "Tax amount cannot be negative.","Le montant de la taxe ne peut être négatif.",module,Magento_Braintree

@@ -135,9 +135,15 @@
 "Unique Value (not shared with other products)","Valeur unique (non partagée avec les autres produits)",module,Magento_Eav
 "Unknown parameter","Paramètre inconnu",module,Magento_Eav
 "URL","Url",module,Magento_Eav
+"'%value%' appears to be a DNS hostname but cannot extract TLD part.","'%value%' semble être un hôte DNS, mais extraction impossible du TLD",module,Magento_Eav
+"'%value%' appears to be a DNS hostname but cannot match against hostname schema for TLD '%tld%'.","'%value%' semble être un hôte DNS, mais ne correspond pas au schema TLD '%tld%'.",module,Magento_Eav
+"'%value%' appears to be a DNS hostname but cannot match TLD against known list.","'%value%' semble être un hôte DNS, mais ne correspond pas à un schema TLD connu",module,Magento_Eav
+"'%value%' appears to be a DNS hostname but contains a dash in an invalid position.","'%value%' semble être un hôte DNS, mais contient un tiret à une position invalide",module,Magento_Eav
 "'%value%' appears to be a DNS hostname but the given punycode notation cannot be decoded.","'%value%' semble être un hôte DNS mais le punycode ne peut être lu.",module,Magento_Eav
 "'%value%' appears to be a DNS hostname, but the given punycode notation cannot be decoded.","'%value%' semble être un hôte DNS mais le punycode ne peut être lu.",module,Magento_Eav
+"'%value%' appears to be a local network name but local network names are not allowed.","'%value%' semble être un hôte local. Hôte local non autorisé.",module,Magento_Eav
 "'%value%' appears to be an IP address, but IP addresses are not allowed.","'%value%' semble être une adresse IP, mais les adresses IP ne sont pas autorisées.",module,Magento_Eav
+"'%value%' does not appear to be a valid local network name.","'%value%' ne semble pas être un nom valide.",module,Magento_Eav
 "'%value%' does not look like a valid local network name.","'%value%' ne semble pas être un nom de réseau valide.",module,Magento_Eav
 "'%value%' looks like a DNS hostname but cannot extract TLD part.","'%value%' semble être un hôte DNS, mais impossible d'obtenir son TLD.",module,Magento_Eav
 "'%value%' looks like a DNS hostname but contains a dash in an invalid position.","'%value%' semble être un hôte DNS mais contient un tiret dans une position invalide.",module,Magento_Eav

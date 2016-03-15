@@ -520,6 +520,7 @@
 "Themes JavaScript and CSS files combined to one file.","Fichiers de thèmes JavaScript et CSS combinés en un seul fichier.",module,Magento_Backend
 "There are no search keywords.","Il n'y a aucun mot clé de recherche.",module,Magento_Backend
 "The sender name ""%1"" is not valid. Please use only visible characters and spaces.","Le nom de l'expéditeur ""%1"" n'est pas valide. Veuillez utilisez uniquement des caractères et des espaces.",module,Magento_Backend
+"The specified image adapter cannot be used because of: %1","Adapter image ne peut être utilisé: %1",module,Magento_Backend
 "The static files cache has been cleaned.","Le cache des fichiers statiques a été vidé.",module,Magento_Backend
 "The store does not exist","Le magasin n'existe pas",module,Magento_Backend
 "The store has been deleted.","Le magasin a été supprimé.",module,Magento_Backend
@@ -623,6 +624,7 @@
 "We can't create a backup right now. Please try again later.","Nous ne pouvons pas créer une sauvegarde. Veuillez réessayer plus tard.",module,Magento_Backend
 "We can't refresh lifetime statistics.","Nous n'avons pas pu rafraîchir les statistiques depuis le début.",module,Magento_Backend
 "We can't save the Cron expression.","Impossible de sauvegarder l'expression du CRON.",module,Magento_Backend
+"We can't set up a URL rewrite because the category your chose is not associated with a website.","Impossible de définir la réécriture d'URL car la catégorie choisie n'est associée à aucun site web.",module,Magento_Backend
 "We can't set up a URL rewrite because the product you chose is not associated with a website.","Impossible d'ajouter une réécriture d'URL car le produit sélectionné n'est associé à aucun site web.",module,Magento_Backend
 "We could not detect a size.","Nous ne pouvons pas déterminer le poids du fichier.",module,Magento_Backend
 "We couldn't find any records.","Aucun enregistrement trouvé.",module,Magento_Backend

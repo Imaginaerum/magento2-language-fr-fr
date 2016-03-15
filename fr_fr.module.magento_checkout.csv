@@ -200,6 +200,7 @@
 "View cart","Voir le Panier",module,Magento_Checkout
 "View Details","Voir les détails",module,Magento_Checkout
 "We adjusted product quantities to fit the required increments.","Nous avons ajusté les quantités de produits pour adapter les incréments nécessaires.",module,Magento_Checkout
+"We are not able to ship to the selected shipping address. Please choose another address or edit the current address.","Impossible de livrer à l'adresse sélectionnée. Veuillez choisir une autre adresse ou éditer l'adresse choisie.",module,Magento_Checkout
 "We cannot add this item to your shopping cart","Impossible d'ajouter cet article dans le panier.",module,Magento_Checkout
 "We cannot apply the coupon code.","Nous ne pouvons pas appliquer le code promo.",module,Magento_Checkout
 "We cannot configure the product.","Nous ne pouvons pas configurer le produit.",module,Magento_Checkout
@@ -207,6 +208,7 @@
 "We cannot update the item.","Impossible de mettre à jour cet article.",module,Magento_Checkout
 "We cannot update the shopping cart.","Impossible de mettre à jour le panier.",module,Magento_Checkout
 "We can't add this item to your shopping cart right now.","Impossible d'ajouter ce produit au panier.",module,Magento_Checkout
+"We can't complete your order because you don't have a payment method available.","Impossible de terminer la commande en raison d'une méthode de paiement invalide.",module,Magento_Checkout
 "We can't find the product.","Impossible de trouver le produit.",module,Magento_Checkout
 "We can't find the quote item.","Impossible de trouver le commentaire du produit.",module,Magento_Checkout
 "We can't find the quote item.","Impossible de trouver le commentaire du produit.",module,Magento_Checkout

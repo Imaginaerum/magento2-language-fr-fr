@@ -50,6 +50,7 @@
 "Summary of review: %1 <br/>","Résumé de l'avis: %1 <br/>",module,Magento_Rss
 "Tax","Taxe",module,Magento_Rss
 "There are no Rss Feeds.","Aucun flux RSS.",module,Magento_Rss
+"There was no RSS feed enabled.","Aucun flux RSS activé.",module,Magento_Rss
 "To:","À:",module,Magento_Rss
 "Top Level Category","Catégorie de niveau supérieur",module,Magento_Rss
 "Total: %1<br/>","Total: %1<br/>",module,Magento_Rss

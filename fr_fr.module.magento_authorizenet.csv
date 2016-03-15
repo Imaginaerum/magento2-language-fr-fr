@@ -80,6 +80,7 @@
 "Test Mode","Mode Test",module,Magento_Authorizenet
 "There was an error canceling transactions. Please contact us or try again later.","Erreur lors de l'annulation de transactions. Veuillez nous contacter ou réessayez ultérieurement.",module,Magento_Authorizenet
 "There was a payment authorization error.","Il y a une erreur sur l'autorisation du paiement.",module,Magento_Authorizenet
+"The shopping cart contents and/or address has been changed.","Changement dans le contenu du panier et/ou adresse.",module,Magento_Authorizenet
 "The transaction was declined because the response hash validation failed.","La transaction a été refusée parce que la réponse de validation du hachage a échoué.",module,Magento_Authorizenet
 "This payment didn't work out because we can't find this order.","Ce paiement n'a pas été effectué car la commande est introuvable.",module,Magento_Authorizenet
 "Title","Titre",module,Magento_Authorizenet

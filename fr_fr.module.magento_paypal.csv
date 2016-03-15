@@ -590,6 +590,10 @@
 "We can't start Express Checkout.","Impossible de démarrer Express Checkout.",module,Magento_Paypal
 "We can't start the billing agreement wizard.","Nous ne pouvons pas lancer l'assistant d'entente de facturation.",module,Magento_Paypal
 "We can't update shipping method.","Nous ne pouvons pas mettre à jour la méthode d'expédition.",module,Magento_Paypal
+"We could not cancel the billing agreement.","Impossible d'annuler cet accord de facturation.",module,Magento_Paypal
+"We could not delete the billing agreement.","Impossible de supprimer cet accord de facturation.",module,Magento_Paypal
+"We couldn't cancel the billing agreement.","Impossible d'annuler cet accord de facturation.",module,Magento_Paypal
+"We couldn't create a billing agreement for this order.","Impossible de créer un accord de facturation pour cette commande.",module,Magento_Paypal
 "We couldn't finish the billing agreement wizard.","Nous n'avons pu terminer l'assistant d'entente de facturation.",module,Magento_Paypal
 "We fetched %1 report rows from '%2@%3'.","%1 lignes récupérées dans le rapport ""%2@%3"".",module,Magento_Paypal
 "We fetched %1 report rows from ""%2@%3.""","%1 lignes récupérées dans le rapport ""%2@%3.""",module,Magento_Paypal
