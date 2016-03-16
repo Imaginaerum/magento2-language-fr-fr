@@ -60,7 +60,7 @@
 "Please specify a payment method.","Veuillez sélectionner une méthode de paiement.",module,Magento_Multishipping
 "Please specify shipping methods for all addresses.","Spécifiez le mode de livraison pour chaque adresse.",module,Magento_Multishipping
 "Price","Prix",module,Magento_Multishipping
-"Product","produit",module,Magento_Multishipping
+"Product","Produit",module,Magento_Multishipping
 "Product Name","Nom du produit",module,Magento_Multishipping
 "Qty","Qté",module,Magento_Multishipping
 "Remove item","Supprimer l'élément",module,Magento_Multishipping

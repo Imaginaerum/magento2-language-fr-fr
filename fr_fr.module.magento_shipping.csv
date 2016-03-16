@@ -98,7 +98,7 @@
 "Print All Shipments","Imprimer toutes les livraisons",module,Magento_Shipping
 "Print Shipment","Imprimer la Livraison",module,Magento_Shipping
 "Print Shipping Label","Imprimer l'étiquette de livraison",module,Magento_Shipping
-"Product","produit",module,Magento_Shipping
+"Product","Produit",module,Magento_Shipping
 "Product Name","Nom du produit",module,Magento_Shipping
 "Products should be added to package(s)","Les produits devraient être ajoutés au(x) paquet(s)",module,Magento_Shipping
 "Qty","Qté",module,Magento_Shipping

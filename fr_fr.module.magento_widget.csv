@@ -47,7 +47,7 @@
 "Please Select Container First","Veuillez sélectionner le conteneur en premier",module,Magento_Widget
 "Please specify a correct widget.","Veuillez spécifier un widget valide.",module,Magento_Widget
 "Please specify a Widget Type.","Veuillez spécifier un type de widget.",module,Magento_Widget
-"Product","produit",module,Magento_Widget
+"Product","Produit",module,Magento_Widget
 "Products","Produits",module,Magento_Widget
 "Remove Layout Update","Supprimer la mise à jour d'agencement",module,Magento_Widget
 "Save and Continue Edit","Sauvegarder et Continuer à Éditer",module,Magento_Widget

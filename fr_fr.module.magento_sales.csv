@@ -457,7 +457,7 @@
 "Print Refund","Imprimer l'avoir",module,Magento_Sales
 "Print Shipping Labels","Imprimer les étiquettes de livraison",module,Magento_Sales
 "Processing","En cours de traitement",module,Magento_Sales
-"Product","produit",module,Magento_Sales
+"Product","Produit",module,Magento_Sales
 "Product Name","Nom du produit",module,Magento_Sales
 "Products","Produits",module,Magento_Sales
 "Products in Comparison List","Produits dans la liste de comparaison",module,Magento_Sales
