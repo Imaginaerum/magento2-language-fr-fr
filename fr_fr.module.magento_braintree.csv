@@ -33,11 +33,13 @@
 "Braintree","Braintree",module,Magento_Braintree
 "Cannot cancel release","Impossible d'annuler la diffusion",module,Magento_Braintree
 "Cannot clone transaction without submit_for_settlement flag.","Impossible de cloner la transaction sans le flag submit_for_settlement.",module,Magento_Braintree
+"Cannot clone voice authorization transactions","Vous ne pouvez pas cloner les transactions d'autorisation",module,Magento_Braintree
 "Cannot edit a canceled subscription.","Impossible d'éditer un abonnement annulé.",module,Magento_Braintree
 "Cannot edit expired subscription","Impossible d'éditer un abonnement expiré.",module,Magento_Braintree
 "Can not find original authorization transaction for partial capture","Impossible de trouver l'autorisation de transaction initiale pour la capture partielle",module,Magento_Braintree
 "Cannot hold in escrow","Impossible de bloquer",module,Magento_Braintree
 "Cannot partially refund escrowed transaction","Impossible de faire un remboursement partiel sur une transaction bloquée",module,Magento_Braintree
+"Cannot refund a transaction unless it is settled.","Vous ne pouvez pas effectuer de remboursement avant que la transaction ne soit réglée.",module,Magento_Braintree
 "Cannot release from escrow","Impossible de diffuser",module,Magento_Braintree
 "Capture action","Action de capture",module,Magento_Braintree
 "Cardholder Name","Nom du titulaire de la carte",module,Magento_Braintree

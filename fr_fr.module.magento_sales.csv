@@ -785,6 +785,7 @@
 "Wish List","Liste d'enVies",module,Magento_Sales
 "Yes","oui",module,Magento_Sales
 "You assigned the order status.","Statut de commande assigné.",module,Magento_Sales
+"You canceled the credit memo.","Avoir annulé",module,Magento_Sales
 "You canceled the invoice.","La facture a été annulée.",module,Magento_Sales
 "You canceled the order.","Commande annulée.",module,Magento_Sales
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Vous pouvez suivre le statut de votre commande en <a href=""%account_url"">vous connectant à votre compte</a>.",module,Magento_Sales

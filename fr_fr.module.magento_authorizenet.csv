@@ -22,6 +22,7 @@
 "Card Verification Number","Numéro de cryptogramme",module,Magento_Authorizenet
 "Card Verification Number Visual Reference","Référence visuelle numérique de vérification de carte",module,Magento_Authorizenet
 "CAVV Response","Réponse CAVV",module,Magento_Authorizenet
+"Click ""Cancel"" to remove any pending status and release money already processed during this payment.","Cliquez sur ""Annuler"" pour supprimer tout statut en attente et débloquer l'argent déjà encaissé au cours de ce paiement.",module,Magento_Authorizenet
 "Credit Card %1","Carte Bancaire %1",module,Magento_Authorizenet
 "Credit Card Information","Information de carte bancaire",module,Magento_Authorizenet
 "Credit Card Number","Numéro de Carte de Crédit",module,Magento_Authorizenet
