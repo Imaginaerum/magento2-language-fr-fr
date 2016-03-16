@@ -199,7 +199,10 @@
 "Price is too large","Prix trop grand",module,Magento_Braintree
 "Private Key","Clé Privée",module,Magento_Braintree
 "Public Key","Clé Publique",module,Magento_Braintree
+"Purchase order number is invalid","Numéro de commande invalide",module,Magento_Braintree
+"Purchase order number is too long.","Numéro de commande trop long",module,Magento_Braintree
 "Region is invalid","Région invalide",module,Magento_Braintree
+"Region is too long.","Région est trop long.",module,Magento_Braintree
 "Require Customer's Billing Address","Nécessite l'adresse de facturation du client",module,Magento_Braintree
 "* Required Fields","* Champs requis",module,Magento_Braintree
 "Save this card for future use","Sauvegarder cette carte pour une utilisation future",module,Magento_Braintree

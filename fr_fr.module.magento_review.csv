@@ -101,6 +101,7 @@
 "Reviews %1","Avis %1",module,Magento_Review
 "Reviews","Avis",module,Magento_Review
 "Review(s)","Avis",module,Magento_Review
+"Review (submitted on %1):","Avis (soumis le %1):",module,Magento_Review
 "Save and Next","Sauvegarder et Suivant",module,Magento_Review
 "Save and Previous","Sauvegarder et Précédent",module,Magento_Review
 "Save Rating","Sauvegarder la notation",module,Magento_Review
@@ -122,6 +123,7 @@
 "Summary of Review","Résumé de l'avis",module,Magento_Review
 "Summary of Your Review","Résumé de votre commentaire",module,Magento_Review
 "Summary Rating","Aperçu des évaluations",module,Magento_Review
+"The nickname field can't be empty.","Le champ nom ne peut être vide",module,Magento_Review
 "The review field can't be empty.","Le champs avis ne peut être vide.",module,Magento_Review
 "The review has been deleted.","L'avis a été supprimé.",module,Magento_Review
 "The review summary field can't be empty.","Le résumé de l'avis ne peut être vide.",module,Magento_Review

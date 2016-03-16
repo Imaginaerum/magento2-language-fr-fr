@@ -86,6 +86,7 @@
 "Product Exception.","Exception Produit.",module,Magento_Wishlist
 "Product is not salable.","Le produit ne peut être vendu.",module,Magento_Wishlist
 "Product Name","Nom du produit",module,Magento_Wishlist
+"Product(s) %1 have required options. Each product can only be added individually.","Options requises pour le(s) produit(s) %1. Chaque produit ne peut être ajouté individuellement.",module,Magento_Wishlist
 "Qty","Qté",module,Magento_Wishlist
 "Quantity","Quantité",module,Magento_Wishlist
 "Remove item","Supprimer l'élément",module,Magento_Wishlist

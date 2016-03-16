@@ -474,6 +474,7 @@
 "Sign a billing agreement to streamline further purchases  with PayPal.","Signez un entente de facturation afin de rationaliser davantage les achats avec PayPal.",module,Magento_Paypal
 "Size","Taille",module,Magento_Paypal
 "Skip Order Review Step","Passer la revue de la commande",module,Magento_Paypal
+"Some PayPal solutions conflict.","Solutions PayPal sont en conflit",module,Magento_Paypal
 "Something went wrong while processing your order.","Une erreur s'est produite lors du traitement de votre commande.",module,Magento_Paypal
 "Sorry, but something went wrong. Please contact PayPal customer service.","Une erreur s'est produite. Veuillez contacter le service client de PayPal.",module,Magento_Paypal
 "Sorry, no quotes are available for this order at this time.","Aucun mode de livraison n'est disponible pour votre adresse.",module,Magento_Paypal

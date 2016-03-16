@@ -589,6 +589,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Select Category...","Sélectionner une catégorie...",module,Magento_Catalog
 "Select Product...","Sélectionner un Produit...",module,Magento_Catalog
 "Select Product","Sélectionner un Produit",module,Magento_Catalog
+"Select Product Actions","Choisir les actions produit",module,Magento_Catalog
 "Select type of option.","Sélectionnez le type d'option.",module,Magento_Catalog
 "Select type options required values rows.","Sélectionner les lignes des valeurs obligatoires des options.",module,Magento_Catalog
 "Select Visible","Sélectionner les éléments visibles",module,Magento_Catalog
