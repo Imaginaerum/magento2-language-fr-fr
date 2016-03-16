@@ -9,8 +9,8 @@
 "(Not %1?)","(Pas %1?)",module,Magento_Persistent
 "Not you?","Ce n'est pas vous ?",module,Magento_Persistent
 "Persistence Lifetime (seconds)","Durée de vie de la persistance (secondes)",module,Magento_Persistent
-"Persistent Shopping Cart","Panier Persistant",module,Magento_Persistent
-"Persist Shopping Cart","Panier Persistant",module,Magento_Persistent
+"Persistent Shopping Cart","Panier persistant",module,Magento_Persistent
+"Persist Shopping Cart","Panier persistant",module,Magento_Persistent
 "Remember Me","Se souvenir de moi",module,Magento_Persistent
 """Remember Me"" Default Value","Valeur par Défaut du ""Se Souvenir de Moi""",module,Magento_Persistent
 "To check out, please log in using your email address.","Pour commander, veuillez vous connecter avec votre adresse email.",module,Magento_Persistent

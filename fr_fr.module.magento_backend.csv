@@ -352,7 +352,7 @@
 "Password","Mot de Passe",module,Magento_Backend
 "Password Confirmation","Confirmation du Mot de Passe",module,Magento_Backend
 "per page","par page",module,Magento_Backend
-"Personal Information","Informations Personnelles",module,Magento_Backend
+"Personal Information","Informations personnelles",module,Magento_Backend
 "Please confirm scope switching. All data that hasn't been saved will be lost.","Confirmez-vous le changement de site ? Toutes les données non sauvegardées seront perdues.",module,Magento_Backend
 "Please correct the column format and try again.","Veuillez corriger le format colonne et essayez à nouveau.",module,Magento_Backend
 "Please correct the email address: ""%1"".","Veuillez corriger l'adresse email: ""%1"".",module,Magento_Backend
