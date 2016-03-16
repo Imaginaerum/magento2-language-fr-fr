@@ -83,6 +83,7 @@
 "Submitting order information...","Les informations de commande sont en cours d'envoi...",module,Magento_Multishipping
 "Subtotal","Sous-Total",module,Magento_Multishipping
 "Thanks for your order. We'll email you order details and tracking information.","Merci pour votre commande. Vous allez recevoir un email récapitulatif et un email contenant les informations de suivi de la livraison.",module,Magento_Multishipping
+"Thanks for your order. We'll send you emails with order details and tracking information.","Merci pour votre commande. Vous allez recevoir par email les détails de votre commande ainsi que les informations de suivi.",module,Magento_Multishipping
 "Thank you for your purchase!","Merci de votre achat !",module,Magento_Multishipping
 "The requested payment method is not available for multishipping.","La méthode de paiement demandée n'est pas disponible pour la livraison à plusieurs adresses.",module,Magento_Multishipping
 "The requested Payment Method is not available for multishipping.","La méthode de paiement demandée n'est pas disponible pour la livraison à plusieurs adresses.",module,Magento_Multishipping

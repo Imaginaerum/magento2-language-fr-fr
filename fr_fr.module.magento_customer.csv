@@ -477,6 +477,7 @@
 "There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.","Il existe déjà un compte pour cette adresse email. Si vous êtes sûr d'avoir correctement saisi votre email, <a href=""%1"">cliquez ici</a> pour récupérer votre mot de passe et accéder à votre compte.",module,Magento_Customer
 "There was an error confirming the account","Il y a eu une erreur de confirmation de compte",module,Magento_Customer
 "There was an error detecting Customer Group.","Une erreur a été détectée dans le groupe clients.",module,Magento_Customer
+"There was an error saving the new password.","Erreur lors de la sauvegarde du nouveau mot de passe.",module,Magento_Customer
 "There was an error validating the login and password.","Erreur lors de la validation login et mot de passe.",module,Magento_Customer
 "There was an error validating the VAT ID.","Erreur lors de la validation du numéro de TVA.",module,Magento_Customer
 "There was recently a request to change the password for your account.","Nous avons reçu une demande pour changer le mot de passe de cotre compte.",module,Magento_Customer

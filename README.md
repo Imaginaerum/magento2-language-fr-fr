@@ -31,7 +31,7 @@ Create folder your-magento-path/app/i18n/imaginaerum/fr_fr and extract zip into 
 
 | Total | Translated | Left | Progression |
 | -------------: | -----------------------: | -----------------------: | :---------: |
-| 9816 | 9612 | 204 | ![Progress](http://progressed.io/bar/97) |
+| 9816 | 9614 | 202 | ![Progress](http://progressed.io/bar/97) |
 
 | Key | Total | Translated | Left | Progression |
 | :----- | -------------: | -----------------------: | -----------------------: | :---------: |
@@ -74,7 +74,7 @@ Create folder your-magento-path/app/i18n/imaginaerum/fr_fr and extract zip into 
 | Module Magento_Cookie | 13 | 13 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_Cron | 18 | 18 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_CurrencySymbol | 22 | 22 | 0 | ![Progress](http://progressed.io/bar/100) |
-| Module Magento_Customer | 604 | 593 | 11 | ![Progress](http://progressed.io/bar/98) |
+| Module Magento_Customer | 604 | 594 | 10 | ![Progress](http://progressed.io/bar/98) |
 | Module Magento_CustomerImportExport | 29 | 27 | 2 | ![Progress](http://progressed.io/bar/93) |
 | Module Magento_Deploy | 1 | 1 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_Developer | 41 | 41 | 0 | ![Progress](http://progressed.io/bar/100) |
@@ -98,7 +98,7 @@ Create folder your-magento-path/app/i18n/imaginaerum/fr_fr and extract zip into 
 | Module Magento_Marketplace | 14 | 14 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_MediaStorage | 26 | 25 | 1 | ![Progress](http://progressed.io/bar/96) |
 | Module Magento_Msrp | 22 | 21 | 1 | ![Progress](http://progressed.io/bar/95) |
-| Module Magento_Multishipping | 100 | 99 | 1 | ![Progress](http://progressed.io/bar/99) |
+| Module Magento_Multishipping | 100 | 100 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_NewRelicReporting | 20 | 20 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_Newsletter | 158 | 158 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_OfflinePayments | 23 | 23 | 0 | ![Progress](http://progressed.io/bar/100) |
