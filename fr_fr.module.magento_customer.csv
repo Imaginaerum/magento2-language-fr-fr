@@ -114,9 +114,9 @@
 "Create account","Créer un compte",module,Magento_Customer
 "Create an Account","Créer un compte",module,Magento_Customer
 "Create New Account Options","Options de création de nouveaux comptes",module,Magento_Customer
-"Create New Customer Account","Créer un Nouveau Compte Client",module,Magento_Customer
+"Create New Customer Account","Créer un nouveau compte client",module,Magento_Customer
 "Create Order","Créer une Commande",module,Magento_Customer
-"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","La création d'un compte a de nombreux avantages: consultation rapide, sauvegarder plusieurs adresses, suivre les commandes, les commandes et bien plus encore.",module,Magento_Customer
+"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","La création d'un compte a de nombreux avantages: consultation rapide, sauvegarder plusieurs adresses, suivre les commandes, et bien plus encore.",module,Magento_Customer
 "Current Password","Mot de Passe Actuel",module,Magento_Customer
 "Customer","Client",module,Magento_Customer
 "Customer Addresses","Adresses client",module,Magento_Customer
@@ -305,7 +305,7 @@
 "Password Template Email Sender","Gabarit Expéditeur du mail d'envoi du mot de passe",module,Magento_Customer
 "Password you set when creating account","Mot de passe que vous avez défini lors de la création de votre compte",module,Magento_Customer
 "Paused","En Pause",module,Magento_Customer
-"Personal Information","Informations Personnelles",module,Magento_Customer
+"Personal Information","Informations personnelles",module,Magento_Customer
 "Per Website","Par Site Web",module,Magento_Customer
 "Phone","Téléphone",module,Magento_Customer
 "Phone Number","Numéro de téléphone",module,Magento_Customer
