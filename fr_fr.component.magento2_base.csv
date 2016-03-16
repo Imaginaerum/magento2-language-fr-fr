@@ -1,6 +1,7 @@
 "Another non-translated value for Magento_Catalog","Une autre valeur non traduite pour Magento_Catalog",component,Magento2_Base
 "Cancel","Annuler",component,Magento2_Base
 "Close","Fermer",component,Magento2_Base
+"Design value to translate","Valeur à traduire",component,Magento2_Base
 "Insert Widget...","Insérer un widget...",component,Magento2_Base
 "Loading...","Chargement en cours...",component,Magento2_Base
 "Maximum length of this field must be equal or less than %1 symbols.","La longueur maximale de ce champ doit être inférieure ou égale à %1 caractères.",component,Magento2_Base
@@ -18,8 +19,10 @@
 "%s","%s",component,Magento2_Base
 "Save","Sauvegarder",component,Magento2_Base
 "Show all...","Voir tout...",component,Magento2_Base
+"Some non-translated value for Magento_Catalog","Certaines valeurs non traduites pour Magento_Catalog",component,Magento2_Base
 "%s - %s","%s - %s",component,Magento2_Base
 "Submit","Envoyer",component,Magento2_Base
+"Text with different translation on different modules","Texte avec traduction différente sur les différents modules",component,Magento2_Base
 "This is a required field.","Ce champ est obligatoire.",component,Magento2_Base
 "Translate","Traduire",component,Magento2_Base
 "translation to the same value","traduction de la même valeur",component,Magento2_Base

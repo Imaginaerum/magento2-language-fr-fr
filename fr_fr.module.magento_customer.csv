@@ -472,6 +472,7 @@
 "The password can't begin or end with a space.","Le mot de passe ne peut pas commencer ou se terminer par un espace.",module,Magento_Customer
 "The password doesn't match this account.","Le mot de passe ne correspond pas à ce compte.",module,Magento_Customer
 "The password for your account has been successfully changed.","Le mot de passe de votre compte a bien été modifié.",module,Magento_Customer
+"The password must have at least %1 characters.","Le mot de passe doit comporter au moins %1 caractères.",module,Magento_Customer
 "There are no items in customer's shopping cart.","Il n'y a aucun article dans le panier du client.",module,Magento_Customer
 "There are no items in customer's shopping cart at the moment","Aucun article dans le panier du client",module,Magento_Customer
 "There are no items in customer's wishlist at the moment","Aucun article dans la liste d'envies du client",module,Magento_Customer
