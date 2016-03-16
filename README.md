@@ -31,7 +31,7 @@ Create folder your-magento-path/app/i18n/imaginaerum/fr_fr and extract zip into 
 
 | Total | Translated | Left | Progression |
 | -------------: | -----------------------: | -----------------------: | :---------: |
-| 9816 | 9624 | 192 | ![Progress](http://progressed.io/bar/98) |
+| 9816 | 9626 | 190 | ![Progress](http://progressed.io/bar/98) |
 
 | Key | Total | Translated | Left | Progression |
 | :----- | -------------: | -----------------------: | -----------------------: | :---------: |
@@ -52,7 +52,7 @@ Create folder your-magento-path/app/i18n/imaginaerum/fr_fr and extract zip into 
 | Module Magento_AdminNotification | 60 | 58 | 2 | ![Progress](http://progressed.io/bar/96) |
 | Module Magento_AdvancedPricingImportExport | 4 | 4 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_Authorization | 2 | 2 | 0 | ![Progress](http://progressed.io/bar/100) |
-| Module Magento_Authorizenet | 116 | 100 | 16 | ![Progress](http://progressed.io/bar/86) |
+| Module Magento_Authorizenet | 116 | 101 | 15 | ![Progress](http://progressed.io/bar/87) |
 | Module Magento_Backend | 675 | 665 | 10 | ![Progress](http://progressed.io/bar/98) |
 | Module Magento_Backup | 104 | 101 | 3 | ![Progress](http://progressed.io/bar/97) |
 | Module Magento_Braintree | 329 | 271 | 58 | ![Progress](http://progressed.io/bar/82) |
@@ -92,7 +92,7 @@ Create folder your-magento-path/app/i18n/imaginaerum/fr_fr and extract zip into 
 | Module Magento_GoogleOptimizer | 8 | 8 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_GroupedProduct | 27 | 26 | 1 | ![Progress](http://progressed.io/bar/96) |
 | Module Magento_ImportExport | 154 | 151 | 3 | ![Progress](http://progressed.io/bar/98) |
-| Module Magento_Indexer | 24 | 23 | 1 | ![Progress](http://progressed.io/bar/95) |
+| Module Magento_Indexer | 24 | 24 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_Integration | 118 | 115 | 3 | ![Progress](http://progressed.io/bar/97) |
 | Module Magento_LayeredNavigation | 31 | 31 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_Marketplace | 14 | 14 | 0 | ![Progress](http://progressed.io/bar/100) |
