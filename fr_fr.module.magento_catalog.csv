@@ -635,6 +635,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Sorry, but we can't find the new category you selected.","Désolé, mais nous ne pouvons pas trouver la catégorie sélectionnée.",module,Magento_Catalog
 "Sorry, but we can't find the new parent category you selected.","Désolé, impossible trouver la catégorie parente sélectionnée.",module,Magento_Catalog
 "Sorry, but we can't move the category because we can't find the new category you selected.","Impossible de déplacer la catégorie. La catégorie de destination n'a pas été trouvée.",module,Magento_Catalog
+"Sorry, but we can't move the category because we can't find the new parent category you selected.","Impossible de déplacer la catégorie. Catégorie parente introuvable.",module,Magento_Catalog
 "Sorry, we're unable to complete this request.","Désolé, nous ne pouvons pas compléter cette requête.",module,Magento_Catalog
 "Sort By","Trier par",module,Magento_Catalog
 "Sort Custom Option","Trier l'option personnalisée",module,Magento_Catalog

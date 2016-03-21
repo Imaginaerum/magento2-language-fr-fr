@@ -45,6 +45,7 @@
 "Identity link URL","URL du lien d'identité",module,Magento_Integration
 "Inactive","Inactif",module,Magento_Integration
 "Incorrect timestamp value in the oauth_timestamp parameter","Valeur du timestamp incorrect dans le paramètre oauth_timestamp",module,Magento_Integration
+"Integer. Launch cleanup in X OAuth requests. 0 (not recommended) - to disable cleanup","Nombre entier. Lancement du nettoyage dans X requête OAuth. 0 (non recommandé) - pour désactiver le nettoyage.",module,Magento_Integration
 "Integration '%1' has been sent for activation.","Intégration '%1' a été envoyée pour l'activation.",module,Magento_Integration
 "Integration '%1' has been sent for re-authorization.","Intégration '%1' a été envoyée pour une nouvelle autorisation.",module,Magento_Integration
 "Integration configuration file.","Fichier de configuration de l'intégration.",module,Magento_Integration

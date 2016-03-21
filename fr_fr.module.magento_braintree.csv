@@ -283,6 +283,7 @@
 "There was error deleting the credit card","Il y a eu une erreur lors de la suppression de la carte bancaire",module,Magento_Braintree
 "There was error during saving card data","Erreur lors de la sauvegarde des données de la carte",module,Magento_Braintree
 "The Transaction has not settled. ","La transaction n'est pas configurée. ",module,Magento_Braintree
+"This invoice can be processed only offline","Cette facture peut être traitée hors ligne",module,Magento_Braintree
 "This refund is for a partial amount but the Transaction has not settled.","Ce remboursement est pour un montant partiel, mais la transaction n'est pas établie.",module,Magento_Braintree
 "This refund is for a partial amount but the Transaction has not settled. ","Ce remboursement est pour un montant partiel, mais la transaction n'est pas établie. ",module,Magento_Braintree
 "Title","Titre",module,Magento_Braintree

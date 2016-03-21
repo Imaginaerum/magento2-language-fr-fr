@@ -69,6 +69,8 @@
 "Sprintline","Sprintline",module,Magento_Dhl
 "There is no items in this order","Il n'y a pas d'article dans cette commande",module,Magento_Dhl
 "The response is in wrong format.","La réponse n'est pas dans le bon format.",module,Magento_Dhl
+"This allows breaking total order weight into smaller pieces if it exceeds %1 %2 to ensure accurate calculation of shipping charges.","Permet de scinder le poids total de la commande si elle excèdes %1 %2 pour assurer un calcul précis des frais d'expédition.",module,Magento_Dhl
+"This allows breaking total order weight into smaller pieces if it exeeds 70 kg to ensure accurate calculation of shipping charges.","Permet de scinder le poids total de la commande si elle excèdes 70 kg pour assurer un calcul précis des frais d'expédition.",module,Magento_Dhl
 "Title","Titre",module,Magento_Dhl
 "Unable to retrieve shipping label","Impossible de récupérer l'étiquette d'expédition",module,Magento_Dhl
 "Unable to retrieve tracking","Impossible de récupérer les informations de suivi",module,Magento_Dhl

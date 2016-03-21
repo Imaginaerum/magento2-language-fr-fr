@@ -188,6 +188,7 @@
 "We can't save this tax class right now.","Impossible de sauvegarder la classe de taxe.",module,Magento_Tax
 "We can't save this tax rule right now.","Impossible de sauvegarder la règle de taxe.",module,Magento_Tax
 "When catalog price includes tax, enable this setting to fix the price no matter what the customer's tax rate.","Lorsque les prix catalogue sont saisis en TTC, activer ce paramètre pour fixer le prix peut importe le taux de taxe client.",module,Magento_Tax
+"When catalog price includes tax, enable this setting will fix the price no matter what the customer's tax rate is.","Lorsque les prix catalogue incluent les taxes, activez ce réglage pour corriger les éventuelles erreurs de taux de taxe.",module,Magento_Tax
 "Yes (only price with tax)","Oui (prix avec taxe seulement)",module,Magento_Tax
 "You cannot delete this tax class because it is used in existing %1(s).","Impossible de supprimer cette classe de taxe car elle est utilisée dans %1.",module,Magento_Tax
 "You cannot delete this tax class because it is used in Tax Rules. You have to delete the rules it is used in first.","Impossible de supprimer cette classe de taxe car elle est utilisée dans une règle de taxe. Vous devez d'abord supprimer les règles qui l'utilisent.",module,Magento_Tax

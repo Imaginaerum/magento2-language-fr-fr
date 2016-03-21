@@ -268,6 +268,7 @@
 "Invoices","Factures",module,Magento_Sales
 "Invoice Totals","Totaux de la facture",module,Magento_Sales
 "Invoice voiding error","Error lors de l'annulation de la facture",module,Magento_Sales
+"IPN ""Refunded"". Refund issued by merchant. Registered notification about refunded amount of %1. Transaction ID: ""%2""","IPN ""Remboursement"". Remboursement émis par le marchand. Notifications sur le montant du remboursement %1. ID Transaction: ""%2""",module,Magento_Sales
 "IPN ""Refunded"". Refund issued by merchant. Registered notification about refunded amount of %1. Transaction ID: ""%2"". Credit Memo has not been created. Please create offline Credit Memo.","IPN ""Remboursement"". Rembourssement émis par le marchand. Notification sauvegardée concerant le montant remboursé de %1. ID de transaction : ""%2"". L'avoir n'a pas été créé. Veuillez créer un avoir hors ligne.",module,Magento_Sales
 "Is Closed","Est fermé",module,Magento_Sales
 "Item","article",module,Magento_Sales
