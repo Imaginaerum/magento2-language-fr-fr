@@ -49,6 +49,7 @@
 "Sitemap File Limits","Limites du fichier de plan de site",module,Magento_Sitemap
 "Sitemap Generation Warnings","Avertissements sur la génération du plan de site",module,Magento_Sitemap
 "Sitemap Information","Information Plan de Site",module,Magento_Sitemap
+"Something went wrong generating the sitemap.","Erreur lors de la génération du sitemap.",module,Magento_Sitemap
 "Start Time","Heure de Début",module,Magento_Sitemap
 "Store View","Vue magasin",module,Magento_Sitemap
 "The priority must be between 0 and 1.","La priorité doit être comprise entre 0 et 1.",module,Magento_Sitemap

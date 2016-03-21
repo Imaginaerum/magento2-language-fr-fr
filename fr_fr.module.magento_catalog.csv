@@ -828,6 +828,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "You added product %1 to the comparison list.","Vous avez ajouté le produit %1 à la liste de comparaison.",module,Magento_Catalog
 "You already have an identical search term query.","Il existe déjà une requête de recherche identique.",module,Magento_Catalog
 "You are about to delete all products in this attribute set. Are you sure you want to do that?","Vous êtes sur le point de supprimer tous les produits possédant ce jeu attribut. Êtes-vous sûr de vouloir faire ça?",module,Magento_Catalog
+"You are about to delete all products in this set. ' 'Are you sure you want to delete this attribute set?","Vous allez supprimer tous les produits de ce jeu d'attributs. Etes vous sûr(e) de vouloir supprimer ce jeu d'attributs ?",module,Magento_Catalog
 "You cannot remove system attributes from this set.","Impossible de supprimer les attributs système depuis ce jeu d'attributs.",module,Magento_Catalog
 "You can't remove attributes from this attribute set.","Vous ne pouvez pas supprimer les attributs depuis ce jeu d'attribut.",module,Magento_Catalog
 "You can't update your attribute.","Impossible de mettre à jour l'attribut.",module,Magento_Catalog

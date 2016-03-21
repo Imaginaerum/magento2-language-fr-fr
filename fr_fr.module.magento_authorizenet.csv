@@ -41,6 +41,7 @@
 "Fraud Filters","Filtres anti-fraude",module,Magento_Authorizenet
 "Gateway error: %1","Erreur Passerelle: %1",module,Magento_Authorizenet
 "Gateway URL","URL de la passerelle",module,Magento_Authorizenet
+"If you leave this empty, we'll use a default value. The custom URL may be provided by CardinalCommerce agreement.","Si vous laissez vide, la valeur par défaut sera utilisée. L'URL pourra être fournie par CardinalCommerce",module,Magento_Authorizenet
 "Invalid amount for capture.","Montant de collecte invalide.",module,Magento_Authorizenet
 "Invalid amount for refund.","Montant invalide pour le remboursement.",module,Magento_Authorizenet
 "Invalid transaction ID.","Identifiant de transaction invalide.",module,Magento_Authorizenet

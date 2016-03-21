@@ -637,6 +637,7 @@
 "Welcome, please sign in","Bienvenue ! Veuillez vous connecter",module,Magento_Backend
 "We updated lifetime statistic.","Nous avons mis à jour les statistiques depuis le début.",module,Magento_Backend
 "What is this?","Qu'est-ce que c'est?",module,Magento_Backend
+"When the adapter was changed, please, flush Catalog Images Cache.","Quand l'adapter est changé, veuillez vider le cache des images catalogue.",module,Magento_Backend
 "WK","Semaine",module,Magento_Backend
 "Yes (301 Moved Permanently)","Oui (301 Document déplacé de façon permanente)",module,Magento_Backend
 "Yes (302 Found)","Oui (302 Document déplacé de façon temporaire)",module,Magento_Backend

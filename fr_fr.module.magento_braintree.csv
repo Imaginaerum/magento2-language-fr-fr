@@ -39,8 +39,10 @@
 "Can not find original authorization transaction for partial capture","Impossible de trouver l'autorisation de transaction initiale pour la capture partielle",module,Magento_Braintree
 "Cannot hold in escrow","Impossible de bloquer",module,Magento_Braintree
 "Cannot partially refund escrowed transaction","Impossible de faire un remboursement partiel sur une transaction bloquée",module,Magento_Braintree
+"Cannot provide a billing address unless also providing a credit card.","Impossible de fournir une adresse de facturation a moins que vous ayez déjà spécifié une carte de crédit",module,Magento_Braintree
 "Cannot refund a transaction unless it is settled.","Vous ne pouvez pas effectuer de remboursement avant que la transaction ne soit réglée.",module,Magento_Braintree
 "Cannot refund credit","Remboursement impossible",module,Magento_Braintree
+"Cannot refund with pending merchant account","Remboursement impossible avec un compte marchand en attente",module,Magento_Braintree
 "Cannot release from escrow","Impossible de diffuser",module,Magento_Braintree
 "Capture action","Action de capture",module,Magento_Braintree
 "Cardholder Name","Nom du titulaire de la carte",module,Magento_Braintree
