@@ -58,6 +58,7 @@
 "Next","Suivant",module,Magento_Review
 "Nickname","Pseudo",module,Magento_Review
 "Not Approved","Non approuvé",module,Magento_Review
+"Only registered users can write reviews. Please, <a href=""%1"">log in</a> or <a href=""%2"">register</a>","Seuls les clients enregistrés peuvent écrire des avis. Veuillez vous <a href=""%1"">connecter</a> ou vous <a href=""%2"">enregistrer</a>",module,Magento_Review
 "Only registered users can write reviews. Please, <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Seuls les utilisateurs sauvegardés peuvent soumettre leur avis. Veuillez <a href=""%1"">vous connecter</a> ou <a href=""%2"">créer un compte</a>",module,Magento_Review
 "Option Title:","Titre de l'Option:",module,Magento_Review
 "Pending","En attente",module,Magento_Review

@@ -600,7 +600,9 @@
 "We could not delete the billing agreement.","Impossible de supprimer cet accord de facturation.",module,Magento_Paypal
 "We couldn't cancel the billing agreement.","Impossible d'annuler cet accord de facturation.",module,Magento_Paypal
 "We couldn't create a billing agreement for this order.","Impossible de créer un accord de facturation pour cette commande.",module,Magento_Paypal
+"We couldn't fetch reports from '%1@%2'.","Impossible d’obtenir le rapport depuis '%1@%2'.",module,Magento_Paypal
 "We couldn't finish the billing agreement wizard.","Nous n'avons pu terminer l'assistant d'entente de facturation.",module,Magento_Paypal
+"We couldn't start the billing agreement wizard.","Impossible de démarrer l'assistant d'entente de facturation.",module,Magento_Paypal
 "We fetched %1 report rows from '%2@%3'.","%1 lignes récupérées dans le rapport ""%2@%3"".",module,Magento_Paypal
 "We fetched %1 report rows from ""%2@%3.""","%1 lignes récupérées dans le rapport ""%2@%3.""",module,Magento_Paypal
 "We found nothing to fetch because of an empty configuration.","Aucune données en raison d'une configuration vide.",module,Magento_Paypal

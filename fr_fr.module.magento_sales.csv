@@ -756,6 +756,7 @@
 "We can't send the email order right now.","Impossible d'envoyer l'email de la commande.",module,Magento_Sales
 "We can't send the invoice email.","Impossible d'envoyer l'email de la facture.",module,Magento_Sales
 "We can't send the invoice email right now.","Impossible d'envoyer l'email de la facture.",module,Magento_Sales
+"We can't send the shipment.","Impossible d'envoyer l'expédition.",module,Magento_Sales
 "We can't send the shipment right now.","Impossible d'envoyer l'email de l'expédition.",module,Magento_Sales
 "We can't update the item's quantity right now.","Impossible de mettre à jour la quantité de l'article.",module,Magento_Sales
 "We can't update the order address right now.","Impossible de mettre à jour l'adresse de la commande.",module,Magento_Sales
@@ -764,6 +765,7 @@
 "We can't void the credit memo.","Impossible d'annuler l'avoir.",module,Magento_Sales
 "We can't void the payment right now.","Impossible d'annuler le paiement.",module,Magento_Sales
 "We could not add a product to cart by the ID ""%1"".","Impossible d'ajouter le produit avec l'ID ""%1"" au panier.",module,Magento_Sales
+"We couldn't add your order status because something went wrong saving.","Impossible d'ajouter le statut de la commande à cause d'une erreur lors de la sauvegarde.",module,Magento_Sales
 "We couldn't find this wish list.","Nous ne pouvons pas trouver cette liste d'envies.",module,Magento_Sales
 "We couldn't send the email order.","Nous ne pouvons pas envoyer l'email de commande.",module,Magento_Sales
 "We couldn't update the payment.","Nous ne pouvons pas mettre à jour le paiement.",module,Magento_Sales

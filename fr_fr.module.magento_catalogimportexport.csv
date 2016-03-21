@@ -17,6 +17,7 @@
 "Invalid custom option type.","Type option personnalisée invalide",module,Magento_CatalogImportExport
 "Invalid custom option value price.","Valeur prix option personnalisée invalide",module,Magento_CatalogImportExport
 "Invalid custom option value sort order.","Valeur tri option personnalisée invalide",module,Magento_CatalogImportExport
+"Option entity must have a parent product entity.","L'option doit avoir un produit pour parent.",module,Magento_CatalogImportExport
 "Please correct the parameters.","Veuillez corriger les paramètres.",module,Magento_CatalogImportExport
 "Please enter a value for title.","Veuillez saisir un titre.",module,Magento_CatalogImportExport
 "There are no product types available for export","Aucun type de produit disponible pour l'export",module,Magento_CatalogImportExport

@@ -121,6 +121,7 @@
 "TB","To",module,Magento_Translation
 "Text length does not satisfy specified text range.","La longueur du texte ne satisfait pas la plage de texte spécifiée.",module,Magento_Translation
 "The From Date value should be less than or equal to the To Date value.","La date de départ doit être inférieure ou égale à la date de fin.",module,Magento_Translation
+"The URL to assign stores is not defined.","URL assignée aux magasins non trouvée.",module,Magento_Translation
 "The value is not within the specified range.","La valeur n'est pas dans la plage spécifiée.",module,Magento_Translation
 "This date is a required value.","Cette date est obligatoire.",module,Magento_Translation
 "This is a required field.","Ce champ est obligatoire.",module,Magento_Translation
@@ -132,6 +133,7 @@
 "Upload HTTP Error","Erreur HTTP de téléchargement",module,Magento_Translation
 "Upload I/O Error","Erreur entrée/Sortie de téléchargement",module,Magento_Translation
 "Upload Security Error","Erreur de sécurité de téléchargement",module,Magento_Translation
+"Use gift registry shipping address","Utiliser l'adresse de la liste cadeaux",module,Magento_Translation
 "We are not able to ship to the selected shipping address. Please choose another address or edit the current address.","Impossible de livrer à l'adresse sélectionnée. Veuillez choisir une autre adresse ou éditer l'adresse choisie.",module,Magento_Translation
 "We can't complete your order because you don't have a payment method available.","Impossible de terminer la commande en raison d'une méthode de paiement invalide.",module,Magento_Translation
 "We don't recognize or support this file extension type.","Le type de fichier n'est pas reconnu ou n'est pas autorisé.",module,Magento_Translation
