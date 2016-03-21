@@ -46,6 +46,7 @@
 " unread)"," non lu)",module,Magento_AdminNotification
 "Update Frequency","Fréquence de mise à jour",module,Magento_AdminNotification
 "Use HTTPS to Get Feed","Utiliser HTTPS pour Récupérer le Flux",module,Magento_AdminNotification
+"We appreciate our merchants' feedback. Please <a href=""#"" data-mage-init=%1>take our survey</a> and tell us about features you'd like to see in Magento.","Nous apprécions les retours client. Veuillez <a href=""#"" data-mage-init=""%1"">donner votre opinion</a> et nous faire connaitre les fonctionnalités que vous aimeriez voir dans Magento",module,Magento_AdminNotification
 "We couldn't mark the notification as Read because of an error.","Nous ne pouvons pas marquer la notification comme lue suite à une erreur.",module,Magento_AdminNotification
 "We couldn't mark the notification as Read because of an error.","Nous ne pouvons pas marquer la notification comme lue suite à une erreur.",module,Magento_AdminNotification
 "We couldn't remove the messages because of an error.","Nous ne pouvons pas supprimer les messages suite à une erreur.",module,Magento_AdminNotification

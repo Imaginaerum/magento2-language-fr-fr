@@ -161,6 +161,8 @@
 "Shopping Cart","Panier",module,Magento_Checkout
 "Shopping Cart Items","Produit Dans le Panier",module,Magento_Checkout
 "Shopping Cart Sidebar","Barre latérale du panier",module,Magento_Checkout
+"Some products quantities were recalculated because of quantity increment mismatch.","Certaines quantités produits ont été recalculées en raison d'une non-concordance des incréments de quantité.",module,Magento_Checkout
+"Something went wrong processing your order. Please try again later.","Une erreur s'est produite lors du traitement de votre commande. Veuillez réessayer plus tard.",module,Magento_Checkout
 "Something went wrong while processing your order. Please try again later.","Une erreur s'est produite lors du traitement de votre commande. Veuillez réessayer plus tard.",module,Magento_Checkout
 "Sorry, guest checkout is not available.","Désolé, le passage de commande des invités n'est pas disponible.",module,Magento_Checkout
 "Sorry, guest checkout is not enabled.","Les commandes invités sont desactivées",module,Magento_Checkout

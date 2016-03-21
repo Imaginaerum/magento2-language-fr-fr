@@ -29,6 +29,7 @@
 "Consumer Key","Clé API",module,Magento_Integration
 "Consumer key has expired","La Clé API a expiré",module,Magento_Integration
 "Consumer key is not the correct length","La clé API n'a pas la bonne longueur",module,Magento_Integration
+"Consumer key/secret will expire if not used within X seconds after Oauth token exchange starts.","La clé key/secret expirera si elle n'est pas utilisée X secondes âpres le début de l'echange de jeton Oauth",module,Magento_Integration
 "Consumer Secret","Mot de passe API",module,Magento_Integration
 "Consumer Settings","Paramètres Utilisateur",module,Magento_Integration
 "Consumer with ID '%1' does not exist.","L'authentification avec ID '%1' n'existe pas.",module,Magento_Integration

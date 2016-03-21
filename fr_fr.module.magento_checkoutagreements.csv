@@ -22,6 +22,7 @@
 "New Condition","Nouvelle Condition",module,Magento_CheckoutAgreements
 "New Terms and Conditions","Nouvelles CGV",module,Magento_CheckoutAgreements
 "Please agree to all the terms and conditions before placing the order.","Veuillez accepter les conditions générales de ventes avant de valider la commande.",module,Magento_CheckoutAgreements
+"Please input a valid CSS-height. For example 100px or 77pt or 20em or .5ex or 50%.","Veuillez saisir une valeur CSS height valide. Par exemple 100px ou 77pt ou 20em ou .5ex ou 50%.",module,Magento_CheckoutAgreements
 "Sales","Ventes",module,Magento_CheckoutAgreements
 "Save Condition","Sauvegarder la condition",module,Magento_CheckoutAgreements
 "Show Content as","Afficher le contenu comme",module,Magento_CheckoutAgreements

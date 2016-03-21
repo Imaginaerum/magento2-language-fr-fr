@@ -192,6 +192,7 @@
 "Fee Reversal","Frais d'inversion",module,Magento_Paypal
 "Fee: Web Site Payments Pro Account Monthly","Frais: Paiements du Site Web de compte mensuel Pro",module,Magento_Paypal
 "Fee: WorldLink Check Withdrawal","Frais: retrait par chèque WorldLink",module,Magento_Paypal
+"Fetch transaction details method does not exists in Payflow","Les rapports de détails de transactions n'existent pas dans Payflow",module,Magento_Paypal
 "Fetch Updates","Mises à jour chercher",module,Magento_Paypal
 "Finish Date","Date de fin",module,Magento_Paypal
 "First Name","Prénom",module,Magento_Paypal
@@ -399,6 +400,7 @@
 "Place Order","Passez la commande",module,Magento_Paypal
 "Please agree to all the terms and conditions before placing the order.","Veuillez accepter les conditions générales de ventes avant de valider la commande.",module,Magento_Paypal
 "Please do not refresh the page until you complete payment.","Merci de ne pas rafraîchir la page jusqu'à la fin du paiement.",module,Magento_Paypal
+"Please re-enable the previously enabled payment solutions.","Veuillez réactiver les solutions de paiement précédemment activées.",module,Magento_Paypal
 "-- Please Select --","-- Faire un Choix --",module,Magento_Paypal
 "Please Select","Faire un Choix",module,Magento_Paypal
 "--Please Select--","-- Faire un Choix --",module,Magento_Paypal

@@ -77,7 +77,9 @@
 "This may take a few moments.","Ceci peut prendre quelques instants.",module,Magento_Backup
 "Time","Temps",module,Magento_Backup
 "To complete the rollback, please deselect ""Put store into maintenance mode"" or update your permissions.","Pour terminer la restauration, veuillez décocher la case ""Mettre le magasin en mode de maintenance"" ou bien veuillez mettre à jour vos permissions.",module,Magento_Backup
-"To create the backup, please deselect ""Put store into maintenance mode"" or update your permissions.","Pour créer la sauvegarde, Veuillez décocher la case ""Mettre le magasin en mode de maintenance"" ou bien veuillez mettre à jour vos autorisations.",module,Magento_Backup
+"To continue with the backup, you need to either deselect ' '""Put store on the maintenance mode"" or update your permissions.","Pour poursuivre la sauvegarde, veuillez décocher la case ""Mettre le magasin en mode de maintenance"" ou mettez à jour vos autorisations.",module,Magento_Backup
+"To continue with the rollback, you need to either deselect ' '""Put store on the maintenance mode"" or update your permissions.","Pour poursuivre la sauvegarde, veuillez décocher la case ""Mettre le magasin en mode de maintenance"" ou mettez à jour vos autorisations.",module,Magento_Backup
+"To create the backup, please deselect ""Put store into maintenance mode"" or update your permissions.","Pour créer la sauvegarde, Veuillez décocher la case ""Mettre le magasin en mode de maintenance"" ou mettez à jour vos autorisations.",module,Magento_Backup
 "Tools","Outils",module,Magento_Backup
 "Type","Type",module,Magento_Backup
 "Use FTP Connection","Utiliser une connexion FTP",module,Magento_Backup

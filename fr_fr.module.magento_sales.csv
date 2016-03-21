@@ -442,6 +442,7 @@
 "Please set a proper payment object.","Veuillez définir un objet de paiement correct.",module,Magento_Sales
 "Please specify a payment method.","Veuillez sélectionner une méthode de paiement.",module,Magento_Sales
 "Please specify a shipping method.","Sélectionnez un mode de livraison.",module,Magento_Sales
+"Please specify a valid grid column alias name that exists in the grid table.","Veuillez spécifier un alias de colonne existante dans la grille.",module,Magento_Sales
 "Please specify order items.","Veuillez spécifier les articles de la commande.",module,Magento_Sales
 "Price","Prix",module,Magento_Sales
 "Print","Imprimer",module,Magento_Sales
@@ -577,6 +578,7 @@
 "Something went wrong while assigning the order status.","Une erreur s'est produite lors de l'attribution du statut de la commande.",module,Magento_Sales
 "Something went wrong while saving the gift message.","Une erreur s'est produite lors de l'enregistrement du message cadeau.",module,Magento_Sales
 "Something went wrong while unassigning the order.","Une erreur s'est produite lors de l'attribution du statut de la commande.",module,Magento_Sales
+"Something went wrong while we were unassigning the order.","Une erreur s'est produite lors de la non-assignation de la commande.",module,Magento_Sales
 "Sometimes the heart sees what is invisible to the eye.","Les choses que le cœur voit sont invisibles pour les yeux",module,Magento_Sales
 "Sorry, no quotes are available for this order.","Désolé, aucun panier disponible pour cette commande.",module,Magento_Sales
 "Specified","Spécifié",module,Magento_Sales

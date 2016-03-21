@@ -39,6 +39,7 @@
 "FDS Filter Action","Filtre d'action FDS",module,Magento_Authorizenet
 "Fraud Detection ","Détection de fraude ",module,Magento_Authorizenet
 "Fraud Filters","Filtres anti-fraude",module,Magento_Authorizenet
+"Gateway actions are locked because the gateway cannot complete ' 'one or more of the transactions. ' 'Please log in to your Authorize.Net account to manually resolve the issue(s).","Les actions ont été verrouillées car elle n'ont pu être terminées. Veuillez vous connecter à votre compte Authorize.Net pour les corriger manuellement.",module,Magento_Authorizenet
 "Gateway error: %1","Erreur Passerelle: %1",module,Magento_Authorizenet
 "Gateway URL","URL de la passerelle",module,Magento_Authorizenet
 "If you leave this empty, we'll use a default value. The custom URL may be provided by CardinalCommerce agreement.","Si vous laissez vide, la valeur par défaut sera utilisée. L'URL pourra être fournie par CardinalCommerce",module,Magento_Authorizenet
@@ -91,6 +92,7 @@
 "This is an invalid amount for capture.","Montant pour la capture invalide.",module,Magento_Authorizenet
 "This is an invalid amount for partial authorization.","Montant en autorisation partielle invalide",module,Magento_Authorizenet
 "This is an invalid amount for refund.","Montant du remboursement invalide",module,Magento_Authorizenet
+"This is an invalid split tenderId ID.","ID appel scindé invalide",module,Magento_Authorizenet
 "This payment didn't work out because we can't find this order.","Ce paiement n'a pas été effectué car la commande est introuvable.",module,Magento_Authorizenet
 "This payment was not authorized because the transaction ID field is empty.","Paiement non autorisé car l'ID de transaction est vide",module,Magento_Authorizenet
 "Title","Titre",module,Magento_Authorizenet
@@ -101,6 +103,7 @@
 "Transaction Key","Clé de la Transaction",module,Magento_Authorizenet
 "Unable to get transaction details. Try again later.","Impossible d'obtenir les détails de la transaction. Veuillez réessayer plus tard.",module,Magento_Authorizenet
 "void","annulé",module,Magento_Authorizenet
+"We canceled your payment and released any money we were holding.","Paiement annulé.",module,Magento_Authorizenet
 "We can't process your order right now. Please try again later.","Nous ne pouvons pas traiter votre commande. Veuillez réessayer plus tard.",module,Magento_Authorizenet
 "We couldn't process your order right now. Please try again later.","Nous ne pouvons pas traiter votre commande maintenant. Veuillez réessayer ultérieurement.",module,Magento_Authorizenet
 "What is this?","Qu'est-ce que c'est?",module,Magento_Authorizenet

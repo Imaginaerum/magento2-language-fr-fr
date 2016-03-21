@@ -634,6 +634,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Something went wrong while updating the product(s) status.","Une erreur s'est produite lors de l'actualisation du statut produit(s).",module,Magento_Catalog
 "Sorry, but we can't find the new category you selected.","Désolé, mais nous ne pouvons pas trouver la catégorie sélectionnée.",module,Magento_Catalog
 "Sorry, but we can't find the new parent category you selected.","Désolé, impossible trouver la catégorie parente sélectionnée.",module,Magento_Catalog
+"Sorry, but we can't move the category because we can't find the new category you selected.","Impossible de déplacer la catégorie. La catégorie de destination n'a pas été trouvée.",module,Magento_Catalog
 "Sorry, we're unable to complete this request.","Désolé, nous ne pouvons pas compléter cette requête.",module,Magento_Catalog
 "Sort By","Trier par",module,Magento_Catalog
 "Sort Custom Option","Trier l'option personnalisée",module,Magento_Catalog
@@ -790,6 +791,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Visible in Advanced Search","Visible dans la Recherche avancée",module,Magento_Catalog
 "Visible on Catalog Pages on Frontend","Visible sur les pages catalogue du frontend",module,Magento_Catalog
 "Visible on Catalog Pages on Storefront","Visible sur les pages du catalogue magasin",module,Magento_Catalog
+"<strong style=""color:red"">Warning!</strong> Applying MAP by default will hide all product prices on the front end.","<strong style=""color:red"">Attention!</strong> Appliquer MAP par défaut masquera tous les prix produits sur le frontend",module,Magento_Catalog
 "Warning message","Message d'alerte",module,Magento_Catalog
 "Watermark","Filigrane",module,Magento_Catalog
 "Watermark Default Size","Taille par défaut du filigrane",module,Magento_Catalog
@@ -809,6 +811,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "We can't find products matching the selection.","Impossible de trouver des produits correspondant à votre sélection.",module,Magento_Catalog
 "We can't find the image file.","Impossible de trouver le fichier image.",module,Magento_Catalog
 "We can't move the category because the parent category name matches the child category name.","Nous ne pouvons pas déplacer la catégorie parce que le nom de la catégorie parente correspond au nom de catégorie enfant.",module,Magento_Catalog
+"We can't perform this category move operation because the parent category matches the child category.","Impossible de déplacer cette catégorie car la catégorie parente correspond à la catégorie enfant.",module,Magento_Catalog
 "We can't rebuild the index for an undefined product.","Nous ne pouvons pas reconstruire l'index d'un produit non défini.",module,Magento_Catalog
 "We can't save custom-defined options for bundles with dynamic pricing.","Nous ne pouvons pas sauvegarder les options personnalisées, pour les produits groupés avec une tarification dynamique.",module,Magento_Catalog
 "We can't update the attribute.","Nous ne pouvons pas mettre à jour l'attribut.",module,Magento_Catalog
@@ -816,6 +819,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "We couldn't copy file %1. Please delete media with non-existing images and try again.","Nous n'avons pu copier le fichier %1. Veuillez supprimer les médias inexistants et essayez à nouveau.",module,Magento_Catalog
 "We couldn't move this file: %1.","Nous n'avons pu déplacer ce fichier: %1.",module,Magento_Catalog
 "We don't recognize or support this file extension type.","Le type de fichier n'est pas reconnu ou n'est pas autorisé.",module,Magento_Catalog
+"We found a duplicate website group price customer group.","Doublon groupe de prix client par groupe.",module,Magento_Catalog
 "We found a duplicate website, tier price, customer group and quantity.","Nous avons trouvé un doublon de site, prix par palier, groupe de clients et quantité.",module,Magento_Catalog
 "We found an unknown EAV indexer type ""%1"".","Type d'ndexer EAV invalide ""%1"".",module,Magento_Catalog
 "We found other products you might like!","Nous avons trouvé d'autres produits qui pourraient vous intéresser!",module,Magento_Catalog

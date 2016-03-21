@@ -201,6 +201,8 @@
 "Payment Information","Informations de paiement",module,Magento_Braintree
 "Payment method conflict","Conflit méthode de paiement",module,Magento_Braintree
 "Payment method conflict with venmo sdk","Conflit méthode de paiement avec le sdk venmo",module,Magento_Braintree
+"Payment method token card type is not accepted by this merchant account.","Ce type de carte utilisé par la méthode de paiement est non accepté par ce compte marchand.",module,Magento_Braintree
+"Payment method token does not belong to the subscription’s customer.","Le jeton de la méthode de paiement n'appartient pas à l'abonnement client.",module,Magento_Braintree
 "Payment method token is invalid.","Jeton de méthode de paiement invalide.",module,Magento_Braintree
 "Payment method token is required.","Jeton de méthode de paiement requis",module,Magento_Braintree
 "PayPal through Braintree","PayPal via Braintree",module,Magento_Braintree
@@ -213,6 +215,7 @@
 "Please select region, state or province","Sélectionnez un département / état",module,Magento_Braintree
 "Please try again later","Veuillez réessayer plus tard",module,Magento_Braintree
 "Please wait 24 hours before trying to issue a partial refund.","Veuillez attendre 24 heures avant d'essayer de régler un remboursement partiel.",module,Magento_Braintree
+"Please wait 24 hours before trying to issue a refund or use Void option.","Veuillez patienter 24 heures avant de retenter un remboursement ou utilisez une option d'annulation.",module,Magento_Braintree
 "Postal Code","Code Postal",module,Magento_Braintree
 "Postal code can only contain letters, numbers, spaces, and hyphens.","Le code postal ne peut contenir que des lettres, nombres, espaces et traits d'union",module,Magento_Braintree
 "Postal code is invalid","Code postal invalide",module,Magento_Braintree
@@ -242,6 +245,10 @@
 "Service fee amount cannot be negative","Montant des frais de service ne peut être négatif",module,Magento_Braintree
 "Service fee amount format is invalid","Montant des frais de service invalide",module,Magento_Braintree
 "Service fee amount is too large","Montant des frais de service trop important",module,Magento_Braintree
+"Service fee amount not allowed on master merchant account","Les frais de service ne sont pas autorisés sur un compte marchand maître",module,Magento_Braintree
+"Service fee is not allowed on credits","Les frais de service ne sont pas autorisés sur les crédits.",module,Magento_Braintree
+"Settlement amount cannot be more than the authorized amount.","Le montant de l'entente ne peut être supérieur au montant autorisé",module,Magento_Braintree
+"Settlement amount is less than service fee amount","Le montant de l'entente est inférieur au montant des frais",module,Magento_Braintree
 "Shipment","Expédition",module,Magento_Braintree
 "some error","Une erreur",module,Magento_Braintree
 "Some of results will be cached to improve performance. Magento cache have to be enabled","Certains résultats peuvent être mis en cache pour améliorer les performances. Le cache Magento doit être activé.",module,Magento_Braintree
@@ -256,6 +263,7 @@
 "Street address is invalid","adresse invalide",module,Magento_Braintree
 "Street address is required.","Adresse requise.",module,Magento_Braintree
 "Street address is too long.","Adresse trop longue",module,Magento_Braintree
+"Sub merchant account requires service fee amount","Un sous compte marchand requiert un montant de frais de service",module,Magento_Braintree
 "Submit","Envoyer",module,Magento_Braintree
 "Subscription has already been canceled.","Abonnement déjà annulé",module,Magento_Braintree
 "Subscription ID is invalid.","ID de souscription invalide.",module,Magento_Braintree
@@ -301,6 +309,7 @@
 "Used for direct fraud tool integration. Make sure you also contact <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> to setup your Kount account.","Utilisé pour l'intégration de l'outil de détection de fraude. Assurez-vous également de contacter <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> pour configurer votre compte Kount.",module,Magento_Braintree
 "Use Vault","Utiliser Vault",module,Magento_Braintree
 "Vault is disabled.","Coffre-fort desactivé",module,Magento_Braintree
+"Venmo sdk payment method code card type is not accepted","Méthode de paiement Venmo sdk: code type carte non accepté",module,Magento_Braintree
 "Verification not supported on this merchant account","Vérification non supportée pour ce compte marchand",module,Magento_Braintree
 "Voice Authorization is not allowed for this card type","Autorisation non disponible pour ce type de carde",module,Magento_Braintree
 "Voice Authorization Required","Autorisation requise",module,Magento_Braintree

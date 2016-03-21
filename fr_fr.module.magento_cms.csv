@@ -106,6 +106,7 @@
 "Page Status","Statut de la page",module,Magento_Cms
 "Page Title","Titre de la Page",module,Magento_Cms
 "Please correct the data sent.","Veuillez rectifier les données envoyées.",module,Magento_Cms
+"Please correct the folder name. Use only letters, numbers, underscores and dashes.","Veuillez saisir un nom de répertoire correct. Utilisez seulement des lettres, nombres, underscores et tirets",module,Magento_Cms
 "Please rename the folder using only letters, numbers, underscores and dashes.","Veuillez renommer le dossier à l'aide des lettres, des chiffres, des underscores et des tirets.",module,Magento_Cms
 "-- Please Select --","-- Faire un Choix --",module,Magento_Cms
 "Preview","Prévisualiser",module,Magento_Cms
