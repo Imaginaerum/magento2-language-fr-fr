@@ -382,6 +382,7 @@
 "Please select one of these options.","Choisir une des options suivantes",module,Magento_Backend
 "Please select State/Province.","Veuillez choisir un état/province.",module,Magento_Backend
 "Please specify the admin custom URL.","Spécifiez l'URL d'Admin personnalisée.",module,Magento_Backend
+"Please try to log out and sign in again.","Veuillez vous déconnecter et reconnecter.",module,Magento_Backend
 "Please try to sign out and sign in again.","Veuillez essayer de vous déconnectez et vous reconnecter une nouvelle fois.",module,Magento_Backend
 "Please use this date format: dd/mm/yyyy. For example, enter ""17/03/2006"" to represent March 17, 2006.","Utilisez le format de date suivant: dd/mm/yyyy. Par exemple, saisissez ""17/03/2006"" pour obtenir March 17, 2006.",module,Magento_Backend
 "Please wait...","Veuillez patienter...",module,Magento_Backend
@@ -501,6 +502,7 @@
 "Synchronizing %1 to %2","Synchronisation en cours de %1 vers %2",module,Magento_Backend
 "Synchronizing...","Synchronisation en cours...",module,Magento_Backend
 "System","Système",module,Magento_Backend
+"System(config.xml, local.xml) and modules configuration files(config.xml, menu.xml).","Système(config.xml, local.xml) et fichiers de configuration modules(config.xml, menu.xml).",module,Magento_Backend
 "System Log File Name","Nom de fichier de logs système",module,Magento_Backend
 "Tags","Tags",module,Magento_Backend
 "Target Path","Chemin cible",module,Magento_Backend
@@ -627,6 +629,7 @@
 "We can't set up a URL rewrite because the category your chose is not associated with a website.","Impossible de définir la réécriture d'URL car la catégorie choisie n'est associée à aucun site web.",module,Magento_Backend
 "We can't set up a URL rewrite because the product you chose is not associated with a website.","Impossible d'ajouter une réécriture d'URL car le produit sélectionné n'est associé à aucun site web.",module,Magento_Backend
 "We could not detect a size.","Nous ne pouvons pas déterminer le poids du fichier.",module,Magento_Backend
+"We couldn't create a backup right now. Please try again later.","Impossible de créer la sauvegarde. Veuillez réessayer plus tard.",module,Magento_Backend
 "We couldn't find any records.","Aucun enregistrement trouvé.",module,Magento_Backend
 "We don't recognize or support this file extension type.","Le type de fichier n'est pas reconnu ou n'est pas autorisé.",module,Magento_Backend
 "Weekend Days","Jours de Weekend",module,Magento_Backend

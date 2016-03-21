@@ -21,6 +21,7 @@
 "Only default scope allowed","Seule la portée par défaut est autorisé",module,Magento_Store
 "Other Settings","Autres réglages",module,Magento_Store
 "Page blocks HTML.","Code HTML des blocs de page.",module,Magento_Store
+"Paths to view files (e.g., PHTML templates, images, CSS, JS files).","Chemins des fichiers de vues (ex: PHTML templates, images, CSS, fichiers JS).",module,Magento_Store
 "-- Please Select --","-- Faire un Choix --",module,Magento_Store
 "Reflection Data","Données de Reflection",module,Magento_Store
 "Requested store is inactive","La magasin est inactif",module,Magento_Store

@@ -51,6 +51,7 @@
 "Rollback","Restaurer",module,Magento_Backup
 "Scheduled Backup Settings","Paramètres de sauvegarde programmée",module,Magento_Backup
 "Size(bytes)","Taille (octets)",module,Magento_Backup
+"Something went wrong creating the backup.","Erreur lors de la création de la sauvegarde.",module,Magento_Backup
 "Something went wrong putting your store into maintenance mode.","Une erreur s'est produite lors de la mise en maintenance du magasin.",module,Magento_Backup
 "Something went wrong while putting your store into maintenance mode.","Une erreur s'est produite lors de la mise en maintenance magasin.",module,Magento_Backup
 "Something went wrong while writing to the backup file ""%1"".","Une erreur s'est produite lors de l'écriture du fichier de sauvegarde ""%1"".",module,Magento_Backup

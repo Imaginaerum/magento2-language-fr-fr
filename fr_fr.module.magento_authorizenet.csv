@@ -68,6 +68,7 @@
 "Remaining Balance","Solde restant",module,Magento_Authorizenet
 "Severe 3D Secure Card Validation","Vérification 3D Secure stricte",module,Magento_Authorizenet
 "Severe Validation Removes Chargeback Liability on Merchant","La vérification 3D Secure stricte annule la responsabilité de rétrofacturation du marchand",module,Magento_Authorizenet
+"Something went wrong canceling the transactions.","Erreur lors de l'annulation de la transaction",module,Magento_Authorizenet
 "Something went wrong in the payment gateway.","Une erreur s'est produite sur la passerelle de paiement.",module,Magento_Authorizenet
 "Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.","Une erreur s'est Produite: le montant payé ne correspond pas au montant de la commande. Veuillez corriger cela et essayer à nouveau.",module,Magento_Authorizenet
 "Something went wrong while authorizing the partial payment.","Une erreur s'est produite lors de l'autorisation partielle de paiement.",module,Magento_Authorizenet
@@ -75,6 +76,7 @@
 "Something went wrong while canceling the payment.","Une erreur s'est produite lors de l'annulation de paiement.",module,Magento_Authorizenet
 "Something went wrong while capturing the payment.","Une erreur s'est produite lors de la capture de paiement.",module,Magento_Authorizenet
 "Something went wrong while refunding the payment.","Une erreur s'est produite lors du remboursement de paiement.",module,Magento_Authorizenet
+"Something went wrong while voiding the payment.","Erreur lors de l'annulation du paiement",module,Magento_Authorizenet
 "Sort Order","Ordre de Tri",module,Magento_Authorizenet
 "successful","succès",module,Magento_Authorizenet
 "successful.","succès.",module,Magento_Authorizenet
@@ -83,7 +85,12 @@
 "There was a payment authorization error.","Il y a une erreur sur l'autorisation du paiement.",module,Magento_Authorizenet
 "The shopping cart contents and/or address has been changed.","Changement dans le contenu du panier et/ou adresse.",module,Magento_Authorizenet
 "The transaction was declined because the response hash validation failed.","La transaction a été refusée parce que la réponse de validation du hachage a échoué.",module,Magento_Authorizenet
+"This is an invalid amount for authorization.","Montant en autorisation invalide",module,Magento_Authorizenet
+"This is an invalid amount for capture.","Montant pour la capture invalide.",module,Magento_Authorizenet
+"This is an invalid amount for partial authorization.","Montant en autorisation partielle invalide",module,Magento_Authorizenet
+"This is an invalid amount for refund.","Montant du remboursement invalide",module,Magento_Authorizenet
 "This payment didn't work out because we can't find this order.","Ce paiement n'a pas été effectué car la commande est introuvable.",module,Magento_Authorizenet
+"This payment was not authorized because the transaction ID field is empty.","Paiement non autorisé car l'ID de transaction est vide",module,Magento_Authorizenet
 "Title","Titre",module,Magento_Authorizenet
 "To cancel pending authorizations and release amounts that have already been processed during this payment, click Cancel.","Pour annuler les autorisations en cours et libérer les montants déjà prélevés pendant ce processus, cliquez sur Annuler.",module,Magento_Authorizenet
 "Transaction %1 has been approved. Amount %2. Transaction status is ""%3""","Transaction %1 approuvée. Montant %2. Le statut de la transaction est ""%3""",module,Magento_Authorizenet

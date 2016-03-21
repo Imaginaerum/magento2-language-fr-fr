@@ -189,6 +189,7 @@
 "Totals calculation is not applicable to empty cart","Le calcul de totaux n'est pas applicable sur un panier vide",module,Magento_Checkout
 "Unable to save address. Please, check input data.","Impossible de sauvegarder l'adresse. Veuillez vérifier les données saisies.",module,Magento_Checkout
 "Unable to save shipping information. Please, check input data.","Impossible de sauvegarder les informations de livraison. Veuillez vérifier les données saisies.",module,Magento_Checkout
+"Unable to set Payment Method","Impossible de définir une méthode de paiement",module,Magento_Checkout
 "Unit Price","Prix unitaire",module,Magento_Checkout
 "Unit Price Excl. Tax","Prix Unitaire HT",module,Magento_Checkout
 "Unit Price Incl. Tax","Prix Unitaire TTC",module,Magento_Checkout

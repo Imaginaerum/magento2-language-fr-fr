@@ -739,6 +739,7 @@
 "We cannot cancel this order.","Impossible d'annuler cette commande.",module,Magento_Sales
 "We cannot create an empty shipment.","Impossible de créer une expédition vide.",module,Magento_Sales
 "We cannot determine the field name.","Impossible de déterminer le nom du champ.",module,Magento_Sales
+"We cannot get the order instance.","Impossible de trouver la commande.",module,Magento_Sales
 "We cannot register an existing credit memo.","Nous ne pouvons pas sauvegarder un avoir existant.",module,Magento_Sales
 "We cannot register an existing invoice","Impossible de sauvegarder une facture existante",module,Magento_Sales
 "We cannot register an existing shipment","Impossible de sauvegarder une expédition existante",module,Magento_Sales
@@ -766,6 +767,7 @@
 "We couldn't find this wish list.","Nous ne pouvons pas trouver cette liste d'envies.",module,Magento_Sales
 "We couldn't send the email order.","Nous ne pouvons pas envoyer l'email de commande.",module,Magento_Sales
 "We couldn't update the payment.","Nous ne pouvons pas mettre à jour le paiement.",module,Magento_Sales
+"We couldn't void the payment.","Impossible d'annuler le paiement.",module,Magento_Sales
 "We don't have enough information to save the parent transaction ID.","Nous n'avons pas assez d'information pour sauvegarder l'identifiant de transaction parent.",module,Magento_Sales
 "We don't recognize the draw line data. Please define the ""lines"" array.","Ligne non reconnue. Veuillez définir un jeu de lignes.",module,Magento_Sales
 "We found an invalid entity model.","Modèle d'entité invalide.",module,Magento_Sales

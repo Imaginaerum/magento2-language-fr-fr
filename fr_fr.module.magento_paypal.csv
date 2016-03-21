@@ -431,6 +431,7 @@
 "Related Orders","Les commandes connexes",module,Magento_Paypal
 "Report Date","Date du rapport",module,Magento_Paypal
 "Reports","Rapports",module,Magento_Paypal
+"Requested payment method does not match with order.","La méthode de paiement ne correspond pas avec celle de la commande.",module,Magento_Paypal
 "Require Customer's Billing Address","Nécessite l'adresse de facturation du client",module,Magento_Paypal
 "Require CVV Entry","Entrée CVV Exiger",module,Magento_Paypal
 "Required PayPal Settings","Réglages PayPal requis",module,Magento_Paypal
@@ -572,8 +573,11 @@
 "Virtual Terminal Payment","Terminal de paiement virtuel",module,Magento_Paypal
 "Void","annulé",module,Magento_Paypal
 "We are connecting to the PayPal SFTP server to retrieve new reports. Are you sure you want to continue?","Nous nous connectons au serveur SFTP PayPal pour récupérer les nouveaux rapports. Êtes-vous sûr de vouloir continuer ?",module,Magento_Paypal
+"Website Payments Pro and Express Checkout","Website Payments Pro et Express Checkout",module,Magento_Paypal
 "Website Payments Pro Hosted Solution","Solution hébergée Website Payments Pro",module,Magento_Paypal
 "Website Payments Pro Hosted Solution and Express Checkout","Website Payments Pro Hosted Solution et Express Checkout",module,Magento_Paypal
+"Website Payments Pro Hosted Solution (Includes Express Checkout)","Website Payments Pro Hosted Solution (Inclus Express Checkout)",module,Magento_Paypal
+"Website Payments Pro (Includes Express Checkout)","Website Payments Pro (Inclus Express Checkout)",module,Magento_Paypal
 "Website Payments Standard","PayPal Standard",module,Magento_Paypal
 "Website Payments Standard Payment","Paiement PayPal Standard",module,Magento_Paypal
 "We cannot create a target file for reading reports.","Impossible de créer le fichier pour la lecture des rapports.",module,Magento_Paypal

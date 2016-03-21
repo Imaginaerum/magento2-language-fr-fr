@@ -43,6 +43,7 @@
 "Qty Increments","Incréments de quantités",module,Magento_CatalogInventory
 "Quantity","Quantité",module,Magento_CatalogInventory
 "Set Items' Status to be In Stock When Order is Cancelled","Passer le statut des articles à Disponible"" quand une commande est annulée""",module,Magento_CatalogInventory
+"Some of the products are currently out of stock.","Produit épuisé",module,Magento_CatalogInventory
 "Some of the products are out of stock.","Certains de ces produits sont en rupture de stock.",module,Magento_CatalogInventory
 "Stock","Stock",module,Magento_CatalogInventory
 "Stock Item with id ""%1"" does not exist.","L'élément de stock avec l'ID ""%1"" n'existe pas.",module,Magento_CatalogInventory

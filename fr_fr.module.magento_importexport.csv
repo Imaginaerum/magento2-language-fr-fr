@@ -33,6 +33,7 @@
 "Download","télécharger",module,Magento_ImportExport
 "Download full report","Téléchargez le rapport complet",module,Magento_ImportExport
 "Download Sample File","Télécharger le fichier d'exemple",module,Magento_ImportExport
+"Duplicate Unique Attribute for '%s'","Doublon attribut unique '%s'",module,Magento_ImportExport
 "Entity adapter object must be an instance of %1 or %2","L'objet de l'Adapter doit être une instance de %1 ou %2",module,Magento_ImportExport
 "Entity Attributes","Attributs d'entité",module,Magento_ImportExport
 "Entity is unknown","L'entité est inconnue",module,Magento_ImportExport
@@ -106,6 +107,7 @@
 "Please specify a source.","Veuillez spécifier une source.",module,Magento_ImportExport
 "Please specify number of errors to halt import process","Veuillez préciser le nombre d'erreurs pour arrêter le processus d'importation",module,Magento_ImportExport
 "Please specify the writer.","Veuillez spécifier l'auteur.",module,Magento_ImportExport
+"Please specify writer.","Veuillez spécifier un writer",module,Magento_ImportExport
 "Replace","Remplacer",module,Magento_ImportExport
 "Replace Existing Complex Data","Remplacer les données complexes existantes",module,Magento_ImportExport
 "Select File to Import","Sélectionner le fichier à importer",module,Magento_ImportExport

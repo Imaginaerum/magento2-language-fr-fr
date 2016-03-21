@@ -40,6 +40,7 @@
 "Cannot hold in escrow","Impossible de bloquer",module,Magento_Braintree
 "Cannot partially refund escrowed transaction","Impossible de faire un remboursement partiel sur une transaction bloquée",module,Magento_Braintree
 "Cannot refund a transaction unless it is settled.","Vous ne pouvez pas effectuer de remboursement avant que la transaction ne soit réglée.",module,Magento_Braintree
+"Cannot refund credit","Remboursement impossible",module,Magento_Braintree
 "Cannot release from escrow","Impossible de diffuser",module,Magento_Braintree
 "Capture action","Action de capture",module,Magento_Braintree
 "Cardholder Name","Nom du titulaire de la carte",module,Magento_Braintree
@@ -80,6 +81,8 @@
 "Credit card type is not allowed for this payment method.","Le type de carte bancaire n'est pas autorisé pour ce mode de paiement.",module,Magento_Braintree
 "Credit card type is not allowed for your country.","Type de carte bancaire non autorisés pour votre pays.",module,Magento_Braintree
 "Credit Card Types","Types de Carte de Crédit",module,Magento_Braintree
+"Credits are not supported by this processor","Crédits non supportés par ce service de paiement",module,Magento_Braintree
+"Credits cannot be cloned.","Les crédits ne peuvent être clonés",module,Magento_Braintree
 "Customer does not have any credit cards.","Le client ne possède pas de carte de crédit.",module,Magento_Braintree
 "Customer ID has already been taken.","ID Client déjà fourni.",module,Magento_Braintree
 "Customer ID is invalid.","ID client invalide.",module,Magento_Braintree
@@ -98,6 +101,8 @@
 "Delete","Supprimer",module,Magento_Braintree
 "Delete Credit Card","Supprimer la carte bancaire",module,Magento_Braintree
 "Display on Shopping Cart","Afficher dans le Panier",module,Magento_Braintree
+"Duplicate card exists","Doublon de carte",module,Magento_Braintree
+"Duplicate card exists in the vault.","Doublon de carte dans le coffre-fort",module,Magento_Braintree
 "Duplicate transaction","Doublon de transaction",module,Magento_Braintree
 "Edit","Éditer",module,Magento_Braintree
 "Edit Credit Card","Modifier la carte bancaire",module,Magento_Braintree
@@ -201,9 +206,17 @@
 "Price is an invalid format.","Format prix invalide.",module,Magento_Braintree
 "Price is too large","Prix trop grand",module,Magento_Braintree
 "Private Key","Clé Privée",module,Magento_Braintree
+"Processor Authorization Code","Code d'autorisation du service de paiement",module,Magento_Braintree
+"Processor authorization code cannot be set unless for a voice authorization.","Le code d'autorisation du service de paiement ne peut être défini à moins qu'il s'agisse d'un paiement par téléphone.",module,Magento_Braintree
+"Processor authorization code is invalid","Code d'autorisation du service de paiement invalide",module,Magento_Braintree
+"Processor decline","Refus du service de paiement",module,Magento_Braintree
+"Processor network error","Erreur réseau du service de paiement",module,Magento_Braintree
+"Processor Response Code","Code de réponse du service de paiement",module,Magento_Braintree
+"Processor Response Text","Réponse texte du service de paiement",module,Magento_Braintree
 "Public Key","Clé Publique",module,Magento_Braintree
 "Purchase order number is invalid","Numéro de commande invalide",module,Magento_Braintree
 "Purchase order number is too long.","Numéro de commande trop long",module,Magento_Braintree
+"Refund amount cannot be more than the authorized amount.","Le montant du remboursement ne peut être supérieur au montant autorisé",module,Magento_Braintree
 "Region is invalid","Région invalide",module,Magento_Braintree
 "Region is too long.","Région est trop long.",module,Magento_Braintree
 "Require Customer's Billing Address","Nécessite l'adresse de facturation du client",module,Magento_Braintree
@@ -215,6 +228,7 @@
 "Service fee amount is too large","Montant des frais de service trop important",module,Magento_Braintree
 "Shipment","Expédition",module,Magento_Braintree
 "some error","Une erreur",module,Magento_Braintree
+"Some of results will be cached to improve performance. Magento cache have to be enabled","Certains résultats peuvent être mis en cache pour améliorer les performances. Le cache Magento doit être activé.",module,Magento_Braintree
 "Something went wrong while processing.","Une erreur s'est produite lors du traitement.",module,Magento_Braintree
 "Something went wrong while saving the card.","Une erreur s'est produite lors de l'enregistrement de la carte.",module,Magento_Braintree
 "Some transactions are already settled or voided and cannot be voided.","Certaines transactions sont déjà remboursées ou annulées et ne peuvent être annulées.",module,Magento_Braintree
@@ -238,16 +252,21 @@
 "There was an error capturing the transaction: %1.","Erreur lors de la capture de transaction: %1.",module,Magento_Braintree
 "There was an error refunding the transaction: %1.","Il y a eu une erreur de remboursement de la transaction: %1.",module,Magento_Braintree
 "There was an error voiding the transaction: %1.","Il y a eu une erreur annulant la transaction: %1.",module,Magento_Braintree
+"There was an error voiding the transaction.","Erreur lors de l'annulation de la transaction",module,Magento_Braintree
 "There was error deleting the credit card","Il y a eu une erreur lors de la suppression de la carte bancaire",module,Magento_Braintree
 "There was error during saving card data","Erreur lors de la sauvegarde des données de la carte",module,Magento_Braintree
+"The Transaction has not settled. ","La transaction n'est pas configurée. ",module,Magento_Braintree
 "This refund is for a partial amount but the Transaction has not settled.","Ce remboursement est pour un montant partiel, mais la transaction n'est pas établie.",module,Magento_Braintree
 "This refund is for a partial amount but the Transaction has not settled. ","Ce remboursement est pour un montant partiel, mais la transaction n'est pas établie. ",module,Magento_Braintree
 "Title","Titre",module,Magento_Braintree
 "Token is invalid.","Jeton Invalide.",module,Magento_Braintree
 "Token is not an allowed token.","Jeton non valide.",module,Magento_Braintree
 "Too many addresses per customer","Trop d'adresse par client",module,Magento_Braintree
+"Transaction cannot be cloned if payment method is stored in Vault","La transaction ne peut être dupliquée si la méthode de paiement est enregistrée dans le coffre-fort",module,Magento_Braintree
+"Transaction can only be voided if status is authorized or submitted_for_settlement.","La transaction ne peut être qu'annulée si le statut est autorisé ou submitted_for_settlement.",module,Magento_Braintree
 "Transaction declined: ","Transaction refusée: ",module,Magento_Braintree
 "Transaction declined by gateway: Check card details or try another card","Transaction refusée par la passerelle: Voir détails de la carte ou essayez une autre carte",module,Magento_Braintree
+"Transaction has already been refunded.","La transaction à déjà été remboursée",module,Magento_Braintree
 "Transaction type is invalid.","Type de transaction invalide.",module,Magento_Braintree
 "Transaction type is required.","Type de transaction requis.",module,Magento_Braintree
 "Trial duration is an invalid format.","Format invalide pour la période d'essai",module,Magento_Braintree
@@ -262,7 +281,14 @@
 "Use Cache","Utiliser le Cache",module,Magento_Braintree
 "Used for direct fraud tool integration. Make sure you also contact <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> to setup your Kount account.","Utilisé pour l'intégration de l'outil de détection de fraude. Assurez-vous également de contacter <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> pour configurer votre compte Kount.",module,Magento_Braintree
 "Use Vault","Utiliser Vault",module,Magento_Braintree
+"Vault is disabled.","Coffre-fort desactivé",module,Magento_Braintree
+"Verification not supported on this merchant account","Vérification non supportée pour ce compte marchand",module,Magento_Braintree
+"Voice Authorization is not allowed for this card type","Autorisation non disponible pour ce type de carde",module,Magento_Braintree
+"Voice Authorization Required","Autorisation requise",module,Magento_Braintree
+"Voice Authorizations are not supported for this processor","Paiements téléphoniques non supportés par ce service de paiement",module,Magento_Braintree
 "Voided capture.","Capture annulée.",module,Magento_Braintree
+"Website is an invalid format.","Format site web invalide.",module,Magento_Braintree
+"Website is too long.","Site web trop long.",module,Magento_Braintree
 "We can't initialize checkout.","Nous ne pouvons pas initialiser la vérification.",module,Magento_Braintree
 "We can't initialize checkout review.","Nous ne pouvons pas initialiser l'examen de vérification.",module,Magento_Braintree
 "We can't place the order.","Passage de commande impossible.",module,Magento_Braintree

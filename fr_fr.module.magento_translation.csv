@@ -109,6 +109,8 @@
 "Select Product","Sélectionner un Produit",module,Magento_Translation
 "Select type of option.","Sélectionnez le type d'option.",module,Magento_Translation
 "Show all...","Voir tout...",module,Magento_Translation
+"Some problem with revert action","Problème rencontré lors de l'annulation",module,Magento_Translation
+"Some problem with save action","Problème rencontré lors de la sauvegarde",module,Magento_Translation
 "Something went wrong while loading the theme.","Une erreur s'est produite lors du chargement du thème",module,Magento_Translation
 "Sorry, something went wrong.","Une erreur s'est produite.",module,Magento_Translation
 "Sorry, something went wrong. Please try again later.","Une erreur s'est produite. Veuillez réessayer plus tard.",module,Magento_Translation
