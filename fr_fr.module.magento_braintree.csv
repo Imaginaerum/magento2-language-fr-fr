@@ -31,19 +31,30 @@
 "Billing day of month is invalid","Le jour de facturation est invalide",module,Magento_Braintree
 "Billing day of month must be numeric","Le jour de facturation doit être un nombre",module,Magento_Braintree
 "Braintree","Braintree",module,Magento_Braintree
+"Cannot add duplicate addon or discount","Impossible d'ajouter une extension ou remise existante.",module,Magento_Braintree
 "Cannot cancel release","Impossible d'annuler la diffusion",module,Magento_Braintree
 "Cannot clone transaction without submit_for_settlement flag.","Impossible de cloner la transaction sans le flag submit_for_settlement.",module,Magento_Braintree
 "Cannot clone voice authorization transactions","Vous ne pouvez pas cloner les transactions d'autorisation",module,Magento_Braintree
 "Cannot edit a canceled subscription.","Impossible d'éditer un abonnement annulé.",module,Magento_Braintree
 "Cannot edit expired subscription","Impossible d'éditer un abonnement expiré.",module,Magento_Braintree
+"Cannot edit price changing fields on past due subscription","Impossible de changer le champs prix pour un abonnement antérieur.",module,Magento_Braintree
 "Can not find original authorization transaction for partial capture","Impossible de trouver l'autorisation de transaction initiale pour la capture partielle",module,Magento_Braintree
 "Cannot hold in escrow","Impossible de bloquer",module,Magento_Braintree
 "Cannot partially refund escrowed transaction","Impossible de faire un remboursement partiel sur une transaction bloquée",module,Magento_Braintree
 "Cannot provide a billing address unless also providing a credit card.","Impossible de fournir une adresse de facturation a moins que vous ayez déjà spécifié une carte de crédit",module,Magento_Braintree
+"Cannot provide both a billing address and a billing address ID.","Impossible de fournir à la fois une adresse de facturation et un ID d'adresse de facturation.",module,Magento_Braintree
+"Cannot provide both payment_method_token and credit_card attributes.","Impossible de fournir à la fois des attributs payment_method_token et credit_card",module,Magento_Braintree
+"Cannot provide both payment_method_token and customer_id unless the payment_method belongs to the customer.","Impossible de fournir à la fois payment_method_token et customer_id à moins que payment_method appartienne au client.",module,Magento_Braintree
+"Cannot provide both payment_method_token and subscription_id unless the payment method belongs to the subscription.","Impossible de fournir à la fois payment_method_token et subscription_id à moins que payment_method appartienne à l'abonnement.",module,Magento_Braintree
+"Cannot provide both subscription_id and customer_id unless the subscription belongs to the customer.","Impossible de fournir à la fois subscription_id et customer_id à moins que l'abonnement appartienne au client.",module,Magento_Braintree
+"Cannot provide expiration_date if you are also providing expiration_month and expiration_year.","Impossible de fournir expiration_date si vous avez déjà spécifié expiration_month et expiration_year.",module,Magento_Braintree
 "Cannot refund a transaction unless it is settled.","Vous ne pouvez pas effectuer de remboursement avant que la transaction ne soit réglée.",module,Magento_Braintree
 "Cannot refund credit","Remboursement impossible",module,Magento_Braintree
+"Cannot refund transaction with suspended merchant account.","Impossible d'effectuer un remboursement avec un compte marchand suspendu.",module,Magento_Braintree
 "Cannot refund with pending merchant account","Remboursement impossible avec un compte marchand en attente",module,Magento_Braintree
 "Cannot release from escrow","Impossible de diffuser",module,Magento_Braintree
+"Cannot submit for settlement unless status is authorized.","Impossible de fournir une entente de facturation à moins que le statut soit autorisé.",module,Magento_Braintree
+"Cannot update subscription to a plan with a different billing frequency.","Impossible de mettre à jour l'abonnement avec une date de fréquence de facturation différente.",module,Magento_Braintree
 "Capture action","Action de capture",module,Magento_Braintree
 "Cardholder Name","Nom du titulaire de la carte",module,Magento_Braintree
 "Cardholder name is too long.","Nom du titulaire de la carte trop long.",module,Magento_Braintree
@@ -69,7 +80,9 @@
 "Credit Card","Carte de Crédit",module,Magento_Braintree
 "Credit card does not exist","Carte bancaire inexistante",module,Magento_Braintree
 "Credit Card Number","Numéro de Carte de Crédit",module,Magento_Braintree
+"Credit card number cannot be updated to an unsupported card type when it is associated to subscriptions.","Le numéro de carte de crédit ne peut être mis à jour vers un type de carte non supporté par un abonnement.",module,Magento_Braintree
 "Credit card number is invalid.","Numéro de carte de crédit invalide.",module,Magento_Braintree
+"Credit card number is not an accepted test number.","Le numéro de carte de crédit n'est pas un numéro test accepté.",module,Magento_Braintree
 "Credit card number is required.","Numéro de carte de crédit requis.",module,Magento_Braintree
 "Credit card number must be 12-19 digits.","Le numéro de carte de crédit doit contenir entre 12 et 19 chiffres.",module,Magento_Braintree
 "Credit Cards","Carte Bancaire",module,Magento_Braintree
@@ -160,6 +173,7 @@
 "Locality is too long.","Localité trop longue",module,Magento_Braintree
 "Make Default","Créer par Défaut",module,Magento_Braintree
 "Merchant account does not support MOTO","Le compte marchand ne supporte pas MOTO",module,Magento_Braintree
+"Merchant account does not support refunds","Ce compte marchand ne permet pas les remboursements",module,Magento_Braintree
 "Merchant Account ID","ID Compte Marchand",module,Magento_Braintree
 "Merchant account ID is invalid.","ID du compte marchand invalide.",module,Magento_Braintree
 "Merchant account is suspended.","Compte marchand suspendu.",module,Magento_Braintree
@@ -245,6 +259,7 @@
 "Submit","Envoyer",module,Magento_Braintree
 "Subscription has already been canceled.","Abonnement déjà annulé",module,Magento_Braintree
 "Subscription ID is invalid.","ID de souscription invalide.",module,Magento_Braintree
+"Subscription status must be past due","Le statut de l'abonnement doit être antérieur",module,Magento_Braintree
 "Switch/Solo/Maestro Only","Switch/Solo/Maestro Seulement",module,Magento_Braintree
 "Tax amount cannot be negative.","Le montant de la taxe ne peut être négatif.",module,Magento_Braintree
 "Tax amount is an invalid format.","Le montant de la taxe est dans un format invalide.",module,Magento_Braintree
@@ -252,7 +267,9 @@
 "The processor declined your transaction, please re-enter your payment information","Le processus a refusé votre transaction, veuillez entrer de nouveau vos informations de paiement",module,Magento_Braintree
 "The processor responded with an unknown error","Le processus a répondu avec une erreur inconnue",module,Magento_Braintree
 "There was an error capturing the transaction: %1.","Erreur lors de la capture de transaction: %1.",module,Magento_Braintree
+"There was an error capturing the transaction.","Erreur lors de la capture de la transaction",module,Magento_Braintree
 "There was an error refunding the transaction: %1.","Il y a eu une erreur de remboursement de la transaction: %1.",module,Magento_Braintree
+"There was an error refunding the transaction.","Erreur lors du remboursement de la transaction.",module,Magento_Braintree
 "There was an error voiding the transaction: %1.","Il y a eu une erreur annulant la transaction: %1.",module,Magento_Braintree
 "There was an error voiding the transaction.","Erreur lors de l'annulation de la transaction",module,Magento_Braintree
 "There was error deleting the credit card","Il y a eu une erreur lors de la suppression de la carte bancaire",module,Magento_Braintree

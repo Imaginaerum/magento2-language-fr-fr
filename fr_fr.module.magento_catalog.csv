@@ -334,6 +334,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Inc. Tax","TTC",module,Magento_Catalog
 "Indexed category/products association","Index des associations catégorie/produits",module,Magento_Catalog
 "Indexed product/categories association","Indexation d'association produit/catégories",module,Magento_Catalog
+"Index product and categories URL Rewrites","Index réécriture URL catégories et produits",module,Magento_Catalog
 "Index product attributes for layered navigation building","Index des attributs produit pour la navigation par filtres",module,Magento_Catalog
 "Index product EAV","Index EAV des Produits",module,Magento_Catalog
 "Index product prices","Index des tarifs produit",module,Magento_Catalog
@@ -684,6 +685,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "The file options format is not valid.","Le format du fichier des options est invalide.",module,Magento_Catalog
 "The file upload failed.","Le chargement du fichier a échoué.",module,Magento_Catalog
 "The file you uploaded is larger than %1 Megabytes allowed by server","Le fichier uploadé a une taille supérieure à %1 Mo. Maximum autorisé sur le serveur",module,Magento_Catalog
+"The filter must be an object. Please set correct filter.","Le filtre doit être un objet. Veuillez le configurer correctement.",module,Magento_Catalog
 "The filter must be an object. Please set the correct filter.","Le filtre doit être un objet. Veuillez régler le filtre approprié.",module,Magento_Catalog
 "The filters must be an array.","Les filtres doivent être sous forme de tableau.",module,Magento_Catalog
 "The Flat Catalog module has a limit of %2$d filterable and/or sortable attributes.Currently there are %1$d of them.Please reduce the number of filterable/sortable attributes in order to use this module","Le module de catalogue à plat a une limite de %2$d filtrables et/ou d'attributs triables. Actuellement, il y a %1$d d'entre eux. Veuillez réduire le nombre d'attributs filtrables/triables pour utiliser ce module",module,Magento_Catalog
@@ -786,6 +788,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Visibility","Visibilité",module,Magento_Catalog
 "Visible","Visible",module,Magento_Catalog
 "Visible in Advanced Search","Visible dans la Recherche avancée",module,Magento_Catalog
+"Visible on Catalog Pages on Frontend","Visible sur les pages catalogue du frontend",module,Magento_Catalog
 "Visible on Catalog Pages on Storefront","Visible sur les pages du catalogue magasin",module,Magento_Catalog
 "Warning message","Message d'alerte",module,Magento_Catalog
 "Watermark","Filigrane",module,Magento_Catalog
@@ -809,6 +812,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "We can't rebuild the index for an undefined product.","Nous ne pouvons pas reconstruire l'index d'un produit non défini.",module,Magento_Catalog
 "We can't save custom-defined options for bundles with dynamic pricing.","Nous ne pouvons pas sauvegarder les options personnalisées, pour les produits groupés avec une tarification dynamique.",module,Magento_Catalog
 "We can't update the attribute.","Nous ne pouvons pas mettre à jour l'attribut.",module,Magento_Catalog
+"We couldn't add the product to the cart because of an option validation issue.","Impossible d'ajouter ce produit au panier. Erreur lors de la validation d'une option.",module,Magento_Catalog
 "We couldn't copy file %1. Please delete media with non-existing images and try again.","Nous n'avons pu copier le fichier %1. Veuillez supprimer les médias inexistants et essayez à nouveau.",module,Magento_Catalog
 "We couldn't move this file: %1.","Nous n'avons pu déplacer ce fichier: %1.",module,Magento_Catalog
 "We don't recognize or support this file extension type.","Le type de fichier n'est pas reconnu ou n'est pas autorisé.",module,Magento_Catalog

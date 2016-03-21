@@ -204,6 +204,7 @@
 "Tax","Taxe",module,Magento_Reports
 "Tax Amount","Montant TVA",module,Magento_Reports
 "Tax Report","Rapport des taxes",module,Magento_Reports
+"The Order Updated Date report is displayed in real-time, and does not need to be refreshed.","Le rapport de mise à jour commande est affiché en temps réel et n'a pas besoin d'être rafraîchi.",module,Magento_Reports
 "The Order Updated report is created in real time and does not require a refresh.","La rapport des mises à jour des commandes est créé en temps réel et ne nécessite pas d'être rafraîchi.",module,Magento_Reports
 "The product type filter specified is incorrect.","Le filtre ""Type de produit"" est invalide.",module,Magento_Reports
 "Times Deleted","Nombre de suppressions",module,Magento_Reports

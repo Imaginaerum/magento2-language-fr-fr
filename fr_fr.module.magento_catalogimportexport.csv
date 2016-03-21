@@ -21,6 +21,7 @@
 "Please enter a value for title.","Veuillez saisir un titre.",module,Magento_CatalogImportExport
 "There are no product types available for export","Aucun type de produit disponible pour l'export",module,Magento_CatalogImportExport
 "There are no product types available for export.","Aucun type de produit disponible pour l'export.",module,Magento_CatalogImportExport
+"There are several existing custom options with such name.","Il existe plusieurs options avec le même nom.",module,Magento_CatalogImportExport
 "This name is already being used for custom option. Please enter a different name.","Ce nom est déjà utilisé pour une option personnalisée. Merci d'utiliser un nom différent.",module,Magento_CatalogImportExport
 "Value for 'maximum characters' sub attribute in 'custom_options' attribute contains incorrect value","La valeur du sous-attribut 'maximum characters' de l'attribut 'custom_options' contient une valeur incorrecte",module,Magento_CatalogImportExport
 "Value for 'price' sub attribute in 'custom_options' attribute contains incorrect value","La valeur du sous-attribut 'price' de l'attribut 'custom_options' contient une valeur incorrecte",module,Magento_CatalogImportExport

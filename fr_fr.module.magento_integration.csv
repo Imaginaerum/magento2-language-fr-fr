@@ -96,6 +96,7 @@
 "This customer has no tokens.","Ce client n'a pas d'authenfication.",module,Magento_Integration
 "This integration no longer exists.","Cette intégration n'existe pas.",module,Magento_Integration
 "This user has no tokens.","Cet utilisateur ne possède pas de jetons.",module,Magento_Integration
+"Timeout for OAuth consumer credentials Post request within X seconds.","Délai de connexion OAuth atteint. Veuillez ressayer.",module,Magento_Integration
 "Token is already being used","L'authentification est déjà utilisée",module,Magento_Integration
 "Token is not an access token","L'authentification n'est une authentification d'accès",module,Magento_Integration
 "Token is not associated with the specified consumer","L'authentification n'est pas associée à l'API spécifiée",module,Magento_Integration

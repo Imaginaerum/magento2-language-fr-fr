@@ -12,6 +12,7 @@
 "Excel XML","XML Excel",module,Magento_Ui
 "Go to Details Page","Aller à la page des détails",module,Magento_Ui
 "HTML tags are not allowed.","Les balises HTML ne sont pas autorisées.",module,Magento_Ui
+"If enabled, can be used by functional tests for extended reporting","Si activé, peut être utilisé par les tests fonctionnels pour les rapports etendus",module,Magento_Ui
 "Initialization error component, check the spelling of the name or the correctness of the call.","Erreur lors de l'initialisation du composant, vérifier l'orthographe du nom ou l'exactitude de l'appel.",module,Magento_Ui
 "Invalid format.","Format invalide.",module,Magento_Ui
 "Letters, numbers, spaces or underscores only please","Uniquement des lettre, nombres, espaces ou underscores autorisés",module,Magento_Ui
@@ -70,6 +71,7 @@
 "Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.","N'utilisez que des lettres (a-z ou A-Z), des nombres (0-9). Aucun espace ou autre caractère n'est autorisé.",module,Magento_Ui
 "Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.","Veuillez utiliser ce format de Date: jj/mm/aaaa. Par exemple, 21/12/2012 pour le 21 Décembre 2012.",module,Magento_Ui
 "Remove %1","Supprimer %1",module,Magento_Ui
+"The configuration parameter ""formElement"" is a required for ""%1"" field.","Le paramètre de configuration ""formElement"" est requis pour le champs ""%1""",module,Magento_Ui
 "The specified vehicle identification number (VIN) is invalid.","Le numéro d'identification de véhicule (NIV) fourni est invalide.",module,Magento_Ui
 "The value is not within the specified range.","La valeur n'est pas dans la plage spécifiée.",module,Magento_Ui
 "This is a required field.","Ce champ est obligatoire.",module,Magento_Ui

@@ -137,6 +137,7 @@
 "We don't recognize or support this file extension type.","Le type de fichier n'est pas reconnu ou n'est pas autorisé.",module,Magento_Translation
 "Yes","oui",module,Magento_Translation
 "You are about to delete your wish list. This action cannot be undone. Are you sure you want to continue?","Vous êtes sur le point de supprimer votre liste d'envies. Cette action est irréversible. Êtes vous sûr de vouloir continuer ?",module,Magento_Translation
+"You can change the number of gift registry items on the Gift Registry Info page or directly in your cart, but not while in checkout.","Vous ne pouvez pas modifier le nombre d'articles de la liste cadeaux depuis la page liste cadeaux ou depuis votre panier; mais vous pourrez le faire lors du passage de votre commande.",module,Magento_Translation
 "You must select items to copy","Veuillez sélectionner les objets à copier",module,Magento_Translation
 "You must select items to move","Veuillez sélectionner les objets à déplacer",module,Magento_Translation
 "Your order cannot be completed at this time as there is no payment methods available for it.","Vous ne pouvez pas continuer votre commande car aucun mode de paiement n'est disponible.",module,Magento_Translation

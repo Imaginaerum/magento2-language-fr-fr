@@ -27,6 +27,7 @@
 "notice","notice",module,Magento_AdminNotification
 "Notification","Notification",module,Magento_AdminNotification
 "Notifications","Notifications",module,Magento_AdminNotification
+"One or more media files failed to be synchronized during the media storages synchronization process. Refer to the log file for details.","Un ou plusieurs fichiers média n'ont pu être synchronisés. Veuillez vous reporter au fichier log pour plus de détails.",module,Magento_AdminNotification
 "One or more of the Cache Types are invalidated: %1. ","Un ou Plusieurs Types de Cache sont invalides: %1. ",module,Magento_AdminNotification
 "Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Veuillez vous rendre dans la <a href=""%1"">Gestion du cache</a> et rafraîchir tous les types de cache.",module,Magento_AdminNotification
 "Please select messages.","Veuillez sélectionner des messages.",module,Magento_AdminNotification

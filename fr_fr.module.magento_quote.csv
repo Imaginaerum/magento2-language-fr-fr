@@ -44,6 +44,9 @@
 "Subtotal","Sous-Total",module,Magento_Quote
 "Tax","Taxe",module,Magento_Quote
 "The address model is not defined.","Le modèle d'adresse n'est pas défini.",module,Magento_Quote
+"The address total model should be extended from MagentoQuoteModelQuoteAddressTotalAbstractTotal.","Le modèle total adresse doit étendre MagentoQuoteModelQuoteAddressTotalAbstractTotal.",module,Magento_Quote
+"The address total model should be extended from
+                    MagentoQuoteModelQuoteAddressTotalAbstractTotal.","Le modèle total adresse doit étendre MagentoQuoteModelQuoteAddressTotalAbstractTotal.",module,Magento_Quote
 "The qty value is required to update quote item.","La quantité est obligatoire pour mettre à jour l'article du panier.",module,Magento_Quote
 "The requested Payment Method is not available.","La méthode demandée de paiement n'est pas disponible.",module,Magento_Quote
 "This is the wrong quote item id to update configuration.","Mauvais identifiant d'article pour mettre à jour la configuration.",module,Magento_Quote

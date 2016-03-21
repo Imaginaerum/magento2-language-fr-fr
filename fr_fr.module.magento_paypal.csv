@@ -529,6 +529,7 @@
 "The PayPal gateway rejected the request. %1","La passerelle PayPal a rejeté la demande. %1",module,Magento_Paypal
 "There are no billing agreements yet.","Il n'existe aucune entente de facturation pour le moment.",module,Magento_Paypal
 "The reference ID is not set.","L'ID de référence n'est pas défini.",module,Magento_Paypal
+"There is already another PayPal solution enabled. Enable this solution instead?","Il y a déjà une solution PayPal activée. Activer cette solution à la place ?",module,Magento_Paypal
 "This customer didn't include a confirmed address.","Ce client ne possède pas d'adresse confirmée.",module,Magento_Paypal
 "This feature needs be enabled first for the merchant account through PayPal technical support.","Cette fonctionnalité doit d'abord être activée pour le compte commerçant via le support technique de PayPal.",module,Magento_Paypal
 "This operation requires an existing transaction object.","Cette opération nécessite l'existance d'une transaction.",module,Magento_Paypal
