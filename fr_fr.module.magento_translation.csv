@@ -138,7 +138,7 @@
 "We are not able to ship to the selected shipping address. Please choose another address or edit the current address.","Impossible de livrer à l'adresse sélectionnée. Veuillez choisir une autre adresse ou éditer l'adresse choisie.",module,Magento_Translation
 "We can't complete your order because you don't have a payment method available.","Impossible de terminer la commande en raison d'une méthode de paiement invalide.",module,Magento_Translation
 "We don't recognize or support this file extension type.","Le type de fichier n'est pas reconnu ou n'est pas autorisé.",module,Magento_Translation
-"Yes","oui",module,Magento_Translation
+"Yes","Oui",module,Magento_Translation
 "You are about to delete your wish list. This action cannot be undone. Are you sure you want to continue?","Vous êtes sur le point de supprimer votre liste d'envies. Cette action est irréversible. Êtes vous sûr de vouloir continuer ?",module,Magento_Translation
 "You can change the number of gift registry items on the Gift Registry Info page or directly in your cart, but not while in checkout.","Vous ne pouvez pas modifier le nombre d'articles de la liste cadeaux depuis la page liste cadeaux ou depuis votre panier; mais vous pourrez le faire lors du passage de votre commande.",module,Magento_Translation
 "You must select items to copy","Veuillez sélectionner les objets à copier",module,Magento_Translation

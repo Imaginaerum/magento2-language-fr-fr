@@ -16,6 +16,6 @@
 "Variable ID","Identifiant de la variable",module,Magento_Variable
 "Variable Name","Nom de la variable",module,Magento_Variable
 "Variable Plain Value","Valeur texte de la variable",module,Magento_Variable
-"Yes","oui",module,Magento_Variable
+"Yes","Oui",module,Magento_Variable
 "You deleted the custom variable.","Variable personnalisée supprimée.",module,Magento_Variable
 "You saved the custom variable.","Variable personnalisée sauvegardée.",module,Magento_Variable

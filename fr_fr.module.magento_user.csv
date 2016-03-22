@@ -124,7 +124,7 @@
 "We'll email you a link to reset your password.","Nous allons vous envoyer par email un lien pour réinitialiser votre mot de passe.",module,Magento_User
 "We will disable this feature if the value is empty.","Cette fonctionnalité est désactivée si la valeur est vide.",module,Magento_User
 "We will disable this feature if the value is empty. ","Cette fonctionnalité est désactivée si la valeur est vide. ",module,Magento_User
-"Yes","oui",module,Magento_User
+"Yes","Oui",module,Magento_User
 "You cannot delete self-assigned roles.","Vous ne pouvez pas supprimer les rôles attribués automatiquement.",module,Magento_User
 "You cannot delete your own account.","Vous ne pouvez pas supprimer votre propre compte.",module,Magento_User
 "You deleted the role.","Rôle supprimé.",module,Magento_User

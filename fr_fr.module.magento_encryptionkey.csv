@@ -18,4 +18,4 @@
 "This is your new encryption key: <span style=""font-family:monospace;"">%1</span>. Be sure to write it down and take good care of it!","Ceci est votre nouvelle clé de chiffrement: <span style=""font-family: monospace;"">%1</span>. Notez là et conserver là en lieu sûr !",module,Magento_EncryptionKey
 "To enable a key change this file must be writable: %1.","Pour activer le changement ce fichier doit être accessible en écriture: %1",module,Magento_EncryptionKey
 "Username","nom d'utilisateur",module,Magento_EncryptionKey
-"Yes","oui",module,Magento_EncryptionKey
+"Yes","Oui",module,Magento_EncryptionKey

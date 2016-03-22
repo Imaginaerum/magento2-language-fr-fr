@@ -568,7 +568,7 @@
 "Wrong email.","Email erroné.",module,Magento_Customer
 "Wrong transactional account email type","Le type d'email de compte transactionnel est erroné",module,Magento_Customer
 "Year","Année",module,Magento_Customer
-"Yes","oui",module,Magento_Customer
+"Yes","Oui",module,Magento_Customer
 "You are currently not subscribed to any newsletter.","Vous n'êtes abonné à aucune newsletter.",module,Magento_Customer
 "You are currently not subscribed to our newsletter.","Vous n'êtes pas abonné(e) à notre newsletter.",module,Magento_Customer
 "You are currently subscribed to 'General Subscription'.","Vous êtes abonné à 'Abonnement général'.",module,Magento_Customer

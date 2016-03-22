@@ -833,7 +833,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "WYSIWYG Editor","Éditeur WYSIWYG",module,Magento_Catalog
 "Year","Année",module,Magento_Catalog
 "Year Range","Période annuelle",module,Magento_Catalog
-"Yes","oui",module,Magento_Catalog
+"Yes","Oui",module,Magento_Catalog
 "You added product %1 to the comparison list.","Vous avez ajouté le produit %1 à la liste de comparaison.",module,Magento_Catalog
 "You already have an identical search term query.","Il existe déjà une requête de recherche identique.",module,Magento_Catalog
 "You are about to delete all products in this attribute set. Are you sure you want to do that?","Vous êtes sur le point de supprimer tous les produits possédant ce jeu attribut. Êtes-vous sûr de vouloir faire ça?",module,Magento_Catalog

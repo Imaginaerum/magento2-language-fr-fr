@@ -647,7 +647,7 @@
 "WK","Semaine",module,Magento_Backend
 "Yes (301 Moved Permanently)","Oui (301 Document déplacé de façon permanente)",module,Magento_Backend
 "Yes (302 Found)","Oui (302 Document déplacé de façon temporaire)",module,Magento_Backend
-"Yes","oui",module,Magento_Backend
+"Yes","Oui",module,Magento_Backend
 "You can't delete the design change.","Vous ne pouvez pas supprimer le changement de design.",module,Magento_Backend
 "You deleted the custom variable.","Variable personnalisée supprimée.",module,Magento_Backend
 "You deleted the design change.","Changement de design supprimé.",module,Magento_Backend

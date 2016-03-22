@@ -790,7 +790,7 @@
 "We sent the message.","Message envoyé.",module,Magento_Sales
 "We will authorize %1 after the payment is approved at the payment gateway.","Nous autoriserons %1 une fois que le paiement aura été approuvé par la passerelle de paiement.",module,Magento_Sales
 "Wish List","Liste d'enVies",module,Magento_Sales
-"Yes","oui",module,Magento_Sales
+"Yes","Oui",module,Magento_Sales
 "You assigned the order status.","Statut de commande assigné.",module,Magento_Sales
 "You canceled the credit memo.","Avoir annulé",module,Magento_Sales
 "You canceled the invoice.","La facture a été annulée.",module,Magento_Sales

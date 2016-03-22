@@ -711,7 +711,7 @@
 "WorldLink Withdrawal","Retrait WorldLink",module,Magento_Paypal
 "Would you like to sign a billing agreement to streamline further purchases with PayPal?","Souhaitez-vous signer une entente de facturation afin de rationaliser vos futurs achats avec PayPal ?",module,Magento_Paypal
 "Would you like to sign a billing agreement ' 'to streamline further purchases with PayPal?","Souhaitez-vous signer une entente de facturation afin de rationaliser vos futurs achats avec PayPal ?",module,Magento_Paypal
-"Yes","oui",module,Magento_Paypal
+"Yes","Oui",module,Magento_Paypal
 "Yes. Matched Address and five-didgit ZIP","Oui, Correspondance de l'adresse et du code postal à 5 chiffres",module,Magento_Paypal
 "Yes (PayPal recommends this option)","Oui (PayPal recommande cette option)",module,Magento_Paypal
 "You canceled the billing agreement.","Vous avez annulé l'entente de facturation.",module,Magento_Paypal

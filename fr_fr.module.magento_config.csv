@@ -87,5 +87,5 @@
 "We can't save the Cron expression.","Impossible de sauvegarder l'expression du CRON.",module,Magento_Config
 "Yes (301 Moved Permanently)","Oui (301 Document déplacé de façon permanente)",module,Magento_Config
 "Yes (302 Found)","Oui (302 Document déplacé de façon temporaire)",module,Magento_Config
-"Yes","oui",module,Magento_Config
+"Yes","Oui",module,Magento_Config
 "You saved the configuration.","Vous avez sauvegardé la configuration.",module,Magento_Config

@@ -49,5 +49,5 @@
 "What is this?","Qu'est-ce que c'est?",module,Magento_Payment
 "Wrong gateway response format.","Mauvais format de réponse de la passerelle.",module,Magento_Payment
 "Year","Année",module,Magento_Payment
-"Yes","oui",module,Magento_Payment
+"Yes","Oui",module,Magento_Payment
 "You can't use the payment type you selected to make payments to the billing country.","Vous ne pouvez pas utiliser la méthode de paiement choisie pour ce pays de facturation.",module,Magento_Payment
