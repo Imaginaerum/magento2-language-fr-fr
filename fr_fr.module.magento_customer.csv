@@ -96,8 +96,8 @@
 "Change Shipping Address","Modifier",module,Magento_Customer
 "Check out faster","Consultation rapide",module,Magento_Customer
 "Check the status of orders","Vérifier le statut des commandes",module,Magento_Customer
-"Checkout out as a new customer","Passer au paiement de votre nouvelle session",module,Magento_Customer
-"Checkout out using your account","Passer au paiement en tant que nouveau cliente",module,Magento_Customer
+"Checkout out as a new customer","Passer au paiement en tant que nouveau client",module,Magento_Customer
+"Checkout out using your account","Passer au paiement de votre compte",module,Magento_Customer
 "City","Ville",module,Magento_Customer
 "Company","Société",module,Magento_Customer
 "Configure","Configurer",module,Magento_Customer
