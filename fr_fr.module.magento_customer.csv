@@ -94,7 +94,10 @@
 "Change Billing Address","Modifier l'adresse de facturation",module,Magento_Customer
 "Change Password","Modifier le mot de passe",module,Magento_Customer
 "Change Shipping Address","Modifier",module,Magento_Customer
+"Check out faster","Consultation rapide",module,Magento_Customer
 "Check the status of orders","Vérifier le statut des commandes",module,Magento_Customer
+"Checkout out as a new customer","Se déconnecter de votre nouvelle session",module,Magento_Customer
+"Checkout out using your account","Se déconnecter de votre compte",module,Magento_Customer
 "City","Ville",module,Magento_Customer
 "Company","Société",module,Magento_Customer
 "Configure","Configurer",module,Magento_Customer
@@ -111,11 +114,13 @@
 "Confirm your new password.","Confirmez votre nouveau mot de passe.",module,Magento_Customer
 "Contact Information","Informations de contact",module,Magento_Customer
 "Country","Pays",module,Magento_Customer
+"Create Account","Créer un compte",module,Magento_Customer
 "Create account","Créer un compte",module,Magento_Customer
 "Create an Account","Créer un compte",module,Magento_Customer
 "Create New Account Options","Options de création de nouveaux comptes",module,Magento_Customer
 "Create New Customer Account","Créer un nouveau compte client",module,Magento_Customer
 "Create Order","Créer une Commande",module,Magento_Customer
+"Creating an account has many benefits:","La création d'un compte a de nombreux avantages:",module,Magento_Customer
 "Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","La création d'un compte a de nombreux avantages: consultation rapide, sauvegarder plusieurs adresses, suivre les commandes, et bien plus encore.",module,Magento_Customer
 "Current Password","Mot de Passe Actuel",module,Magento_Customer
 "Customer","Client",module,Magento_Customer
@@ -386,6 +391,7 @@
 "Reset Password Template","Gabarit de réinitialisation de mot de passe",module,Magento_Customer
 "Reset password token expired.","Réinitialisation du mot de passe expiré.",module,Magento_Customer
 "Reset password token mismatch.","Le jeton de réinitialisation de mot de passe ne correspond pas.",module,Magento_Customer
+"See order and shipping status","Se déconnecter de votre compte",module,Magento_Customer
 "Sales Statistics","Statistiques de ventes",module,Magento_Customer
 "Save","Sauvegarder",module,Magento_Customer
 "Save Address","Sauvegarder l'adresse",module,Magento_Customer
@@ -517,6 +523,7 @@
 "To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","Pour vous connecter sur notre site et définir un mot de passe, cliquez sur ce <a href=""%create_password_url"">lien</a>:",module,Magento_Customer
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Pour vous connecter, utilisez les identifiants renseignés lors de votre commande ou en vous rendant sur la page <a href=""%customer_url"">Mon Compte</a>:",module,Magento_Customer
 "Total","Total",module,Magento_Customer
+"Track order history","Voir le statut de la commande et de l'expédition",module,Magento_Customer
 "Type","Type",module,Magento_Customer
 "Unable to send password reset email.","Impossible d'envoyer l'email de réinitialisation du mot de passe.",module,Magento_Customer
 "Unknown","Inconnu",module,Magento_Customer
