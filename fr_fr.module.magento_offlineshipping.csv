@@ -6,6 +6,7 @@
 "Enabled","Activé",module,Magento_OfflineShipping
 "Export","Exporter",module,Magento_OfflineShipping
 "Export CSV","Export CSV",module,Magento_OfflineShipping
+"Field ","Champs ",module,Magento_OfflineShipping
 "Flat Rate","Tarif unique",module,Magento_OfflineShipping
 "For matching items only","Pour les objets concordants seulement",module,Magento_OfflineShipping
 "For shipment with matching items","Pour les expéditions avec articles concordants",module,Magento_OfflineShipping
@@ -13,6 +14,7 @@
 "Handling Fee","Frais de dossier",module,Magento_OfflineShipping
 "Import","Importer",module,Magento_OfflineShipping
 "Include Virtual Products in Price Calculation","Inclure les produits virtuels dans le calcul de prix",module,Magento_OfflineShipping
+" is required."," requis",module,Magento_OfflineShipping
 "Method Name","Nom de la Méthode",module,Magento_OfflineShipping
 "Minimum Order Amount","Montant de commande minimum",module,Magento_OfflineShipping
 "No","Non",module,Magento_OfflineShipping

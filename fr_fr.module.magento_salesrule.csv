@@ -10,6 +10,8 @@
 "An error occurred while deleting the rule. Please review the log and try again.","Erreur lors de la suppression de la règle. Vérifiez les logs et réessayez.",module,Magento_SalesRule
 "An error occurred while saving the rule data. Please review the log and try again.","Erreur lors de la sauvegarde de la règle. Vérifiez les logs et réessayez.",module,Magento_SalesRule
 "Apply","Appliquer",module,Magento_SalesRule
+"Apply Discount","Appliquer la Remise",module,Magento_SalesRule
+"Apply Discount Code","Appliquer un Code de Réduction",module,Magento_SalesRule
 "Apply the rule only if the following conditions are met (leave blank for all products).","Appliquer la règle uniquement si les conditions suivantes sont remplies (laisser vide pour tous les produits).",module,Magento_SalesRule
 "Apply the rule only to cart items matching the following conditions ' '(leave blank for all items).","Appliquer la règle uniquement aux articles du panier qui correspondant aux conditions suivantes (laisser vide pour tous les articles).",module,Magento_SalesRule
 "Apply the rule only to cart items matching the following conditions (leave blank for all items).","Appliquer la règle uniquement aux articles du panier qui correspondant aux conditions suivantes (laisser vide pour tous les articles).",module,Magento_SalesRule
@@ -21,6 +23,7 @@
 "Buy X get Y free (discount amount is Y)","X achetés, Y gratuits (la valeur de la remise est Y)",module,Magento_SalesRule
 "By Fixed value","remise d'une valeur de",module,Magento_SalesRule
 "By Percentage","remise en %%",module,Magento_SalesRule
+"Cancel coupon","Annuler le bon de réduction",module,Magento_SalesRule
 "Can't acquire coupon.","Impossible d'appliquer le bon.",module,Magento_SalesRule
 "Cart Attribute","Attribut de panier",module,Magento_SalesRule
 "Cart Item Attribute","Attribut d'article panier",module,Magento_SalesRule
@@ -57,6 +60,7 @@
 "Edit Rule","Modifier la Règle",module,Magento_SalesRule
 "End","Fin",module,Magento_SalesRule
 "End on","Fin le",module,Magento_SalesRule
+"Enter discount code","Entrez le code de réduction",module,Magento_SalesRule
 "equals or greater than","est supérieur(e) ou égal(e) à",module,Magento_SalesRule
 "equals or less than","est inférieur(e) ou égal(e) à",module,Magento_SalesRule
 "Error occurred when generating coupons: %1","Une erreur s'est produite lors de la génération des coupons : %1",module,Magento_SalesRule
@@ -161,4 +165,6 @@
 "We can't find a rule to delete.","Impossible de trouver la règle à supprimer.",module,Magento_SalesRule
 "Yes","Oui",module,Magento_SalesRule
 "You deleted the rule.","Règle Supprimée.",module,Magento_SalesRule
+"Your coupon was successfully applied","Coupon appliqué",module,Magento_SalesRule
+"Your coupon was successfully removed","Coupon supprimé",module,Magento_SalesRule
 "You saved the rule.","Règle sauvegardée.",module,Magento_SalesRule

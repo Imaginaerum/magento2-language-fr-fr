@@ -32,6 +32,7 @@
 "Add Attribute Set","Ajouter un groupe d'attribut",module,Magento_Catalog
 "Add Group","Ajouter un Groupe",module,Magento_Catalog
 "Add Group Price","Ajouter un prix par groupe",module,Magento_Catalog
+"Adding...","Ajout en cours...",module,Magento_Catalog
 "Additional Information","Informations complémentaires",module,Magento_Catalog
 "Add New","Ajouter",module,Magento_Catalog
 "Add New Attribute","Ajouter un Attribut",module,Magento_Catalog
@@ -169,7 +170,7 @@
 "Clear Price","Effacer le prix",module,Magento_Catalog
 "Click for price","Cliquez pour afficher le prix",module,Magento_Catalog
 "Click here or drag and drop to add images.","Cliquez ici ou glisser-déposer pour ajouter des images.",module,Magento_Catalog
-"Click on image to view it full sized","Cliquez sur l'image pour la voir en taille réelle.",module,Magento_Catalog
+"Click on image to view it full sized","Cliquez sur l'image pour la voir en taille réelle",module,Magento_Catalog
 "Click on image to zoom","Cliquez sur l'image pour zoomer",module,Magento_Catalog
 "Close panel","Fermer le panel",module,Magento_Catalog
 "Close Window","Fermer la Fenêtre",module,Magento_Catalog

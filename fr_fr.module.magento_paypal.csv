@@ -108,7 +108,7 @@
 "Checkout Cart Page","Page Panier",module,Magento_Paypal
 "Checkout with PayPal","Commander avec PayPal",module,Magento_Paypal
 "Choose a secure bundled payment solution for your business.","Choisissez une solution de paiement sécurisé pour votre entreprise.",module,Magento_Paypal
-"Click here if you are not redirected within 10 seconds.","Cliquez ici si vous n'êtes pas redirigé d'ici 10 secondes",module,Magento_Paypal
+"Click here if you are not redirected within 10 seconds.","Cliquez ici si vous n'êtes pas redirigé d'ici 10 secondes.",module,Magento_Paypal
 "Close","Fermer",module,Magento_Paypal
 "CNPJ","CNPJ",module,Magento_Paypal
 "Complaint","Réclamation",module,Magento_Paypal
@@ -116,6 +116,7 @@
 "Connect your merchant account with a fully customizable gateway that lets customers pay without leaving your site.","Connectez votre compte marchand avec une passerelle entièrement personnalisable qui permet aux clients de payer sans quitter votre site.",module,Magento_Paypal
 "Connect your merchant account with a PCI-compliant gateway that lets customers pay without leaving your site.","Connectez votre compte marchand avec une passerelle compatible PCI qui permet aux clients de payer sans quitter votre site.",module,Magento_Paypal
 "Continue","Continuer",module,Magento_Paypal
+"Continue to PayPal","Continuer avec PayPal",module,Magento_Paypal
 "Countries Payment Applicable From","Pays applicables pour le paiement",module,Magento_Paypal
 "Coupon Redemption","Remboursement de coupon",module,Magento_Paypal
 "CPF","CPF",module,Magento_Paypal

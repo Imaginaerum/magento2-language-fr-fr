@@ -47,7 +47,7 @@
 "Export","Exporter",module,Magento_ImportExport
 "Exported %1 rows.","%1 lignes exportées.",module,Magento_ImportExport
 "Export File Format","Format du fichier d'export",module,Magento_ImportExport
-"Export has been done.","Export effectué",module,Magento_ImportExport
+"Export has been done.","Export effectué.",module,Magento_ImportExport
 "Export Settings","Paramètres d'export",module,Magento_ImportExport
 "Field separator","Séparateur de champs",module,Magento_ImportExport
 "File does not contain data.","Le fichier ne contient aucune donnée.",module,Magento_ImportExport

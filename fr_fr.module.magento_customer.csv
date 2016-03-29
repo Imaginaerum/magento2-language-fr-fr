@@ -94,6 +94,9 @@
 "Change Billing Address","Modifier l'adresse de facturation",module,Magento_Customer
 "Change Password","Modifier le mot de passe",module,Magento_Customer
 "Change Shipping Address","Modifier",module,Magento_Customer
+"Check out faster","Commandez plus rapidement",module,Magento_Customer
+"Checkout out as a new customer","Procéder au paiement en tant que nouveau client",module,Magento_Customer
+"Checkout out using your account","Procéder au paiement en utilisant votre compte",module,Magento_Customer
 "Check the status of orders","Vérifier le statut des commandes",module,Magento_Customer
 "City","Ville",module,Magento_Customer
 "Company","Société",module,Magento_Customer
@@ -112,10 +115,12 @@
 "Contact Information","Informations de contact",module,Magento_Customer
 "Country","Pays",module,Magento_Customer
 "Create account","Créer un compte",module,Magento_Customer
+"Create Account","Créer un compte",module,Magento_Customer
 "Create an Account","Créer un compte",module,Magento_Customer
 "Create New Account Options","Options de création de nouveaux comptes",module,Magento_Customer
 "Create New Customer Account","Créer un nouveau compte client",module,Magento_Customer
 "Create Order","Créer une Commande",module,Magento_Customer
+"Creating an account has many benefits:","La création d'un compte possède de nombreux avantages:",module,Magento_Customer
 "Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","La création d'un compte a de nombreux avantages: consultation rapide, sauvegarder plusieurs adresses, suivre les commandes, et bien plus encore.",module,Magento_Customer
 "Current Password","Mot de Passe Actuel",module,Magento_Customer
 "Customer","Client",module,Magento_Customer
@@ -136,7 +141,7 @@
 "Customers Only","Clients seulement",module,Magento_Customer
 "Customer View","Vue Client",module,Magento_Customer
 "Customer website ID must be specified when using the website scope","L'identifiant du site web du client doit être renseigné lorsque la portée du site web est utilisée",module,Magento_Customer
-"Customer will receive an email with a link to reset password.","Le client recevra un email contenant un lien de réinitialisation mot de passe",module,Magento_Customer
+"Customer will receive an email with a link to reset password.","Le client recevra un email contenant un lien de réinitialisation mot de passe.",module,Magento_Customer
 "Customer will stay on the current page if ""No"" is selected.","Le client restera sur la page en cours si ""Non"" est sélectionné.",module,Magento_Customer
 "Customer with the same email already exists in associated website.","Un client avec le même email existe déjà dans le site web.",module,Magento_Customer
 "Date of Birth","Date d'Anniversaire",module,Magento_Customer
@@ -204,10 +209,11 @@
 "Group for Valid VAT ID - Intra-Union","Groupe pour un numéro de TVA invalide - Intra-Union",module,Magento_Customer
 "Group Information","Informations du Groupe",module,Magento_Customer
 "Group Name","Nom du Groupe",module,Magento_Customer
+"Guest checkout is disabled.","La passage de commande Invité est désactivé.",module,Magento_Customer
 "Hello, %1!","Bonjour, %1!",module,Magento_Customer
 "ID","ID",module,Magento_Customer
 "If there is an account associated with %1 you will receive an email with a link to reset your password.","S'il y a un compte associé à l'adresse %1, vous recevrez un email avec un lien pour réinitialiser votre mot de passe.",module,Magento_Customer
-"If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter you billing address for proper VAT calculation","Si vous êtes un client assujetti à la TVA, veuillez cliquez <a href=""%1"">ici</a> afin de saisir votre adresse de facturation pour un calcul de TVA correcte.",module,Magento_Customer
+"If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter you billing address for proper VAT calculation","Si vous êtes un client assujetti à la TVA, veuillez cliquez <a href=""%1"">ici</a> afin de saisir votre adresse de facturation pour un calcul de TVA correcte",module,Magento_Customer
 "If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your billing address for proper VAT calculation.","Si vous êtes un client assujetti à la TVA, veuillez cliquez <a href=""%1"">ici</a> afin de saisir votre adresse de facturation pour un calcul de TVA correcte.",module,Magento_Customer
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation.","Si vous êtes un client assujetti à la TVA, veuillez <a href=""%1"">Cliquez ici</a> et entrer votre adresse de facturation pour un calcul de TVA correcte.",module,Magento_Customer
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.","Si vous êtes un client assujetti à la TVA, veuillez <a href=""%1"">cliquer ici </a> et saisir votre adresse de livraison pour un calcul de TVA correct.",module,Magento_Customer
@@ -392,6 +398,7 @@
 "Save and Continue Edit","Sauvegarder et Continuer à Éditer",module,Magento_Customer
 "Save Customer","Sauvegarder le client",module,Magento_Customer
 "Save Customer Group","Sauvegarder le groupe clients",module,Magento_Customer
+"See order and shipping status","Voir le statut de la commande et de l'expédition",module,Magento_Customer
 "Select...","Choisir...",module,Magento_Customer
 "Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.","Valeurs séparées par des point-virgule (;).<br/>Commencez par un point-virgule pour une première option vide.<br/>Laisser vide pour un champ texte.",module,Magento_Customer
 " Send auto-generated password","   Envoyé un mot de passe généré",module,Magento_Customer
@@ -517,6 +524,7 @@
 "To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","Pour vous connecter sur notre site et définir un mot de passe, cliquez sur ce <a href=""%create_password_url"">lien</a>:",module,Magento_Customer
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Pour vous connecter, utilisez les identifiants renseignés lors de votre commande ou en vous rendant sur la page <a href=""%customer_url"">Mon Compte</a>:",module,Magento_Customer
 "Total","Total",module,Magento_Customer
+"Track order history","Suivi de la commande",module,Magento_Customer
 "Type","Type",module,Magento_Customer
 "Unable to send password reset email.","Impossible d'envoyer l'email de réinitialisation du mot de passe.",module,Magento_Customer
 "Unknown","Inconnu",module,Magento_Customer

@@ -31,19 +31,20 @@
 "Billing day of month is invalid","Le jour de facturation est invalide",module,Magento_Braintree
 "Billing day of month must be numeric","Le jour de facturation doit être un nombre",module,Magento_Braintree
 "Braintree","Braintree",module,Magento_Braintree
-"Cannot add duplicate addon or discount","Impossible d'ajouter une extension ou remise existante.",module,Magento_Braintree
+"Cannot add duplicate addon or discount","Impossible d'ajouter une extension ou remise existante",module,Magento_Braintree
 "Cannot cancel release","Impossible d'annuler la diffusion",module,Magento_Braintree
 "Cannot clone transaction without submit_for_settlement flag.","Impossible de cloner la transaction sans le flag submit_for_settlement.",module,Magento_Braintree
 "Cannot clone voice authorization transactions","Vous ne pouvez pas cloner les transactions d'autorisation",module,Magento_Braintree
 "Cannot edit a canceled subscription.","Impossible d'éditer un abonnement annulé.",module,Magento_Braintree
-"Cannot edit expired subscription","Impossible d'éditer un abonnement expiré.",module,Magento_Braintree
-"Cannot edit price changing fields on past due subscription","Impossible de changer le champs prix pour un abonnement antérieur.",module,Magento_Braintree
+"Cannot edit expired subscription","Impossible d'éditer un abonnement expiré",module,Magento_Braintree
+"Cannot edit price changing fields on past due subscription","Impossible de changer le champs prix pour un abonnement antérieur",module,Magento_Braintree
 "Can not find original authorization transaction for partial capture","Impossible de trouver l'autorisation de transaction initiale pour la capture partielle",module,Magento_Braintree
 "Cannot hold in escrow","Impossible de bloquer",module,Magento_Braintree
+"Can not initialize PayPal (Braintree)","Initialisation PayPal impossible (Braintree)",module,Magento_Braintree
 "Cannot partially refund escrowed transaction","Impossible de faire un remboursement partiel sur une transaction bloquée",module,Magento_Braintree
-"Cannot provide a billing address unless also providing a credit card.","Impossible de fournir une adresse de facturation a moins que vous ayez déjà spécifié une carte de crédit",module,Magento_Braintree
+"Cannot provide a billing address unless also providing a credit card.","Impossible de fournir une adresse de facturation a moins que vous ayez déjà spécifié une carte de crédit.",module,Magento_Braintree
 "Cannot provide both a billing address and a billing address ID.","Impossible de fournir à la fois une adresse de facturation et un ID d'adresse de facturation.",module,Magento_Braintree
-"Cannot provide both payment_method_token and credit_card attributes.","Impossible de fournir à la fois des attributs payment_method_token et credit_card",module,Magento_Braintree
+"Cannot provide both payment_method_token and credit_card attributes.","Impossible de fournir à la fois des attributs payment_method_token et credit_card.",module,Magento_Braintree
 "Cannot provide both payment_method_token and customer_id unless the payment_method belongs to the customer.","Impossible de fournir à la fois payment_method_token et customer_id à moins que payment_method appartienne au client.",module,Magento_Braintree
 "Cannot provide both payment_method_token and subscription_id unless the payment method belongs to the subscription.","Impossible de fournir à la fois payment_method_token et subscription_id à moins que payment_method appartienne à l'abonnement.",module,Magento_Braintree
 "Cannot provide both subscription_id and customer_id unless the subscription belongs to the customer.","Impossible de fournir à la fois subscription_id et customer_id à moins que l'abonnement appartienne au client.",module,Magento_Braintree
@@ -97,14 +98,14 @@
 "Credit card type is not allowed for your country.","Type de carte bancaire non autorisés pour votre pays.",module,Magento_Braintree
 "Credit Card Types","Types de Carte de Crédit",module,Magento_Braintree
 "Credits are not supported by this processor","Crédits non supportés par ce service de paiement",module,Magento_Braintree
-"Credits cannot be cloned.","Les crédits ne peuvent être clonés",module,Magento_Braintree
+"Credits cannot be cloned.","Les crédits ne peuvent être clonés.",module,Magento_Braintree
 "Customer does not have any credit cards.","Le client ne possède pas de carte de crédit.",module,Magento_Braintree
 "Customer ID has already been taken.","ID Client déjà fourni.",module,Magento_Braintree
 "Customer ID is invalid.","ID client invalide.",module,Magento_Braintree
-"Customer ID is not an allowed ID.","ID Client non autorisé",module,Magento_Braintree
+"Customer ID is not an allowed ID.","ID Client non autorisé.",module,Magento_Braintree
 "Customer ID is required.","ID Client requis.",module,Magento_Braintree
 "Customer ID is too long.","ID Client trop long.",module,Magento_Braintree
-"Custom field is invalid","Champs personnalisé invalide.",module,Magento_Braintree
+"Custom field is invalid","Champs personnalisé invalide",module,Magento_Braintree
 "Custom field is invalid.","Champs personnalisé invalide.",module,Magento_Braintree
 "Custom field is too long.","Champs personnalisé trop long.",module,Magento_Braintree
 "CVV","CVV",module,Magento_Braintree
@@ -117,13 +118,13 @@
 "Delete Credit Card","Supprimer la carte bancaire",module,Magento_Braintree
 "Display on Shopping Cart","Afficher dans le Panier",module,Magento_Braintree
 "Duplicate card exists","Doublon de carte",module,Magento_Braintree
-"Duplicate card exists in the vault.","Doublon de carte dans le coffre-fort",module,Magento_Braintree
+"Duplicate card exists in the vault.","Doublon de carte dans le coffre-fort.",module,Magento_Braintree
 "Duplicate transaction","Doublon de transaction",module,Magento_Braintree
 "Edit","Éditer",module,Magento_Braintree
 "Edit Credit Card","Modifier la carte bancaire",module,Magento_Braintree
 "Edit My Credit Cards","Mes Cartes de Crédit",module,Magento_Braintree
 "Email is an invalid format.","Format email invalide.",module,Magento_Braintree
-"Email is required if sending a receipt.","Email requis si envoi d'un accusé de réception",module,Magento_Braintree
+"Email is required if sending a receipt.","Email requis si envoi d'un accusé de réception.",module,Magento_Braintree
 "Email is too long.","Email trop long.",module,Magento_Braintree
 "Enable Credit Card auto-detection on front-end","Activer la détection automatique de carte de crédit sur le front-end",module,Magento_Braintree
 "Enable Credit Card auto-detection on Storefront","Activer  l'auto-détection de carte bancaire sur la vue magasin",module,Magento_Braintree
@@ -214,6 +215,7 @@
 "--Please Select--","-- Faire un Choix --",module,Magento_Braintree
 "Please select region, state or province","Sélectionnez un département / état",module,Magento_Braintree
 "Please try again later","Veuillez réessayer plus tard",module,Magento_Braintree
+"Please try again with another form of payment.","Veuillez réessayer plus tard avec une autre méthode de paiement.",module,Magento_Braintree
 "Please wait 24 hours before trying to issue a partial refund.","Veuillez attendre 24 heures avant d'essayer de régler un remboursement partiel.",module,Magento_Braintree
 "Please wait 24 hours before trying to issue a refund or use Void option.","Veuillez patienter 24 heures avant de retenter un remboursement ou utilisez une option d'annulation.",module,Magento_Braintree
 "Postal Code","Code Postal",module,Magento_Braintree

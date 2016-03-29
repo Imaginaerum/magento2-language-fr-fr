@@ -7,7 +7,7 @@
 "Default ""What's This"" Text Message","Texte par Défaut du message ""Qu'est ce que c'est""",module,Magento_Msrp
 "Display Actual Price","Afficher les vrais prix",module,Magento_Msrp
 "Enable MAP","Activer le prix minimum affiché",module,Magento_Msrp
-"Enabling MAP by default will hide all product prices on Storefront.","Activer MAP par défaut cachera tous les prix produit",module,Magento_Msrp
+"Enabling MAP by default will hide all product prices on Storefront.","Activer MAP par défaut cachera tous les prix produit.",module,Magento_Msrp
 "In Cart","Dans le panier",module,Magento_Msrp
 "Minimum Advertised Price","Prix ​​minimum affiché",module,Magento_Msrp
 "On Gesture","Au geste",module,Magento_Msrp

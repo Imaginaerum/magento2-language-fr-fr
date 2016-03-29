@@ -1,3 +1,4 @@
+"Check","Cocher",module,Magento_Persistent
 "Check &quot;Remember Me&quot; to access your shopping cart on this computer even if you are not signed in.","Cocher ""Se souvenir de moi"" pour accéder à votre panier sur cet ordinateur même si vous n'êtes pas connecté à votre compte.",module,Magento_Persistent
 "Check &quot;Remember Me&quot; to access your shopping cart on this computer when you are logged out","Cocher ""Se souvenir de moi"" pour accéder à votre panier sur cet ordinateur même si vous n'êtes pas connecté à votre compte",module,Magento_Persistent
 "Clear Persistence on Log Out","Effacer la persistance lors de la déconnexion",module,Magento_Persistent
@@ -17,5 +18,6 @@
 "To check out, please sign in using your email address.","Pour commander, veuillez vous connecter en utilisant votre adresse email.",module,Magento_Persistent
 "We cannot load the configuration from file %1.","Nous ne pouvons pas charger la configuration à partir du fichier %1.",module,Magento_Persistent
 "Welcome, %1!","Bienvenue, %1 !",module,Magento_Persistent
+"What","Lequel",module,Magento_Persistent
 "What's this?","Qu'est-ce que c'est ?",module,Magento_Persistent
 "Your shopping cart has been updated with new prices.","Votre panier a été mis à jour avec les nouveaux prix.",module,Magento_Persistent

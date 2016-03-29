@@ -93,6 +93,7 @@
 "Update Qty &amp; Addresses","Mettre à jour les quantités et adresses",module,Magento_Multishipping
 "We cannot open the overview page.","Impossible d'ouvrir la vue générale.",module,Magento_Multishipping
 "We can't complete your order because you don't have a payment method set up.","Impossible de terminer la commande car aucune méthode de paiement n'a été sélectionnée.",module,Magento_Multishipping
+"We can't complete your order because you don't have a payment method set up.","Impossible de terminer la commande car aucune méthode de paiement n'a été sélectionnée.",module,Magento_Multishipping
 "We received your order!","Nous avons pris en compte votre commande !",module,Magento_Multishipping
 "Your order has been received.","Votre commande a bien été reçue.",module,Magento_Multishipping
 "Your order number is ","Votre numéro de commande est ",module,Magento_Multishipping

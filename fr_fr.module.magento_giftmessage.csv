@@ -12,10 +12,12 @@
 "From","De",module,Magento_GiftMessage
 "Gift Message","Message Cadeau",module,Magento_GiftMessage
 "Gift Message is not available","Messages cadeau indisponibles",module,Magento_GiftMessage
+"Gift Message (optional)","Message cadeau (optionnel)",module,Magento_GiftMessage
 "Gift Messages is not applicable for empty cart","Les messages cadeau ne sont pas utilisables lorsque le panier est vide",module,Magento_GiftMessage
 "Gift Messages is not applicable for empty order","Les messages cadeau ne sont pas utilisables pour une commande vide",module,Magento_GiftMessage
 "Gift Messages is not applicable for virtual products","Les messages cadeaux ne sont pas utilisables pour les produits virtuels",module,Magento_GiftMessage
 "Gift Options","Options Cadeau",module,Magento_GiftMessage
+"Gift options","Options Cadeau",module,Magento_GiftMessage
 "Gift Options for Individual Items","Options cadeau pour les articles individuels",module,Magento_GiftMessage
 "Gift Options for the Entire Order","Options cadeau pour toute la commande",module,Magento_GiftMessage
 "Gift Options for this address.","Options cadeau pour cette adresse.",module,Magento_GiftMessage
@@ -34,6 +36,7 @@
 "There is no product with provided  itemId: %1 in the cart","Il n'y a pas de produit avec un id ""%1"" dans le panier",module,Magento_GiftMessage
 "To","À",module,Magento_GiftMessage
 "Unknown entity type","Type d'entité inconnu",module,Magento_GiftMessage
+"Update","Mettre à jour",module,Magento_GiftMessage
 "You can leave a box blank if you don't wish to add a gift message for the item.","Vous pouvez laisser le champs vide si vous ne souhaitez pas ajouter un message cadeau pour l'article.",module,Magento_GiftMessage
 "You can leave this box blank if you do not wish to add a gift message for the item.","Laissez vide si vous ne souhaitez pas ajouter de message cadeau pour l'article.",module,Magento_GiftMessage
 "You can leave this box blank if you do not wish to add a gift message for this address.","Laissez vide si vous ne souhaitez pas ajouter de message cadeau pour cette adresse.",module,Magento_GiftMessage

@@ -5,7 +5,7 @@
 "Catalog","Catalogue",module,Magento_Rss
 "Category Feeds","Flux de la catégorie",module,Magento_Rss
 "Click for price","Cliquez pour afficher le prix",module,Magento_Rss
-"Click <a href=""%1"">here</a> to view the review.","Cliquez <a href=""%1"">ici</a> pour voir l'avis",module,Magento_Rss
+"Click <a href=""%1"">here</a> to view the review.","Cliquez <a href=""%1"">ici</a> pour voir l'avis.",module,Magento_Rss
 "Comment: %1<br/>","Commentaire: %1<br/>",module,Magento_Rss
 "Comment:","Commentaire:",module,Magento_Rss
 "Coupons/Discounts","Coupons/Réductions",module,Magento_Rss
