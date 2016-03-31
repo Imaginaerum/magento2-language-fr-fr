@@ -32,6 +32,7 @@
 "Cannot add the item to shopping cart","Impossible d'ajouter l'article au panier",module,Magento_ConfigurableProduct
 "Cannot delete option with id: %1","Impossible de supprimer l'option ID %1",module,Magento_ConfigurableProduct
 "Cannot delete variations from product: %1","Vous ne pouvez pas supprimer les variations du produit: %1",module,Magento_ConfigurableProduct
+"catalogProductMediaConfig is already set","catalogProductMediaConfig est déjà défini",module,Magento_ConfigurableProduct
 "Change Price","Changer le Prix",module,Magento_ConfigurableProduct
 "Choose","Choisir",module,Magento_ConfigurableProduct
 "Choose a different Product","Choisissez un autre produit",module,Magento_ConfigurableProduct
@@ -95,6 +96,7 @@
 "Please specify the product's option(s).","Veuillez spécifier la (les) option(s) de produit.",module,Magento_ConfigurableProduct
 "Price","Prix",module,Magento_ConfigurableProduct
 "Product already has this option","Le produit possède déjà cette option",module,Magento_ConfigurableProduct
+"productFactory is already set","productFactory est déjà défini",module,Magento_ConfigurableProduct
 "Product has been already attached","Le produit a déjà été rattaché",module,Magento_ConfigurableProduct
 "Products ""%1"" and %2 have the same set of attribute values.","Produits ""%1"" et %2 ont le même jeu de valeurs d'attributs.",module,Magento_ConfigurableProduct
 "Product with id ""%1"" does not contain required attribute ""%2"".","Produit id ""%1"" ne contient pas l'attribut requis ""%2"".",module,Magento_ConfigurableProduct

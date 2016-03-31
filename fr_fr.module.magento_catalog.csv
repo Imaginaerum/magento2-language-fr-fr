@@ -510,6 +510,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Product Categories","Catégories du Produit",module,Magento_Catalog
 "Product Details","Détails du produit",module,Magento_Catalog
 "Product EAV","Produit EAV",module,Magento_Catalog
+"productFactory is already set","productFactory est déjà défini",module,Magento_Catalog
 "Product Fields Auto-Generation","Produit avec Auto-génération de champs",module,Magento_Catalog
 "Product Flat Data","Données fixes de produit",module,Magento_Catalog
 "Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3","Le produit n'a pas de prix de groupe avec ces données: customerGroupId = '%1', site = %2, quantité = %3",module,Magento_Catalog
