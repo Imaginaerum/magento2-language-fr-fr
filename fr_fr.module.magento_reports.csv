@@ -235,6 +235,8 @@
 "Views","Vues",module,Magento_Reports
 "We can't find records for this period.","Aucun enregistrement trouvé pour cette période.",module,Magento_Reports
 "We can't refresh lifetime statistics.","Nous n'avons pas pu rafraîchir les statistiques depuis le début.",module,Magento_Reports
+"We can't refresh lifetime statistics.","Nous n'avons pas pu rafraîchir les statistiques depuis le début.",module,Magento_Reports
+"We can't refresh recent statistics.","Impossible de rafraîchir les statistiques récentes.",module,Magento_Reports
 "We can't refresh recent statistics.","Impossible de rafraîchir les statistiques récentes.",module,Magento_Reports
 "We couldn't find records for this period.","Aucun enregistrement pour cette période.",module,Magento_Reports
 "We updated lifetime statistics.","Nous avons mis à jour les statistiques depuis le début.",module,Magento_Reports

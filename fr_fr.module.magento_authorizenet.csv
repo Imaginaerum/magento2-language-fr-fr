@@ -74,6 +74,7 @@
 "Something went wrong canceling the transactions.","Erreur lors de l'annulation de la transaction",module,Magento_Authorizenet
 "Something went wrong in the payment gateway.","Une erreur s'est produite sur la passerelle de paiement.",module,Magento_Authorizenet
 "Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.","Une erreur s'est Produite: le montant payé ne correspond pas au montant de la commande. Veuillez corriger cela et essayer à nouveau.",module,Magento_Authorizenet
+"Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.","Une erreur s'est Produite: le montant payé ne correspond pas au montant de la commande. Veuillez corriger cela et essayer à nouveau.",module,Magento_Authorizenet
 "Something went wrong while authorizing the partial payment.","Une erreur s'est produite lors de l'autorisation partielle de paiement.",module,Magento_Authorizenet
 "Something went wrong while authorizing the payment.","Une erreur s'est produite lors de l'autorisation de paiement.",module,Magento_Authorizenet
 "Something went wrong while canceling the payment.","Une erreur s'est produite lors de l'annulation de paiement.",module,Magento_Authorizenet
@@ -93,6 +94,7 @@
 "This is an invalid amount for partial authorization.","Montant en autorisation partielle invalide",module,Magento_Authorizenet
 "This is an invalid amount for refund.","Montant du remboursement invalide",module,Magento_Authorizenet
 "This is an invalid split tenderId ID.","ID appel scindé invalide",module,Magento_Authorizenet
+"This payment didn't work out because we can't find this order.","Ce paiement n'a pas été effectué car la commande est introuvable.",module,Magento_Authorizenet
 "This payment didn't work out because we can't find this order.","Ce paiement n'a pas été effectué car la commande est introuvable.",module,Magento_Authorizenet
 "This payment was not authorized because the transaction ID field is empty.","Paiement non autorisé car l'ID de transaction est vide",module,Magento_Authorizenet
 "Title","Titre",module,Magento_Authorizenet

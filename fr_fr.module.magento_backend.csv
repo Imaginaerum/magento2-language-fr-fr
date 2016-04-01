@@ -354,6 +354,7 @@
 "per page","par page",module,Magento_Backend
 "Personal Information","Informations personnelles",module,Magento_Backend
 "Please confirm scope switching. All data that hasn't been saved will be lost.","Confirmez-vous le changement de site ? Toutes les données non sauvegardées seront perdues.",module,Magento_Backend
+"Please confirm scope switching. All data that hasn't been saved will be lost.","Confirmez-vous le changement de site ? Toutes les données non sauvegardées seront perdues.",module,Magento_Backend
 "Please correct the column format and try again.","Veuillez corriger le format colonne et essayez à nouveau.",module,Magento_Backend
 "Please correct the email address: ""%1"".","Veuillez corriger l'adresse email: ""%1"".",module,Magento_Backend
 "Please correct the tab configuration and try again.","Veuillez corriger la configuration de l'onglet et essayez à nouveau.",module,Magento_Backend
@@ -498,7 +499,6 @@
 "Store View:","Vue magasin:",module,Magento_Backend
 "[STORE VIEW]","[VUE MAGASIN]",module,Magento_Backend
 "Store view doesn't exist","La vue magasin n'existe pas",module,Magento_Backend
-"Store view doesn't exist","La vue magasin n'existe pas",module,Magento_Backend
 "Store View Information","Information de vue magasin",module,Magento_Backend
 "Street Address","Adresse",module,Magento_Backend
 "Street Address Line 2","Adresse Ligne 2",module,Magento_Backend
@@ -631,11 +631,13 @@
 "Web Site Information","Information Site Web",module,Magento_Backend
 "We can't create a backup right now. Please try again later.","Nous ne pouvons pas créer une sauvegarde. Veuillez réessayer plus tard.",module,Magento_Backend
 "We can't refresh lifetime statistics.","Nous n'avons pas pu rafraîchir les statistiques depuis le début.",module,Magento_Backend
+"We can't refresh lifetime statistics.","Nous n'avons pas pu rafraîchir les statistiques depuis le début.",module,Magento_Backend
 "We can't save the Cron expression.","Impossible de sauvegarder l'expression du CRON.",module,Magento_Backend
 "We can't set up a URL rewrite because the category your chose is not associated with a website.","Impossible de définir la réécriture d'URL car la catégorie choisie n'est associée à aucun site web.",module,Magento_Backend
 "We can't set up a URL rewrite because the product you chose is not associated with a website.","Impossible d'ajouter une réécriture d'URL car le produit sélectionné n'est associé à aucun site web.",module,Magento_Backend
 "We could not detect a size.","Nous ne pouvons pas déterminer le poids du fichier.",module,Magento_Backend
 "We couldn't create a backup right now. Please try again later.","Impossible de créer la sauvegarde. Veuillez réessayer plus tard.",module,Magento_Backend
+"We couldn't find any records.","Aucun enregistrement trouvé.",module,Magento_Backend
 "We couldn't find any records.","Aucun enregistrement trouvé.",module,Magento_Backend
 "We don't recognize or support this file extension type.","Le type de fichier n'est pas reconnu ou n'est pas autorisé.",module,Magento_Backend
 "Weekend Days","Jours de Weekend",module,Magento_Backend

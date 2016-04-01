@@ -4,6 +4,7 @@
 "Add product preview files here.","Ajouter un aperçu du produit ici.",module,Magento_Downloadable
 "All Files","Tous les Fichiers",module,Magento_Downloadable
 "Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with '_'.","Les caractères alphanumériques, les tirets et les underscores sont recommandés pour les noms de fichiers. Les caractères impropres seront remplacés par des underscores.",module,Magento_Downloadable
+"Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with '_'.","Les caractères alphanumériques, les tirets et les underscores sont recommandés pour les noms de fichiers. Les caractères impropres seront remplacés par des underscores.",module,Magento_Downloadable
 "Attach File or Enter Link","Attacher un fichier ou entrer un lien",module,Magento_Downloadable
 "attachment","pièce jointe",module,Magento_Downloadable
 "Availability","Disponibilité",module,Magento_Downloadable
@@ -120,7 +121,6 @@
 "Use Content-Disposition","Utiliser la disposition de contenu",module,Magento_Downloadable
 "Use Default Value","Utiliser la valeur par défaut",module,Magento_Downloadable
 "View Order","Voir la Commande",module,Magento_Downloadable
-"We can't find the link you requested.","Impossible de trouver le lien demandé.",module,Magento_Downloadable
 "We can't find the link you requested.","Impossible de trouver le lien demandé.",module,Magento_Downloadable
 "We could not detect a size.","Nous ne pouvons pas déterminer le poids du fichier.",module,Magento_Downloadable
 "What's this?","Qu'est-ce que c'est ?",module,Magento_Downloadable

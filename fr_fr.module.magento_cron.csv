@@ -15,4 +15,5 @@
 "Success History Lifetime","Durée de vie de l'historique des succès",module,Magento_Cron
 "Use Separate Process","Utiliser des processus séparés",module,Magento_Cron
 "We can't save the cron expression.","Impossible de sauvegarder l'expression du CRON.",module,Magento_Cron
+"We can't save the cron expression.","Impossible de sauvegarder l'expression du CRON.",module,Magento_Cron
 "Weekly","Hebdomadaire",module,Magento_Cron

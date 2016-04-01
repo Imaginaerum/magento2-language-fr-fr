@@ -100,6 +100,7 @@
 "Used Currently For","Utilisé actuellement pour",module,Magento_Email
 "We can't delete email template data right now. Please review log and try again.","Impossible de supprimer le gabarit d'email. Veuillez consulter le journal des erreurs et essayez à nouveau.",module,Magento_Email
 "We can't find an email template to delete.","Impossible de trouver le gabarit d'email à supprimer.",module,Magento_Email
+"We can't find an email template to delete.","Impossible de trouver le gabarit d'email à supprimer.",module,Magento_Email
 "We're sorry, an error has occurred while generating this email.","Désolé, une erreur s'est produite durant la génération de cet email.",module,Magento_Email
 "You deleted the email template.","Le gabarit d'email a été supprimé.",module,Magento_Email
 "You saved the email template.","Gabarit d'email sauvegardé.",module,Magento_Email

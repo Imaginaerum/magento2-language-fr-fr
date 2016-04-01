@@ -234,14 +234,12 @@
 "We can't add this item to your shopping cart right now.","Impossible d'ajouter ce produit au panier.",module,Magento_Checkout
 "We can't complete your order because you don't have a payment method available.","Impossible de terminer la commande en raison d'une méthode de paiement invalide.",module,Magento_Checkout
 "We can't find the product.","Impossible de trouver le produit.",module,Magento_Checkout
-"We can't find the quote item.","Impossible de trouver le commentaire du produit.",module,Magento_Checkout
+"We can't find the product.","Impossible de trouver le produit.",module,Magento_Checkout
 "We can't find the quote item.","Impossible de trouver le commentaire du produit.",module,Magento_Checkout
 "We can't remove the item.","Impossible de supprimer l'élément.",module,Magento_Checkout
 "We can't update the item right now.","Nous ne pouvons pas mettre à jour le produit.",module,Magento_Checkout
 "We can't update the shopping cart.","Nous ne pouvons pas mettre à jour le panier.",module,Magento_Checkout
 "We don't have as many of some products as you want.","Nous ne disposons pas de tous les produits que vous souhaitez.",module,Magento_Checkout
-"We don't have as many of some products as you want.","Nous ne disposons pas de tous les produits que vous souhaitez.",module,Magento_Checkout
-"We don't have some of the products you want.","Nous ne disposons pas de certains des produits que vous souhaitez.",module,Magento_Checkout
 "We don't have some of the products you want.","Nous ne disposons pas de certains des produits que vous souhaitez.",module,Magento_Checkout
 "We'll email you an order confirmation with details and tracking info.","Nous vous enverrons par email une confirmation de commande avec des détails et des informations de suivi colis.",module,Magento_Checkout
 "We'll send your order confirmation here.","Nous vous enverrons votre confirmation de commande ici.",module,Magento_Checkout

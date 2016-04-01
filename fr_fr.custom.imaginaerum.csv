@@ -62,6 +62,7 @@
 "${ $.visible } out of ${ $.total } visible","${ $.visible } sur ${ $.total } visible(s)"
 "We can't complete your order because you don't have a payment method set up.","Impossible de terminer la commande car aucune méthode de paiement n'a été sélectionnée."
 "We couldn","Nous ne pouvons pas"
+"We couldn't find any records.","Aucun enregistrement trouvé."
 "We don't recognize or support this file extension type.","Le type de fichier n'est pas reconnu ou n'est pas autorisé."
 "What","Lequel"
 "You already have an account with us. Sign in or continue as guest.","Vous possédez déjà un compte. Connectez-vous ou continuer en tant qu'invité."

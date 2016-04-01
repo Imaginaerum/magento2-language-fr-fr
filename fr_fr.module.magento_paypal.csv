@@ -94,6 +94,8 @@
 "Buyer claims that the received merchandise is unsatisfactory, defective, or damaged.","L'acheteur prétend que la marchandise reçue est insatisfaisante, défectueuse ou endommagée.",module,Magento_Paypal
 "Buyer Credit Payment","Paiement de crédit acheteur",module,Magento_Paypal
 "Buyer's Tax ID","ID de taxe de l'acheteur",module,Magento_Paypal
+"Buyer's Tax ID","ID de taxe de l'acheteur",module,Magento_Paypal
+"Buyer's Tax ID Type","Type d'ID de taxe de l'acheteur",module,Magento_Paypal
 "Buyer's Tax ID Type","Type d'ID de taxe de l'acheteur",module,Magento_Paypal
 "Buy now with PayPal","Acheter maintenant avec PayPal",module,Magento_Paypal
 "By default it is ""reports.paypal.com"".","Par défaut il est ""reports.paypal.com"".",module,Magento_Paypal
@@ -242,6 +244,8 @@
 "If you do not have multiple users set up on your account, please re-enter your Vendor/Merchant Login here.","Si vous ne disposez pas de plusieurs utilisateurs mis en place sur votre compte, veuillez entrer de nouveau votre login Vendeur/ Marchand ici.",module,Magento_Paypal
 "Important: ","Important: ",module,Magento_Paypal
 "I'm sorry - but we are not able to complete your transaction. Please contact us so we can assist you.","Nous ne sommes pas en mesure de compléter votre transaction. Veuillez nous contacter afin que nous puissions vous aider.",module,Magento_Paypal
+"I'm sorry - but we are not able to complete your transaction. Please contact us so we can assist you.","Nous ne sommes pas en mesure de compléter votre transaction. Veuillez nous contacter afin que nous puissions vous aider.",module,Magento_Paypal
+"I'm sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you.","Nous ne sommes pas en mesure de traiter votre paiement. Veuillez essayer une autre méthode de paiement ou contactez-nous afin que nous puissions vous aider.",module,Magento_Paypal
 "I'm sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you.","Nous ne sommes pas en mesure de traiter votre paiement. Veuillez essayer une autre méthode de paiement ou contactez-nous afin que nous puissions vous aider.",module,Magento_Paypal
 "Incentive","Incitation",module,Magento_Paypal
 "Incl. Tax","TTC",module,Magento_Paypal
@@ -363,8 +367,8 @@
 "PayPal Billing Agreement Settings","Paramètres d'entente de facturation PayPal",module,Magento_Paypal
 "PayPal Buyer Warranty Bonus","PayPal bonus garantie acheteur",module,Magento_Paypal
 "PayPal Canceled Reversal","Remboursement PayPal Annulé",module,Magento_Paypal
-"PayPal can't process orders with a zero balance due. ' 'To finish your purchase, please go through the standard checkout process.","PayPal ne peut traiter les commandes avec un solde nul. Pour terminer votre achat, veuillez passer par le processus de commande standard.",module,Magento_Paypal
 "PayPal can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.","PayPal ne peut traiter les commandes avec un solde nul. Pour terminer votre achat, veuillez passer par le processus de commande standard.",module,Magento_Paypal
+"PayPal can't process orders with a zero balance due. ' 'To finish your purchase, please go through the standard checkout process.","PayPal ne peut traiter les commandes avec un solde nul. Pour terminer votre achat, veuillez passer par le processus de commande standard.",module,Magento_Paypal
 "PayPal Debit Card Cash Advance","PayPal avance de trésorerie de débit par carte",module,Magento_Paypal
 "PayPal Debit Card Withdrawal from ATM","PayPal par carte de débit Retrait ATM",module,Magento_Paypal
 "PayPal Express Checkout","PayPal Express Checkout",module,Magento_Paypal
@@ -392,7 +396,6 @@
 "PayPal recommends you set up an additional User on your account at manager.paypal.com, instead of entering your admin username and password here. This will enhance your security and prevent service interruptions if you later change your password. If you do not want to set up an additional User, you can re-enter your Merchant Login here.","PayPal vous recommande de mettre en place un utilisateur supplémentaire dans votre compte à manager.paypal.com, au lieu d'entrer votre nom d'utilisateur et mot de passe admin ici. Cela permettra d'améliorer votre sécurité et éviter les interruptions de service si vous changez votre mot de passe. Si vous ne voulez pas mettre en place un utilisateur supplémentaire, vous pouvez réintégrer votre compte marchand ici.",module,Magento_Paypal
 "PayPal Reference ID","Référence PayPal ID",module,Magento_Paypal
 "PayPal Reference ID Type","Référence PayPal ID Type",module,Magento_Paypal
-"PayPal response hasn't required fields.","La réponse de PayPal ne comporte pas les champs obligatoires.",module,Magento_Paypal
 "PayPal response hasn't required fields.","La réponse de PayPal ne comporte pas les champs obligatoires.",module,Magento_Paypal
 "PayPal retains reports for 45 days.","PayPal conserve des rapports pendant 45 jours.",module,Magento_Paypal
 "PayPal Reversed","Remboursement PayPal",module,Magento_Paypal
@@ -591,16 +594,24 @@
 "We cannot send the new order email.","Nous ne pouvons pas envoyer l'email de nouvelle commande.",module,Magento_Paypal
 "We can't cancel the billing agreement.","Nous ne pouvons pas annuler l'entente de facturation.",module,Magento_Paypal
 "We can't contact the PayPal gateway.","Nous ne pouvons pas communiquer avec la passerelle PayPal.",module,Magento_Paypal
+"We can't contact the PayPal gateway.","Nous ne pouvons pas communiquer avec la passerelle PayPal.",module,Magento_Paypal
 "We can't create a billing agreement for this order.","Impossible de créer un accord de facturation pour cette commande.",module,Magento_Paypal
 "We can't delete the billing agreement.","Impossible de supprimer l'entente de facturation.",module,Magento_Paypal
 "We can't fetch reports from ""%1@%2.""","Nous ne pouvons récupérer les rapports de ""%1@%2.""",module,Magento_Paypal
 "We can't initialize Express Checkout.","Impossible d'initialiser Express Checkout.",module,Magento_Paypal
+"We can't initialize Express Checkout.","Impossible d'initialiser Express Checkout.",module,Magento_Paypal
+"We can't initialize Express Checkout review.","Nous ne pouvons pas initialiser l'examen d'Express Checkout.",module,Magento_Paypal
 "We can't initialize Express Checkout review.","Nous ne pouvons pas initialiser l'examen d'Express Checkout.",module,Magento_Paypal
 "We can't issue a refund transaction because there is no capture transaction.","Nous ne pouvons pas émettre une transaction de remboursement parce qu'il n'y a pas de transaction de capture.",module,Magento_Paypal
+"We can't issue a refund transaction because there is no capture transaction.","Nous ne pouvons pas émettre une transaction de remboursement parce qu'il n'y a pas de transaction de capture.",module,Magento_Paypal
+"We can't place the order.","Passage de commande impossible.",module,Magento_Paypal
 "We can't place the order.","Passage de commande impossible.",module,Magento_Paypal
 "We can't process Express Checkout approval.","Nous ne pouvons pas traiter l'approbation Express Checkout.",module,Magento_Paypal
+"We can't process Express Checkout approval.","Nous ne pouvons pas traiter l'approbation Express Checkout.",module,Magento_Paypal
+"We can't start Express Checkout.","Impossible de démarrer Express Checkout.",module,Magento_Paypal
 "We can't start Express Checkout.","Impossible de démarrer Express Checkout.",module,Magento_Paypal
 "We can't start the billing agreement wizard.","Nous ne pouvons pas lancer l'assistant d'entente de facturation.",module,Magento_Paypal
+"We can't update shipping method.","Nous ne pouvons pas mettre à jour la méthode d'expédition.",module,Magento_Paypal
 "We can't update shipping method.","Nous ne pouvons pas mettre à jour la méthode d'expédition.",module,Magento_Paypal
 "We could not cancel the billing agreement.","Impossible d'annuler cet accord de facturation.",module,Magento_Paypal
 "We could not delete the billing agreement.","Impossible de supprimer cet accord de facturation.",module,Magento_Paypal
@@ -608,21 +619,23 @@
 "We couldn't create a billing agreement for this order.","Impossible de créer un accord de facturation pour cette commande.",module,Magento_Paypal
 "We couldn't fetch reports from '%1@%2'.","Impossible d’obtenir le rapport depuis '%1@%2'.",module,Magento_Paypal
 "We couldn't finish the billing agreement wizard.","Nous n'avons pu terminer l'assistant d'entente de facturation.",module,Magento_Paypal
+"We couldn't finish the billing agreement wizard.","Nous n'avons pu terminer l'assistant d'entente de facturation.",module,Magento_Paypal
 "We couldn't start the billing agreement wizard.","Impossible de démarrer l'assistant d'entente de facturation.",module,Magento_Paypal
 "We fetched %1 report rows from '%2@%3'.","%1 lignes récupérées dans le rapport ""%2@%3"".",module,Magento_Paypal
 "We fetched %1 report rows from ""%2@%3.""","%1 lignes récupérées dans le rapport ""%2@%3.""",module,Magento_Paypal
 "We found nothing to fetch because of an empty configuration.","Aucune données en raison d'une configuration vide.",module,Magento_Paypal
+"We'll authorize the amount of %1 as soon as the payment gateway approves it.","Nous autoriserons le montant de %1 dès que la passerelle de paiement sera approuvée.",module,Magento_Paypal
 "We'll authorize the amount of %1 as soon as the payment gateway approves it.","Nous autoriserons le montant de %1 dès que la passerelle de paiement sera approuvée.",module,Magento_Paypal
 "We prefer PayPal (150 X 40)","Nous préférons PayPal (150 X 40)",module,Magento_Paypal
 "We prefer PayPal (150 X 60)","Nous préférons PayPal (150 X 60)",module,Magento_Paypal
 "What is PayPal?","Qu'est-ce que PayPal ?",module,Magento_Paypal
 "Whether to create a billing agreement, if there are no active billing agreements available.","Créer une entente de facturation, s'il n'y a aucune entente de facturation active disponible.",module,Magento_Paypal
 "<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
-                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                            or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br/>
+                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                                from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                                or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br/>
                                 <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit&#174;. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
                                 Utilisez les bannières publicitaires gratuites de PayPal Credit&#174; comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
                                 Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
@@ -647,6 +660,16 @@
                                 Utilisez les bannières publicitaires gratuites de PayPal Credit&#174; comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
                                 Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
                                 ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>.",module,Magento_Paypal
+"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br/>
+                                <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit&#174;. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
+                                Utilisez les bannières publicitaires gratuites de PayPal Credit&#174; comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
+                                Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
+                                ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>.",module,Magento_Paypal
 "<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                                 <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
                                 from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
@@ -677,22 +700,12 @@
                                 Utilisez les bannières publicitaires gratuites de PayPal Credit&#174; comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
                                 Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
                                 ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>.",module,Magento_Paypal
-"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
-                                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br/>
-                                <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit&#174;. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
-                                Utilisez les bannières publicitaires gratuites de PayPal Credit&#174; comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
-                                Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
-                                ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>.",module,Magento_Paypal
 "<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                                from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
-                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                                or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br/>
+                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                            or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br/>
                                 <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit&#174;. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
                                 Utilisez les bannières publicitaires gratuites de PayPal Credit&#174; comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
                                 Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%

@@ -11,7 +11,7 @@
 "Parent directory does not exist: %1","Le répertoire parent n'existe pas: %1",module,Magento_MediaStorage
 "Path ""%value%"" is not available and cannot be used.","Le chemin ""%value%"" n'est pas correct et ne peut pas être utilisé.",module,Magento_MediaStorage
 "Path ""%value%"" is protected and cannot be used.","Le chemin ""%value%"" est protégé et ne peut pas être utilisé.",module,Magento_MediaStorage
-"Path ""%value%"" may not include parent directory traversal (""../"", ""..\"").","Le chemin ""%value%"" ne doit pas inclure de répertoire parent (""../"", ""..\"").",module,Magento_MediaStorage
+"Path ""%value%"" may not include parent directory traversal (""../"", ""..\).""","Le chemin ""%value%"" ne doit pas inclure de répertoire parent (""../"", ""..\"").",module,Magento_MediaStorage
 "Please set available and/or protected paths list(s) before validation.","Veuillez renseigner correctement la liste des chemins avant validation.",module,Magento_MediaStorage
 "Requested resource not found","Ressource non trouvée",module,Magento_MediaStorage
 "Select Media Database","Sélectionner la base de données media",module,Magento_MediaStorage

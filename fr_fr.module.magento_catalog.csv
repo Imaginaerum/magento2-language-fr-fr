@@ -78,7 +78,6 @@
 "AM","AM",module,Magento_Catalog
 "A name is required.","Un nom est requis.",module,Magento_Catalog
 "An attribute group named ""/name/"" already exists"".","Un groupe d\'attributs ""/name/"" existe déjà"".",module,Magento_Catalog
-"An attribute group named ""/name/"" already exists"".","Un groupe d\'attributs ""/name/"" existe déjà"".",module,Magento_Catalog
 "An attribute set named '%1' already exists.","Le jeu d'attributs ""%1"" existe déjà.",module,Magento_Catalog
 "An attribute with the same code (%1) already exists.","Un attribut avec le même code (%1) existe déjà.",module,Magento_Catalog
 "An attribute with this code already exists.","Un attribut avec ce code existe déjà.",module,Magento_Catalog
@@ -472,6 +471,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "per page","par page",module,Magento_Catalog
 "Please add rows to option.","Veuillez ajouter des lignes à l'option.",module,Magento_Catalog
 "Please confirm site switching. All data that hasn't been saved will be lost.","Confirmez-vous le changement de site ? Toutes les données non sauvegardées seront perdues.",module,Magento_Catalog
+"Please confirm site switching. All data that hasn't been saved will be lost.","Confirmez-vous le changement de site ? Toutes les données non sauvegardées seront perdues.",module,Magento_Catalog
 "Please correct the category.","Veuillez corriger la catégorie.",module,Magento_Catalog
 "Please correct the image file type.","Veuillez corriger le type de fichier d'image.",module,Magento_Catalog
 "Please enter a new group name.","Veuillez saisir un nouveau nom de groupe.",module,Magento_Catalog
@@ -807,11 +807,14 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Websites","Sites Web",module,Magento_Catalog
 "We can't add the product to the cart because of an option validation issue.","Nous ne pouvons pas ajouter le produit au panier en raison d'un problème de validation de l'option.",module,Magento_Catalog
 "We can't create writeable directory ""%1"".","Impossible de créer un répertoire accessible en écriture ""%1"".",module,Magento_Catalog
+"We can't create writeable directory ""%1"".","Impossible de créer un répertoire accessible en écriture ""%1"".",module,Magento_Catalog
 "We can't delete the attribute.","Nous ne pouvons pas supprimer l'attribut.",module,Magento_Catalog
 "We can't delete this set right now.","Impossible de supprimer ce groupe actuellement.",module,Magento_Catalog
 "We can't find an attribute to delete.","Nous ne trouvons pas l'attribut à supprimer.",module,Magento_Catalog
+"We can't find an attribute to delete.","Nous ne trouvons pas l'attribut à supprimer.",module,Magento_Catalog
 "We can't find a search term to delete.","Impossible de trouver le terme à supprimer.",module,Magento_Catalog
 "We can't find products matching the selection.","Impossible de trouver des produits correspondant à votre sélection.",module,Magento_Catalog
+"We can't find the image file.","Impossible de trouver le fichier image.",module,Magento_Catalog
 "We can't find the image file.","Impossible de trouver le fichier image.",module,Magento_Catalog
 "We can't move the category because the parent category name matches the child category name.","Nous ne pouvons pas déplacer la catégorie parce que le nom de la catégorie parente correspond au nom de catégorie enfant.",module,Magento_Catalog
 "We can't perform this category move operation because the parent category matches the child category.","Impossible de déplacer cette catégorie car la catégorie parente correspond à la catégorie enfant.",module,Magento_Catalog
@@ -820,6 +823,8 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "We can't update the attribute.","Nous ne pouvons pas mettre à jour l'attribut.",module,Magento_Catalog
 "We couldn't add the product to the cart because of an option validation issue.","Impossible d'ajouter ce produit au panier. Erreur lors de la validation d'une option.",module,Magento_Catalog
 "We couldn't copy file %1. Please delete media with non-existing images and try again.","Nous n'avons pu copier le fichier %1. Veuillez supprimer les médias inexistants et essayez à nouveau.",module,Magento_Catalog
+"We couldn't copy file %1. Please delete media with non-existing images and try again.","Nous n'avons pu copier le fichier %1. Veuillez supprimer les médias inexistants et essayez à nouveau.",module,Magento_Catalog
+"We couldn't move this file: %1.","Nous n'avons pu déplacer ce fichier: %1.",module,Magento_Catalog
 "We couldn't move this file: %1.","Nous n'avons pu déplacer ce fichier: %1.",module,Magento_Catalog
 "We don't recognize or support this file extension type.","Le type de fichier n'est pas reconnu ou n'est pas autorisé.",module,Magento_Catalog
 "We found a duplicate website group price customer group.","Doublon groupe de prix client par groupe.",module,Magento_Catalog

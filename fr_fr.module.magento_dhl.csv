@@ -75,6 +75,7 @@
 "Unable to retrieve shipping label","Impossible de récupérer l'étiquette d'expédition",module,Magento_Dhl
 "Unable to retrieve tracking","Impossible de récupérer les informations de suivi",module,Magento_Dhl
 "We had to skip DHL method %1 because we couldn't find exchange rate %2 (Base Currency).","Nous avons dû ignorer la méthode DHL %1 car il était impossible d'obtenir le taux de change %2 (Devise de base).",module,Magento_Dhl
+"We had to skip DHL method %1 because we couldn't find exchange rate %2 (Base Currency).","Nous avons dû ignorer la méthode DHL %1 car il était impossible d'obtenir le taux de change %2 (Devise de base).",module,Magento_Dhl
 "Weight Unit","Unité de Poids",module,Magento_Dhl
 "Width","Largeur",module,Magento_Dhl
 "Wrong Content Type","Mauvais type de contenu",module,Magento_Dhl

@@ -7,7 +7,7 @@
 "Anchor Custom Title","Présenter un titre personnalisé",module,Magento_Cms
 "A page URL key for specified store already exists.","Il existe déjà un e clé d'URL de page pour la boutique sélectionnée.",module,Magento_Cms
 "Are you sure you wan't to delete a ""${ $.$data.title }"" record?","Êtes-vous sûr de vouloir supprimer ""${ $.$data.title }""?",module,Magento_Cms
-"Are you sure you wan't to delete a ${ $.$data.title } record?","Êtes-vous sûr de vouloir supprimer ${ $.$data.title }?",module,Magento_Cms
+"Are you sure you wan't to delete a ${ $.$data.title } record?","Êtes-vous sûr de vouloir supprimer ""${ $.$data.title }""?",module,Magento_Cms
 "Are you sure you wan't to delete selected items?","Êtes-vous sûr de vouloir supprimer les éléments sélectionnés?",module,Magento_Cms
 "Are you sure you want to delete this file?","Êtes-vous sûr de vouloir supprimer ce fichier?",module,Magento_Cms
 "Are you sure you want to delete this folder?","Êtes-vous sûr de vouloir supprimer ce dossier?",module,Magento_Cms
@@ -148,6 +148,8 @@
 "We cannot upload the file.","Upload du fichier impossible.",module,Magento_Cms
 "We can't delete root directory %1 right now.","Impossible de supprimer le répertoire racine %1.",module,Magento_Cms
 "We can't find a block to delete.","Nous ne trouvons pas le bloc à supprimer.",module,Magento_Cms
+"We can't find a block to delete.","Nous ne trouvons pas le bloc à supprimer.",module,Magento_Cms
+"We can't find a page to delete.","Impossible de trouver la page à supprimer.",module,Magento_Cms
 "We can't find a page to delete.","Impossible de trouver la page à supprimer.",module,Magento_Cms
 "We can't upload the file right now.","Nous ne pouvons pas uploader le fichier.",module,Magento_Cms
 "We could not detect a size.","Nous ne pouvons pas déterminer le poids du fichier.",module,Magento_Cms

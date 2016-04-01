@@ -51,3 +51,4 @@
 "Year","Année",module,Magento_Payment
 "Yes","Oui",module,Magento_Payment
 "You can't use the payment type you selected to make payments to the billing country.","Vous ne pouvez pas utiliser la méthode de paiement choisie pour ce pays de facturation.",module,Magento_Payment
+"You can't use the payment type you selected to make payments to the billing country.","Vous ne pouvez pas utiliser la méthode de paiement choisie pour ce pays de facturation.",module,Magento_Payment

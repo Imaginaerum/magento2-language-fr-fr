@@ -45,6 +45,8 @@
 "Interface Locale","Langue de l'Interface",module,Magento_User
 "It's time to change your password.","Il est temps de modifier votre mot de passe.",module,Magento_User
 "It's time to <a href=""%1"">change your password</a>.","Il est temps de <a href=""%1"">modifier votre mot de passe</a>.",module,Magento_User
+"It's time to <a href=""%1"">change your password</a>.","Il est temps de <a href=""%1"">modifier votre mot de passe</a>.",module,Magento_User
+"It's time to change your password.","Il est temps de modifier votre mot de passe.",module,Magento_User
 "Last login","Dernière connexion",module,Magento_User
 "Last Name","Nom",module,Magento_User
 "Last Name is a required field.","Nom est un champ obligatoire.",module,Magento_User
@@ -119,6 +121,7 @@
 "Users","Utilisateurs",module,Magento_User
 "Warning!rnThis action will remove this user from already assigned rolernAre you sure?","Attention ! Cette action supprimera cet utilisateur des rôles assignés. Êtes-vous sûr(e) ?",module,Magento_User
 "Warning!rnThis action will remove those users from already assigned rolesrnAre you sure?","Attention ! Cette action supprimera ces utilisateurs des rôles assignés. Êtes-vous sûr(e) ?",module,Magento_User
+"We can't find a user to delete.","Impossible de trouver l'utilisateur à supprimer.",module,Magento_User
 "We can't find a user to delete.","Impossible de trouver l'utilisateur à supprimer.",module,Magento_User
 "We can't find a user to revoke.","Impossible de trouver l'utilisateur à révoquer.",module,Magento_User
 "We'll email you a link to reset your password.","Nous allons vous envoyer par email un lien pour réinitialiser votre mot de passe.",module,Magento_User

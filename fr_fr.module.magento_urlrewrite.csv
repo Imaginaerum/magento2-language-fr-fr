@@ -68,4 +68,5 @@
 "We can't delete URL Rewrite right now.","Impossible de supprimer l'URL.",module,Magento_UrlRewrite
 "We can't set up a URL rewrite because the category your chose is not associated with a website.","Impossible de définir la réécriture d'URL car la catégorie choisie n'est associée à aucun site web.",module,Magento_UrlRewrite
 "We can't set up a URL rewrite because the product you chose is not associated with a website.","Impossible d'ajouter une réécriture d'URL car le produit sélectionné n'est associé à aucun site web.",module,Magento_UrlRewrite
+"We can't set up a URL rewrite because the product you chose is not associated with a website.","Impossible d'ajouter une réécriture d'URL car le produit sélectionné n'est associé à aucun site web.",module,Magento_UrlRewrite
 "You deleted the URL rewrite.","URL supprimée.",module,Magento_UrlRewrite

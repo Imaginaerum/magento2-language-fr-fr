@@ -39,6 +39,8 @@
 "WARNING:","ATTENTION:",module,Magento_Directory
 "Webservicex","Webservicex",module,Magento_Directory
 "We can't initialize the import model.","Impossible d'initialiser le modèle d'importation.",module,Magento_Directory
+"We can't initialize the import model.","Impossible d'initialiser le modèle d'importation.",module,Magento_Directory
+"We can't retrieve a rate from %1.","Impossible de récurérer le taux pour %1.",module,Magento_Directory
 "We can't retrieve a rate from %1.","Impossible de récurérer le taux pour %1.",module,Magento_Directory
 "Weight Unit","Unité de Poids",module,Magento_Directory
 "Your current currency is: %1.","La devise actuelle est: %1.",module,Magento_Directory

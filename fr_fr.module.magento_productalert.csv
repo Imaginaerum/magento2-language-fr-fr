@@ -28,6 +28,7 @@
 "Unsubscribe from all price alerts","Se désabonner de toutes les alertes de prix",module,Magento_ProductAlert
 "Unsubscribe from all stock alerts","Se désabonner de toutes les alertes de disponibilité",module,Magento_ProductAlert
 "We can't find the product.","Impossible de trouver le produit.",module,Magento_ProductAlert
+"We can't find the product.","Impossible de trouver le produit.",module,Magento_ProductAlert
 "We can't update the alert subscription right now.","Impossible de mettre à jour l'inscription à l'alerte.",module,Magento_ProductAlert
 "You are receiving this notification because you subscribed to receive alerts when the following products are back in stock:","Vous recevez cette alerte car vous avez demandé à être alerté quand les produits suivants sont de nouveau disponibles :",module,Magento_ProductAlert
 "You are receiving this notification because you subscribed to receive alerts when the prices for the following products changed:","Vous recevez cette alerte car vous avez demandé à être alerté quand les produits suivants sont modifiés :",module,Magento_ProductAlert

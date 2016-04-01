@@ -279,7 +279,6 @@
 "New Group","Nouveau Groupe",module,Magento_Customer
 "New Password","Nouveau Mot de Passe",module,Magento_Customer
 "New Password and Confirm New Password values didn't match.","Les valeurs du nouveau mot de passe et la confirmation du nouveau mot de passe ne correspondent pas.",module,Magento_Customer
-"New Password and Confirm New Password values didn't match.","Les valeurs du nouveau mot de passe et la confirmation du nouveau mot de passe ne correspondent pas.",module,Magento_Customer
 "New password field cannot be empty.","Le champ de nouveau mot de passe ne peut pas être vide.",module,Magento_Customer
 "Newsletter","Newsletter",module,Magento_Customer
 "Newsletter Information","Information newsletter",module,Magento_Customer

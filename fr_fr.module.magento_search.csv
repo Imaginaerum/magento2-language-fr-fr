@@ -43,6 +43,7 @@
 "Total of %1 record(s) were deleted.","%1 enregistrement(s) effacé(s).",module,Magento_Search
 "Uses","Utilisations",module,Magento_Search
 "We can't find a search term to delete.","Impossible de trouver le terme à supprimer.",module,Magento_Search
+"We can't find a search term to delete.","Impossible de trouver le terme à supprimer.",module,Magento_Search
 "Will make search for the query above return results for this search","Exécutera la recherche pour la recherche ci-dessus et en retournera les résultats",module,Magento_Search
 "Yes","Oui",module,Magento_Search
 "yes","oui",module,Magento_Search

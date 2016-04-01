@@ -25,6 +25,7 @@
 "By Percentage","remise en %%",module,Magento_SalesRule
 "Cancel coupon","Annuler le bon de réduction",module,Magento_SalesRule
 "Can't acquire coupon.","Impossible d'appliquer le bon.",module,Magento_SalesRule
+"Can't acquire coupon.","Impossible d'appliquer le bon.",module,Magento_SalesRule
 "Cart Attribute","Attribut de panier",module,Magento_SalesRule
 "Cart Item Attribute","Attribut d'article panier",module,Magento_SalesRule
 "Cart Price Rule","Règle de prix panier",module,Magento_SalesRule
@@ -151,7 +152,6 @@
 "Total Weight","Poids Total",module,Magento_SalesRule
 "Update prices using the following information","Mettre à jour les prix en utilisant l'information suivante",module,Magento_SalesRule
 "Update product's %1 %2: %3","Mettre à jour le %1 du produit %2 : %3",module,Magento_SalesRule
-"Update product's %1 %2: %3","Mettre à jour le %1 du produit %2 : %3",module,Magento_SalesRule
 "Update the Product","Mettre à jour le Produit",module,Magento_SalesRule
 "Usage limit enforced for logged in customers only.","Limite d'utilisation imposée uniquement aux clients connectés.",module,Magento_SalesRule
 "Use Auto Generation","Utiliser la génération automatique",module,Magento_SalesRule
@@ -162,6 +162,7 @@
 "Websites","Sites Web",module,Magento_SalesRule
 "We cannot create the requested Coupon Qty. Please check your settings and try again.","Impossible créer la quantité de coupon demandée. Veuillez vérifier vos paramètres puis réessayez.",module,Magento_SalesRule
 "We can't delete the rule right now. Please review the log and try again.","Impossible de supprimer la règle. Veuillez consulter le journal des erreurs et essayez à nouveau.",module,Magento_SalesRule
+"We can't find a rule to delete.","Impossible de trouver la règle à supprimer.",module,Magento_SalesRule
 "We can't find a rule to delete.","Impossible de trouver la règle à supprimer.",module,Magento_SalesRule
 "Yes","Oui",module,Magento_SalesRule
 "You deleted the rule.","Règle Supprimée.",module,Magento_SalesRule

@@ -60,7 +60,10 @@
 "We cannot specify a product identifier for the order item.","Impossible de spécifier un identifiant produit pour l'article de la commande",module,Magento_CatalogInventory
 "We can't rebuild the index for an undefined product.","Nous ne pouvons pas reconstruire l'index d'un produit non défini.",module,Magento_CatalogInventory
 "We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","Nous ne possédons pas suffisamment de ""%1"" pour honorer votre demande, alors nous mettrons en réapprovisionnement les %2 restant(s).",module,Magento_CatalogInventory
+"We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","Nous ne possédons pas suffisamment de ""%1"" pour honorer votre demande, alors nous mettrons en réapprovisionnement les %2 restant(s).",module,Magento_CatalogInventory
 "We don't have as many ""%1"" as you requested.","Nous ne possédons pas suffisament de ""%1"" pour honorer votre demande.",module,Magento_CatalogInventory
+"We don't have as many ""%1"" as you requested.","Nous ne possédons pas suffisament de ""%1"" pour honorer votre demande.",module,Magento_CatalogInventory
+"We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","Nous ne possédons pas suffisamment de ""%1"" pour honorer votre demande, mais nous mettrons en réapprovisionnement les %2 restants.",module,Magento_CatalogInventory
 "We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","Nous ne possédons pas suffisamment de ""%1"" pour honorer votre demande, mais nous mettrons en réapprovisionnement les %2 restants.",module,Magento_CatalogInventory
 "You can buy %1 only in increments of %2.","Vous pouvez acheter %1 uniquement par quantité de %2.",module,Magento_CatalogInventory
 "You can buy %1 only in quantities of %2 at a time.","Vous pouvez acheter %1 uniquement par quantité de %2.",module,Magento_CatalogInventory

@@ -58,4 +58,6 @@
 "The sender name cannot be empty.","Le nom de l'expéditeur ne peut pas être vide.",module,Magento_SendFriend
 "We found some problems with the data.","Il y a des erreurs avec les données.",module,Magento_SendFriend
 "You can't send messages more than %1 times an hour.","Vous ne pouvez pas envoyer de messages plus de %1 fois par heure.",module,Magento_SendFriend
+"You can't send messages more than %1 times an hour.","Vous ne pouvez pas envoyer de messages plus de %1 fois par heure.",module,Magento_SendFriend
+"You've met your limit of %1 sends in an hour.","Vous avez atteint la limite qui est de %1 envois par heure.",module,Magento_SendFriend
 "You've met your limit of %1 sends in an hour.","Vous avez atteint la limite qui est de %1 envois par heure.",module,Magento_SendFriend

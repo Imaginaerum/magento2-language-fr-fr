@@ -59,6 +59,8 @@
 "This sitemap no longer exists.","Ce plan de site n'existe plus.",module,Magento_Sitemap
 "Valid values range from 0.0 to 1.0.","Les valeurs valides sont comprises entre 0.0 et 1.0.",module,Magento_Sitemap
 "We can't find a sitemap to delete.","Impossible de trouver le plan de site à supprimer.",module,Magento_Sitemap
+"We can't find a sitemap to delete.","Impossible de trouver le plan de site à supprimer.",module,Magento_Sitemap
+"We can't find a sitemap to generate.","Impossible de trouver le plan de site à générer.",module,Magento_Sitemap
 "We can't find a sitemap to generate.","Impossible de trouver le plan de site à générer.",module,Magento_Sitemap
 "We can't generate the sitemap right now.","Impossible de générer le plan de site.",module,Magento_Sitemap
 "Weekly","Hebdomadaire",module,Magento_Sitemap

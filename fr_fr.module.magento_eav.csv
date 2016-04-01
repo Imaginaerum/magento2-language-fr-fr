@@ -118,6 +118,7 @@
 "Text Area","Zone de Texte",module,Magento_Eav
 "Text Field","Champ Texte",module,Magento_Eav
 "The attribute code '%1' is reserved by system. Please try another attribute code","Le code d'attribut '%1' est réservé par le système. Veuillez essayez un autre code d'attribut",module,Magento_Eav
+"The attribute code '%1' is reserved by system. Please try another attribute code","Le code d'attribut '%1' est réservé par le système. Veuillez essayez un autre code d'attribut",module,Magento_Eav
 "The current module EAV entity is undefined.","L'entité courante du module EAV est indéfinie.",module,Magento_Eav
 "The current module pathname is undefined.","Le chemin du module est indéfini.",module,Magento_Eav
 "The entity instance is not defined.","L'instance de l'entité n'est pas définie.",module,Magento_Eav

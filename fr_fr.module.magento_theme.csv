@@ -126,6 +126,7 @@
 "The start date can't follow the end date.","La date de début ne peut pas être postérieure à la date de fin.",module,Magento_Theme
 "This action will delete your custom instructions and reset robots.txt file to system's default settings.","Cette action supprimera les instructions personnalisées et réinitialisera le fichier robots.txt avec les valeurs par défaut du système.",module,Magento_Theme
 "This file will replace the current custom.css file and can't be more than 2 MB.","Ce fichier remplacera le fichier custom.css. Il ne peut pas excéder 2 Mo.",module,Magento_Theme
+"This file will replace the current custom.css file and can't be more than 2 MB.","Ce fichier remplacera le fichier custom.css. Il ne peut pas excéder 2 Mo.",module,Magento_Theme
 "This is demo store. All orders will not be transferred.","Ceci est une boutique de démo. Aucune commande ne sera traitée.",module,Magento_Theme
 "This is demo store. No orders will be fulfilled.","Ceci est une boutique de démonstration. Aucune commande ne sera honorée.",module,Magento_Theme
 "This theme is not editable.","Ce thème n'est pas modifiable.",module,Magento_Theme
@@ -160,7 +161,6 @@
 "We can't upload the JS file right now.","Impossible d'uploader le fichier JS.",module,Magento_Theme
 "We could not detect a size.","Nous ne pouvons pas déterminer le poids du fichier.",module,Magento_Theme
 "We don't recognize this file extension.","Impossible de reconnaître l'extension de ce fichier.",module,Magento_Theme
-"We don't recognize this file extension.","Impossible de reconnaître l'extension de ce fichier.",module,Magento_Theme
 "We found a directory with the same name.","Un répertoire avec le même nom existe déjà.",module,Magento_Theme
 "We found no files.","Aucun fichier trouvé.",module,Magento_Theme
 "Welcome, %1!","Bienvenue, %1 !",module,Magento_Theme
@@ -169,5 +169,6 @@
 "WK","Semaine",module,Magento_Theme
 "You deleted the theme.","Le thème a été supprimé.",module,Magento_Theme
 "Your design change for the specified store intersects with another one, please specify another date range.","Votre changement de design pour le magasin spécifié interfère avec un autre. Spécifiez une autre tranche de dates.",module,Magento_Theme
+"You're currently reading page","Vous lisez actuellement la page",module,Magento_Theme
 "You're currently reading page","Vous lisez actuellement la page",module,Magento_Theme
 "You saved the theme.","Thème sauvegardé.",module,Magento_Theme

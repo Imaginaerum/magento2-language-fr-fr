@@ -323,6 +323,8 @@
 "We can't initialize checkout.","Nous ne pouvons pas initialiser la vérification.",module,Magento_Braintree
 "We can't initialize checkout review.","Nous ne pouvons pas initialiser l'examen de vérification.",module,Magento_Braintree
 "We can't place the order.","Passage de commande impossible.",module,Magento_Braintree
+"We can't place the order.","Passage de commande impossible.",module,Magento_Braintree
+"We can't update shipping method.","Nous ne pouvons pas mettre à jour la méthode d'expédition.",module,Magento_Braintree
 "We can't update shipping method.","Nous ne pouvons pas mettre à jour la méthode d'expédition.",module,Magento_Braintree
 "What is this?","Qu'est-ce que c'est?",module,Magento_Braintree
 "Year","Année",module,Magento_Braintree

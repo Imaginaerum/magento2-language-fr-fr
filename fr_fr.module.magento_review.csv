@@ -1,6 +1,7 @@
 "%1 Review(s)","%1 Avis",module,Magento_Review
 "%1 %2","%1 %2",module,Magento_Review
 "<a href=""%1"" onclick=""this.target='blank'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>","<a href=""%1"" onclick=""this.target='blank'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>",module,Magento_Review
+"<a href=""%1"" onclick=""this.target='blank'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>","<a href=""%1"" onclick=""this.target='blank'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>",module,Magento_Review
 "Action","Action",module,Magento_Review
 "Actions","Actions",module,Magento_Review
 "Active","Actif",module,Magento_Review
@@ -71,6 +72,7 @@
 "Please enter a review summary.","Veuillez renseigner un résumé pour votre avis.",module,Magento_Review
 "Please select review(s).","Sélectionnez au moins un commentaire.",module,Magento_Review
 "Please specify a rating title for a store, or we'll just use the default value.","Veuillez spécifier un titre d'évaluation pour un magasin, sinon, la valeur par défaut sera utilisée.",module,Magento_Review
+"Please specify a rating title for a store, or we'll just use the default value.","Veuillez spécifier un titre d'évaluation pour un magasin, sinon, la valeur par défaut sera utilisée.",module,Magento_Review
 "Posted By","Posté par",module,Magento_Review
 "Posted on","Soumis le",module,Magento_Review
 "Previous","Précédent",module,Magento_Review
@@ -88,7 +90,6 @@
 "Rating:","Évaluation:",module,Magento_Review
 "Rating","Évaluation",module,Magento_Review
 "Rating Information","Informations de notation",module,Magento_Review
-"Rating isn't Available","Les notations ne sont pas activées",module,Magento_Review
 "Rating isn't Available","Les notations ne sont pas activées",module,Magento_Review
 "Ratings","Évaluations",module,Magento_Review
 "Ratings Review Summary","Résumé des avis",module,Magento_Review
@@ -145,7 +146,6 @@
 "Write Your Own Review","Rédigez votre propre commentaire",module,Magento_Review
 "You deleted the rating.","Évaluation supprimée.",module,Magento_Review
 "You have submitted no reviews.","Vous n'avez posté aucun commentaire.",module,Magento_Review
-"You're reviewing:","Vous commentez:",module,Magento_Review
 "You're reviewing:","Vous commentez:",module,Magento_Review
 "Your Rating","Votre évaluation",module,Magento_Review
 "Your Rating:","Votre évaluation:",module,Magento_Review

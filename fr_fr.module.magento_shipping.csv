@@ -136,6 +136,7 @@
 "Size","Taille",module,Magento_Shipping
 "SKU","SKU",module,Magento_Shipping
 "Sorry, but we can't deliver to the destination country with this shipping module.","Désolé, impossible de livrer dans ce pays de destination avec ce module de livraison.",module,Magento_Shipping
+"Sorry, but we can't deliver to the destination country with this shipping module.","Désolé, impossible de livrer dans ce pays de destination avec ce module de livraison.",module,Magento_Shipping
 "Specific Countries","Certains Pays",module,Magento_Shipping
 "Status:","Statut:",module,Magento_Shipping
 "Street Address","Adresse",module,Magento_Shipping
@@ -169,6 +170,7 @@
 "Type","Type",module,Magento_Shipping
 "Use origin weight (few requests)","Utiliser le poids d'origine (peu de requêtes)",module,Magento_Shipping
 "USPS domestic shipments don't use package types.","Les expéditions USPS domestic n'utilisent pas ce type de colis.",module,Magento_Shipping
+"USPS domestic shipments don't use package types.","Les expéditions USPS domestic n'utilisent pas ce type de colis.",module,Magento_Shipping
 "View Another Order","Voir une Autre Commande",module,Magento_Shipping
 "We can't delete tracking number.","Impossible de supprimer le numéro de suivi.",module,Magento_Shipping
 "We can't initialize shipment for adding tracking number.","Impossible d'initialiser l'expédition pour l'ajout d'un numéro de suivi.",module,Magento_Shipping
@@ -176,10 +178,13 @@
 "We can't load track with retrieving identifier right now.","Impossible de charger le suivi avec l'identifiant.",module,Magento_Shipping
 "We can't save the shipment right now.","Impossible de sauvegarder l'expédition.",module,Magento_Shipping
 "We don't have enough information to create shipping labels. Please make sure your store information and settings are complete.","Il manque des informations pour créer des étiquettes d'expédition. Veuillez vérifier que vos informations de magasin et les paramètres sont complets.",module,Magento_Shipping
+"We don't have enough information to create shipping labels. Please make sure your store information and settings are complete.","Il manque des informations pour créer des étiquettes d'expédition. Veuillez vérifier que vos informations de magasin et les paramètres sont complets.",module,Magento_Shipping
+"We don't recognize or support the file extension in this shipment: %1.","L'extension du fichier n'est pas reconnue ou supportée pour l'expédition : %1.",module,Magento_Shipping
 "We don't recognize or support the file extension in this shipment: %1.","L'extension du fichier n'est pas reconnue ou supportée pour l'expédition : %1.",module,Magento_Shipping
 "Weight:","Poids:",module,Magento_Shipping
 "Weight","Poids",module,Magento_Shipping
 "Width","Largeur",module,Magento_Shipping
+"You are trying to add a quantity for some products that doesn't match the quantity that was shipped.","Vous essayez d'ajouter une quantité de produits qui ne correspond pas à la quantité qui a été expédiée.",module,Magento_Shipping
 "You are trying to add a quantity for some products that doesn't match the quantity that was shipped.","Vous essayez d'ajouter une quantité de produits qui ne correspond pas à la quantité qui a été expédiée.",module,Magento_Shipping
 "You created the shipping label.","Etiquette d'expédition créée.",module,Magento_Shipping
 "You sent the shipment.","Expédition envoyée.",module,Magento_Shipping

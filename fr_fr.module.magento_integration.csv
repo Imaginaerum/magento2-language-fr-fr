@@ -13,7 +13,6 @@
 "API","API",module,Magento_Integration
 "Are you sure ?","Êtes-vous sûr(e)?",module,Magento_Integration
 "Are you sure you want to delete this integration? You can't undo this action.","Êtes-vous sûr de vouloir supprimer cette intégration? Vous ne pouvez pas annuler cette action.",module,Magento_Integration
-"Are you sure you want to delete this integration? You can't undo this action.","Êtes-vous sûr de vouloir supprimer cette intégration? Vous ne pouvez pas annuler cette action.",module,Magento_Integration
 "A token with consumer ID 0 does not exist","La clé avec l'ID 0 n'existe pas",module,Magento_Integration
 "A token with consumer ID %1 does not exist","L'authentification avec l'API ID %1 n'existe pas",module,Magento_Integration
 "Available APIs","APIs Disponibles",module,Magento_Integration
@@ -32,6 +31,7 @@
 "Consumer key/secret will expire if not used within X seconds after Oauth token exchange starts.","La clé key/secret expirera si elle n'est pas utilisée X secondes âpres le début de l'echange de jeton Oauth.",module,Magento_Integration
 "Consumer Secret","Mot de passe API",module,Magento_Integration
 "Consumer Settings","Paramètres Utilisateur",module,Magento_Integration
+"Consumer with ID '%1' does not exist.","L'authentification avec ID '%1' n'existe pas.",module,Magento_Integration
 "Consumer with ID '%1' does not exist.","L'authentification avec ID '%1' n'existe pas.",module,Magento_Integration
 "Custom","Personnalisé",module,Magento_Integration
 "Done","Terminé",module,Magento_Integration
@@ -58,7 +58,9 @@
 "Integrations Configuration","Configuration des Intégrations",module,Magento_Integration
 "Integration Tokens for Extensions","Clé d'intégration pour les extensions",module,Magento_Integration
 "Integration with ID '%1' does not exist.","Intégration avec l'ID '%1' n'existe pas.",module,Magento_Integration
+"Integration with ID '%1' does not exist.","Intégration avec l'ID '%1' n'existe pas.",module,Magento_Integration
 "Integration with ID '%1' doesn't exist.","Intégration avec l'ID '%1' n'existe pas.",module,Magento_Integration
+"Integration with name '%1' exists.","Intégration avec le nom '%1' existe.",module,Magento_Integration
 "Integration with name '%1' exists.","Intégration avec le nom '%1' existe.",module,Magento_Integration
 "Internal error. Check exception log for details.","Erreur interne. Vérifiez le journal d'exception pour plus de détails.",module,Magento_Integration
 "Invalid Callback URL","URL de rappel invalide",module,Magento_Integration
@@ -90,6 +92,7 @@
 "The integration '%1' has been activated.","L'intégration '%1' a été activée.",module,Magento_Integration
 "The integration '%1' has been deleted.","L'intégration '%1' a été supprimé.",module,Magento_Integration
 "The integration '%1' has been re-authorized.","L'intégration '%1' a été réautorisé.",module,Magento_Integration
+"The integration '%1' has been saved.","L'intégration '%1' a été sauvegardé.",module,Magento_Integration
 "The integration '%1' has been saved.","L'intégration '%1' a été sauvegardé.",module,Magento_Integration
 "The integration was not saved.","L'intégration n'a pas été sauvegardée.",module,Magento_Integration
 "The integration you selected asks you to approve access to the following:","L'intégration sélectionnée nécessite d'approuver l'accès à ce qui suit:",module,Magento_Integration

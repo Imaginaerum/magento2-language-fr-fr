@@ -83,13 +83,9 @@
 "Cannot create an invoice without products.","Impossible de créer une facture sans produits.",module,Magento_Sales
 "Cannot create credit memo for the order.","Impossible de créer un avoir pour la commande.",module,Magento_Sales
 "Cannot create online refund for Refund to Store Credit.","Impossible de créer un remboursement en ligne pour un remboursement par crédit.",module,Magento_Sales
-"Cannot save comment:
-%1","Impossible de sauvegarder le commentaire :
-%1",module,Magento_Sales
+"Cannot save comment:n%1","Sauvegarde commentaire impossible:n%1",module,Magento_Sales
 "Cannot save the credit memo.","Impossible de sauvegarder l'avoir.",module,Magento_Sales
-"Cannot save track:
-%1","Impossible de sauvegarder le numéro de suivi :
-%1",module,Magento_Sales
+"Cannot save track:n%1","Sauvegarde suivi impossible:n%1",module,Magento_Sales
 "Cannot unassign status from state","Impossible de désassigner le statut de l'état",module,Magento_Sales
 "Cannot update item quantity.","Impossible de mettre à jour la quantité de l'article.",module,Magento_Sales
 "Cannot update the item's quantity.","Impossible de mettre à jour la quantité de l'article.",module,Magento_Sales
@@ -167,6 +163,7 @@
 "Customer Name","Nom du client",module,Magento_Sales
 "%customer_name,","%customer_name,",module,Magento_Sales
 "Customer Order Status Notification","Notification de statut de commande client",module,Magento_Sales
+"Customer's Activities","Activités client",module,Magento_Sales
 "Customer's Activities","Activités client",module,Magento_Sales
 "Custom Price","Prix personnalisé",module,Magento_Sales
 "Dashboard","Tableau de bord",module,Magento_Sales
@@ -587,6 +584,7 @@
 "State/Province","État/Province",module,Magento_Sales
 "Status","Statut",module,Magento_Sales
 "Status can't be unassigned, because it is used by existing order(s).","Le statut ne peut pas être retiré car il est utiilsé par des commandes existantes.",module,Magento_Sales
+"Status can't be unassigned, because it is used by existing order(s).","Le statut ne peut pas être retiré car il est utiilsé par des commandes existantes.",module,Magento_Sales
 "Status Code","Code du statut",module,Magento_Sales
 "Status Label","Libellé du statut",module,Magento_Sales
 "Store View Specific Labels","Libellés spécifiques par vue magasin",module,Magento_Sales
@@ -631,6 +629,7 @@
 "The invoice has been voided.","La facture a été invalidée.",module,Magento_Sales
 "The invoice no longer exists.","La facture n'existe plus.",module,Magento_Sales
 "The invoice will be created offline without the payment gateway.","La facture a été créée hors ligne sans la passerelle de paiement.",module,Magento_Sales
+"The last status can't be unassigned from its current state.","Le dernier statut ne peut pas être retiré de son état actuel.",module,Magento_Sales
 "The last status can't be unassigned from its current state.","Le dernier statut ne peut pas être retiré de son état actuel.",module,Magento_Sales
 "The most money available to refund is %1.","Le remboursement maximal est de %1.",module,Magento_Sales
 "The order amount of %1 is pending approval on the payment gateway.","Le montant de la commande de %1 est en attente d'approbation de la passerelle de paiement.",module,Magento_Sales
@@ -716,6 +715,7 @@
 "Update Items and Qty's","Mettre à jour les articles et quantités",module,Magento_Sales
 "Update Items and Quantities","Mettre à jour les articles et les quantités",module,Magento_Sales
 "Update Qty's","Mettre à jour les quantités",module,Magento_Sales
+"Update Qty's","Mettre à jour les quantités",module,Magento_Sales
 "Use Aggregated Data (beta)","Utiliser les données agrégées (beta)",module,Magento_Sales
 "Use Order Status As Default","Utiliser ce statut comme valeur par défaut",module,Magento_Sales
 "Validate Each Address Separately in Multi-address Checkout","Valider séparément les adresses lors de commandes multi-adresses",module,Magento_Sales
@@ -750,6 +750,7 @@
 "We can't add this item to your shopping cart right now.","Impossible d'ajouter ce produit au panier.",module,Magento_Sales
 "We can't create credit memo for the order.","Impossible de créer l'avoir pour la commande.",module,Magento_Sales
 "We can't find this order status.","Impossible de trouver ce statut de commande.",module,Magento_Sales
+"We can't find this order status.","Impossible de trouver ce statut de commande.",module,Magento_Sales
 "We can't find this wish list.","Impossible de trouver cette liste d'envies.",module,Magento_Sales
 "We can't get the order instance right now.","Impossible de récupérer l'instance de la commande.",module,Magento_Sales
 "We can't save the address:n%1","Impossible de sauvegarder l'adresse:n%1",module,Magento_Sales
@@ -765,6 +766,8 @@
 "We can't update the order address right now.","Impossible de mettre à jour l'adresse de la commande.",module,Magento_Sales
 "We can't update the payment right now.","Impossible de mettre à jour le paiement.",module,Magento_Sales
 "We can't update the transaction details.","Impossible de mettre à jour les détails de la transaction.",module,Magento_Sales
+"We can't update the transaction details.","Impossible de mettre à jour les détails de la transaction.",module,Magento_Sales
+"We can't void the credit memo.","Impossible d'annuler l'avoir.",module,Magento_Sales
 "We can't void the credit memo.","Impossible d'annuler l'avoir.",module,Magento_Sales
 "We can't void the payment right now.","Impossible d'annuler le paiement.",module,Magento_Sales
 "We could not add a product to cart by the ID ""%1"".","Impossible d'ajouter le produit avec l'ID ""%1"" au panier.",module,Magento_Sales
@@ -774,6 +777,8 @@
 "We couldn't update the payment.","Nous ne pouvons pas mettre à jour le paiement.",module,Magento_Sales
 "We couldn't void the payment.","Impossible d'annuler le paiement.",module,Magento_Sales
 "We don't have enough information to save the parent transaction ID.","Nous n'avons pas assez d'information pour sauvegarder l'identifiant de transaction parent.",module,Magento_Sales
+"We don't have enough information to save the parent transaction ID.","Nous n'avons pas assez d'information pour sauvegarder l'identifiant de transaction parent.",module,Magento_Sales
+"We don't recognize the draw line data. Please define the ""lines"" array.","Ligne non reconnue. Veuillez définir un jeu de lignes.",module,Magento_Sales
 "We don't recognize the draw line data. Please define the ""lines"" array.","Ligne non reconnue. Veuillez définir un jeu de lignes.",module,Magento_Sales
 "We found an invalid entity model.","Modèle d'entité invalide.",module,Magento_Sales
 "We found an invalid qty to ship for item ""%1"".","Quantité livraison invalide pour l'article ""%1"".",module,Magento_Sales
@@ -801,11 +806,14 @@
 "You cannot remove the hold.","Impossible de débloquer.",module,Magento_Sales
 "You can't create an invoice without products.","Impossible de créer une facture sans produit.",module,Magento_Sales
 "You can't do this without a transaction object.","Opération impossible sans un objet transaction.",module,Magento_Sales
+"You can't do this without a transaction object.","Opération impossible sans un objet transaction.",module,Magento_Sales
 "You created the credit memo.","Avoir créé.",module,Magento_Sales
 "You created the invoice and shipment.","La facture et l'expédition ont été créés.",module,Magento_Sales
 "You created the order.","La commande a été créée.",module,Magento_Sales
 "You did not email your customer. Please check your email settings.","L'email client n'a pas été envoyé. Veuillez vérifier les paramètres des emails.",module,Magento_Sales
 "You don't need to select a shipping address.","Il n'est pas nécessaire de sélectionner une adresse de livraison.",module,Magento_Sales
+"You don't need to select a shipping address.","Il n'est pas nécessaire de sélectionner une adresse de livraison.",module,Magento_Sales
+"You don't need to select a shipping method.","Il n'est pas nécessaire de sélectionner une méthode de livraison.",module,Magento_Sales
 "You don't need to select a shipping method.","Il n'est pas nécessaire de sélectionner une méthode de livraison.",module,Magento_Sales
 "You entered incorrect data. Please try again.","Données saisies incorrectes. Veuillez essayer à nouveau.",module,Magento_Sales
 "You have assigned the order status.","Statut commande assigné",module,Magento_Sales

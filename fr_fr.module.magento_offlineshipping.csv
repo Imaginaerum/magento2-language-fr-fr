@@ -46,6 +46,7 @@
 "Title","Titre",module,Magento_OfflineShipping
 "Type","Type",module,Magento_OfflineShipping
 "We couldn't import this file because of these errors: %1","Impossible d'importer ce fichier à cause des erreurs suivantes: %1",module,Magento_OfflineShipping
+"We couldn't import this file because of these errors: %1","Impossible d'importer ce fichier à cause des erreurs suivantes: %1",module,Magento_OfflineShipping
 "Weight (and above)","Poids (et au-delà)",module,Magento_OfflineShipping
 "Weight vs. Destination","Poids par destination",module,Magento_OfflineShipping
 "Zip/Postal Code","Code postal",module,Magento_OfflineShipping
