@@ -6,7 +6,7 @@
 "%1 order(s) have been released from on hold status.","%1 commandes ont bien été débloquées.",module,Magento_Sales
 "%1 order(s) were not put on hold.","%1 commandes n'ont pas été bloquées.",module,Magento_Sales
 "%1 order(s) were not released from on hold status.","%1 commandes n'ont pas été bloquées.",module,Magento_Sales
-"%1 with %2 discount each","%1 avec %2 de reduction chacun",module,Magento_Sales
+"%1 with %2 discount each","%1 avec %2 de réduction chacun",module,Magento_Sales
 "%1 / %2 rate:","Taux %1 / %2:",module,Magento_Sales
 "About Your Invoice","À propos de votre facture",module,Magento_Sales
 "About Your Order","À propos de votre commande",module,Magento_Sales
