@@ -2,7 +2,7 @@
 "%1 (Default)","%1 (Défaut)",module,Magento_Config
 ".",".",module,Magento_Config
 "Add","Ajouter",module,Magento_Config
-"Add after","Ajoutez après",module,Magento_Config
+"Add after","Ajouter après",module,Magento_Config
 "Add Exception","Ajouter une exception",module,Magento_Config
 "Always (during development)","Toujours (pendant le developpement)",module,Magento_Config
 "Base currency","Devise de base",module,Magento_Config
