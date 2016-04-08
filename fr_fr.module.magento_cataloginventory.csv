@@ -1,6 +1,6 @@
 "%1 is available for purchase in increments of %2","%1 doit être acheté par multiple de %2",module,Magento_CatalogInventory
 "%1 is available to buy in increments of %2","%1 doit être acheté par multiple de %2",module,Magento_CatalogInventory
-"%1 is not a correct comparison method.","%1 n'est pas une méthode de comparaison correct.",module,Magento_CatalogInventory
+"%1 is not a correct comparison method.","%1 n'est pas une méthode de comparaison correcte.",module,Magento_CatalogInventory
 "Add Minimum Qty","Ajouter une quantité mini",module,Magento_CatalogInventory
 "ALL GROUPS","TOUS LES GROUPES",module,Magento_CatalogInventory
 "Allow Qty Below 0","Autoriser les quantités négatives",module,Magento_CatalogInventory
