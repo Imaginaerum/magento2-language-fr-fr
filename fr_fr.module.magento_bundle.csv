@@ -9,7 +9,7 @@
 "Availability","Disponibilité",module,Magento_Bundle
 "Bundle Items","Articles packagés",module,Magento_Bundle
 "Bundle product could not contain another composite product","Un produit packagé ne peut pas contenir un autre produit composite",module,Magento_Bundle
-"Buy %1 with %2 discount each","Achetez-en %1 et profitez d'une remise de %2 par produit",module,Magento_Bundle
+"Buy %1 with %2 discount each","%1 avec %2 de réduction chacun",module,Magento_Bundle
 "Cancel","Annuler",module,Magento_Bundle
 "Canceled","Annulée",module,Magento_Bundle
 "Cannot delete option with id %1","Impossible de supprimer l'option ID %1",module,Magento_Bundle
