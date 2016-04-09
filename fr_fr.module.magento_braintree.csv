@@ -6,7 +6,7 @@
 "Add Credit Card","Ajouter une carte bancaire",module,Magento_Braintree
 "Add new card","Ajouter nouvelle carte",module,Magento_Braintree
 "Address","Adresse",module,Magento_Braintree
-"Address must have at least one field fill in.","Le premier champs adresse doit être rempli.",module,Magento_Braintree
+"Address must have at least one field fill in.","Le premier champ adresse doit être rempli.",module,Magento_Braintree
 "Add Rule","Ajouter un règle",module,Magento_Braintree
 "Advanced Braintree Settings","Paramètres avancés Braintree",module,Magento_Braintree
 "Advanced Fraud Protection","Protection contre les fraudes avancée",module,Magento_Braintree
