@@ -65,7 +65,7 @@
 "Channel is too long","Chaîne trop longue",module,Magento_Braintree
 "Check card details or try another card","Veuillez vérifier la carte ou en essayer une autre",module,Magento_Braintree
 "City","Ville",module,Magento_Braintree
-"<a href=""https://www.braintreegateway.com/login"" target=""_blank"">Click here to login to your existing Braintree account</a>. Or to setup a new account and accept payments on your website, <a href=""https://apply.braintreegateway.com/signup/us"" target=""_blank"">click here to signup for a Braintree account</a>.","<a href=""https://www.braintreegateway.com/login"" target=""_blank"">Cliquez ici pour vous connecter à cotre compte Braintree</a>. Pour créer un compte Braintree, <a href=""https://apply.braintreegateway.com/signup/us"" target=""_blank"">cliquez ici</a>.",module,Magento_Braintree
+"<a href=""https://www.braintreegateway.com/login"" target=""_blank"">Click here to login to your existing Braintree account</a>. Or to setup a new account and accept payments on your website, <a href=""https://apply.braintreegateway.com/signup/us"" target=""_blank"">click here to signup for a Braintree account</a>.","<a href=""https://www.braintreegateway.com/login"" target=""_blank"">Cliquez ici pour vous connecter à votre compte Braintree</a>. Pour créer un compte Braintree, <a href=""https://apply.braintreegateway.com/signup/us"" target=""_blank"">cliquez ici</a>.",module,Magento_Braintree
 "Client Side Encryption Key","Clé de chiffrement côté client",module,Magento_Braintree
 "Company","Société",module,Magento_Braintree
 "Company is invalid","Nom de la société invalide",module,Magento_Braintree
