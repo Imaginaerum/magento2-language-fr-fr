@@ -9,7 +9,7 @@
 "Address must have at least one field fill in.","Le premier champ adresse doit être rempli.",module,Magento_Braintree
 "Add Rule","Ajouter un règle",module,Magento_Braintree
 "Advanced Braintree Settings","Paramètres avancés Braintree",module,Magento_Braintree
-"Advanced Fraud Protection","Protection contre les fraudes avancée",module,Magento_Braintree
+"Advanced Fraud Protection","Protection avancée contre les fraudes",module,Magento_Braintree
 "Allow Duplicate Cards","Autoriser la duplication de cartes",module,Magento_Braintree
 "Allowed Credit Card Types","Types de cartes de crédit autorisées",module,Magento_Braintree
 "Allow to Edit Shipping Address Entered During Checkout on PayPal Side","Permet la modification de l'adresse de livraison saisie pendant le paiement du côté de PayPal",module,Magento_Braintree
