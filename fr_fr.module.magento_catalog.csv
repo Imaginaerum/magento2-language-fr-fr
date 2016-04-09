@@ -146,7 +146,7 @@
 "Catalog Price Scope","Portée des prix catalogue",module,Magento_Catalog
 "Catalog Product Link","Lien produit catalogue",module,Magento_Catalog
 "Catalog, Search","Catalogue, Recherche",module,Magento_Catalog
-"Categories","Categories",module,Magento_Catalog
+"Categories","Catégories",module,Magento_Catalog
 "Category","Catégorie",module,Magento_Catalog
 "Category Data","Données de catégorie",module,Magento_Catalog
 "Category does not contain specified product","La catégorie ne contient pas le produit demandé",module,Magento_Catalog
