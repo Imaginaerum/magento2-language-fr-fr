@@ -98,7 +98,7 @@
 "Cart Price Rule","Règle de prix panier",module,Magento_Sales
 "Changing address information will not recalculate shipping, tax or other order amount.","Changer les informations de l'adresse ne recalculera pas les frais de port, les taxes ou les autres montants de la commande.",module,Magento_Sales
 "Checkout Totals Sort Order","Ordre de tri des totaux de commande",module,Magento_Sales
-"Child Transactions","Transactions filles",module,Magento_Sales
+"Child Transactions","Transactions enfant",module,Magento_Sales
 "Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.","Choisissez si l'adresse IP du client est affichée sur les commandes, factures, livraisons, et avoirs.",module,Magento_Sales
 "City","Ville",module,Magento_Sales
 "Clear Shopping Cart","Vider le panier",module,Magento_Sales
