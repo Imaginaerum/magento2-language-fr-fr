@@ -359,9 +359,9 @@
 "Order Credit Memos","Avoirs de la commande",module,Magento_Sales
 "Order Currency:","Devise de la commande:",module,Magento_Sales
 "Order Date (%1)","Date de commande (%1)",module,Magento_Sales
-"<span class=""label"">Order Date:</span> %1","<span class=""label"">Date de commande:</span> %1",module,Magento_Sales
-"Order Date: %1","Date de commande: %1",module,Magento_Sales
-"Order Date: ","Date de commande: ",module,Magento_Sales
+"<span class=""label"">Order Date:</span> %1","<span class=""label"">Date de commande :</span> %1",module,Magento_Sales
+"Order Date: %1","Date de commande : %1",module,Magento_Sales
+"Order Date: ","Date de commande : ",module,Magento_Sales
 "Order Date","Date de commande",module,Magento_Sales
 "Ordered","Commandé",module,Magento_Sales
 "Ordered amount of %1","Montant commandé de %1",module,Magento_Sales
