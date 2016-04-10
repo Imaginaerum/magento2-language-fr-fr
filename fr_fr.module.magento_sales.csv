@@ -357,7 +357,7 @@
 "Order Comment Email Template for Guest","Gabarit de mail de commentaire de commande pour un invité",module,Magento_Sales
 "Order Comments","Commentaires de commande",module,Magento_Sales
 "Order Credit Memos","Avoirs de la commande",module,Magento_Sales
-"Order Currency:","Devise de la commande:",module,Magento_Sales
+"Order Currency:","Devise de la commande :",module,Magento_Sales
 "Order Date (%1)","Date de commande (%1)",module,Magento_Sales
 "<span class=""label"">Order Date:</span> %1","<span class=""label"">Date de commande :</span> %1",module,Magento_Sales
 "Order Date: %1","Date de commande : %1",module,Magento_Sales
