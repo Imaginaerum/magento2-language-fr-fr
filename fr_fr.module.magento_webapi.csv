@@ -32,7 +32,7 @@
 "Resource Access","Accès aux ressources",module,Magento_Webapi
 "Resources","Ressources",module,Magento_Webapi
 "REST and SOAP configurations, generated WSDL file.","Configurations REST et SOAP, fichier WSDL généré.",module,Magento_Webapi
-"Server cannot match any of the given Accept HTTP header media type(s) from the request: %1 with media types from the config of response renderer.""","Le serveur ne peut trouver un Accept HTTP header media type(s) pour la requête: %1 avec un type de média provenant de la configuration renderer.",module,Magento_Webapi
+"Server cannot match any of the given Accept HTTP header media type(s) from the request: %1 with media types from the config of response renderer.""","Le serveur ne peut trouver un Accept HTTP header media type(s) pour la requête: %1 avec un type de média provenant de la configuration renderer",module,Magento_Webapi
 "Server internal error. See details in report api/%1","Erreur serveur interne. Voir les détails dans le rapport api/%1",module,Magento_Webapi
 "SOAP extension is not loaded.","L'extension SOAP n'est pas chargée.",module,Magento_Webapi
 "SOAP Settings","Paramètres SOAP",module,Magento_Webapi

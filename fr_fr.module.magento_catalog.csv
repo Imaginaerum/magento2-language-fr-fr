@@ -682,7 +682,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "The configuration item option instance in options group is incorrect.","L'instance de l'option d'élément de configuration dans le groupe d'options est incorrecte.",module,Magento_Catalog
 "The field isn't complete.","Champ incomplet.",module,Magento_Catalog
 "The file '%1' for '%2' has an invalid extension.","Le fichier '%1' pour '%2' a une extension invalide.",module,Magento_Catalog
-"The file '%1' is empty. Please choose another one","Fichier ""%1"" vide. Veuillez en choisir un autre.",module,Magento_Catalog
+"The file '%1' is empty. Please choose another one","Fichier ""%1"" vide. Veuillez en choisir un autre",module,Magento_Catalog
 "The file '%1' is invalid. Please choose another one","Fichier ""%1"" invalide. Veuillez en choisir un autre",module,Magento_Catalog
 "The file '%1' you uploaded is larger than the %2 megabytes allowed by our server.","Le fichier ""%1"" que vous avez téléchargé est plus grand que les %2 mégaoctets permises par notre serveur.",module,Magento_Catalog
 "The file is empty. Please choose another one","Fichier vide. Veuillez en choisir un autre.",module,Magento_Catalog

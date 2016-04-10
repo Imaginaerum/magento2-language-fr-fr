@@ -248,12 +248,12 @@
 "Service fee amount format is invalid","Montant des frais de service invalide",module,Magento_Braintree
 "Service fee amount is too large","Montant des frais de service trop important",module,Magento_Braintree
 "Service fee amount not allowed on master merchant account","Les frais de service ne sont pas autorisés sur un compte marchand maître",module,Magento_Braintree
-"Service fee is not allowed on credits","Les frais de service ne sont pas autorisés sur les crédits.",module,Magento_Braintree
+"Service fee is not allowed on credits","Les frais de service ne sont pas autorisés sur les crédits",module,Magento_Braintree
 "Settlement amount cannot be more than the authorized amount.","Le montant de l'entente ne peut être supérieur au montant autorisé.",module,Magento_Braintree
 "Settlement amount is less than service fee amount","Le montant de l'entente est inférieur au montant des frais",module,Magento_Braintree
 "Shipment","Expédition",module,Magento_Braintree
 "some error","Une erreur",module,Magento_Braintree
-"Some of results will be cached to improve performance. Magento cache have to be enabled","Certains résultats peuvent être mis en cache pour améliorer les performances. Le cache Magento doit être activé.",module,Magento_Braintree
+"Some of results will be cached to improve performance. Magento cache have to be enabled","Certains résultats peuvent être mis en cache pour améliorer les performances. Le cache Magento doit être activé",module,Magento_Braintree
 "Something went wrong while processing.","Une erreur s'est produite lors du traitement.",module,Magento_Braintree
 "Something went wrong while saving the card.","Une erreur s'est produite lors de l'enregistrement de la carte.",module,Magento_Braintree
 "Some transactions are already settled or voided and cannot be voided.","Certaines transactions sont déjà remboursées ou annulées et ne peuvent être annulées.",module,Magento_Braintree

@@ -102,7 +102,7 @@
 "Please enter a correct entity model.","Veuillez entrer un modèle d'entité correcte.",module,Magento_ImportExport
 "Please enter a correct entity model","Veuillez entrer un modèle d'entité correcte",module,Magento_ImportExport
 "Please fix errors and re-upload file.","Veuillez corriger les erreur et renvoyer le fichier.",module,Magento_ImportExport
-"Please fix errors and re-upload file or simply press ""Import"" button' ' to skip rows with errors","Veuillez corriger les erreurs et renvoyer le fichier ou cliquez sur le bouton ""import"" pour ignorer les lignes avec des erreurs.",module,Magento_ImportExport
+"Please fix errors and re-upload file or simply press ""Import"" button' ' to skip rows with errors","Veuillez corriger les erreurs et renvoyer le fichier ou cliquez sur le bouton ""import"" pour ignorer les lignes avec des erreurs",module,Magento_ImportExport
 "Please provide filter data.","Veuillez fournir des données de filtrage.",module,Magento_ImportExport
 "-- Please Select --","-- Faire un Choix --",module,Magento_ImportExport
 "Please specify a source.","Veuillez spécifier une source.",module,Magento_ImportExport

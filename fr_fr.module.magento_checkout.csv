@@ -174,7 +174,7 @@
 "Shipping Method:","Méthode de Livraison:",module,Magento_Checkout
 "Shipping method has not been selected yet","Le mode de livraison n'a pas encore été choisi",module,Magento_Checkout
 "Shipping method is not applicable for empty cart","La méthode d'expédition n'est pas applicable à un panier vide",module,Magento_Checkout
-"Ship To:","Livré à",module,Magento_Checkout
+"Ship To:","Livré à:",module,Magento_Checkout
 "Ship to different address","Livrer à une autre adresse",module,Magento_Checkout
 "Ship to this address","Livrer à cette adresse",module,Magento_Checkout
 "Shopping Cart","Panier",module,Magento_Checkout
@@ -186,7 +186,7 @@
 "Sorry, guest checkout is not available.","Désolé, le passage de commande des invités n'est pas disponible.",module,Magento_Checkout
 "Sorry, guest checkout is not enabled.","Les commandes invités sont désactivées.",module,Magento_Checkout
 "Sorry, no quotes are available for this order at this time.","Aucun mode de livraison n'est disponible pour votre adresse.",module,Magento_Checkout
-"Sorry, no quotes are available for this order at this time","Aucun mode de livraison n'est disponible pour votre adresse.",module,Magento_Checkout
+"Sorry, no quotes are available for this order at this time","Aucun mode de livraison n'est disponible pour votre adresse",module,Magento_Checkout
 "State/Province","État/Province",module,Magento_Checkout
 "Street Address %1","Rue - Voie - Bât. %1",module,Magento_Checkout
 "Street Address","Adresse",module,Magento_Checkout
@@ -225,7 +225,7 @@
 "View Details","Voir les détails",module,Magento_Checkout
 "We adjusted product quantities to fit the required increments.","Nous avons ajusté les quantités de produits pour adapter les incréments nécessaires.",module,Magento_Checkout
 "We are not able to ship to the selected shipping address. Please choose another address or edit the current address.","Impossible de livrer à l'adresse sélectionnée. Veuillez choisir une autre adresse ou éditer l'adresse choisie.",module,Magento_Checkout
-"We cannot add this item to your shopping cart","Impossible d'ajouter cet article dans le panier.",module,Magento_Checkout
+"We cannot add this item to your shopping cart","Impossible d'ajouter cet article dans le panier",module,Magento_Checkout
 "We cannot apply the coupon code.","Nous ne pouvons pas appliquer le code promo.",module,Magento_Checkout
 "We cannot configure the product.","Nous ne pouvons pas configurer le produit.",module,Magento_Checkout
 "We cannot remove the item.","Impossible de supprimer cet article.",module,Magento_Checkout

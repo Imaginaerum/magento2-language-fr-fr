@@ -499,7 +499,7 @@
 "The title that goes before name (Mr., Mrs., etc.)","Le préfixe Vient avant le nom (Mr, Mme, etc.)",module,Magento_Customer
 "The VAT ID entered (%1) is not a valid VAT ID.","Le numéro de TVA (%1) n'est pas un numéro de TVA valide.",module,Magento_Customer
 "The VAT ID entered (%s) is not a valid VAT ID.","Le numéro de TVA saisi (%s) n'est pas un numéro de TVA valide.",module,Magento_Customer
-"The VAT ID entered (%s) is not a valid VAT ID. ' 'The customer would belong to Customer Group %s.","Taux de TVA saisi (%1) invalide. Le client doit appartenir au groupe clients %s.",module,Magento_Customer
+"The VAT ID entered (%s) is not a valid VAT ID. ' 'The customer would belong to Customer Group %s.","Taux de TVA saisi (%s) invalide. Le client doit appartenir au groupe clients %s.",module,Magento_Customer
 "The VAT ID is valid.","Le numéro de TVA est valide.",module,Magento_Customer
 "The VAT ID is valid but no Customer Group is assigned for it.","Le numéro de TVA est valide, mais le client n'est pas dans un groupe client qui devrait lui être attribué.",module,Magento_Customer
 "The VAT ID is valid. The current Customer Group will be used.","Le numéro de TVA est valide. Le groupe Client en cours sera utilisé.",module,Magento_Customer
