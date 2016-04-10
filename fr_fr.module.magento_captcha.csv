@@ -3,7 +3,7 @@
 "<strong>Attention</strong>: Captcha is case sensitive.","<strong>Attention</strong>: le captcha est sensible à la casse.",module,Magento_Captcha
 "Attention: Captcha is case sensitive.","Attention: le Captcha est sensible à la casse.",module,Magento_Captcha
 "CAPTCHA","CAPTCHA",module,Magento_Captcha
-"CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","Le CAPTCHA sera toujours activé sur les formulaires ""Créer un utilisateur"" et ""Mot de passe perdu"" si il est activé.",module,Magento_Captcha
+"CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","Le CAPTCHA sera toujours activé sur les formulaires ""Créer un utilisateur"" et ""Mot de passe perdu"" s'il est activé.",module,Magento_Captcha
 "CAPTCHA Timeout (minutes)","Délai d'attente du CAPTCHA (minutes)",module,Magento_Captcha
 "Case Sensitive","Sensible à la casse",module,Magento_Captcha
 "Displaying Mode","Mode d'affichage",module,Magento_Captcha
