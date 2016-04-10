@@ -6,7 +6,7 @@
 "Enabled","Activé",module,Magento_OfflineShipping
 "Export","Exporter",module,Magento_OfflineShipping
 "Export CSV","Export CSV",module,Magento_OfflineShipping
-"Field ","Champs ",module,Magento_OfflineShipping
+"Field ","Champ ",module,Magento_OfflineShipping
 "Flat Rate","Tarif unique",module,Magento_OfflineShipping
 "For matching items only","Pour les objets concordants seulement",module,Magento_OfflineShipping
 "For shipment with matching items","Pour les expéditions avec articles concordants",module,Magento_OfflineShipping

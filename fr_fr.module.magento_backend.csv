@@ -375,11 +375,11 @@
 "Please enter a valid URL (for example, the URL must begin with ""http://"").","Veuillez saisir une URL valide (doit commencer par ""http://"").",module,Magento_Backend
 "Please enter a valid zip code.","Veuillez saisir un code postal valide.",module,Magento_Backend
 "Please enter a valid zip code (for example, 90602 or 90602-1234).","Veuillez saisir un code postal valide. Par exemple 92100.",module,Magento_Backend
-"Please enter only letters (a-z) into this field.","Veuillez saisir uniquement des lettres (a-z) dans ce champs.",module,Magento_Backend
-"Please enter only letters (a-z), numbers (0-9), spaces and the ""#"" character into this field.","Veuillez saisir uniquement des lettres (a-z), nombres (0-9), espaces et ""#"" dans ce champs.",module,Magento_Backend
-"Please enter only numbers (0-9) or letters (a-z) into this field.","Veuillez saisir uniquement nombres (0-9) ou des lettres (a-z) dans ce champs.",module,Magento_Backend
-"Please enter only numbers (1-9) into this field. Do not use spaces, commas, or any other characters.","Veuillez saisir uniquement nombres (1-9) dans ce champs. N'utilisez pas d'espaces, virgules ou tout autre caractères.",module,Magento_Backend
-"Please enter only numbers or letters into this field. Do not use spaces, commas, or any other characters.","Veuillez saisir uniquement nombres ou des lettres dans ce champs. N'utilisez pas d'espaces, virgules ou tout autre caractères.",module,Magento_Backend
+"Please enter only letters (a-z) into this field.","Veuillez saisir uniquement des lettres (a-z) dans ce champ.",module,Magento_Backend
+"Please enter only letters (a-z), numbers (0-9), spaces and the ""#"" character into this field.","Veuillez saisir uniquement des lettres (a-z), nombres (0-9), espaces et ""#"" dans ce champ.",module,Magento_Backend
+"Please enter only numbers (0-9) or letters (a-z) into this field.","Veuillez saisir uniquement nombres (0-9) ou des lettres (a-z) dans ce champ.",module,Magento_Backend
+"Please enter only numbers (1-9) into this field. Do not use spaces, commas, or any other characters.","Veuillez saisir uniquement nombres (1-9) dans ce champ. N'utilisez pas d'espaces, virgules ou tout autre caractères.",module,Magento_Backend
+"Please enter only numbers or letters into this field. Do not use spaces, commas, or any other characters.","Veuillez saisir uniquement nombres ou des lettres dans ce champ. N'utilisez pas d'espaces, virgules ou tout autre caractères.",module,Magento_Backend
 "Please make sure that all global admin search modules are installed and activated.","Vérifiez que tous les modules admin de recherche sont installés et activés.",module,Magento_Backend
 "Please make sure your passwords match.","Vérifiez que vos mots de passe concordent.",module,Magento_Backend
 "-- Please Select --","-- Faire un Choix --",module,Magento_Backend

@@ -71,7 +71,7 @@
 "Selected","sélectionné",module,Magento_Ui
 "Select Items","Choisir",module,Magento_Ui
 "Something went wrong.","Une erreur s'est produite",module,Magento_Ui
-"The configuration parameter ""formElement"" is a required for ""%1"" field.","Le paramètre de configuration ""formElement"" est requis pour le champs ""%1""",module,Magento_Ui
+"The configuration parameter ""formElement"" is a required for ""%1"" field.","Le paramètre de configuration ""formElement"" est requis pour le champ ""%1"".",module,Magento_Ui
 "The specified vehicle identification number (VIN) is invalid.","Le numéro d'identification de véhicule (NIV) fourni est invalide.",module,Magento_Ui
 "ui/grid/filters/elements/select","ui/grid/filters/elements/select",module,Magento_Ui
 "Unsupported bookmark action.","Action de vue non supportée.",module,Magento_Ui

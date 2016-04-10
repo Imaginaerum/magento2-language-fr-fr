@@ -99,7 +99,7 @@
 "Order Total Excl. Tax","Total de la commande HT",module,Magento_Tax
 "Order Total Incl. Tax","Total de la commade TTC",module,Magento_Tax
 "Original price only","Prix original seulement",module,Magento_Tax
-"Please fill all required fields with valid information.","Veuillez remplir les champs requis avec des données valides",module,Magento_Tax
+"Please fill all required fields with valid information.","Veuillez remplir les champs requis avec des données valides.",module,Magento_Tax
 "Please see <a href=""%1"">documentation</a> for more details. ","Veuillez consulter <a href=""%1"">la documentation</a> pour plus de détails. ",module,Magento_Tax
 "Price Display Settings","Paramètres d'affichage du prix",module,Magento_Tax
 "Priority","Priorité",module,Magento_Tax

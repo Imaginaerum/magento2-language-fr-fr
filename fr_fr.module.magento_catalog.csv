@@ -282,7 +282,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "ex. http://domain.com","Par ex: http://domaine.com",module,Magento_Catalog
 "Expand All","Tout Développer",module,Magento_Catalog
 "Failed to save new media gallery entry.","Échec de l'enregistrement de  la galerie.",module,Magento_Catalog
-"Field ""%1"" was not found in DO ""%2"".","Champs ""%1"" introuvable dans DO ""%2"".",module,Magento_Catalog
+"Field ""%1"" was not found in DO ""%2"".","Champ ""%1"" introuvable dans DO ""%2"".",module,Magento_Catalog
 "Field is not complete","Champ non complet",module,Magento_Catalog
 "File '%1' is not an image.","Le fichier '%1' n'est pas une image.",module,Magento_Catalog
 "File extension not known or unsupported type.","Extension de fichier non reconnue ou non supportée.",module,Magento_Catalog

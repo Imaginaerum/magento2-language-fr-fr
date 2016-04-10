@@ -234,7 +234,7 @@
 "Id required","ID obligatoire",module,Magento_Sales
 "ID required","ID obligatoire",module,Magento_Sales
 "If the invoice was created offline, try creating an offline credit memo.","Si la facture a été créée hors ligne, essayez de créer un avoir hors ligne.",module,Magento_Sales
-"If you don't want to leave a gift message for the entire order, leave this box blank.","Si vous ne souhaitez pas laisser de message cadeau pour la globalité de la commande veuillez laisser ce champs vide.",module,Magento_Sales
+"If you don't want to leave a gift message for the entire order, leave this box blank.","Si vous ne souhaitez pas laisser de message cadeau pour la globalité de la commande veuillez laisser ce champ vide.",module,Magento_Sales
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Si vous avez des questions concernant votre commande, vous pouvez nous envoyer un email à <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Sales
 "Incl. Tax","TTC",module,Magento_Sales
 "Include Tax to Amount","Inclure les taxes au montant",module,Magento_Sales
@@ -662,7 +662,7 @@
 "The transaction ""%1"" cannot be captured yet.","La transaction ""%1"" ne peut être capturée pour le moment.",module,Magento_Sales
 "The transaction ""%1"" (%2) is already closed.","La transaction ""%1"" (%2) est déjà close.",module,Magento_Sales
 "The transaction details have been updated.","Les détails de la transaction ont été mis à jour.",module,Magento_Sales
-"The Transaction ID field cannot be empty.","Le champs ID de la transaction ne peut être vide.",module,Magento_Sales
+"The Transaction ID field cannot be empty.","Le champ ID de la transaction ne peut être vide.",module,Magento_Sales
 "This item price or quantity is not valid for checkout.","Le prix ou la quantité de cet article est invalide pour commander.",module,Magento_Sales
 "This message will be shown in the shopping cart when the subtotal (after discount) is lower than the minimum allowed amount.","Ce message sera affiché dans le panier lorsque le sous-total (après remise) est inférieur au montant minimum autorisé.",module,Magento_Sales
 "This order already has associated customer account","Cette commande est déjà associée à un compte client",module,Magento_Sales

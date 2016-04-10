@@ -105,9 +105,9 @@
 "Customer ID is not an allowed ID.","ID Client non autorisé.",module,Magento_Braintree
 "Customer ID is required.","ID Client requis.",module,Magento_Braintree
 "Customer ID is too long.","ID Client trop long.",module,Magento_Braintree
-"Custom field is invalid","Champs personnalisé invalide",module,Magento_Braintree
-"Custom field is invalid.","Champs personnalisé invalide.",module,Magento_Braintree
-"Custom field is too long.","Champs personnalisé trop long.",module,Magento_Braintree
+"Custom field is invalid","Champ personnalisé invalide",module,Magento_Braintree
+"Custom field is invalid.","Champ personnalisé invalide.",module,Magento_Braintree
+"Custom field is too long.","Champ personnalisé trop long.",module,Magento_Braintree
 "CVV","CVV",module,Magento_Braintree
 "CVV is required.","L'entrée CVV est requise.",module,Magento_Braintree
 "CVV must be 3 or 4 digits.","L'entrée CVV doit contenir 3 ou 4 chiffres.",module,Magento_Braintree
