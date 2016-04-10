@@ -42,7 +42,7 @@
 "All Files","Tous les Fichiers",module,Magento_Backend
 "Allow Countries","Autoriser les Pays",module,Magento_Backend
 "Allowed IPs (comma separated)","IPs autorisées (séparées par des virgules)",module,Magento_Backend
-"Allows customers to stay logged in when switching between different stores.","Permet aux Clients de rester connectés si ils naviguent entre les différents Magasins.",module,Magento_Backend
+"Allows customers to stay logged in when switching between different stores.","Permet aux clients de rester connectés s'ils naviguent entre les différents magasins.",module,Magento_Backend
 "Allow Symlinks","Autoriser les Liens Symboliques",module,Magento_Backend
 "All Store Views","Toutes les Vues Magasin",module,Magento_Backend
 "All Websites","Tous les Sites Web",module,Magento_Backend
