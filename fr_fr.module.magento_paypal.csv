@@ -315,7 +315,7 @@
 "No match","Aucune correspondance",module,Magento_Paypal
 "None of the address information matched","Aucune correspondance trouvée dans l'adresse",module,Magento_Paypal
 "Note: %1","Note: %1",module,Magento_Paypal
-"Notice that PayPal can handle up to 10 shipping options. That is why Magento will transfer only first 10 cheapest shipping options if there are more than 10 available.","PayPal est capable de gérer jusqu'à 10 options de livraison. C'est pour cela que Magento transfèrera uniquement les 10 options de livraison les moins chères s'il y en a plus que 10.",module,Magento_Paypal
+"Notice that PayPal can handle up to 10 shipping options. That is why Magento will transfer only first 10 cheapest shipping options if there are more than 10 available.","PayPal est capable de gérer jusqu'à 10 options de livraison. C'est pour cela que Magento transférera uniquement les 10 options de livraison les moins chères s'il y en a plus de 10.",module,Magento_Paypal
 "Not sure what PayPal payment method to use? Click ","Pas certain de la méthode paiement à utiliser sur PayPal? Cliquez ",module,Magento_Paypal
 "Now accepting PayPal (150 X 40)","Nous acceptons désormais PayPal (150 X 40)",module,Magento_Paypal
 "Now accepting PayPal (150 X 60)","Nous acceptons désormais PayPal (150 X 60)",module,Magento_Paypal
