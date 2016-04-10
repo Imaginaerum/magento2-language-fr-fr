@@ -89,7 +89,7 @@
 "label","libellé",module,Magento_ImportExport
 "Make sure your file isn't more than %1M.","Assurez-vous que votre fichier ne dépasse pas %1Mo.",module,Magento_ImportExport
 "Maximum error count has been reached or system error is occurred!","Le quota d'erreur maximale a été atteinte ou une erreur système est survenue!",module,Magento_ImportExport
-"Multiple value separator","Séparateur multiple de valeur",module,Magento_ImportExport
+"Multiple value separator","Séparateur de valeur multiple",module,Magento_ImportExport
 "Note: Product IDs will be regenerated.","Remarque: les ID de produit seront régénérés.",module,Magento_ImportExport
 "Only first 100 errors are displayed here. ","Seules les 100 premières erreurs sont affichées ici. ",module,Magento_ImportExport
 "Please correct the data sent.","Veuillez rectifier les données envoyées.",module,Magento_ImportExport
