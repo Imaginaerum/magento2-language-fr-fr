@@ -80,7 +80,7 @@
 "Canceled order offline","Commande annulée hors ligne",module,Magento_Sales
 "Canceled order online","Commande annulée en ligne",module,Magento_Sales
 "Cannot add new comment.","Impossible d'ajouter un commentaire.",module,Magento_Sales
-"Cannot create an invoice without products.","Impossible de créer une facture sans produits.",module,Magento_Sales
+"Cannot create an invoice without products.","Impossible de créer une facture sans produit.",module,Magento_Sales
 "Cannot create credit memo for the order.","Impossible de créer un avoir pour la commande.",module,Magento_Sales
 "Cannot create online refund for Refund to Store Credit.","Impossible de créer un remboursement en ligne pour un remboursement par crédit.",module,Magento_Sales
 "Cannot save comment:n%1","Sauvegarde commentaire impossible:n%1",module,Magento_Sales
