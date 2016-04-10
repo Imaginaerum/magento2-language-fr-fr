@@ -125,7 +125,7 @@
 "Orders","Commandes",module,Magento_Reports
 "Order Taxes Report Grouped by Tax Rate","Rapport de TVA & taxes groupées par taux de taxe",module,Magento_Reports
 "Order Taxes Report Grouped by Tax Rates","Rapport de taxes de commande groupées par taux d'imposition",module,Magento_Reports
-"Order Total Report","Rapport des totals de commandes",module,Magento_Reports
+"Order Total Report","Rapport de total de commandes",module,Magento_Reports
 "Order Updated","Mise à jour commande",module,Magento_Reports
 "Order Updated Date","Date de mise à jour de commande",module,Magento_Reports
 "Out of stock","En rupture de stock",module,Magento_Reports
