@@ -54,7 +54,7 @@
 "Order #","Commande #",module,Magento_Downloadable
 "Ordered","Commandé",module,Magento_Downloadable
 "Order id cannot be null","L'id de commande ne peut pas être null",module,Magento_Downloadable
-"Order item id cannot be null","L'id d'article de commande ne peut pas être null",module,Magento_Downloadable
+"Order item id cannot be null","L'id d'article de commande ne peut pas être nul",module,Magento_Downloadable
 "Order Item Status to Enable Downloads","Statut du produit commandé pour activer le téléchargement",module,Magento_Downloadable
 "Out of stock","En rupture de stock",module,Magento_Downloadable
 "Pending","En attente",module,Magento_Downloadable
