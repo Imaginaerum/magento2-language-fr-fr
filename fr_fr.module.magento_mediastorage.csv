@@ -8,7 +8,7 @@
 "File system","Système de Fichiers",module,Magento_MediaStorage
 "File with an extension ""%value%"" is protected and cannot be uploaded","Le fichier avec l'extension ""%value%"" est protégé et ne peut pas être uploadé",module,Magento_MediaStorage
 "Media Storage","Stockage des médias",module,Magento_MediaStorage
-"Parent directory does not exist: %1","Le répertoire parent n'existe pas: %1",module,Magento_MediaStorage
+"Parent directory does not exist: %1","Le répertoire parent n'existe pas : %1",module,Magento_MediaStorage
 "Path ""%value%"" is not available and cannot be used.","Le chemin ""%value%"" n'est pas correct et ne peut pas être utilisé.",module,Magento_MediaStorage
 "Path ""%value%"" is protected and cannot be used.","Le chemin ""%value%"" est protégé et ne peut pas être utilisé.",module,Magento_MediaStorage
 "Path ""%value%"" may not include parent directory traversal (""../"", ""..\).""","Le chemin ""%value%"" ne doit pas inclure de répertoire parent (""../"", ""..\"").",module,Magento_MediaStorage
