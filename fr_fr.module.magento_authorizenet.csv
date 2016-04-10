@@ -52,7 +52,7 @@
 "Minimum Order Total","Montant Total Minimum de Commande",module,Magento_Authorizenet
 "New Order Status","Statut de la Nouvelle Commande",module,Magento_Authorizenet
 "No confirmation","Aucune confirmation",module,Magento_Authorizenet
-"Order saving error: %1","Erreur lors de la sauvegarde de la commande: %1",module,Magento_Authorizenet
+"Order saving error: %1","Erreur lors de la sauvegarde de la commande : %1",module,Magento_Authorizenet
 "Parent Authorize.Net transaction (ID %1) expired","Transaction parente Authorize.Net (ID %1) expirée",module,Magento_Authorizenet
 "Payment Action","Action de Paiement",module,Magento_Authorizenet
 "Payment capturing error.","Erreur de collecte de paiement.",module,Magento_Authorizenet

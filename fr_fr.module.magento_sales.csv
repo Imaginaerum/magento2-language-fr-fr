@@ -376,7 +376,7 @@
 "Orders","Commandes",module,Magento_Sales
 "Orders and Returns","Commandes et retours",module,Magento_Sales
 "Orders and Returns Search Form","Formulaire de recherche de commandes et retours",module,Magento_Sales
-"Order saving error: %1","Erreur lors de la sauvegarde de la commande: %1",module,Magento_Sales
+"Order saving error: %1","Erreur lors de la sauvegarde de la commande : %1",module,Magento_Sales
 "Orders Cron Settings","Paramètres du CRON des commandes",module,Magento_Sales
 "Order Shipments","Livraisons de la commande",module,Magento_Sales
 "Order State","État de commande",module,Magento_Sales
