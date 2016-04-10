@@ -49,7 +49,7 @@
 "Cannot load options for attribute %1","Impossible de charger les options pour l'attribut %1",module,Magento_Eav
 "Cannot save attribute %1","Vous ne pouvez pas sauvegarder l'attribut %1",module,Magento_Eav
 "Cannot save attribute","Enregistrement de l'attribut impossible",module,Magento_Eav
-"Cannot save attributeGroup","Impossible de sauvegarder le groupe d'attributss",module,Magento_Eav
+"Cannot save attributeGroup","Impossible de sauvegarder le groupe d'attributs",module,Magento_Eav
 "Catalog Input Type for Store Owner","Type d'entrée catalogue pour le propriétaire du magasin",module,Magento_Eav
 "Current module EAV entity is undefined","Le module d'entités EAV actuel n'est pas défini",module,Magento_Eav
 "Current module pathname is undefined","Le chemin d'accès actuel du module n'est pas défini",module,Magento_Eav
