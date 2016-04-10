@@ -124,7 +124,7 @@
 "Order Quantity","Quantité commandée",module,Magento_Reports
 "Orders","Commandes",module,Magento_Reports
 "Order Taxes Report Grouped by Tax Rate","Rapport de TVA & taxes groupées par taux de taxe",module,Magento_Reports
-"Order Taxes Report Grouped by Tax Rates","Rapport de taxes de commande groupés par taux d'imposition",module,Magento_Reports
+"Order Taxes Report Grouped by Tax Rates","Rapport de taxes de commande groupées par taux d'imposition",module,Magento_Reports
 "Order Total Report","Rapport des totals de commandes",module,Magento_Reports
 "Order Updated","Mise à jour commande",module,Magento_Reports
 "Order Updated Date","Date de mise à jour de commande",module,Magento_Reports
