@@ -37,7 +37,7 @@
 "Cannot clone voice authorization transactions","Vous ne pouvez pas cloner les transactions d'autorisation",module,Magento_Braintree
 "Cannot edit a canceled subscription.","Impossible d'éditer un abonnement annulé.",module,Magento_Braintree
 "Cannot edit expired subscription","Impossible d'éditer un abonnement expiré",module,Magento_Braintree
-"Cannot edit price changing fields on past due subscription","Impossible de changer le champs prix pour un abonnement antérieur",module,Magento_Braintree
+"Cannot edit price changing fields on past due subscription","Impossible de changer le champ prix pour un abonnement antérieur",module,Magento_Braintree
 "Can not find original authorization transaction for partial capture","Impossible de trouver l'autorisation de transaction initiale pour la capture partielle",module,Magento_Braintree
 "Cannot hold in escrow","Impossible de bloquer",module,Magento_Braintree
 "Can not initialize PayPal (Braintree)","Initialisation PayPal impossible (Braintree)",module,Magento_Braintree
