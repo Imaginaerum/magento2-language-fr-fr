@@ -84,7 +84,7 @@
 "Option attribute ID is not specified.","ID de l'option d'attribut n'est pas spécifié.",module,Magento_ConfigurableProduct
 "Option label is not specified.","Le libellé d'option n'est pas spécifié.",module,Magento_ConfigurableProduct
 "Options","Options",module,Magento_ConfigurableProduct
-"Option values are not specified.","Les valeurs d'option ne sont pas spécifiés.",module,Magento_ConfigurableProduct
+"Option values are not specified.","Les valeurs d'option ne sont pas spécifiées.",module,Magento_ConfigurableProduct
 "Option with id ""%1"" not found","Option id ""%1"" n'a pas été trouvé",module,Magento_ConfigurableProduct
 "Out of Stock","En rupture de stock",module,Magento_ConfigurableProduct
 "Please choose image(s)","Choix image(s)",module,Magento_ConfigurableProduct
