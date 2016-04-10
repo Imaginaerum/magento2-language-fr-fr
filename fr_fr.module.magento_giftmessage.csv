@@ -15,7 +15,7 @@
 "Gift Message (optional)","Message cadeau (optionnel)",module,Magento_GiftMessage
 "Gift Messages is not applicable for empty cart","Les messages cadeau ne sont pas utilisables lorsque le panier est vide",module,Magento_GiftMessage
 "Gift Messages is not applicable for empty order","Les messages cadeau ne sont pas utilisables pour une commande vide",module,Magento_GiftMessage
-"Gift Messages is not applicable for virtual products","Les messages cadeaux ne sont pas utilisables pour les produits virtuels",module,Magento_GiftMessage
+"Gift Messages is not applicable for virtual products","Les messages cadeau ne sont pas utilisables pour les produits virtuels",module,Magento_GiftMessage
 "Gift Options","Options Cadeau",module,Magento_GiftMessage
 "Gift options","Options Cadeau",module,Magento_GiftMessage
 "Gift Options for Individual Items","Options cadeau pour les articles individuels",module,Magento_GiftMessage
