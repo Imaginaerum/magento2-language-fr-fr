@@ -50,7 +50,7 @@
 "None","aucun",module,Magento_Dhl
 "No packages for request","Pas de paquet demandé",module,Magento_Dhl
 "Others","Autres",module,Magento_Dhl
-"Password","Mot de Passe",module,Magento_Dhl
+"Password","Mot de passe",module,Magento_Dhl
 """Per Order"" allows a single handling fee for the entire order. ""Per Package"" allows an individual handling fee for each package.","""Par commande"" correspond aux frais de traitement pour l'ensemble de la commande. ""Par colis"" correspond aux frais de traitement pour chaque colis.",module,Magento_Dhl
 "Please, specify origin country","Veuillez spécifier le pays d'origine",module,Magento_Dhl
 "Pounds","Livres",module,Magento_Dhl

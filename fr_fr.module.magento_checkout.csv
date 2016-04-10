@@ -115,7 +115,7 @@
 "Order total will be displayed before you submit the order","LE TOTAL DE LA COMMANDE S'AFFICHERA AVANT LA CONFIRMATION DE COMMANDE",module,Magento_Checkout
 "Out of stock","En rupture de stock",module,Magento_Checkout
 "Page not found.","Page introuvable.",module,Magento_Checkout
-"Password","Mot de Passe",module,Magento_Checkout
+"Password","Mot de passe",module,Magento_Checkout
 "Password and password confirmation are not equal.","Le mot de passe et la confirmation du mot de passe ne sont pas identiques.",module,Magento_Checkout
 "Payment","Paiement",module,Magento_Checkout
 "Payment Failed Email Receiver","Destinataire du mail d'erreur de paiement",module,Magento_Checkout

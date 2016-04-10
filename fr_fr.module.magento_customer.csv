@@ -305,8 +305,8 @@
 "Orders","Commandes",module,Magento_Customer
 "Order Total","Total de la commande",module,Magento_Customer
 "Page not found.","Page introuvable.",module,Magento_Customer
-"Password:","Mot de Passe:",module,Magento_Customer
-"Password","Mot de Passe",module,Magento_Customer
+"Password:","Mot de passe :",module,Magento_Customer
+"Password","Mot de passe",module,Magento_Customer
 "Password doesn't match for this account.","La mot de passe du compte ne correspond pas.",module,Magento_Customer
 "Password forgotten","Mot de passe oublié",module,Magento_Customer
 "Password Options","Options de mot de passe",module,Magento_Customer

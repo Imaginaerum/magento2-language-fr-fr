@@ -51,7 +51,7 @@
 "Packages Request Type","Type de requête de paquets",module,Magento_Ups
 "PAK","PAK",module,Magento_Ups
 "Pallet","Pallettes",module,Magento_Ups
-"Password","Mot de Passe",module,Magento_Ups
+"Password","Mot de passe",module,Magento_Ups
 "Pickup Method","Retrait",module,Magento_Ups
 "Pounds","Livres",module,Magento_Ups
 "Required for negotiated rates; 6-character UPS","Obligatoire pour les tarifs négociés; UPS 6 caractères",module,Magento_Ups

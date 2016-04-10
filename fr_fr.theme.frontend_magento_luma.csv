@@ -27,7 +27,7 @@
 "Once your package ships we will send you a tracking number.","Un numéro de suivi vous sera envoyé lorsque votre commande sera expédiée.",theme,frontend/Magento/luma
 "Order History","Historique Commande",theme,frontend/Magento/luma
 "Order Status","Statut de la Commande",theme,frontend/Magento/luma
-"Password:","Mot de Passe:",theme,frontend/Magento/luma
+"Password:","Mot de passe :",theme,frontend/Magento/luma
 "Password you set when creating account","Mot de passe que vous avez défini lors de la création de votre compte",theme,frontend/Magento/luma
 "Payment Method","Mode de paiement",theme,frontend/Magento/luma
 "Placed on <span class=""no-link"">%created_at</span>","Passée le <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
