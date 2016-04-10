@@ -32,7 +32,7 @@
 "Allowed Credit Card Types","Types de cartes de crédit autorisées",module,Magento_Paypal
 "Allow in Billing Agreement Wizard","Autoriser dans l'assistant d'entente de facturation",module,Magento_Paypal
 "All the address information matched","Vérification de toutes les informations de l'adresse",module,Magento_Paypal
-"Also affects mini-shopping cart.","Affecte également le panier de mini-achats.",module,Magento_Paypal
+"Also affects mini-shopping cart.","Affecte également le mini panier.",module,Magento_Paypal
 "A payer is not identified.","Un payeur n'est pas identifié.",module,Magento_Paypal
 "API Authentication Methods","Modes d'authentification de l'API",module,Magento_Paypal
 "API Certificate","Certificat d'API",module,Magento_Paypal
