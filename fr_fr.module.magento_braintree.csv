@@ -202,7 +202,7 @@
 "Payment Information","Informations de paiement",module,Magento_Braintree
 "Payment method conflict","Conflit méthode de paiement",module,Magento_Braintree
 "Payment method conflict with venmo sdk","Conflit méthode de paiement avec le sdk venmo",module,Magento_Braintree
-"Payment method token card type is not accepted by this merchant account.","Ce type de carte utilisé par la méthode de paiement est non accepté par ce compte marchand.",module,Magento_Braintree
+"Payment method token card type is not accepted by this merchant account.","Ce type de carte utilisé par la méthode de paiement n'est pas accepté par ce compte marchand.",module,Magento_Braintree
 "Payment method token does not belong to the subscription’s customer.","Le jeton de la méthode de paiement n'appartient pas à l'abonnement client.",module,Magento_Braintree
 "Payment method token is invalid.","Jeton de méthode de paiement invalide.",module,Magento_Braintree
 "Payment method token is required.","Jeton de méthode de paiement requis.",module,Magento_Braintree
