@@ -19,7 +19,7 @@
 "Layouts","Agencements",module,Magento_Store
 "More than one default website is defined","Plus d'un site web par défaut est défini",module,Magento_Store
 "Name is required","Le nom est requis",module,Magento_Store
-"Only default scope allowed","Seule la portée par défaut est autorisé",module,Magento_Store
+"Only default scope allowed","Seule la portée par défaut est autorisée",module,Magento_Store
 "Other Settings","Autres réglages",module,Magento_Store
 "Page blocks HTML.","Code HTML des blocs de page.",module,Magento_Store
 "Paths to pre-processed view files (e.g, CSS files with fixed paths or generated from LESS files).","Chemin pour le prétraitement des fichiers de vues (ex: fichiers CSS avec préfixes chemin ou générés depuis des fichiers LESS).",module,Magento_Store
