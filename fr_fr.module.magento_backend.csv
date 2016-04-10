@@ -590,7 +590,7 @@
 "User-Agent Exceptions","Exceptions User-Agent",module,Magento_Backend
 "User Content","Contenus des Utilisateurs",module,Magento_Backend
 "User Email","Email Utilisateur",module,Magento_Backend
-"User Name:","Nom d'utilisateur:",module,Magento_Backend
+"User Name:","Nom d'utilisateur :",module,Magento_Backend
 "User Name","nom d'utilisateur",module,Magento_Backend
 "Username","nom d'utilisateur",module,Magento_Backend
 "user name","nom d'utilisateur",module,Magento_Backend
@@ -606,7 +606,7 @@
 "Validate HTTP_VIA","Valider HTTP_VIA",module,Magento_Backend
 "Validate HTTP_X_FORWARDED_FOR","Valider HTTP_X_FORWARDED_FOR",module,Magento_Backend
 "Validate REMOTE_ADDR","Valider REMOTE_ADDR",module,Magento_Backend
-"Value must be a URL or one of placeholders: %1","La valeur doit être une URL ou un des variables: %1",module,Magento_Backend
+"Value must be a URL or one of placeholders: %1","La valeur doit être une URL ou un des variables : %1",module,Magento_Backend
 "Values less than 60 are ignored.","Les valeurs inférieures à 60 sont ignorées.",module,Magento_Backend
 "Variable","Variable",module,Magento_Backend
 "Variable Code","Code de la variable",module,Magento_Backend
@@ -619,7 +619,7 @@
 "ver. %1","ver. %1",module,Magento_Backend
 "View","Voir",module,Magento_Backend
 "Views","Vues",module,Magento_Backend
-"View Statistics For:","Voir les statistiques pour:",module,Magento_Backend
+"View Statistics For:","Voir les statistiques pour :",module,Magento_Backend
 "Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.","Attention ! L'activation de cette fonctionnalité n'est pas recommandée dans un environnement de production car elle présente un risque de sécurité potentiel.",module,Magento_Backend
 "<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).","<strong style=""color:red"">Attention!</strong> Quand vous utilisez le code magasin dans les URLs, il est possible dans certains cas que le système ne fonctionne pas correctement si vous utilisez des services tiers dans lesquels vous avez spécifié des URLs sans le code magasin (ex. PayPal etc.).",module,Magento_Backend
 "Web","Web",module,Magento_Backend

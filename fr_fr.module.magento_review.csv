@@ -146,12 +146,12 @@
 "Write Your Own Review","Rédigez votre propre commentaire",module,Magento_Review
 "You deleted the rating.","Évaluation supprimée.",module,Magento_Review
 "You have submitted no reviews.","Vous n'avez posté aucun commentaire.",module,Magento_Review
-"You're reviewing:","Vous commentez:",module,Magento_Review
+"You're reviewing:","Vous commentez :",module,Magento_Review
 "Your Rating","Votre évaluation",module,Magento_Review
-"Your Rating:","Votre évaluation:",module,Magento_Review
+"Your Rating:","Votre évaluation :",module,Magento_Review
 "Your Review","Votre avis",module,Magento_Review
 "Your review has been accepted for moderation.","Votre commentaire a été accepté pour modération.",module,Magento_Review
-"Your Review (submitted on %1):","Votre avis (soumis sur %1):",module,Magento_Review
+"Your Review (submitted on %1):","Votre avis (soumis sur %1) :",module,Magento_Review
 "You saved the rating.","Évaluation sauvegardée.",module,Magento_Review
 "You saved the review.","Avis sauvegardé.",module,Magento_Review
 "You submitted your review for moderation.","L'avis est en cours de validation.",module,Magento_Review

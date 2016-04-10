@@ -568,7 +568,7 @@
 "Welcome Email","Email de bienvenue",module,Magento_Customer
 "Welcome to %store_name.","Bienvenue sur %store_name.",module,Magento_Customer
 "We're unable to send the password reset email.","Nous ne pouvons pas envoyer l'email de réinitialisation de mot de passe.",module,Magento_Customer
-"When you sign in to your account, you will be able to:","Lorsque vous êtes connecté à votre compte, vous pouvez:",module,Magento_Customer
+"When you sign in to your account, you will be able to:","Lorsque vous êtes connecté à votre compte, vous pouvez :",module,Magento_Customer
 "Wishlist - %1 item(s)","Liste d'envies - %1 article(s)",module,Magento_Customer
 "Wishlist","Liste d'enVies",module,Magento_Customer
 "Would you like to change the Customer Group for this order?","Souhaitez-vous changer le groupe client pour cette commande ?",module,Magento_Customer
@@ -596,7 +596,7 @@
 "You have revoked the customer's tokens.","Vous avez révoqué les permissions du client.",module,Magento_Customer
 "You have signed out and will go to our homepage in 5 seconds.","Vous êtes à présent déconnecté(e) et vous allez être redirigé(e) vers notre page d'accueil dans 5 secondes.",module,Magento_Customer
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","Vous devez confirmer votre compte. Vérifier dans vos email si vous avez reçu le lien de confirmation ou <a href=""%1"">cliquez ici </a> pour obtenir un nouveau lien.",module,Magento_Customer
-"You must confirm your %customer_email email before you can sign in (link is only valid once):","Vous devez confirmer votre email %customer_email afin que vous puissiez vous connecter (le lien n'est valable qu'une seule fois):",module,Magento_Customer
+"You must confirm your %customer_email email before you can sign in (link is only valid once):","Vous devez confirmer votre email %customer_email afin que vous puissiez vous connecter (le lien n'est valable qu'une seule fois) :",module,Magento_Customer
 "Your password has been updated.","Votre mot de passe à été mis à jour.",module,Magento_Customer
 "Your password reset link has expired.","Le lien de réinitialisation de mot de passe a expiré.",module,Magento_Customer
 "Your Tax ID cannot be validated.","Votre numéro de TVA ne peut pas être validé.",module,Magento_Customer

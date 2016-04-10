@@ -40,5 +40,5 @@
 "Website code may only contain letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.","Le code du site web ne peut contenir que des lettres (a-z), nombres (0-9) ou underscore (_). Le premier caractère doit être une lettre.",module,Magento_Store
 "Website code may only contain letters (a-z), numbers (0-9) or underscore(_), the first character must be a letter","Le code de site web ne doit contenir que des lettres (a-z), des chiffres (0-9) ou underscore (_). Le premier caractère doit être une lettre",module,Magento_Store
 "Website with the same code","Site web avec le même code",module,Magento_Store
-"Your Language:","Votre Langue:",module,Magento_Store
+"Your Language:","Votre Langue :",module,Magento_Store
 "Your Language","Votre Langue",module,Magento_Store

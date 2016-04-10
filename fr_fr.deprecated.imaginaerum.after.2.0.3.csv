@@ -105,7 +105,7 @@
 "Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: 'dropdown', 'checkbox'","La valeur du sous-attribut 'type' de l'attribut 'custom_options' contient une valeur incorrecte. Les valeurs acceptées sont : 'dropdown' et 'checkbox'",deprecated,Imaginaerum
 "Value for 'value price' sub attribute in 'custom_options' attribute contains incorrect value","La valeur du sous-attribut 'value price' de l'attribut 'custom_options' contient une valeur incorrecte",deprecated,Imaginaerum
 "We can't add the item to the cart right now.","Impossible d'ajouter le produit au panier.",deprecated,Imaginaerum
-"We can't add the item to Wish List right now: %1.","Impossible d'ajouter l'article à la liste d'envies: %1.",deprecated,Imaginaerum
+"We can't add the item to Wish List right now: %1.","Impossible d'ajouter l'article à la liste d'envies : %1.",deprecated,Imaginaerum
 "We can't add the item to Wish List right now.","Impossible d'ajouter l'article à la liste d'envies.",deprecated,Imaginaerum
 "We can't add the order status right now.","Impossible d'attribuer le statut de commande.",deprecated,Imaginaerum
 "We can't add the product to the cart because of an option validation issue.","Nous ne pouvons pas ajouter le produit au panier en raison d'un problème de validation de l'option.",deprecated,Imaginaerum
@@ -128,7 +128,7 @@
 "We can't delete the attribute.","Nous ne pouvons pas supprimer l'attribut.",deprecated,Imaginaerum
 "We can't delete the billing agreement.","Impossible de supprimer l'entente de facturation.",deprecated,Imaginaerum
 "We can't delete the item from the Wish List right now.","Impossible de supprimer le produit de la liste d'envies.",deprecated,Imaginaerum
-"We can't delete the item from Wish List right now because of an error: %1.","Impossible de supprimer cet article de la liste d'envies en raison de l'erreur suivante: %1.",deprecated,Imaginaerum
+"We can't delete the item from Wish List right now because of an error: %1.","Impossible de supprimer cet article de la liste d'envies en raison de l'erreur suivante : %1.",deprecated,Imaginaerum
 "We can't delete the rule right now. Please review the log and try again.","Impossible de supprimer la règle. Veuillez consulter le journal des erreurs et essayez à nouveau.",deprecated,Imaginaerum
 "We can't delete this rate because of an incorrect rate ID.","Impossible de supprimer ce taux car son ID est incorrect.",deprecated,Imaginaerum
 "We can't delete this rule right now. Please review the log and try again.","Impossible de supprimer la règle. Veuillez consulter le journal des erreurs et essayer à nouveau.",deprecated,Imaginaerum
@@ -173,7 +173,7 @@
 "We can't retrieve the product ID.","Impossible de retrouver l'ID du Produit.",deprecated,Imaginaerum
 "We can't save custom-defined options for bundles with dynamic pricing.","Nous ne pouvons pas sauvegarder les options personnalisées, pour les produits groupés avec une tarification dynamique.",deprecated,Imaginaerum
 "We can't save the address.","Nous ne pouvons pas sauvegarder l'adresse.",deprecated,Imaginaerum
-"We can't save the address:n%1","Impossible de sauvegarder l'adresse:n%1",deprecated,Imaginaerum
+"We can't save the address:n%1","Impossible de sauvegarder l'adresse : n%1",deprecated,Imaginaerum
 "We can't save the credit memo right now.","Impossible de sauvegarder l'avoir.",deprecated,Imaginaerum
 "We can't save the customer.","Nous ne pouvons pas sauvegarder le client.",deprecated,Imaginaerum
 "We can't save the invoice right now.","Impossible de sauvegarder la facture.",deprecated,Imaginaerum
@@ -259,5 +259,5 @@
 "You don't subscribe to our newsletter.","Vous n'êtes pas abonné à notre newsletter.",deprecated,Imaginaerum
 "You have revoked the customer's tokens.","Vous avez révoqué les permissions du client.",deprecated,Imaginaerum
 "You have revoked the user's tokens.","Les jetons de l'utilisateur ont été révoqués.",deprecated,Imaginaerum
-"You're reviewing:","Vous commentez:",deprecated,Imaginaerum
+"You're reviewing:","Vous commentez :",deprecated,Imaginaerum
 "Your search query can't be longer than %1, so we shortened your query.","La recherche ne peut pas excéder %1 caractères. Merci de raccourcir celle-ci.",deprecated,Imaginaerum

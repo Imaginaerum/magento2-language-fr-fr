@@ -753,7 +753,7 @@
 "We can't find this order status.","Impossible de trouver ce statut de commande.",module,Magento_Sales
 "We can't find this wish list.","Impossible de trouver cette liste d'envies.",module,Magento_Sales
 "We can't get the order instance right now.","Impossible de récupérer l'instance de la commande.",module,Magento_Sales
-"We can't save the address:n%1","Impossible de sauvegarder l'adresse:n%1",module,Magento_Sales
+"We can't save the address:n%1","Impossible de sauvegarder l'adresse : n%1",module,Magento_Sales
 "We can't save the credit memo right now.","Impossible de sauvegarder l'avoir.",module,Magento_Sales
 "We can't save the invoice.","Impossible de sauvegarder la facture.",module,Magento_Sales
 "We can't save the invoice right now.","Impossible de sauvegarder la facture.",module,Magento_Sales
@@ -787,7 +787,7 @@
 "We found an invalid quantity to ship for item ""%1"".","Quantité à livrer invalide pour l'article ""%1"".",module,Magento_Sales
 "We found an invalid renderer model.","Modèle de rendu invalide.",module,Magento_Sales
 "We found another order status with the same order status code.","Un statut de commande avec le même code existe déjà.",module,Magento_Sales
-"We found an unsupported transaction type ""%1"".","Type de transaction non pris en charge: ""%1"".",module,Magento_Sales
+"We found an unsupported transaction type ""%1"".","Type de transaction non pris en charge : ""%1"".",module,Magento_Sales
 "We'll use the default description above if you leave this empty.","La description par défaut sera utilisée si ce champ est laissé vide.",module,Magento_Sales
 "We'll use the default error above if you leave this empty.","Le message d'erreur par défaut sera utilisé si ce champ est laissé vide.",module,Magento_Sales
 "We refunded %1 offline.","Remboursement de %1 hors ligne.",module,Magento_Sales

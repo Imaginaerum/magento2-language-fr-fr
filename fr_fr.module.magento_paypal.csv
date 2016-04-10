@@ -559,10 +559,10 @@
 "Triggered Fraud Filters","Activer les filtres anti-fraudes",module,Magento_Paypal
 "Unable to cancel Express Checkout","Impossible d'annuler Express Checkout",module,Magento_Paypal
 "Unable to fetch transaction details.","Impossible de récupérer les détails de la transaction.",module,Magento_Paypal
-"Unable to save Billing Agreement:","Impossible de sauvegarder le contrat de facturation:",module,Magento_Paypal
+"Unable to save Billing Agreement:","Impossible de sauvegarder le contrat de facturation :",module,Magento_Paypal
 "Unknown reason. Please contact PayPal customer service.","raison inconnue. S'il vous plaît contactez le service Clientèle de PayPal.",module,Magento_Paypal
 "unverified","non vérifié",module,Magento_Paypal
-"Updated:","Mis à jour:",module,Magento_Paypal
+"Updated:","Mis à jour :",module,Magento_Paypal
 "Updated","Mis à jour",module,Magento_Paypal
 "Updated At","Mise à jour à",module,Magento_Paypal
 "Update Shipping Method","Changer de mode de livraison",module,Magento_Paypal
@@ -735,7 +735,7 @@
 "You need to enter a transaction ID.","Veuillez saisir un ID de transaction.",module,Magento_Paypal
 "You notified customer about creditmemo #%1.","Vous notifiez le client sur le remboursement #%1.",module,Magento_Paypal
 "You notified customer about invoice #%1.","Vous avez notifier le client à propos de la facture #%1.",module,Magento_Paypal
-"Your billing agreement # is: ","Votre identifiant d'entente de facturation est: ",module,Magento_Paypal
+"Your billing agreement # is: ","Votre identifiant d'entente de facturation est : ",module,Magento_Paypal
 "Your credit card will be charged for","Votre carte de crédit sera débitée de",module,Magento_Paypal
 "Your payment has been declined. Please try again.","Votre paiement a été refusé. Veuillez essayer à nouveau.",module,Magento_Paypal
 "You will be redirected to the payment system website.","Vous allez être redirigé vers le site web du système de paiement.",module,Magento_Paypal

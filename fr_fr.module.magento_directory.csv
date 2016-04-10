@@ -36,12 +36,12 @@
 "State Options","Options des États",module,Magento_Directory
 "State/Province","État/Province",module,Magento_Directory
 "Undefined rate from ""%1-%2"".","Taux indéfini depuis ""%1-%2"".",module,Magento_Directory
-"WARNING:","ATTENTION:",module,Magento_Directory
+"WARNING:","ATTENTION :",module,Magento_Directory
 "Webservicex","Webservicex",module,Magento_Directory
 "We can't initialize the import model.","Impossible d'initialiser le modèle d'importation.",module,Magento_Directory
 "We can't initialize the import model.","Impossible d'initialiser le modèle d'importation.",module,Magento_Directory
 "We can't retrieve a rate from %1.","Impossible de récurérer le taux pour %1.",module,Magento_Directory
 "We can't retrieve a rate from %1.","Impossible de récurérer le taux pour %1.",module,Magento_Directory
 "Weight Unit","Unité de Poids",module,Magento_Directory
-"Your current currency is: %1.","La devise actuelle est: %1.",module,Magento_Directory
+"Your current currency is: %1.","La devise actuelle est : %1.",module,Magento_Directory
 "Zip/Postal Code is Optional for","Le code postal est optionnel pour",module,Magento_Directory

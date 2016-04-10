@@ -312,7 +312,7 @@
 "Used for direct fraud tool integration. Make sure you also contact <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> to setup your Kount account.","Utilisé pour l'intégration de l'outil de détection de fraude. Assurez-vous également de contacter <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> pour configurer votre compte Kount.",module,Magento_Braintree
 "Use Vault","Utiliser Vault",module,Magento_Braintree
 "Vault is disabled.","Coffre-fort desactivé.",module,Magento_Braintree
-"Venmo sdk payment method code card type is not accepted","Méthode de paiement Venmo sdk: code type carte non accepté",module,Magento_Braintree
+"Venmo sdk payment method code card type is not accepted","Méthode de paiement Venmo sdk : code type carte non accepté",module,Magento_Braintree
 "Verification not supported on this merchant account","Vérification non supportée pour ce compte marchand",module,Magento_Braintree
 "Voice Authorization is not allowed for this card type","Autorisation non disponible pour ce type de carde",module,Magento_Braintree
 "Voice Authorization Required","Autorisation requise",module,Magento_Braintree

@@ -53,7 +53,7 @@
 "View Order","Voir la Commande",theme,frontend/Magento/luma
 "View past orders","Voir vos précédentes commandes",theme,frontend/Magento/luma
 "Welcome to %store_name.","Bienvenue sur %store_name.",theme,frontend/Magento/luma
-"When you sign in to your account, you will be able to:","Lorsque vous êtes connecté à votre compte, vous pouvez:",theme,frontend/Magento/luma
+"When you sign in to your account, you will be able to:","Lorsque vous êtes connecté à votre compte, vous pouvez :",theme,frontend/Magento/luma
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Vous pouvez suivre le statut de votre commande en <a href=""%account_url"">vous connectant à votre compte</a>.",theme,frontend/Magento/luma
 "Your Checkout Progress","Avancement de votre commande",theme,frontend/Magento/luma
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Votre avoir #%creditmemo_id pour la commande #%order_id",theme,frontend/Magento/luma

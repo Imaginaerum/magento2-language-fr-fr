@@ -258,8 +258,8 @@
 "Your credit card will be charged for","Votre carte de crédit sera débitée de",module,Magento_Checkout
 "Your order has been received.","Votre commande a bien été reçue.",module,Magento_Checkout
 "Your order # is: <span>%1</span>.","Votre numéro de commande est: <span>%1 </ span>.",module,Magento_Checkout
-"Your order # is: %1.","ID de votre commande: %1.",module,Magento_Checkout
-"Your order number is: %1.","Votre numéro de commande est: %1.",module,Magento_Checkout
+"Your order # is: %1.","ID de votre commande : %1.",module,Magento_Checkout
+"Your order number is: %1.","Votre numéro de commande est : %1.",module,Magento_Checkout
 "Your session has expired","Votre session a expiré",module,Magento_Checkout
 "You used coupon code ""%1"".","Vous avez utilisé le code promo ""%1"".",module,Magento_Checkout
 "You will receive an order confirmation email with details of your order and a link to track its progress.","Vous allez recevoir un mail de confirmation avec les détails de votre commande ainsi qu'un lien pour suivre son avancement.",module,Magento_Checkout
