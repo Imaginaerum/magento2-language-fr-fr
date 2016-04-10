@@ -98,7 +98,7 @@
 "A total of %1 record(s) have been deleted.","Un total de %1 enregistrement(s) supprimé(s).",module,Magento_Catalog
 "A total of %1 record(s) have been updated.","Un total de %1 enregistrement(s) mis à jour.",module,Magento_Catalog
 "A total of %1 record(s) were updated.","Un total de %1 enregistrement(s) mis à jour.",module,Magento_Catalog
-"Attribute '%1' is locked. %2","Attribut '%1' est verrouillée. %2",module,Magento_Catalog
+"Attribute '%1' is locked. %2","Attribut '%1' est verrouillé. %2",module,Magento_Catalog
 "Attribute '%1' is locked. ","L'attribut '%1' est verrouillé. ",module,Magento_Catalog
 "Attribute ""%1"" is required.","L'attribut ""%1"" est requis.",module,Magento_Catalog
 "Attribute code ""%1"" is invalid. Please use only letters (a-z), ' 'numbers (0-9) or underscore(_) in this field, first character should be a letter.","Code attribut ""%1"" invalide. Veuillez utiliser uniquement des lettres (a-z), des chiffres (0-9) ou underscore (_), le premier caractère doit être une lettre.",module,Magento_Catalog
