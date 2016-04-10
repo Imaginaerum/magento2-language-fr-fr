@@ -76,7 +76,7 @@
 "Country code alpha-3 is not accepted","Code pays alpha-3 non accepté",module,Magento_Braintree
 "Country code numeric is not accepted","Code pays numérique non accepté",module,Magento_Braintree
 "Country name is not an accepted country.","Non du pays non accepté.",module,Magento_Braintree
-"Country Specific Credit Card Types","Types de cartes bancaire spécifique pays",module,Magento_Braintree
+"Country Specific Credit Card Types","Types de cartes bancaires spécifiques pays",module,Magento_Braintree
 "Country Specific Settings","Paramètres spécifiques des pays",module,Magento_Braintree
 "Credit Card","Carte de Crédit",module,Magento_Braintree
 "Credit card does not exist","Carte bancaire inexistante",module,Magento_Braintree
