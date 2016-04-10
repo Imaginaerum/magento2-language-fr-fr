@@ -67,7 +67,7 @@
 "Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. https://example.com/magento/","Chacun de ces champs peut utiliser une URL se terminant par '/' (slash) ex: https://example.com/magento/",module,Magento_Backend
 "Are you sure?","Êtes-vous sûr(e)?",module,Magento_Backend
 "Are you sure you want to do this?","Êtes-vous sûr(e) de vouloir faire cela?",module,Magento_Backend
-"Authentication error occurred.","Une erreur d'authentification s'est produites.",module,Magento_Backend
+"Authentication error occurred.","Une erreur d'authentification s'est produite.",module,Magento_Backend
 "Authentication storage is incorrect.","Le stockage des authentifications est incorrect.",module,Magento_Backend
 "Auto-redirect to Base URL","Rediriger automatiquement vers l'URL de base",module,Magento_Backend
 "Average","Moyen",module,Magento_Backend
