@@ -5,7 +5,7 @@
 "All Store Views","Toutes les Vues Magasin",module,Magento_Cms
 "Anchor Custom Text","Présenter un texte personnalisé",module,Magento_Cms
 "Anchor Custom Title","Présenter un titre personnalisé",module,Magento_Cms
-"A page URL key for specified store already exists.","Il existe déjà un e clé d'URL de page pour la boutique sélectionnée.",module,Magento_Cms
+"A page URL key for specified store already exists.","Il existe déjà une clé d'URL de page pour la boutique sélectionnée.",module,Magento_Cms
 "Are you sure you wan't to delete a ""${ $.$data.title }"" record?","Êtes-vous sûr de vouloir supprimer ""${ $.$data.title }""?",module,Magento_Cms
 "Are you sure you wan't to delete a ${ $.$data.title } record?","Êtes-vous sûr de vouloir supprimer ""${ $.$data.title }""?",module,Magento_Cms
 "Are you sure you wan't to delete selected items?","Êtes-vous sûr de vouloir supprimer les éléments sélectionnés?",module,Magento_Cms
