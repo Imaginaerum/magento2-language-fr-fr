@@ -8,7 +8,7 @@
 "Anchor symbol (#) is not supported in request path.","Le symbole Ancre (""#"") n'est pas supporté dans le chemin de la requête.",module,Magento_UrlRewrite
 "Anchor symbol (#) is not supported in url rewrite suffix.","Le symbole Ancre (""#"") n'est pas supporté dans le suffixe de la réécriture d'URL.",module,Magento_UrlRewrite
 "An error occurred while deleting URL Rewrite.","Une erreur est survenue pendant la suppression des réécritures d'URLs.",module,Magento_UrlRewrite
-"An error occurred while saving URL Rewrite.","Une erreur est survenur pendant l'enregistrement de la réécriture d'URL.",module,Magento_UrlRewrite
+"An error occurred while saving URL Rewrite.","Une erreur est survenue pendant l'enregistrement de la réécriture d'URL.",module,Magento_UrlRewrite
 "Are you sure you want to do this?","Êtes-vous sûr(e) de vouloir faire cela?",module,Magento_UrlRewrite
 "Back","Retour",module,Magento_UrlRewrite
 "Block Information","Information du Bloc",module,Magento_UrlRewrite

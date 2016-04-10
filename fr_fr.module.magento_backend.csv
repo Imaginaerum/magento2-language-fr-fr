@@ -61,7 +61,7 @@
 "An error occurred while saving account.","Erreur lors de la sauvegarde du compte.",module,Magento_Backend
 "An error occurred while saving. Please review the error log.","Erreur lors de la sauvegarde. Vérifiez les logs.",module,Magento_Backend
 "An error occurred while saving this configuration:","Erreur lors de la sauvegarde de cette configuration:",module,Magento_Backend
-"An error occurred while saving URL Rewrite.","Une erreur est survenur pendant l'enregistrement de la réécriture d'URL.",module,Magento_Backend
+"An error occurred while saving URL Rewrite.","Une erreur est survenue pendant l'enregistrement de la réécriture d'URL.",module,Magento_Backend
 "Any","TOUT",module,Magento_Backend
 "Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. http://example.com/magento/","Chacun de ces champs peut utiliser une URL se terminant par '/' (slash) ex: http://example.com/magento/",module,Magento_Backend
 "Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. https://example.com/magento/","Chacun de ces champs peut utiliser une URL se terminant par '/' (slash) ex: https://example.com/magento/",module,Magento_Backend
