@@ -42,7 +42,7 @@
 "Cannot hold in escrow","Impossible de bloquer",module,Magento_Braintree
 "Can not initialize PayPal (Braintree)","Initialisation PayPal impossible (Braintree)",module,Magento_Braintree
 "Cannot partially refund escrowed transaction","Impossible de faire un remboursement partiel sur une transaction bloquée",module,Magento_Braintree
-"Cannot provide a billing address unless also providing a credit card.","Impossible de fournir une adresse de facturation a moins que vous ayez déjà spécifié une carte de crédit.",module,Magento_Braintree
+"Cannot provide a billing address unless also providing a credit card.","Impossible de fournir une adresse de facturation à moins que vous ayez déjà spécifié une carte de crédit.",module,Magento_Braintree
 "Cannot provide both a billing address and a billing address ID.","Impossible de fournir à la fois une adresse de facturation et un ID d'adresse de facturation.",module,Magento_Braintree
 "Cannot provide both payment_method_token and credit_card attributes.","Impossible de fournir à la fois des attributs payment_method_token et credit_card.",module,Magento_Braintree
 "Cannot provide both payment_method_token and customer_id unless the payment_method belongs to the customer.","Impossible de fournir à la fois payment_method_token et customer_id à moins que payment_method appartienne au client.",module,Magento_Braintree
