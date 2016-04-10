@@ -7,15 +7,15 @@
 "File System","Système de Fichiers",module,Magento_MediaStorage
 "File system","Système de Fichiers",module,Magento_MediaStorage
 "File with an extension ""%value%"" is protected and cannot be uploaded","Le fichier avec l'extension ""%value%"" est protégé et ne peut pas être uploadé",module,Magento_MediaStorage
-"Media Storage","Stockage des Medias",module,Magento_MediaStorage
+"Media Storage","Stockage des médias",module,Magento_MediaStorage
 "Parent directory does not exist: %1","Le répertoire parent n'existe pas: %1",module,Magento_MediaStorage
 "Path ""%value%"" is not available and cannot be used.","Le chemin ""%value%"" n'est pas correct et ne peut pas être utilisé.",module,Magento_MediaStorage
 "Path ""%value%"" is protected and cannot be used.","Le chemin ""%value%"" est protégé et ne peut pas être utilisé.",module,Magento_MediaStorage
 "Path ""%value%"" may not include parent directory traversal (""../"", ""..\).""","Le chemin ""%value%"" ne doit pas inclure de répertoire parent (""../"", ""..\"").",module,Magento_MediaStorage
 "Please set available and/or protected paths list(s) before validation.","Veuillez renseigner correctement la liste des chemins avant validation.",module,Magento_MediaStorage
 "Requested resource not found","Ressource non trouvée",module,Magento_MediaStorage
-"Select Media Database","Sélectionner la base de données media",module,Magento_MediaStorage
-"Storage Configuration for Media","Configuration du stockage des media",module,Magento_MediaStorage
+"Select Media Database","Sélectionner la base de données média",module,Magento_MediaStorage
+"Storage Configuration for Media","Configuration du stockage des médias",module,Magento_MediaStorage
 "Synchronize","Synchroniser",module,Magento_MediaStorage
 "Synchronizing %1 to %2","Synchronisation en cours de %1 vers %2",module,Magento_MediaStorage
 "Synchronizing...","Synchronisation en cours...",module,Magento_MediaStorage

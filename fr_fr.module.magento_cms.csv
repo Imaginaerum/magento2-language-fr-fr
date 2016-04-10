@@ -91,7 +91,7 @@
 "LocalizedException","LocalizedException",module,Magento_Cms
 "Make sure that static block content does not reference the block itself.","Assurez-vous que le contenu de bloc statique ne fait pas de référence sur lui-même.",module,Magento_Cms
 "Manage Pages","Gestion des pages",module,Magento_Cms
-"Media Storage","Stockage des Medias",module,Magento_Cms
+"Media Storage","Stockage des médias",module,Magento_Cms
 "Meta Data","Données Meta",module,Magento_Cms
 "Meta Description","Méta description",module,Magento_Cms
 "Meta Keywords","Mots-clés meta",module,Magento_Cms

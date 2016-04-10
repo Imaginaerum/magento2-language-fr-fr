@@ -305,7 +305,7 @@
 "May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","Peut être vide ou commencer par la variable {{secure_base_url}} ou {{unsecure_base_url}}.",module,Magento_Backend
 "May be empty or start with {{unsecure_base_url}} placeholder.","Peut être vide ou commencer par la variable {{unsecure_base_url}}.",module,Magento_Backend
 "Media (.avi, .flv, .swf)","Média (.avi, .flv, .swf)",module,Magento_Backend
-"Media Storage","Stockage des Medias",module,Magento_Backend
+"Media Storage","Stockage des médias",module,Magento_Backend
 "Merge CSS Files","Fusionner les Fichiers CSS",module,Magento_Backend
 "Merge JavaScript Files","Fusionner les Fichiers JavaScript",module,Magento_Backend
 "Minify CSS Files","Minifier les Fichiers CSS",module,Magento_Backend
@@ -448,7 +448,7 @@
 "Select Category","Sélectionner une catégorie",module,Magento_Backend
 "selected","sélectionné",module,Magento_Backend
 "Selected allowed currency ""%1"" is not available in installed currencies.","La devise sélectionnée ""%1"" n'est pas disponible dans les devises installées.",module,Magento_Backend
-"Select Media Database","Sélectionner la base de données media",module,Magento_Backend
+"Select Media Database","Sélectionner la base de données média",module,Magento_Backend
 "Select Range:","Sélectionner la Plage:",module,Magento_Backend
 "Select Visible","Sélectionner les éléments visibles",module,Magento_Backend
 "Sender Email","Email de l'Expéditeur",module,Magento_Backend
@@ -484,7 +484,7 @@
 "Startup Page","Page d'accueil",module,Magento_Backend
 "Static Files Settings","Paramètres des fichiers statiques",module,Magento_Backend
 "Status","Statut",module,Magento_Backend
-"Storage Configuration for Media","Configuration du stockage des media",module,Magento_Backend
+"Storage Configuration for Media","Configuration du stockage des médias",module,Magento_Backend
 "store(%1) scope","portée du magasin (%1)",module,Magento_Backend
 "Store","Magasin",module,Magento_Backend
 "Store Design","Design du magasin",module,Magento_Backend

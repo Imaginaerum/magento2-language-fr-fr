@@ -13,14 +13,14 @@
 "Can't load snapshot archive","Vous ne pouvez pas charger les archives de Snapshot",module,Magento_Backup
 "Create Backup","Créer une sauvegarde",module,Magento_Backup
 "Database","Base de Données",module,Magento_Backup
-"Database and Media","Base de données et Média",module,Magento_Backup
-"Database and Media Backup","Sauvegarde de base de données et media",module,Magento_Backup
+"Database and Media","Base de données et média",module,Magento_Backup
+"Database and Media Backup","Sauvegarde de base de données et média",module,Magento_Backup
 "Database Backup","Sauvegarde de base de données",module,Magento_Backup
 "Delete","Supprimer",module,Magento_Backup
 "Download","télécharger",module,Magento_Backup
 "Enable Scheduled Backup","Activer la sauvegarde programmée",module,Magento_Backup
 "Exclude","Exclure",module,Magento_Backup
-"Exclude media folder from backup","Exclure le dossier media de la sauvegarde",module,Magento_Backup
+"Exclude media folder from backup","Exclure le dossier média de la sauvegarde",module,Magento_Backup
 "failed","échec",module,Magento_Backup
 "Failed to rollback","Échec de la restauration",module,Magento_Backup
 "Failed to rollback.","Échec de la restauration.",module,Magento_Backup
@@ -68,7 +68,7 @@
 "The backup file handler was unspecified.","Le gestionnaire de fichier de sauvegarde n'a pas été spécifié.",module,Magento_Backup
 "The backup file path was not specified.","Le chemin de sauvegarde du fichier n'a pas été spécifié.",module,Magento_Backup
 "The backup file was not found.","Fichier de sauvegarde introuvable.",module,Magento_Backup
-"The database and media backup has been created.","La sauvegarde de la base de données et des media a bien été créée.",module,Magento_Backup
+"The database and media backup has been created.","La sauvegarde de la base de données et des médias a bien été créée.",module,Magento_Backup
 "The database backup has been created.","La sauvegarde de la base de données a bien été créée.",module,Magento_Backup
 "The selected backup(s) has been deleted.","Les sauvegardes sélectionnées ont été effacées.",module,Magento_Backup
 "The system backup (excluding media) has been created.","La sauvegarde du système (médias exclus) a été crée.",module,Magento_Backup
