@@ -49,7 +49,7 @@
 "None","aucun",module,Magento_Bundle
 "No options of this product are available.","Aucune option n'est disponible pour ce produit.",module,Magento_Bundle
 "Only implemented for bundle product","Uniquement implémenté pour les produits packagés",module,Magento_Bundle
-"Option Title","Titre de l'Option",module,Magento_Bundle
+"Option Title","Titre de l'option",module,Magento_Bundle
 "Ordered","Commandé",module,Magento_Bundle
 "Out of stock","En rupture de stock",module,Magento_Bundle
 "Percent","Pourcent",module,Magento_Bundle

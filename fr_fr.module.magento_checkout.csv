@@ -107,7 +107,7 @@
 "No Payment Methods","Aucun mode de paiement",module,Magento_Checkout
 "Not yet calculated","Pas encore calculé",module,Magento_Checkout
 "One-page checkout is turned off.","Une page du passage de commande est désactivée.",module,Magento_Checkout
-"Options Details","Détails des Options",module,Magento_Checkout
+"Options Details","Détails des options",module,Magento_Checkout
 "Order #","Commande #",module,Magento_Checkout
 "Order Review","Vérification de commande",module,Magento_Checkout
 "Order Summary","Résumé de la Commande",module,Magento_Checkout

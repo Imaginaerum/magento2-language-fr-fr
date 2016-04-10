@@ -457,7 +457,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "On Gesture","Au geste",module,Magento_Catalog
 "Operation do not allow to move a parent category to any of children category","Opération ne permettent pas de déplacer une catégorie parente a une quelconque catégorie enfants",module,Magento_Catalog
 "Option required.","Option requise.",module,Magento_Catalog
-"Option Title","Titre de l'Option",module,Magento_Catalog
+"Option Title","Titre de l'option",module,Magento_Catalog
 "Out of stock","En rupture de stock",module,Magento_Catalog
 "Out of Stock","En rupture de stock",module,Magento_Catalog
 "Out-of-Stock Threshold","Quantité pour que le produit passe à épuisé",module,Magento_Catalog
