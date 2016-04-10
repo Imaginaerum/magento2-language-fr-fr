@@ -13,8 +13,8 @@
 "Apply Discount","Appliquer la Remise",module,Magento_SalesRule
 "Apply Discount Code","Appliquer un Code de Réduction",module,Magento_SalesRule
 "Apply the rule only if the following conditions are met (leave blank for all products).","Appliquer la règle uniquement si les conditions suivantes sont remplies (laisser vide pour tous les produits).",module,Magento_SalesRule
-"Apply the rule only to cart items matching the following conditions ' '(leave blank for all items).","Appliquer la règle uniquement aux articles du panier qui correspondant aux conditions suivantes (laisser vide pour tous les articles).",module,Magento_SalesRule
-"Apply the rule only to cart items matching the following conditions (leave blank for all items).","Appliquer la règle uniquement aux articles du panier qui correspondant aux conditions suivantes (laisser vide pour tous les articles).",module,Magento_SalesRule
+"Apply the rule only to cart items matching the following conditions ' '(leave blank for all items).","Appliquer la règle uniquement aux articles du panier qui correspondent aux conditions suivantes (laisser vide pour tous les articles).",module,Magento_SalesRule
+"Apply the rule only to cart items matching the following conditions (leave blank for all items).","Appliquer la règle uniquement aux articles du panier qui correspondent aux conditions suivantes (laisser vide pour tous les articles).",module,Magento_SalesRule
 "Apply To","S'applique à",module,Magento_SalesRule
 "Apply to Shipping Amount","Appliquer au montant de la livraison",module,Magento_SalesRule
 "Are you sure you want to delete the selected coupon(s)?","Êtes-vous sûr(e) de vouloir effacer les bons de réduction sélectionnés ?",module,Magento_SalesRule
