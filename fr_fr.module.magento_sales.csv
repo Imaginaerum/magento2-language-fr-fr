@@ -400,7 +400,7 @@
 "Payment Method","Mode de paiement",module,Magento_Sales
 "Payment Method:","Mode de paiement:",module,Magento_Sales
 "Payment Review","Vérification du paiement",module,Magento_Sales
-"Payment transactions disallow storing objects.","Les transactions de paiement rejettent de stocker des objets.",module,Magento_Sales
+"Payment transactions disallow storing objects.","Les transactions de paiement interdisent de stocker des objets.",module,Magento_Sales
 "PDF Credit Memos","Avoirs en PDF",module,Magento_Sales
 "PDF Creditmemos","Avoirs en PDF",module,Magento_Sales
 "PDF Invoices","Factures en PDF",module,Magento_Sales
