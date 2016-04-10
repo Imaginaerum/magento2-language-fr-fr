@@ -4,7 +4,7 @@
 "Add","Ajouter",module,Magento_Config
 "Add after","Ajouter après",module,Magento_Config
 "Add Exception","Ajouter une exception",module,Magento_Config
-"Always (during development)","Toujours (pendant le developpement)",module,Magento_Config
+"Always (during development)","Toujours (pendant le développement)",module,Magento_Config
 "Base currency","Devise de base",module,Magento_Config
 "Bcc","Bcc",module,Magento_Config
 "Config form fieldset clone model required to be able to clone fields","Config formulaire du modèle de clone de champs requis pour être en mesure de cloner ces champs",module,Magento_Config
