@@ -23,7 +23,7 @@
 "Message","Message",module,Magento_Webapi
 "message","message",module,Magento_Webapi
 "No permissions requested","Aucune autorisation demandée",module,Magento_Webapi
-"Not allowed parameters: %1. Please use only %2 and %3.","Paramètres non autorisés: %1. Veuillez utiliser uniquement %2 et %3.",module,Magento_Webapi
+"Not allowed parameters: %1. Please use only %2 and %3.","Paramètres non autorisés : %1. Veuillez utiliser uniquement %2 et %3.",module,Magento_Webapi
 "Operation ""%1"" not found.","L'opération ""%1"" est introuvable.",module,Magento_Webapi
 "Operation allowed only in HTTPS","Opération autorisée uniquement en HTTPS",module,Magento_Webapi
 "Request does not match any route.","La requête ne correspond à aucune route.",module,Magento_Webapi
