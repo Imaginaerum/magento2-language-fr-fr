@@ -287,7 +287,7 @@
 "Merchant Referral Bonus","Prime de recommandation marchande",module,Magento_Paypal
 "Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.","Les marchands doivent faire une demande à PayPal pour activer les accords de facturation. Ne pas activer cette option tant que PayPal n'a pas confirmé que les accords de facturation sont activés sur votre compte marchand.",module,Magento_Paypal
 "Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.","Les marchands doivent faire une demande à PayPal pour activer les accords de facturation. Ne pas activer cette option tant que PayPal n'a pas confirmé que les accords de facturation sont activés sur votre compte marchand.",module,Magento_Paypal
-"Mobile Payment (made via a mobile phone)","Paiement par mobile (réalisées par l'intermédiaire d'un téléphone mobile)",module,Magento_Paypal
+"Mobile Payment (made via a mobile phone)","Paiement par mobile (réalisé par l'intermédiaire d'un téléphone mobile)",module,Magento_Paypal
 "N/A","N/A",module,Magento_Paypal
 "N/A. Address not checked, or acquirer had no response. Service not available","N/A. L'adresse n'a pas été vérifié, ou l'acquéreur n'a pas donné de réponse. Service non disponible",module,Magento_Paypal
 "N/A. Global Unavailable","N/A. Global Indisponible",module,Magento_Paypal
