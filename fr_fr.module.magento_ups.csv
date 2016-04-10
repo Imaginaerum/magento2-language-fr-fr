@@ -36,7 +36,7 @@
 "Live account","Compte Live",module,Magento_Ups
 "Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Poids maxi du paquet (consultez votre transporteur)",module,Magento_Ups
 "Medium Express Box","Boite Express Medium",module,Magento_Ups
-"Minimum Package Weight (Please consult your shipping carrier for minimum supported shipping weight)","Poids mini du paquet (consultez votre transporteur)",module,Magento_Ups
+"Minimum Package Weight (Please consult your shipping carrier for minimum supported shipping weight)","Poids minimum du colis (SVP, consultez votre transporteur)",module,Magento_Ups
 "Mode","Mode",module,Magento_Ups
 "Next Day Air","Next Day Air",module,Magento_Ups
 "Next Day Air Early AM","Next Day Air Early AM",module,Magento_Ups
