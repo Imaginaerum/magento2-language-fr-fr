@@ -62,7 +62,7 @@
 "Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","Veuillez n'utiliser uniquement que des lettres (a-z ou A-Z), des nombres (0-9) ou des underscores (_) dans ce champ. Le 1er caractère doit être une lettre.",module,Magento_Ui
 "Please use only letters (a-z or A-Z), numbers (0-9), spaces and ""#"" in this field.","Veuillez n'utiliser uniquement que des lettres (a-z ou A-Z), des nombres (0-9), des espaces ou le caractère ""#"" dans ce champ.",module,Magento_Ui
 "Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.","N'utilisez que des lettres (a-z ou A-Z), des nombres (0-9). Aucun espace ou autre caractère n'est autorisé.",module,Magento_Ui
-"Record contains unsaved changes.","Cet enregistrement contient des modifications non enregistrées",module,Magento_Ui
+"Record contains unsaved changes.","Cet enregistrement contient des modifications non enregistrées.",module,Magento_Ui
 "Remove %1","Supprimer %1",module,Magento_Ui
 "Save View As...","Sauvegarder la vue sous...",module,Magento_Ui
 "Search by keyword","Rechercher par mot clé",module,Magento_Ui
@@ -70,7 +70,7 @@
 "Select All on This Page","Sélectionner tout",module,Magento_Ui
 "Selected","sélectionné",module,Magento_Ui
 "Select Items","Choisir",module,Magento_Ui
-"Something went wrong.","Une erreur s'est produite",module,Magento_Ui
+"Something went wrong.","Une erreur s'est produite.",module,Magento_Ui
 "The configuration parameter ""formElement"" is a required for ""%1"" field.","Le paramètre de configuration ""formElement"" est requis pour le champ ""%1"".",module,Magento_Ui
 "The specified vehicle identification number (VIN) is invalid.","Le numéro d'identification de véhicule (NIV) fourni est invalide.",module,Magento_Ui
 "ui/grid/filters/elements/select","ui/grid/filters/elements/select",module,Magento_Ui

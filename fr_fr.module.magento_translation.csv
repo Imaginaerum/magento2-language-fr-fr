@@ -47,7 +47,7 @@
 "No","Non",module,Magento_Translation
 "No confirmation","Aucune confirmation",module,Magento_Translation
 "No records found.","Aucun élément trouvé.",module,Magento_Translation
-"No stores were reassigned.","Aucun magasin assigné",module,Magento_Translation
+"No stores were reassigned.","Aucun magasin assigné.",module,Magento_Translation
 "Ok","Ok",module,Magento_Translation
 "OK","Ok",module,Magento_Translation
 "Please add rows to option.","Veuillez ajouter des lignes à l'option.",module,Magento_Translation
@@ -112,10 +112,10 @@
 "Show all...","Voir tout...",module,Magento_Translation
 "Some problem with revert action","Problème rencontré lors de l'annulation",module,Magento_Translation
 "Some problem with save action","Problème rencontré lors de la sauvegarde",module,Magento_Translation
-"Something went wrong while loading the theme.","Une erreur s'est produite lors du chargement du thème",module,Magento_Translation
+"Something went wrong while loading the theme.","Une erreur s'est produite lors du chargement du thème.",module,Magento_Translation
 "Sorry, something went wrong.","Une erreur s'est produite.",module,Magento_Translation
 "Sorry, something went wrong. Please try again later.","Une erreur s'est produite. Veuillez réessayer plus tard.",module,Magento_Translation
-"Sorry, there was an unknown error.","Erreur inconnue",module,Magento_Translation
+"Sorry, there was an unknown error.","Erreur inconnue.",module,Magento_Translation
 "SSL Error: Invalid or self-signed certificate","Erreur SSL: Certificat invalide ou auto-signé",module,Magento_Translation
 "start typing to search category","Commencer à saisir pour chercher une catégorie",module,Magento_Translation
 "Submit","Envoyer",module,Magento_Translation

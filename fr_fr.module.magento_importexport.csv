@@ -108,7 +108,7 @@
 "Please specify a source.","Veuillez spécifier une source.",module,Magento_ImportExport
 "Please specify number of errors to halt import process","Veuillez préciser le nombre d'erreurs pour arrêter le processus d'importation",module,Magento_ImportExport
 "Please specify the writer.","Veuillez spécifier l'auteur.",module,Magento_ImportExport
-"Please specify writer.","Veuillez spécifier un writer",module,Magento_ImportExport
+"Please specify writer.","Veuillez spécifier un writer.",module,Magento_ImportExport
 "Replace","Remplacer",module,Magento_ImportExport
 "Replace Existing Complex Data","Remplacer les données complexes existantes",module,Magento_ImportExport
 "Select File to Import","Sélectionner le fichier à importer",module,Magento_ImportExport

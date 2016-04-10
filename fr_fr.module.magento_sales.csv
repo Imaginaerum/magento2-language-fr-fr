@@ -577,7 +577,7 @@
 "Something went wrong while saving the gift message.","Une erreur s'est produite lors de l'enregistrement du message cadeau.",module,Magento_Sales
 "Something went wrong while unassigning the order.","Une erreur s'est produite lors de l'attribution du statut de la commande.",module,Magento_Sales
 "Something went wrong while we were unassigning the order.","Une erreur s'est produite lors de la non-assignation de la commande.",module,Magento_Sales
-"Sometimes the heart sees what is invisible to the eye.","Les choses que le cœur voit sont invisibles pour les yeux",module,Magento_Sales
+"Sometimes the heart sees what is invisible to the eye.","Les choses que le cœur voit sont invisibles pour les yeux.",module,Magento_Sales
 "Sorry, no quotes are available for this order.","Désolé, aucun panier disponible pour cette commande.",module,Magento_Sales
 "Specified","Spécifié",module,Magento_Sales
 "State Code and Title","Code et titre de l'état",module,Magento_Sales
@@ -669,7 +669,7 @@
 "This order contains (%1) items and therefore cannot be edited through the admin interface. ' 'If you wish to continue editing, the (%2) items will be removed, ' ' the order will be canceled and a new order will be placed.","Cette commande contient (%1) articles et ne peut donc pas être modifiée dans l'interface d'administration. Si vous souhaitez continuer à l'éditer, les (%2) articles seront supprimés, la commande sera annulée et une nouvelle commande sera créée.",module,Magento_Sales
 "This order contains (%1) items and therefore cannot be edited through the admin interface. If you wish to continue editing, the (%2) items will be removed,  the order will be canceled and a new order will be placed.","Cette commande contient (%1) articles et ne peut donc pas être modifiée dans l'interface d'administration. Si vous souhaitez continuer à l'éditer, les (%2) articles seront supprimés, la commande sera annulée et une nouvelle commande sera créée.",module,Magento_Sales
 "This order no longer exists.","Cette commande n'existe plus.",module,Magento_Sales
-"This payment method instance is not available.","Méthode de paiement indisponible",module,Magento_Sales
+"This payment method instance is not available.","Méthode de paiement indisponible.",module,Magento_Sales
 "This payment method is not available.","La méthode de paiement n'est pas disponible.",module,Magento_Sales
 "This product does not have any configurable options","Ce produit n'a aucune option configurable",module,Magento_Sales
 "This product is disabled.","Ce produit est désactivé.",module,Magento_Sales
@@ -797,7 +797,7 @@
 "Wish List","Liste d'enVies",module,Magento_Sales
 "Yes","Oui",module,Magento_Sales
 "You assigned the order status.","Statut de commande assigné.",module,Magento_Sales
-"You canceled the credit memo.","Avoir annulé",module,Magento_Sales
+"You canceled the credit memo.","Avoir annulé.",module,Magento_Sales
 "You canceled the invoice.","La facture a été annulée.",module,Magento_Sales
 "You canceled the order.","Commande annulée.",module,Magento_Sales
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Vous pouvez suivre le statut de votre commande en <a href=""%account_url"">vous connectant à votre compte</a>.",module,Magento_Sales
@@ -816,7 +816,7 @@
 "You don't need to select a shipping method.","Il n'est pas nécessaire de sélectionner une méthode de livraison.",module,Magento_Sales
 "You don't need to select a shipping method.","Il n'est pas nécessaire de sélectionner une méthode de livraison.",module,Magento_Sales
 "You entered incorrect data. Please try again.","Données saisies incorrectes. Veuillez essayer à nouveau.",module,Magento_Sales
-"You have assigned the order status.","Statut commande assigné",module,Magento_Sales
+"You have assigned the order status.","Statut commande assigné.",module,Magento_Sales
 "You have item changes","Des articles ont changés",module,Magento_Sales
 "You have not canceled the item.","L'article n'a pas été annulé.",module,Magento_Sales
 "You have not put the order on hold.","La commande n'a pas été bloquée.",module,Magento_Sales

@@ -10,13 +10,13 @@
 "File '%1' was not found or has read restriction.","Le fichier '%1' n'as pas été trouvé ou n'est pas lisible.",module,Magento_CatalogImportExport
 "File directory '%1' is not readable.","Le répertoire '%1' n'est pas autorisé en lecture.",module,Magento_CatalogImportExport
 "File directory '%1' is not writable.","Le répertoire '%1' n'est pas autorisé en écriture.",module,Magento_CatalogImportExport
-"Invalid custom option maximum characters value.","Nombre de caractères d'option personnalisée invalide",module,Magento_CatalogImportExport
-"Invalid custom option price.","Option prix personnalisée invalide",module,Magento_CatalogImportExport
-"Invalid custom option sort order.","Tri option personnalisée invalide",module,Magento_CatalogImportExport
-"Invalid custom option store.","Option personnalisée invalide",module,Magento_CatalogImportExport
-"Invalid custom option type.","Type option personnalisée invalide",module,Magento_CatalogImportExport
-"Invalid custom option value price.","Valeur prix option personnalisée invalide",module,Magento_CatalogImportExport
-"Invalid custom option value sort order.","Valeur tri option personnalisée invalide",module,Magento_CatalogImportExport
+"Invalid custom option maximum characters value.","Nombre de caractères d'option personnalisée invalide.",module,Magento_CatalogImportExport
+"Invalid custom option price.","Option prix personnalisée invalide.",module,Magento_CatalogImportExport
+"Invalid custom option sort order.","Tri option personnalisée invalide.",module,Magento_CatalogImportExport
+"Invalid custom option store.","Option personnalisée invalide.",module,Magento_CatalogImportExport
+"Invalid custom option type.","Type option personnalisée invalide.",module,Magento_CatalogImportExport
+"Invalid custom option value price.","Valeur prix option personnalisée invalide.",module,Magento_CatalogImportExport
+"Invalid custom option value sort order.","Valeur tri option personnalisée invalide.",module,Magento_CatalogImportExport
 "Option entity must have a parent product entity.","L'option doit avoir un produit pour parent.",module,Magento_CatalogImportExport
 "Please correct the parameters.","Veuillez corriger les paramètres.",module,Magento_CatalogImportExport
 "Please enter a value for title.","Veuillez saisir un titre.",module,Magento_CatalogImportExport

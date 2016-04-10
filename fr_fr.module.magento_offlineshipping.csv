@@ -14,7 +14,7 @@
 "Handling Fee","Frais de dossier",module,Magento_OfflineShipping
 "Import","Importer",module,Magento_OfflineShipping
 "Include Virtual Products in Price Calculation","Inclure les produits virtuels dans le calcul de prix",module,Magento_OfflineShipping
-" is required."," requis",module,Magento_OfflineShipping
+" is required."," requis.",module,Magento_OfflineShipping
 "Method Name","Nom de la Méthode",module,Magento_OfflineShipping
 "Minimum Order Amount","Montant de commande minimum",module,Magento_OfflineShipping
 "No","Non",module,Magento_OfflineShipping

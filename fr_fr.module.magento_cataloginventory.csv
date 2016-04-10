@@ -43,7 +43,7 @@
 "Qty Increments","Incréments de quantités",module,Magento_CatalogInventory
 "Quantity","Quantité",module,Magento_CatalogInventory
 "Set Items' Status to be In Stock When Order is Cancelled","Passer le statut des articles à Disponible"" quand une commande est annulée""",module,Magento_CatalogInventory
-"Some of the products are currently out of stock.","Produit épuisé",module,Magento_CatalogInventory
+"Some of the products are currently out of stock.","Produit épuisé.",module,Magento_CatalogInventory
 "Some of the products are out of stock.","Certains de ces produits sont en rupture de stock.",module,Magento_CatalogInventory
 "Stock","Stock",module,Magento_CatalogInventory
 "Stock Item with id ""%1"" does not exist.","L'élément de stock avec l'ID ""%1"" n'existe pas.",module,Magento_CatalogInventory
@@ -57,7 +57,7 @@
 "This product is out of stock.","Ce produit est en rupture de stock.",module,Magento_CatalogInventory
 "Undefined product type","Type de produit indéfini",module,Magento_CatalogInventory
 "Unsupported product type ""%1"".","Type de produit non supporté : ""%1"".",module,Magento_CatalogInventory
-"We cannot specify a product identifier for the order item.","Impossible de spécifier un identifiant produit pour l'article de la commande",module,Magento_CatalogInventory
+"We cannot specify a product identifier for the order item.","Impossible de spécifier un identifiant produit pour l'article de la commande.",module,Magento_CatalogInventory
 "We can't rebuild the index for an undefined product.","Nous ne pouvons pas reconstruire l'index d'un produit non défini.",module,Magento_CatalogInventory
 "We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","Nous ne possédons pas suffisamment de ""%1"" pour honorer votre demande, alors nous mettrons en réapprovisionnement les %2 restant(s).",module,Magento_CatalogInventory
 "We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","Nous ne possédons pas suffisamment de ""%1"" pour honorer votre demande, alors nous mettrons en réapprovisionnement les %2 restant(s).",module,Magento_CatalogInventory

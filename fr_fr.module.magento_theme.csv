@@ -101,7 +101,7 @@
 "Skip to content","Allez au contenu",module,Magento_Theme
 "Something is wrong with the file upload settings.","Une erreur s'est produite lors de l'upload fichier.",module,Magento_Theme
 "Sorry, something went wrong. That's all we know.","Une erreur s'est produite.",module,Magento_Theme
-"Sorry, there was an unknown error.","Erreur inconnue",module,Magento_Theme
+"Sorry, there was an unknown error.","Erreur inconnue.",module,Magento_Theme
 "Start date cannot be greater than end date.","La date de début doit être antérieure à la date de fin.",module,Magento_Theme
 "Storage Root","Racine du stockage",module,Magento_Theme
 "Test Label","Test Label",module,Magento_Theme

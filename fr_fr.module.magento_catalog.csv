@@ -618,11 +618,11 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Small","Petite",module,Magento_Catalog
 "Small Image","Petite image",module,Magento_Catalog
 "Some of the selected item options are not currently available.","Certaines options ne sont pas actuellement disponibles.",module,Magento_Catalog
-"Something went wrong adding products to websites.","Erreur lors de l'ajouts de produits aux sites web",module,Magento_Catalog
+"Something went wrong adding products to websites.","Erreur lors de l'ajouts de produits aux sites web.",module,Magento_Catalog
 "Something went wrong  clearing the comparison list.","Une erreur s'est produite lors de la vidange de la liste de comparaison.",module,Magento_Catalog
 "Something went wrong removing products from the websites.","Une erreur s'est produite lors de la suppression des produits depuis les sites web.",module,Magento_Catalog
 "Something went wrong saving the attribute.","Une erreur s'est produite lors de la sauvegarde de l'attribut.",module,Magento_Catalog
-"Something went wrong saving the URL rewite.","Une erreur s'est produite lors de la sauvegarde de réécriture d'URL",module,Magento_Catalog
+"Something went wrong saving the URL rewite.","Une erreur s'est produite lors de la sauvegarde de réécriture d'URL.",module,Magento_Catalog
 "Something went wrong while adding products to websites.","Une erreur s'est produite lors de l'ajout des produits aux sites web.",module,Magento_Catalog
 "Something went wrong while processing the request.","Une erreur s'est produite lors du traitement de la demande.",module,Magento_Catalog
 "Something went wrong while removing products from the websites.","Une erreur s'est produite lors de la suppression des produits des sites web.",module,Magento_Catalog
@@ -705,7 +705,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "The product attribute has been deleted.","L'attribut de produit a été effacé.",module,Magento_Catalog
 "The product has required options.","Le produit nécessite une ou plusieurs options.",module,Magento_Catalog
 "The product instance type in options group is incorrect.","Le type d'instance du produit dans le groupe d'options est incorrecte.",module,Magento_Catalog
-"The product is not loaded.","Produit non chargé",module,Magento_Catalog
+"The product is not loaded.","Produit non chargé.",module,Magento_Catalog
 "There are no customers for this alert.","Aucun client pour cette alerte.",module,Magento_Catalog
 "There are no products matching the selection.","Aucun produit ne correspond à la sélection.",module,Magento_Catalog
 "There are not websites for assign to product","Il n'y a pas de sites web pour l'assigner au produit",module,Magento_Catalog
@@ -794,7 +794,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Visible in Advanced Search","Visible dans la Recherche avancée",module,Magento_Catalog
 "Visible on Catalog Pages on Frontend","Visible sur les pages catalogue du frontend",module,Magento_Catalog
 "Visible on Catalog Pages on Storefront","Visible sur les pages du catalogue magasin",module,Magento_Catalog
-"<strong style=""color:red"">Warning!</strong> Applying MAP by default will hide all product prices on the front end.","<strong style=""color:red"">Attention!</strong> Appliquer MAP par défaut masquera tous les prix produits sur le frontend",module,Magento_Catalog
+"<strong style=""color:red"">Warning!</strong> Applying MAP by default will hide all product prices on the front end.","<strong style=""color:red"">Attention!</strong> Appliquer MAP par défaut masquera tous les prix produits sur le frontend.",module,Magento_Catalog
 "Warning message","Message d'alerte",module,Magento_Catalog
 "Watermark","Filigrane",module,Magento_Catalog
 "Watermark Default Size","Taille par défaut du filigrane",module,Magento_Catalog

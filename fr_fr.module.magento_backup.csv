@@ -45,7 +45,7 @@
 "Please enter the password to confirm rollback.","Veuillez entrez le mot de passe pour confirmer la restauration.",module,Magento_Backup
 "Please put your store into maintenance mode during backup.","Veuillez mettre le magasin en mode de maintenance lors de la sauvegarde.",module,Magento_Backup
 "Please put your store into maintenance mode during rollback processing.","Veuillez mettre votre magasin en mode de maintenance pendant le processus de restauration.",module,Magento_Backup
-"Please specify backup creation option.","Veuillez définir une option de sauvegarde",module,Magento_Backup
+"Please specify backup creation option.","Veuillez définir une option de sauvegarde.",module,Magento_Backup
 "Please use only letters (a-z or A-Z), numbers (0-9) or spaces in this field.","Veuillez utiliser uniquement des lettres (a-z), des chiffres (0-9) ou des espaces dans ce champ.",module,Magento_Backup
 "Please wait until the action ends.","Veuillez attendre que l'action se termine.",module,Magento_Backup
 "Rollback","Restaurer",module,Magento_Backup
@@ -92,7 +92,7 @@
 "We can't save the Cron expression.","Impossible de sauvegarder l'expression du CRON.",module,Magento_Backup
 "We can't save the Cron expression.","Impossible de sauvegarder l'expression du CRON.",module,Magento_Backup
 "We couldn't connect to the FTP.","Nous ne pouvons pas nous connecter au FTP.",module,Magento_Backup
-"We couldn't delete one or more backups.","Impossible de supprimer une ou plusieurs sauvegardes",module,Magento_Backup
+"We couldn't delete one or more backups.","Impossible de supprimer une ou plusieurs sauvegardes.",module,Magento_Backup
 "You created the database and media backup.","Vous avez créé la sauvegarde de la base de données et des médias.",module,Magento_Backup
 "You created the database backup.","Vous avez créé la sauvegarde de la base de données.",module,Magento_Backup
 "You created the system backup.","Vous avez créé la sauvegarde du système.",module,Magento_Backup

@@ -103,7 +103,7 @@
 "My Cart","Mon panier",module,Magento_Checkout
 "My Cart Link","Lien vers mon panier",module,Magento_Checkout
 "New Address","Nouvelle adresse",module,Magento_Checkout
-"No Payment method available.","Aucune méthode de paiement disponible",module,Magento_Checkout
+"No Payment method available.","Aucune méthode de paiement disponible.",module,Magento_Checkout
 "No Payment Methods","Aucun mode de paiement",module,Magento_Checkout
 "Not yet calculated","Pas encore calculé",module,Magento_Checkout
 "One-page checkout is turned off.","Une page du passage de commande est désactivée.",module,Magento_Checkout
@@ -184,7 +184,7 @@
 "Something went wrong processing your order. Please try again later.","Une erreur s'est produite lors du traitement de votre commande. Veuillez réessayer plus tard.",module,Magento_Checkout
 "Something went wrong while processing your order. Please try again later.","Une erreur s'est produite lors du traitement de votre commande. Veuillez réessayer plus tard.",module,Magento_Checkout
 "Sorry, guest checkout is not available.","Désolé, le passage de commande des invités n'est pas disponible.",module,Magento_Checkout
-"Sorry, guest checkout is not enabled.","Les commandes invités sont desactivées",module,Magento_Checkout
+"Sorry, guest checkout is not enabled.","Les commandes invités sont désactivées.",module,Magento_Checkout
 "Sorry, no quotes are available for this order at this time.","Aucun mode de livraison n'est disponible pour votre adresse.",module,Magento_Checkout
 "Sorry, no quotes are available for this order at this time","Aucun mode de livraison n'est disponible pour votre adresse.",module,Magento_Checkout
 "State/Province","État/Province",module,Magento_Checkout
@@ -201,7 +201,7 @@
 "The customer address is not valid.","L'adresse du client n'est pas valide.",module,Magento_Checkout
 "The onepage checkout is disabled.","Le passage de commande en une seule page est désactivé.",module,Magento_Checkout
 "The product does not exist.","Le produit n'existe pas.",module,Magento_Checkout
-"There are more than one shipping address.","Il existe plusieurs adresses de livraison",module,Magento_Checkout
+"There are more than one shipping address.","Il existe plusieurs adresses de livraison.",module,Magento_Checkout
 "There are more than one shipping addresses.","Il y a plus d'une adresse de livraison.",module,Magento_Checkout
 "There is already a registered customer using this email address. Please log in using this email address or enter a different email address to register your account.","Il existe déjà un client avec cette adresse email. Veuillez vous connecter avec cette adresse email ou saisir une adresse email différente pour créer votre compte .",module,Magento_Checkout
 "This quote item does not exist.","Ce commentaire d'article n'existe pas.",module,Magento_Checkout
@@ -250,7 +250,7 @@
 "You added %1 to your shopping cart.","Le produit %1 a été ajouté à votre panier.",module,Magento_Checkout
 "You already have an account with us. Sign in or continue as guest.","Vous possédez déjà un compte. Connectez-vous ou continuer en tant qu'invité.",module,Magento_Checkout
 "You canceled the coupon code.","Vous avez annulé le code de promo.",module,Magento_Checkout
-"You can create an account after checkout.","Vous pourrez créer un compte après avoir passé votre commande",module,Magento_Checkout
+"You can create an account after checkout.","Vous pourrez créer un compte après avoir passé votre commande.",module,Magento_Checkout
 "You can track your order status by creating an account.","Vous pouvez suivre l'état de votre commande en créant un compte.",module,Magento_Checkout
 "You have no items in your shopping cart.","Aucun article dans votre panier.",module,Magento_Checkout
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","Vous devez confirmer votre compte. Vérifier dans vos email si vous avez reçu le lien de confirmation ou <a href=""%1"">cliquez ici </a> pour obtenir un nouveau lien.",module,Magento_Checkout

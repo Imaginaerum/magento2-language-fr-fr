@@ -385,7 +385,7 @@
 "-- Please Select --","-- Faire un Choix --",module,Magento_Backend
 "Please select an option.","Sélectionnez une option.",module,Magento_Backend
 "Please select items.","Veuillez sélectionner un élement.",module,Magento_Backend
-"Please select one of these options.","Choisir une des options suivantes",module,Magento_Backend
+"Please select one of these options.","Choisir une des options suivantes.",module,Magento_Backend
 "Please select State/Province.","Veuillez choisir un état/province.",module,Magento_Backend
 "Please specify the admin custom URL.","Spécifiez l'URL d'Admin personnalisée.",module,Magento_Backend
 "Please try to log out and sign in again.","Veuillez vous déconnecter et reconnecter.",module,Magento_Backend

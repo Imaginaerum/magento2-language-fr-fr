@@ -125,7 +125,7 @@
 "Summary of Review","Résumé de l'avis",module,Magento_Review
 "Summary of Your Review","Résumé de votre commentaire",module,Magento_Review
 "Summary Rating","Aperçu des évaluations",module,Magento_Review
-"The nickname field can't be empty.","Le champ nom ne peut être vide",module,Magento_Review
+"The nickname field can't be empty.","Le champ nom ne peut être vide.",module,Magento_Review
 "The review field can't be empty.","Le champ avis ne peut être vide.",module,Magento_Review
 "The review has been deleted.","L'avis a été supprimé.",module,Magento_Review
 "The review summary field can't be empty.","Le résumé de l'avis ne peut être vide.",module,Magento_Review
@@ -139,7 +139,7 @@
 "Visibility","Visibilité",module,Magento_Review
 "Visible In","Visible dans",module,Magento_Review
 "Websites","Sites Web",module,Magento_Review
-"We cannot post the review.","Impossible de poster cet avis",module,Magento_Review
+"We cannot post the review.","Impossible de poster cet avis.",module,Magento_Review
 "We can't get the product ID.","Impossible d'obtenir l'ID produit.",module,Magento_Review
 "We can't post your review right now.","Impossible de soumettre votre avis.",module,Magento_Review
 "We can't retrieve the product ID.","Impossible de retrouver l'ID du Produit.",module,Magento_Review
