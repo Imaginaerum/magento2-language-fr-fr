@@ -130,7 +130,7 @@
 "Create Website","Créer un Site Web",module,Magento_Backend
 "CSS Settings","Paramètres CSS",module,Magento_Backend
 "Currency ""%1"" is used as %2 in %3.","La devise ""%1"" est utilisée comme %2 dans %3.",module,Magento_Backend
-"Current Configuration Scope:","Portée de la configuration courante:",module,Magento_Backend
+"Current Configuration Scope:","Portée de la configuration courante :",module,Magento_Backend
 "Current Month","Mois en Cours",module,Magento_Backend
 "Current User Identity Verification","Vérification de l'identité de l'utilisateur actuel",module,Magento_Backend
 "Custom","Personnalisé",module,Magento_Backend
