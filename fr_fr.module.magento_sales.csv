@@ -7,7 +7,7 @@
 "%1 order(s) were not put on hold.","%1 commandes n'ont pas été bloquées.",module,Magento_Sales
 "%1 order(s) were not released from on hold status.","%1 commandes n'ont pas été bloquées.",module,Magento_Sales
 "%1 with %2 discount each","%1 avec %2 de réduction chacun",module,Magento_Sales
-"%1 / %2 rate:","Taux %1 / %2:",module,Magento_Sales
+"%1 / %2 rate:","Taux %1 / %2 :",module,Magento_Sales
 "About Your Invoice","À propos de votre facture",module,Magento_Sales
 "About Your Order","À propos de votre commande",module,Magento_Sales
 "About Your Refund","À propos de votre remboursement",module,Magento_Sales
@@ -28,7 +28,7 @@
 "A hold action is not available.","L'action de blocage n'est pas disponible.",module,Magento_Sales
 "Allow Reorder","Autoriser le renouvellement de commande",module,Magento_Sales
 "All Store Views","Toutes les Vues Magasin",module,Magento_Sales
-"Amount: %1.","Montant: %1.",module,Magento_Sales
+"Amount: %1.","Montant : %1.",module,Magento_Sales
 "Amount","Montant",module,Magento_Sales
 "An amount of %1 will be captured after being approved at the payment gateway.","Un montant de %1 sera capturé après l’approbation de la passerelle de paiement.",module,Magento_Sales
 "Anchor Custom Title","Présenter un titre personnalisé",module,Magento_Sales
@@ -69,7 +69,7 @@
 "Back to My Orders","Retour à mes commandes",module,Magento_Sales
 "Billing","Facturation",module,Magento_Sales
 "Billing Address","Adresse de facturation",module,Magento_Sales
-"Billing Address: ","Adresse de facturation: ",module,Magento_Sales
+"Billing Address: ","Adresse de facturation : ",module,Magento_Sales
 "Billing Info","Informations de Facturation",module,Magento_Sales
 "Billing Last Name","Nom (fact.)",module,Magento_Sales
 "Billing ZIP Code","Code postal (fact.)",module,Magento_Sales
@@ -83,9 +83,9 @@
 "Cannot create an invoice without products.","Impossible de créer une facture sans produit.",module,Magento_Sales
 "Cannot create credit memo for the order.","Impossible de créer un avoir pour la commande.",module,Magento_Sales
 "Cannot create online refund for Refund to Store Credit.","Impossible de créer un remboursement en ligne pour un remboursement par crédit.",module,Magento_Sales
-"Cannot save comment:n%1","Sauvegarde commentaire impossible:n%1",module,Magento_Sales
+"Cannot save comment:n%1","Sauvegarde commentaire impossible : n%1",module,Magento_Sales
 "Cannot save the credit memo.","Impossible de sauvegarder l'avoir.",module,Magento_Sales
-"Cannot save track:n%1","Sauvegarde suivi impossible:n%1",module,Magento_Sales
+"Cannot save track:n%1","Sauvegarde suivi impossible : n%1",module,Magento_Sales
 "Cannot unassign status from state","Impossible de désassigner le statut de l'état",module,Magento_Sales
 "Cannot update item quantity.","Impossible de mettre à jour la quantité de l'article.",module,Magento_Sales
 "Cannot update the item's quantity.","Impossible de mettre à jour la quantité de l'article.",module,Magento_Sales
@@ -106,7 +106,7 @@
 "Close","Fermer",module,Magento_Sales
 "Closed","Fermée",module,Magento_Sales
 "Comma-separated","Séparées par des virgules",module,Magento_Sales
-"Comment: %1<br/>","Commentaire: %1<br/>",module,Magento_Sales
+"Comment: %1<br/>","Commentaire : %1<br>",module,Magento_Sales
 "Comment","Commentaire",module,Magento_Sales
 "Comment added","Commentaire ajouté",module,Magento_Sales
 "Comments History","Historique de commentaires",module,Magento_Sales
@@ -841,6 +841,6 @@
 "You sent the order email.","Email de commande envoyé.",module,Magento_Sales
 "You updated the order address.","Adresse de la commande mise à jour.",module,Magento_Sales
 "You voided the credit memo.","Avoir annulé.",module,Magento_Sales
-"ZIP Code","Code Postal",module,Magento_Sales
+"ZIP Code","Code postal",module,Magento_Sales
 "Zip/Postal Code","Code postal",module,Magento_Sales
-"ZIP/Post Code","Code Postal",module,Magento_Sales
+"ZIP/Post Code","Code postal",module,Magento_Sales

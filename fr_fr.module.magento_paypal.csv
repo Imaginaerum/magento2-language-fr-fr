@@ -27,8 +27,8 @@
 "Advanced Settings","Paramètres avancés",module,Magento_Paypal
 "Advertise PayPal Credit","Faites de la publicité pour PayPal",module,Magento_Paypal
 "Agreement Information","Information de l'entente",module,Magento_Paypal
-"Allowable values: ""paypal"", ""primary"" (default), your_custom_value (a custom payment page style from your merchant account profile).","Valeurs autorisées: ""paypal"", ""primary"" (default), your_custom_value (un style de page de paiement personnalisé à partir de votre profil de compte marchand).",module,Magento_Paypal
-"Allowable values: ""paypal"", ""primary"" (default), your_custom_value (a custom payment page style from your merchant account profile).","Valeurs autorisées: ""paypal"", ""primary"" (default), your_custom_value (un style de page de paiement personnalisé à partir de votre profil de compte marchand).",module,Magento_Paypal
+"Allowable values: ""paypal"", ""primary"" (default), your_custom_value (a custom payment page style from your merchant account profile).","Valeurs autorisées : ""paypal"", ""primary"" (default), your_custom_value (un style de page de paiement personnalisé à partir de votre profil de compte marchand).",module,Magento_Paypal
+"Allowable values: ""paypal"", ""primary"" (default), your_custom_value (a custom payment page style from your merchant account profile).","Valeurs autorisées : ""paypal"", ""primary"" (default), your_custom_value (un style de page de paiement personnalisé à partir de votre profil de compte marchand).",module,Magento_Paypal
 "Allowed Credit Card Types","Types de cartes de crédit autorisées",module,Magento_Paypal
 "Allow in Billing Agreement Wizard","Autoriser dans l'assistant d'entente de facturation",module,Magento_Paypal
 "All the address information matched","Vérification de toutes les informations de l'adresse",module,Magento_Paypal
@@ -124,7 +124,7 @@
 "CPF","CPF",module,Magento_Paypal
 "Create...","Créer...",module,Magento_Paypal
 "Created","Créé",module,Magento_Paypal
-"Created:","Créé:",module,Magento_Paypal
+"Created:","Créé :",module,Magento_Paypal
 "Created At","Créé Le",module,Magento_Paypal
 "Created billing agreement #%1.","Entente de facturation #%1 créée.",module,Magento_Paypal
 "Credit","Crédit",module,Magento_Paypal
@@ -738,7 +738,7 @@
 "Your billing agreement # is: ","Votre identifiant d'entente de facturation est: ",module,Magento_Paypal
 "Your credit card will be charged for","Votre carte de crédit sera débitée de",module,Magento_Paypal
 "Your payment has been declined. Please try again.","Votre paiement a été refusé. Veuillez essayer à nouveau.",module,Magento_Paypal
-"You will be redirected to the payment system website.","Vous allez être redirigé vers le Site Web du système de paiement.",module,Magento_Paypal
+"You will be redirected to the payment system website.","Vous allez être redirigé vers le site web du système de paiement.",module,Magento_Paypal
 "You will be redirected to the PayPal website.","Vous allez être redirigé vers le site PayPal.",module,Magento_Paypal
 "You will be redirected to the PayPal website in a few seconds.","Vous serez redirigé vers le site de PayPal dans quelques secondes.",module,Magento_Paypal
 "You will be redirected to the PayPal website when you place an order.","Vous serez redirigé vers le site de PayPal à l'issue de votre commande.",module,Magento_Paypal

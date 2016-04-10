@@ -1,6 +1,6 @@
 "%1 indexer(s) are in ""Update by Schedule"" mode.","%1 index sont en mode ""Mise à jour périodique"".",module,Magento_Indexer
 "%1 indexer(s) are in ""Update on Save"" mode.","%1 index sont en mode ""Mise à jour à l'enregistrement"".",module,Magento_Indexer
-"A total of %1 indexer(s) have been turned Update by Schedule mode on.","%1 indexer(s) sont à présent: Mise à jour par les tâches programmées.",module,Magento_Indexer
+"A total of %1 indexer(s) have been turned Update by Schedule mode on.","%1 indexer(s) sont à présent : Mise à jour par les tâches programmées.",module,Magento_Indexer
 "A total of %1 indexer(s) have been turned Update on Save mode on.","%1 indexer(s) sont passés en mode mis à jour à la sauvegarde.",module,Magento_Indexer
 "Description","Description",module,Magento_Indexer
 "Indexer","Index",module,Magento_Indexer

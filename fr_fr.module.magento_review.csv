@@ -24,7 +24,7 @@
 "A total of %1 record(s) have been updated.","Un total de %1 enregistrement(s) mis à jour.",module,Magento_Review
 "Author","Auteur",module,Magento_Review
 "Average Customer Rating","Note moyenne des clients",module,Magento_Review
-"Average Customer Rating:","Note moyenne des clients:",module,Magento_Review
+"Average Customer Rating:","Note moyenne des clients :",module,Magento_Review
 "Back","Retour",module,Magento_Review
 "Back to Main Product Info","Retour à la fiche du produit",module,Magento_Review
 "Back to My Reviews","Retour à mes avis",module,Magento_Review

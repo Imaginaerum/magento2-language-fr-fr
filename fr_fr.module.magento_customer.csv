@@ -23,10 +23,10 @@
 """%1"" width exceeds allowed value of %2 px.","La largeur de ""%1"" excède la valeur de %2 px.",module,Magento_Customer
 "Account already active","Compte déjà actif",module,Magento_Customer
 "Account confirmation is required. Please, check your email for the confirmation link. To resend the confirmation email please <a href=""%1"">click here</a>.","Confirmation de compte requise. Veuillez vérifier vos emails pour obtenir le lien de confirmation. Pour recevoir à nouveau la confirmation, <a href=""%1"">cliquez ici</a>.",module,Magento_Customer
-"Account Created:","Compte Créé:",module,Magento_Customer
+"Account Created:","Compte Créé :",module,Magento_Customer
 "Account Created in","Compte créé dans",module,Magento_Customer
-"Account Created in:","Compte créé dans:",module,Magento_Customer
-"Account Created on (%1):","Compte créé le (%1):",module,Magento_Customer
+"Account Created in:","Compte créé dans :",module,Magento_Customer
+"Account Created on (%1):","Compte créé le (%1) :",module,Magento_Customer
 "Account Created on:","Compte créé le :",module,Magento_Customer
 "Account Dashboard","Tableau de bord du Compte",module,Magento_Customer
 "Account Information","Informations du Compte",module,Magento_Customer
@@ -120,8 +120,8 @@
 "Create New Account Options","Options de création de nouveaux comptes",module,Magento_Customer
 "Create New Customer Account","Créer un nouveau compte client",module,Magento_Customer
 "Create Order","Créer une Commande",module,Magento_Customer
-"Creating an account has many benefits:","La création d'un compte possède de nombreux avantages:",module,Magento_Customer
-"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","La création d'un compte a de nombreux avantages: consultation rapide, sauvegarder plusieurs adresses, suivre les commandes, et bien plus encore.",module,Magento_Customer
+"Creating an account has many benefits:","La création d'un compte possède de nombreux avantages :",module,Magento_Customer
+"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","La création d'un compte a de nombreux avantages : consultation rapide, sauvegarder plusieurs adresses, suivre les commandes, et bien plus encore.",module,Magento_Customer
 "Current Password","Mot de Passe Actuel",module,Magento_Customer
 "Customer","Client",module,Magento_Customer
 "Customer Addresses","Adresses client",module,Magento_Customer

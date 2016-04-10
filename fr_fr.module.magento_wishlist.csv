@@ -19,9 +19,9 @@
 "Add to Compare","Ajouter au comparateur",module,Magento_Wishlist
 "Add to Wishlist","Ajouter à ma liste d'envie",module,Magento_Wishlist
 "Add to Wish List","Ajouter à ma liste d'envie",module,Magento_Wishlist
-"An error occurred while adding item to wish list: %1","Une erreur s'est produite lors de l'ajout à la liste d'envies du produit: %1",module,Magento_Wishlist
+"An error occurred while adding item to wish list: %1","Une erreur s'est produite lors de l'ajout à la liste d'envies du produit : %1",module,Magento_Wishlist
 "An error occurred while adding item to wish list.","Une erreur s'est produite lors de l'ajout de l'article à la liste d'envies.",module,Magento_Wishlist
-"An error occurred while deleting the item from wish list: %1","Une erreur s'est produite lors de la suppression de l'article de la liste d'envies: %1",module,Magento_Wishlist
+"An error occurred while deleting the item from wish list: %1","Une erreur s'est produite lors de la suppression de l'article de la liste d'envies : %1",module,Magento_Wishlist
 "An error occurred while deleting the item from wish list.","Une erreur s'est produite lors de la suppression de l'article de la liste d'envies.",module,Magento_Wishlist
 "An error occurred while updating wish list.","Une erreur s'est produite lors de la mise à jour de la liste d'envies.",module,Magento_Wishlist
 "An item option with code %1 already exists.","Une option article avec le code %1 existe déjà.",module,Magento_Wishlist
@@ -42,7 +42,7 @@
 "Check this checkbox if you want to add a link to an rss feed to your wishlist.","Cochez cette case si vous souhaitez ajouter un lien vers un flux RSS vers votre liste d'envies.",module,Magento_Wishlist
 "Click for price","Cliquez pour afficher le prix",module,Magento_Wishlist
 "Comment","Commentaire",module,Magento_Wishlist
-"Comment:","Commentaire:",module,Magento_Wishlist
+"Comment:","Commentaire :",module,Magento_Wishlist
 "Configure","Configurer",module,Magento_Wishlist
 "%customer_name wants to share this Wish List from %store_name with you:","%customer_name désire partager cette liste d'envies de %store_name avec vous:",module,Magento_Wishlist
 "Days in Wish List","Nombre de jour dans la liste d'envies",module,Magento_Wishlist

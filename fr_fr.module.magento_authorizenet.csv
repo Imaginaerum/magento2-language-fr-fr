@@ -3,7 +3,7 @@
 "Accepted Currency","Devise acceptée",module,Magento_Authorizenet
 "Allow Partial Authorization","Permettre l'autorisation partielle",module,Magento_Authorizenet
 "amount %1","montant %1",module,Magento_Authorizenet
-"Amount of %1 approved by payment gateway. Transaction ID: ""%2"".","Montant de %1 approuvé par la passerelle de paiement. ID de transaction: ""%2"".",module,Magento_Authorizenet
+"Amount of %1 approved by payment gateway. Transaction ID: ""%2"".","Montant de %1 approuvé par la passerelle de paiement. ID de transaction : ""%2"".",module,Magento_Authorizenet
 "API Login ID","ID de connexion à l'API",module,Magento_Authorizenet
 "Are you sure you want to cancel your payment? Click OK to cancel your payment and release the amount on hold. Click Cancel to enter another credit card and continue with your payment.","Êtes-vous sûr(e) de vouloir annuler votre paiement ? Cliquez sur OK pour annuler votre paiement et libérer le montant bloqué. Cliquez sur Annuler pour saisir une autre carte bancaire et continuer le paiement.",module,Magento_Authorizenet
 "authorize","autoriser",module,Magento_Authorizenet

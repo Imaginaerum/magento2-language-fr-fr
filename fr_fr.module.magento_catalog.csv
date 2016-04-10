@@ -94,7 +94,7 @@
 "Are you sure you would like to remove all products from your comparison?","Êtes-vous sûr(e) de vouloir enlever tous les produits de la comparaison ?",module,Magento_Catalog
 "Are you sure you would like to remove this item from the compare products?","Êtes-vous sûr(e) de vouloir enlever cet article de la comparaison ?",module,Magento_Catalog
 "As low as","À partir de",module,Magento_Catalog
-"As low as:","À partir de:",module,Magento_Catalog
+"As low as:","À partir de :",module,Magento_Catalog
 "A total of %1 record(s) have been deleted.","Un total de %1 enregistrement(s) supprimé(s).",module,Magento_Catalog
 "A total of %1 record(s) have been updated.","Un total de %1 enregistrement(s) mis à jour.",module,Magento_Catalog
 "A total of %1 record(s) were updated.","Un total de %1 enregistrement(s) mis à jour.",module,Magento_Catalog
@@ -131,7 +131,7 @@
 "Buy %1 for %2","Achetez en %1 pour %2",module,Magento_Catalog
 "Buy %1 for %2 each","Achetez-en %1 pour %2",module,Magento_Catalog
 "Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","Acheter %1 pour %2 et <strong class=""benefit"">économisez<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>",module,Magento_Catalog
-"Buy %1 for: ","Acheter %1 pour: ",module,Magento_Catalog
+"Buy %1 for: ","Acheter %1 pour : ",module,Magento_Catalog
 "Cache Lifetime (Seconds)","Durée de vie du cache (secondes)",module,Magento_Catalog
 "Can be Divided into Multiple Boxes for Shipping","Peut être divisé en plusieurs colis pour la livraison",module,Magento_Catalog
 "Cancel","Annuler",module,Magento_Catalog
@@ -186,17 +186,17 @@
 "Compatible File Extensions","Extensions de fichiers compatibles",module,Magento_Catalog
 "Compatible file extensions to upload","Extensions de fichier pris en charge à l’envoi de fichier",module,Magento_Catalog
 "Configurable products allow customers to choose options (Ex: shirt color).
-You need to create a simple product for each configuration (Ex: a product for each color).","Les produits configurables permettent aux clients de choisir des options (ex: couleur de chemise).
-             Vous devez créer un produit simple pour chaque configuration (Ex: un produit pour chaque couleur).",module,Magento_Catalog
+You need to create a simple product for each configuration (Ex: a product for each color).","Les produits configurables permettent aux clients de choisir des options (ex : couleur de chemise).
+             Vous devez créer un produit simple pour chaque configuration (ex : un produit pour chaque couleur).",module,Magento_Catalog
 "Configurations","Configurations",module,Magento_Catalog
 "Configure Product","Configurer le produit",module,Magento_Catalog
-"(Copy data from: %1)","(Copier les données depuis: %1)",module,Magento_Catalog
+"(Copy data from: %1)","(Copier les données depuis : %1)",module,Magento_Catalog
 "Cost","Coût",module,Magento_Catalog
 "Could not assign product ""%1"" to websites ""%2""","Impossible d'assigner le produit ""%1"" aux sites web ""%2""",module,Magento_Catalog
 "Could not move category","Impossible de déplacer la catégorie",module,Magento_Catalog
 "Could not rebuild index for undefined product","Impossible de reconstruire l'index d'un produit non défini",module,Magento_Catalog
 "Could not remove custom option","Impossible de supprimer l'option personnalisée",module,Magento_Catalog
-"Could not save category: %1","Impossible de sauvegarder la catégorie: %1",module,Magento_Catalog
+"Could not save category: %1","Impossible de sauvegarder la catégorie : %1",module,Magento_Catalog
 "Could not save group price","Impossible de sauvegarder ce prix de groupe",module,Magento_Catalog
 "Could not save product ""%1"" with position %2 to category %3","Impossible de sauvegarder le  produit ""%1"" avec la position %2 dans la catégorie %3",module,Magento_Catalog
 "Could not save product ""%1"" with websites %2","Impossible de sauvegarder le produit ""%1"" avec les sites Web %2",module,Magento_Catalog

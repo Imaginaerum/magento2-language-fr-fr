@@ -197,5 +197,5 @@
 "You saved the tax rate.","Taux de taxe sauvegardé.",module,Magento_Tax
 "You saved the tax rule.","Règle de taxe sauvegardée.",module,Magento_Tax
 "Zip code should not contain characters other than digits.","Le code postal ne doit contenir que des chiffres.",module,Magento_Tax
-"Zip/Post Code","Code Postal",module,Magento_Tax
+"Zip/Post Code","Code postal",module,Magento_Tax
 "Zip/Post is Range","Le code postal est une tranche",module,Magento_Tax

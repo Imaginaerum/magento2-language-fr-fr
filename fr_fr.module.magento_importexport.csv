@@ -12,14 +12,14 @@
 "Begin export of %1","Commencez l'exportation de %1",module,Magento_ImportExport
 "Begin import of ""%1"" with ""%2"" behavior","Commencez l'importation de ""%1"" avec ""%2"" en comportement",module,Magento_ImportExport
 "Cannot determine attribute filter type","Impossible de déterminer le type de filtre attribut",module,Magento_ImportExport
-"Cannot find required columns: %1","Impossible de trouver la colonne requise: %1",module,Magento_ImportExport
+"Cannot find required columns: %1","Impossible de trouver la colonne requise : %1",module,Magento_ImportExport
 "Cannot get autoincrement value","Impossible d'obtenir la valeur d'incrémentation automatique",module,Magento_ImportExport
 "Check Data","Vérifier les données",module,Magento_ImportExport
-"Checked rows: %1, checked entities: %2, invalid rows: %3, total errors: %4","Tranches vérifiées: %1, entités vérifiées: %2, lignes invalides: %3, total erreurs: %4",module,Magento_ImportExport
-"Column names: ""%1"" are invalid","Noms de colonne: ""%1"" invalides",module,Magento_ImportExport
-"Columns number: ""%1"" have empty headers","Colonne numéro: ""%1"" possède un en-tête vide",module,Magento_ImportExport
+"Checked rows: %1, checked entities: %2, invalid rows: %3, total errors: %4","Tranches vérifiées : %1, entités vérifiées : %2, lignes invalides : %3, total erreurs : %4",module,Magento_ImportExport
+"Column names: ""%1"" are invalid","Noms de colonne : ""%1"" invalides",module,Magento_ImportExport
+"Columns number: ""%1"" have empty headers","Colonne numéro : ""%1"" possède un en-tête vide",module,Magento_ImportExport
 "Continue","Continuer",module,Magento_ImportExport
-"Created: %1, Updated: %2, Deleted: %3","Crée: %1, Mis à jour: %2, Supprimé: %3",module,Magento_ImportExport
+"Created: %1, Updated: %2, Deleted: %3","Crée : %1, Mis à jour : %2, Supprimé : %3",module,Magento_ImportExport
 "Custom Action","Action personnalisée",module,Magento_ImportExport
 "Data is invalid or file is not uploaded","Les données sont invalides ou le fichier n'a pas été uploadé",module,Magento_ImportExport
 "Data validation is failed. Please fix errors and re-upload the file..","La validation des données a échoué. Veuillez corriger les erreurs et re-uploader le fichier.",module,Magento_ImportExport

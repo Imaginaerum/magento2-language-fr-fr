@@ -60,11 +60,11 @@
 "An error occurred while refreshing cache.","Une erreur s'est produite pendant le rafraîchissement du cache.",module,Magento_Backend
 "An error occurred while saving account.","Erreur lors de la sauvegarde du compte.",module,Magento_Backend
 "An error occurred while saving. Please review the error log.","Erreur lors de la sauvegarde. Vérifiez les logs.",module,Magento_Backend
-"An error occurred while saving this configuration:","Erreur lors de la sauvegarde de cette configuration:",module,Magento_Backend
+"An error occurred while saving this configuration:","Erreur lors de la sauvegarde de cette configuration :",module,Magento_Backend
 "An error occurred while saving URL Rewrite.","Une erreur est survenue pendant l'enregistrement de la réécriture d'URL.",module,Magento_Backend
 "Any","TOUT",module,Magento_Backend
-"Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. http://example.com/magento/","Chacun de ces champs peut utiliser une URL se terminant par '/' (slash) ex: http://example.com/magento/",module,Magento_Backend
-"Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. https://example.com/magento/","Chacun de ces champs peut utiliser une URL se terminant par '/' (slash) ex: https://example.com/magento/",module,Magento_Backend
+"Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. http://example.com/magento/","Chacun de ces champs peut utiliser une URL se terminant par '/' (slash) ex : http://example.com/magento/",module,Magento_Backend
+"Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. https://example.com/magento/","Chacun de ces champs peut utiliser une URL se terminant par '/' (slash) ex : https://example.com/magento/",module,Magento_Backend
 "Are you sure?","Êtes-vous sûr(e)?",module,Magento_Backend
 "Are you sure you want to do this?","Êtes-vous sûr(e) de vouloir faire cela?",module,Magento_Backend
 "Authentication error occurred.","Une erreur d'authentification s'est produite.",module,Magento_Backend
@@ -100,7 +100,7 @@
 "Cannot delete the design change.","Impossible de supprimer le changement de design.",module,Magento_Backend
 "Catalog","Catalogue",module,Magento_Backend
 "Catalog Rewrites","Réécriture du Catalogue",module,Magento_Backend
-"Category:","Catégorie:",module,Magento_Backend
+"Category:","Catégorie :",module,Magento_Backend
 "Changes have been made to this section that have not been saved.","Des modifications ont été apportées à cette section qui n'a pas été encore sauvegardée.",module,Magento_Backend
 "Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","Les données graphiques sont désactivées. Cliquez <a href=""%1"">ici</a> pour les activer.",module,Magento_Backend
 "Chosen category does not associated with the chosen store.","La catégorie n'est pas associée au magasin.",module,Magento_Backend
@@ -110,7 +110,7 @@
 "City","Ville",module,Magento_Backend
 "Clear","Vider",module,Magento_Backend
 "Close","Fermer",module,Magento_Backend
-"CMS page:","Page CMS:",module,Magento_Backend
+"CMS page:","Page CMS :",module,Magento_Backend
 "Code","Code",module,Magento_Backend
 "Communications","Communications",module,Magento_Backend
 "Community Edition","Community Edition",module,Magento_Backend
@@ -126,7 +126,7 @@
 "Create DB Backup","Créer une sauvegarde de la base de données",module,Magento_Backend
 "Create Store","Créer un Magasin",module,Magento_Backend
 "Create Store View","Créer une Vue Magasin",module,Magento_Backend
-"Create URL Rewrite:","Créer une réécriture d'URL:",module,Magento_Backend
+"Create URL Rewrite:","Créer une réécriture d'URL :",module,Magento_Backend
 "Create Website","Créer un Site Web",module,Magento_Backend
 "CSS Settings","Paramètres CSS",module,Magento_Backend
 "Currency ""%1"" is used as %2 in %3.","La devise ""%1"" est utilisée comme %2 dans %3.",module,Magento_Backend

@@ -12,10 +12,10 @@
 "Are you sure you want to do this?","Êtes-vous sûr(e) de vouloir faire cela?",module,Magento_UrlRewrite
 "Back","Retour",module,Magento_UrlRewrite
 "Block Information","Information du Bloc",module,Magento_UrlRewrite
-"Category:","Catégorie:",module,Magento_UrlRewrite
+"Category:","Catégorie :",module,Magento_UrlRewrite
 "Chosen cms page does not associated with any website.","La page CMS n'est pas associée à un site web.",module,Magento_UrlRewrite
-"CMS page:","Page CMS:",module,Magento_UrlRewrite
-"Create URL Rewrite:","Créer une réécriture d'URL:",module,Magento_UrlRewrite
+"CMS page:","Page CMS :",module,Magento_UrlRewrite
+"Create URL Rewrite:","Créer une réécriture d'URL :",module,Magento_UrlRewrite
 "Custom","Personnalisé",module,Magento_UrlRewrite
 "Custom storage message","Message Système de stockage personnalisé",module,Magento_UrlRewrite
 "Delete","Supprimer",module,Magento_UrlRewrite

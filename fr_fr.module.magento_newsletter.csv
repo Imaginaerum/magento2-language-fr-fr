@@ -12,7 +12,7 @@
 "Back","Retour",module,Magento_Newsletter
 "Cancel","Annuler",module,Magento_Newsletter
 "Cancelled","Annulé",module,Magento_Newsletter
-"Choose Store View:","Choisir la vue magasin:",module,Magento_Newsletter
+"Choose Store View:","Choisir la vue magasin :",module,Magento_Newsletter
 "Confirmation Email Sender","Expéditeur du mail de confirmation",module,Magento_Newsletter
 "Confirmation Email Template","Gabarit du mail de confirmation",module,Magento_Newsletter
 "Convert to Plain Text","Convertir en texte simple",module,Magento_Newsletter

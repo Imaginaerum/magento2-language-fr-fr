@@ -25,7 +25,7 @@
 "Cannot save shipment.","Impossible de sauvegarder l'expédition.",module,Magento_Shipping
 "Cannot send shipment information.","Impossible d'envoyer les informations d'expédition.",module,Magento_Shipping
 "Carrier","Transporteur",module,Magento_Shipping
-"Carrier:","Transporteur:",module,Magento_Shipping
+"Carrier:","Transporteur :",module,Magento_Shipping
 "City","Ville",module,Magento_Shipping
 "Close Window","Fermer la Fenêtre",module,Magento_Shipping
 "cm","cm",module,Magento_Shipping
