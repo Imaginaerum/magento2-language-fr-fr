@@ -3,8 +3,8 @@
 "Add New Row","Ajouter une ligne",module,Magento_Downloadable
 "Add product preview files here.","Ajouter un aperçu du produit ici.",module,Magento_Downloadable
 "All Files","Tous les Fichiers",module,Magento_Downloadable
-"Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with '_'.","Les caractères alphanumériques, les tirets et les underscores sont recommandés pour les noms de fichiers. Les caractères impropres seront remplacés par des underscores.",module,Magento_Downloadable
-"Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with '_'.","Les caractères alphanumériques, les tirets et les underscores sont recommandés pour les noms de fichiers. Les caractères impropres seront remplacés par des underscores.",module,Magento_Downloadable
+"Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with '_'.","Les caractères alphanumériques, les tirets et les caractères de soulignement sont recommandés pour les noms de fichiers. Les caractères impropres seront remplacés par des caractères de soulignement '_'.",module,Magento_Downloadable
+"Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with '_'.","Les caractères alphanumériques, les tirets et les caractères de soulignement sont recommandés pour les noms de fichiers. Les caractères impropres seront remplacés par des caractères de soulignement '_'.",module,Magento_Downloadable
 "Attach File or Enter Link","Attacher un fichier ou entrer un lien",module,Magento_Downloadable
 "attachment","pièce jointe",module,Magento_Downloadable
 "Availability","Disponibilité",module,Magento_Downloadable
