@@ -4,8 +4,8 @@
 "A total of %1 indexer(s) have been turned Update on Save mode on.","%1 indexer(s) sont passés en mode mis à jour à la sauvegarde.",module,Magento_Indexer
 "Description","Description",module,Magento_Indexer
 "Indexer","Index",module,Magento_Indexer
-"Indexer Management","Gestion des indexes",module,Magento_Indexer
-"Index Management","Gestion des indexes",module,Magento_Indexer
+"Indexer Management","Gestion des index",module,Magento_Indexer
+"Index Management","Gestion des index",module,Magento_Indexer
 "Mode","Mode",module,Magento_Indexer
 "Never","Jamais",module,Magento_Indexer
 "One or more <a href=""%1"">indexers are invalid</a>. Make sure your <a href=""%2"" target=""_blank"">Magento cron job</a> is running.","Un ou plusieurs <a href=""%1"">indexes sont invalides</a>. Assurez-vous que <a href""%2"">le CRON Magento</a> est lancé.",module,Magento_Indexer
@@ -21,4 +21,4 @@
 "Update by Schedule","Mise à jour périodique",module,Magento_Indexer
 "Updated","Mis à jour",module,Magento_Indexer
 "Update on Save","Mise à jour à la sauvegarde",module,Magento_Indexer
-"We couldn't change indexer(s)' mode because of an error.","Impossible de modifier le mode des indexes en raison d'une erreur.",module,Magento_Indexer
+"We couldn't change indexer(s)' mode because of an error.","Impossible de modifier le mode des index en raison d'une erreur.",module,Magento_Indexer

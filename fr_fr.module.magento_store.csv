@@ -29,7 +29,7 @@
 "Reflection Data","Données de Reflection",module,Magento_Store
 "Requested store is inactive","La magasin est inactif",module,Magento_Store
 "Requested store is not found","Le magasin est introuvable",module,Magento_Store
-"Results of DDL queries, such as describing tables or indexes.","Résultats des requêtes DDL, comme la description des tables et des indexes.",module,Magento_Store
+"Results of DDL queries, such as describing tables or indexes.","Résultats des requêtes DDL, comme la description des tables et des index.",module,Magento_Store
 "Select Store","Choisir un magasin",module,Magento_Store
 "Store is inactive","Magasin désactivé",module,Magento_Store
 "Store with the same code","Magasin avec le même code",module,Magento_Store
