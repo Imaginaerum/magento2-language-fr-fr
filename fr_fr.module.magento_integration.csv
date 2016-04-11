@@ -70,7 +70,7 @@
 "%name% '%value%' is too long. It must has length %min% symbols.","%name% '%value%' est trop long. Il doit avoir maximum %min% symboles.",module,Magento_Integration
 "%name% '%value%' is too short. It must has length %min% symbols.","%name% '%value%' est trop court. Il doit avoir minimum %min% symboles.",module,Magento_Integration
 "New Integration","Nouvelle intégration",module,Magento_Integration
-"No Integrations Found","Aucune Integration trouvées",module,Magento_Integration
+"No Integrations Found","Aucune Intégration trouvée",module,Magento_Integration
 "No permissions requested","Aucune autorisation demandée",module,Magento_Integration
 "Number of maximum redirects for OAuth consumer credentials Post request.","Nombre maximum de requêtes de redirection OAuth atteint.",module,Magento_Integration
 "OAuth","OAuth",module,Magento_Integration
