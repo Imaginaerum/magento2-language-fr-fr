@@ -301,7 +301,7 @@
 "Manage Stores","Gérer les Magasins",module,Magento_Backend
 "Marketing","Marketing",module,Magento_Backend
 "Mass Actions","Actions de masse",module,Magento_Backend
-"Maximum sender name length is 255. Please correct your settings.","Longueur maximale du nom de l'expéditeur est de 255. Veuillez corriger vos paramètres.",module,Magento_Backend
+"Maximum sender name length is 255. Please correct your settings.","La longueur maximale du nom de l'expéditeur est de 255. Veuillez corriger vos paramètres.",module,Magento_Backend
 "May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","Peut être vide ou commencer par la variable {{secure_base_url}} ou {{unsecure_base_url}}.",module,Magento_Backend
 "May be empty or start with {{unsecure_base_url}} placeholder.","Peut être vide ou commencer par la variable {{unsecure_base_url}}.",module,Magento_Backend
 "Media (.avi, .flv, .swf)","Média (.avi, .flv, .swf)",module,Magento_Backend

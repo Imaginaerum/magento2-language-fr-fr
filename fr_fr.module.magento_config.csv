@@ -35,7 +35,7 @@
 "HTTP (unsecure)","HTTP (non sécurisé)",module,Magento_Config
 "Invalid %1. %2","Invalide %1. %2",module,Magento_Config
 "Invalid XML in file %1:n%2","XML invalide dans le fichier %1:n%2",module,Magento_Config
-"Maximum sender name length is 255. Please correct your settings.","Longueur maximale du nom de l'expéditeur est de 255. Veuillez corriger vos paramètres.",module,Magento_Config
+"Maximum sender name length is 255. Please correct your settings.","La longueur maximale du nom de l'expéditeur est de 255. Veuillez corriger vos paramètres.",module,Magento_Config
 "Never (production)","Jamais (en production)",module,Magento_Config
 "No","Non",module,Magento_Config
 "-- No Theme --","-- Aucun thème --",module,Magento_Config
