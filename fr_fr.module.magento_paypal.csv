@@ -294,7 +294,7 @@
 "N/A. International Unavailable","N/A. International Indisponible",module,Magento_Paypal
 "N/A. Merchant has indicated that CVV2 is not present on card","N/A. CVV2 n'est pas présent sur la carte",module,Magento_Paypal
 "N/A. No response","N/A. Aucune réponse",module,Magento_Paypal
-"N/A. Not allowed for MOTO (Internet/Phone) transactions","N/A. Transaction non autorisé. Transactions (Internet/Téléphone) MOTO",module,Magento_Paypal
+"N/A. Not allowed for MOTO (Internet/Phone) transactions","N/A. Transaction non autorisée. Transactions (Internet/Téléphone) MOTO",module,Magento_Paypal
 "N/A. Not processed","N/A. Non traitée",module,Magento_Paypal
 "N/A. Retry","N/A. Recommencer",module,Magento_Paypal
 "N/A. Service not available","N/A. Service Indisponible",module,Magento_Paypal
