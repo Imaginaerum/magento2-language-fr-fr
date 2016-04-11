@@ -124,7 +124,7 @@
 "Payment Failed Template","Gabarit d'erreur de paiement",module,Magento_Checkout
 "Payment Information","Informations de paiement",module,Magento_Checkout
 "Payment Method","Mode de paiement",module,Magento_Checkout
-"Payment Method:","Mode de paiement:",module,Magento_Checkout
+"Payment Method:","Mode de paiement :",module,Magento_Checkout
 "Payment Transaction Failed","Échec lors de la transaction de paiement",module,Magento_Checkout
 "Phone Number","Numéro de téléphone",module,Magento_Checkout
 "Place Order","Passez la commande",module,Magento_Checkout

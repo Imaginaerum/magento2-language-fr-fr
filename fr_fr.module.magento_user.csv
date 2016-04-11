@@ -68,7 +68,7 @@
 "Password Lifetime (days)","Durée de vie du mot de passe (en jours)",module,Magento_User
 "Permissions","Permissions",module,Magento_User
 "Please correct the password reset token.","Veuillez corriger le jeton de réinitialisation de mot de passe.",module,Magento_User
-"Please correct this email address: ""%1"".","Veuillez corriger cette adresse email: ""%1"".",module,Magento_User
+"Please correct this email address: ""%1"".","Veuillez corriger cette adresse email : ""%1"".",module,Magento_User
 "Please correct this email address:","Veuillez corriger cette adresse email :",module,Magento_User
 "Please enter an email address.","Veuillez renseigner une adresse email.",module,Magento_User
 "Please enter a valid email.","Veuillez saisir une adresse email valide.",module,Magento_User

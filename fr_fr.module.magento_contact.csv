@@ -15,7 +15,7 @@
 "Name: %name","Nom: %name",module,Magento_Contact
 "Page not found.","Page introuvable.",module,Magento_Contact
 "Phone Number","Numéro de téléphone",module,Magento_Contact
-"Phone Number: %telephone","Numéro de téléphone: %telephone",module,Magento_Contact
+"Phone Number: %telephone","Numéro de téléphone : %telephone",module,Magento_Contact
 "* Required Fields","* Champs requis",module,Magento_Contact
 "Send Emails To","Envoyer les mails à",module,Magento_Contact
 "Submit","Envoyer",module,Magento_Contact

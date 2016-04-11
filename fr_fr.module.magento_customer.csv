@@ -324,7 +324,7 @@
 "Please correct the email address.","Veuillez corriger l'adresse email.",module,Magento_Customer
 "Please correct the quote items and try again.","Veuillez corriger le commentaire sur le produit et essayez à nouveau.",module,Magento_Customer
 "Please correct the transactional account email type.","Veuillez corriger le type compte de messagerie transactionnel.",module,Magento_Customer
-"Please correct this email address: ""%1"".","Veuillez corriger cette adresse email: ""%1"".",module,Magento_Customer
+"Please correct this email address: ""%1"".","Veuillez corriger cette adresse email : ""%1"".",module,Magento_Customer
 "Please define Wish List item ID.","Veuillez définir un ID produit pour la liste d'envie.",module,Magento_Customer
 "Please enter a customer email.","Veuillez entrer l'adresse email du client.",module,Magento_Customer
 "Please enter a date of birth.","Veuillez entrer une Date de naissance.",module,Magento_Customer

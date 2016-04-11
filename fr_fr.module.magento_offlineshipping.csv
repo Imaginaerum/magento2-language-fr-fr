@@ -28,7 +28,7 @@
 "Please correct Country ""%1"" in the Row #%2.","Veuillez corriger le pays ""%1"" à la ligne #%2.",module,Magento_OfflineShipping
 "Please correct Region/State ""%1"" in the Row #%2.","Veuillez corriger la région/état ""%1"" à la ligne #%2.",module,Magento_OfflineShipping
 "Please correct Shipping Price ""%1"" in the Row #%2.","Veuillez corriger le prix de la livraison ""%1"" de la ligne #%2.",module,Magento_OfflineShipping
-"Please correct Table Rate code for type %1: %2.","Veuillez corriger la tarification du type %1: %2.",module,Magento_OfflineShipping
+"Please correct Table Rate code for type %1: %2.","Veuillez corriger la tarification du type %1 : %2.",module,Magento_OfflineShipping
 "Please correct Table Rate code type: %1.","Veuillez corriger la tarification pour le type %1.",module,Magento_OfflineShipping
 "Please correct Table Rates File Format.","Veuillez corriger le format de fichier de la tarification.",module,Magento_OfflineShipping
 "Please correct Table Rates format in the Row #%1.","Veuillez corriger le format de la tarification à la ligne #%1.",module,Magento_OfflineShipping

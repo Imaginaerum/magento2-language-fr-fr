@@ -344,14 +344,14 @@
 "Payer Status","Statut du Payeur",module,Magento_Paypal
 "Payflow Link and Express Checkout","Payflow Link et Express Checkout",module,Magento_Paypal
 "Payflow Link (Includes Express Checkout)","Payflow Link (Contient Express Checkout)",module,Magento_Paypal
-"Payflow PNREF: #%1.","Payflow PNREF: #%1.",module,Magento_Paypal
+"Payflow PNREF: #%1.","Payflow PNREF : #%1.",module,Magento_Paypal
 "Payflow Pro","Payflow Pro",module,Magento_Paypal
 "Payflow Pro and Express Checkout","Payflow Pro et Express Checkout",module,Magento_Paypal
 "Payflow Pro (Includes Express Checkout)","Payflow Pro (Contient Express Checkout)",module,Magento_Paypal
 "Payment Action","Action de Paiement",module,Magento_Paypal
 "Payment Applicable From","Paiement valable depuis",module,Magento_Paypal
 "Payment Method","Mode de paiement",module,Magento_Paypal
-"Payment Method:","Mode de paiement:",module,Magento_Paypal
+"Payment Method:","Mode de paiement :",module,Magento_Paypal
 "Payment Refund initiated by merchant","Remboursement de paiement initié par le marchand",module,Magento_Paypal
 "Payments Advanced and Express Checkout","Payments Advanced et Express Checkout",module,Magento_Paypal
 "Payments Advanced (Includes Express Checkout)","Payments Advanced (Contient Express Checkout)",module,Magento_Paypal

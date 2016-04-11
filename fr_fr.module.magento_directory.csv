@@ -21,7 +21,7 @@
 "kgs","kgs",module,Magento_Directory
 "label","libellé",module,Magento_Directory
 "lbs","lbs",module,Magento_Directory
-"Please correct the country code: %1.","Veuillez corriger le code pays: %1.",module,Magento_Directory
+"Please correct the country code: %1.","Veuillez corriger le code pays : %1.",module,Magento_Directory
 "Please correct the rates received","Veuillez corriger les taux récupérés",module,Magento_Directory
 "Please correct the target currency.","Veuillez corriger la devise cible.",module,Magento_Directory
 "--Please select--","-- Faire un Choix --",module,Magento_Directory

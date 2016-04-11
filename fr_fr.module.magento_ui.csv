@@ -35,12 +35,12 @@
 "Please enter at least {0} characters","Veuillez renseigner au moins {0} caractères",module,Magento_Ui
 "Please enter at least {0} words.","Veuillez renseigner au moins {0} mots.",module,Magento_Ui
 "Please enter a valid $ amount. For example $100.00.","Veuillez saisir un montant valide. Par exemple $100.00.",module,Magento_Ui
-"Please enter a valid email address (Ex: johndoe@domain.com).","Veuillez renseigner une adresse email valide (Ex: johndoe@domain.com).",module,Magento_Ui
-"Please enter a valid fax number (Ex: 123-456-7890).","Veuillez renseigner un numéro de fax valide (Ex: 123-456-7890).",module,Magento_Ui
+"Please enter a valid email address (Ex: johndoe@domain.com).","Veuillez renseigner une adresse email valide (ex : johndoe@domain.com).",module,Magento_Ui
+"Please enter a valid fax number (Ex: 123-456-7890).","Veuillez renseigner un numéro de fax valide (ex : 123-456-7890).",module,Magento_Ui
 "Please enter a valid IP v4 address.","Veuillez renseigner une adresse IPv4 valide.",module,Magento_Ui
 "Please enter a valid IP v6 address.","Veuillez renseigner une adresse IPv6 valide.",module,Magento_Ui
 "Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.","Veuillez saisir un numéro de téléphone valide.",module,Magento_Ui
-"Please enter a valid social security number (Ex: 123-45-6789).","Veuillez renseigner un numéro de sécurité sociale valide (Ex : 123-45-6789).",module,Magento_Ui
+"Please enter a valid social security number (Ex: 123-45-6789).","Veuillez renseigner un numéro de sécurité sociale valide (ex : 123-45-6789).",module,Magento_Ui
 "Please enter a valid time, between 00:00 am and 12:00 pm","Veuillez renseigner une heure valide, entre 00:00 am et 12:00 pm",module,Magento_Ui
 "Please enter a valid time, between 00:00 and 23:59","Veuillez renseigner une heure valide, entre 00:00 et 23:59",module,Magento_Ui
 "Please enter a valid URL. For example http://www.example.com or www.example.com.","Veuillez renseigner une URL valide. Par exemple http://www.exemple.com ou www.exemple.com.",module,Magento_Ui

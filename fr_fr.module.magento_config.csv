@@ -42,7 +42,7 @@
 "Only Once (version upgrade)","Une fois seulement (mise à jour de version)",module,Magento_Config
 "Optional","Facultatif",module,Magento_Config
 "Page not found.","Page introuvable.",module,Magento_Config
-"Please correct the email address: ""%1"".","Veuillez corriger l'adresse email: ""%1"".",module,Magento_Config
+"Please correct the email address: ""%1"".","Veuillez corriger l'adresse email : ""%1"".",module,Magento_Config
 "Please correct the timezone.","Veuillez corriger le fuseau horaire.",module,Magento_Config
 "Please specify the admin custom URL.","Spécifiez l'URL d'Admin personnalisée.",module,Magento_Config
 "Required","Requis",module,Magento_Config
