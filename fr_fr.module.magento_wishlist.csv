@@ -70,7 +70,7 @@
 "Max Emails Allowed to be Sent","Nombre maximal de destinataires",module,Magento_Wishlist
 "Message","Message",module,Magento_Wishlist
 "message","message",module,Magento_Wishlist
-"Message from %customer_name:","Message de la part de %customer_name:",module,Magento_Wishlist
+"Message from %customer_name:","Message de la part de %customer_name :",module,Magento_Wishlist
 "Message length must not exceed %1 symbols","La longueur du message ne peut pas dépasser %1 caractères",module,Magento_Wishlist
 "Move to Wishlist","Ajouter à la liste d'envies",module,Magento_Wishlist
 "My Wish List","Ma liste d'envies",module,Magento_Wishlist

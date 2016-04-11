@@ -24,7 +24,7 @@
 "Max Recipients","Nombre maxi de destinataires",module,Magento_SendFriend
 "Message","Message",module,Magento_SendFriend
 "Message:","Message:",module,Magento_SendFriend
-"Message from %sender_name:","Message de la part de %sender_name:",module,Magento_SendFriend
+"Message from %sender_name:","Message de la part de %sender_name :",module,Magento_SendFriend
 "Name:","Nom :",module,Magento_SendFriend
 "%name,","%name,",module,Magento_SendFriend
 "Name","Nom",module,Magento_SendFriend
