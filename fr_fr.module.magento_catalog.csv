@@ -397,7 +397,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Maximum image height","Hauteur maximum d'image",module,Magento_Catalog
 "Maximum Image Size","Taille d'image maximum",module,Magento_Catalog
 "Maximum image width","Largeur maximum d'image",module,Magento_Catalog
-"Maximum number of characters:","Nombre maxi de caractères:",module,Magento_Catalog
+"Maximum number of characters:","Nombre maxi de caractères :",module,Magento_Catalog
 "Maximum Qty Allowed in Shopping Cart","Quantité maximale autorisée dans le panier",module,Magento_Catalog
 "Media Gallery converter should be an instance of EntryConverterInterface.","Le convertisseur Media Gallery doit être une instance de EntryConverterInterface.",module,Magento_Catalog
 "Media Image","Image",module,Magento_Catalog
