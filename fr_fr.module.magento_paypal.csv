@@ -289,7 +289,7 @@
 "Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.","Les marchands doivent faire une demande à PayPal pour activer les accords de facturation. Ne pas activer cette option tant que PayPal n'a pas confirmé que les accords de facturation sont activés sur votre compte marchand.",module,Magento_Paypal
 "Mobile Payment (made via a mobile phone)","Paiement par mobile (réalisé par l'intermédiaire d'un téléphone mobile)",module,Magento_Paypal
 "N/A","N/A",module,Magento_Paypal
-"N/A. Address not checked, or acquirer had no response. Service not available","N/A. L'adresse n'a pas été vérifié, ou l'acquéreur n'a pas donné de réponse. Service non disponible",module,Magento_Paypal
+"N/A. Address not checked, or acquirer had no response. Service not available","N/A. L'adresse n'a pas été vérifiée, ou l'acquéreur n'a pas donné de réponse. Service non disponible",module,Magento_Paypal
 "N/A. Global Unavailable","N/A. Global Indisponible",module,Magento_Paypal
 "N/A. International Unavailable","N/A. International Indisponible",module,Magento_Paypal
 "N/A. Merchant has indicated that CVV2 is not present on card","N/A. CVV2 n'est pas présent sur la carte",module,Magento_Paypal
