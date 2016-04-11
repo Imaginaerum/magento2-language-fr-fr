@@ -409,7 +409,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Minimum Qty Allowed in Shopping Cart","Quantité minimale autorisée dans le panier",module,Magento_Catalog
 "Minimum Qty for Item's Status to be Out of Stock","Quantité mini pour que l'article soit considéré comme épuisé",module,Magento_Catalog
 "Month","Mois",module,Magento_Catalog
-"More Choices:","Plus de choix:",module,Magento_Catalog
+"More Choices:","Plus de choix :",module,Magento_Catalog
 "More Information","Plus d'Information",module,Magento_Catalog
 "More Views","Plus de vues",module,Magento_Catalog
 "Multiple Select","Sélection multiple",module,Magento_Catalog
