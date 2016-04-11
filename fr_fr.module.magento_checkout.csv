@@ -97,7 +97,7 @@
 "Method Title","Nom de la méthode",module,Magento_Checkout
 "Minimum order amount is %1","Le montant minimal de commande est %1",module,Magento_Checkout
 "Move to Wishlist","Ajouter à la liste d'envies",module,Magento_Checkout
-"My billing and shipping address are the same","Mon adresse de facturation et d'expédition sont les mêmes",module,Magento_Checkout
+"My billing and shipping address are the same","Mes adresses de facturation et d'expédition sont les mêmes",module,Magento_Checkout
 "My Cart (1 item)","Mon Panier (1 Produit)",module,Magento_Checkout
 "My Cart (%1 items)","Mon Panier (%1 Produits)",module,Magento_Checkout
 "My Cart","Mon panier",module,Magento_Checkout
