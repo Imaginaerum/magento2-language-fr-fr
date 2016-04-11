@@ -45,7 +45,7 @@
 "Link title cannot be empty.","Le titre du lien ne peut pas être vide.",module,Magento_Downloadable
 "Link URL must have valid format.","L'URL du Produit téléchargeable doit avoir un format valide.",module,Magento_Downloadable
 "Max. Downloads","Téléchargements max",module,Magento_Downloadable
-"Message:","Message:",module,Magento_Downloadable
+"Message:","Message :",module,Magento_Downloadable
 "Move to Wishlist","Ajouter à la liste d'envies",module,Magento_Downloadable
 "My Downloadable Products","Mes produits téléchargeables",module,Magento_Downloadable
 "No","Non",module,Magento_Downloadable

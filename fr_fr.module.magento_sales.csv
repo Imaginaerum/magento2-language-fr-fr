@@ -289,7 +289,7 @@
 "Maximum shipping amount allowed to refund is: %1","Montant maximum des expéditions permettant le remboursement: %1",module,Magento_Sales
 "Memo Total","Total de l'Avoir",module,Magento_Sales
 "Message","Message",module,Magento_Sales
-"Message:","Message:",module,Magento_Sales
+"Message:","Message :",module,Magento_Sales
 "Minimum Amount","Montant minimum",module,Magento_Sales
 "Minimum Order Amount","Montant de commande minimum",module,Magento_Sales
 "Mixed","Mixte",module,Magento_Sales
