@@ -93,7 +93,7 @@
 "None","aucun",module,Magento_Tax
 "No (price without tax)","Non (prix sans taxes)",module,Magento_Tax
 "No such entity","Aucune entité",module,Magento_Tax
-"Note:","Note:",module,Magento_Tax
+"Note:","Note :",module,Magento_Tax
 "Orders, Invoices, Credit Memos Display Settings","Paramètres d'affichage des commandes, factures et avoirs",module,Magento_Tax
 "Order Total","Total de la commande",module,Magento_Tax
 "Order Total Excl. Tax","Total de la commande HT",module,Magento_Tax
