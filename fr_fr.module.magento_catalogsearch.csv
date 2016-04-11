@@ -24,7 +24,7 @@
 "List","Liste",module,Magento_CatalogSearch
 "Maximum Query Length","Longueur maxi de requête",module,Magento_CatalogSearch
 "Maximum Query Words Count","Nombre maxi de mots dans la requête",module,Magento_CatalogSearch
-"Minimal Query Length","Longueur mini de requête",module,Magento_CatalogSearch
+"Minimal Query Length","Longueur minimale de requête",module,Magento_CatalogSearch
 "Minimum Search query length is %1","La longueur minimale de la requête de recherche est de %1",module,Magento_CatalogSearch
 "Modify your search","Modifier votre recherche",module,Magento_CatalogSearch
 "name","nom",module,Magento_CatalogSearch
