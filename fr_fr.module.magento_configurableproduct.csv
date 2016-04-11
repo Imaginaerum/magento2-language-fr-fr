@@ -101,7 +101,7 @@
 "Products ""%1"" and %2 have the same set of attribute values.","Produits ""%1"" et %2 ont le même jeu de valeurs d'attributs.",module,Magento_ConfigurableProduct
 "Product with id ""%1"" does not contain required attribute ""%2"".","Produit id ""%1"" ne contient pas l'attribut requis ""%2"".",module,Magento_ConfigurableProduct
 "Product with id ""%1"" does not exist.","Produit id ""%1"" n'existe pas.",module,Magento_ConfigurableProduct
-"Product with specified sku: %1 is not a configurable product","Le produit SKU: %1 n'est pas un produit configurable",module,Magento_ConfigurableProduct
+"Product with specified sku: %1 is not a configurable product","Le produit SKU : %1 n'est pas un produit configurable",module,Magento_ConfigurableProduct
 "Qty","Qté",module,Magento_ConfigurableProduct
 "Quantity","Quantité",module,Magento_ConfigurableProduct
 "Quick simple product creation","Création rapide de produit simple",module,Magento_ConfigurableProduct
@@ -109,7 +109,7 @@
 "Remove image","Supprimer l'image",module,Magento_ConfigurableProduct
 "Remove Option","Supprimer l'Option",module,Magento_ConfigurableProduct
 "Remove Product","Supprimer le Produit",module,Magento_ConfigurableProduct
-"Requested option doesn't exist: %1","L'option demandée n'existe pas: %1",module,Magento_ConfigurableProduct
+"Requested option doesn't exist: %1","L'option demandée n'existe pas : %1",module,Magento_ConfigurableProduct
 "Requested option doesn't exist","L'option n'existe pas",module,Magento_ConfigurableProduct
 "Required","Requis",module,Magento_ConfigurableProduct
 "Role","Rôle",module,Magento_ConfigurableProduct
@@ -123,7 +123,7 @@
 "Select attribute","Sélectionnez l'Attribut",module,Magento_ConfigurableProduct
 "Select Attributes","Sélectionnez les Attributs",module,Magento_ConfigurableProduct
 "Select Configurable Attributes","Sélectionnez les attributs configurables",module,Magento_ConfigurableProduct
-"Selected Attributes:","Attributs Sélectionnés:",module,Magento_ConfigurableProduct
+"Selected Attributes:","Attributs sélectionnés :",module,Magento_ConfigurableProduct
 "Select options for all attributes or remove unused attributes.","Sélectionnez les options pour tous les attributs ou supprimer les attributs inutilisés.",module,Magento_ConfigurableProduct
 "Select values from each attribute to include in this product. Each unique combination of values creates a unigue product SKU.","Sélectionnez les valeurs pour chaque attribut à inclure pour ce produit. Chaque combinaison créera un SKU produit unique.",module,Magento_ConfigurableProduct
 "Skip image uploading at this time","Passer l'étape d'upload d'images",module,Magento_ConfigurableProduct
@@ -134,10 +134,10 @@
 "Something went wrong while saving option.","Une erreur s'est produite lors de l'enregistrement de l'option.",module,Magento_ConfigurableProduct
 "Sort Variations","Trier les variations",module,Magento_ConfigurableProduct
 "Status","Statut",module,Magento_ConfigurableProduct
-"Step 1: Select Attributes","Étape 1: Sélection des Attributs",module,Magento_ConfigurableProduct
-"Step 2: Attribute Values","Étape 2: Valeurs des Attributs",module,Magento_ConfigurableProduct
-"Step 3: Bulk Images, Price, and Quantity","Étape 3: Images, Prix et Quantités",module,Magento_ConfigurableProduct
-"Step 4: Summary","Étape 4: Résumé",module,Magento_ConfigurableProduct
+"Step 1: Select Attributes","Étape 1 : Sélection des attributs",module,Magento_ConfigurableProduct
+"Step 2: Attribute Values","Étape 2 : Valeurs des attributs",module,Magento_ConfigurableProduct
+"Step 3: Bulk Images, Price, and Quantity","Étape 3 : Images, prix et quantités",module,Magento_ConfigurableProduct
+"Step 4: Summary","Étape 4 : Résumé",module,Magento_ConfigurableProduct
 "Stock Availability","Disponibilité",module,Magento_ConfigurableProduct
 "Summary","Résumé",module,Magento_ConfigurableProduct
 "System","Système",module,Magento_ConfigurableProduct

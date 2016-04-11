@@ -59,12 +59,12 @@
 "Please specify product's required option(s).","Veuillez préciser les options produit requises.",deprecated,Imaginaerum
 "<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Print receipt</a>","<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Imprimer le reçu</a>",deprecated,Imaginaerum
 "Product %1 doesn't have linked %2 as %3","Le produit %1 n'a pas pu être liée au %2 ainsi qu'au %3",deprecated,Imaginaerum
-"Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3","Le produit n'a pas de prix de groupe avec ces données: customerGroupId = '%1', site = %2, quantité = %3",deprecated,Imaginaerum
+"Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3","Le produit n'a pas de prix de groupe avec ces données : customerGroupId = '%1', site = %2, quantité = %3",deprecated,Imaginaerum
 "Product type of the product must be 'downloadable'.","Le type du produit doit être ""téléchargeable"".",deprecated,Imaginaerum
 "Rating isn't Available","Les notations ne sont pas activées",deprecated,Imaginaerum
 "Requested bundle option product doesn't exist","Les options du produit packagé n'existent pas",deprecated,Imaginaerum
 "Requested entity doesn't exist","L'entité demandée n'existe pas",deprecated,Imaginaerum
-"Requested option doesn't exist: %1","L'option demandée n'existe pas: %1",deprecated,Imaginaerum
+"Requested option doesn't exist: %1","L'option demandée n'existe pas : %1",deprecated,Imaginaerum
 "Requested option doesn't exist","L'option n'existe pas",deprecated,Imaginaerum
 "Requested product doesn't exist","Le produit n'existe pas",deprecated,Imaginaerum
 "RSS link to %1's wishlist","Lien vers le flux RSS de la liste d'enVies de %1",deprecated,Imaginaerum
@@ -72,7 +72,7 @@
 "Sorry, but we can't find the new parent category you selected.","Désolé, impossible trouver la catégorie parente sélectionnée.",deprecated,Imaginaerum
 "Sorry, something went wrong. That's all we know.","Une erreur s'est produite.",deprecated,Imaginaerum
 "Sorry, we're unable to complete this request.","Désolé, nous ne pouvons pas compléter cette requête.",deprecated,Imaginaerum
-"Specified cache type(s) don't exist: %1","Les types de cache spécifiés n'existent pas: %1",deprecated,Imaginaerum
+"Specified cache type(s) don't exist: %1","Les types de cache spécifiés n'existent pas : %1",deprecated,Imaginaerum
 "Store view doesn't exist","La vue magasin n'existe pas",deprecated,Imaginaerum
 "Such image doesn't exist","L'image n'existe pas",deprecated,Imaginaerum
 "Such product doesn't exist","Ce produit n'existe pas",deprecated,Imaginaerum

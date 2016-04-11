@@ -276,11 +276,11 @@
 "Tax amount is too large.","Montant de la taxe trop important.",module,Magento_Braintree
 "The processor declined your transaction, please re-enter your payment information","Le processus a refusé votre transaction, veuillez entrer de nouveau vos informations de paiement",module,Magento_Braintree
 "The processor responded with an unknown error","Le processus a répondu avec une erreur inconnue",module,Magento_Braintree
-"There was an error capturing the transaction: %1.","Erreur lors de la capture de transaction: %1.",module,Magento_Braintree
+"There was an error capturing the transaction: %1.","Erreur lors de la capture de transaction : %1.",module,Magento_Braintree
 "There was an error capturing the transaction.","Erreur lors de la capture de la transaction.",module,Magento_Braintree
 "There was an error refunding the transaction: %1.","Il y a eu une erreur de remboursement de la transaction: %1.",module,Magento_Braintree
 "There was an error refunding the transaction.","Erreur lors du remboursement de la transaction.",module,Magento_Braintree
-"There was an error voiding the transaction: %1.","Il y a eu une erreur annulant la transaction: %1.",module,Magento_Braintree
+"There was an error voiding the transaction: %1.","Il y a eu une erreur annulant la transaction : %1.",module,Magento_Braintree
 "There was an error voiding the transaction.","Erreur lors de l'annulation de la transaction.",module,Magento_Braintree
 "There was error deleting the credit card","Il y a eu une erreur lors de la suppression de la carte bancaire",module,Magento_Braintree
 "There was error during saving card data","Erreur lors de la sauvegarde des données de la carte",module,Magento_Braintree
@@ -294,8 +294,8 @@
 "Too many addresses per customer","Trop d'adresse par client",module,Magento_Braintree
 "Transaction cannot be cloned if payment method is stored in Vault","La transaction ne peut être dupliquée si la méthode de paiement est enregistrée dans le coffre-fort",module,Magento_Braintree
 "Transaction can only be voided if status is authorized or submitted_for_settlement.","La transaction ne peut être qu'annulée si le statut est autorisé ou submitted_for_settlement.",module,Magento_Braintree
-"Transaction declined: ","Transaction refusée: ",module,Magento_Braintree
-"Transaction declined by gateway: Check card details or try another card","Transaction refusée par la passerelle: Voir détails de la carte ou essayez une autre carte",module,Magento_Braintree
+"Transaction declined: ","Transaction refusée : ",module,Magento_Braintree
+"Transaction declined by gateway: Check card details or try another card","Transaction refusée par la passerelle : Voir détails de la carte ou essayez une autre carte",module,Magento_Braintree
 "Transaction has already been refunded.","La transaction à déjà été remboursée.",module,Magento_Braintree
 "Transaction type is invalid.","Type de transaction invalide.",module,Magento_Braintree
 "Transaction type is required.","Type de transaction requis.",module,Magento_Braintree

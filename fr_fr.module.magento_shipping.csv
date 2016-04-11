@@ -112,7 +112,7 @@
 "See our Shipping Policy","Voir notre politique de livraison",module,Magento_Shipping
 "Select All","sélectionner tout",module,Magento_Shipping
 "Send Tracking Information","Envoyer les informations de suivi",module,Magento_Shipping
-"Service Type:","Type de Service:",module,Magento_Shipping
+"Service Type:","Type de Service :",module,Magento_Shipping
 "Ship","Expédier",module,Magento_Shipping
 "Shipment #%1 | %3 (%2)","Expédition #%1 | %3 (%2)",module,Magento_Shipping
 "Shipment #","Expédition #",module,Magento_Shipping
@@ -121,7 +121,7 @@
 "Shipment Options","Options d'Expédition",module,Magento_Shipping
 "Shipments","Expéditions",module,Magento_Shipping
 "Shipment Total","Total de l'expédition",module,Magento_Shipping
-"Shipped or billed on:","Livré ou facturé le:",module,Magento_Shipping
+"Shipped or billed on:","Livré ou facturé le :",module,Magento_Shipping
 "Shipping &amp; Handling Information","Informations de livraison",module,Magento_Shipping
 "Shipping and Tracking Information","Informations de livraison et de suivi",module,Magento_Shipping
 "Shipping Information","Informations de livraison",module,Magento_Shipping
@@ -132,13 +132,13 @@
 "Shipping Settings","Paramètres de livraison",module,Magento_Shipping
 "Show Packages","Afficher les paquets",module,Magento_Shipping
 "Signature Confirmation","Confirmation de Signature",module,Magento_Shipping
-"Signed by:","Signé par:",module,Magento_Shipping
+"Signed by:","Signé par :",module,Magento_Shipping
 "Size","Taille",module,Magento_Shipping
 "SKU","SKU",module,Magento_Shipping
 "Sorry, but we can't deliver to the destination country with this shipping module.","Désolé, impossible de livrer dans ce pays de destination avec ce module de livraison.",module,Magento_Shipping
 "Sorry, but we can't deliver to the destination country with this shipping module.","Désolé, impossible de livrer dans ce pays de destination avec ce module de livraison.",module,Magento_Shipping
 "Specific Countries","Certains Pays",module,Magento_Shipping
-"Status:","Statut:",module,Magento_Shipping
+"Status:","Statut :",module,Magento_Shipping
 "Street Address","Adresse",module,Magento_Shipping
 "Street Address Line 2","Adresse Ligne 2",module,Magento_Shipping
 "Submit Shipment","Valider l'expédition",module,Magento_Shipping
@@ -158,13 +158,13 @@
 "Title","Titre",module,Magento_Shipping
 "Total Shipping Charges","Montant total de la livraison",module,Magento_Shipping
 "Total Weight","Poids Total",module,Magento_Shipping
-"Track:","Suivre:",module,Magento_Shipping
+"Track:","Suivre :",module,Magento_Shipping
 "Track history","Historique du Suivi",module,Magento_Shipping
 "Tracking Information","Informations de Suivi",module,Magento_Shipping
 "Tracking information is currently not available. Please ","Les informations de suivi ne sont pas disponibles pour le moment. Vous pouvez ",module,Magento_Shipping
 "Tracking information is unavailable.","Les informations de suivi sont indisponibles.",module,Magento_Shipping
-"Tracking Number:","Numéro de suivi:",module,Magento_Shipping
-"Tracking Number(s):","Numéro(s) de suivi:",module,Magento_Shipping
+"Tracking Number:","Numéro de suivi :",module,Magento_Shipping
+"Tracking Number(s):","Numéro(s) de suivi :",module,Magento_Shipping
 "Track Order","Suivre la Commande",module,Magento_Shipping
 "Track this shipment","Suivre cette livraison",module,Magento_Shipping
 "Type","Type",module,Magento_Shipping
@@ -181,7 +181,7 @@
 "We don't have enough information to create shipping labels. Please make sure your store information and settings are complete.","Il manque des informations pour créer des étiquettes d'expédition. Veuillez vérifier que vos informations de magasin et les paramètres sont complets.",module,Magento_Shipping
 "We don't recognize or support the file extension in this shipment: %1.","L'extension du fichier n'est pas reconnue ou supportée pour l'expédition : %1.",module,Magento_Shipping
 "We don't recognize or support the file extension in this shipment: %1.","L'extension du fichier n'est pas reconnue ou supportée pour l'expédition : %1.",module,Magento_Shipping
-"Weight:","Poids:",module,Magento_Shipping
+"Weight:","Poids :",module,Magento_Shipping
 "Weight","Poids",module,Magento_Shipping
 "Width","Largeur",module,Magento_Shipping
 "You are trying to add a quantity for some products that doesn't match the quantity that was shipped.","Vous essayez d'ajouter une quantité de produits qui ne correspond pas à la quantité qui a été expédiée.",module,Magento_Shipping

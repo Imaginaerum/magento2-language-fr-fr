@@ -12,9 +12,9 @@
 "In stock alert! We wanted you to know that these products are now available:","Produits en stock! Nous vous informons que les produits suivants sont à nouveau en stock:",module,Magento_ProductAlert
 "Invalid block type: %1","Type de bloc invalide: %1",module,Magento_ProductAlert
 "%name,","%name,",module,Magento_ProductAlert
-"Price:","Prix:",module,Magento_ProductAlert
+"Price:","Prix :",module,Magento_ProductAlert
 "Price Alert Email Template","Gabarit du mail d'alerte de changement de prix",module,Magento_ProductAlert
-"Price change alert! We wanted you to know that prices have changed for these products:","Changement de prix ! Nous vous informons du changement de prix pour nos produits:",module,Magento_ProductAlert
+"Price change alert! We wanted you to know that prices have changed for these products:","Changement de prix ! Nous vous informons du changement de prix pour nos produits :",module,Magento_ProductAlert
 "Product Alerts","Alertes du produit",module,Magento_ProductAlert
 "Product alerts cron warnings","Avertissements pour le CRON des alertes produits",module,Magento_ProductAlert
 "Product Alerts Run Settings","Paramétrage d'exécution des alertes de produit",module,Magento_ProductAlert

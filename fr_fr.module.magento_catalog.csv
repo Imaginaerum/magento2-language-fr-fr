@@ -498,9 +498,9 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Position","Position",module,Magento_Catalog
 "Position of Watermark for %1","Position du filigrane pour %1",module,Magento_Catalog
 "Prev","Préc",module,Magento_Catalog
-"Price: %1","Prix: %1",module,Magento_Catalog
+"Price: %1","Prix : %1",module,Magento_Catalog
 "Price","Prix",module,Magento_Catalog
-"Price as configured:","Prix ​​de cette configuration:",module,Magento_Catalog
+"Price as configured:","Prix ​​de cette configuration :",module,Magento_Catalog
 "Price Type","Type de Prix",module,Magento_Catalog
 "Print This Page","Imprimer cette page",module,Magento_Catalog
 "Product %1 doesn't have linked %2 as %3","Le produit %1 n'a pas pu être liée au %2 ainsi qu'au %3",module,Magento_Catalog
@@ -513,7 +513,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "productFactory is already set","productFactory est déjà défini",module,Magento_Catalog
 "Product Fields Auto-Generation","Produit avec Auto-génération de champs",module,Magento_Catalog
 "Product Flat Data","Données fixes de produit",module,Magento_Catalog
-"Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3","Le produit n'a pas de prix de groupe avec ces données: customerGroupId = '%1', site = %2, quantité = %3",module,Magento_Catalog
+"Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3","Le produit n'a pas de prix de groupe avec ces données : customerGroupId = '%1', site = %2, quantité = %3",module,Magento_Catalog
 "Product Image Placeholders","Emplacements de l'image par défaut des produits",module,Magento_Catalog
 "Product Image Watermarks","Filigranes d'images de produits",module,Magento_Catalog
 "Product In Websites","Publier dans les sites web",module,Magento_Catalog
@@ -550,7 +550,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Qty Uses Decimals","La quantité utilise des décimales",module,Magento_Catalog
 "Quantity","Quantité",module,Magento_Catalog
 "Redirect URL","URL de Redirection",module,Magento_Catalog
-"Regular Price:","Prix Normal:",module,Magento_Catalog
+"Regular Price:","Prix normal :",module,Magento_Catalog
 "Regular Price","Prix Normal",module,Magento_Catalog
 "Related Products","Produits apparentés",module,Magento_Catalog
 "Remove Image","Supprimer l'image",module,Magento_Catalog
@@ -643,9 +643,9 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Sort Custom Option","Trier l'option personnalisée",module,Magento_Catalog
 "Sort Custom Options","Trier les options personnalisées",module,Magento_Catalog
 "Sort Option","Option de Tri",module,Magento_Catalog
-"Special Expires On: %1","Prix promotionnel jusqu'au : %1",module,Magento_Catalog
-"Special Price: %1","Prix Spécial: %1",module,Magento_Catalog
-"Special Price:","Prix Spécial:",module,Magento_Catalog
+"Special Expires On: %1","Prix spécial jusqu'au : %1",module,Magento_Catalog
+"Special Price: %1","Prix spécial : %1",module,Magento_Catalog
+"Special Price:","Prix spécial :",module,Magento_Catalog
 "Special Price","Prix Spécial",module,Magento_Catalog
 "Special Price From Date","Prix spécial à partir du",module,Magento_Catalog
 "Special Price To Date","Prix spécial jusqu'au",module,Magento_Catalog

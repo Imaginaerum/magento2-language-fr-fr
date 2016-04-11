@@ -22,6 +22,6 @@
 "Qty","Qté",module,Magento_GroupedProduct
 "SKU","SKU",module,Magento_GroupedProduct
 "Starting at","À partir de",module,Magento_GroupedProduct
-"Starting at:","À partir de:",module,Magento_GroupedProduct
+"Starting at:","À partir de :",module,Magento_GroupedProduct
 "There are no grouped products.","Il n'y a pas de produits groupés.",module,Magento_GroupedProduct
 "We cannot process the item.","Impossible de traiter cet article.",module,Magento_GroupedProduct

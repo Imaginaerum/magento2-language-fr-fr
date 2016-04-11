@@ -461,7 +461,7 @@
 "Products","Produits",module,Magento_Sales
 "Products in Comparison List","Produits dans la liste de comparaison",module,Magento_Sales
 "Purchase Date","Date d'achat",module,Magento_Sales
-"Purchased From: %1","Commandé sur: %1",module,Magento_Sales
+"Purchased From: %1","Commandé sur : %1",module,Magento_Sales
 "Purchased From","Acheté sur",module,Magento_Sales
 "Purchase Point","Acheté sur",module,Magento_Sales
 "Qty","Qté",module,Magento_Sales
@@ -513,7 +513,7 @@
 "Save Status Assignment","Sauvegarder l'assignation du statut",module,Magento_Sales
 "Search","Rechercher",module,Magento_Sales
 "Select","Choisir",module,Magento_Sales
-"Select from existing customer addresses:","Sélectionner une adresse client existante:",module,Magento_Sales
+"Select from existing customer addresses:","Sélectionner une adresse client existante :",module,Magento_Sales
 "Send Credit Memo Comment Email Copy To","Envoyer une copie du mail de commentaire d'avoir à",module,Magento_Sales
 "Send Credit Memo Comments Email Copy Method","Mode de copie d'email pour les commentaires d'avoir",module,Magento_Sales
 "Send Credit Memo Email Copy Method","Mode de copie d'email pour les avoirs",module,Magento_Sales
@@ -549,8 +549,8 @@
 "Shipped","Livré",module,Magento_Sales
 "Shipped By","Livré par",module,Magento_Sales
 "Shipping","Livraison",module,Magento_Sales
-"Shipping Address","Adresse de Livraison",module,Magento_Sales
-"Shipping Address: ","Adresse de Livraison: ",module,Magento_Sales
+"Shipping Address","Adresse de livraison",module,Magento_Sales
+"Shipping Address: ","Adresse de livraison : ",module,Magento_Sales
 "Shipping Amount","Montant de la livraison",module,Magento_Sales
 "Shipping &amp; Handling","Frais de port",module,Magento_Sales
 "Shipping and Handling","Livraison et frais de traitement",module,Magento_Sales
@@ -560,10 +560,10 @@
 "Shipping Info","Informations de Livraison",module,Magento_Sales
 "Shipping Information","Informations de livraison",module,Magento_Sales
 "Shipping Method","Méthode de Livraison",module,Magento_Sales
-"Shipping Method:","Méthode de Livraison:",module,Magento_Sales
+"Shipping Method:","Méthode de Livraison :",module,Magento_Sales
 "Shipping Refund","Remboursement de la livraison",module,Magento_Sales
 "Ship To","Livré à",module,Magento_Sales
-"Ship to:","Livré à:",module,Magento_Sales
+"Ship to:","Livré à :",module,Magento_Sales
 "Ship-to Name","Nom de livraison",module,Magento_Sales
 "Shopping Cart","Panier",module,Magento_Sales
 "Shopping Cart Price Rule","Règle de prix panier",module,Magento_Sales
@@ -571,7 +571,7 @@
 "Signed-up Point","Point d'inscription",module,Magento_Sales
 "SKU","SKU",module,Magento_Sales
 "Sku","SKU",module,Magento_Sales
-"Sold to:","Vendu à:",module,Magento_Sales
+"Sold to:","Vendu à :",module,Magento_Sales
 "Something went wrong updating the order address.","Une erreur s'est produite lors de la mise à jour de l'adresse commande.",module,Magento_Sales
 "Something went wrong while assigning the order status.","Une erreur s'est produite lors de l'attribution du statut de la commande.",module,Magento_Sales
 "Something went wrong while saving the gift message.","Une erreur s'est produite lors de l'enregistrement du message cadeau.",module,Magento_Sales
@@ -595,7 +595,7 @@
 "Submit Order","Envoyer la commande",module,Magento_Sales
 "Subscribe to Newsletter","S'abonner à la newsletter",module,Magento_Sales
 "Subscribe to Order Status","S'abonner au statut de commande",module,Magento_Sales
-"Subtotal:","Sous-Total:",module,Magento_Sales
+"Subtotal:","Sous-Total :",module,Magento_Sales
 "Subtotal","Sous-Total",module,Magento_Sales
 "Subtotal after discount","Sous-total après remise",module,Magento_Sales
 "Subtotal (Excl. Tax)","Sous-total (HT)",module,Magento_Sales
@@ -681,7 +681,7 @@
 "To:","À:",module,Magento_Sales
 "To","À",module,Magento_Sales
 "To Name","Destiné à",module,Magento_Sales
-"Total: %1<br/>","Total: %1<br/>",module,Magento_Sales
+"Total: %1<br/>","Total : %1<br>",module,Magento_Sales
 "Total %1 product(s)","%1 produit(s) au total",module,Magento_Sales
 "Total","Total",module,Magento_Sales
 "Total Due","Total dû",module,Magento_Sales
@@ -701,8 +701,8 @@
 "Transaction Details","Détail de la transaction",module,Magento_Sales
 "Transaction has been approved.","La transaction a été approuvée.",module,Magento_Sales
 "Transaction has been voided/declined.","La transaction a été annulée/déclinée.",module,Magento_Sales
-"Transaction ID: ""%1""","  ID de transaction: ""%1""",module,Magento_Sales
-" Transaction ID: ""%1""","   ID de transaction: ""%1""",module,Magento_Sales
+"Transaction ID: ""%1""","ID de transaction : ""%1""",module,Magento_Sales
+" Transaction ID: ""%1"""," ID de transaction : ""%1""",module,Magento_Sales
 "Transaction ID","ID Transaction",module,Magento_Sales
 "Transactions","Transactions",module,Magento_Sales
 "Transaction Type","Type de transaction",module,Magento_Sales

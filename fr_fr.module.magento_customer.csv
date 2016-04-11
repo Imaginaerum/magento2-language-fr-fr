@@ -414,7 +414,7 @@
 "Set as Default Shipping Address","Définir comme adresse de livraison par défaut",module,Magento_Customer
 "Share Customer Accounts","Partager les comptes client",module,Magento_Customer
 "Shipped-to Name","Expédié à Nom",module,Magento_Customer
-"Shipping Address","Adresse de Livraison",module,Magento_Customer
+"Shipping Address","Adresse de livraison",module,Magento_Customer
 "Ship-to Name","Nom de livraison",module,Magento_Customer
 "Shopping Cart - %1 item(s)","Panier - %1 article(s)",module,Magento_Customer
 "Shopping Cart","Panier",module,Magento_Customer
@@ -462,7 +462,7 @@
 "Telephone","Téléphone",module,Magento_Customer
 "Thank you for confirming your %store_name account.","Merci de confirmer vorte compte %store_name account.",module,Magento_Customer
 "Thank you for registering with %1.","Merci pour votre inscription sur %1.",module,Magento_Customer
-"Thank you for registering with","Merci de vous sauvegarder avec",module,Magento_Customer
+"Thank you for registering with","Merci de vous enregistrer avec",module,Magento_Customer
 "The account information has been saved.","Les informations du compte ont été sauvegardées.",module,Magento_Customer
 "The address has been deleted.","L'adresse a été supprimée.",module,Magento_Customer
 "The address has been saved.","L'adresse a été sauvegardée.",module,Magento_Customer
@@ -520,8 +520,8 @@
                         Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée.",module,Magento_Customer
 "To show VAT number on frontend, set Show VAT Number on Frontend option to Yes.","Pour afficher le numéro de TVA dans le frontend, réglez l'option d'affichage du numéro de TVA dans le frontend à Oui.",module,Magento_Customer
 "To show VAT number on Storefront, set Show VAT Number on Storefront option to Yes.","Pour afficher le numéro de TVA sur la vue client, régler l'option d'affichage du numéro de TVA du Magasin à Oui.",module,Magento_Customer
-"To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","Pour vous connecter sur notre site et définir un mot de passe, cliquez sur ce <a href=""%create_password_url"">lien</a>:",module,Magento_Customer
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Pour vous connecter, utilisez les identifiants renseignés lors de votre commande ou en vous rendant sur la page <a href=""%customer_url"">Mon Compte</a>:",module,Magento_Customer
+"To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","Pour vous connecter sur notre site et définir un mot de passe, cliquez sur ce <a href=""%create_password_url"">lien</a> :",module,Magento_Customer
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Pour vous connecter, utilisez les identifiants renseignés lors de votre commande ou en vous rendant sur la page <a href=""%customer_url"">Mon Compte</a> :",module,Magento_Customer
 "Total","Total",module,Magento_Customer
 "Track order history","Suivi de la commande",module,Magento_Customer
 "Type","Type",module,Magento_Customer

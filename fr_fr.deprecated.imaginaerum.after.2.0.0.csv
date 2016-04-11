@@ -15,8 +15,8 @@
 "Standard Post","Standard Post",deprecated,Imaginaerum
 "The configuration parameter ""formElement"" is a required for ""' . . '"" field.","Le paramètre de configuration ""formElement"" est requis pour me champ ""' . . '"".",deprecated,Imaginaerum
 "The file ""' . . '"" does not exist","Le fichier ""' . . '"" n'existe pas",deprecated,Imaginaerum
-"The specified image adapter cannot be used because of: ","'L'adaptateur image ne peut être utilisé en raison de: ",deprecated,Imaginaerum
-"'The specified image adapter cannot be used because of: ' .","'L'adaptateur image ne peut être utilisé en raison de: ' .",deprecated,Imaginaerum
+"The specified image adapter cannot be used because of: ","'L'adaptateur image ne peut être utilisé en raison de : ",deprecated,Imaginaerum
+"'The specified image adapter cannot be used because of: ' .","'L'adaptateur image ne peut être utilisé en raison de : ' .",deprecated,Imaginaerum
 "We can't save the address:
 %1","Impossible de sauvegarder l'adresse :
 %1",deprecated,Imaginaerum

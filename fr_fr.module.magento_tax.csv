@@ -118,7 +118,7 @@
 "Save and Continue Edit","Sauvegarder et Continuer à Éditer",module,Magento_Tax
 "Save Rate","Sauvegarder le taux",module,Magento_Tax
 "Save Rule","Sauvegarder la règle",module,Magento_Tax
-"Shipping Address","Adresse de Livraison",module,Magento_Tax
+"Shipping Address","Adresse de livraison",module,Magento_Tax
 "Shipping Excl. Tax (%1)","Livraison HT (%1)",module,Magento_Tax
 "Shipping (Excl. Tax)","Livraison (HT)",module,Magento_Tax
 "Shipping & Handling (Excl.Tax)","Livraison et traitement (HT)",module,Magento_Tax
@@ -140,7 +140,7 @@
 "Sort Order","Ordre de Tri",module,Magento_Tax
 "State","État",module,Magento_Tax
 "State/Region","État/Région",module,Magento_Tax
-"Store(s) affected: ","Magasin(s) affecté(s): ",module,Magento_Tax
+"Store(s) affected: ","Magasin(s) affecté(s) : ",module,Magento_Tax
 "Subtotal","Sous-Total",module,Magento_Tax
 "Subtotal (Excl.Tax)","Sous-total (HT)",module,Magento_Tax
 "Subtotal (Excl. Tax)","Sous-total (HT)",module,Magento_Tax

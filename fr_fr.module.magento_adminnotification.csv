@@ -38,7 +38,7 @@
 "See All (","Voir tout (",module,Magento_AdminNotification
 "Severity","Sévérité",module,Magento_AdminNotification
 "Synchronization of media storages has been completed.","Synchronisation du stockage des médias terminée.",module,Magento_AdminNotification
-"System Messages:","Messages Système:",module,Magento_AdminNotification
+"System Messages:","Messages Système :",module,Magento_AdminNotification
 "System messages","Messages Système",module,Magento_AdminNotification
 "The message has been marked as Read.","Le message a été marqué comme lu.",module,Magento_AdminNotification
 "The message has been removed.","Le message a bien été supprimé.",module,Magento_AdminNotification

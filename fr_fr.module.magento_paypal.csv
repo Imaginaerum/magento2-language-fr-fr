@@ -428,12 +428,12 @@
 "Purchase Point","Acheté sur",module,Magento_Paypal
 "Qty","Qté",module,Magento_Paypal
 "Reauthorization","Réautorisation",module,Magento_Paypal
-"Reference ID","Réference ID",module,Magento_Paypal
-"Reference ID:","Réference ID:",module,Magento_Paypal
+"Reference ID","Référence ID",module,Magento_Paypal
+"Reference ID:","Référence ID :",module,Magento_Paypal
 "Reference Information","Information sur la référence",module,Magento_Paypal
 "Reimbursement for a chargeback.","Remboursement des frais de rejet de débit.",module,Magento_Paypal
 "Reimbursement of Chargeback","Remboursement des rejets de débit",module,Magento_Paypal
-"Reject Transaction if:","Rejeter la transaction si:",module,Magento_Paypal
+"Reject Transaction if:","Rejeter la transaction si :",module,Magento_Paypal
 "Related Orders","Les commandes connexes",module,Magento_Paypal
 "Report Date","Date du rapport",module,Magento_Paypal
 "Reports","Rapports",module,Magento_Paypal
@@ -465,7 +465,7 @@
 "Severe validation removes chargeback liability on merchant.","La vérification 3D Secure stricte annule la responsabilité de rétro-facturation du marchand.",module,Magento_Paypal
 "Severe Validation Removes Chargeback Liability on Merchant","La vérification 3D Secure stricte annule la responsabilité de rétrofacturation du marchand",module,Magento_Paypal
 "SFTP Credentials","Informations d'accès SFTP",module,Magento_Paypal
-"Shipping Address","Adresse de Livraison",module,Magento_Paypal
+"Shipping Address","Adresse de livraison",module,Magento_Paypal
 "Shipping Information","Informations de livraison",module,Magento_Paypal
 "Shipping Method","Méthode de Livraison",module,Magento_Paypal
 "Ship To","Livré à",module,Magento_Paypal
@@ -495,7 +495,7 @@
 "<a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>","<a href=""http://www.magentocommerce.com/paypal"">Accepter les paiements via PayPal!</a>",module,Magento_Paypal
 "Start Date","Date de début",module,Magento_Paypal
 "Static","Statique",module,Magento_Paypal
-"Status:","Statut:",module,Magento_Paypal
+"Status:","Statut :",module,Magento_Paypal
 "Status","Statut",module,Magento_Paypal
 "Submitting order information...","Les informations de commande sont en cours d'envoi...",module,Magento_Paypal
 "Subscription ID","ID Abonnement",module,Magento_Paypal

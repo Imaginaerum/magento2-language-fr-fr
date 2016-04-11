@@ -166,15 +166,15 @@
 "Separate by "","".","Séparer par des "","".",module,Magento_Checkout
 "Ship Here","Expédier ici",module,Magento_Checkout
 "Shipping","Livraison",module,Magento_Checkout
-"Shipping Address:","Adresse de Livraison:",module,Magento_Checkout
-"Shipping Address","Adresse de Livraison",module,Magento_Checkout
+"Shipping Address:","Adresse de livraison :",module,Magento_Checkout
+"Shipping Address","Adresse de livraison",module,Magento_Checkout
 "Shipping address is not set","L'adresse de livraison n'est pas configurée",module,Magento_Checkout
 "Shipping Information","Informations de livraison",module,Magento_Checkout
 "Shipping Method","Méthode de Livraison",module,Magento_Checkout
-"Shipping Method:","Méthode de Livraison:",module,Magento_Checkout
+"Shipping Method:","Méthode de Livraison :",module,Magento_Checkout
 "Shipping method has not been selected yet","Le mode de livraison n'a pas encore été choisi",module,Magento_Checkout
 "Shipping method is not applicable for empty cart","La méthode d'expédition n'est pas applicable à un panier vide",module,Magento_Checkout
-"Ship To:","Livré à:",module,Magento_Checkout
+"Ship To:","Livré à :",module,Magento_Checkout
 "Ship to different address","Livrer à une autre adresse",module,Magento_Checkout
 "Ship to this address","Livrer à cette adresse",module,Magento_Checkout
 "Shopping Cart","Panier",module,Magento_Checkout
@@ -205,7 +205,7 @@
 "There are more than one shipping addresses.","Il y a plus d'une adresse de livraison.",module,Magento_Checkout
 "There is already a registered customer using this email address. Please log in using this email address or enter a different email address to register your account.","Il existe déjà un client avec cette adresse email. Veuillez vous connecter avec cette adresse email ou saisir une adresse email différente pour créer votre compte .",module,Magento_Checkout
 "This quote item does not exist.","Ce commentaire d'article n'existe pas.",module,Magento_Checkout
-"Total:","Total:",module,Magento_Checkout
+"Total:","Total :",module,Magento_Checkout
 "Total","Total",module,Magento_Checkout
 "Total incl. tax","Total TTC",module,Magento_Checkout
 "Totals calculation is not applicable to empty cart","Le calcul de totaux n'est pas applicable sur un panier vide",module,Magento_Checkout
@@ -257,7 +257,7 @@
 "Your Checkout Progress","Avancement de votre commande",module,Magento_Checkout
 "Your credit card will be charged for","Votre carte de crédit sera débitée de",module,Magento_Checkout
 "Your order has been received.","Votre commande a bien été reçue.",module,Magento_Checkout
-"Your order # is: <span>%1</span>.","Votre numéro de commande est: <span>%1 </ span>.",module,Magento_Checkout
+"Your order # is: <span>%1</span>.","Votre numéro de commande est : <span>%1 </ span>.",module,Magento_Checkout
 "Your order # is: %1.","ID de votre commande : %1.",module,Magento_Checkout
 "Your order number is: %1.","Votre numéro de commande est : %1.",module,Magento_Checkout
 "Your session has expired","Votre session a expiré",module,Magento_Checkout

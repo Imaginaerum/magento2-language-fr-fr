@@ -38,7 +38,7 @@
 "Permanent (301)","Permanente (301)",module,Magento_UrlRewrite
 "Please assign a website to the selected category.","Veuillez spécifier un site web pour la catégorie sélectionnée.",module,Magento_UrlRewrite
 "Please assign a website to the selected CMS page.","Veuiller assigner un site web à la page CMS sélectionnée.",module,Magento_UrlRewrite
-"Product:","Produit:",module,Magento_UrlRewrite
+"Product:","Produit :",module,Magento_UrlRewrite
 "Redirect","Rediriger",module,Magento_UrlRewrite
 "Redirect Type","Type de redirection",module,Magento_UrlRewrite
 "Request Path","Chemin de requête",module,Magento_UrlRewrite

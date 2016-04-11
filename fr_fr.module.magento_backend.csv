@@ -390,7 +390,7 @@
 "Please specify the admin custom URL.","Spécifiez l'URL d'Admin personnalisée.",module,Magento_Backend
 "Please try to log out and sign in again.","Veuillez vous déconnecter et reconnecter.",module,Magento_Backend
 "Please try to sign out and sign in again.","Veuillez essayer de vous déconnectez et vous reconnecter une nouvelle fois.",module,Magento_Backend
-"Please use this date format: dd/mm/yyyy. For example, enter ""17/03/2006"" to represent March 17, 2006.","Utilisez le format de date suivant: dd/mm/yyyy. Par exemple, saisissez ""17/03/2006"" pour obtenir March 17, 2006.",module,Magento_Backend
+"Please use this date format: dd/mm/yyyy. For example, enter ""17/03/2006"" to represent March 17, 2006.","Utilisez le format de date suivant : dd/mm/yyyy. Par exemple, saisissez ""17/03/2006"" pour obtenir March 17, 2006.",module,Magento_Backend
 "Please wait...","Veuillez patienter...",module,Magento_Backend
 "Please wait, loading...","Veuillez patienter, chargement en cours...",module,Magento_Backend
 "Port (25)","Port (25)",module,Magento_Backend
@@ -399,7 +399,7 @@
 "Previous","Précédent",module,Magento_Backend
 "Previous page","Page Précédente",module,Magento_Backend
 "Price","Prix",module,Magento_Backend
-"Product:","Produit:",module,Magento_Backend
+"Product:","Produit :",module,Magento_Backend
 "Product","Produit",module,Magento_Backend
 "Quantity","Quantité",module,Magento_Backend
 "Rebuild","Reconstruire",module,Magento_Backend
@@ -431,12 +431,12 @@
 "Save Store","Sauvegarder le Magasin",module,Magento_Backend
 "Save Store View","Sauvegarder la Vue Magasin",module,Magento_Backend
 "Save Web Site","Sauvegarder le Site Web",module,Magento_Backend
-"Scope:","Portée:",module,Magento_Backend
+"Scope:","Portée :",module,Magento_Backend
 "Search","Rechercher",module,Magento_Backend
 "Search Engine Optimization","Optimisation pour les moteurs de recherche",module,Magento_Backend
 "Search Index","Index de Recherche",module,Magento_Backend
 "Search String","Chaîne de Recherche",module,Magento_Backend
-"Search strings are either normal strings or regular exceptions (PCRE). They are matched in the same order as entered. Examples:<br /><span style=""font-family:monospace"">Firefox<br />/^mozilla/i</span>","Les recherches sont des chaines de caractères ou des expressions régulière (PCRE). Elles correspondent à leur ordre de saisie. Exemples:<br /><span style=""font-family:monospace"">Firefox<br />/^mozilla/i</span>",module,Magento_Backend
+"Search strings are either normal strings or regular exceptions (PCRE). They are matched in the same order as entered. Examples:<br /><span style=""font-family:monospace"">Firefox<br />/^mozilla/i</span>","Les recherches sont des chaines de caractères ou des expressions régulière (PCRE). Elles correspondent à leur ordre de saisie. Exemples : <br><span style=""font-family:monospace"">Firefox<br>/^mozilla/i</span>",module,Magento_Backend
 "Search Term","Terme de recherche",module,Magento_Backend
 "Secure Base Link URL","URL de base sécurisée",module,Magento_Backend
 "Secure Base URL","URL de base sécurisée",module,Magento_Backend
@@ -449,14 +449,14 @@
 "selected","sélectionné",module,Magento_Backend
 "Selected allowed currency ""%1"" is not available in installed currencies.","La devise sélectionnée ""%1"" n'est pas disponible dans les devises installées.",module,Magento_Backend
 "Select Media Database","Sélectionner la base de données média",module,Magento_Backend
-"Select Range:","Sélectionner la Plage:",module,Magento_Backend
+"Select Range:","Sélectionner la plage :",module,Magento_Backend
 "Select Visible","Sélectionner les éléments visibles",module,Magento_Backend
 "Sender Email","Email de l'Expéditeur",module,Magento_Backend
 "Sender Name","Nom de l'expéditeur",module,Magento_Backend
 "SEO & Search","SEO & Recherche",module,Magento_Backend
 "Separate Email","Email Séparé",module,Magento_Backend
 "Services","Services",module,Magento_Backend
-"Service unavailable: %1","Service inaccessible: %1",module,Magento_Backend
+"Service unavailable: %1","Service inaccessible : %1",module,Magento_Backend
 "Session Validation Settings","Paramètres de validation de session",module,Magento_Backend
 "Set as Default","Définir par défaut",module,Magento_Backend
 "Set Return-Path","Renseigner le chemin de retour",module,Magento_Backend
@@ -475,10 +475,10 @@
 "Sorry, we haven't installed the default display currency you selected.","Désolé, nous avons pas installé la devise d'affichage par défaut que vous avez sélectionné.",module,Magento_Backend
 "Sort Order","Ordre de Tri",module,Magento_Backend
 "Specified","Spécifié",module,Magento_Backend
-"Specified cache type(s) don't exist: %1","Les types de cache spécifiés n'existent pas: %1",module,Magento_Backend
+"Specified cache type(s) don't exist: %1","Les types de cache spécifiés n'existent pas : %1",module,Magento_Backend
 "Specified cache type(s) don't exist: ","Types(s) de cache spécifié(s) inexistant(s) ",module,Magento_Backend
 "Specify a fully qualified URL.","Spécifiez une URL qualifiée.",module,Magento_Backend
-"Specify a URL or path that starts with placeholder(s): %1, and ends with ""/"".","Spécifiez une URL ou un chemin qui commence par: %1, et se termine par ""/"".",module,Magento_Backend
+"Specify a URL or path that starts with placeholder(s): %1, and ends with ""/"".","Spécifiez une URL ou un chemin qui commence par : %1, et se termine par ""/"".",module,Magento_Backend
 "Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","Spécifiez l'URL ou utilisez la variable {{base_url}}.",module,Magento_Backend
 "Specify URL or {{base_url}} placeholder.","Spécifiez l'URL ou utilisez la variable {{base_url}}.",module,Magento_Backend
 "Startup Page","Page d'accueil",module,Magento_Backend
@@ -496,7 +496,7 @@
 "Stores","Magasins",module,Magento_Backend
 "Stores Configuration","Configuration des Magasins",module,Magento_Backend
 "Store View","Vue magasin",module,Magento_Backend
-"Store View:","Vue magasin:",module,Magento_Backend
+"Store View:","Vue magasin :",module,Magento_Backend
 "[STORE VIEW]","[VUE MAGASIN]",module,Magento_Backend
 "Store view doesn't exist","La vue magasin n'existe pas",module,Magento_Backend
 "Store View Information","Information de vue magasin",module,Magento_Backend
@@ -528,7 +528,7 @@
 "Themes JavaScript and CSS files combined to one file.","Fichiers de thèmes JavaScript et CSS combinés en un seul fichier.",module,Magento_Backend
 "There are no search keywords.","Il n'y a aucun mot clé de recherche.",module,Magento_Backend
 "The sender name ""%1"" is not valid. Please use only visible characters and spaces.","Le nom de l'expéditeur ""%1"" n'est pas valide. Veuillez utilisez uniquement des caractères et des espaces.",module,Magento_Backend
-"The specified image adapter cannot be used because of: %1","Adapter image ne peut être utilisé: %1",module,Magento_Backend
+"The specified image adapter cannot be used because of: %1","Adapter image ne peut être utilisé : %1",module,Magento_Backend
 "The static files cache has been cleaned.","Le cache des fichiers statiques a été vidé.",module,Magento_Backend
 "The store does not exist","Le magasin n'existe pas",module,Magento_Backend
 "The store has been deleted.","Le magasin a été supprimé.",module,Magento_Backend

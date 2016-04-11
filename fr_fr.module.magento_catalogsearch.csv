@@ -46,7 +46,7 @@
 "Search Settings","Paramètres de recherche",module,Magento_CatalogSearch
 "Search Type","Type de recherche",module,Magento_CatalogSearch
 "Search Weight","Poids dans la recherche",module,Magento_CatalogSearch
-"Sorry, but the maximum word count is %1. We left out this part of your search: %2.","Le nombre maximum de mots est de %1. Mots exclus dans votre recherche: %2.",module,Magento_CatalogSearch
+"Sorry, but the maximum word count is %1. We left out this part of your search: %2.","Le nombre maximum de mots est de %1. Mots exclus dans votre recherche : %2.",module,Magento_CatalogSearch
 "Store","Magasin",module,Magento_CatalogSearch
 "Suggested Terms","Termes Suggérés",module,Magento_CatalogSearch
 "Synonym","Synonyme",module,Magento_CatalogSearch

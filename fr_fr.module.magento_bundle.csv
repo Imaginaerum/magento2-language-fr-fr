@@ -67,10 +67,10 @@
 "Product with specified sku: %1 is not a bundle product","Le produit avec le SKU ""%1"" n'est pas un produit packagé",module,Magento_Bundle
 "Product with specified sku: ""%1"" is not a bundle product","Le produit avec le SKU ""%1"" n'est pas un produit packagé",module,Magento_Bundle
 "Qty","Qté",module,Magento_Bundle
-"Qty:","Qté:",module,Magento_Bundle
+"Qty:","Qté :",module,Magento_Bundle
 "Qty Invoiced","Qté facturée",module,Magento_Bundle
 "Qty Shipped","Qté livrée",module,Magento_Bundle
-"Quantity:","Quantité:",module,Magento_Bundle
+"Quantity:","Quantité :",module,Magento_Bundle
 "Quantity","Quantité",module,Magento_Bundle
 "Refunded","Remboursé",module,Magento_Bundle
 "Regular Price","Prix Normal",module,Magento_Bundle

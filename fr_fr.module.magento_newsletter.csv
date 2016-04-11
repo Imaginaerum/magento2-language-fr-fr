@@ -90,7 +90,7 @@
 "Sender Name","Nom de l'expéditeur",module,Magento_Newsletter
 "Sending","Envoi en cours",module,Magento_Newsletter
 "Sent","Envoyé",module,Magento_Newsletter
-"Sign Up for Our Newsletter:","Inscription à notre newsletter:",module,Magento_Newsletter
+"Sign Up for Our Newsletter:","Inscription à notre newsletter :",module,Magento_Newsletter
 "Something went wrong while saving this template.","Une erreur s'est produite lors de l'enregistrement de ce gabarit.",module,Magento_Newsletter
 "Something went wrong while saving your subscription.","Une erreur s'est produite lors de l'enregistrement de cette abonnement.",module,Magento_Newsletter
 "Something went wrong while unsubscribing you.","Une erreur s'est produite lors de la désinscription.",module,Magento_Newsletter
@@ -126,11 +126,11 @@
 "The newsletter template has been saved.","Le gabarit de newsletter a été sauvegardé.",module,Magento_Newsletter
 "The problems you identified have been deleted.","Les problèmes que vous avez identifiés ont été supprimés.",module,Magento_Newsletter
 "There are no subscribers selected.","Aucun abonné sélectionné.",module,Magento_Newsletter
-"There was a problem with the subscription: %1","Il y a eu un problème lors de l'inscription: %1",module,Magento_Newsletter
+"There was a problem with the subscription: %1","Il y a eu un problème lors de l'inscription : %1",module,Magento_Newsletter
 "This email address is already assigned to another user.","Cet email est déjà assigné à un utilisateur.",module,Magento_Newsletter
 "This is an invalid subscription confirmation code.","Le code de confirmation de l'abonnement est invalide.",module,Magento_Newsletter
 "This is an invalid subscription ID.","L'identifiant de l'abonnement est invalide.",module,Magento_Newsletter
-"To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:","Avant de recevoir notre newsletter, vous devez confirmer votre abonnement en cliquant sur le lien suivant:",module,Magento_Newsletter
+"To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:","Avant de recevoir notre newsletter, vous devez confirmer votre abonnement en cliquant sur le lien suivant :",module,Magento_Newsletter
 "Total of %1 record(s) were deleted","%1 enregistrement(s) effacé(s)",module,Magento_Newsletter
 "Total of %1 record(s) were deleted.","%1 enregistrement(s) effacé(s).",module,Magento_Newsletter
 "Type","Type",module,Magento_Newsletter

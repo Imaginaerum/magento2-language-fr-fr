@@ -33,26 +33,26 @@
 "Order # %1 Notification(s)","Notification(s) commande #%1",module,Magento_Rss
 "Page not found.","Page introuvable.",module,Magento_Rss
 "Pending product review(s)","Commentaire(s) de produit en attente",module,Magento_Rss
-"Price: %1","Prix: %1",module,Magento_Rss
+"Price: %1","Prix : %1",module,Magento_Rss
 "Product: ""%1"" reviewed by: %2","Produits : ""%1"" avis de : %2",module,Magento_Rss
 "Product: <a href=""%1"" target=""_blank"">%2</a> <br/>","Produit : <a href=""%1"" target=""_blank"">%2</a> <br/>",module,Magento_Rss
-"Purchased From: %1","Commandé sur: %1",module,Magento_Rss
-"Review: %1 <br/>","Avis: %1 <br/>",module,Magento_Rss
+"Purchased From: %1","Commandé sur : %1",module,Magento_Rss
+"Review: %1 <br/>","Avis : %1 <br>",module,Magento_Rss
 "Rss Config","Configuration RSS",module,Magento_Rss
 "RSS Feeds","Flux RSS",module,Magento_Rss
 "Shipping &amp; Handling","Frais de port",module,Magento_Rss
-"Special Expires On: %1","Prix promotionnel jusqu'au : %1",module,Magento_Rss
-"Special Price: %1","Prix Spécial: %1",module,Magento_Rss
+"Special Expires On: %1","Prix spécial jusqu'au : %1",module,Magento_Rss
+"Special Price: %1","Prix spécial : %1",module,Magento_Rss
 "Special Products","Produits spéciaux",module,Magento_Rss
-"Store: %1 <br/>","Magasin: %1 <br/>",module,Magento_Rss
+"Store: %1 <br/>","Magasin : %1 <br>",module,Magento_Rss
 "Subscribe to RSS Feed","S'abonner au flux RSS",module,Magento_Rss
 "Subtotal","Sous-Total",module,Magento_Rss
-"Summary of review: %1 <br/>","Résumé de l'avis: %1 <br/>",module,Magento_Rss
+"Summary of review: %1 <br/>","Résumé de l'avis : %1 <br>",module,Magento_Rss
 "Tax","Taxe",module,Magento_Rss
 "There are no Rss Feeds.","Aucun flux RSS.",module,Magento_Rss
 "There was no RSS feed enabled.","Aucun flux RSS activé.",module,Magento_Rss
 "To:","À:",module,Magento_Rss
 "Top Level Category","Catégorie de niveau supérieur",module,Magento_Rss
-"Total: %1<br/>","Total: %1<br/>",module,Magento_Rss
+"Total: %1<br/>","Total : %1<br>",module,Magento_Rss
 "We cannot retrieve the wish list.","Impossible de récuperer la liste d'enVies.",module,Magento_Rss
 "Wishlist","Liste d'enVies",module,Magento_Rss

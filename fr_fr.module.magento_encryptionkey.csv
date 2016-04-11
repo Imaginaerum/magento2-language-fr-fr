@@ -15,8 +15,8 @@
 "The encryption key has been changed.","La clé de chiffrement a été modifiée.",module,Magento_EncryptionKey
 "The encryption key is used to protect passwords and other sensitive data.","La clé de chiffrement est utilisée pour protéger les mots de passe et autres données sensibles.",module,Magento_EncryptionKey
 "The generated key will be displayed after changing.","La clé générée sera affichée après avoir été changée.",module,Magento_EncryptionKey
-"This is your new encryption key: %1. Be sure to write it down and take good care of it!","Voici votre nouvelle clé: %1. Notez cette clé mettez la en lieu sûr!",module,Magento_EncryptionKey
-"This is your new encryption key: <span style=""font-family:monospace;"">%1</span>. Be sure to write it down and take good care of it!","Ceci est votre nouvelle clé de chiffrement: <span style=""font-family: monospace;"">%1</span>. Notez là et conserver là en lieu sûr !",module,Magento_EncryptionKey
-"To enable a key change this file must be writable: %1.","Pour activer le changement ce fichier doit être accessible en écriture: %1.",module,Magento_EncryptionKey
+"This is your new encryption key: %1. Be sure to write it down and take good care of it!","Voici votre nouvelle clé : %1. Notez cette clé mettez la en lieu sûr!",module,Magento_EncryptionKey
+"This is your new encryption key: <span style=""font-family:monospace;"">%1</span>. Be sure to write it down and take good care of it!","Ceci est votre nouvelle clé de chiffrement : <span style=""font-family: monospace;"">%1</span>. Notez là et conserver là en lieu sûr !",module,Magento_EncryptionKey
+"To enable a key change this file must be writable: %1.","Pour activer le changement ce fichier doit être accessible en écriture : %1.",module,Magento_EncryptionKey
 "Username","nom d'utilisateur",module,Magento_EncryptionKey
 "Yes","Oui",module,Magento_EncryptionKey

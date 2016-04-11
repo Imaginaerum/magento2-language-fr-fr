@@ -17,7 +17,7 @@
 "Incorrect CAPTCHA","CAPTCHA Incorrect",module,Magento_Captcha
 "Number of Symbols","Nombre de symboles",module,Magento_Captcha
 "Number of Unsuccessful Attempts to Login","Nombre d'essais infructueux",module,Magento_Captcha
-"Please enter the letters from the image:","Veuillez saisir les lettres affichées sur l'image:",module,Magento_Captcha
+"Please enter the letters from the image:","Veuillez saisir les lettres affichées sur l'image :",module,Magento_Captcha
 "Please enter the letters from the image","Veuillez saisir les lettres affichées sur l'image",module,Magento_Captcha
 "Please specify 8 symbols at the most. Range allowed (e.g. 3-5)","Spécifiez au maximum 8 symboles. Les tranches sont acceptées (par ex. 3-5)",module,Magento_Captcha
 "Please type the letters below","Veuillez saisir les lettres ci-dessous",module,Magento_Captcha

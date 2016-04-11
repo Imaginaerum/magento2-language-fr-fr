@@ -54,7 +54,7 @@
 "some_label","some_label",module,Magento_Config
 "Some Label","some_label",module,Magento_Config
 "some prefix","some prefix",module,Magento_Config
-"Something went wrong while saving this configuration:","Une erreur s'est produite lors de l'enregistrement de cette configuration:",module,Magento_Config
+"Something went wrong while saving this configuration:","Une erreur s'est produite lors de l'enregistrement de cette configuration :",module,Magento_Config
 "Sorry, the default display currency you selected is not available in allowed currencies.","Désolé, la devise d'affichage par défaut que vous avez sélectionnée n'est pas disponible dans les devises autorisées.",module,Magento_Config
 "Sorry, we haven't installed the base currency you selected.","Désolé, nous avons pas installé la devise de base que vous avez sélectionnée.",module,Magento_Config
 "Sorry, we haven't installed the base currency you selected.","Désolé, nous avons pas installé la devise de base que vous avez sélectionnée.",module,Magento_Config
@@ -62,7 +62,7 @@
 "Sorry, we haven't installed the default display currency you selected.","Désolé, nous avons pas installé la devise d'affichage par défaut que vous avez sélectionné.",module,Magento_Config
 "Specified","Spécifié",module,Magento_Config
 "Specify a fully qualified URL.","Spécifiez une URL qualifiée.",module,Magento_Config
-"Specify a URL or path that starts with placeholder(s): %1, and ends with ""/"".","Spécifiez une URL ou un chemin qui commence par: %1, et se termine par ""/"".",module,Magento_Config
+"Specify a URL or path that starts with placeholder(s): %1, and ends with ""/"".","Spécifiez une URL ou un chemin qui commence par : %1, et se termine par ""/"".",module,Magento_Config
 "store(%1) scope","portée du magasin (%1)",module,Magento_Config
 "Store","Magasin",module,Magento_Config
 "Stores","Magasins",module,Magento_Config
@@ -77,7 +77,7 @@
 "The file you're uploading exceeds the server size limit of %1 kilobytes.","Le fichier uploadé dépasse la limite de taille du serveur de %1 Ko.",module,Magento_Config
 "The file you're uploading exceeds the server size limit of %1 kilobytes.","Le fichier uploadé dépasse la limite de taille du serveur de %1 Ko.",module,Magento_Config
 "The sender name ""%1"" is not valid. Please use only visible characters and spaces.","Le nom de l'expéditeur ""%1"" n'est pas valide. Veuillez utilisez uniquement des caractères et des espaces.",module,Magento_Config
-"The specified image adapter cannot be used because of: %1","Adapter image ne peut être utilisé: %1",module,Magento_Config
+"The specified image adapter cannot be used because of: %1","Adapter image ne peut être utilisé : %1",module,Magento_Config
 "title","Titre",module,Magento_Config
 "Use Default","Utiliser la valeur par défaut",module,Magento_Config
 "Use Website","Valeur du site web",module,Magento_Config

@@ -49,8 +49,8 @@
 "Select Email Template","Sélectionner le gabarit d'email",module,Magento_SendFriend
 "Send Email","Envoyer un Email",module,Magento_SendFriend
 "Sender","Expéditeur",module,Magento_SendFriend
-"Sender:","Expéditeur:",module,Magento_SendFriend
-"%sender_name wants to share this product with you:","%sender_name voudrait partager ce produit avec vous:",module,Magento_SendFriend
+"Sender:","Expéditeur :",module,Magento_SendFriend
+"%sender_name wants to share this product with you:","%sender_name voudrait partager ce produit avec vous :",module,Magento_SendFriend
 "Some emails were not sent.","Certains emails n'ont pas été envoyés.",module,Magento_SendFriend
 "Some error","Une erreur",module,Magento_SendFriend
 "The link to a friend was sent.","Le lien à un ami a été envoyé.",module,Magento_SendFriend

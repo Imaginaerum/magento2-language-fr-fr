@@ -73,8 +73,8 @@
 "Severe Validation Removes Chargeback Liability on Merchant","La vérification 3D Secure stricte annule la responsabilité de rétrofacturation du marchand",module,Magento_Authorizenet
 "Something went wrong canceling the transactions.","Erreur lors de l'annulation de la transaction.",module,Magento_Authorizenet
 "Something went wrong in the payment gateway.","Une erreur s'est produite sur la passerelle de paiement.",module,Magento_Authorizenet
-"Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.","Une erreur s'est Produite: le montant payé ne correspond pas au montant de la commande. Veuillez corriger cela et essayer à nouveau.",module,Magento_Authorizenet
-"Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.","Une erreur s'est Produite: le montant payé ne correspond pas au montant de la commande. Veuillez corriger cela et essayer à nouveau.",module,Magento_Authorizenet
+"Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.","Une erreur s'est produite : le montant payé ne correspond pas au montant de la commande. Veuillez corriger cela et essayer à nouveau.",module,Magento_Authorizenet
+"Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.","Une erreur s'est produite : le montant payé ne correspond pas au montant de la commande. Veuillez corriger cela et essayer à nouveau.",module,Magento_Authorizenet
 "Something went wrong while authorizing the partial payment.","Une erreur s'est produite lors de l'autorisation partielle de paiement.",module,Magento_Authorizenet
 "Something went wrong while authorizing the payment.","Une erreur s'est produite lors de l'autorisation de paiement.",module,Magento_Authorizenet
 "Something went wrong while canceling the payment.","Une erreur s'est produite lors de l'annulation de paiement.",module,Magento_Authorizenet
