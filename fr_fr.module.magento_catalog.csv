@@ -429,7 +429,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "New Products from %1","Nouveaux produits de %1",module,Magento_Catalog
 "New Products Grid Template","Gabarit des nouveaux produits sous forme de grille",module,Magento_Catalog
 "New Products Images and Names Template","Nouveau gabarit images et noms de produits",module,Magento_Catalog
-"New Products Images Only Template","Nouveaux Gabarit d'images produits",module,Magento_Catalog
+"New Products Images Only Template","Nouveau gabarit d'images produits",module,Magento_Catalog
 "New Products List Template","Gabarit des nouveaux produits sous forme de liste",module,Magento_Catalog
 "New Products Names Only Template","Nouveau gabarit noms de produits seulement",module,Magento_Catalog
 "New Product Template","Nouveau Gabarit Produit",module,Magento_Catalog
