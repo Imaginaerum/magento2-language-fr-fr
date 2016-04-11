@@ -413,7 +413,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "More Information","Plus d'Information",module,Magento_Catalog
 "More Views","Plus de vues",module,Magento_Catalog
 "Multiple Select","Sélection multiple",module,Magento_Catalog
-"Must be category model instance or its id.","Doit être une instance de modèle de catégorie de modèle ou son ID.",module,Magento_Catalog
+"Must be category model instance or its id.","Doit être une instance de modèle de catégorie ou son ID.",module,Magento_Catalog
 "Must be in the allowed values list","Doit être dans la liste des valeurs autorisées",module,Magento_Catalog
 "N/A","N/A",module,Magento_Catalog
 "Name","Nom",module,Magento_Catalog
