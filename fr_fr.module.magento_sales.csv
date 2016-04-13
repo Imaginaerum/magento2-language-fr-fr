@@ -249,7 +249,7 @@
 "Invoice","Facture",module,Magento_Sales
 "Invoice and Packing Slip Design","Design de facture et de bordereau de livraison",module,Magento_Sales
 "Invoice and Ship","Facturer et expédier",module,Magento_Sales
-"Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.","Les types de facture et d'expédition ne correspondent pas à certains articles de cette commande. Vous pouvez créer l'expédition uniquement après avoir créer une facture.",module,Magento_Sales
+"Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.","Les types de facture et d'expédition ne correspondent pas à certains articles de cette commande. Vous pouvez créer l'expédition uniquement après la création d'une facture.",module,Magento_Sales
 "Invoice canceling error","Erreur lors de l'annulation de la facture",module,Magento_Sales
 "Invoice capturing error","Erreur lors de la capture de la facture",module,Magento_Sales
 "Invoice Comment Email Sender","Expéditeur du mail de commentaire de facture",module,Magento_Sales
