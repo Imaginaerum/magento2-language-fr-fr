@@ -118,7 +118,7 @@
 "View Details","Voir les détails",module,Magento_Wishlist
 "View Product","Voir le Produit",module,Magento_Wishlist
 "We cannot add this item to your shopping cart.","Impossible d'ajouter cet article dans le panier.",module,Magento_Wishlist
-"We cannot retrieve the Wish List.","Impossible de récuperer la liste d'envies.",module,Magento_Wishlist
+"We cannot retrieve the Wish List.","Impossible de récupérer la liste d'envies.",module,Magento_Wishlist
 "We can't add the item to the cart right now.","Impossible d'ajouter le produit au panier.",module,Magento_Wishlist
 "We can't add the item to Wish List right now: %1.","Impossible d'ajouter l'article à la liste d'envies : %1.",module,Magento_Wishlist
 "We can't add the item to Wish List right now.","Impossible d'ajouter l'article à la liste d'envies.",module,Magento_Wishlist
