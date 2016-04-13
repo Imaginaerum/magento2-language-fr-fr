@@ -160,7 +160,7 @@
 "Uses per Customer","Nombre d'utilisations par client",module,Magento_SalesRule
 "Web Site","Site Web",module,Magento_SalesRule
 "Websites","Sites Web",module,Magento_SalesRule
-"We cannot create the requested Coupon Qty. Please check your settings and try again.","Impossible créer la quantité de coupon demandée. Veuillez vérifier vos paramètres puis réessayez.",module,Magento_SalesRule
+"We cannot create the requested Coupon Qty. Please check your settings and try again.","Nous ne pouvons créer la quantité de coupon demandée. Veuillez vérifier vos paramètres puis réessayez à nouveau.",module,Magento_SalesRule
 "We can't delete the rule right now. Please review the log and try again.","Impossible de supprimer la règle. Veuillez consulter le journal des erreurs et essayez à nouveau.",module,Magento_SalesRule
 "We can't find a rule to delete.","Impossible de trouver la règle à supprimer.",module,Magento_SalesRule
 "We can't find a rule to delete.","Impossible de trouver la règle à supprimer.",module,Magento_SalesRule
