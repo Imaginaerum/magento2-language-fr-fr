@@ -147,9 +147,9 @@
 "What's this?","Qu'est-ce que c'est ?",module,Magento_Wishlist
 "Wish List","Liste d'envies",module,Magento_Wishlist
 "Wishlist","Liste d'envies",module,Magento_Wishlist
-"Wish List could not be created.","La liste d'envies n'a pas été crée.",module,Magento_Wishlist
-"Wish List is empty now.","La Liste d'EnVies est vide.",module,Magento_Wishlist
-"Wish List Sharing","Partage de Liste d'EnVies",module,Magento_Wishlist
+"Wish List could not be created.","La liste d'envies n'a pas été créée.",module,Magento_Wishlist
+"Wish List is empty now.","La liste d'envies est vide.",module,Magento_Wishlist
+"Wish List Sharing","Partage de liste d'envies",module,Magento_Wishlist
 "You added %1 to your shopping cart.","Le produit %1 a été ajouté à votre panier.",module,Magento_Wishlist
 "You have no items in your wish list.","Il n'y a aucun article dans votre liste d'envies.",module,Magento_Wishlist
 "Your wish list has been shared.","Votre liste d'envies a bien été partagée.",module,Magento_Wishlist
