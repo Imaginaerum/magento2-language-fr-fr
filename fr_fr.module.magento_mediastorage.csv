@@ -1,6 +1,6 @@
 "After selecting a new media storage location, press the Synchronize button to transfer all media to that location. Media will not be available in the new location until the synchronization process is complete.","Après la sélection d'un nouvel emplacement de stockage des médias, appuyez sur le bouton ""Synchroniser"" pour transférer tous les médias à cet emplacement. Les médias ne seront pas disponibles dans le nouvel emplacement jusqu'à ce que le processus de synchronisation soit terminé.",module,Magento_MediaStorage
 "database ""%1""","base de données ""%1""",module,Magento_MediaStorage
-"Database","Base de Données",module,Magento_MediaStorage
+"Database","Base de données",module,Magento_MediaStorage
 "Environment Update Time","Temps de mise à jour de l'environnement",module,Magento_MediaStorage
 "File %1 does not exist","Le Fichier %1 n'existe pas",module,Magento_MediaStorage
 "File %1 is not readable","Le Fichier %1 n'est pas lisible",module,Magento_MediaStorage
