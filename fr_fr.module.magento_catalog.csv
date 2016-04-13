@@ -830,7 +830,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "We found a duplicate website group price customer group.","Doublon groupe de prix client par groupe.",module,Magento_Catalog
 "We found a duplicate website, tier price, customer group and quantity.","Nous avons trouvé un doublon de site, prix par palier, groupe de clients et quantité.",module,Magento_Catalog
 "We found an unknown EAV indexer type ""%1"".","Type d'ndexer EAV invalide ""%1"".",module,Magento_Catalog
-"We found other products you might like!","Nous avons trouvé d'autres produits qui pourraient vous intéresser!",module,Magento_Catalog
+"We found other products you might like!","Nous avons trouvé d'autres produits qui pourraient vous intéresser !",module,Magento_Catalog
 "We're unable to complete this request.","Nous sommes dans l'impossibilité de finaliser cette requête.",module,Magento_Catalog
 "We saved the price alert subscription.","Nous avons sauvegardé votre abonnement concernant l'alerte de ce prix.",module,Magento_Catalog
 "We saved the stock notification.","Nous avons sauvegardé la notification de stock.",module,Magento_Catalog
