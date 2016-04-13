@@ -46,7 +46,7 @@
 "We cannot retrieve the transparent payment method model object.","Impossible de retrouver le modèle de l'objet de la méthode de paiement transparente.",module,Magento_Payment
 "We found an incorrect credit card expiration date.","Nous avons trouvé une date d'expiration de carte de crédit incorrecte.",module,Magento_Payment
 "We'll ask for your payment details before you place an order.","Vous devrez renseigner vos informations de paiement avant de confirmer votre commande.",module,Magento_Payment
-"What is this?","Qu'est-ce que c'est?",module,Magento_Payment
+"What is this?","Qu'est-ce que c'est ?",module,Magento_Payment
 "Wrong gateway response format.","Mauvais format de réponse de la passerelle.",module,Magento_Payment
 "Year","Année",module,Magento_Payment
 "Yes","Oui",module,Magento_Payment
