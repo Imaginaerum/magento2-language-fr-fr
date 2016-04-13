@@ -314,7 +314,7 @@
 "Vault is disabled.","Coffre-fort desactivé.",module,Magento_Braintree
 "Venmo sdk payment method code card type is not accepted","Méthode de paiement Venmo sdk : code type carte non accepté",module,Magento_Braintree
 "Verification not supported on this merchant account","Vérification non supportée pour ce compte marchand",module,Magento_Braintree
-"Voice Authorization is not allowed for this card type","Autorisation non disponible pour ce type de carde",module,Magento_Braintree
+"Voice Authorization is not allowed for this card type","Autorisation non disponible pour ce type de carte",module,Magento_Braintree
 "Voice Authorization Required","Autorisation requise",module,Magento_Braintree
 "Voice Authorizations are not supported for this processor","Paiements téléphoniques non supportés par ce service de paiement",module,Magento_Braintree
 "Voided capture.","Capture annulée.",module,Magento_Braintree
