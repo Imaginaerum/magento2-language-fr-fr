@@ -490,9 +490,9 @@
 "Refund Totals","Total remboursé",module,Magento_Sales
 "Registered a Void notification.","Notifier une annulation.",module,Magento_Sales
 "Registered notification about approved payment.","Notification enregistré au sujet de paiement approuvé.",module,Magento_Sales
-"Registered notification about captured amount of %1.","Notifier lors d'un encaissement d'un montant de %1.",module,Magento_Sales
+"Registered notification about captured amount of %1.","Notification d'un encaissement d'un montant de %1 enregistrée.",module,Magento_Sales
 "Registered notification about denied payment.","Notification de paiement refusé enregistrée.",module,Magento_Sales
-"Registered notification about refunded amount of %1.","Notification d'un remboursement d'un montant de %1 enregistré.",module,Magento_Sales
+"Registered notification about refunded amount of %1.","Notification d'un remboursement d'un montant de %1 enregistrée.",module,Magento_Sales
 "Registered update about approved payment.","Mise à jour sauvegardée au sujet de paiement approuvé.",module,Magento_Sales
 "Registered update about denied payment.","Mise à jour sauvegardée au sujet de paiement refusé.",module,Magento_Sales
 "Remove","Supprimer",module,Magento_Sales
