@@ -224,7 +224,7 @@
 "If you did not request this change, please contact us.","Si vous n'avez pas effectué cette demande, veuillez nous contacter.",module,Magento_Customer
 "If you have an account, sign in with your email address.","Si vous avez un compte, connectez-vous avec votre adresse email.",module,Magento_Customer
 "If you have an account with us, log in using your email address.","Si vous possédez un compte veuillez vous connecter en utilisant votre adresse email.",module,Magento_Customer
-"If you requested this change, set a new password here:","Si vous avez demandé ce changement, définir un nouveau mot de passe ici:",module,Magento_Customer
+"If you requested this change, set a new password here:","Si vous êtes bien à l'origine de cette demande, veuillez cliquer ci-dessous pour définir un nouveau mot de passe :",module,Magento_Customer
 "If your Magento site has multiple views, you can set the scope to apply to a specific view.","Si votre site Magento a plusieurs magasins, vous pouvez définir la portée à appliquer pour une vue spécifique.",module,Magento_Customer
 "Images and Videos","Images et Vidéos",module,Magento_Customer
 "Indeterminate","Indéterminé",module,Magento_Customer
