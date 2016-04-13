@@ -794,7 +794,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Visible in Advanced Search","Visible dans la Recherche avancée",module,Magento_Catalog
 "Visible on Catalog Pages on Frontend","Visible sur les pages catalogue du frontend",module,Magento_Catalog
 "Visible on Catalog Pages on Storefront","Visible sur les pages du catalogue magasin",module,Magento_Catalog
-"<strong style=""color:red"">Warning!</strong> Applying MAP by default will hide all product prices on the front end.","<strong style=""color:red"">Attention!</strong> Appliquer MAP par défaut masquera tous les prix produits sur le frontend.",module,Magento_Catalog
+"<strong style=""color:red"">Warning!</strong> Applying MAP by default will hide all product prices on the front end.","<strong style=""color:red"">Attention !</strong> Appliquer MAP par défaut masquera tous les prix produits sur le frontend.",module,Magento_Catalog
 "Warning message","Message d'alerte",module,Magento_Catalog
 "Watermark","Filigrane",module,Magento_Catalog
 "Watermark Default Size","Taille par défaut du filigrane",module,Magento_Catalog
