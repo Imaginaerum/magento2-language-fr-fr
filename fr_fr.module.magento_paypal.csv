@@ -623,7 +623,7 @@
 "We couldn't start the billing agreement wizard.","Impossible de démarrer l'assistant d'entente de facturation.",module,Magento_Paypal
 "We fetched %1 report rows from '%2@%3'.","%1 lignes récupérées dans le rapport ""%2@%3"".",module,Magento_Paypal
 "We fetched %1 report rows from ""%2@%3.""","%1 lignes récupérées dans le rapport ""%2@%3.""",module,Magento_Paypal
-"We found nothing to fetch because of an empty configuration.","Aucune données en raison d'une configuration vide.",module,Magento_Paypal
+"We found nothing to fetch because of an empty configuration.","Aucune donnée trouvée en raison d'une configuration vide.",module,Magento_Paypal
 "We'll authorize the amount of %1 as soon as the payment gateway approves it.","Nous autoriserons le montant de %1 dès que la passerelle de paiement sera approuvée.",module,Magento_Paypal
 "We'll authorize the amount of %1 as soon as the payment gateway approves it.","Nous autoriserons le montant de %1 dès que la passerelle de paiement sera approuvée.",module,Magento_Paypal
 "We prefer PayPal (150 X 40)","Nous préférons PayPal (150 X 40)",module,Magento_Paypal
