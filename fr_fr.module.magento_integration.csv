@@ -117,5 +117,5 @@
 "Verifier is not the correct length","Le vérificateur n'a pas la bonne longueur",module,Magento_Integration
 "View ""%1"" Integration","Voir ""%1"" Intégration",module,Magento_Integration
 "View","Voir",module,Magento_Integration
-"Warning! Integrations not using HTTPS are insecure and potentially expose private or personally identifiable information","Attention! L'intégrations n'utilise pas HTTPS et expose potentiellement des informations privées ou personnelles",module,Magento_Integration
+"Warning! Integrations not using HTTPS are insecure and potentially expose private or personally identifiable information","Attention ! L'intégration n'utilise pas HTTPS et expose potentiellement des informations privées ou personnelles",module,Magento_Integration
 "You did not sign in correctly or your account is temporarily disabled.","Erreur dans les paramètres de connexion ou votre compte est temporairement désactivé.",module,Magento_Integration
