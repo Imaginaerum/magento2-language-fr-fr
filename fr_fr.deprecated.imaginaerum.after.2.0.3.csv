@@ -67,7 +67,7 @@
 "Requested option doesn't exist: %1","L'option demandée n'existe pas : %1",deprecated,Imaginaerum
 "Requested option doesn't exist","L'option n'existe pas",deprecated,Imaginaerum
 "Requested product doesn't exist","Le produit n'existe pas",deprecated,Imaginaerum
-"RSS link to %1's wishlist","Lien vers le flux RSS de la liste d'enVies de %1",deprecated,Imaginaerum
+"RSS link to %1's wishlist","Lien vers le flux RSS de la liste d'envies de %1",deprecated,Imaginaerum
 "Sorry, but we can't find the new category you selected.","Désolé, mais nous ne pouvons pas trouver la catégorie sélectionnée.",deprecated,Imaginaerum
 "Sorry, but we can't find the new parent category you selected.","Désolé, impossible trouver la catégorie parente sélectionnée.",deprecated,Imaginaerum
 "Sorry, something went wrong. That's all we know.","Une erreur s'est produite.",deprecated,Imaginaerum
@@ -193,7 +193,7 @@
 "We can't update the order address right now.","Impossible de mettre à jour l'adresse de la commande.",deprecated,Imaginaerum
 "We can't update the payment right now.","Impossible de mettre à jour le paiement.",deprecated,Imaginaerum
 "We can't update the shopping cart.","Nous ne pouvons pas mettre à jour le panier.",deprecated,Imaginaerum
-"We can't update the Wish List right now.","Impossible de mettre à jour la liste d'enVies.",deprecated,Imaginaerum
+"We can't update the Wish List right now.","Impossible de mettre à jour la liste d'envies.",deprecated,Imaginaerum
 "We can't update your Wish List right now.","Impossible de mettre à jour votre liste d'envies.",deprecated,Imaginaerum
 "We can't upload the CSS file right now.","Impossible d'uploader le fichier CSS.",deprecated,Imaginaerum
 "We can't upload the file right now.","Nous ne pouvons pas uploader le fichier.",deprecated,Imaginaerum

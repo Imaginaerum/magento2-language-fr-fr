@@ -570,7 +570,7 @@
 "We're unable to send the password reset email.","Nous ne pouvons pas envoyer l'email de réinitialisation de mot de passe.",module,Magento_Customer
 "When you sign in to your account, you will be able to:","Lorsque vous êtes connecté à votre compte, vous pouvez :",module,Magento_Customer
 "Wishlist - %1 item(s)","Liste d'envies - %1 article(s)",module,Magento_Customer
-"Wishlist","Liste d'enVies",module,Magento_Customer
+"Wishlist","Liste d'envies",module,Magento_Customer
 "Would you like to change the Customer Group for this order?","Souhaitez-vous changer le groupe client pour cette commande ?",module,Magento_Customer
 "Wrong email.","Email erroné.",module,Magento_Customer
 "Wrong transactional account email type","Le type d'email de compte transactionnel est erroné",module,Magento_Customer

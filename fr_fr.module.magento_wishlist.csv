@@ -38,7 +38,7 @@
 "Can't save description %1","Impossible de sauvegarder la description %1",module,Magento_Wishlist
 "Can't update wish list","Impossible de mettre à jour la liste d'envies",module,Magento_Wishlist
 "Can't update wish list","Impossible de mettre à jour la liste d'envies",module,Magento_Wishlist
-"Check here to link an RSS feed to your Wish List.","Cocher cette case pour activer le flux RSS de votre liste d'enVies.",module,Magento_Wishlist
+"Check here to link an RSS feed to your Wish List.","Cocher cette case pour activer le flux RSS de votre liste d'envies.",module,Magento_Wishlist
 "Check this checkbox if you want to add a link to an rss feed to your wishlist.","Cochez cette case si vous souhaitez ajouter un lien vers un flux RSS vers votre liste d'envies.",module,Magento_Wishlist
 "Click for price","Cliquez pour afficher le prix",module,Magento_Wishlist
 "Comment","Commentaire",module,Magento_Wishlist
@@ -96,7 +96,7 @@
 "Remove This Item","Supprimer cet Élément",module,Magento_Wishlist
 "* Required Fields","* Champs requis",module,Magento_Wishlist
 "RSS Feed","Flux RSS",module,Magento_Wishlist
-"RSS link to %1's wishlist","Lien vers le flux RSS de la liste d'enVies de %1",module,Magento_Wishlist
+"RSS link to %1's wishlist","Lien vers le flux RSS de la liste d'envies de %1",module,Magento_Wishlist
 "See Details","Voir les Détails",module,Magento_Wishlist
 "Share Options","Options de Partage",module,Magento_Wishlist
 "Share Wishlist","Partager la liste d'envies",module,Magento_Wishlist
@@ -118,7 +118,7 @@
 "View Details","Voir les détails",module,Magento_Wishlist
 "View Product","Voir le Produit",module,Magento_Wishlist
 "We cannot add this item to your shopping cart.","Impossible d'ajouter cet article dans le panier.",module,Magento_Wishlist
-"We cannot retrieve the Wish List.","Impossible de récuperer la liste d'enVies.",module,Magento_Wishlist
+"We cannot retrieve the Wish List.","Impossible de récuperer la liste d'envies.",module,Magento_Wishlist
 "We can't add the item to the cart right now.","Impossible d'ajouter le produit au panier.",module,Magento_Wishlist
 "We can't add the item to Wish List right now: %1.","Impossible d'ajouter l'article à la liste d'envies : %1.",module,Magento_Wishlist
 "We can't add the item to Wish List right now.","Impossible d'ajouter l'article à la liste d'envies.",module,Magento_Wishlist
@@ -139,14 +139,14 @@
 "We can't specify a wish list.","Impossible de spécifier une liste d'envies.",module,Magento_Wishlist
 "We can't specify a wish list item.","Impossible de spécifier un produit de la liste d'envies.",module,Magento_Wishlist
 "We can't specify a wish list item.","Impossible de spécifier un produit de la liste d'envies.",module,Magento_Wishlist
-"We can't update the Wish List right now.","Impossible de mettre à jour la liste d'enVies.",module,Magento_Wishlist
+"We can't update the Wish List right now.","Impossible de mettre à jour la liste d'envies.",module,Magento_Wishlist
 "We can't update wish list.","Impossible de mettre à jour la liste d'envies.",module,Magento_Wishlist
 "We can't update your Wish List right now.","Impossible de mettre à jour votre liste d'envies.",module,Magento_Wishlist
 "We couldn't add the following product(s) to the shopping cart: %1.","Impossible d'ajouter les produits suivants au panier : %1.",module,Magento_Wishlist
 "We couldn't add the following product(s) to the shopping cart: %1.","Impossible d'ajouter les produits suivants au panier : %1.",module,Magento_Wishlist
 "What's this?","Qu'est-ce que c'est ?",module,Magento_Wishlist
-"Wish List","Liste d'enVies",module,Magento_Wishlist
-"Wishlist","Liste d'enVies",module,Magento_Wishlist
+"Wish List","Liste d'envies",module,Magento_Wishlist
+"Wishlist","Liste d'envies",module,Magento_Wishlist
 "Wish List could not be created.","La liste d'envies n'a pas été crée.",module,Magento_Wishlist
 "Wish List is empty now.","La Liste d'EnVies est vide.",module,Magento_Wishlist
 "Wish List Sharing","Partage de Liste d'EnVies",module,Magento_Wishlist
