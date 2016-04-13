@@ -176,7 +176,7 @@
 "Edit Group","Modifier le Groupe",module,Magento_Customer
 "Email:","Email:",module,Magento_Customer
 "Email","Email",module,Magento_Customer
-"Email Address","Adresse Email",module,Magento_Customer
+"Email Address","Adresse email",module,Magento_Customer
 "Email Sender","Expéditeur du mail",module,Magento_Customer
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée.",module,Magento_Customer
 "Enable Autocomplete on login/forgot password forms","Activer la saisie semi-automatique sur les formulaires de commexion/mot de passe oublié",module,Magento_Customer

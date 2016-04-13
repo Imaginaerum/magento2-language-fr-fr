@@ -6,8 +6,8 @@
 "Cookie (unsafe)","Cookie (non sécurisé)",module,Magento_SendFriend
 "Email:","Email:",module,Magento_SendFriend
 "Email","Email",module,Magento_SendFriend
-"Email Address","Adresse Email",module,Magento_SendFriend
-"Email Address:","Adresse Email:",module,Magento_SendFriend
+"Email Address","Adresse email",module,Magento_SendFriend
+"Email Address:","Adresse email :",module,Magento_SendFriend
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée.",module,Magento_SendFriend
 "Email Templates","Gabarits d'email",module,Magento_SendFriend
 "Email to a Friend","Envoyer à un ami",module,Magento_SendFriend

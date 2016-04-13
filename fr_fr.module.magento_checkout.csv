@@ -53,7 +53,7 @@
 "Edit item","Éditer l'article",module,Magento_Checkout
 "Edit item parameters","Éditer les paramètres de l'article",module,Magento_Checkout
 "Edit Your Cart","Modifiez votre panier",module,Magento_Checkout
-"Email Address","Adresse Email",module,Magento_Checkout
+"Email Address","Adresse email",module,Magento_Checkout
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée.",module,Magento_Checkout
 "Enable Onepage Checkout","Activer le passage de commande en une seule page",module,Magento_Checkout
 "Enter discount code","Entrez le code de réduction",module,Magento_Checkout

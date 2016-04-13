@@ -185,7 +185,7 @@
 "Edit Order","Éditer la commande",module,Magento_Sales
 "Edit Order Status","Éditer le statut de commande",module,Magento_Sales
 "Email","Email",module,Magento_Sales
-"Email Address","Adresse Email",module,Magento_Sales
+"Email Address","Adresse email",module,Magento_Sales
 "Email Copy of Credit Memo","Envoyer une copie de l'avoir par mail",module,Magento_Sales
 "Email Copy of Invoice","Envoyer une copie de la facture par mail",module,Magento_Sales
 "Email has not been sent","L'email n'a pas été envoyé",module,Magento_Sales

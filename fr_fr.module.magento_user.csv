@@ -25,8 +25,8 @@
 "Edit User '%1'","Modifier l'utilisateur '%1'",module,Magento_User
 "Edit User","Modifier l'utilisateur",module,Magento_User
 "Email","Email",module,Magento_User
-"Email Address:","Adresse Email:",module,Magento_User
-"Email address","Adresse Email",module,Magento_User
+"Email Address:","Adresse email :",module,Magento_User
+"Email address","Adresse email",module,Magento_User
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée.",module,Magento_User
 "Enter your email address.  You will receive an email with a link to reset your password.","Renseignez votre mot de passe. Vous allez recevoir un email contenant un lien pour réinitialiser votre mot de passe.",module,Magento_User
 "Failures","Echecs",module,Magento_User
