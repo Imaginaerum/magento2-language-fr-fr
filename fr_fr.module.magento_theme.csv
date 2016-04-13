@@ -140,7 +140,7 @@
 "Upload CSS File","Uploader un fichier CSS",module,Magento_Theme
 "Upload Fonts","Uploader des polices",module,Magento_Theme
 "Upload Images","Uploader des images",module,Magento_Theme
-"Upload JS Files","Iploader des fichiers JS",module,Magento_Theme
+"Upload JS Files","Uploader des fichiers JS",module,Magento_Theme
 "Use only standard alphanumeric, dashes and underscores.","Utilisez uniquement des lettres, tirets ou underscores.",module,Magento_Theme
 "(ver. %1)","(ver. %1)",module,Magento_Theme
 "We cannot delete root directory %1.","Impossible de supprimer le répertoire %1.",module,Magento_Theme

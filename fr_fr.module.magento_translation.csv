@@ -132,7 +132,7 @@
 "Translation Strategy","Stratégie de Traduction",module,Magento_Translation
 "unselect all","Désélectionner tout",module,Magento_Translation
 "Upload HTTP Error","Erreur HTTP de téléchargement",module,Magento_Translation
-"Upload I/O Error","Erreur entrée/Sortie de téléchargement",module,Magento_Translation
+"Upload I/O Error","Erreur I/O upload",module,Magento_Translation
 "Upload Security Error","Erreur de sécurité de téléchargement",module,Magento_Translation
 "Use gift registry shipping address","Utiliser l'adresse de la liste cadeaux",module,Magento_Translation
 "We are not able to ship to the selected shipping address. Please choose another address or edit the current address.","Impossible de livrer à l'adresse sélectionnée. Veuillez choisir une autre adresse ou éditer l'adresse choisie.",module,Magento_Translation
