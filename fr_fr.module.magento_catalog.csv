@@ -822,8 +822,8 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "We can't save custom-defined options for bundles with dynamic pricing.","Nous ne pouvons pas sauvegarder les options personnalisées, pour les produits groupés avec une tarification dynamique.",module,Magento_Catalog
 "We can't update the attribute.","Nous ne pouvons pas mettre à jour l'attribut.",module,Magento_Catalog
 "We couldn't add the product to the cart because of an option validation issue.","Impossible d'ajouter ce produit au panier. Erreur lors de la validation d'une option.",module,Magento_Catalog
-"We couldn't copy file %1. Please delete media with non-existing images and try again.","Nous n'avons pu copier le fichier %1. Veuillez supprimer les médias inexistants et essayez à nouveau.",module,Magento_Catalog
-"We couldn't copy file %1. Please delete media with non-existing images and try again.","Nous n'avons pu copier le fichier %1. Veuillez supprimer les médias inexistants et essayez à nouveau.",module,Magento_Catalog
+"We couldn't copy file %1. Please delete media with non-existing images and try again.","Nous n'avons pu copier le fichier %1. Veuillez supprimer les médias inexistants et essayer à nouveau.",module,Magento_Catalog
+"We couldn't copy file %1. Please delete media with non-existing images and try again.","Nous n'avons pu copier le fichier %1. Veuillez supprimer les médias inexistants et essayer à nouveau.",module,Magento_Catalog
 "We couldn't move this file: %1.","Nous n'avons pu déplacer ce fichier : %1.",module,Magento_Catalog
 "We couldn't move this file: %1.","Nous n'avons pu déplacer ce fichier : %1.",module,Magento_Catalog
 "We don't recognize or support this file extension type.","Le type de fichier n'est pas reconnu ou n'est pas autorisé.",module,Magento_Catalog
