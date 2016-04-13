@@ -94,6 +94,6 @@
 "We found updated rules that are not applied. Please click ""Apply Rules"" to update your catalog.","Certaines règles n'ont pas été appliquées. Veuillez cliquer sur ""Appliquer les règles"" pour mettre à jour le catalogue.",module,Magento_CatalogRule
 "Wrong rule specified.","Mauvaise règle spécifiée.",module,Magento_CatalogRule
 "Yes","Oui",module,Magento_CatalogRule
-"You deleted the rule.","Règle Supprimée.",module,Magento_CatalogRule
+"You deleted the rule.","Règle supprimée.",module,Magento_CatalogRule
 "You disabled %1 Catalog Price Rules based on ""%2"" attribute.","La règle de prix catalogue %1 a été désactivée car elle est basée sur l'attribut ""%2"".",module,Magento_CatalogRule
 "You saved the rule.","Règle sauvegardée.",module,Magento_CatalogRule

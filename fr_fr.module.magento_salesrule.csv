@@ -165,7 +165,7 @@
 "We can't find a rule to delete.","Impossible de trouver la règle à supprimer.",module,Magento_SalesRule
 "We can't find a rule to delete.","Impossible de trouver la règle à supprimer.",module,Magento_SalesRule
 "Yes","Oui",module,Magento_SalesRule
-"You deleted the rule.","Règle Supprimée.",module,Magento_SalesRule
+"You deleted the rule.","Règle supprimée.",module,Magento_SalesRule
 "Your coupon was successfully applied","Coupon appliqué",module,Magento_SalesRule
 "Your coupon was successfully removed","Coupon supprimé",module,Magento_SalesRule
 "You saved the rule.","Règle sauvegardée.",module,Magento_SalesRule
