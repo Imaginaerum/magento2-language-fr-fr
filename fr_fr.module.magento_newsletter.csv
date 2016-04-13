@@ -151,7 +151,7 @@
 "We unsubscribed the people you identified.","Désinscription des personnes sélectionnés.",module,Magento_Newsletter
 "You have been successfully subscribed to our newsletter.","Nous vous confirmons votre abonnement à notre newsletter.",module,Magento_Newsletter
 "You have been unsubscribed.","Vous n'êtes plus inscrit(e) à la newsletter.",module,Magento_Newsletter
-"You have been unsubscribed from the newsletter.","Vous êtes maintenant désabonné à notre newsletter.",module,Magento_Newsletter
+"You have been unsubscribed from the newsletter.","Vous êtes maintenant désabonné de notre newsletter.",module,Magento_Newsletter
 "Your subscription has been confirmed.","Votre inscription a été confirmée.",module,Magento_Newsletter
 "You saved the newsletter queue.","File d'attente de la newsletter sauvegardée.",module,Magento_Newsletter
 "You selected an invalid queue.","File d'attente invalide.",module,Magento_Newsletter
