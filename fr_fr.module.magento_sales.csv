@@ -828,7 +828,7 @@
 "You need to specify order items.","Vous devez spécifier les articles de la commande.",module,Magento_Sales
 "You put the order on hold.","La commande a été bloquée.",module,Magento_Sales
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Votre avoir #%creditmemo_id pour la commande #%order_id",module,Magento_Sales
-"Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.","Logo par défaut utilisé dans les documents PDF et HTML.<br />(jpeg, tiff, png) Si l'image dans le pdf est deformée, essayez d'utiliser un fichier image plus large.",module,Magento_Sales
+"Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.","Votre logo par défaut sera utilisé dans les documents PDF et HTML.<br>(jpeg, tiff, png) Si l'image dans le pdf est déformée, essayez d'utiliser un fichier image plus large.",module,Magento_Sales
 "You released the order from holding status.","La commande est débloquée.",module,Magento_Sales
 "Your Invoice #%invoice_id for Order #%order_id","Votre Facture #%invoice_id pour la Commande #%order_id",module,Magento_Sales
 "Your Order <span class=""no-link"">#%increment_id</span>","Votre Commande <span class=""no-link"">#%increment_id</span>",module,Magento_Sales
