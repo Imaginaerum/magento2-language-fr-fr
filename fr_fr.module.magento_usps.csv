@@ -1,7 +1,7 @@
 "Allowed Methods","Modes de livraison autorisés",module,Magento_Usps
 "Calculate Handling Fee","Calculer les frais de dossier",module,Magento_Usps
 "Container","Container",module,Magento_Usps
-"Debug","Déboguage",module,Magento_Usps
+"Debug","Débogage",module,Magento_Usps
 "Displayed Error Message","Message d'erreur affiché",module,Magento_Usps
 "Documents","Documents",module,Magento_Usps
 "Empty response","Réponse vide",module,Magento_Usps

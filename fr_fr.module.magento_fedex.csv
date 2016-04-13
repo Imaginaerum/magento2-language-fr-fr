@@ -8,7 +8,7 @@
 "Allowed Methods","Modes de livraison autorisés",module,Magento_Fedex
 "Business Service Center","Centre de service d'affaires",module,Magento_Fedex
 "Calculate Handling Fee","Calculer les frais de dossier",module,Magento_Fedex
-"Debug","Déboguage",module,Magento_Fedex
+"Debug","Débogage",module,Magento_Fedex
 "Direct","Directe",module,Magento_Fedex
 "Displayed Error Message","Message d'erreur affiché",module,Magento_Fedex
 "Drop Box","Boîte de dépôt",module,Magento_Fedex

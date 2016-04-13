@@ -10,7 +10,7 @@
 "cm","cm",module,Magento_Dhl
 "Content Type","Type de contenu",module,Magento_Dhl
 "Customer services","Services client",module,Magento_Dhl
-"Debug","Déboguage",module,Magento_Dhl
+"Debug","Débogage",module,Magento_Dhl
 "Depth","Profondeur",module,Magento_Dhl
 "DHL","DHL",module,Magento_Dhl
 "DHL service is not available at %s date","Le service DHL n'est pas disponible à la date du %s",module,Magento_Dhl

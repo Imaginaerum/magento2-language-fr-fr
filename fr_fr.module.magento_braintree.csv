@@ -113,7 +113,7 @@
 "CVV must be 3 or 4 digits.","L'entrée CVV doit contenir 3 ou 4 chiffres.",module,Magento_Braintree
 "Cvv Response Code","Code de réponse du pictogramme visuel",module,Magento_Braintree
 "CVV Verification","Vérification CVV",module,Magento_Braintree
-"Debug","Déboguage",module,Magento_Braintree
+"Debug","Débogage",module,Magento_Braintree
 "Delete","Supprimer",module,Magento_Braintree
 "Delete Credit Card","Supprimer la carte bancaire",module,Magento_Braintree
 "Display on Shopping Cart","Afficher dans le Panier",module,Magento_Braintree

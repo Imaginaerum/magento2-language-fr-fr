@@ -13,7 +13,7 @@
 "Container","Container",module,Magento_Ups
 "Customer Packaging","Paquet fait par le client",module,Magento_Ups
 "Customer Supplied Package","Emballage fourni par le client",module,Magento_Ups
-"Debug","Déboguage",module,Magento_Ups
+"Debug","Débogage",module,Magento_Ups
 "Delivery Confirmation","Confirmation de livraison",module,Magento_Ups
 "Destination Type","Type de destination",module,Magento_Ups
 "Displayed Error Message","Message d'erreur affiché",module,Magento_Ups
