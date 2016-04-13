@@ -206,7 +206,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Create Category","Créer une Catégorie",module,Magento_Catalog
 "Create Configurations","Créer des Configurations",module,Magento_Catalog
 "Create Permanent Redirect for old URL","Créer des redirections permanentes (301) pour les anciennes URLs",module,Magento_Catalog
-"Create Permanent Redirect for URLs if URL Key Changed","Créer une Redirection Permanente (301) pour les URLs si la Clé d'URL a changée",module,Magento_Catalog
+"Create Permanent Redirect for URLs if URL Key Changed","Créer une eedirection permanente (301) pour les URLs si la Clé d'URL a changé",module,Magento_Catalog
 "Cross-sells","Ventes croisées",module,Magento_Catalog
 "Custom Design","Design Personnalisé",module,Magento_Catalog
 "Customer Group","Groupe de clients",module,Magento_Catalog
