@@ -3,6 +3,12 @@
 * Website: http://imaginaerum.github.io/magento2-language-fr-fr
 * Packagist: https://packagist.org/packages/imaginaerum/magento2-language-fr-fr
 
+# Contributors
+
+* [Louis Samson](https://github.com/Losams "Louis Samson")
+* Astrid Bureau
+* [Antoine Lemoine (Owebia)](http://www.owebia.com/ "Antoine Lemoine (Owebia)")
+
 # Installation
 
 ## Composer method
