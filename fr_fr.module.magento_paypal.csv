@@ -733,8 +733,8 @@
 "You deleted the billing agreement.","Vous avez supprimé l'entente de facturation.",module,Magento_Paypal
 "You need an authorization transaction to void.","Vous avez besoin d'une transaction d'autorisation pour annuler.",module,Magento_Paypal
 "You need to enter a transaction ID.","Veuillez saisir un ID de transaction.",module,Magento_Paypal
-"You notified customer about creditmemo #%1.","Vous notifiez le client sur le remboursement #%1.",module,Magento_Paypal
-"You notified customer about invoice #%1.","Vous avez notifier le client à propos de la facture #%1.",module,Magento_Paypal
+"You notified customer about creditmemo #%1.","Vous avez notifié le client sur le remboursement #%1.",module,Magento_Paypal
+"You notified customer about invoice #%1.","Vous avez notifié le client à propos de la facture #%1.",module,Magento_Paypal
 "Your billing agreement # is: ","Votre identifiant d'entente de facturation est : ",module,Magento_Paypal
 "Your credit card will be charged for","Votre carte de crédit sera débitée de",module,Magento_Paypal
 "Your payment has been declined. Please try again.","Votre paiement a été refusé. Veuillez essayer à nouveau.",module,Magento_Paypal
