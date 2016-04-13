@@ -180,7 +180,7 @@
 "Use digits only for the zip code.","Utilisez uniquement des chiffres pour le code postal.",module,Magento_Tax
 "Warning tax configuration can result in rounding errors. ","Attention : la configuration des taxes peut entraîner des erreurs d'arrondis. ",module,Magento_Tax
 "Warning tax discount configuration might result in different discounts
-                                than a customer might expect. ","Attention : la configuration des taxes peut entraîner des réductions différentes par rapport à ce que le client pourrait attendre. ",module,Magento_Tax
+                                than a customer might expect. ","Attention : la configuration des taxes peut entraîner des réductions différentes de celles que le client pourrait attendre. ",module,Magento_Tax
 "We can't delete this rate because of an incorrect rate ID.","Impossible de supprimer ce taux car son ID est incorrect.",module,Magento_Tax
 "We can't delete this tax class right now.","Impossible de supprimer la classe de taxe.",module,Magento_Tax
 "We can't delete this tax rate right now.","Impossible de supprimer ce taux de taxe.",module,Magento_Tax
