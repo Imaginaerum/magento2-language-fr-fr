@@ -808,7 +808,7 @@
 "You can't do this without a transaction object.","Opération impossible sans un objet transaction.",module,Magento_Sales
 "You can't do this without a transaction object.","Opération impossible sans un objet transaction.",module,Magento_Sales
 "You created the credit memo.","Avoir créé.",module,Magento_Sales
-"You created the invoice and shipment.","La facture et l'expédition ont été créés.",module,Magento_Sales
+"You created the invoice and shipment.","La facture et l'expédition ont été créées.",module,Magento_Sales
 "You created the order.","La commande a été créée.",module,Magento_Sales
 "You did not email your customer. Please check your email settings.","L'email client n'a pas été envoyé. Veuillez vérifier les paramètres des emails.",module,Magento_Sales
 "You don't need to select a shipping address.","Il n'est pas nécessaire de sélectionner une adresse de livraison.",module,Magento_Sales
