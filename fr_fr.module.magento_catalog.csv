@@ -252,7 +252,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Display Page Control","Contrôle de l'affichage de la page",module,Magento_Catalog
 "Display Settings","Paramètres d'affichage",module,Magento_Catalog
 "Display Type","Type d'affichage",module,Magento_Catalog
-"Does this have a weight?","Possède un poids?",module,Magento_Catalog
+"Does this have a weight?","Possède un poids ?",module,Magento_Catalog
 "Do not change the scope. %1","Ne pas modifier la portée. %1",module,Magento_Catalog
 "Do not change the scope. ","Ne pas modifier la portée. ",module,Magento_Catalog
 "Double click on a group to rename it.","Double-cliquez sur un groupe pour le renommer.",module,Magento_Catalog
