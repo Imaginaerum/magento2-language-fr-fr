@@ -9,8 +9,8 @@
 "Area is already set","La zone est déjà initialisée",module,Magento_Email
 "Are you sure that you want to delete this template?","Êtes-vous sûr(e) de vouloir supprimer ce gabarit?",module,Magento_Email
 "Are you sure that you want to strip tags?","Êtes-vous sûr(e) de vouloir supprimer les tags?",module,Magento_Email
-"Are you sure you want to delete this template?","Êtes-vous sûr de vouloir supprimer ce gabarit?",module,Magento_Email
-"Are you sure you want to strip tags?","Êtes-vous sûr de vouloir supprimer les balises HTML?",module,Magento_Email
+"Are you sure you want to delete this template?","Êtes-vous sûr(e) de vouloir supprimer ce gabarit?",module,Magento_Email
+"Are you sure you want to strip tags?","Êtes-vous sûr(e) de vouloir supprimer les balises HTML?",module,Magento_Email
 "Back","Retour",module,Magento_Email
 "Base Secure URL","URL de base sécurisée",module,Magento_Email
 "Base Unsecure URL","URL de base non sécurisée",module,Magento_Email

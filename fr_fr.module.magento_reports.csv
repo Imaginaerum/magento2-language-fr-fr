@@ -9,10 +9,10 @@
 "All Websites","Tous les Sites Web",module,Magento_Reports
 "An error occurred while showing the product views report. Please review the log and try again.","Une erreur s'est produite lors de l'affichage du rapport des produits vus. Veuillez vérifier le journal des logs et essayez à nouveau.",module,Magento_Reports
 "Applied Coupon","Coupons utilisés",module,Magento_Reports
-"Are you sure you want to refresh lifetime statistics right now? This operation may slow down your customers' shopping experience.","Etes-vous sûr que vous voulez rafraîchir les statistiques ? Cette opération peut ralentir la navigation de vos clients.",module,Magento_Reports
+"Are you sure you want to refresh lifetime statistics right now? This operation may slow down your customers' shopping experience.","Êtes-vous sûr(e) que vous voulez rafraîchir les statistiques ? Cette opération peut ralentir la navigation de vos clients.",module,Magento_Reports
 "Are you sure you want to refresh lifetime statistics? There can be performance impact during this operation.","Êtes-vous sûr(e) de vouloir rafraîchir les statistiques en temps réel ? Cela peut impacter les performances pendant la durée du rafraichissement.",module,Magento_Reports
-"Are you sure you want to refresh statistics for last day?","Êtes-vous sûr de vouloir rafraîchir les statistiques?",module,Magento_Reports
-"Are you sure you want to refresh statistics for the last day?","Êtes-vous sûr de vouloir rafraîchir les statistiques?",module,Magento_Reports
+"Are you sure you want to refresh statistics for last day?","Êtes-vous sûr(e) de vouloir rafraîchir les statistiques?",module,Magento_Reports
+"Are you sure you want to refresh statistics for the last day?","Êtes-vous sûr(e) de vouloir rafraîchir les statistiques?",module,Magento_Reports
 "Average","Moyen",module,Magento_Reports
 "Average (Approved)","Moyenne (approuvé)",module,Magento_Reports
 "Bestseller","Meilleures Ventes",module,Magento_Reports

@@ -46,15 +46,15 @@
 "Apply Coupon Code","Appliquer un Bon de Réduction",module,Magento_Sales
 "Approved the payment online.","Approuver le paiement en ligne.",module,Magento_Sales
 "Are you sure? This order will be canceled and a new one will be created instead.","Êtes-vous sûr(e)? Cette commande sera annulée et une nouvelle sera créée à la place.",module,Magento_Sales
-"Are you sure you want to accept this payment?","Êtes-vous sûr de vouloir accepter ce paiement ?",module,Magento_Sales
+"Are you sure you want to accept this payment?","Êtes-vous sûr(e) de vouloir accepter ce paiement ?",module,Magento_Sales
 "Are you sure you want to cancel this order?","Êtes-vous sûr(e) de vouloir annuler cette commande ?",module,Magento_Sales
 "Are you sure you want to delete all items from shopping cart?","Êtes-vous sûr(e) de vouloir enlever tous les articles du panier ?",module,Magento_Sales
 "Are you sure you want to deny this payment?","Êtes-vous sûr(e) de vouloir refuser ce paiement ?",module,Magento_Sales
-"Are you sure you want to send a credit memo email to customer?","Êtes-vous sûr de vouloir envoyer l'email de l'avoir au client ?",module,Magento_Sales
-"Are you sure you want to send a Credit memo email to customer?","Êtes-vous sûr de vouloir envoyer l'email de l'avoir au client ?",module,Magento_Sales
-"Are you sure you want to send an Invoice email to customer?","Êtes-vous sûr de vouloir envoyer l'email de la facture au client ?",module,Magento_Sales
-"Are you sure you want to send an invoice email to customer?","Êtes-vous sûr de vouloir envoyer l'email de la facture au client ?",module,Magento_Sales
-"Are you sure you want to send an order email to customer?","Êtes-vous sûr de vouloir envoyer l'email de la commande au client ?",module,Magento_Sales
+"Are you sure you want to send a credit memo email to customer?","Êtes-vous sûr(e) de vouloir envoyer l'email de l'avoir au client ?",module,Magento_Sales
+"Are you sure you want to send a Credit memo email to customer?","Êtes-vous sûr(e) de vouloir envoyer l'email de l'avoir au client ?",module,Magento_Sales
+"Are you sure you want to send an Invoice email to customer?","Êtes-vous sûr(e) de vouloir envoyer l'email de la facture au client ?",module,Magento_Sales
+"Are you sure you want to send an invoice email to customer?","Êtes-vous sûr(e) de vouloir envoyer l'email de la facture au client ?",module,Magento_Sales
+"Are you sure you want to send an order email to customer?","Êtes-vous sûr(e) de vouloir envoyer l'email de la commande au client ?",module,Magento_Sales
 "Are you sure you want to void the payment?","Êtes-vous sûr(e) de vouloir envoyer le rejet de paiement par email au client ?",module,Magento_Sales
 "Assignment Information","Information d'affectation",module,Magento_Sales
 "Assign Order Status to State","Assigner un statut de commande à un état",module,Magento_Sales

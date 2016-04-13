@@ -10,7 +10,7 @@
 "An error occurred while deleting this role.","Erreur lors de la suppression de ce rôle.",module,Magento_User
 "An error occurred while saving this role.","Erreur lors de la sauvegarde de ce rôle.",module,Magento_User
 "Are you sure you want to do this?","Êtes-vous sûr(e) de vouloir faire cela?",module,Magento_User
-"Are you sure you want to revoke the user's tokens?","Êtes-vous sûr de vouloir révoquer les jetons utilisateur ?",module,Magento_User
+"Are you sure you want to revoke the user's tokens?","Êtes-vous sûr(e) de vouloir révoquer les jetons utilisateur ?",module,Magento_User
 "Assigned","Affecté",module,Magento_User
 "A user with the same user name or email already exists.","Un utilisateur avec le même nom d'utilisateur ou la même adresse email existe déjà.",module,Magento_User
 "Back","Retour",module,Magento_User

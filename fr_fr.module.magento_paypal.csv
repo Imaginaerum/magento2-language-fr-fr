@@ -582,7 +582,7 @@
 "Virtual PayPal Debit Card Transaction","Virtual transaction PayPal par carte de débit",module,Magento_Paypal
 "Virtual Terminal Payment","Terminal de paiement virtuel",module,Magento_Paypal
 "Void","annulé",module,Magento_Paypal
-"We are connecting to the PayPal SFTP server to retrieve new reports. Are you sure you want to continue?","Nous nous connectons au serveur SFTP PayPal pour récupérer les nouveaux rapports. Êtes-vous sûr de vouloir continuer ?",module,Magento_Paypal
+"We are connecting to the PayPal SFTP server to retrieve new reports. Are you sure you want to continue?","Nous nous connectons au serveur SFTP PayPal pour récupérer les nouveaux rapports. Êtes-vous sûr(e) de vouloir continuer ?",module,Magento_Paypal
 "Website Payments Pro and Express Checkout","Website Payments Pro et Express Checkout",module,Magento_Paypal
 "Website Payments Pro Hosted Solution","Solution hébergée Website Payments Pro",module,Magento_Paypal
 "Website Payments Pro Hosted Solution and Express Checkout","Website Payments Pro Hosted Solution et Express Checkout",module,Magento_Paypal

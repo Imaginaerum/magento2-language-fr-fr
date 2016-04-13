@@ -13,9 +13,9 @@
 "%1's Wish List","Liste d'envies de %1",deprecated,Imaginaerum
 "An attribute group named ""/name/"" already exists"".","Un groupe d\'attributs ""/name/"" existe déjà"".",deprecated,Imaginaerum
 "An attribute set named '%1' already exists.","Le jeu d'attributs ""%1"" existe déjà.",deprecated,Imaginaerum
-"Are you sure you wan't to delete a ""${ $.$data.title }"" record?","Êtes-vous sûr de vouloir supprimer ""${ $.$data.title }""?",deprecated,Imaginaerum
-"Are you sure you wan't to delete a ${ $.$data.title } record?","Êtes-vous sûr de vouloir supprimer ${ $.$data.title }?",deprecated,Imaginaerum
-"Are you sure you want to delete this integration? You can't undo this action.","Êtes-vous sûr de vouloir supprimer cette intégration? Vous ne pouvez pas annuler cette action.",deprecated,Imaginaerum
+"Are you sure you wan't to delete a ""${ $.$data.title }"" record?","Êtes-vous sûr(e) de vouloir supprimer ""${ $.$data.title }""?",deprecated,Imaginaerum
+"Are you sure you wan't to delete a ${ $.$data.title } record?","Êtes-vous sûr(e) de vouloir supprimer ${ $.$data.title }?",deprecated,Imaginaerum
+"Are you sure you want to delete this integration? You can't undo this action.","Êtes-vous sûr(e) de vouloir supprimer cette intégration? Vous ne pouvez pas annuler cette action.",deprecated,Imaginaerum
 "Attribute %1 doesn't have any option","L'attribut %1 ne possède aucune option",deprecated,Imaginaerum
 "Attribute %1 doesn't work with options","L'attribut %1 ne fonctionne pas avec des options",deprecated,Imaginaerum
 "Attribute '%1' is locked. %2","Attribut '%1' est verrouillé. %2",deprecated,Imaginaerum
