@@ -9,7 +9,7 @@
  * 
  * @author Sylvain Kocet <pyksel@gmail.com>
  * @copyright Copyright © 2016 Imaginaerum
- * @version 100.5.9
+ * @version 100.5.10
  */
 \Magento\Framework\Component\ComponentRegistrar::register(
         \Magento\Framework\Component\ComponentRegistrar::LANGUAGE, 'imaginaerum_fr_fr', __DIR__
