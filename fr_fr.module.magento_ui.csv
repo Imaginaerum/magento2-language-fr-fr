@@ -79,6 +79,6 @@
 "${ $.visible } out of ${ $.total } visible","${ $.visible } sur ${ $.total } visible(s)",module,Magento_Ui
 "Vul hier een geldige datum in.","Vul hier een geldige datum in.",module,Magento_Ui
 "We couldn","Nous ne pouvons pas",module,Magento_Ui
-"You haven't selected any items!","Aucun article sélectionné!",module,Magento_Ui
+"You haven't selected any items!","Aucun article sélectionné !",module,Magento_Ui
 "You have successfully saved your edits.","Sauvegarde effectuée.",module,Magento_Ui
 "Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx","Le code postal doit être compris entre 902xx-xxxx et 905-xx-xxxx",module,Magento_Ui
