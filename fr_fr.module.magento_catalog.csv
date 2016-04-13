@@ -859,6 +859,6 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "You need to refresh the cache.","Vous devez rafrîchir le cache.",module,Magento_Catalog
 "You removed product %1 from the comparison list.","Vous avez supprimé le produit %1 de la liste de comparaison.",module,Magento_Catalog
 "You saved the attribute set.","Vous avez sauvegardé le jeu d'attributs.",module,Magento_Catalog
-"You saved the category.","Catégories Sauvegardée.",module,Magento_Catalog
+"You saved the category.","Catégorie sauvegardée.",module,Magento_Catalog
 "You saved the product.","Produit sauvegardé.",module,Magento_Catalog
 "You saved the product attribute.","Vous avez sauvegardé l'attribut produit.",module,Magento_Catalog
