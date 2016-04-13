@@ -141,7 +141,7 @@
 "Your password has been updated.","Votre mot de passe à été mis à jour.",module,Magento_User
 "Your password has expired; please contact your administrator.","Votre mot de passe a expiré. Veuillez contacter votre administrateur.",module,Magento_User
 "Your password must be at least %1 characters.","Le mot de passe doit contenir au minimum %1 caractères.",module,Magento_User
-"Your password must include both numeric and alphabetic characters.","Le mot de passe doit contenir des caracètres numérique et alphanumériques.",module,Magento_User
+"Your password must include both numeric and alphabetic characters.","Le mot de passe doit contenir des caractères numériques et alphanumériques.",module,Magento_User
 "Your password reset link has expired.","Le lien de réinitialisation de mot de passe a expiré.",module,Magento_User
 "You saved the role.","Rôle sauvegardé.",module,Magento_User
 "You saved the user.","Utilisateur sauvegardé.",module,Magento_User
