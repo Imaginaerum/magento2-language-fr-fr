@@ -134,7 +134,7 @@
 "Customer Group already exists.","Le groupe client existe déjà.",module,Magento_Customer
 "Customer Groups","Groupes Clients",module,Magento_Customer
 "Customer Information","Informations client",module,Magento_Customer
-"Customer Login","Identifiant client",module,Magento_Customer
+"Customer Login","Accès client",module,Magento_Customer
 "Customers","Clients",module,Magento_Customer
 "Customer Since","Client depuis",module,Magento_Customer
 "Customers Now Online","Clients en ligne",module,Magento_Customer
