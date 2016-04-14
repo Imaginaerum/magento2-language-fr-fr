@@ -234,7 +234,7 @@
 "Header Image URL","URL de l'Image d'entête",module,Magento_Paypal
 "Help","Aide",module,Magento_Paypal
 "here","ici",module,Magento_Paypal
-"Hidden Virtual PayPal Debit Card Transaction","Transaction virtuelle cachée de carte de débit de PayPal",module,Magento_Paypal
+"Hidden Virtual PayPal Debit Card Transaction","Transaction virtuelle PayPal de débit de carte de paiement",module,Magento_Paypal
 "Hold for Dispute Investigation","Bloquer pendant l'enquête de litige",module,Magento_Paypal
 "Home Page","Page d'Accueil",module,Magento_Paypal
 "ID","ID",module,Magento_Paypal
