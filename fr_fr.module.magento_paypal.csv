@@ -578,7 +578,7 @@
 "View Demo","Voir la Demo",module,Magento_Paypal
 "View Order","Voir la Commande",module,Magento_Paypal
 "View Transaction","Voir la transaction",module,Magento_Paypal
-"View Transaction Details","Voir les détails des transactions",module,Magento_Paypal
+"View Transaction Details","Voir détails de la transaction",module,Magento_Paypal
 "Virtual PayPal Debit Card Transaction","Virtual transaction PayPal par carte de débit",module,Magento_Paypal
 "Virtual Terminal Payment","Terminal de paiement virtuel",module,Magento_Paypal
 "Void","annulé",module,Magento_Paypal

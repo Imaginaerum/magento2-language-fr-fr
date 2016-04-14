@@ -533,7 +533,7 @@
 "Validate on Each Transaction","Valider à chaque transaction",module,Magento_Customer
 "Validate VAT Number","Valider le numéro de TVA",module,Magento_Customer
 "Validation Error Group","Groupe d'erreur de validation",module,Magento_Customer
-"Validator Exception","Exception du ValiDateur",module,Magento_Customer
+"Validator Exception","Exception du Validateur",module,Magento_Customer
 "'%value%' appears to be a DNS hostname but cannot extract TLD part.","'%value%' semble être un hôte DNS, mais extraction impossible du TLD.",module,Magento_Customer
 "'%value%' appears to be a DNS hostname but cannot match against hostname schema for TLD '%tld%'.","'%value%' semble être un hôte DNS, mais ne correspond pas au schema TLD '%tld%'.",module,Magento_Customer
 "'%value%' appears to be a DNS hostname but cannot match TLD against known list.","'%value%' semble être un hôte DNS, mais ne correspond pas à un schema TLD connu.",module,Magento_Customer
