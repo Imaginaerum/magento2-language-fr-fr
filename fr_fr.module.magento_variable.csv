@@ -8,7 +8,7 @@
 "No","Non",module,Magento_Variable
 "Save and Continue Edit","Sauvegarder et Continuer à Éditer",module,Magento_Variable
 "Use Default Variable Values","Utiliser les valeurs par défaut",module,Magento_Variable
-"Validation has failed.","La validation a échoué.",module,Magento_Variable
+"Validation has failed.","Échec de la validation.",module,Magento_Variable
 "Variable","Variable",module,Magento_Variable
 "Variable Code","Code de la variable",module,Magento_Variable
 "Variable Code must be unique.","Le code de variable doit être unique.",module,Magento_Variable

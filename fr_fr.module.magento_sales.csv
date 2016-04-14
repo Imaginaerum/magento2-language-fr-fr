@@ -719,7 +719,7 @@
 "Use Aggregated Data (beta)","Utiliser les données agrégées (beta)",module,Magento_Sales
 "Use Order Status As Default","Utiliser ce statut comme valeur par défaut",module,Magento_Sales
 "Validate Each Address Separately in Multi-address Checkout","Valider séparément les adresses lors de commandes multi-adresses",module,Magento_Sales
-"Validation is failed.","La validation est échoué.",module,Magento_Sales
+"Validation is failed.","Échec de la validation.",module,Magento_Sales
 "Value","Valeur",module,Magento_Sales
 "VAT Request Date","Date de demande de TVA",module,Magento_Sales
 "VAT Request Identifier","Identifiant de demande de TVA",module,Magento_Sales
