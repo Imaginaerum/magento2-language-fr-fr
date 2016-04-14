@@ -785,7 +785,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Use {{name}} as Product Name placeholder","Utilisez {{name}} comme variables de nom du produit",module,Magento_Catalog
 "Use Parent Category Settings","Utiliser les réglages de la catégorie parente",module,Magento_Catalog
 "Use Static URLs for Media Content in WYSIWYG for Catalog","Utiliser les URLs statiques pour le contenu média dans l'éditeur WYSIWYG pour le catalogue",module,Magento_Catalog
-"Validation failed. Required options were not filled or the file was not uploaded.","Échec de validation. Les options requises ne sont pas remplies ou bien le fichier n'a pas été uploadé.",module,Magento_Catalog
+"Validation failed. Required options were not filled or the file was not uploaded.","Échec de validation. Les options requises ne sont pas remplies ou bien le fichier n'a pas été chargé.",module,Magento_Catalog
 "Values of following attributes are invalid: %1","Les valeurs suivantes d'attributs sont invalides : %1",module,Magento_Catalog
 "Varchar","Varchar",module,Magento_Catalog
 "View as","Afficher en",module,Magento_Catalog
