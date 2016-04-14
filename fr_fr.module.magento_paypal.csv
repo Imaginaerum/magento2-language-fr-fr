@@ -143,7 +143,7 @@
 "Debit Card Cash Back","Retour d'argent par carte de débit",module,Magento_Paypal
 "Debit Card Transaction","Transaction par carte de débit",module,Magento_Paypal
 "Debit or Credit","Débit ou crédit",module,Magento_Paypal
-"Debug Mode","Mode debug",module,Magento_Paypal
+"Debug Mode","Mode débogage",module,Magento_Paypal
 "Direct Payment API","API Paiement direct",module,Magento_Paypal
 "Display","Affichage",module,Magento_Paypal
 "Display Express Checkout in the Payment Information step","Afficher le paiement Express dans l'étape des informations de paiement",module,Magento_Paypal
