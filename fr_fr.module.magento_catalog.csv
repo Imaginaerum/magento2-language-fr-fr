@@ -739,7 +739,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Time Format","Format d'heure",module,Magento_Catalog
 "Title","Titre",module,Magento_Catalog
 "<label class=""label""><span>to</span></label>","<label class=""label""><span>au</span></label>",module,Magento_Catalog
-"To hide an item in catalog or search results, set the status to ""Disabled"".","Pour masquer un élément dans le catalogue ou les résultats de recherche, définissez le statut a ""Désactivé"".",module,Magento_Catalog
+"To hide an item in catalog or search results, set the status to ""Disabled"".","Pour masquer un élément dans le catalogue ou les résultats de recherche, définissez le statut à ""Désactivé"".",module,Magento_Catalog
 "Top/Left","Haut/Gauche",module,Magento_Catalog
 "Top Level Category","Catégorie de niveau supérieur",module,Magento_Catalog
 "Top/Right","Haut/Droit",module,Magento_Catalog
