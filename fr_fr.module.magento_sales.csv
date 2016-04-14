@@ -186,10 +186,10 @@
 "Edit Order Status","Éditer le statut de commande",module,Magento_Sales
 "Email","Email",module,Magento_Sales
 "Email Address","Adresse email",module,Magento_Sales
-"Email Copy of Credit Memo","Envoyer une copie de l'avoir par mail",module,Magento_Sales
-"Email Copy of Invoice","Envoyer une copie de la facture par mail",module,Magento_Sales
+"Email Copy of Credit Memo","Envoyer une copie de l'avoir par email",module,Magento_Sales
+"Email Copy of Invoice","Envoyer une copie de la facture par email",module,Magento_Sales
 "Email has not been sent","L'email n'a pas été envoyé",module,Magento_Sales
-"Email Order Confirmation","Envoyer la confirmation de commande par mail",module,Magento_Sales
+"Email Order Confirmation","Envoyer la confirmation de commande par email",module,Magento_Sales
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée.",module,Magento_Sales
 "Enable","Activer",module,Magento_Sales
 "Enabled","Activé",module,Magento_Sales

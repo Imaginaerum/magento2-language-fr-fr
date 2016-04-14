@@ -161,7 +161,7 @@
 "Eligible","Eligible",module,Magento_Paypal
 "Email","Email",module,Magento_Paypal
 "Email Associated with PayPal Merchant Account","Email associée à Compte Marchand PayPal",module,Magento_Paypal
-"Email Associated with PayPal Merchant Account (Optional)","Email associé au compte PayPal Merchant (Facultatif)",module,Magento_Paypal
+"Email Associated with PayPal Merchant Account (Optional)","Email associé au compte marchand PayPal (Facultatif)",module,Magento_Paypal
 "Enable Automatic Fetching","Activer la récupération automatique",module,Magento_Paypal
 "Enabled","Activé",module,Magento_Paypal
 "Enable Express Checkout","Activer Express Checkout",module,Magento_Paypal
