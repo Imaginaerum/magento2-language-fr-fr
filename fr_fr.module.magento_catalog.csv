@@ -717,7 +717,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "The text is too long.","Le texte est trop long.",module,Magento_Catalog
 "The value of attribute ""%1"" must be set","La valeur de l'attribut ""%1"" doit être assignée",module,Magento_Catalog
 "The value of attribute ""%1"" must be unique.","La valeur de l'attribut ""%1"" doit être unique.",module,Magento_Catalog
-"This applies only to catalog products and categories. Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.","Cela ne concerne que les produits et les catégories catalogue. Le contenu des médias sera inséré dans l'éditeur comme une URL statique. Le contenu des médias ne sont pas mis à jour si la configuration du système de base URL change.",module,Magento_Catalog
+"This applies only to catalog products and categories. Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.","Cela ne concerne que les produits et les catégories catalogue. Le contenu des médias sera inséré dans l'éditeur comme une URL statique. Le contenu des médias n'est pas mis à jour si la configuration du système de base URL change.",module,Magento_Catalog
 "This attribute cannot be deleted.","Cet attribut ne peut pas être supprimé.",module,Magento_Catalog
 "This attribute cannot be edited.","Cet attribut ne peut pas être édité.",module,Magento_Catalog
 "This attribute no longer exists.","Cet attribut n'existe pas.",module,Magento_Catalog

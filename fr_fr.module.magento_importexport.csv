@@ -140,7 +140,7 @@
 "There is no sample file for this entity.","Il n'y a pas de fichier d'exemple pour cette entité.",module,Magento_ImportExport
 "The source file moving process failed.","Le processus de déplacement du fichier source a échoué.",module,Magento_ImportExport
 "The source is not set.","La source n'est pas défini.",module,Magento_ImportExport
-"The total size of the uploadable files can't be more than %1M","La taille total des fichiers ne peut pas être supérieure à %1M",module,Magento_ImportExport
+"The total size of the uploadable files can't be more than %1M","La taille totale des fichiers ne peut pas être supérieure à %1M",module,Magento_ImportExport
 "The validation is complete.","La validation est terminée.",module,Magento_ImportExport
 "This file does not contain any data.","Ce fichier ne contient pas de données.",module,Magento_ImportExport
 "This file is empty. Please try another one.","Ce fichier est vide. Veuillez en essayer un autre.",module,Magento_ImportExport

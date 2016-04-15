@@ -71,7 +71,7 @@
 "The database and media backup has been created.","La sauvegarde de la base de données et des médias a bien été créée.",module,Magento_Backup
 "The database backup has been created.","La sauvegarde de la base de données a bien été créée.",module,Magento_Backup
 "The selected backup(s) has been deleted.","Les sauvegardes sélectionnées ont été effacées.",module,Magento_Backup
-"The system backup (excluding media) has been created.","La sauvegarde du système (médias exclus) a été crée.",module,Magento_Backup
+"The system backup (excluding media) has been created.","La sauvegarde du système (médias exclus) a été créée.",module,Magento_Backup
 "The system backup has been created.","La sauvegarde du système a été créée.",module,Magento_Backup
 "This action cannot be undone.","Cette action ne peut pas être annulée.",module,Magento_Backup
 "This may take a few moments.","Ceci peut prendre quelques instants.",module,Magento_Backup
