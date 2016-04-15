@@ -54,7 +54,7 @@
 "Store View","Vue magasin",module,Magento_UrlRewrite
 "Target Path","Chemin cible",module,Magento_UrlRewrite
 "Temporary (302)","Temporaire (302)",module,Magento_UrlRewrite
-"The category you chose is not associated with the selected store.","La catégorie choisie n'est pas associée au magasin sélectionnée.",module,Magento_UrlRewrite
+"The category you chose is not associated with the selected store.","La catégorie choisie n'est pas associée au magasin sélectionné.",module,Magento_UrlRewrite
 "The product you chose is not associated with the selected store or category.","Le produit choisi n'est pas associé à la catégorie ou au magasin sélectionné.",module,Magento_UrlRewrite
 "The URL Rewrite has been deleted.","La réécriture d'URL a été effacée.",module,Magento_UrlRewrite
 "The URL Rewrite has been saved.","La réécriture d'URL a été sauvegardée.",module,Magento_UrlRewrite

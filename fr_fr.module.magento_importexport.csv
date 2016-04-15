@@ -125,12 +125,12 @@
 "The adapter type must be a non-empty string.","Le type d'adaptateur doit être une chaîne non vide.",module,Magento_ImportExport
 "The adapter type must be a non empty string.","Le type d'adaptateur doit être une chaîne non vide.",module,Magento_ImportExport
 "The behavior token for %1 is invalid.","L'analyse transactionnelle pour %1 est invalide.",module,Magento_ImportExport
-"The destination directory is not writable.","Le répertoire de destination est pas accessible en écriture.",module,Magento_ImportExport
+"The destination directory is not writable.","Le répertoire de destination n'est pas accessible en écriture.",module,Magento_ImportExport
 "The destination file path must be a string.","Le chemin du fichier de destination doit être une chaîne.",module,Magento_ImportExport
 "The entity adapter object must be an instance of %1 or %2.","L'objet de l'adaptateur d'entité doit être une instance de %1 ou %2.",module,Magento_ImportExport
 "The export is finished.","L'exportation est terminée.",module,Magento_ImportExport
 "The file is valid, but we can't import it for some reason.","Le fichier est valide, mais nous ne pouvons pas l'importer pour une raison inconnue.",module,Magento_ImportExport
-"The file was not uploaded.","Le fichier n'a pas été uploadé.",module,Magento_ImportExport
+"The file was not uploaded.","Le fichier n'a pas été chargé.",module,Magento_ImportExport
 "The file you uploaded has no extension.","Le fichier que vous avez envoyé n'a pas d'extension.",module,Magento_ImportExport
 "The header column names are already set.","Les noms de colonnes d'en-tête sont déjà définis.",module,Magento_ImportExport
 "The import was successful.","L'importation a réussi.",module,Magento_ImportExport
