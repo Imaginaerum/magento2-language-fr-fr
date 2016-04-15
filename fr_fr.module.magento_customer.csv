@@ -182,8 +182,8 @@
 "Enable Autocomplete on login/forgot password forms","Activer la saisie semi-automatique sur les formulaires de connexion/mot de passe oublié",module,Magento_Customer
 "Enable Automatic Assignment to Customer Group","Activer l'assignation automatique à un groupe clients",module,Magento_Customer
 "End Date","Date de Fin",module,Magento_Customer
-"enter your billing address for proper VAT calculation","entrez votre adresse de facturation pour un calcul de la TVA correcte",module,Magento_Customer
-"enter your shipping address for proper VAT calculation","entrez votre adresse de livraison pour un calcul de la TVA correcte",module,Magento_Customer
+"enter your billing address for proper VAT calculation","entrez votre adresse de facturation pour un calcul correct de la TVA",module,Magento_Customer
+"enter your shipping address for proper VAT calculation","entrez votre adresse de livraison pour un calcul de la TVA appropriée",module,Magento_Customer
 "Error during VAT Number verification.","Erreur lors de la vérification du numéro de TVA.",module,Magento_Customer
 "Exception","exception",module,Magento_Customer
 "Exception message","Message d'exception",module,Magento_Customer

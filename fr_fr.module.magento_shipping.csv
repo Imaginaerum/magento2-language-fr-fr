@@ -49,7 +49,7 @@
 "Email Copy of Shipment","Envoyer une copie de la livraison par email",module,Magento_Shipping
 "Email has not been sent","L'email n'a pas été envoyé",module,Magento_Shipping
 "email us at ","nous envoyer un email à ",module,Magento_Shipping
-"Error:","Erreur:",module,Magento_Shipping
+"Error:","Erreur :",module,Magento_Shipping
 "Explanation","Explication",module,Magento_Shipping
 "Fixed","Fixé",module,Magento_Shipping
 " for more information or "," pour plus d'information ou ",module,Magento_Shipping
