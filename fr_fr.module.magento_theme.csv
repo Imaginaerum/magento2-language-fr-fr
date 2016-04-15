@@ -39,8 +39,8 @@
 "Edit custom.css","Modifier custom.css",module,Magento_Theme
 "Edit custom instruction of robots.txt File","Modifier les instructions personnalisées du fichier robots.txt",module,Magento_Theme
 "Empty","Vide",module,Magento_Theme
-"Enable JavaScript in your browser to get the best experience on our website!","Activez JavaScript dans votre navigateur pour obtenir la meilleure expérience utilisateur sur notre site!",module,Magento_Theme
-"Enable Local Storage in your browser to get the best experience on our website!","Activez le Local Storage dans votre navigateur pour obtenir la meilleure expérience utilisateur sur notre site!",module,Magento_Theme
+"Enable JavaScript in your browser to get the best experience on our website!","Activez JavaScript dans votre navigateur pour obtenir la meilleure expérience utilisateur sur notre site !",module,Magento_Theme
+"Enable Local Storage in your browser to get the best experience on our website!","Activez le local storage dans votre navigateur pour obtenir la meilleure expérience utilisateur sur notre site !",module,Magento_Theme
 "Example: 0.0.0.1 or 123.1.0.25-alpha1","Exemple: 0.0.0.1 ou 123.1.0.25-alpha1",module,Magento_Theme
 "exception","exception",module,Magento_Theme
 "Exception does not contain field '%1'","L'exception ne contient pas le champ ""%1""",module,Magento_Theme

@@ -12,8 +12,8 @@
 "Enable","Activer",module,Magento_Developer
 "Enabled for Admin","Activé pour l'admin",module,Magento_Developer
 "Enabled for Storefront","Activer pour le front office",module,Magento_Developer
-"Enabled Template Path Hints for Admin","Activer les astuce chemin des gabarits sur le back office",module,Magento_Developer
-"Enabled Template Path Hints for Storefront","Activer les astuce chemin des gabarits sur le front office",module,Magento_Developer
+"Enabled Template Path Hints for Admin","Activer les astuces chemin des gabarits sur le back office",module,Magento_Developer
+"Enabled Template Path Hints for Storefront","Activer les astuces chemin des gabarits sur le front office",module,Magento_Developer
 "Enable Javascript Bundling","Activer la concaténation des fichiers JavaScript",module,Magento_Developer
 "Format for IDE '%1' is not supported","Le format pour l'EDI '%1' n'est pas pris en charge",module,Magento_Developer
 "Front-end development workflow","Automatisation de processus coté front office",module,Magento_Developer
