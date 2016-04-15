@@ -91,11 +91,11 @@
 "Status","Statut",module,Magento_Integration
 "The integration '%1' has been activated.","L'intégration '%1' a été activée.",module,Magento_Integration
 "The integration '%1' has been deleted.","L'intégration '%1' a été supprimé.",module,Magento_Integration
-"The integration '%1' has been re-authorized.","L'intégration '%1' a été réautorisé.",module,Magento_Integration
-"The integration '%1' has been saved.","L'intégration '%1' a été sauvegardé.",module,Magento_Integration
-"The integration '%1' has been saved.","L'intégration '%1' a été sauvegardé.",module,Magento_Integration
+"The integration '%1' has been re-authorized.","L'intégration '%1' a été ré-autorisée.",module,Magento_Integration
+"The integration '%1' has been saved.","L'intégration '%1' a été sauvegardée.",module,Magento_Integration
+"The integration '%1' has been saved.","L'intégration '%1' a été sauvegardée.",module,Magento_Integration
 "The integration was not saved.","L'intégration n'a pas été sauvegardée.",module,Magento_Integration
-"The integration you selected asks you to approve access to the following:","L'intégration sélectionnée nécessite d'approuver l'accès à ce qui suit:",module,Magento_Integration
+"The integration you selected asks you to approve access to the following:","L'intégration sélectionnée nécessite d'approuver l'accès à ce qui suit :",module,Magento_Integration
 "The nonce is already being used by the consumer with ID %1","Le jeton est déjà utilisé par l'utilisateur ID %1",module,Magento_Integration
 "The tokens could not be revoked.","Les jetons ne peuvent être révoqués.",module,Magento_Integration
 "This customer has no tokens.","Ce client n'a pas d'authenfication.",module,Magento_Integration
