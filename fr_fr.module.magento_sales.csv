@@ -609,7 +609,7 @@
 "test message","testMessage",module,Magento_Sales
 "Thank you for your order from %store_name.","Merci pour votre commande sur %store_name.",module,Magento_Sales
 "The Comment Text field cannot be empty.","Le champ texte du commentaire ne peut pas être vide.",module,Magento_Sales
-"The coupon code has been accepted.","Le code promo a été retenue.",module,Magento_Sales
+"The coupon code has been accepted.","Le code promo a été retenu.",module,Magento_Sales
 "the credit memo email is not sent","l'email n'a pas été envoyé",module,Magento_Sales
 "The credit memo email wasn't sent.","L'e-mail de l'avoir n'a pas été envoyé.",module,Magento_Sales
 "The credit memo email was sent","L'e-mail de l'avoir a été envoyé",module,Magento_Sales
