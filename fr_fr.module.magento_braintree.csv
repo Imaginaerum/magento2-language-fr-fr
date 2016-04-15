@@ -291,7 +291,7 @@
 "Title","Titre",module,Magento_Braintree
 "Token is invalid.","Jeton Invalide.",module,Magento_Braintree
 "Token is not an allowed token.","Jeton non valide.",module,Magento_Braintree
-"Too many addresses per customer","Trop d'adresse par client",module,Magento_Braintree
+"Too many addresses per customer","Trop d'adresses par client",module,Magento_Braintree
 "Transaction cannot be cloned if payment method is stored in Vault","La transaction ne peut être dupliquée si la méthode de paiement est enregistrée dans le coffre-fort",module,Magento_Braintree
 "Transaction can only be voided if status is authorized or submitted_for_settlement.","La transaction ne peut être qu'annulée si le statut est autorisé ou submitted_for_settlement.",module,Magento_Braintree
 "Transaction declined: ","Transaction refusée : ",module,Magento_Braintree
