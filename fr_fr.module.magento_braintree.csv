@@ -88,12 +88,12 @@
 "Credit card number must be 12-19 digits.","Le numéro de carte de crédit doit contenir entre 12 et 19 chiffres.",module,Magento_Braintree
 "Credit Cards","Carte Bancaire",module,Magento_Braintree
 "Credit card successfully added","Carte bancaire ajoutée avec succès",module,Magento_Braintree
-"Credit card successfully deleted","Carte bancaire supprimé avec succès",module,Magento_Braintree
+"Credit card successfully deleted","Carte bancaire supprimée avec succès",module,Magento_Braintree
 "Credit card successfully updated","Carte Bancaire mise à jour",module,Magento_Braintree
 "Credit card token is taken.","Carte Bancaire prise en compte.",module,Magento_Braintree
 "Credit card token is too long.","Jeton carte de crédit trop long.",module,Magento_Braintree
 "Credit Card Type","Type de Carte de Crédit",module,Magento_Braintree
-"Credit card type is not accepted by this merchant account.","Type de carte de crédit non acceptée avec ce compte marchand.",module,Magento_Braintree
+"Credit card type is not accepted by this merchant account.","Type de carte de crédit non accepté avec ce compte marchand.",module,Magento_Braintree
 "Credit card type is not allowed for this payment method.","Le type de carte bancaire n'est pas autorisé pour ce mode de paiement.",module,Magento_Braintree
 "Credit card type is not allowed for your country.","Type de carte bancaire non autorisés pour votre pays.",module,Magento_Braintree
 "Credit Card Types","Types de Carte de Crédit",module,Magento_Braintree
