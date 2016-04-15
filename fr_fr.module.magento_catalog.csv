@@ -243,7 +243,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Delete Tier","Effacer le palier",module,Magento_Catalog
 "Depends on design theme","Dépendant du thème de design",module,Magento_Catalog
 "Description","Description",module,Magento_Catalog
-"Details","Details",module,Magento_Catalog
+"Details","Détails",module,Magento_Catalog
 "Disable","Désactiver",module,Magento_Catalog
 "Disabled","Désactivé",module,Magento_Catalog
 "Display Actual Price","Afficher les vrais prix",module,Magento_Catalog

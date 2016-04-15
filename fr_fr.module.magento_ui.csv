@@ -10,8 +10,8 @@
 "Changes have been made to this section that have not been saved.","Des modifications ont été apportées à cette section qui n'a pas été encore sauvegardée.",module,Magento_Ui
 "Clear all","Tout Supprimer",module,Magento_Ui
 "Condition type ""%1"" is not allowed","Le type de condition ""%1"" n'est pas autorisé",module,Magento_Ui
-"Deselect All","Tout Désélectionner",module,Magento_Ui
-"Deselect All on This Page","Tous déselectionner",module,Magento_Ui
+"Deselect All","Tout désélectionner",module,Magento_Ui
+"Deselect All on This Page","Désélectionner tout sur cette page",module,Magento_Ui
 "Empty Value.","Valeur vide.",module,Magento_Ui
 "Go to Details Page","Aller à la page des détails",module,Magento_Ui
 "HTML tags are not allowed.","Les balises HTML ne sont pas autorisées.",module,Magento_Ui

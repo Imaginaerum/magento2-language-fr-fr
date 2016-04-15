@@ -58,7 +58,7 @@
 "Delete Page","Supprimer la Page",module,Magento_Cms
 "Description","Description",module,Magento_Cms
 "Design","Design",module,Magento_Cms
-"Details","Details",module,Magento_Cms
+"Details","Détails",module,Magento_Cms
 "Directory %1 is not under storage root path.","Le répertoire %1 n'est pas un chemin d'accès à la racine de stockage.",module,Magento_Cms
 "Disable","Désactiver",module,Magento_Cms
 "Disabled","Désactivé",module,Magento_Cms

@@ -113,7 +113,7 @@
 "Something went wrong  deleting this review.","Une erreur s'est produite lors de la suppression de l'avis.",module,Magento_Review
 "Something went wrong while deleting these records.","Une erreur s'est produite lors de la suppression de ces enregistrements.",module,Magento_Review
 "Something went wrong while saving this review.","Une erreur s'est produite lors de l'enregistrement de cet avis.",module,Magento_Review
-"Something went wrong while updating these review(s).","Une erreur s'est produite lors de la mise à jour des ces avis.",module,Magento_Review
+"Something went wrong while updating these review(s).","Une erreur s'est produite lors de la mise à jour de ces avis.",module,Magento_Review
 "Sort Order","Ordre de Tri",module,Magento_Review
 "Status","Statut",module,Magento_Review
 "Storage key was not set","Clé de stockage non définie",module,Magento_Review

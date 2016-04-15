@@ -91,7 +91,7 @@
 "Role Users","Utilisateurs ayant ce rôle",module,Magento_User
 "Save Role","Sauvegarder le rôle",module,Magento_User
 "Save User","Sauvegarder l'utilisateur",module,Magento_User
-"Sorry, but this password has already been used. Please create another.","Désolé, ce mot de passe à déjà été utilisé. Merci d'en choisir un autre.",module,Magento_User
+"Sorry, but this password has already been used. Please create another.","Désolé, ce mot de passe a déjà été utilisé. Merci d'en choisir un autre.",module,Magento_User
 "Status","Statut",module,Magento_User
 "System","Système",module,Magento_User
 "Thank you,","Merci,",module,Magento_User

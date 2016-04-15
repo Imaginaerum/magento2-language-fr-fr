@@ -2,7 +2,7 @@
 "Clear All","Tout Supprimer",module,Magento_LayeredNavigation
 "Currently Shopping by:","Filtre en cours :",module,Magento_LayeredNavigation
 "Default Price Navigation Step","Tranche de prix par défaut",module,Magento_LayeredNavigation
-"Display Price Interval as One Price","Afficher l'intervale de prix en un seul prix",module,Magento_LayeredNavigation
+"Display Price Interval as One Price","Afficher l'intervalle de prix en un seul prix",module,Magento_LayeredNavigation
 "Display Product Count","Afficher le nombre de produits",module,Magento_LayeredNavigation
 "Filterable (no results)","Filtrable (pas de résultats)",module,Magento_LayeredNavigation
 "Filterable (with results)","Filtrable (avec résultats)",module,Magento_LayeredNavigation

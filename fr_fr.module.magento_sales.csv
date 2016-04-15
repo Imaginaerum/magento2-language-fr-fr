@@ -172,7 +172,7 @@
 "Default Template","Gabarit par défaut",module,Magento_Sales
 " [deleted]","   [effacé]",module,Magento_Sales
 "Denied the payment online","Paiement en ligne refusé",module,Magento_Sales
-"Deny Payment","Refuser de paiement",module,Magento_Sales
+"Deny Payment","Refus de paiement",module,Magento_Sales
 "Description Message","Message de description",module,Magento_Sales
 "Details for %1 #%2","Détails pour %1 #%2",module,Magento_Sales
 "Discount (%1)","Remise (%1)",module,Magento_Sales
