@@ -517,7 +517,7 @@
 "Template Path Hints","Astuce chemin des gabarits",module,Magento_Backend
 "Template Settings","Paramètres de gabarit",module,Magento_Backend
 "The account has been saved.","Le compte a été sauvegardé.",module,Magento_Backend
-"The base directory to upload file is not specified.","Le répertoire de base pour uploader l'image n'est pas spécifié.",module,Magento_Backend
+"The base directory to upload file is not specified.","Le répertoire de base pour charger l'image n'est pas spécifié.",module,Magento_Backend
 "The cache storage may contain additional data. Are you sure that you want to flush it?","Le  cache peut contenir d\'autres données. Êtes-vous sûr(e) de vouloir le vider?",module,Magento_Backend
 "The database was backed up.","La base de données a été sauvegardée.",module,Magento_Backend
 "The file you're uploading exceeds the server size limit of %1 kilobytes.","Le fichier chargé dépasse la limite de taille du serveur de %1 Ko.",module,Magento_Backend

@@ -504,7 +504,7 @@
 "Summary Text for Aggregated Cart","Texte récapitulatif sur les paniers validés",module,Magento_Paypal
 "Supporting of American Express cards require additional agreement. Learn more at <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.","Le support des cartes American Express nécessite un accord supplémentaire. En savoir plus au <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.",module,Magento_Paypal
 "Supporting of American Express cards require additional agreement. Learn more at <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.","Le support des cartes American Express nécessite un accord supplémentaire. En savoir plus au <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.",module,Magento_Paypal
-"Test Mode","Mode Test",module,Magento_Paypal
+"Test Mode","Mode test",module,Magento_Paypal
 "The authorized amount is %1.","Le montant autorisé est %1.",module,Magento_Paypal
 "The background color for the checkout page around the header and payment form.","Couleur d’arrière-plan de la page paiement autour de l'en-tête et du formulaire de paiement.",module,Magento_Paypal
 "The background color for the checkout page around the header and payment form.","Couleur d’arrière-plan de la page paiement autour de l'en-tête et du formulaire de paiement.",module,Magento_Paypal

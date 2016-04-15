@@ -72,7 +72,7 @@
 "Tab Label","Onglet Libellé",module,Magento_Config
 "test2","test2",module,Magento_Config
 "test","test",module,Magento_Config
-"The base directory to upload file is not specified.","Le répertoire de base pour uploader l'image n'est pas spécifié.",module,Magento_Config
+"The base directory to upload file is not specified.","Le répertoire de base pour charger l'image n'est pas spécifié.",module,Magento_Config
 "The file ""%1"" does not exist","Fichier ""%1"" inexistant",module,Magento_Config
 "The file you're uploading exceeds the server size limit of %1 kilobytes.","Le fichier chargé dépasse la limite de taille du serveur de %1 Ko.",module,Magento_Config
 "The file you're uploading exceeds the server size limit of %1 kilobytes.","Le fichier chargé dépasse la limite de taille du serveur de %1 Ko.",module,Magento_Config

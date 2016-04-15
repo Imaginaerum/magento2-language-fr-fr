@@ -104,7 +104,7 @@
 "Sorry, there was an unknown error.","Erreur inconnue.",module,Magento_Theme
 "Start date cannot be greater than end date.","La date de début doit être antérieure à la date de fin.",module,Magento_Theme
 "Storage Root","Racine du stockage",module,Magento_Theme
-"Test Label","Test Label",module,Magento_Theme
+"Test Label","Etiquette test",module,Magento_Theme
 "testMessage","testMessage",module,Magento_Theme
 "The CSS file must be less than %1M.","La taille du fichier CSS doit être inférieure a %1Mo.",module,Magento_Theme
 "The date range for this design change overlaps another design change for the specified store.","La plage de date pour ce changement de design chevauche un autre changement de design pour ce magasin.",module,Magento_Theme
