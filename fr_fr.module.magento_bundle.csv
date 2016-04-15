@@ -29,7 +29,7 @@
 "Discount Amount","Montant de la Remise",module,Magento_Bundle
 "Dynamic","Dynamique",module,Magento_Bundle
 "Excl. Tax","HT",module,Magento_Bundle
-"Excl. Tax:","HT:",module,Magento_Bundle
+"Excl. Tax:","HT :",module,Magento_Bundle
 "Fixed","Fixé",module,Magento_Bundle
 "From:","De:",module,Magento_Bundle
 "From","De",module,Magento_Bundle

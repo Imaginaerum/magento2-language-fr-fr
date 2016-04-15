@@ -213,7 +213,7 @@
 "Excl. Tax","HT",module,Magento_Backend
 "Export","Exporter",module,Magento_Backend
 "Export block for grid %1 is not defined","Le bloc d'export pour la grille %1 n'est pas défini",module,Magento_Backend
-"Export to:","Exporter vers:",module,Magento_Backend
+"Export to:","Exporter vers :",module,Magento_Backend
 "Extensions","Extensions",module,Magento_Backend
 "File extension not known or unsupported type.","Extension de fichier non reconnue ou non supportée.",module,Magento_Backend
 "File System","Système de Fichiers",module,Magento_Backend

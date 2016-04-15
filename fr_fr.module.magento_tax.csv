@@ -56,7 +56,7 @@
 "Entity already exists","L'entité existe déjà",module,Magento_Tax
 "Excel XML","XML Excel",module,Magento_Tax
 "Excl. Tax","HT",module,Magento_Tax
-"Excl. tax:","HT:",module,Magento_Tax
+"Excl. tax:","HT :",module,Magento_Tax
 "(Excl. Tax)","(HT)",module,Magento_Tax
 "Excluding Tax","HT",module,Magento_Tax
 "Export Tax Rates","Exporter les taux",module,Magento_Tax

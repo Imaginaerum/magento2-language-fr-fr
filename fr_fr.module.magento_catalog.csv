@@ -278,8 +278,8 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Enable Qty Increments","Activer les incréments de quantités",module,Magento_Catalog
 "Enable WYSIWYG","Activer l'éditeur WYSIWYG",module,Magento_Catalog
 "Enter Name for New Attribute Set","Entrez un nom pour le nouveau jeu d'attibuts",module,Magento_Catalog
-"Excl. Tax:","HT:",module,Magento_Catalog
-"ex. http://domain.com","Par ex: http://domaine.com",module,Magento_Catalog
+"Excl. Tax:","HT :",module,Magento_Catalog
+"ex. http://domain.com","Par ex : http://domaine.com",module,Magento_Catalog
 "Expand All","Tout Développer",module,Magento_Catalog
 "Failed to save new media gallery entry.","Échec de l'enregistrement de  la galerie.",module,Magento_Catalog
 "Field ""%1"" was not found in DO ""%2"".","Champ ""%1"" introuvable dans DO ""%2"".",module,Magento_Catalog
