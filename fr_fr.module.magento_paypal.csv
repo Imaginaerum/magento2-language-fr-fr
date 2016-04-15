@@ -185,7 +185,7 @@
 "Exact Match. Address and Postal Code. International","Correspondance exacte. Adresse et code postal. International",module,Magento_Paypal
 "Exact Match. Address and Postal Code. UK-specific","Correspondance exacte. Adresse et code postal. Spécifique au Royaume-Uni",module,Magento_Paypal
 "Express Checkout","Express Checkout",module,Magento_Paypal
-"Express Checkout and Order have been canceled.","Le paiement Express Chackout et la commande ont été annulés.",module,Magento_Paypal
+"Express Checkout and Order have been canceled.","Le paiement Express Checkout et la commande ont été annulés.",module,Magento_Paypal
 "Express Checkout APIs","APIs de Express Checkout",module,Magento_Paypal
 "Express Checkout has been canceled.","Le paiement Express Checkout a été annulé.",module,Magento_Paypal
 "Fee Amount","Montant des Frais",module,Magento_Paypal

@@ -15,7 +15,7 @@
 "Error Email Recipient","Destinataire du mail d'erreur",module,Magento_Directory
 "Error Email Sender","Expéditeur du mail d'erreur",module,Magento_Directory
 "Error Email Template","Gabarit du mail d'erreur",module,Magento_Directory
-"FATAL ERROR:","ERREUR FATALE:",module,Magento_Directory
+"FATAL ERROR:","ERREUR FATALE :",module,Magento_Directory
 "Frequency","Fréquence",module,Magento_Directory
 "Installed Currencies","Devises installées",module,Magento_Directory
 "kgs","kgs",module,Magento_Directory

@@ -4,7 +4,7 @@
 "Built-in Application (Not Recommended for Production Use)","Système intégré (Non recommandé pour une utilisation en production)",module,Magento_PageCache
 "Caching Application","Application de cache",module,Magento_PageCache
 "Export VCL","Export VCL",module,Magento_PageCache
-"Export VCL for Varnish ","Exporter le VLC pour Varnish ",module,Magento_PageCache
+"Export VCL for Varnish ","Exporter le VCL pour Varnish ",module,Magento_PageCache
 "Full Page Cache","Full Page Cache",module,Magento_PageCache
 "Full page caching.","Full page caching.",module,Magento_PageCache
 "IPs access list separated with ',' that can purge Varnish configuration for config file generation.
