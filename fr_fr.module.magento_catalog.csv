@@ -688,7 +688,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "The file is empty. Please choose another one","Fichier vide. Veuillez en choisir un autre.",module,Magento_Catalog
 "The file options format is not valid.","Le format du fichier des options est invalide.",module,Magento_Catalog
 "The file upload failed.","Le chargement du fichier a échoué.",module,Magento_Catalog
-"The file you uploaded is larger than %1 Megabytes allowed by server","Le fichier uploadé a une taille supérieure à %1 Mo. Maximum autorisé sur le serveur",module,Magento_Catalog
+"The file you uploaded is larger than %1 Megabytes allowed by server","Le fichier chargé a une taille supérieure à %1 Mo. maximum autorisé sur le serveur",module,Magento_Catalog
 "The filter must be an object. Please set correct filter.","Le filtre doit être un objet. Veuillez le configurer correctement.",module,Magento_Catalog
 "The filter must be an object. Please set the correct filter.","Le filtre doit être un objet. Veuillez régler le filtre approprié.",module,Magento_Catalog
 "The filters must be an array.","Les filtres doivent être sous forme de tableau.",module,Magento_Catalog
