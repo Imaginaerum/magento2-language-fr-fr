@@ -13,7 +13,7 @@
 "Attribute Set","Jeu d'Attributs",module,Magento_CatalogRule
 "By Fixed Amount","Remise d'un montant fixe",module,Magento_CatalogRule
 "By Fixed value","remise d'une valeur de",module,Magento_CatalogRule
-"By Percentage","remise en %%",module,Magento_CatalogRule
+"By Percentage","En pourcentage",module,Magento_CatalogRule
 "By Percentage of the Original Price","En pourcentage du prix d'origine",module,Magento_CatalogRule
 "Catalog","Catalogue",module,Magento_CatalogRule
 "Catalog Price Rule","Règle de prix catalogue",module,Magento_CatalogRule
@@ -74,7 +74,7 @@
 "To Date","Date de fin",module,Magento_CatalogRule
 "To Fixed Amount","Nouveau prix en montant fixe",module,Magento_CatalogRule
 "To Fixed Value","Nouveau prix",module,Magento_CatalogRule
-"To Percentage","nouveau prix en %%",module,Magento_CatalogRule
+"To Percentage","Pourcentage",module,Magento_CatalogRule
 "To Percentage of the Original Price","Pourcentage du prix original",module,Magento_CatalogRule
 "Type","Type",module,Magento_CatalogRule
 "Unable to apply rules.","Impossible d'appliquer les règles.",module,Magento_CatalogRule

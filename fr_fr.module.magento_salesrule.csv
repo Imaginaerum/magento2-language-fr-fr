@@ -22,7 +22,7 @@
 "Auto Generated Specific Coupon Codes","Codes de bons de réduction spécifiques générés automatiquement",module,Magento_SalesRule
 "Buy X get Y free (discount amount is Y)","X achetés, Y gratuits (la valeur de la remise est Y)",module,Magento_SalesRule
 "By Fixed value","remise d'une valeur de",module,Magento_SalesRule
-"By Percentage","remise en %%",module,Magento_SalesRule
+"By Percentage","En pourcentage",module,Magento_SalesRule
 "Cancel coupon","Annuler le bon de réduction",module,Magento_SalesRule
 "Can't acquire coupon.","Impossible d'appliquer le bon.",module,Magento_SalesRule
 "Can't acquire coupon.","Impossible d'appliquer le bon.",module,Magento_SalesRule
@@ -145,7 +145,7 @@
 "To","À",module,Magento_SalesRule
 "To Date","Date de fin",module,Magento_SalesRule
 "To Fixed Value","Nouveau prix",module,Magento_SalesRule
-"To Percentage","nouveau prix en %%",module,Magento_SalesRule
+"To Percentage","Pourcentage",module,Magento_SalesRule
 "total amount","montant total",module,Magento_SalesRule
 "Total Items Quantity","Quantité Totale d'Articles",module,Magento_SalesRule
 "total quantity","quantité totale",module,Magento_SalesRule
