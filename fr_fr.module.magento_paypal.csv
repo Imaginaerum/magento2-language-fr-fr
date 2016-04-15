@@ -526,9 +526,9 @@
 "The payment currency does not match any of the merchant's balances currency.","La devise de paiement ne correspond à aucun des soldes de la devise du marchand.",module,Magento_Paypal
 "The payment currency doesn't match any of the merchant's balances currency.","La devise de paiement ne correspond à aucune des devises du marchand.",module,Magento_Paypal
 "The payment eCheck is not cleared.","Le paiement eCheck n'a pas été supprimé.",module,Magento_Paypal
-"The payment eCheck is not yet cleared.","Le chèque électronique de paiement n'est pas encore effacée.",module,Magento_Paypal
+"The payment eCheck is not yet cleared.","Le chèque électronique de paiement n'est pas encore effacé.",module,Magento_Paypal
 "The payment is authorized but not settled.","Le paiement est autorisé, mais pas réglé.",module,Magento_Paypal
-"The payment is pending because it was made to an email address that is not yet registered or confirmed.","Le paiement est en attente car elle a été faite à une adresse email qui n'est pas encore sauvegardée ou confirmée.",module,Magento_Paypal
+"The payment is pending because it was made to an email address that is not yet registered or confirmed.","Le paiement est en attente car il a été fait à l'aide d'une adresse email qui n'est pas encore sauvegardée ou confirmée.",module,Magento_Paypal
 "The payment is pending while it is being reviewed by PayPal for risk.","Le paiement est en cours pendant qu'il est examiné par PayPal pour un risque potentiel.",module,Magento_Paypal
 "The payment method code is not set.","Le code de la méthode de paiement n'est pas défini.",module,Magento_Paypal
 "The payment was made via credit card. In order to receive funds merchant must upgrade account to Business or Premier status.","Le paiement a été effectué par carte de crédit. Afin de recevoir les fonds pour votre commerce vous devez mettre à niveau le compte en classe Entreprise ou le statut de premier classe.",module,Magento_Paypal
