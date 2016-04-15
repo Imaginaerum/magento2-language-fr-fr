@@ -109,7 +109,7 @@
 "The CSS file must be less than %1M.","La taille du fichier CSS doit être inférieure a %1Mo.",module,Magento_Theme
 "The date range for this design change overlaps another design change for the specified store.","La date de changement de design chevauche avec une autre date pour ce magasin.",module,Magento_Theme
 "The JS file must be less than %1M.","La taille du fichier JS doit être inférieure a %1Mo.",module,Magento_Theme
-"Theme: %1","Thème: %1",module,Magento_Theme
+"Theme: %1","Thème : %1",module,Magento_Theme
 "Theme","Thème",module,Magento_Theme
 "Theme CSS","CSS du thème",module,Magento_Theme
 "Theme CSS Assets","Ressources CSS du thème",module,Magento_Theme
