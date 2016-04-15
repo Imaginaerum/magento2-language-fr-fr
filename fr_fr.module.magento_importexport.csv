@@ -120,7 +120,7 @@
 "Start Date&Time","Date & Heure de début",module,Magento_ImportExport
 "Status","Statut",module,Magento_ImportExport
 "Summary","Résumé",module,Magento_ImportExport
-"System doesn't allow to get file upload settings","Le système ne permet pas d'obtenir les paramètres d'upload du fichier",module,Magento_ImportExport
+"System doesn't allow to get file upload settings","Le système ne permet pas d'obtenir les paramètres de chargement du fichier",module,Magento_ImportExport
 "The adapter object must be an instance of %1.","L'objet de l'adaptateur doit être une instance de %1.",module,Magento_ImportExport
 "The adapter type must be a non-empty string.","Le type d'adaptateur doit être une chaîne non vide.",module,Magento_ImportExport
 "The adapter type must be a non empty string.","Le type d'adaptateur doit être une chaîne non vide.",module,Magento_ImportExport
