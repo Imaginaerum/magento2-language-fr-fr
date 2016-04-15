@@ -7,7 +7,7 @@
 "Category","Catégorie",module,Magento_Rule
 "Conditions Combination","Combinaison de conditions",module,Magento_Rule
 "contains","contient",module,Magento_Rule
-"Customer Groups must be specified.","Les groupes client doivent être spécifiés.",module,Magento_Rule
+"Customer Groups must be specified.","Les groupes clients doivent être spécifiés.",module,Magento_Rule
 "does not contain","ne contient pas",module,Magento_Rule
 "End Date must follow Start Date.","La date de fin doit être supérieure à la date de début.",module,Magento_Rule
 "equals or greater than","est supérieur(e) ou égal(e) à",module,Magento_Rule

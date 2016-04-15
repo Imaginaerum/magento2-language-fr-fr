@@ -163,8 +163,8 @@
 "Customer Name","Nom du client",module,Magento_Sales
 "%customer_name,","%customer_name,",module,Magento_Sales
 "Customer Order Status Notification","Notification de statut de commande client",module,Magento_Sales
-"Customer's Activities","Activités client",module,Magento_Sales
-"Customer's Activities","Activités client",module,Magento_Sales
+"Customer's Activities","Activités clients",module,Magento_Sales
+"Customer's Activities","Activités clients",module,Magento_Sales
 "Custom Price","Prix personnalisé",module,Magento_Sales
 "Dashboard","Tableau de bord",module,Magento_Sales
 "Date","Date",module,Magento_Sales

@@ -39,7 +39,7 @@
 "Continue","Continuer",module,Magento_Checkout
 "Continue Shopping","Continuer vos achats",module,Magento_Checkout
 "Country","Pays",module,Magento_Checkout
-"Customer:","Client:",module,Magento_Checkout
+"Customer:","Client :",module,Magento_Checkout
 "Customer is already registered","Client déjà sauvegardé",module,Magento_Checkout
 "Date & Time:","Date & Heure:",module,Magento_Checkout
 "Discount Codes","Codes de remises",module,Magento_Checkout

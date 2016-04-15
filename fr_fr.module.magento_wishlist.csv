@@ -44,7 +44,7 @@
 "Comment","Commentaire",module,Magento_Wishlist
 "Comment:","Commentaire :",module,Magento_Wishlist
 "Configure","Configurer",module,Magento_Wishlist
-"%customer_name wants to share this Wish List from %store_name with you:","%customer_name désire partager cette liste d'envies de %store_name avec vous:",module,Magento_Wishlist
+"%customer_name wants to share this Wish List from %store_name with you:","%customer_name désire partager cette liste d'envies de %store_name avec vous :",module,Magento_Wishlist
 "Days in Wish List","Nombre de jour dans la liste d'envies",module,Magento_Wishlist
 "Delete","Supprimer",module,Magento_Wishlist
 "Display item quantities","Afficher la quantité article",module,Magento_Wishlist
