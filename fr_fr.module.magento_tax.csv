@@ -18,7 +18,7 @@
 "Before Discount","Avant Remise",module,Magento_Tax
 "Billing Address","Adresse de facturation",module,Magento_Tax
 "Both (without and with tax)","Les deux (HT et TTC)",module,Magento_Tax
-"Calculate Off Subtotal Only","Calculer sur le sous-total uniquement",module,Magento_Tax
+"Calculate Off Subtotal Only","Sous-total uniquement",module,Magento_Tax
 "Calculation Settings","Paramètres de Calcul",module,Magento_Tax
 "Cancel","Annuler",module,Magento_Tax
 "Cannot save titles","Sauvegarde des titres impossible",module,Magento_Tax

@@ -85,7 +85,7 @@
 "Save","Sauvegarder",module,Magento_Integration
 "Save & Activate","Sauvegarder & Activer",module,Magento_Integration
 "Something went wrong while deleting roles and permissions. You can find out more in the exceptions log.","Une erreur s'est produite lors de la suppression des rôles et permissions. Vous pouvez en savoir plus en consultant le journal des exceptions.",module,Magento_Integration
-"Sorry, something went wrong granting permissions. You can find out more in the exceptions log.","Désolé, une erreur s'est produite sur l'attributions des permissions. Vous pouvez en savoir plus dans le journal des exceptions.",module,Magento_Integration
+"Sorry, something went wrong granting permissions. You can find out more in the exceptions log.","Désolé, une erreur s'est produite sur l'attribution des permissions. Vous pouvez en savoir plus dans le journal des exceptions.",module,Magento_Integration
 "Sorry, something went wrong. Please try again later.","Une erreur s'est produite. Veuillez réessayer plus tard.",module,Magento_Integration
 "Specified token does not exist","La clé spécifiée n'existe pas",module,Magento_Integration
 "Status","Statut",module,Magento_Integration

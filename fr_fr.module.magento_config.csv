@@ -58,8 +58,8 @@
 "Sorry, the default display currency you selected is not available in allowed currencies.","Désolé, la devise d'affichage par défaut que vous avez sélectionnée n'est pas disponible dans les devises autorisées.",module,Magento_Config
 "Sorry, we haven't installed the base currency you selected.","Désolé, nous avons pas installé la devise de base que vous avez sélectionnée.",module,Magento_Config
 "Sorry, we haven't installed the base currency you selected.","Désolé, nous avons pas installé la devise de base que vous avez sélectionnée.",module,Magento_Config
-"Sorry, we haven't installed the default display currency you selected.","Désolé, nous avons pas installé la devise d'affichage par défaut que vous avez sélectionné.",module,Magento_Config
-"Sorry, we haven't installed the default display currency you selected.","Désolé, nous avons pas installé la devise d'affichage par défaut que vous avez sélectionné.",module,Magento_Config
+"Sorry, we haven't installed the default display currency you selected.","Désolé, nous avons pas installé la devise d'affichage par défaut que vous avez sélectionnée.",module,Magento_Config
+"Sorry, we haven't installed the default display currency you selected.","Désolé, nous avons pas installé la devise d'affichage par défaut que vous avez sélectionnée.",module,Magento_Config
 "Specified","Spécifié",module,Magento_Config
 "Specify a fully qualified URL.","Spécifiez une URL qualifiée.",module,Magento_Config
 "Specify a URL or path that starts with placeholder(s): %1, and ends with ""/"".","Spécifiez une URL ou un chemin qui commence par : %1, et se termine par ""/"".",module,Magento_Config

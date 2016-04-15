@@ -600,7 +600,7 @@
 "Subtotal after discount","Sous-total après remise",module,Magento_Sales
 "Subtotal (Excl. Tax)","Sous-total (HT)",module,Magento_Sales
 "Subtotal (Incl. Tax)","Sous-total (TTC)",module,Magento_Sales
-"Suspected Fraud","Fraude suspectée",module,Magento_Sales
+"Suspected Fraud","Suspicion de fraude",module,Magento_Sales
 "Tax","Taxe",module,Magento_Sales
 "Tax Amount","Montant TVA",module,Magento_Sales
 "Tax Percent","Pourcentage de la taxe",module,Magento_Sales
