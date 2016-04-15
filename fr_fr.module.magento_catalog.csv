@@ -704,7 +704,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "The option type to get group instance is incorrect.","Le type d'option pour obtenir l'instance du groupe est incorrect.",module,Magento_Catalog
 "The product attribute has been deleted.","L'attribut de produit a été effacé.",module,Magento_Catalog
 "The product has required options.","Le produit nécessite une ou plusieurs options.",module,Magento_Catalog
-"The product instance type in options group is incorrect.","Le type d'instance du produit dans le groupe d'options est incorrecte.",module,Magento_Catalog
+"The product instance type in options group is incorrect.","Le type d'instance du produit dans le groupe d'options est incorrect.",module,Magento_Catalog
 "The product is not loaded.","Produit non chargé.",module,Magento_Catalog
 "There are no customers for this alert.","Aucun client pour cette alerte.",module,Magento_Catalog
 "There are no products matching the selection.","Aucun produit ne correspond à la sélection.",module,Magento_Catalog

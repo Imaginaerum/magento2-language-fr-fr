@@ -278,7 +278,7 @@
 "The processor responded with an unknown error","Le processus a répondu avec une erreur inconnue",module,Magento_Braintree
 "There was an error capturing the transaction: %1.","Erreur lors de la capture de transaction : %1.",module,Magento_Braintree
 "There was an error capturing the transaction.","Erreur lors de la capture de la transaction.",module,Magento_Braintree
-"There was an error refunding the transaction: %1.","Il y a eu une erreur de remboursement de la transaction: %1.",module,Magento_Braintree
+"There was an error refunding the transaction: %1.","Il y a eu une erreur de remboursement de la transaction : %1.",module,Magento_Braintree
 "There was an error refunding the transaction.","Erreur lors du remboursement de la transaction.",module,Magento_Braintree
 "There was an error voiding the transaction: %1.","Il y a eu une erreur annulant la transaction : %1.",module,Magento_Braintree
 "There was an error voiding the transaction.","Erreur lors de l'annulation de la transaction.",module,Magento_Braintree

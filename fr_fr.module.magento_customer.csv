@@ -493,7 +493,7 @@
 "There was an error validating the login and password.","Erreur lors de la validation login et mot de passe.",module,Magento_Customer
 "There was an error validating the VAT ID.","Erreur lors de la validation du numéro de TVA.",module,Magento_Customer
 "There was an error validating the VAT ID. ' 'The customer would belong to Customer Group %s.","Erreur de validation ID TVA. Le client doit appartenir au groupe clients %s.",module,Magento_Customer
-"There was recently a request to change the password for your account.","Nous avons reçu une demande pour changer le mot de passe de cotre compte.",module,Magento_Customer
+"There was recently a request to change the password for your account.","Nous avons reçu une demande pour changer le mot de passe de votre compte.",module,Magento_Customer
 "The suffix that goes after name (Jr., Sr., etc.)","Le suffixe vient après le nom (Jr., Sr., etc.)",module,Magento_Customer
 "The TAX/VAT number is required.","Le numéro de TVA est obligatoire.",module,Magento_Customer
 "The title that goes before name (Mr., Mrs., etc.)","Le préfixe Vient avant le nom (Mr, Mme, etc.)",module,Magento_Customer

@@ -136,10 +136,10 @@
 "The import was successful.","L'importation a réussi.",module,Magento_ImportExport
 "The input entity code is not equal to entity adapter code.","Le code entrée d'entité ne correspond pas au code de l'adaptateur de l'entité.",module,Magento_ImportExport
 "There is no data for export","Aucune donnée à exporter",module,Magento_ImportExport
-"There is no data for the export.","Il n'existe aucune données pour l'exportation.",module,Magento_ImportExport
+"There is no data for the export.","Il n'existe aucune donnée pour l'exportation.",module,Magento_ImportExport
 "There is no sample file for this entity.","Il n'y a pas de fichier d'exemple pour cette entité.",module,Magento_ImportExport
 "The source file moving process failed.","Le processus de déplacement du fichier source a échoué.",module,Magento_ImportExport
-"The source is not set.","La source n'est pas défini.",module,Magento_ImportExport
+"The source is not set.","La source n'est pas définie.",module,Magento_ImportExport
 "The total size of the uploadable files can't be more than %1M","La taille totale des fichiers ne peut pas être supérieure à %1M",module,Magento_ImportExport
 "The validation is complete.","La validation est terminée.",module,Magento_ImportExport
 "This file does not contain any data.","Ce fichier ne contient pas de données.",module,Magento_ImportExport

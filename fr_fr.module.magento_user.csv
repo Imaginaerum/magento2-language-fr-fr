@@ -99,7 +99,7 @@
 "The first name cannot be empty.","Le prénom ne peut pas être vide.",module,Magento_User
 "The last name cannot be empty.","Le nom de famille ne peut pas être vide.",module,Magento_User
 "The password for your account has been successfully changed.","Le mot de passe de votre compte a bien été modifié.",module,Magento_User
-"There was recently a request to change the password for your account.","Nous avons reçu une demande pour changer le mot de passe de cotre compte.",module,Magento_User
+"There was recently a request to change the password for your account.","Nous avons reçu une demande pour changer le mot de passe de votre compte.",module,Magento_User
 "The user name cannot be empty.","Le nom de l'utilisateur ne peut être vide.",module,Magento_User
 "This account is","Ce compte est",module,Magento_User
 "This account is locked.","Ce compte est bloqué.",module,Magento_User
