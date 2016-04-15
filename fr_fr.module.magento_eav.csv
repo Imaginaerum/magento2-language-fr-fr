@@ -53,7 +53,7 @@
 "Catalog Input Type for Store Owner","Type d'entrée catalogue pour le propriétaire du magasin",module,Magento_Eav
 "Current module EAV entity is undefined","Le module d'entités EAV actuel n'est pas défini",module,Magento_Eav
 "Current module pathname is undefined","Le chemin d'accès actuel du module n'est pas défini",module,Magento_Eav
-"Data integrity: No header row found for attribute","Intégrité des données: aucune ligne d'en-tête trouvée pour l'attribut",module,Magento_Eav
+"Data integrity: No header row found for attribute","Intégrité des données : aucune ligne d'en-tête trouvée pour l'attribut",module,Magento_Eav
 "Date","Date",module,Magento_Eav
 "Decimal Number","Nombre Décimal",module,Magento_Eav
 "Default attribute set can not be deleted","L jeu d'attributs par défaut ne peut être supprimé",module,Magento_Eav

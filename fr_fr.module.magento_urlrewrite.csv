@@ -17,7 +17,7 @@
 "CMS page:","Page CMS :",module,Magento_UrlRewrite
 "Create URL Rewrite:","Créer une réécriture d'URL :",module,Magento_UrlRewrite
 "Custom","Personnalisé",module,Magento_UrlRewrite
-"Custom storage message","Message Système de stockage personnalisé",module,Magento_UrlRewrite
+"Custom storage message","Message système de stockage personnalisé",module,Magento_UrlRewrite
 "Delete","Supprimer",module,Magento_UrlRewrite
 "Description","Description",module,Magento_UrlRewrite
 "Do not use two or more consecutive slashes in the request path.","Ne pas utiliser deux slashes (""/"") ou plus consécutifs dans le chemin de la requête.",module,Magento_UrlRewrite

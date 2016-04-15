@@ -21,7 +21,7 @@
 "Continue","Continuer",module,Magento_ImportExport
 "Created: %1, Updated: %2, Deleted: %3","Crée : %1, Mis à jour : %2, Supprimé : %3",module,Magento_ImportExport
 "Custom Action","Action personnalisée",module,Magento_ImportExport
-"Data is invalid or file is not uploaded","Les données sont invalides ou le fichier n'a pas été uploadé",module,Magento_ImportExport
+"Data is invalid or file is not uploaded","Les données sont invalides ou le fichier n'a pas été chargé",module,Magento_ImportExport
 "Data validation is failed. Please fix errors and re-upload the file..","La validation des données a échoué. Veuillez corriger les erreurs et re-uploader le fichier.",module,Magento_ImportExport
 "Data validation is failed. Please fix errors and re-upload the file.","La validation des données a échoué. Veuillez corriger les erreurs et re-uploader le fichier.",module,Magento_ImportExport
 "Delete","Supprimer",module,Magento_ImportExport
