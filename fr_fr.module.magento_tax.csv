@@ -172,7 +172,7 @@
 "This rule no longer exists.","Cette règle n'existe plus.",module,Magento_Tax
 "This sets whether catalog prices entered by admin include tax.","Défini si les prix saisis dans l'administration sont TTC.",module,Magento_Tax
 "This sets whether catalog prices entered from Magento Admin include tax.","Défini si les prix saisis dans l'administration sont TTC.",module,Magento_Tax
-"This sets whether shipping amounts entered by admin or obtained from gateways include tax.","Défini si les prix de livraison sont saisis dans l'administration ou obtenu depuis une passerelle sont TTC.",module,Magento_Tax
+"This sets whether shipping amounts entered by admin or obtained from gateways include tax.","Défini si les prix de livraison saisis dans l'administration ou obtenus depuis une passerelle sont TTC.",module,Magento_Tax
 "This sets whether shipping amounts entered from Magento Admin or obtained from gateways include tax.","Les montants de livraison saisis dans l'administration ou récupérés depuis les passerelles doivent-ils être interprétés en TTC.",module,Magento_Tax
 "Total","Total",module,Magento_Tax
 "Unit Price","Prix unitaire",module,Magento_Tax
