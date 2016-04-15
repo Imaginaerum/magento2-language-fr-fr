@@ -514,10 +514,9 @@
 "This email will be sent instead of the Default Welcome Email, after account confirmation. <br /><br />
                         Email template chosen based on theme fallback when ""Default"" option is selected.","Cet email est envoyé à la place de l'email de bienvenue par défaut après confirmation du compte. <br><br>
                         Le gabarit d'email choisi est basé sur le fallback du thème quand l'option ""Par Défaut"" est choisie.",module,Magento_Customer
-"This email will be sent instead of the Default Welcome Email, if a customer was created without password.","Cet email est envoyé à la place de l'email de bienvenue par défaut, si le client a crée un compte sans mot de passe.",module,Magento_Customer
+"This email will be sent instead of the Default Welcome Email, if a customer was created without password.","Cet email est envoyé à la place de l'email par défaut de bienvenue si un client a créé un compte sans mot de passe.",module,Magento_Customer
 "This email will be sent instead of the Default Welcome Email, if a customer was created without password. <br /><br />
-                        Email template chosen based on theme fallback when ""Default"" option is selected.","Cet email est envoyé à la place de l'email par défaut de bienvenue si un client a crée un compte sans mot de passe. <br><br>
-                        Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée.",module,Magento_Customer
+                        Email template chosen based on theme fallback when ""Default"" option is selected.","Cet email est envoyé à la place de l'email par défaut de bienvenue si un client a créé un compte sans mot de passe.<br><br>Le gabarit d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée.",module,Magento_Customer
 "To show VAT number on frontend, set Show VAT Number on Frontend option to Yes.","Pour afficher le numéro de TVA dans le frontend, réglez l'option d'affichage du numéro de TVA dans le frontend à Oui.",module,Magento_Customer
 "To show VAT number on Storefront, set Show VAT Number on Storefront option to Yes.","Pour afficher le numéro de TVA sur la vue client, régler l'option d'affichage du numéro de TVA du Magasin à Oui.",module,Magento_Customer
 "To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","Pour vous connecter sur notre site et définir un mot de passe, cliquez sur ce <a href=""%create_password_url"">lien</a> :",module,Magento_Customer
