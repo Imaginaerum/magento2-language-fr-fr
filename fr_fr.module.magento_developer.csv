@@ -10,7 +10,7 @@
 "Disable","Désactiver",module,Magento_Developer
 "Embedded (Translation on Admin side)","Embarqué (Traduction coté Back Office)",module,Magento_Developer
 "Enable","Activer",module,Magento_Developer
-"Enabled for Admin","Activée pour l'admin",module,Magento_Developer
+"Enabled for Admin","Activé pour l'admin",module,Magento_Developer
 "Enabled for Storefront","Activer pour le front office",module,Magento_Developer
 "Enabled Template Path Hints for Admin","Activer les astuce chemin des gabarits sur le back office",module,Magento_Developer
 "Enabled Template Path Hints for Storefront","Activer les astuce chemin des gabarits sur le front office",module,Magento_Developer

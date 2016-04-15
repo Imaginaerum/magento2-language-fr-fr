@@ -14,7 +14,7 @@
 "Drop Box","Boîte de dépôt",module,Magento_Fedex
 "Dropoff","Déposer",module,Magento_Fedex
 "Empty response","Réponse vide",module,Magento_Fedex
-"Enabled for Checkout","Activé pour Commander",module,Magento_Fedex
+"Enabled for Checkout","Activé pour commander",module,Magento_Fedex
 "Europe First Priority","Prioritaire Europe",module,Magento_Fedex
 "Express Saver","Express Économe",module,Magento_Fedex
 "Failed to parse xml document: %1","Impossible de parcourir le document xml: %1",module,Magento_Fedex

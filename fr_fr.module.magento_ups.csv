@@ -18,7 +18,7 @@
 "Destination Type","Type de destination",module,Magento_Ups
 "Displayed Error Message","Message d'erreur affiché",module,Magento_Ups
 "Empty response","Réponse vide",module,Magento_Ups
-"Enabled for Checkout","Activé pour Commander",module,Magento_Ups
+"Enabled for Checkout","Activé pour commander",module,Magento_Ups
 "Enable Negotiated Rates","Activer les taux négociés",module,Magento_Ups
 "error_message","error_message",module,Magento_Ups
 "Free Method","Mode gratuit",module,Magento_Ups

@@ -4,7 +4,7 @@
 "At least one recipient must be specified.","Au moins un destinataire doit être saisi.",module,Magento_SendFriend
 "Back","Retour",module,Magento_SendFriend
 "Cookie (unsafe)","Cookie (non sécurisé)",module,Magento_SendFriend
-"Email:","Email:",module,Magento_SendFriend
+"Email:","Email :",module,Magento_SendFriend
 "Email","Email",module,Magento_SendFriend
 "Email Address","Adresse email",module,Magento_SendFriend
 "Email Address:","Adresse email :",module,Magento_SendFriend

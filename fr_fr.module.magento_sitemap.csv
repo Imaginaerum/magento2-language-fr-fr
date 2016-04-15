@@ -8,7 +8,7 @@
 "Categories Options","Options pour les Catégories",module,Magento_Sitemap
 "CMS Pages Options","Options pour les Pages CMS",module,Magento_Sitemap
 "Daily","Quotidien",module,Magento_Sitemap
-"Edit Sitemap","Modifier le Pplan de Site",module,Magento_Sitemap
+"Edit Sitemap","Modifier le plan de site",module,Magento_Sitemap
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée.",module,Magento_Sitemap
 "Enabled","Activé",module,Magento_Sitemap
 "Enable Submission to Robots.txt","Active la soumission dans le fichier robots.txt",module,Magento_Sitemap

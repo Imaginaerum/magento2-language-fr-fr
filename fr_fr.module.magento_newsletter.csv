@@ -27,8 +27,8 @@
 "Delete Template","Supprimer le Gabarit",module,Magento_Newsletter
 "Do you really want to cancel the queue?","Voulez-vous vraiment supprimer la file ?",module,Magento_Newsletter
 "Duplicate template code","Code de gabarit dupliqué",module,Magento_Newsletter
-"Edit Newsletter","Éditer la newsletter",module,Magento_Newsletter
-"Edit Newsletter Template","Éditer le gabarit de newsletter",module,Magento_Newsletter
+"Edit Newsletter","Editer la lettre d'information",module,Magento_Newsletter
+"Edit Newsletter Template","Éditer le gabarit de la lettre d'information",module,Magento_Newsletter
 "Edit Queue","Modifier la file d(attente",module,Magento_Newsletter
 "Edit Template","Éditer le gabarit",module,Magento_Newsletter
 "Email","Email",module,Magento_Newsletter

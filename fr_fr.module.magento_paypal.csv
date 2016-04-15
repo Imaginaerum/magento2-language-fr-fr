@@ -160,7 +160,7 @@
 "EFT Funding (German banking)","Placement d'EFT (opérations bancaires allemandes)",module,Magento_Paypal
 "Eligible","Eligible",module,Magento_Paypal
 "Email","Email",module,Magento_Paypal
-"Email Associated with PayPal Merchant Account","Email associée à Compte Marchand PayPal",module,Magento_Paypal
+"Email Associated with PayPal Merchant Account","Email associé au compte marchand PayPal",module,Magento_Paypal
 "Email Associated with PayPal Merchant Account (Optional)","Email associé au compte marchand PayPal (Facultatif)",module,Magento_Paypal
 "Enable Automatic Fetching","Activer la récupération automatique",module,Magento_Paypal
 "Enabled","Activé",module,Magento_Paypal

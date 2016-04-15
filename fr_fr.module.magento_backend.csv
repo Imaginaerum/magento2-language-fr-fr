@@ -199,7 +199,7 @@
 "Enable","Activer",module,Magento_Backend
 "Enable Charts","Activer les Graphiques",module,Magento_Backend
 "Enabled","Activé",module,Magento_Backend
-"Enabled for Admin","Activée pour l'admin",module,Magento_Backend
+"Enabled for Admin","Activé pour l'admin",module,Magento_Backend
 "Enabled for Frontend","Activée pour le frontend",module,Magento_Backend
 "Enabled for Storefront","Activer pour le front office",module,Magento_Backend
 "Enabled Template Path Hints for Admin","Activer les astuce chemin des gabarits sur le back office",module,Magento_Backend

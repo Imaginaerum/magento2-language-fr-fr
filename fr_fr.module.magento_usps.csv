@@ -5,7 +5,7 @@
 "Displayed Error Message","Message d'erreur affiché",module,Magento_Usps
 "Documents","Documents",module,Magento_Usps
 "Empty response","Réponse vide",module,Magento_Usps
-"Enabled for Checkout","Activé pour Commander",module,Magento_Usps
+"Enabled for Checkout","Activé pour commander",module,Magento_Usps
 "First-Class Mail International Large Envelope","First-Class Mail International Large Envelope",module,Magento_Usps
 "First-Class Mail International Letter","First-Class Mail International Letter",module,Magento_Usps
 "First-Class Mail International Postcard","First-Class Mail International Postcard",module,Magento_Usps
