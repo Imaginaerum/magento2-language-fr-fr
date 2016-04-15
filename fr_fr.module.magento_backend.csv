@@ -149,7 +149,7 @@
 "Database","Base de données",module,Magento_Backend
 "Data Transfer","Transfert de données",module,Magento_Backend
 "Date From","Du",module,Magento_Backend
-"Date selector","Sélecteur de Date",module,Magento_Backend
+"Date selector","Sélecteur de date",module,Magento_Backend
 "Date To","Au",module,Magento_Backend
 "Debug","Débogage",module,Magento_Backend
 "Default Config","Configuration par défaut",module,Magento_Backend
