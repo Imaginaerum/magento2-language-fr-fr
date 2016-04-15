@@ -161,7 +161,7 @@
 "Default scope","Portée par défaut",module,Magento_Backend
 "Default Store","Magasin par Défaut",module,Magento_Backend
 "Default Store View","Vue Magasin par Défaut",module,Magento_Backend
-"Default Web URL","URL Web par Défaut",module,Magento_Backend
+"Default Web URL","URL Web par défaut",module,Magento_Backend
 "Delete %1","Supprimer %1",module,Magento_Backend
 "Delete %1 '%2'","Supprimer %1 '%2'",module,Magento_Backend
 "Delete","Supprimer",module,Magento_Backend

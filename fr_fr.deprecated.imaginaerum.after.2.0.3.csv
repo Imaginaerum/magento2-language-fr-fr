@@ -33,7 +33,7 @@
 "Cart %1 doesn't contain products","Le panier #%1 ne contient aucun produit",deprecated,Imaginaerum
 "Conditions (don't add conditions if rule is applied to all products)","Conditions (ne pas ajouter de conditions si la règle doit s'appliquer à tous les produits)",deprecated,Imaginaerum
 "Could not add gift message to order's item: ""%1""","Impossible d'ajouter un message cadeau pour l'article ""%1""",deprecated,Imaginaerum
-"Default ""What's This"" Text Message","Texte par Défaut du message ""Qu'est ce que c'est""",deprecated,Imaginaerum
+"Default ""What's This"" Text Message","Texte par défaut du message ""Qu'est-ce que c'est""",deprecated,Imaginaerum
 "Entity type model '%1' is not found","Le modèle du type d'entité '%1' est introuvable",deprecated,Imaginaerum
 "Exception does not contain field '%1'","L'exception ne contient pas le champ ""%1""",deprecated,Imaginaerum
 "File '%1' is not an image.","Le fichier '%1' n'est pas une image.",deprecated,Imaginaerum

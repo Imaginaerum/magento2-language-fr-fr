@@ -3,7 +3,7 @@
 "Before Order Confirmation","Avant la confirmation de commande",module,Magento_Msrp
 "Click for price","Cliquez pour afficher le prix",module,Magento_Msrp
 "Default Popup Text Message","Texte du message de popup par défaut",module,Magento_Msrp
-"Default ""What's This"" Text Message","Texte par Défaut du message ""Qu'est ce que c'est""",module,Magento_Msrp
+"Default ""What's This"" Text Message","Texte par défaut du message ""Qu'est-ce que c'est""",module,Magento_Msrp
 "Display Actual Price","Afficher les vrais prix",module,Magento_Msrp
 "Enable MAP","Activer le prix minimum affiché",module,Magento_Msrp
 "Enabling MAP by default will hide all product prices on Storefront.","Activer MAP par défaut cachera tous les prix produit.",module,Magento_Msrp

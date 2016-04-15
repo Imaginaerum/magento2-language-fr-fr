@@ -226,8 +226,8 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Default Product Listing Sort by does not exist in Available Product Listing Sort By.","Le tri par défaut pour les listes de produits n'existe pas dans la liste des valeurs possibles.",module,Magento_Catalog
 "Default Value","Valeur par défaut",module,Magento_Catalog
 "Default Values","Valeurs par défaut",module,Magento_Catalog
-"Default View","Vue Par Défaut",module,Magento_Catalog
-"Default ""What's This"" Text Message","Texte par Défaut du message ""Qu'est ce que c'est""",module,Magento_Catalog
+"Default View","Vue par défaut",module,Magento_Catalog
+"Default ""What's This"" Text Message","Texte par défaut du message ""Qu'est-ce que c'est""",module,Magento_Catalog
 "Delete","Supprimer",module,Magento_Catalog
 "Delete Attribute","Supprimer l'attribut",module,Magento_Catalog
 "Delete Attribute Set","Supprimer le jeu d'attributs",module,Magento_Catalog
@@ -239,7 +239,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Delete Row","Supprimer la ligne",module,Magento_Catalog
 "Delete Search","Supprimer la Recherche",module,Magento_Catalog
 "Delete Selected Group","Supprimer le groupe sélectionné",module,Magento_Catalog
-"Delete selected items?","Supprimer les éléments sélectionnés?",module,Magento_Catalog
+"Delete selected items?","Supprimer les éléments sélectionnés ?",module,Magento_Catalog
 "Delete Tier","Effacer le palier",module,Magento_Catalog
 "Depends on design theme","Dépendant du thème de design",module,Magento_Catalog
 "Description","Description",module,Magento_Catalog

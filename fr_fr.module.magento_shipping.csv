@@ -41,8 +41,8 @@
 "Date","Date",module,Magento_Shipping
 "Delete","Supprimer",module,Magento_Shipping
 "Delete Package","Effacer le paquet",module,Magento_Shipping
-"Delivered on:","Livré le:",module,Magento_Shipping
-"Delivered to:","Livré à:",module,Magento_Shipping
+"Delivered on:","Livré le :",module,Magento_Shipping
+"Delivered to:","Livré à :",module,Magento_Shipping
 "Description","Description",module,Magento_Shipping
 "Development","Développement",module,Magento_Shipping
 "Divide to equal weight (one request)","Diviser en poids égal (une requête)",module,Magento_Shipping
