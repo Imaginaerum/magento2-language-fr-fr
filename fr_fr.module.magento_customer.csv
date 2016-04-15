@@ -154,7 +154,7 @@
 "Default Email Domain","Domaine de mail par défaut",module,Magento_Customer
 "Default Group","Groupe par Défaut",module,Magento_Customer
 "Default Shipping Address","Adresse de livraison par défaut",module,Magento_Customer
-"Default Value for Disable Automatic Group Changes Based on VAT ID","Valeur par Défaut pour la désactivation des changement de groupe automatiques basés sur le numéro de TVA",module,Magento_Customer
+"Default Value for Disable Automatic Group Changes Based on VAT ID","Valeur par défaut pour la désactivation des changements de groupe automatiques basés sur le numéro de TVA",module,Magento_Customer
 "Default Welcome Email","Email d'accueil par défaut",module,Magento_Customer
 "Default Welcome Email Without Password","Email de bienvenue par défaut sans mot de passe",module,Magento_Customer
 "Delete","Supprimer",module,Magento_Customer

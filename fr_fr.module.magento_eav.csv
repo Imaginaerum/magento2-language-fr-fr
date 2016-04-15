@@ -56,10 +56,10 @@
 "Data integrity: No header row found for attribute","Intégrité des données : aucune ligne d'en-tête trouvée pour l'attribut",module,Magento_Eav
 "Date","Date",module,Magento_Eav
 "Decimal Number","Nombre Décimal",module,Magento_Eav
-"Default attribute set can not be deleted","L jeu d'attributs par défaut ne peut être supprimé",module,Magento_Eav
+"Default attribute set can not be deleted","Le jeu d'attributs par défaut ne peut être supprimé",module,Magento_Eav
 "Default label","Libellé par défaut",module,Magento_Eav
 "Default option value is not defined","La valeur par défaut de l'option n'est pas définie",module,Magento_Eav
-"Default Value","Valeur par Défaut",module,Magento_Eav
+"Default Value","Valeur par défaut",module,Magento_Eav
 "Dropdown","Liste Déroulante",module,Magento_Eav
 "EAV types and attributes","Types EAV et attributs",module,Magento_Eav
 "Email","Email",module,Magento_Eav
