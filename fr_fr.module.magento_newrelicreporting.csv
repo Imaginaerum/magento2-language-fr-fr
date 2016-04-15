@@ -17,5 +17,5 @@
                         information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","L'intégration de New Relic nécessite le module newrelic-php5 qui n'est pas installé. Vous trouverez de l'aide pour l'installer <a target=""_blank"" href=""%1"">ici</a>.",module,Magento_NewRelicReporting
 "This can commonly be found at the end of the URL when viewing the APM after ""/applications/""","Vous trouverez généralement cette information à la fin de l'URL lorsque vous visualisez l'APM, après ""/applications/""",module,Magento_NewRelicReporting
 "This is located by navigating to Events -> Deployments from the New Relic APM website","Vous trouverez cette information en vous rendant dans Events -> Deployments from the New Relic APM website",module,Magento_NewRelicReporting
-"This is located by navigating to Settings from the New Relic APM website","Vous trouverez cette information en vous rendant dans les paramètres du dite New Relic APM",module,Magento_NewRelicReporting
+"This is located by navigating to Settings from the New Relic APM website","Vous trouverez cette information en vous rendant dans les paramètres du site New Relic APM",module,Magento_NewRelicReporting
 "Use %s to replace the account ID in the URL","Utilisez ""%s"" pour remplacer l'identifiant de compte dans l'URL",module,Magento_NewRelicReporting
