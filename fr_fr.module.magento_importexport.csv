@@ -113,7 +113,7 @@
 "Replace Existing Complex Data","Remplacer les données complexes existantes",module,Magento_ImportExport
 "Select File to Import","Sélectionner le fichier à importer",module,Magento_ImportExport
 "Show more","Afficher plus",module,Magento_ImportExport
-"Sorry, but the data is invalid or the file is not uploaded.","Désolé, mais les données sont invalides ou le fichier n'a pas été uploadé.",module,Magento_ImportExport
+"Sorry, but the data is invalid or the file is not uploaded.","Désolé, mais les données sont invalides ou le fichier n'a pas été chargé.",module,Magento_ImportExport
 "Source file coping failed","Echec de la copie du fichier source",module,Magento_ImportExport
 "Source file moving failed","Erreur lors du déplacement du fichier source",module,Magento_ImportExport
 "Source is not set","La source n'est pas définie",module,Magento_ImportExport

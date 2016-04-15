@@ -146,7 +146,7 @@
 "Subtotal (Excl. Tax)","Sous-total (HT)",module,Magento_Tax
 "Subtotal (Incl. Tax)","Sous-total (TTC)",module,Magento_Tax
 "Subtotal (Incl.Tax)","Sous-total (TTC)",module,Magento_Tax
-"Subtotal Only","Sous Total Uniquement",module,Magento_Tax
+"Subtotal Only","Sous-total uniquement",module,Magento_Tax
 "Tax","Taxe",module,Magento_Tax
 "Tax Calculation Based On","Calcul de la taxe basé sur",module,Magento_Tax
 "Tax Calculation Method Based On","Méthode de calcul de la taxe basée sur",module,Magento_Tax
