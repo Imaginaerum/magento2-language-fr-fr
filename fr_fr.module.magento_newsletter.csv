@@ -92,7 +92,7 @@
 "Sent","Envoyé",module,Magento_Newsletter
 "Sign Up for Our Newsletter:","Inscription à notre newsletter :",module,Magento_Newsletter
 "Something went wrong while saving this template.","Une erreur s'est produite lors de l'enregistrement de ce gabarit.",module,Magento_Newsletter
-"Something went wrong while saving your subscription.","Une erreur s'est produite lors de l'enregistrement de cette abonnement.",module,Magento_Newsletter
+"Something went wrong while saving your subscription.","Une erreur s'est produite lors de l'enregistrement de cet abonnement.",module,Magento_Newsletter
 "Something went wrong while unsubscribing you.","Une erreur s'est produite lors de la désinscription.",module,Magento_Newsletter
 "Something went wrong with the subscription.","Une erreur s'est produite lors de la souscription à l'abonnement.",module,Magento_Newsletter
 "Something went wrong with the un-subscription.","Une erreur s'est produite lors de la désinscription.",module,Magento_Newsletter
