@@ -1,9 +1,9 @@
 "<pre>' . . . . '</pre>","<pre>' . . . . '</pre>",deprecated,Imaginaerum
 "'Add New ' .","'Ajouter ' .",deprecated,Imaginaerum
 "'Gateway error: ' .","'Erreur passerelle: ' .",deprecated,Imaginaerum
-"Invalid backend model specified: ","Model Backend invalide: ",deprecated,Imaginaerum
-"'Invalid backend model specified: ' .","'Model Backend invalide: '.",deprecated,Imaginaerum
-"'Invalid cookie lifetime: ' .","'Durée de vie du cookie invalide: ' .",deprecated,Imaginaerum
+"Invalid backend model specified: ","Model Backend invalide : ",deprecated,Imaginaerum
+"'Invalid backend model specified: ' .","'Model Backend invalide : '.",deprecated,Imaginaerum
+"'Invalid cookie lifetime: ' .","'Durée de vie du cookie invalide : ' .",deprecated,Imaginaerum
 "'Invalid domain name: ' .","'Nom de domaine invalide: ' .",deprecated,Imaginaerum
 "label_value' 'label_value' 'frontend_label","label_value' 'label_value' 'frontend_label",deprecated,Imaginaerum
 "'New ' .","'Nouveau ' .",deprecated,Imaginaerum

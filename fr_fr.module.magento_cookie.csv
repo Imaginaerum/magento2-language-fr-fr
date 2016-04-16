@@ -4,9 +4,9 @@
 "Cookie Path","Chemin du Cookie",module,Magento_Cookie
 "Cookie Restriction Mode","Mode de restriction de cookie",module,Magento_Cookie
 "Default Cookie Settings","Paramètres par défaut des cookies",module,Magento_Cookie
-"Invalid cookie lifetime: %1","Durée de vie du cookie invalide: %1",module,Magento_Cookie
+"Invalid cookie lifetime: %1","Durée de vie du cookie invalide : %1",module,Magento_Cookie
 "Invalid cookie path","Chemin du cookie invalide",module,Magento_Cookie
-"Invalid domain name: %1","Nom de domaine invalide: %1",module,Magento_Cookie
+"Invalid domain name: %1","Nom de domaine invalide : %1",module,Magento_Cookie
 "<a href=""%1"">Learn more</a>.","<a href=""%1"">En savoir plus</a>.",module,Magento_Cookie
 "To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.","Pour se conformer à la nouvelle directive concernant la vie privée, nous devons vous demander votre consentement pour sauvegarder des cookies sur votre ordinateur.",module,Magento_Cookie
 "Use HTTP Only","Utiliser Uniquement HTTP",module,Magento_Cookie

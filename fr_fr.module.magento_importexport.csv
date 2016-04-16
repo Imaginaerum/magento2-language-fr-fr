@@ -85,7 +85,7 @@
 "Import successfully done","Importation terminée avec succès",module,Magento_ImportExport
 "in rows","dans les lignes",module,Magento_ImportExport
 "in rows:","dans les lignes :",module,Magento_ImportExport
-"Invalid behavior token for %1","Je ton de comportement invalide pour %1",module,Magento_ImportExport
+"Invalid behavior token for %1","Jeton de comportement invalide pour %1",module,Magento_ImportExport
 "label","libellé",module,Magento_ImportExport
 "Make sure your file isn't more than %1M.","Assurez-vous que votre fichier ne dépasse pas %1Mo.",module,Magento_ImportExport
 "Maximum error count has been reached or system error is occurred!","Le nombre d'erreur maximum a été atteint ou une erreur système est survenue !",module,Magento_ImportExport

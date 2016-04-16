@@ -345,7 +345,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Integer","Entier",module,Magento_Catalog
 "Invalid attribute %1","Attribut invalide: %1",module,Magento_Catalog
 "Invalid data provided for linked products","Données de liaison produits invalides",module,Magento_Catalog
-"Invalid data provided for tier_price","Données invalide pour tier_price",module,Magento_Catalog
+"Invalid data provided for tier_price","Données invalide pour tier_price (prix palier)",module,Magento_Catalog
 "Invalid option id %1","Option id %1 invalide",module,Magento_Catalog
 "Invalid product data: %1","Données de produit invalides : %1",module,Magento_Catalog
 "Is Active","Activée",module,Magento_Catalog

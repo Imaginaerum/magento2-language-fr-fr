@@ -84,13 +84,13 @@
 "Invalid attribute name: %1","Nom d'attribut invalide : %1",module,Magento_Eav
 "Invalid attribute requested: %1","Attribut invalide: %1",module,Magento_Eav
 "Invalid attribute type","Type d'attribut invalide",module,Magento_Eav
-"Invalid backend model specified: %1","Model Backend invalide: %1",module,Magento_Eav
+"Invalid backend model specified: %1","Model Backend invalide : %1",module,Magento_Eav
 "Invalid character encountered in increment ID: %1","Caractère invalide trouvé dans l'ID d'incrément: %1",module,Magento_Eav
 "Invalid date","Date invalide",module,Magento_Eav
 "Invalid default date","Date par défaut non valide",module,Magento_Eav
 "Invalid default decimal value","Valeur décimale par défaut non valide",module,Magento_Eav
 "Invalid EAV attribute","Attribut EAV invalide",module,Magento_Eav
-"Invalid entity supplied: %1","L'entité est invalide: %1",module,Magento_Eav
+"Invalid entity supplied: %1","L'entité est invalide : %1",module,Magento_Eav
 "Invalid entity supplied","Entité invalide",module,Magento_Eav
 "Invalid entity type","Type d'entité invalide",module,Magento_Eav
 "Invalid entity_type specified: %1","entity_type invalide : %1",module,Magento_Eav

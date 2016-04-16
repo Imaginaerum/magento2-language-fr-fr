@@ -42,8 +42,8 @@
 "File directory '%1' is not writable.","Le répertoire '%1' n'est pas autorisé en écriture.",deprecated,Imaginaerum
 "For some reason we can't retrieve tracking info right now.","Impossible de retrouver les informations de suivi.",deprecated,Imaginaerum
 "Integration with ID '%1' doesn't exist.","Intégration avec l'ID '%1' n'existe pas.",deprecated,Imaginaerum
-"Invalid cron expression, expecting 'from-to' structure: %1","Expression du CRON invalide, structure ""de-à"" attendu: %1",deprecated,Imaginaerum
-"Invalid cron expression, expecting 'match/modulus': %1","Expression du CRON invalide, ""valeur/modulo"" attendu: %1",deprecated,Imaginaerum
+"Invalid cron expression, expecting 'from-to' structure: %1","Expression du CRON invalide, structure ""de-à"" attendu : %1",deprecated,Imaginaerum
+"Invalid cron expression, expecting 'match/modulus': %1","Expression du CRON invalide, ""valeur/modulo"" attendu : %1",deprecated,Imaginaerum
 "Invalid XML in file %1:
 %2","XML invalide dans le fichier %1:
 %2",deprecated,Imaginaerum
