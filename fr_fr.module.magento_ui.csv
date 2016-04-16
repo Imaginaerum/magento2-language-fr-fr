@@ -53,7 +53,7 @@
 "Please enter less or equal than {0} symbols.","Veuillez renseigner un nombre de caractères inférieur ou égal à {0}.",module,Magento_Ui
 "Please enter more or equal than {0} symbols.","Veuillez renseigner un nombre de caractères supérieur ou égal à {0}.",module,Magento_Ui
 "Please enter positive number in this field.","Saisissez un nombre positif.",module,Magento_Ui
-"Please input a valid CSS-length (Ex: 100px, 77pt, 20em, .5ex or 50%).","Veuillez renseigner un dimension CSS valide (ex : 100px, 77pt, 20em, .5ex ou 50%).",module,Magento_Ui
+"Please input a valid CSS-length (Ex: 100px, 77pt, 20em, .5ex or 50%).","Veuillez renseigner une dimension CSS valide (ex : 100px, 77pt, 20em, .5ex ou 50%).",module,Magento_Ui
 "Please select item(s).","Veuillez sélectionner un élement.",module,Magento_Ui
 "Please specify a valid mobile number","Veuillez renseigner un numéro de mobile valide",module,Magento_Ui
 "Please specify a valid phone number","Veuillez renseigner un numéro de téléphone valide",module,Magento_Ui

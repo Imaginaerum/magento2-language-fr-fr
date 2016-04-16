@@ -406,11 +406,11 @@
 "--Please Select--","-- Faire un Choix --",module,Magento_Paypal
 "Please select a shipping method...","Sélectionnez un mode de livraison...",module,Magento_Paypal
 "-- Please Select Billing Agreement--","-- Veuillez choisir une entente de facturation--",module,Magento_Paypal
-"Please specify the correct billing agreement ID and try again.","Veuillez spécifier un ID correcte d'entente de facturation et essayez à nouveau.",module,Magento_Paypal
+"Please specify the correct billing agreement ID and try again.","Veuillez spécifier un ID correct d'entente de facturation et essayez à nouveau.",module,Magento_Paypal
 "Please update order data to get shipping methods and rates","Veuillez mettre à jour les données de commande pour obtenir les modes et tarifs de livraison",module,Magento_Paypal
 "Points Incentive Redemption","Rachat d'incitation de points",module,Magento_Paypal
 "Position","Position",module,Magento_Paypal
-"Postage Payment to either USPS or UPS","Frais de port paiement soit USPS ou UPS",module,Magento_Paypal
+"Postage Payment to either USPS or UPS","Paiement d'affranchissement à USPS ou UPS",module,Magento_Paypal
 "Preapproved Payment (BillUser API), either sent or received","Paiement pré-approuvé (API BillUser), envoyé ou reçu",module,Magento_Paypal
 "Preapproved Payment (BillUser API, either sent or received","Paiement pré-approuvé (API BillUser), envoyé ou reçu",module,Magento_Paypal
 "Preapproved Payment ID","Paiement pré-approuvés ID",module,Magento_Paypal
