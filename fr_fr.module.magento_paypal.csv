@@ -202,30 +202,30 @@
 "For Virtual Quotes Only","Pour les commandes virtuelles uniquement",module,Magento_Paypal
 "Frontend Experience Settings","Paramètres d'expérience en frontend",module,Magento_Paypal
 "Funding","Financement",module,Magento_Paypal
-"General: adjustment of a type not belonging to the other T12xx categories","Général: ajustement d'un type n'appartenant pas aux autres Catégories de T12xx",module,Magento_Paypal
+"General: adjustment of a type not belonging to the other T12xx categories","Général : ajustement d'un type n'appartenant pas aux autres catégories de T12xx",module,Magento_Paypal
 "General Adjustment without businessrelated event","Ajustement général sans événement lié au marché",module,Magento_Paypal
 "General (Authorization)","Général (Autorisation)",module,Magento_Paypal
-"General: bonus of a type not belonging to the other T08xx categories","Général: bonification d'un type n'appartenant pas aux autres Catégories de T08xx",module,Magento_Paypal
+"General: bonus of a type not belonging to the other T08xx categories","Général : bonification d'un type n'appartenant pas aux autres catégories de T08xx",module,Magento_Paypal
 "General Currency Conversion","Conversion de devises général",module,Magento_Paypal
 "General (Dividend)","Général (dividendes)",module,Magento_Paypal
-"General: event not yet categorized","Général: événement pas encore classé par catégorie",module,Magento_Paypal
+"General: event not yet categorized","Général : événement pas encore classé par catégorie",module,Magento_Paypal
 "General Funding of PayPal Account ","Financement général de compte PayPal ",module,Magento_Paypal
 "General (Funds Transfer from PayPal Account to Another)","Général (transfert de fonds de compte PayPal à un autre)",module,Magento_Paypal
 "General Information","Informations Générales",module,Magento_Paypal
-"General: non-payment fee of a type not belonging to the other T01xx categories","Général: Taxe de non-paiement d'un type qui n'appartiennent pas aux autres Catégories T01xx",module,Magento_Paypal
+"General: non-payment fee of a type not belonging to the other T01xx categories","Général : Taxe de non-paiement d'un type qui n'appartient pas aux autres catégories T01xx",module,Magento_Paypal
 "General. Product no longer supported","Généralités. Ce Produit n'est plus pris en charge",module,Magento_Paypal
 "General (Purchase with a credit card)","Généraux (achat avec une carte de crédit)",module,Magento_Paypal
-"General: received payment of a type not belonging to the other T00xx categories","Général: paiement reçu d'un type n'appartenant pas aux autres Catégories de T00xx",module,Magento_Paypal
+"General: received payment of a type not belonging to the other T00xx categories","Général : paiement reçu d'un type n'appartenant pas aux autres catégories de T00xx",module,Magento_Paypal
 "General Redemption","Remboursement général",module,Magento_Paypal
-"General: reversal of a type not belonging to the other T11xx categories","Général: inversion d'un type n'appartenant pas aux autres Catégories de T11xx",module,Magento_Paypal
+"General: reversal of a type not belonging to the other T11xx categories","Général : inversion d'un type n'appartenant pas aux autres Catégories de T11xx",module,Magento_Paypal
 "General: temporary hold of a type not belonging to the other T15xx categories","Général: suspension temporaire d'un type qui n'appartiennent pas aux autres Catégories T15xx",module,Magento_Paypal
-"General: Use of PayPal account for purchasing as well as receiving payments","Compte général: utilisation de PayPal pour l'achat ainsi que la réception des paiements",module,Magento_Paypal
+"General: Use of PayPal account for purchasing as well as receiving payments","Compte général : utilisation de PayPal pour l'achat ainsi que la réception des paiements",module,Magento_Paypal
 "General Withdrawal from PayPal Account","Retrait général de compte PayPal",module,Magento_Paypal
 "General: Withdrawal from PayPal Account","Retrait général de compte PayPal",module,Magento_Paypal
-"General: Withdrawal to Non-Bank Entity","Général: Retrait à l'entité non-bancaire",module,Magento_Paypal
+"General: Withdrawal to Non-Bank Entity","Général : Retrait à l'entité non-bancaire",module,Magento_Paypal
 "Get Credentials from PayPal","Obtenez les informations d'accès de PayPal",module,Magento_Paypal
 "Get Publisher ID from PayPal","Obtenez l'ID Editeur de PayPal",module,Magento_Paypal
-"Gift Certificate Payment: purchase of Gift Certificate","Paiement par chèque cadeau: achat de chèques cadeaux",module,Magento_Paypal
+"Gift Certificate Payment: purchase of Gift Certificate","Paiement par chèque cadeau : achat de chèque cadeau",module,Magento_Paypal
 "Gift Certificate Redemption","Rachat de Chèque Cadeau",module,Magento_Paypal
 "Gross Amount","Montant brut",module,Magento_Paypal
 "Header Background Color","Couleur d'arrière plan de l'entête",module,Magento_Paypal
