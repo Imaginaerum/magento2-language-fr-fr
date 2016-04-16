@@ -19,7 +19,7 @@
 "Discount","Remise",module,Magento_Quote
 "error123","error123",module,Magento_Quote
 "error345","error345",module,Magento_Quote
-"Grand Total","Montant Total",module,Magento_Quote
+"Grand Total","Montant global",module,Magento_Quote
 "Invalid address id %1","L'identifiant de l'adresse %1 est invalide",module,Magento_Quote
 "Invalid customer id %1","L'identifiant de client %1 est invalide",module,Magento_Quote
 "Item qty declaration error","Erreur lors de la déclaration de quantité d'un article",module,Magento_Quote

@@ -216,7 +216,7 @@
 "Gift Options","Options Cadeau",module,Magento_Sales
 "Gift Options for ","Options cadeau pour ",module,Magento_Sales
 "Go to Home Page","Aller à la page d'accueil",module,Magento_Sales
-"Grand Total","Montant Total",module,Magento_Sales
+"Grand Total","Montant global",module,Magento_Sales
 "Grand Total (Base)","Total (Devise de base)",module,Magento_Sales
 "Grand Total Excl. Tax","Total HT",module,Magento_Sales
 "Grand Total Incl. Tax","Total TTC",module,Magento_Sales

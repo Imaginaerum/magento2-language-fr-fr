@@ -15,7 +15,7 @@
 "Email:","Email :",theme,frontend/Magento/luma
 "Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Mot de passe oublié ? Cliquez <a href=""%reset_url"">ici</a> pour le réinitialiser.",theme,frontend/Magento/luma
 "For shipping to multiple family members and friends","Pour expédier à votre famille ou à vos amis",theme,frontend/Magento/luma
-"Grand Total","Montant Total",theme,frontend/Magento/luma
+"Grand Total","Montant global",theme,frontend/Magento/luma
 "Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Heures d'ouverture:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Si vous avez des questions concernant votre commande, vous pouvez nous envoyer un email à <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend/Magento/luma
 "Items %1-%2 of %3","Produits %1-%2 sur %3",theme,frontend/Magento/luma

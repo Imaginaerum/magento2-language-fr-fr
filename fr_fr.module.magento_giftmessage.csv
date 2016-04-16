@@ -11,7 +11,7 @@
 "Do you have any gift items in your order?","Y a-t-il des articles cadeaux dans votre commande ?",module,Magento_GiftMessage
 "From","De",module,Magento_GiftMessage
 "Gift Message","Message Cadeau",module,Magento_GiftMessage
-"Gift Message is not available","Messages cadeau indisponibles",module,Magento_GiftMessage
+"Gift Message is not available","Message cadeau indisponible",module,Magento_GiftMessage
 "Gift Message (optional)","Message cadeau (optionnel)",module,Magento_GiftMessage
 "Gift Messages is not applicable for empty cart","Les messages cadeau ne sont pas utilisables lorsque le panier est vide",module,Magento_GiftMessage
 "Gift Messages is not applicable for empty order","Les messages cadeau ne sont pas utilisables pour une commande vide",module,Magento_GiftMessage

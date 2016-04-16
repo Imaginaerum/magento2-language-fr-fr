@@ -238,7 +238,7 @@
 "[GLOBAL]","[GLOBAL]",module,Magento_Backend
 "Global Attribute","Attribut global",module,Magento_Backend
 "Go Today","Aller à aujourd'hui",module,Magento_Backend
-"Grand Total","Montant Total",module,Magento_Backend
+"Grand Total","Montant global",module,Magento_Backend
 "Guest","Invité",module,Magento_Backend
 "Help Us Keep Magento Healthy - Report All Bugs","Aidez-nous à améliorer Magento - Signalez tous les bugs",module,Magento_Backend
 "Home","Accueil",module,Magento_Backend

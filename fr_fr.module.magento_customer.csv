@@ -202,11 +202,11 @@
 "Generate Human-Friendly Customer ID","Générer un ID Client facile à lire",module,Magento_Customer
 "Global","Global",module,Magento_Customer
 "Go back","Retour",module,Magento_Customer
-"Grand Total","Montant Total",module,Magento_Customer
+"Grand Total","Montant global",module,Magento_Customer
 "Group","Groupe",module,Magento_Customer
 "Group for Invalid VAT ID","Groupe pour un numéro de TVA invalide",module,Magento_Customer
-"Group for Valid VAT ID - Domestic","Groupe pour un numéro de TVA invalide - Domestique",module,Magento_Customer
-"Group for Valid VAT ID - Intra-Union","Groupe pour un numéro de TVA invalide - Intra-Union",module,Magento_Customer
+"Group for Valid VAT ID - Domestic","Groupe pour un numéro de TVA valide - Domestique",module,Magento_Customer
+"Group for Valid VAT ID - Intra-Union","Groupe pour un numéro de TVA valide - Intra-Union",module,Magento_Customer
 "Group Information","Informations du Groupe",module,Magento_Customer
 "Group Name","Nom du Groupe",module,Magento_Customer
 "Guest checkout is disabled.","La passage de commande Invité est désactivé.",module,Magento_Customer

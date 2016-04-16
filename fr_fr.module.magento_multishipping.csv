@@ -34,7 +34,7 @@
 "Excl. Tax","HT",module,Magento_Multishipping
 "Go to Review Your Order","Retour au récapitulatif de votre commande",module,Magento_Multishipping
 "Go to Shipping Information","Allez aux informations de livraison",module,Magento_Multishipping
-"Grand Total:","Montant global:",module,Magento_Multishipping
+"Grand Total:","Montant global :",module,Magento_Multishipping
 "Incl. Tax","TTC",module,Magento_Multishipping
 "Item","article",module,Magento_Multishipping
 "Item not found or already ordered","Produit non trouvé ou déjà commandé",module,Magento_Multishipping
