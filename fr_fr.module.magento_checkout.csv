@@ -90,7 +90,7 @@
 "Items in Cart","Articles dans le panier",module,Magento_Checkout
 "Load customer quote error","Erreur lors du chargement du panier client",module,Magento_Checkout
 "Loading...","Chargement en cours...",module,Magento_Checkout
-"Loading next step...","Chargement en cours de l'étape suivante...",module,Magento_Checkout
+"Loading next step...","Chargement de l'étape suivante en cours...",module,Magento_Checkout
 "Login","Se connecter",module,Magento_Checkout
 "Maximum Display Recently Added Item(s)","Nombre maxi d'articles récemment ajoutés à afficher",module,Magento_Checkout
 "Message","Message",module,Magento_Checkout

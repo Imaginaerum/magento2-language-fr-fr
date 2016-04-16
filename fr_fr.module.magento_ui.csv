@@ -19,7 +19,7 @@
 "Initialization error component, check the spelling of the name or the correctness of the call.","Erreur lors de l'initialisation du composant, vérifier l'orthographe du nom ou l'exactitude de l'appel.",module,Magento_Ui
 "Invalid format.","Format invalide.",module,Magento_Ui
 "Keyword","Mot clé",module,Magento_Ui
-"Letters, numbers, spaces or underscores only please","Uniquement des lettre, nombres, espaces ou underscores autorisés",module,Magento_Ui
+"Letters, numbers, spaces or underscores only please","Uniquement des lettres, nombres, espaces ou traits de soulignement bas (_) autorisés",module,Magento_Ui
 "Letters only please","Uniquement des lettres autorisées",module,Magento_Ui
 "Letters or punctuation only please","Uniquement des lettres ou signes de ponctuation autorisés",module,Magento_Ui
 "Log JS Errors to Session Storage","Stocker les erreurs JS en Session",module,Magento_Ui

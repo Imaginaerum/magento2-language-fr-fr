@@ -239,12 +239,12 @@
 "Last Activity","Dernière Activité",module,Magento_Customer
 "Last Date Subscribed","Date de dernière inscription",module,Magento_Customer
 "Last Date Unsubscribed","Date de dernière désinscription",module,Magento_Customer
-"Last Logged In (%1):","Dernière connexion (%1):",module,Magento_Customer
+"Last Logged In (%1):","Dernière connexion (%1) :",module,Magento_Customer
 "Last Logged In","Dernière Connexion",module,Magento_Customer
-"Last Logged In:","Dernière Connexion:",module,Magento_Customer
+"Last Logged In:","Dernière connexion :",module,Magento_Customer
 "Last Name","Nom",module,Magento_Customer
 "Last URL","Dernière URL",module,Magento_Customer
-"Leave empty for default (2). Valid range: 1-4","Laisser vide pour utiliser la valeur par défaut (2). Éventail autorisé: 1-4",module,Magento_Customer
+"Leave empty for default (2). Valid range: 1-4","Laisser vide pour utiliser la valeur par défaut (2). Éventail autorisé : 1-4",module,Magento_Customer
 "Leave empty for default (15 minutes).","Laisser vide pour utiliser la valeur par défaut (15 minutes).",module,Magento_Customer
 "Lifetime Sales","Ventes depuis le début",module,Magento_Customer
 "Localized Exception","Localized Exception",module,Magento_Customer

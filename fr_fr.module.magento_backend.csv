@@ -271,7 +271,7 @@
 "items selected","éléments sélectionnés",module,Magento_Backend
 "JavaScript/CSS","JavaScript/CSS",module,Magento_Backend
 "JavaScript/CSS Cache","Cache JavaScript/CSS",module,Magento_Backend
-"JavaScript may be disabled in your browser.","JavaScript est peut être désactivé dans votre navigateurs.",module,Magento_Backend
+"JavaScript may be disabled in your browser.","JavaScript est peut être désactivé dans votre navigateur.",module,Magento_Backend
 "JavaScript Settings","Paramètres JavaScript",module,Magento_Backend
 "Last 5 Orders","5 dernières commandes",module,Magento_Backend
 "Last 5 Search Terms","5 derniers termes recherchés",module,Magento_Backend
@@ -297,7 +297,7 @@
 "Magento Admin Panel","Panneau d'Administration de Magento",module,Magento_Backend
 "Magento ver. %1","Magento ver. %1",module,Magento_Backend
 "Mail Sending Settings","Paramètres d'envoi des emails",module,Magento_Backend
-"Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/","Assurez-vous que l'URL se termine par un '/' (slash), ex: http://yourdomain/magento/",module,Magento_Backend
+"Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/","Assurez-vous que l'URL se termine par un '/' (slash), ex : http://yourdomain/magento/",module,Magento_Backend
 "Manage Stores","Gérer les Magasins",module,Magento_Backend
 "Marketing","Marketing",module,Magento_Backend
 "Mass Actions","Actions de masse",module,Magento_Backend

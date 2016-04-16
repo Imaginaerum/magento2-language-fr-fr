@@ -4,10 +4,10 @@
 "Check / Money Order","Chèque / Liquide",module,Magento_OfflinePayments
 "Enabled","Activé",module,Magento_OfflinePayments
 "Instructions","Instructions",module,Magento_OfflinePayments
-"Make Check payable to: %1","Chèque libellé à l'ordre de: %1",module,Magento_OfflinePayments
+"Make Check payable to: %1","Chèque libellé à l'ordre de : %1",module,Magento_OfflinePayments
 "Make Check payable to","Chèque libellé à l'ordre de",module,Magento_OfflinePayments
 "Make Check Payable to","Chèque libellé à l'ordre de",module,Magento_OfflinePayments
-"Make Check payable to:","Chèque libellé à l'ordre de:",module,Magento_OfflinePayments
+"Make Check payable to:","Chèque libellé à l'ordre de :",module,Magento_OfflinePayments
 "Maximum Order Total","Montant maximum de la commande",module,Magento_OfflinePayments
 "Minimum Order Total","Montant Total Minimum de Commande",module,Magento_OfflinePayments
 "New Order Status","Statut de la Nouvelle Commande",module,Magento_OfflinePayments
