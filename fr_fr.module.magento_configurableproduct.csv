@@ -126,7 +126,7 @@
 "Selected Attributes:","Attributs sélectionnés :",module,Magento_ConfigurableProduct
 "Select options for all attributes or remove unused attributes.","Sélectionnez les options pour tous les attributs ou supprimer les attributs inutilisés.",module,Magento_ConfigurableProduct
 "Select values from each attribute to include in this product. Each unique combination of values creates a unigue product SKU.","Sélectionnez les valeurs pour chaque attribut à inclure pour ce produit. Chaque combinaison créera un SKU produit unique.",module,Magento_ConfigurableProduct
-"Skip image uploading at this time","Passer l'étape d'upload d'images",module,Magento_ConfigurableProduct
+"Skip image uploading at this time","Passer l'étape de chargement d'images",module,Magento_ConfigurableProduct
 "Skip price at this time","Passer l'étape du prix",module,Magento_ConfigurableProduct
 "Skip quantity at this time","Passer l'étape de la quantité",module,Magento_ConfigurableProduct
 "SKU","SKU",module,Magento_ConfigurableProduct

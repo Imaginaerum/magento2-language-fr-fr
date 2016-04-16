@@ -470,11 +470,11 @@
 "Shop now using (150 X 60)","Magasin utilisant maintenant (150 X 60)",module,Magento_Paypal
 "Shortcut","Raccourci",module,Magento_Paypal
 "Shortcut Buttons Flavor","Boutons de raccourci Flavor",module,Magento_Paypal
-"Shortcut on Product View","Raccourci sur le produit Voir",module,Magento_Paypal
-"Shortcut on Shopping Cart","Raccourci sur le panier",module,Magento_Paypal
+"Shortcut on Product View","Raccourci vers la vue produit",module,Magento_Paypal
+"Shortcut on Shopping Cart","Raccourci vers le panier",module,Magento_Paypal
 "Sidebar (right)","Barre latérale (droite)",module,Magento_Paypal
-"Sign a billing agreement to streamline further purchases with PayPal.","Signez un entente de facturation afin de rationaliser davantage les achats avec PayPal.",module,Magento_Paypal
-"Sign a billing agreement to streamline further purchases  with PayPal.","Signez un entente de facturation afin de rationaliser davantage les achats avec PayPal.",module,Magento_Paypal
+"Sign a billing agreement to streamline further purchases with PayPal.","Signez une entente de facturation afin de rationaliser davantage les achats avec PayPal.",module,Magento_Paypal
+"Sign a billing agreement to streamline further purchases  with PayPal.","Signez une entente de facturation afin de rationaliser davantage les achats avec PayPal.",module,Magento_Paypal
 "Size","Taille",module,Magento_Paypal
 "Skip Order Review Step","Passer la revue de la commande",module,Magento_Paypal
 "Some PayPal solutions conflict.","Les solutions PayPal sont en conflit.",module,Magento_Paypal

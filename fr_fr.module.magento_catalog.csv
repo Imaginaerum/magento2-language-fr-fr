@@ -619,7 +619,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Small Image","Petite image",module,Magento_Catalog
 "Some of the selected item options are not currently available.","Certaines options ne sont pas actuellement disponibles.",module,Magento_Catalog
 "Something went wrong adding products to websites.","Erreur lors de l'ajouts de produits aux sites web.",module,Magento_Catalog
-"Something went wrong  clearing the comparison list.","Une erreur s'est produite lors de la vidange de la liste de comparaison.",module,Magento_Catalog
+"Something went wrong  clearing the comparison list.","Une erreur s'est produite lors du vidage de la liste de comparaison.",module,Magento_Catalog
 "Something went wrong removing products from the websites.","Une erreur s'est produite lors de la suppression des produits depuis les sites web.",module,Magento_Catalog
 "Something went wrong saving the attribute.","Une erreur s'est produite lors de la sauvegarde de l'attribut.",module,Magento_Catalog
 "Something went wrong saving the URL rewite.","Une erreur s'est produite lors de la sauvegarde de réécriture d'URL.",module,Magento_Catalog

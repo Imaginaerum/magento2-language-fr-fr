@@ -468,7 +468,7 @@
 "Single-Store Mode","Mode ""mono-boutique""",module,Magento_Backend
 "Skip Category Selection","Passer la sélection de catégorie",module,Magento_Backend
 "SKU","SKU",module,Magento_Backend
-"Something went wrong. Please try again.","Une erreur s'est Produite. Veuillez réessayer.",module,Magento_Backend
+"Something went wrong. Please try again.","Une erreur s'est produite. Veuillez réessayer.",module,Magento_Backend
 "Something went wrong while saving. Please review the error log.","Une erreur s'est produite lors de la sauvegarde. Veuillez vérifier le journal des erreurs.",module,Magento_Backend
 "Sorry, the default display currency you selected in not available in allowed currencies.","La devise par défaut choisie n'est pas disponible dans la liste des devises autorisées.",module,Magento_Backend
 "Sorry, we haven't installed the base currency you selected.","Désolé, nous avons pas installé la devise de base que vous avez sélectionnée.",module,Magento_Backend
