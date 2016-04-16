@@ -228,7 +228,7 @@
 "Price is too large","Prix trop grand",module,Magento_Braintree
 "Private Key","Clé Privée",module,Magento_Braintree
 "Processor Authorization Code","Code d'autorisation du service de paiement",module,Magento_Braintree
-"Processor authorization code cannot be set unless for a voice authorization.","Le code d'autorisation du service de paiement ne peut être défini à moins qu'il s'agisse d'un paiement par téléphone.",module,Magento_Braintree
+"Processor authorization code cannot be set unless for a voice authorization.","Le code d'autorisation du service de paiement ne peut être défini à moins qu'il ne s'agisse d'un paiement par téléphone.",module,Magento_Braintree
 "Processor authorization code is invalid","Code d'autorisation du service de paiement invalide",module,Magento_Braintree
 "Processor decline","Refus du service de paiement",module,Magento_Braintree
 "Processor network error","Erreur réseau du service de paiement",module,Magento_Braintree

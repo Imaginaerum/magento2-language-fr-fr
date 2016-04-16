@@ -104,7 +104,7 @@
 "Price Display Settings","Paramètres d'affichage du prix",module,Magento_Tax
 "Priority","Priorité",module,Magento_Tax
 "product","produit",module,Magento_Tax
-"Product Tax Class","Classes de taxe produit",module,Magento_Tax
+"Product Tax Class","Classe de taxe produit",module,Magento_Tax
 "Range From","Tranche à partir de",module,Magento_Tax
 "Range To","Tranche jusqu'à",module,Magento_Tax
 "Range To should be equal or greater than Range From.","Jusqu'à doit être supérieur ou égal à jusque.",module,Magento_Tax

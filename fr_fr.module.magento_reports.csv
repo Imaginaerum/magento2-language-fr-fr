@@ -140,9 +140,9 @@
 "Product Reviews Report","Rapport des avis produits",module,Magento_Reports
 "Products","Produits",module,Magento_Reports
 "Products Bestsellers Report","Rapport des meilleures ventes",module,Magento_Reports
-"Products in Cart","Produits dans les paniers",module,Magento_Reports
-"Products in Carts","Produits dans des paniers",module,Magento_Reports
-"Products in carts","Produits dans des paniers",module,Magento_Reports
+"Products in Cart","Produits dans le panier",module,Magento_Reports
+"Products in Carts","Produits dans les paniers",module,Magento_Reports
+"Products in carts","Produits dans les paniers",module,Magento_Reports
 "Products Most Viewed Report","Rapport des produits les plus vus",module,Magento_Reports
 "Products Ordered","Produits commandés",module,Magento_Reports
 "Products Report","Rapport produits",module,Magento_Reports
@@ -159,7 +159,7 @@
 "Recently Viewed","Vu récemment",module,Magento_Reports
 "Recently Viewed/Compared Products","Produits récemment consultés/comparés",module,Magento_Reports
 "Recently Viewed Products","Derniers Produits Consultés",module,Magento_Reports
-"Recent statistics have been updated.","Les statistiques récentes ont été mise à jour.",module,Magento_Reports
+"Recent statistics have been updated.","Les statistiques récentes ont été mises à jour.",module,Magento_Reports
 "Refresh","Rafraîchir",module,Magento_Reports
 "Refresh Lifetime Statistics","Rafraichir les statistiques depuis le début",module,Magento_Reports
 "Refresh Statistics","Actualiser les statistiques",module,Magento_Reports

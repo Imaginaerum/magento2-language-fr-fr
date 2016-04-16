@@ -503,7 +503,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Price as configured:","Prix ​​de cette configuration :",module,Magento_Catalog
 "Price Type","Type de Prix",module,Magento_Catalog
 "Print This Page","Imprimer cette page",module,Magento_Catalog
-"Product %1 doesn't have linked %2 as %3","Le produit %1 n'a pas pu être liée au %2 ainsi qu'au %3",module,Magento_Catalog
+"Product %1 doesn't have linked %2 as %3","Le produit %1 n'a pas pu être lié ni au %2 ni au %3",module,Magento_Catalog
 "Product","Produit",module,Magento_Catalog
 "Product Alerts","Alertes du produit",module,Magento_Catalog
 "Product Attributes","Attributs de produit",module,Magento_Catalog
@@ -534,8 +534,8 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Products per Page on Grid Default Value","Valeur par défaut pour le nombre de produits par page dans l'affichage en grille",module,Magento_Catalog
 "Products per Page on List Allowed Values","Valeurs autorisées pour le nombre de produits par page dans l'affichage en liste",module,Magento_Catalog
 "Products per Page on List Default Value","Valeur par défaut pour le nombre de produits par page dans l'affichage en liste",module,Magento_Catalog
-"Product Template","Gabarit Produit",module,Magento_Catalog
-"Product Templates","Gabarit Produit",module,Magento_Catalog
+"Product Template","Gabarit produit",module,Magento_Catalog
+"Product Templates","Gabarits produit",module,Magento_Catalog
 "Product Thumbnail Itself","Vignette du produit lui-même",module,Magento_Catalog
 "Product URL Suffix","Suffixe d'URL des Produits",module,Magento_Catalog
 "Product with SKU ""%1"" does not exist","Le produit avec le SKU ""%1"" n'existe pas",module,Magento_Catalog

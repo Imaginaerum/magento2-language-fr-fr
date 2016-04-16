@@ -57,7 +57,7 @@
 "PayPal response hasn't required fields.","La réponse de PayPal ne comporte pas les champs obligatoires.",deprecated,Imaginaerum
 "Please specify product's required option(s).","Veuillez préciser les options produit requises.",deprecated,Imaginaerum
 "<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Print receipt</a>","<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Imprimer le reçu</a>",deprecated,Imaginaerum
-"Product %1 doesn't have linked %2 as %3","Le produit %1 n'a pas pu être liée au %2 ainsi qu'au %3",deprecated,Imaginaerum
+"Product %1 doesn't have linked %2 as %3","Le produit %1 n'a pas pu être lié ni au %2 ni au %3",deprecated,Imaginaerum
 "Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3","Le produit n'a pas de prix de groupe avec ces données : customerGroupId = '%1', site = %2, quantité = %3",deprecated,Imaginaerum
 "Product type of the product must be 'downloadable'.","Le type du produit doit être ""téléchargeable"".",deprecated,Imaginaerum
 "Rating isn't Available","Les notations ne sont pas activées",deprecated,Imaginaerum

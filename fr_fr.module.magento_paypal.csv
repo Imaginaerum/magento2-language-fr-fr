@@ -413,7 +413,7 @@
 "Postage Payment to either USPS or UPS","Paiement d'affranchissement à USPS ou UPS",module,Magento_Paypal
 "Preapproved Payment (BillUser API), either sent or received","Paiement pré-approuvé (API BillUser), envoyé ou reçu",module,Magento_Paypal
 "Preapproved Payment (BillUser API, either sent or received","Paiement pré-approuvé (API BillUser), envoyé ou reçu",module,Magento_Paypal
-"Preapproved Payment ID","Paiement pré-approuvés ID",module,Magento_Paypal
+"Preapproved Payment ID","ID paiement pré-approuvé",module,Magento_Paypal
 "Price","Prix",module,Magento_Paypal
 "Process payments using your own internet merchant account.","Traiter les paiements en utilisant votre propre compte marchand Internet.",module,Magento_Paypal
 "Product Name","Nom du produit",module,Magento_Paypal
@@ -427,15 +427,15 @@
 "Reference ID","Référence ID",module,Magento_Paypal
 "Reference ID:","Référence ID :",module,Magento_Paypal
 "Reference Information","Information sur la référence",module,Magento_Paypal
-"Reimbursement for a chargeback.","Remboursement des frais de rejet de débit.",module,Magento_Paypal
-"Reimbursement of Chargeback","Remboursement des rejets de débit",module,Magento_Paypal
+"Reimbursement for a chargeback.","Remboursement des frais de rejet.",module,Magento_Paypal
+"Reimbursement of Chargeback","Remboursement de frais de rejet",module,Magento_Paypal
 "Reject Transaction if:","Rejeter la transaction si :",module,Magento_Paypal
 "Related Orders","Les commandes connexes",module,Magento_Paypal
 "Report Date","Date du rapport",module,Magento_Paypal
 "Reports","Rapports",module,Magento_Paypal
 "Requested payment method does not match with order.","La méthode de paiement ne correspond pas avec celle de la commande.",module,Magento_Paypal
 "Require Customer's Billing Address","Nécessite l'adresse de facturation du client",module,Magento_Paypal
-"Require CVV Entry","Entrée CVV Exiger",module,Magento_Paypal
+"Require CVV Entry","Entrée CVV exigée",module,Magento_Paypal
 "Required PayPal Settings","Réglages PayPal requis",module,Magento_Paypal
 "Required to display a banner","Nécessaire pour afficher une bannière",module,Magento_Paypal
 "Reversal","Inversion",module,Magento_Paypal
