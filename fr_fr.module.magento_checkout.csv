@@ -71,7 +71,7 @@
 "For delivery questions.","Pour des questions concernant la livraison.",module,Magento_Checkout
 "Forgot an Item?","Vous avez oublié un article ?",module,Magento_Checkout
 "Forgot Password","Mot de passe oublié",module,Magento_Checkout
-"Forgot Your Password?","Mot de passe oublié?",module,Magento_Checkout
+"Forgot Your Password?","Mot de passe oublié ?",module,Magento_Checkout
 "Get a Quote","Obtenir une estimation",module,Magento_Checkout
 "Go to Checkout","Procéder au paiement",module,Magento_Checkout
 "Guest checkout is disabled.","La passage de commande Invité est désactivé.",module,Magento_Checkout

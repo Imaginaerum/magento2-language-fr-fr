@@ -201,9 +201,9 @@
 "Excl. Tax","HT",module,Magento_Sales
 "Fetch","Rapporter",module,Magento_Sales
 "Find Order By","Chercher une commande par",module,Magento_Sales
-"Find Order By:","Chercher une commande par:",module,Magento_Sales
+"Find Order By:","Chercher une commande par :",module,Magento_Sales
 "First Name","Prénom",module,Magento_Sales
-"From:","De:",module,Magento_Sales
+"From:","De :",module,Magento_Sales
 "From","De",module,Magento_Sales
 "From Name","De la part de",module,Magento_Sales
 "General","Général",module,Magento_Sales

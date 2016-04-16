@@ -34,7 +34,7 @@
 "First Name is a required field.","Prénom est un champ obligatoire.",module,Magento_User
 "Forced","Forcé",module,Magento_User
 "Force Sign-In","Forcer l'enregistrement",module,Magento_User
-"Forgot your password?","Mot de passe oublié?",module,Magento_User
+"Forgot your password?","Mot de passe oublié ?",module,Magento_User
 "Forgot your user name or password?","Nom d'utilisateur ou mot de passe oublié ?",module,Magento_User
 "ID","ID",module,Magento_User
 "If there is an account associated with %1 you will receive an email with a link to reset your password.","S'il y a un compte associé à l'adresse %1, vous recevrez un email avec un lien pour réinitialiser votre mot de passe.",module,Magento_User

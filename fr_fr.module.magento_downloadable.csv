@@ -26,7 +26,7 @@
 "Edit item parameters","Éditer les paramètres de l'article",module,Magento_Downloadable
 "Excl. Tax","HT",module,Magento_Downloadable
 "File","Fichier",module,Magento_Downloadable
-"From:","De:",module,Magento_Downloadable
+"From:","De :",module,Magento_Downloadable
 "Gift Message","Message Cadeau",module,Magento_Downloadable
 "[GLOBAL]","[GLOBAL]",module,Magento_Downloadable
 "Go to <a href=""%1"">My Downloadable Products</a>","Aller à <a href=""%1"">Mes produits téléchargeables</a>",module,Magento_Downloadable

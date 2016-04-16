@@ -291,7 +291,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Fixed","Fixé",module,Magento_Catalog
 "fl","fl",module,Magento_Catalog
 "For internal use","Pour un usage interne",module,Magento_Catalog
-"For internal use. Must be unique with no spaces. Maximum length of attribute code must be less than %1 symbols","Pour usage interne: Doit être unique et sans espaces. La longueur maximale du code de l'attribut doit être de %1 caractères",module,Magento_Catalog
+"For internal use. Must be unique with no spaces. Maximum length of attribute code must be less than %1 symbols","Pour usage interne : doit être unique et sans espaces. La longueur maximale du code de l'attribut doit être de %1 caractères",module,Magento_Catalog
 "For the last time placed.","Lors de la dernière requête.",module,Magento_Catalog
 "<label class=""label""><span>from</span></label>","<label class=""label""><span>du</span></label>",module,Magento_Catalog
 "Frontend","Frontend",module,Magento_Catalog

@@ -18,7 +18,7 @@
 "Enable RSS","Activer le flux RSS",module,Magento_Rss
 "Error in processing xml. %1","Erreur traitement xml. %1",module,Magento_Rss
 "Feed","Flux",module,Magento_Rss
-"From:","De:",module,Magento_Rss
+"From:","De :",module,Magento_Rss
 "Get Feed","Récupérer le Flux",module,Magento_Rss
 "Gift Message","Message Cadeau",module,Magento_Rss
 "Grand Total","Montant Total",module,Magento_Rss

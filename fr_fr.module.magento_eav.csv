@@ -68,7 +68,7 @@
 "Entity is not initialized","L'entité n'est pas initialisée",module,Magento_Eav
 "Entity object is undefined","L'objet entité n'est pas défini",module,Magento_Eav
 "Entity types declaration cache.","Cache de déclaration des types d'entité.",module,Magento_Eav
-"For internal use. Must be unique with no spaces. Maximum length of attribute code must be less than %1 symbols","Pour usage interne: Doit être unique et sans espaces. La longueur maximale du code de l'attribut doit être de %1 caractères",module,Magento_Eav
+"For internal use. Must be unique with no spaces. Maximum length of attribute code must be less than %1 symbols","Pour usage interne : doit être unique et sans espaces. La longueur maximale du code de l'attribut doit être de %1 caractères",module,Magento_Eav
 "Form code is not defined","Le code du formulaire n'est pas défini",module,Magento_Eav
 "Form Element with the same attribute","Il existe déjà un élément de formulaire avec le même attribut",module,Magento_Eav
 "Form Fieldset with the same code","Il existe déjà un groupe de champs de formulaire avec le même code",module,Magento_Eav

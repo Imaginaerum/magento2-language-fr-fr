@@ -61,7 +61,7 @@
 "File was not uploaded","Le fichier n'a pas été chargé",module,Magento_ImportExport
 "File was not uploaded.","Le fichier n'a pas été chargé.",module,Magento_ImportExport
 "Filter","Filtre",module,Magento_ImportExport
-"Following Error(s) has been occurred during importing process:","Une succession d'erreurs se sont produites pendant le processus d'importation:",module,Magento_ImportExport
+"Following Error(s) has been occurred during importing process:","Une succession d'erreurs se sont produites pendant le processus d'importation :",module,Magento_ImportExport
 "For Type ""Local Server"" use relative path to Magento installation, e.g. var/export, var/import, var/export/some/dir","Pour le type ""Serveur Local"" Utiliser un chemin par rapport à l'installation Magento,
                                 ex. var/export, var/import, var/export/some/dir",module,Magento_ImportExport
 "For Type ""Local Server"" use relative path to Magento installation,
