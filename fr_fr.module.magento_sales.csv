@@ -249,7 +249,7 @@
 "Invoice","Facture",module,Magento_Sales
 "Invoice and Packing Slip Design","Design de facture et de bordereau de livraison",module,Magento_Sales
 "Invoice and Ship","Facturer et expédier",module,Magento_Sales
-"Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.","Les types de facture et d'expédition ne correspondent pas à certains articles de cette commande. Vous pouvez créer l'expédition uniquement après la création d'une facture.",module,Magento_Sales
+"Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.","Les types de facture et d'expédition ne correspondent pas à certains articles de cette commande. Vous pouvez créer l'expédition uniquement après avoir créé une facture.",module,Magento_Sales
 "Invoice canceling error","Erreur lors de l'annulation de la facture",module,Magento_Sales
 "Invoice capturing error","Erreur lors de la capture de la facture",module,Magento_Sales
 "Invoice Comment Email Sender","Expéditeur du mail de commentaire de facture",module,Magento_Sales
@@ -266,7 +266,7 @@
 "Invoice Totals","Totaux de la facture",module,Magento_Sales
 "Invoice voiding error","Error lors de l'annulation de la facture",module,Magento_Sales
 "IPN ""Refunded"". Refund issued by merchant. Registered notification about refunded amount of %1. Transaction ID: ""%2""","IPN ""Remboursement"". Remboursement émis par le marchand. Notifications sur le montant du remboursement %1. ID Transaction: ""%2""",module,Magento_Sales
-"IPN ""Refunded"". Refund issued by merchant. Registered notification about refunded amount of %1. Transaction ID: ""%2"". Credit Memo has not been created. Please create offline Credit Memo.","IPN ""Remboursement"". Rembourssement émis par le marchand. Notification sauvegardée concerant le montant remboursé de %1. ID de transaction : ""%2"". L'avoir n'a pas été créé. Veuillez créer un avoir hors ligne.",module,Magento_Sales
+"IPN ""Refunded"". Refund issued by merchant. Registered notification about refunded amount of %1. Transaction ID: ""%2"". Credit Memo has not been created. Please create offline Credit Memo.","IPN ""Remboursement"". Remboursement émis par le marchand. Notification sauvegardée concernant le montant remboursé de %1. ID de transaction : ""%2"". L'avoir n'a pas été créé. Veuillez créer un avoir hors ligne.",module,Magento_Sales
 "Is Closed","Est fermé",module,Magento_Sales
 "Item","article",module,Magento_Sales
 "Item ordered qty","Qté commandée",module,Magento_Sales

@@ -263,7 +263,7 @@
 "Invalid %1. %2","Invalide %1. %2",module,Magento_Backend
 "Invalidated","Invalidé",module,Magento_Backend
 "Invalid export type supplied for grid export block","Le type d'exportation est invalide",module,Magento_Backend
-"Invalid Form Key. Please refresh the page.","Clé de Formulaire Invalide. Veuillez Actualiser la page.",module,Magento_Backend
+"Invalid Form Key. Please refresh the page.","Clé de formulaire invalide. Veuillez actualiser la page.",module,Magento_Backend
 "invalid request","requête invalide",module,Magento_Backend
 "Inventory Stock Status","Statut du stock de l'inventaire",module,Magento_Backend
 "IP Address","Adresse IP",module,Magento_Backend

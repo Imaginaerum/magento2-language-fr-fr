@@ -165,7 +165,7 @@
 "Invalid venmo sdk payment method code","Code de la méthode de paiement venmo sdk invalide",module,Magento_Braintree
 "Invalid verification merchant account ID","Vérification ID compte marchand invalide",module,Magento_Braintree
 "Invoice","Facture",module,Magento_Braintree
-"Is Default","Par Défaut",module,Magento_Braintree
+"Is Default","Par défaut",module,Magento_Braintree
 "Issue Number","Numéro de problème",module,Magento_Braintree
 "Last Name","Nom",module,Magento_Braintree
 "Last name is invalid","Nom invalide",module,Magento_Braintree

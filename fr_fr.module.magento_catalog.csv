@@ -349,8 +349,8 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Invalid option id %1","Option id %1 invalide",module,Magento_Catalog
 "Invalid product data: %1","Données de produit invalides : %1",module,Magento_Catalog
 "Is Active","Activée",module,Magento_Catalog
-"Is Anchor","Is Anchor",module,Magento_Catalog
-"Is Default","Par Défaut",module,Magento_Catalog
+"Is Anchor","Ancrée",module,Magento_Catalog
+"Is Default","Par défaut",module,Magento_Catalog
 "Is this downloadable Product?","Est-ce un produit téléchargeable ?",module,Magento_Catalog
 "Item Price","Prix de l'article",module,Magento_Catalog
 "Items %1-%2 of %3","Produits %1-%2 sur %3",module,Magento_Catalog
