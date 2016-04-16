@@ -392,7 +392,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Mass Actions","Actions de masse",module,Magento_Catalog
 "Max Characters","Nombre maxi de caractères",module,Magento_Catalog
 "Maximal Depth","Profondeur maxi",module,Magento_Catalog
-"Maximum 255 chars","255 caractères minimum",module,Magento_Catalog
+"Maximum 255 chars","255 caractères maximum",module,Magento_Catalog
 "Maximum allowed image size for '%1' is %2x%3 px.","La taille image maximale autorisée pour '%1' est %2x%3 px.",module,Magento_Catalog
 "Maximum image height","Hauteur maximum d'image",module,Magento_Catalog
 "Maximum Image Size","Taille d'image maximum",module,Magento_Catalog
