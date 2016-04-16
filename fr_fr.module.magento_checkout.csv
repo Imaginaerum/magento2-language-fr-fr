@@ -74,7 +74,7 @@
 "Forgot Your Password?","Mot de passe oublié ?",module,Magento_Checkout
 "Get a Quote","Obtenir une estimation",module,Magento_Checkout
 "Go to Checkout","Procéder au paiement",module,Magento_Checkout
-"Guest checkout is disabled.","La passage de commande Invité est désactivé.",module,Magento_Checkout
+"Guest checkout is disabled.","Le passage de commande invité est désactivé.",module,Magento_Checkout
 "If you believe it is the right one you can ignore this notice.","Si vous pensez que c\'est nécessaire, vous pouvez ignorer cet avis.",module,Magento_Checkout
 "Incl. Tax","TTC",module,Magento_Checkout
 "Invalid data","Données invalides",module,Magento_Checkout

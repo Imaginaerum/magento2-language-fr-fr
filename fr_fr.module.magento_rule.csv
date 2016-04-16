@@ -14,7 +14,7 @@
 "equals or less than","est inférieur(e) ou égal(e) à",module,Magento_Rule
 "FALSE","FAUSSES",module,Magento_Rule
 "greater than","est supérieur(e) à",module,Magento_Rule
-"If %1 of these conditions are %2:","Si %1 ces conditions sont %2:",module,Magento_Rule
+"If %1 of these conditions are %2:","Si %1 de ces conditions sont %2 :",module,Magento_Rule
 "Invalid discount amount.","Montant de remise invalide.",module,Magento_Rule
 "is","est égal(e) à",module,Magento_Rule
 "is not","est différent(e) de",module,Magento_Rule

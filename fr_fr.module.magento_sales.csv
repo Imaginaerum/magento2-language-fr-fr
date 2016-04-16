@@ -226,7 +226,7 @@
 "Group was removed","Groupe supprimé",module,Magento_Sales
 "Guest","Invité",module,Magento_Sales
 "Hide Customer IP","Masquer l'adresse IP du Client",module,Magento_Sales
-"hold","Bloquer",module,Magento_Sales
+"hold","bloquer",module,Magento_Sales
 "Hold","Bloquer",module,Magento_Sales
 "Home","Accueil",module,Magento_Sales
 "ID","ID",module,Magento_Sales

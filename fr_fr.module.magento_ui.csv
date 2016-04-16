@@ -15,7 +15,7 @@
 "Empty Value.","Valeur vide.",module,Magento_Ui
 "Go to Details Page","Aller à la page des détails",module,Magento_Ui
 "HTML tags are not allowed.","Les balises HTML ne sont pas autorisées.",module,Magento_Ui
-"If enabled, can be used by functional tests for extended reporting","Si activé, peut être utilisé par les tests fonctionnels pour les rapports etendus",module,Magento_Ui
+"If enabled, can be used by functional tests for extended reporting","Si activé, peut être utilisé par les tests fonctionnels pour les rapports étendus",module,Magento_Ui
 "Initialization error component, check the spelling of the name or the correctness of the call.","Erreur lors de l'initialisation du composant, vérifier l'orthographe du nom ou l'exactitude de l'appel.",module,Magento_Ui
 "Invalid format.","Format invalide.",module,Magento_Ui
 "Keyword","Mot clé",module,Magento_Ui
