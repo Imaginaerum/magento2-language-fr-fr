@@ -57,7 +57,7 @@
 "Priority Overnight","Le lendemain (prioritaire)",module,Magento_Fedex
 "Regular Pickup","Ramassage régulier",module,Magento_Fedex
 "Request Courier","Demander un coursier",module,Magento_Fedex
-"Residential Delivery","Residential Delivery",module,Magento_Fedex
+"Residential Delivery","Livraison à domicile",module,Magento_Fedex
 "Sandbox Mode","Mode Sandbox",module,Magento_Fedex
 "Ship to Applicable Countries","Livrer dans les pays applicables",module,Magento_Fedex
 "Ship to Specific Countries","Livrer dans des pays spécifiques",module,Magento_Fedex

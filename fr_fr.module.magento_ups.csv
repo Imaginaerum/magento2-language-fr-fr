@@ -55,7 +55,7 @@
 "Pickup Method","Retrait",module,Magento_Ups
 "Pounds","Livres",module,Magento_Ups
 "Required for negotiated rates; 6-character UPS","Obligatoire pour les tarifs négociés ; UPS 6 caractères",module,Magento_Ups
-"Residential","Residential",module,Magento_Ups
+"Residential","Domicile",module,Magento_Ups
 "Shipper Number","Numéro du livreur",module,Magento_Ups
 "Ship to Applicable Countries","Livrer dans les pays applicables",module,Magento_Ups
 "Ship to Specific Countries","Livrer dans des pays spécifiques",module,Magento_Ups

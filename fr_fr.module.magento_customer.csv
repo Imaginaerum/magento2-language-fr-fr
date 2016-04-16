@@ -389,7 +389,7 @@
 "Reset a Password","Réinitialiser un mot de passe",module,Magento_Customer
 "Reset Password","Réinitialiser le mot de passe",module,Magento_Customer
 "Reset Password Template","Gabarit de réinitialisation de mot de passe",module,Magento_Customer
-"Reset password token expired.","Réinitialisation du mot de passe expiré.",module,Magento_Customer
+"Reset password token expired.","Réinitialisation du mot de passe expirée.",module,Magento_Customer
 "Reset password token mismatch.","Le jeton de réinitialisation de mot de passe ne correspond pas.",module,Magento_Customer
 "Sales Statistics","Statistiques de ventes",module,Magento_Customer
 "Save","Sauvegarder",module,Magento_Customer
@@ -399,8 +399,8 @@
 "Save Customer Group","Sauvegarder le groupe clients",module,Magento_Customer
 "See order and shipping status","Voir le statut de la commande et de l'expédition",module,Magento_Customer
 "Select...","Choisir...",module,Magento_Customer
-"Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.","Valeurs séparées par des point-virgule (;).<br/>Commencez par un point-virgule pour une première option vide.<br/>Laisser vide pour un champ texte.",module,Magento_Customer
-" Send auto-generated password","   Envoyé un mot de passe généré",module,Magento_Customer
+"Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.","Valeurs séparées par des points-virgules (;).<br>Commencez par un point-virgule pour une première option vide.<br>Laisser vide pour un champ texte.",module,Magento_Customer
+" Send auto-generated password"," Envoyer un mot de passe généré automatiquement",module,Magento_Customer
 "Send confirmation link","Envoyer un lien de confirmation",module,Magento_Customer
 "Send From","Envoyé de",module,Magento_Customer
 "Sending","Envoi en cours",module,Magento_Customer

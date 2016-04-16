@@ -436,7 +436,7 @@
 "Search Engine Optimization","Optimisation pour les moteurs de recherche",module,Magento_Backend
 "Search Index","Index de Recherche",module,Magento_Backend
 "Search String","Chaîne de Recherche",module,Magento_Backend
-"Search strings are either normal strings or regular exceptions (PCRE). They are matched in the same order as entered. Examples:<br /><span style=""font-family:monospace"">Firefox<br />/^mozilla/i</span>","Les recherches sont des chaines de caractères ou des expressions régulière (PCRE). Elles correspondent à leur ordre de saisie. Exemples : <br><span style=""font-family:monospace"">Firefox<br>/^mozilla/i</span>",module,Magento_Backend
+"Search strings are either normal strings or regular exceptions (PCRE). They are matched in the same order as entered. Examples:<br /><span style=""font-family:monospace"">Firefox<br />/^mozilla/i</span>","Les recherches sont des chaines de caractères ou des expressions régulières (PCRE). Elles correspondent à leur ordre de saisie. Exemples : <br><span style=""font-family:monospace"">Firefox<br>/^mozilla/i</span>",module,Magento_Backend
 "Search Term","Terme de recherche",module,Magento_Backend
 "Secure Base Link URL","URL de base sécurisée",module,Magento_Backend
 "Secure Base URL","URL de base sécurisée",module,Magento_Backend

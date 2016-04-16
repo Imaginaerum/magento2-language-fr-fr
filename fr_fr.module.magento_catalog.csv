@@ -594,7 +594,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Select Product","Sélectionner un Produit",module,Magento_Catalog
 "Select Product Actions","Choisir les actions produit",module,Magento_Catalog
 "Select type of option.","Sélectionnez le type d'option.",module,Magento_Catalog
-"Select type options required values rows.","Sélectionner les lignes des valeurs obligatoires des options.",module,Magento_Catalog
+"Select type options required values rows.","Sélectionner les lignes de valeurs obligatoires des options.",module,Magento_Catalog
 "Select Visible","Sélectionner les éléments visibles",module,Magento_Catalog
 "Select ""Yes"" to add this attribute to the list of column options in the product grid.","Sélectionnez ""Oui"" pour ajouter cet attribut à la liste des options de colonne de la grille produit.",module,Magento_Catalog
 "Select ""Yes"" to add this attribute to the list of filter options in the product grid.","Sélectionnez ""Oui"" pour ajouter cet attribut à la liste des options de filtre dans la grille produit.",module,Magento_Catalog
