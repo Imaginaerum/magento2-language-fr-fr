@@ -409,13 +409,13 @@
 "PDF Shipments","PDF des Expéditions",module,Magento_Sales
 "Pending","En attente",module,Magento_Sales
 "Pending Payment","En attente de paiement",module,Magento_Sales
-"Pending Payment Order Lifetime (minutes)","Durée de vie des commande en attente de paiement (minutes)",module,Magento_Sales
+"Pending Payment Order Lifetime (minutes)","Durée de vie des commandes en attente de paiement (minutes)",module,Magento_Sales
 "Phone","Téléphone",module,Magento_Sales
 "Phone Number","Numéro de téléphone",module,Magento_Sales
 "Placed from IP","Adresse IP",module,Magento_Sales
 "Placed on <span class=""no-link"">%created_at</span>","Passée le <span class=""no-link"">%created_at</span>",module,Magento_Sales
 "Please correct the parent block for this block.","Veuillez corriger le bloc parent de ce bloc.",module,Magento_Sales
-"Please correct the transaction ID and try again.","Veuillez corriger l'identifiant de la transaction et essayez à nouveau.",module,Magento_Sales
+"Please correct the transaction ID and try again.","Veuillez corriger l'identifiant de la transaction et essayer à nouveau.",module,Magento_Sales
 "Please define the PDF object before using.","Veuillez définir un objet PDF avant de l'utiliser.",module,Magento_Sales
 "Please enter a comment.","Veuillez saisir un commentaire.",module,Magento_Sales
 "Please enter a positive number in this field.","Veuillez renseigner un nombre positif dans ce champ.",module,Magento_Sales

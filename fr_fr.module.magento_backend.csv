@@ -357,8 +357,8 @@
 "Please confirm scope switching. All data that hasn't been saved will be lost.","Confirmez-vous le changement de site ? Toutes les données non sauvegardées seront perdues.",module,Magento_Backend
 "Please correct the column format and try again.","Veuillez corriger le format colonne et essayez à nouveau.",module,Magento_Backend
 "Please correct the email address: ""%1"".","Veuillez corriger l'adresse email : ""%1"".",module,Magento_Backend
-"Please correct the tab configuration and try again.","Veuillez corriger la configuration de l'onglet et essayez à nouveau.",module,Magento_Backend
-"Please correct the tab configuration and try again. Tab Id should be not empry","Veuillez corriger la configuration de l'onglet et essayez à nouveau. L'ID de l'onglet ne devrait pas être vide",module,Magento_Backend
+"Please correct the tab configuration and try again.","Veuillez corriger la configuration de l'onglet et essayer à nouveau.",module,Magento_Backend
+"Please correct the tab configuration and try again. Tab Id should be not empry","Veuillez corriger la configuration de l'onglet et essayer à nouveau. L'ID de l'onglet ne devrait pas être vide",module,Magento_Backend
 "Please correct the timezone.","Veuillez corriger le fuseau horaire.",module,Magento_Backend
 "Please enter 6 or more characters.","Veuillez saisir au moins 6 caractères.",module,Magento_Backend
 "Please enter a number 1 or greater in this field.","Veuillez saisir un nombre supérieur ou égal à 1.",module,Magento_Backend
@@ -370,7 +370,7 @@
 "Please enter a valid number in this field.","Veuillez saisir un nombre valide.",module,Magento_Backend
 "Please enter a valid password.","Veuillez saisir un mot de passe valide.",module,Magento_Backend
 "Please enter a valid phone number (for example, (123) 456-7890 or 123-456-7890).","Veuillez saisir un numéro de téléphone valide.",module,Magento_Backend
-"Please enter a valid social security number (for example, 123-45-6789).","Veuillez saisir un numéro de sécurité sociale valide. Par exemple 123-45-6789.",module,Magento_Backend
+"Please enter a valid social security number (for example, 123-45-6789).","Veuillez renseigner un numéro de sécurité sociale valide (ex : 1-68-04-10-115-045-97).",module,Magento_Backend
 "Please enter a valid URL (for examples, http://www.example.com or www.example.com).","Veuillez saisir une URL valide (par exemple, http://www.example.com ou www.example.com).",module,Magento_Backend
 "Please enter a valid URL (for example, the URL must begin with ""http://"").","Veuillez saisir une URL valide (doit commencer par ""http://"").",module,Magento_Backend
 "Please enter a valid zip code.","Veuillez saisir un code postal valide.",module,Magento_Backend

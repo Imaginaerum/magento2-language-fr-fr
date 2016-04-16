@@ -56,7 +56,7 @@
 "Please choose to register or to checkout as a guest","Choisissez de vous enregistrer ou de passer votre commande en tant qu'invité",module,Magento_Translation
 "Please enter 6 or more characters. Leading or trailing spaces will be ignored.","Veuillez saisir au moins 6 caractères. Les espaces en début ou en fin de chaîne seront ignorés.",module,Magento_Translation
 "Please enter 7 or more characters. Password should contain both numeric and alphabetic characters.","Veuillez saisir au moins 7 caractères. Le mot de passe doit contenir à la fois des caractères numériques et alphabétiques.",module,Magento_Translation
-"Please enter a date between %min and %max.","Veuillez renseigner une Date comprise entre %min et %max.",module,Magento_Translation
+"Please enter a date between %min and %max.","Veuillez renseigner une date comprise entre %min et %max.",module,Magento_Translation
 "Please enter a date in the past.","Veuillez saisir une date dans le passé.",module,Magento_Translation
 "Please enter a number 0 or greater in this field.","Veuillez saisir un nombre supérieur ou égal à 0 dans ce champ.",module,Magento_Translation
 "Please enter a number greater than 0 in this field.","Veuillez saisir un nombre supérieur à 0 dans ce champ.",module,Magento_Translation
@@ -70,7 +70,7 @@
 "Please enter a valid full date","Veuillez saisir une date complète valide",module,Magento_Translation
 "Please enter a valid month (1-12).","Veuillez saisir un mois valide (1-12).",module,Magento_Translation
 "Please enter a valid number in this field.","Veuillez saisir un nombre valide.",module,Magento_Translation
-"Please enter a valid social security number. For example 123-45-6789.","Veuillez saisir un numéro de sécurité sociale valide. Par exemple 123-45-6789.",module,Magento_Translation
+"Please enter a valid social security number. For example 123-45-6789.","Veuillez renseigner un numéro de sécurité sociale valide (ex : 1-68-04-10-115-045-97).",module,Magento_Translation
 "Please enter a valid URL Key. For example ""example-page"", ""example-page.html"" or ""anotherlevel/example-page"".","Veuillez saisir une URL valide. Par exemple ""page-exemple"", ""page-exemple.html"" ou ""niveau/page-exemple"".",module,Magento_Translation
 "Please enter a valid URL. Protocol is required (http://, https:// or ftp://)","Veuillez renseigner une URL valide. Le protocole est obligatoire (http://, https:// ou ftp://)",module,Magento_Translation
 "Please enter a valid XML-identifier. For example something_1, block5, id-4.","Veuillez saisir un identifiant XML valide. Par exemple, quelquechose_1, bloc5, id-4.",module,Magento_Translation
