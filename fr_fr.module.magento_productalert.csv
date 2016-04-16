@@ -9,7 +9,7 @@
 "Error Email Sender","Expéditeur du mail d'erreur",module,Magento_ProductAlert
 "Error Email Template","Gabarit du mail d'erreur",module,Magento_ProductAlert
 "Frequency","Fréquence",module,Magento_ProductAlert
-"In stock alert! We wanted you to know that these products are now available:","Produits en stock! Nous vous informons que les produits suivants sont à nouveau en stock:",module,Magento_ProductAlert
+"In stock alert! We wanted you to know that these products are now available:","Produits en stock ! Nous vous informons que les produits suivants sont à nouveau en stock :",module,Magento_ProductAlert
 "Invalid block type: %1","Type de bloc invalide: %1",module,Magento_ProductAlert
 "%name,","%name,",module,Magento_ProductAlert
 "Price:","Prix :",module,Magento_ProductAlert

@@ -77,14 +77,14 @@
 "Import data validation is complete.","La validation des données pour l'importation est terminée.",module,Magento_ImportExport
 "Imported File","Fichier importé",module,Magento_ImportExport
 "Import/Export","Importer/Exporter",module,Magento_ImportExport
-"ImportExport: Import Data validation - Validation strategy not found","ImportExport: Validation des données d'import - stratégie de validation introuvable",module,Magento_ImportExport
+"ImportExport: Import Data validation - Validation strategy not found","ImportExport : Validation des données d'import - stratégie de validation introuvable",module,Magento_ImportExport
 "Import has been done successfuly.","Import réalisé avec succès.",module,Magento_ImportExport
 "Import History","Historique d'import",module,Magento_ImportExport
 "Import history","Historique d'import",module,Magento_ImportExport
 "Import Settings","Paramètres d'import",module,Magento_ImportExport
 "Import successfully done","Importation terminée avec succès",module,Magento_ImportExport
 "in rows","dans les lignes",module,Magento_ImportExport
-"in rows:","dans les lignes:",module,Magento_ImportExport
+"in rows:","dans les lignes :",module,Magento_ImportExport
 "Invalid behavior token for %1","Je ton de comportement invalide pour %1",module,Magento_ImportExport
 "label","libellé",module,Magento_ImportExport
 "Make sure your file isn't more than %1M.","Assurez-vous que votre fichier ne dépasse pas %1Mo.",module,Magento_ImportExport

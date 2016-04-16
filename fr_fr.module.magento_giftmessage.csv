@@ -21,7 +21,7 @@
 "Gift Options for Individual Items","Options cadeau pour les articles individuels",module,Magento_GiftMessage
 "Gift Options for the Entire Order","Options cadeau pour toute la commande",module,Magento_GiftMessage
 "Gift Options for this address.","Options cadeau pour cette adresse.",module,Magento_GiftMessage
-"If you don't want to leave a gift message for the entire order, leave this box blank.","Si vous ne souhaitez pas laisser de message cadeau pour la globalité de la commande veuillez laisser ce champ vide.",module,Magento_GiftMessage
+"If you don't want to leave a gift message for the entire order, leave this box blank.","Si vous ne souhaitez pas laisser de message cadeau pour la globalité de la commande, veuillez laisser ce champ vide.",module,Magento_GiftMessage
 "Item %1 of %2","Article %1 sur %2",module,Magento_GiftMessage
 "<span>Item %1</span> of %2","<span>Article %1</span> sur %2",module,Magento_GiftMessage
 "Leave a box blank if you don't want to add a gift message for that item.","Laisser ce champ vide si vous ne voulez pas laisser un message cadeau pour cet article.",module,Magento_GiftMessage

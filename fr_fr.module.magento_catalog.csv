@@ -329,7 +329,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Import","Importer",module,Magento_Catalog
 "Import Options","Options d'import",module,Magento_Catalog
 "In Cart","Dans le panier",module,Magento_Catalog
-"Incl. Tax:","TTC:",module,Magento_Catalog
+"Incl. Tax:","TTC :",module,Magento_Catalog
 "Include in Navigation Menu","Inclure dans le menu de navigation",module,Magento_Catalog
 "Inc. Tax","TTC",module,Magento_Catalog
 "Indexed category/products association","Index des associations catégorie/produits",module,Magento_Catalog

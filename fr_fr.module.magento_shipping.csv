@@ -57,7 +57,7 @@
 "Height","Hauteur",module,Magento_Shipping
 "in","in",module,Magento_Shipping
 "Incl. Tax","TTC",module,Magento_Shipping
-"Info:","Info:",module,Magento_Shipping
+"Info:","Info :",module,Magento_Shipping
 "Invalid carrier: %1","Transporteur invalide : %1",module,Magento_Shipping
 "Invalid value(s) for Qty to Ship","Quantité(s) à expédier invalide(s)",module,Magento_Shipping
 "Items in the Package","Articles dans le paquet",module,Magento_Shipping

@@ -38,7 +38,7 @@
 "ID","ID",module,Magento_Bundle
 "Id field of product link is required","Le champ ID pour lier le produit est obligatoire",module,Magento_Bundle
 "Incl. Tax","TTC",module,Magento_Bundle
-"Incl. Tax:","TTC:",module,Magento_Bundle
+"Incl. Tax:","TTC :",module,Magento_Bundle
 "Input Type","Type de Saisie",module,Magento_Bundle
 "In stock","En Stock",module,Magento_Bundle
 "Invoiced","Facturé",module,Magento_Bundle

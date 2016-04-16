@@ -242,7 +242,7 @@
 "If not specified, Default Country from General Config will be used","S'il n'est pas spécifié, le pays par défaut dans la configuration générale sera utilisé",module,Magento_Paypal
 "If this option is enabled, customer can change shipping address and shipping method on PayPal website. In live mode works via HTTPS protocol only.","Si cette option est activée, le client peut changer l'adresse de livraison et le mode d'expédition sur le site de PayPal. Fonctionnement en mode direct via le protocole HTTPS uniquement.",module,Magento_Paypal
 "If you do not have multiple users set up on your account, please re-enter your Vendor/Merchant Login here.","Si vous ne disposez pas de plusieurs utilisateurs mis en place sur votre compte, veuillez entrer de nouveau votre login Vendeur/ Marchand ici.",module,Magento_Paypal
-"Important: ","Important: ",module,Magento_Paypal
+"Important: ","Important : ",module,Magento_Paypal
 "I'm sorry - but we are not able to complete your transaction. Please contact us so we can assist you.","Nous ne sommes pas en mesure de compléter votre transaction. Veuillez nous contacter afin que nous puissions vous aider.",module,Magento_Paypal
 "I'm sorry - but we are not able to complete your transaction. Please contact us so we can assist you.","Nous ne sommes pas en mesure de compléter votre transaction. Veuillez nous contacter afin que nous puissions vous aider.",module,Magento_Paypal
 "I'm sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you.","Nous ne sommes pas en mesure de traiter votre paiement. Veuillez essayer une autre méthode de paiement ou contactez-nous afin que nous puissions vous aider.",module,Magento_Paypal
