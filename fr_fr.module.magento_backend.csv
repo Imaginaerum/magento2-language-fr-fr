@@ -350,7 +350,7 @@
 "password","Mot de passe",module,Magento_Backend
 "Password:","Mot de passe :",module,Magento_Backend
 "Password","Mot de passe",module,Magento_Backend
-"Password Confirmation","Confirmation du Mot de Passe",module,Magento_Backend
+"Password Confirmation","Confirmation du mot de passe",module,Magento_Backend
 "per page","par page",module,Magento_Backend
 "Personal Information","Informations personnelles",module,Magento_Backend
 "Please confirm scope switching. All data that hasn't been saved will be lost.","Confirmez-vous le changement de site ? Toutes les données non sauvegardées seront perdues.",module,Magento_Backend

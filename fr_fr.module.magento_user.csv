@@ -62,7 +62,7 @@
 "No","Non",module,Magento_User
 "Password","Mot de passe",module,Magento_User
 "Password Change","Changement de mot de passe",module,Magento_User
-"Password Confirmation","Confirmation du Mot de Passe",module,Magento_User
+"Password Confirmation","Confirmation du mot de passe",module,Magento_User
 "Password Help","Aide mot de passe",module,Magento_User
 "Password is required field.","Mot de passe est un champ obligatoire.",module,Magento_User
 "Password Lifetime (days)","Durée de vie du mot de passe (en jours)",module,Magento_User
