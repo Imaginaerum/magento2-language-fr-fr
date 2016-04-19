@@ -1,4 +1,4 @@
-"Allow Cookies","Autoriser les Cookies",module,Magento_Cookie
+"Allow Cookies","Autoriser les cookies",module,Magento_Cookie
 "Cookie Domain","Domaine du cookie",module,Magento_Cookie
 "Cookie Lifetime","Durée de vie des cookies",module,Magento_Cookie
 "Cookie Path","Chemin du Cookie",module,Magento_Cookie

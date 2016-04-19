@@ -6,7 +6,7 @@
 "Add Products to Package","Ajouter des Produits au Colis",module,Magento_Shipping
 "Add Selected Product(s) to Package","Ajouter les produits sélectionnés au paquet",module,Magento_Shipping
 "Add Tracking Number","Ajouter un numéro de suivi",module,Magento_Shipping
-"All Allowed Countries","Tous les Pays Autorisés",module,Magento_Shipping
+"All Allowed Countries","Tous les pays autorisés",module,Magento_Shipping
 "An error occurred while creating shipping label.","Erreur lors de la création de l'étiquette de livraison.",module,Magento_Shipping
 "Append Comments","Ajouter les commentaires",module,Magento_Shipping
 "Apply custom Shipping Policy","Appliquer des conditions de livraison personnalisées",module,Magento_Shipping

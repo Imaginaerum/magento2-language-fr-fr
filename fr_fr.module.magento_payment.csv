@@ -1,5 +1,5 @@
 "%1 class doesn't implement MagentoPaymentModelMethodInterface","%1 n'implemente pas l'interface MagentoPaymentModelMethodInterface",module,Magento_Payment
-"All Allowed Countries","Tous les Pays Autorisés",module,Magento_Payment
+"All Allowed Countries","Tous les pays autorisés",module,Magento_Payment
 "Card Verification Number","Numéro de cryptogramme",module,Magento_Payment
 "Card Verification Number Visual Reference","Référence visuelle numérique de vérification de carte",module,Magento_Payment
 "Command %1 does not exist.","La commande %1 n'existe pas.",module,Magento_Payment

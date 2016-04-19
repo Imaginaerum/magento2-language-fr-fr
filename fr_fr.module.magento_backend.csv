@@ -40,7 +40,7 @@
 "All Cache","Tous les caches",module,Magento_Backend
 "All Countries","Tous les pays",module,Magento_Backend
 "All Files","Tous les Fichiers",module,Magento_Backend
-"Allow Countries","Autoriser les Pays",module,Magento_Backend
+"Allow Countries","Autoriser les pays",module,Magento_Backend
 "Allowed IPs (comma separated)","IPs autorisées (séparées par des virgules)",module,Magento_Backend
 "Allows customers to stay logged in when switching between different stores.","Permet aux clients de rester connectés s'ils naviguent entre les différents magasins.",module,Magento_Backend
 "Allow Symlinks","Autoriser les Liens Symboliques",module,Magento_Backend

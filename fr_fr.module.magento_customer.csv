@@ -49,7 +49,7 @@
 "Admin","Admin",module,Magento_Customer
 "All","Tous",module,Magento_Customer
 "All countries","Tous les pays",module,Magento_Customer
-"All Customers","Tous les Clients",module,Magento_Customer
+"All Customers","Tous les clients",module,Magento_Customer
 "All Store Views","Toutes les Vues Magasin",module,Magento_Customer
 "A login and a password are required.","Un identifiant et un mot de passe sont nécessaires.",module,Magento_Customer
 "Always optional.","Toujours optionnel.",module,Magento_Customer
@@ -128,7 +128,7 @@
 "Customer Configuration","Configuration client",module,Magento_Customer
 "Customer could not be deleted.","Le client ne peut être supprimé.",module,Magento_Customer
 "Customer email is required","L'email du client est obligatoire",module,Magento_Customer
-"Customer Grid","Grille Client",module,Magento_Customer
+"Customer Grid","Grille client",module,Magento_Customer
 "Customer Group","Groupe de clients",module,Magento_Customer
 "Customer Group:","Groupe de clients :",module,Magento_Customer
 "Customer Group already exists.","Le groupe clients existe déjà.",module,Magento_Customer
@@ -159,7 +159,7 @@
 "Default Welcome Email Without Password","Email de bienvenue par défaut sans mot de passe",module,Magento_Customer
 "Delete","Supprimer",module,Magento_Customer
 "Delete Address","Supprimer l'adresse",module,Magento_Customer
-"Delete Customer","Supprimer le Client",module,Magento_Customer
+"Delete Customer","Supprimer le client",module,Magento_Customer
 "Delete Customer Group","Supprimer le groupe de clients",module,Magento_Customer
 "Deleted Stores","Magasins effacés",module,Magento_Customer
 "Delete File","Supprimer le Fichier",module,Magento_Customer
