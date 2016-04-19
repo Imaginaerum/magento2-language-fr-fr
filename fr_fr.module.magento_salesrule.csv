@@ -115,9 +115,9 @@
 "Rule is not defined","La règle n'est pas définie",module,Magento_SalesRule
 "Rule Name","Nom de la Règle",module,Magento_SalesRule
 "Save and Continue Edit","Sauvegarder et continuer à modifier",module,Magento_SalesRule
-"Shipping Country","Pays de Livraison",module,Magento_SalesRule
-"Shipping Method","Méthode de Livraison",module,Magento_SalesRule
-"Shipping Postcode","Code Postal de Livraison",module,Magento_SalesRule
+"Shipping Country","Pays de livraison",module,Magento_SalesRule
+"Shipping Method","Méthode de livraison",module,Magento_SalesRule
+"Shipping Postcode","Code postal de livraison",module,Magento_SalesRule
 "Shipping Region","Région de livraison",module,Magento_SalesRule
 "Shipping State/Province","État/région de livraison",module,Magento_SalesRule
 "Shopping Cart Price Rule","Règle de prix panier",module,Magento_SalesRule

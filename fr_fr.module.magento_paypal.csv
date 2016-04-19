@@ -463,7 +463,7 @@
 "SFTP Credentials","Informations d'accès SFTP",module,Magento_Paypal
 "Shipping Address","Adresse de livraison",module,Magento_Paypal
 "Shipping Information","Informations de livraison",module,Magento_Paypal
-"Shipping Method","Méthode de Livraison",module,Magento_Paypal
+"Shipping Method","Méthode de livraison",module,Magento_Paypal
 "Ship To","Livré à",module,Magento_Paypal
 "Ship-to Name","Nom de livraison",module,Magento_Paypal
 "Shop now using (150 X 40)","Magasin utilisant maintenant (150 X 40)",module,Magento_Paypal

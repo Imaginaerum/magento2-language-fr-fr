@@ -218,7 +218,7 @@
 "Please try again with another form of payment.","Veuillez réessayer plus tard avec une autre méthode de paiement.",module,Magento_Braintree
 "Please wait 24 hours before trying to issue a partial refund.","Veuillez attendre 24 heures avant d'essayer de régler un remboursement partiel.",module,Magento_Braintree
 "Please wait 24 hours before trying to issue a refund or use Void option.","Veuillez patienter 24 heures avant de retenter un remboursement ou utilisez une option d'annulation.",module,Magento_Braintree
-"Postal Code","Code Postal",module,Magento_Braintree
+"Postal Code","Code postal",module,Magento_Braintree
 "Postal code can only contain letters, numbers, spaces, and hyphens.","Le code postal ne peut contenir que des lettres, nombres, espaces et traits d'union.",module,Magento_Braintree
 "Postal code is invalid","Code postal invalide",module,Magento_Braintree
 "Postal code is required.","Code postal requis.",module,Magento_Braintree

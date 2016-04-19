@@ -136,7 +136,7 @@
 "Create New Order for New Customer in %1","Créer une nouvelle commande pour un nouveau client dans %1",module,Magento_Sales
 "Create New Order Status","Créer un nouveau statut de commande",module,Magento_Sales
 "Create New Status","Créer un Statut",module,Magento_Sales
-"Create Shipment","Créer la Livraison",module,Magento_Sales
+"Create Shipment","Créer la livraison",module,Magento_Sales
 "Credit memo #%1 comment added","Commentaire ajouté pour l'avoir #%1",module,Magento_Sales
 "Credit memo #%1 created","Avoir #%1 créé",module,Magento_Sales
 "Credit Memo #%1 | %3 | %2 (%4)","Avoir #%1 | %3 | %2 (%4)",module,Magento_Sales
@@ -541,7 +541,7 @@
 "Shipment Comment Email Sender","Expéditeur du mail de commentaire de livraison",module,Magento_Sales
 "Shipment Comment Email Template","Gabarit du mail de commentaire de livraison",module,Magento_Sales
 "Shipment Comment Email Template for Guest","Gabarit de mail de commentaire d'expédition pour un invité",module,Magento_Sales
-"Shipment Comments","Commentaires de Livraison",module,Magento_Sales
+"Shipment Comments","Commentaires de livraison",module,Magento_Sales
 "Shipment Email Sender","Expéditeur du mail d'expédition",module,Magento_Sales
 "Shipment Email Template","Gabarit de mail de livraison",module,Magento_Sales
 "Shipment Email Template for Guest","Gabarit de mail d'expédition pour un invité",module,Magento_Sales
@@ -557,10 +557,10 @@
 "Shipping Excl. Tax (%1)","Livraison HT (%1)",module,Magento_Sales
 "Shipping & Handling","Frais de port",module,Magento_Sales
 "Shipping Incl. Tax (%1)","Livraison TTC (%1)",module,Magento_Sales
-"Shipping Info","Informations de Livraison",module,Magento_Sales
+"Shipping Info","Informations de livraison",module,Magento_Sales
 "Shipping Information","Informations de livraison",module,Magento_Sales
-"Shipping Method","Méthode de Livraison",module,Magento_Sales
-"Shipping Method:","Méthode de Livraison :",module,Magento_Sales
+"Shipping Method","Méthode de livraison",module,Magento_Sales
+"Shipping Method:","Méthode de livraison :",module,Magento_Sales
 "Shipping Refund","Remboursement de la livraison",module,Magento_Sales
 "Ship To","Livré à",module,Magento_Sales
 "Ship to:","Livré à :",module,Magento_Sales

@@ -170,8 +170,8 @@
 "Shipping Address","Adresse de livraison",module,Magento_Checkout
 "Shipping address is not set","L'adresse de livraison n'est pas configurée",module,Magento_Checkout
 "Shipping Information","Informations de livraison",module,Magento_Checkout
-"Shipping Method","Méthode de Livraison",module,Magento_Checkout
-"Shipping Method:","Méthode de Livraison :",module,Magento_Checkout
+"Shipping Method","Méthode de livraison",module,Magento_Checkout
+"Shipping Method:","Méthode de livraison :",module,Magento_Checkout
 "Shipping method has not been selected yet","Le mode de livraison n'a pas encore été choisi",module,Magento_Checkout
 "Shipping method is not applicable for empty cart","La méthode d'expédition n'est pas applicable à un panier vide",module,Magento_Checkout
 "Ship To:","Livré à :",module,Magento_Checkout

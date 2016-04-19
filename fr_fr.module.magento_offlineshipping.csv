@@ -2,7 +2,7 @@
 "Condition","Condition",module,Magento_OfflineShipping
 "Country","Pays",module,Magento_OfflineShipping
 "Displayed Error Message","Message d'erreur affiché",module,Magento_OfflineShipping
-"Duplicate Row #%1 (Country ""%2"", Region/State ""%3"", Zip ""%4"" and Value ""%5"")","Ligne #%1 dupliquée (Pays ""%2"", Région/Etat ""%3"", Code postal ""%4"" et Valeur ""%5"")",module,Magento_OfflineShipping
+"Duplicate Row #%1 (Country ""%2"", Region/State ""%3"", Zip ""%4"" and Value ""%5"")","Ligne #%1 dupliquée (Pays ""%2"", Région/Etat ""%3"", code postal ""%4"" et Valeur ""%5"")",module,Magento_OfflineShipping
 "Enabled","Activé",module,Magento_OfflineShipping
 "Export","Exporter",module,Magento_OfflineShipping
 "Export CSV","Export CSV",module,Magento_OfflineShipping

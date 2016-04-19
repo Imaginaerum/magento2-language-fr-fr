@@ -413,7 +413,7 @@
 "Set as Default Billing Address","Définir comme adresse de facturation par défaut",module,Magento_Customer
 "Set as Default Shipping Address","Définir comme adresse de livraison par défaut",module,Magento_Customer
 "Share Customer Accounts","Partager les comptes client",module,Magento_Customer
-"Shipped-to Name","Expédié à Nom",module,Magento_Customer
+"Shipped-to Name","Expédié à",module,Magento_Customer
 "Shipping Address","Adresse de livraison",module,Magento_Customer
 "Ship-to Name","Nom de livraison",module,Magento_Customer
 "Shopping Cart - %1 item(s)","Panier - %1 article(s)",module,Magento_Customer

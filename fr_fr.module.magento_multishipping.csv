@@ -21,7 +21,7 @@
 "Continue to Review Your Order","Poursuivre pour vérifier votre commande",module,Magento_Multishipping
 "Continue to Shipping Information","Poursuivre vers les informations de livraison",module,Magento_Multishipping
 "Create Billing Address","Créer une adresse de Facturation",module,Magento_Multishipping
-"Create Shipping Address","Créer une adresse de Livraison",module,Magento_Multishipping
+"Create Shipping Address","Créer une adresse de livraison",module,Magento_Multishipping
 "Data saving problem","Problème lors de la sauvegarde des données",module,Magento_Multishipping
 "Default Billing","Facturation par défaut",module,Magento_Multishipping
 "Default Shipping","Livraison par défaut",module,Magento_Multishipping
@@ -73,7 +73,7 @@
 "Send To","Envoyer à",module,Magento_Multishipping
 "Shipping Information","Informations de livraison",module,Magento_Multishipping
 "Shipping is not applicable.","Méthode de livraison non applicable.",module,Magento_Multishipping
-"Shipping Method","Méthode de Livraison",module,Magento_Multishipping
+"Shipping Method","Méthode de livraison",module,Magento_Multishipping
 "Shipping Methods","Modes de livraison",module,Magento_Multishipping
 "Shipping selection is not applicable.","Le choix de livraison n'est pas applicable.",module,Magento_Multishipping
 "Shipping To","Livraison à",module,Magento_Multishipping

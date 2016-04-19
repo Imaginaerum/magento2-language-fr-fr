@@ -96,7 +96,7 @@
 "Please specify a carrier.","Veuillez spécifier un transporteur.",module,Magento_Shipping
 "Print","Imprimer",module,Magento_Shipping
 "Print All Shipments","Imprimer toutes les livraisons",module,Magento_Shipping
-"Print Shipment","Imprimer la Livraison",module,Magento_Shipping
+"Print Shipment","Imprimer la livraison",module,Magento_Shipping
 "Print Shipping Label","Imprimer l'étiquette de livraison",module,Magento_Shipping
 "Product","Produit",module,Magento_Shipping
 "Product Name","Nom du produit",module,Magento_Shipping
@@ -116,8 +116,8 @@
 "Ship","Expédier",module,Magento_Shipping
 "Shipment #%1 | %3 (%2)","Expédition #%1 | %3 (%2)",module,Magento_Shipping
 "Shipment #","Expédition #",module,Magento_Shipping
-"Shipment Comments","Commentaires de Livraison",module,Magento_Shipping
-"Shipment History","Historique de Livraison",module,Magento_Shipping
+"Shipment Comments","Commentaires de livraison",module,Magento_Shipping
+"Shipment History","Historique de livraison",module,Magento_Shipping
 "Shipment Options","Options d'Expédition",module,Magento_Shipping
 "Shipments","Expéditions",module,Magento_Shipping
 "Shipment Total","Total de l'expédition",module,Magento_Shipping
