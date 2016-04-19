@@ -33,7 +33,7 @@
 "Default Title","Titre par défaut",module,Magento_Theme
 "Default welcome msg!","Message d'accueil par défaut !",module,Magento_Theme
 "Delete File","Supprimer le fichier",module,Magento_Theme
-"Delete Folder","Supprimer le Dossier",module,Magento_Theme
+"Delete Folder","Supprimer le dossier",module,Magento_Theme
 "Display Demo Store Notice","Afficher le message d'avertissement de boutique de démo",module,Magento_Theme
 "Download CSS File","Télécharger un fichier CSS",module,Magento_Theme
 "Edit custom.css","Modifier custom.css",module,Magento_Theme

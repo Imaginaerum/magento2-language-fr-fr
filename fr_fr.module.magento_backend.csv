@@ -218,7 +218,7 @@
 "File extension not known or unsupported type.","Extension de fichier non reconnue ou non supportée.",module,Magento_Backend
 "File System","Système de fichiers",module,Magento_Backend
 "Find a string in client user-agent header and switch to specific design theme for that browser.","Analyse une chaîne dans l'en-tête ""User-Agent"" par le navigateur client et sélectionne un design spécifique pour ce navigateur.",module,Magento_Backend
-"First Day of Week","Premier Jour de la Semaine",module,Magento_Backend
+"First Day of Week","Premier jour de la Semaine",module,Magento_Backend
 "First Name","Prénom",module,Magento_Backend
 "Flush Cache Storage","Vider le cache",module,Magento_Backend
 "Flush Catalog Images Cache","Vider le cache des images du catalogue",module,Magento_Backend

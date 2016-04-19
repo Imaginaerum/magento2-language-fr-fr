@@ -6,7 +6,7 @@
 "Base Only","Image de base uniquement",module,Magento_Sitemap
 "Catalog","Catalogue",module,Magento_Sitemap
 "Categories Options","Options pour les catégories",module,Magento_Sitemap
-"CMS Pages Options","Options pour les Pages CMS",module,Magento_Sitemap
+"CMS Pages Options","Options pour les pages CMS",module,Magento_Sitemap
 "Daily","Quotidien",module,Magento_Sitemap
 "Edit Sitemap","Modifier le plan de site",module,Magento_Sitemap
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée.",module,Magento_Sitemap

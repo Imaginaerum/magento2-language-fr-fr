@@ -38,7 +38,7 @@
 "Any","TOUT",module,Magento_Sales
 "A payment method must be specified.","Une méthode de paiement doit être spécifiée.",module,Magento_Sales
 "A PDF object is not specified.","L'objet PDF n'est pas spécifié.",module,Magento_Sales
-"A PDF page object is not specified.","La Page PDF n'est pas spécifié.",module,Magento_Sales
+"A PDF page object is not specified.","La page PDF n'est pas spécifié.",module,Magento_Sales
 "Append Comments","Ajouter les commentaires",module,Magento_Sales
 "Applies to Any of the Specified Order Statuses","S'applique à tous les statuts de commande spécifiés",module,Magento_Sales
 "Applies to Any of the Specified Order Statuses except canceled orders","Applique à tous les statuts de commande spécifiés hormis les commandes annulées",module,Magento_Sales

@@ -1,7 +1,7 @@
 "A block identifier with the same properties already exists in the selected store.","Il existe déjà un identifiant de bloc ayant les mêmes propriétés dans la boutique sélectionnée.",module,Magento_Cms
 "Action","Action",module,Magento_Cms
 "Add New Block","Ajouter un Nouveau Bloc",module,Magento_Cms
-"Add New Page","Ajouter une nouvelle Page",module,Magento_Cms
+"Add New Page","Ajouter une nouvelle page",module,Magento_Cms
 "All Store Views","Toutes les vues magasin",module,Magento_Cms
 "Anchor Custom Text","Présenter un texte personnalisé",module,Magento_Cms
 "Anchor Custom Title","Présenter un titre personnalisé",module,Magento_Cms
@@ -26,7 +26,7 @@
 "CMS No Cookies Page","Page CMS quand les cookies sont désactivés",module,Magento_Cms
 "CMS No Route Page","Page CMS de ressource non trouvée",module,Magento_Cms
 "CMS Page","Page CMS",module,Magento_Cms
-"CMS Page Link","Lien Page CMS",module,Magento_Cms
+"CMS Page Link","Lien page CMS",module,Magento_Cms
 "CMS Page Link Block Template","Gabarit du bloc lien page CMS",module,Magento_Cms
 "CMS Page Link Inline Template","Gabarit du bloc lien en ligne CMS",module,Magento_Cms
 "CMS Page with id ""%1"" does not exist.","La page CMS id ""%1"" n'existe pas.",module,Magento_Cms
@@ -53,9 +53,9 @@
 "Delete ""${ $.$data.title }""","Supprimer ${ $.$data.title }",module,Magento_Cms
 "Delete ${ $.$data.title }","Supprimer ${ $.$data.title }",module,Magento_Cms
 "Delete File","Supprimer le fichier",module,Magento_Cms
-"Delete Folder","Supprimer le Dossier",module,Magento_Cms
+"Delete Folder","Supprimer le dossier",module,Magento_Cms
 "Delete items","Supprimer les éléments",module,Magento_Cms
-"Delete Page","Supprimer la Page",module,Magento_Cms
+"Delete Page","Supprimer la page",module,Magento_Cms
 "Description","Description",module,Magento_Cms
 "Design","Design",module,Magento_Cms
 "Details","Détails",module,Magento_Cms
@@ -67,8 +67,8 @@
 "Edit","Modifier",module,Magento_Cms
 "Edit Block '%1'","Modifier le bloc '%1'",module,Magento_Cms
 "Edit Block","Modifier le bloc",module,Magento_Cms
-"Edit Page '%1'","Modifier la Page '%1'",module,Magento_Cms
-"Edit Page","Modifier la Page",module,Magento_Cms
+"Edit Page '%1'","Modifier la page '%1'",module,Magento_Cms
+"Edit Page","Modifier la page",module,Magento_Cms
 "Elements","Éléments",module,Magento_Cms
 "Enable","Activer",module,Magento_Cms
 "Enabled","Activé",module,Magento_Cms
@@ -104,7 +104,7 @@
 "Page Layout","Agencement de page",module,Magento_Cms
 "Pages","Pages",module,Magento_Cms
 "Page Status","Statut de la page",module,Magento_Cms
-"Page Title","Titre de la Page",module,Magento_Cms
+"Page Title","Titre de la page",module,Magento_Cms
 "Please correct the data sent.","Veuillez rectifier les données envoyées.",module,Magento_Cms
 "Please correct the folder name. Use only letters, numbers, underscores and dashes.","Veuillez saisir un nom de répertoire correct. Utilisez seulement des lettres, nombres, underscores et tirets.",module,Magento_Cms
 "Please rename the folder using only letters, numbers, underscores and dashes.","Veuillez renommer le dossier à l'aide des lettres, des chiffres, des underscores et des tirets.",module,Magento_Cms
@@ -116,10 +116,10 @@
 "RuntimeException","RuntimeException",module,Magento_Cms
 "Save and Continue Edit","Sauvegarder et continuer à modifier",module,Magento_Cms
 "Save Block","Sauvegarder le Bloc",module,Magento_Cms
-"Save Page","Sauvegarder la Page",module,Magento_Cms
+"Save Page","Sauvegarder la page",module,Magento_Cms
 "Schedule","Tâches Programmées",module,Magento_Cms
 "Select Block...","Sélectionnez un Bloc...",module,Magento_Cms
-"Select Page...","Choisissez une Page...",module,Magento_Cms
+"Select Page...","Choisissez une page...",module,Magento_Cms
 "Show Breadcrumbs for CMS Pages","Afficher le fil d'Ariane pour les pages CMS",module,Magento_Cms
 "Show Notice if JavaScript is Disabled","Afficher un message si javascript est désactivé",module,Magento_Cms
 "Show Notice if Local Storage is Disabled","Afficher un message si le stockage local est désactivé",module,Magento_Cms

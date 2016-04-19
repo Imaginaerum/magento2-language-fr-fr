@@ -174,12 +174,12 @@
 "Error processing payment, please try again later.","Erreur sur le traitement du paiement, veuillez essayer plus tard.",module,Magento_Paypal
 "Event","Événement",module,Magento_Paypal
 "Event Code","Code Événement",module,Magento_Paypal
-"Every 3 days","Tous les 3 Jours",module,Magento_Paypal
-"Every 7 days","Tous les 7 Jours",module,Magento_Paypal
-"Every 10 days","Tous les 10 Jours",module,Magento_Paypal
-"Every 14 days","Tous les 14 Jours",module,Magento_Paypal
-"Every 30 days","Tous les 30 Jours",module,Magento_Paypal
-"Every 40 days","Tous les 40 Jours",module,Magento_Paypal
+"Every 3 days","Tous les 3 jours",module,Magento_Paypal
+"Every 7 days","Tous les 7 jours",module,Magento_Paypal
+"Every 10 days","Tous les 10 jours",module,Magento_Paypal
+"Every 14 days","Tous les 14 jours",module,Magento_Paypal
+"Every 30 days","Tous les 30 jours",module,Magento_Paypal
+"Every 40 days","Tous les 40 jours",module,Magento_Paypal
 "Exact Match.","Correspondance Exacte.",module,Magento_Paypal
 "Exact Match. Address and nine-digit ZIP code","Correspondance exacte. Adresse et code postal à neuf chiffres",module,Magento_Paypal
 "Exact Match. Address and Postal Code. International","Correspondance exacte. Adresse et code postal. International",module,Magento_Paypal
@@ -320,8 +320,8 @@
 "Now accepting PayPal (150 X 40)","Nous acceptons désormais PayPal (150 X 40)",module,Magento_Paypal
 "Now accepting PayPal (150 X 60)","Nous acceptons désormais PayPal (150 X 60)",module,Magento_Paypal
 "Number of Child Authorizations","Nombre d'autorisations enfants",module,Magento_Paypal
-"Once you log into your PayPal Advanced account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Une fois connecté à votre compte PayPal Advanced, accédez aux paramètres de service - Hosted Checkout Pages - menu de configuration et définissez les options décrites ci-dessous",module,Magento_Paypal
-"Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Une fois connecté à votre compte PayPal Payflow Link, accédez aux paramètres de service - Hosted Checkout Pages - Menu configuration et définissez les options décrites ci-dessous",module,Magento_Paypal
+"Once you log into your PayPal Advanced account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Une fois connecté à votre compte PayPal Advanced, accédez aux paramètres de service - Hosted Checkout pages - menu de configuration et définissez les options décrites ci-dessous",module,Magento_Paypal
+"Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Une fois connecté à votre compte PayPal Payflow Link, accédez aux paramètres de service - Hosted Checkout pages - Menu configuration et définissez les options décrites ci-dessous",module,Magento_Paypal
 "Open Authorization","Ouvrez l'autorisation",module,Magento_Paypal
 "or","ou",module,Magento_Paypal
 "Order","Commande",module,Magento_Paypal
