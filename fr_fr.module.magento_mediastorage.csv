@@ -2,10 +2,10 @@
 "database ""%1""","base de données ""%1""",module,Magento_MediaStorage
 "Database","Base de données",module,Magento_MediaStorage
 "Environment Update Time","Temps de mise à jour de l'environnement",module,Magento_MediaStorage
-"File %1 does not exist","Le Fichier %1 n'existe pas",module,Magento_MediaStorage
-"File %1 is not readable","Le Fichier %1 n'est pas lisible",module,Magento_MediaStorage
-"File System","Système de Fichiers",module,Magento_MediaStorage
-"File system","Système de Fichiers",module,Magento_MediaStorage
+"File %1 does not exist","Le fichier %1 n'existe pas",module,Magento_MediaStorage
+"File %1 is not readable","Le fichier %1 n'est pas lisible",module,Magento_MediaStorage
+"File System","Système de fichiers",module,Magento_MediaStorage
+"File system","Système de fichiers",module,Magento_MediaStorage
 "File with an extension ""%value%"" is protected and cannot be uploaded","Le fichier avec l'extension ""%value%"" est protégé et ne peut pas être chargé",module,Magento_MediaStorage
 "Media Storage","Stockage des médias",module,Magento_MediaStorage
 "Parent directory does not exist: %1","Le répertoire parent n'existe pas : %1",module,Magento_MediaStorage

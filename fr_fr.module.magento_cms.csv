@@ -52,7 +52,7 @@
 "Delete Block","Supprimer le Bloc",module,Magento_Cms
 "Delete ""${ $.$data.title }""","Supprimer ${ $.$data.title }",module,Magento_Cms
 "Delete ${ $.$data.title }","Supprimer ${ $.$data.title }",module,Magento_Cms
-"Delete File","Supprimer le Fichier",module,Magento_Cms
+"Delete File","Supprimer le fichier",module,Magento_Cms
 "Delete Folder","Supprimer le Dossier",module,Magento_Cms
 "Delete items","Supprimer les éléments",module,Magento_Cms
 "Delete Page","Supprimer la Page",module,Magento_Cms

@@ -162,7 +162,7 @@
 "Delete Customer","Supprimer le client",module,Magento_Customer
 "Delete Customer Group","Supprimer le groupe de clients",module,Magento_Customer
 "Deleted Stores","Magasins effacés",module,Magento_Customer
-"Delete File","Supprimer le Fichier",module,Magento_Customer
+"Delete File","Supprimer le fichier",module,Magento_Customer
 "Delete Image","Effacer l'Image",module,Magento_Customer
 "Delete items","Supprimer les éléments",module,Magento_Customer
 "Disable Automatic Group Change Based on VAT ID","Désactiver le changement automatique de groupe basé sur la TVA",module,Magento_Customer

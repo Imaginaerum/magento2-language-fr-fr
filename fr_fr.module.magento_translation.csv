@@ -21,7 +21,7 @@
 "Credit card number does not match credit card type.","Le numéro de carte ne correspond pas au type de carte.",module,Magento_Translation
 "Default title","Titre par défaut",module,Magento_Translation
 "Delete","Supprimer",module,Magento_Translation
-"Delete File","Supprimer le Fichier",module,Magento_Translation
+"Delete File","Supprimer le fichier",module,Magento_Translation
 "Delete Folder","Supprimer le Dossier",module,Magento_Translation
 "Dictionary (Translation on Storefront side)","Dictionnaire (Traduction coté Front Office)",module,Magento_Translation
 "Done","Terminé",module,Magento_Translation

@@ -15,7 +15,7 @@
 "Default display currency ""%1"" is not available in allowed currencies.","La devise affichée par défaut ""%1"" n'est pas disponible dans les devises autorisées.",module,Magento_Config
 "Default scope","Portée par défaut",module,Magento_Config
 "Delete","Supprimer",module,Magento_Config
-"Delete File","Supprimer le Fichier",module,Magento_Config
+"Delete File","Supprimer le fichier",module,Magento_Config
 "Design Theme","Thème de design",module,Magento_Config
 "Disable","Désactiver",module,Magento_Config
 "Display default currency","Afficher la devise par défaut",module,Magento_Config

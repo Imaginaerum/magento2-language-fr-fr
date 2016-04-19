@@ -39,7 +39,7 @@
 "After selecting a new media storage location, press the Synchronize button to transfer all media to that location. Media will not be available in the new location until the synchronization process is complete.","Après la sélection d'un nouvel emplacement de stockage des médias, appuyez sur le bouton ""Synchroniser"" pour transférer tous les médias à cet emplacement. Les médias ne seront pas disponibles dans le nouvel emplacement jusqu'à ce que le processus de synchronisation soit terminé.",module,Magento_Backend
 "All Cache","Tous les caches",module,Magento_Backend
 "All Countries","Tous les pays",module,Magento_Backend
-"All Files","Tous les Fichiers",module,Magento_Backend
+"All Files","Tous les fichiers",module,Magento_Backend
 "Allow Countries","Autoriser les pays",module,Magento_Backend
 "Allowed IPs (comma separated)","IPs autorisées (séparées par des virgules)",module,Magento_Backend
 "Allows customers to stay logged in when switching between different stores.","Permet aux clients de rester connectés s'ils naviguent entre les différents magasins.",module,Magento_Backend
@@ -167,7 +167,7 @@
 "Delete","Supprimer",module,Magento_Backend
 "[ deleted ]","  [effacé]",module,Magento_Backend
 " [deleted]","   [effacé]",module,Magento_Backend
-"Delete File","Supprimer le Fichier",module,Magento_Backend
+"Delete File","Supprimer le fichier",module,Magento_Backend
 "Delete Store","Supprimer le magasin",module,Magento_Backend
 "Delete Store View","Supprimer la vue magasin",module,Magento_Backend
 "Delete Web Site","Supprimer le site web",module,Magento_Backend
@@ -216,7 +216,7 @@
 "Export to:","Exporter vers :",module,Magento_Backend
 "Extensions","Extensions",module,Magento_Backend
 "File extension not known or unsupported type.","Extension de fichier non reconnue ou non supportée.",module,Magento_Backend
-"File System","Système de Fichiers",module,Magento_Backend
+"File System","Système de fichiers",module,Magento_Backend
 "Find a string in client user-agent header and switch to specific design theme for that browser.","Analyse une chaîne dans l'en-tête ""User-Agent"" par le navigateur client et sélectionne un design spécifique pour ce navigateur.",module,Magento_Backend
 "First Day of Week","Premier Jour de la Semaine",module,Magento_Backend
 "First Name","Prénom",module,Magento_Backend
@@ -224,7 +224,7 @@
 "Flush Catalog Images Cache","Vider le cache des images du catalogue",module,Magento_Backend
 "Flush JavaScript/CSS Cache","Vider le cache JavaScript/CSS",module,Magento_Backend
 "Flush Magento Cache","Vider le cache Magento",module,Magento_Backend
-"Flush Static Files Cache","Vider le cache des Fichiers Statiques",module,Magento_Backend
+"Flush Static Files Cache","Vider le cache des fichiers Statiques",module,Magento_Backend
 "For category","Pour une catégorie",module,Magento_Backend
 "For CMS page","Pour une page CMS",module,Magento_Backend
 "Forgot and Reset Email Sender","Expéditeur de l'email d'oubli et réinitialisation de mot de passe",module,Magento_Backend
@@ -285,7 +285,7 @@
 "Loading...","Chargement en cours...",module,Magento_Backend
 "Locale","Locale",module,Magento_Backend
 "Locale Options","Options de localisation",module,Magento_Backend
-"Logging from PsrLogLoggerInterface. File is located in {{base_dir}}/var/log","Log depuis PsrLogLoggerInterface. Fichier situé dans le répertoire {{base_dir}}/var/log",module,Magento_Backend
+"Logging from PsrLogLoggerInterface. File is located in {{base_dir}}/var/log","Log depuis PsrLogLoggerInterface. fichier situé dans le répertoire {{base_dir}}/var/log",module,Magento_Backend
 "Log in","Se connecter",module,Magento_Backend
 "Login is Case Sensitive","L'identifiant utilisateur est sensible à la casse",module,Magento_Backend
 "Log into Magento Admin Page","Connexion à l'administration Magento",module,Magento_Backend
@@ -306,9 +306,9 @@
 "May be empty or start with {{unsecure_base_url}} placeholder.","Peut être vide ou commencer par la variable {{unsecure_base_url}}.",module,Magento_Backend
 "Media (.avi, .flv, .swf)","Média (.avi, .flv, .swf)",module,Magento_Backend
 "Media Storage","Stockage des médias",module,Magento_Backend
-"Merge CSS Files","Fusionner les Fichiers CSS",module,Magento_Backend
-"Merge JavaScript Files","Fusionner les Fichiers JavaScript",module,Magento_Backend
-"Minify CSS Files","Minifier les Fichiers CSS",module,Magento_Backend
+"Merge CSS Files","Fusionner les fichiers CSS",module,Magento_Backend
+"Merge JavaScript Files","Fusionner les fichiers JavaScript",module,Magento_Backend
+"Minify CSS Files","Minifier les fichiers CSS",module,Magento_Backend
 "Minify Html","Minifier le HTML",module,Magento_Backend
 "Minify JavaScript Files","Minifier les fichiers JavaScript",module,Magento_Backend
 "Minute","Minute",module,Magento_Backend

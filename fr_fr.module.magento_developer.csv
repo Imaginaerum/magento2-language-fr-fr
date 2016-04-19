@@ -24,9 +24,9 @@
 "Leave empty for access from any location.","Laissez vide si vous souhaitez y accéder depuis n'importe où.",module,Magento_Developer
 "Log JS Errors to Session Storage","Stocker les erreurs JS en Session",module,Magento_Developer
 "Log JS Errors to Session Storage Key","Clé de Session pour le stockage des erreurs JS",module,Magento_Developer
-"Merge CSS Files","Fusionner les Fichiers CSS",module,Magento_Developer
-"Merge JavaScript Files","Fusionner les Fichiers JavaScript",module,Magento_Developer
-"Minify CSS Files","Minifier les Fichiers CSS",module,Magento_Developer
+"Merge CSS Files","Fusionner les fichiers CSS",module,Magento_Developer
+"Merge JavaScript Files","Fusionner les fichiers JavaScript",module,Magento_Developer
+"Minify CSS Files","Minifier les fichiers CSS",module,Magento_Developer
 "Minify Html","Minifier le HTML",module,Magento_Developer
 "Minify JavaScript Files","Minifier les fichiers JavaScript",module,Magento_Developer
 "Not available in production mode","Non disponible en mode production",module,Magento_Developer
