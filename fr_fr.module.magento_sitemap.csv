@@ -44,12 +44,12 @@
 "Products Options","Options pour les produits",module,Magento_Sitemap
 "Save & Generate","Sauvegarder & générer",module,Magento_Sitemap
 "Search Engine Submission Settings","Paramètres de soumission aux moteurs de recherche",module,Magento_Sitemap
-"Site Map","Plan de Site",module,Magento_Sitemap
-"Sitemap","Plan de Site",module,Magento_Sitemap
+"Site Map","Plan de site",module,Magento_Sitemap
+"Sitemap","Plan de site",module,Magento_Sitemap
 "Sitemap File Limits","Limites du fichier de plan de site",module,Magento_Sitemap
 "Sitemap Generation Warnings","Avertissements sur la génération du plan de site",module,Magento_Sitemap
-"Sitemap Information","Information Plan de Site",module,Magento_Sitemap
-"Something went wrong generating the sitemap.","Erreur lors de la génération du sitemap.",module,Magento_Sitemap
+"Sitemap Information","Information plan de site",module,Magento_Sitemap
+"Something went wrong generating the sitemap.","Erreur lors de la génération du plan de site.",module,Magento_Sitemap
 "Start Time","Heure de Début",module,Magento_Sitemap
 "Store View","Vue magasin",module,Magento_Sitemap
 "The priority must be between 0 and 1.","La priorité doit être comprise entre 0 et 1.",module,Magento_Sitemap
@@ -64,7 +64,7 @@
 "We can't find a sitemap to generate.","Impossible de trouver le plan de site à générer.",module,Magento_Sitemap
 "We can't generate the sitemap right now.","Impossible de générer le plan de site.",module,Magento_Sitemap
 "Weekly","Hebdomadaire",module,Magento_Sitemap
-"XML Sitemap","Plan de Site XML",module,Magento_Sitemap
+"XML Sitemap","Plan de site XML",module,Magento_Sitemap
 "Yearly","Annuel",module,Magento_Sitemap
-"You deleted the sitemap.","Plan de Site a été supprimé.",module,Magento_Sitemap
+"You deleted the sitemap.","Plan de site a été supprimé.",module,Magento_Sitemap
 "You saved the sitemap.","Plan de site sauvegardé.",module,Magento_Sitemap

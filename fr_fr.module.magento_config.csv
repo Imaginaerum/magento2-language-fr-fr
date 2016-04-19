@@ -52,7 +52,7 @@
 "Separate Email","Email Séparé",module,Magento_Config
 "some_comment","some_comment",module,Magento_Config
 "some_label","some_label",module,Magento_Config
-"Some Label","some_label",module,Magento_Config
+"Some Label","Some Label",module,Magento_Config
 "some prefix","some prefix",module,Magento_Config
 "Something went wrong while saving this configuration:","Une erreur s'est produite lors de l'enregistrement de cette configuration :",module,Magento_Config
 "Sorry, the default display currency you selected is not available in allowed currencies.","Désolé, la devise d'affichage par défaut que vous avez sélectionnée n'est pas disponible dans les devises autorisées.",module,Magento_Config
