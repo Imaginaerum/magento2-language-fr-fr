@@ -13,8 +13,8 @@
 "Font","Police de caractères",module,Magento_Captcha
 "Forms","Formulaires",module,Magento_Captcha
 "If 0 is specified, CAPTCHA on the Login form will be always available.","Si 0 est choisi, le CAPTCHA sera toujours disponible dans le formulaire de connexion.",module,Magento_Captcha
-"Incorrect CAPTCHA.","CAPTCHA Incorrect.",module,Magento_Captcha
-"Incorrect CAPTCHA","CAPTCHA Incorrect",module,Magento_Captcha
+"Incorrect CAPTCHA.","CAPTCHA incorrect.",module,Magento_Captcha
+"Incorrect CAPTCHA","CAPTCHA incorrect",module,Magento_Captcha
 "Number of Symbols","Nombre de symboles",module,Magento_Captcha
 "Number of Unsuccessful Attempts to Login","Nombre d'essais infructueux",module,Magento_Captcha
 "Please enter the letters from the image:","Veuillez saisir les lettres affichées sur l'image :",module,Magento_Captcha

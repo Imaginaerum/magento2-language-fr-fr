@@ -12,8 +12,8 @@
 "Allowed file types *.css.","Types de fichiers autorisés : *.css.",module,Magento_Theme
 "Allowed file types: ICO, PNG, GIF, JPG, JPEG, APNG, SVG. Not all browsers support all these formats!","Types de fichiers autorisés : ICO, PNG, GIF, JPEG, APNG, SVG. Attention, certains formats ne sont pas supportés par certains navigateurs !",module,Magento_Theme
 "Allowed file types *.js.","Types de fichiers autorisés : *.js.",module,Magento_Theme
-"Are you sure you want to delete this file?","Êtes-vous sûr(e) de vouloir supprimer ce fichier?",module,Magento_Theme
-"Are you sure you want to delete this folder?","Êtes-vous sûr(e) de vouloir supprimer ce dossier?",module,Magento_Theme
+"Are you sure you want to delete this file?","Êtes-vous sûr(e) de vouloir supprimer ce fichier ?",module,Magento_Theme
+"Are you sure you want to delete this folder?","Êtes-vous sûr(e) de vouloir supprimer ce dossier ?",module,Magento_Theme
 "Are you sure you want to delete this theme?","Êtes-vous sûr(e) de vouloir supprimer ce thème ?",module,Magento_Theme
 "Browse Files","Parcourir les fichiers",module,Magento_Theme
 "Circular-reference in theme inheritance detected for ""%1""","Une référence circulaire dans l'héritage du thème a été détectée pour ""%1""",module,Magento_Theme
