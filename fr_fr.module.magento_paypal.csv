@@ -453,7 +453,7 @@
 "Schedule","Tâches Programmées",module,Magento_Paypal
 "Scheduled Fetching","Récupération de ligne",module,Magento_Paypal
 "See terms","Voir les modalités",module,Magento_Paypal
-"Send Email Confirmation","Envoyer Email de Confirmation",module,Magento_Paypal
+"Send Email Confirmation","Envoyer un email de confirmation",module,Magento_Paypal
 "Settlement Consolidation","Consolidation de règlement",module,Magento_Paypal
 "Settlement of a chargeback.","Le règlement d'un rejet de débit.",module,Magento_Paypal
 "Settlement Report Settings","Les paramètres du rapport de règlement",module,Magento_Paypal

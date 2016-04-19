@@ -518,7 +518,7 @@
 "Send Credit Memo Comments Email Copy Method","Mode de copie d'email pour les commentaires d'avoir",module,Magento_Sales
 "Send Credit Memo Email Copy Method","Mode de copie d'email pour les avoirs",module,Magento_Sales
 "Send Credit Memo Email Copy To","Envoyer une copie du mail d'avoir à",module,Magento_Sales
-"Send Email","Envoyer un Email",module,Magento_Sales
+"Send Email","Envoyer un email",module,Magento_Sales
 "Send Invoice Comment Email Copy To","Envoyer une copie du mail de commentaire de facture à",module,Magento_Sales
 "Send Invoice Comments Email Copy Method","Mode de copie d'email pour les commentaires de facture",module,Magento_Sales
 "Send Invoice Email Copy Method","Mode de copie d'email pour les factures",module,Magento_Sales
@@ -642,7 +642,7 @@
 "The order object is not specified.","L'objet commande n'est pas spécifié.",module,Magento_Sales
 "The Order State ""%1"" must not be set manually.","L'état de la commande ""%1"" ne peut être modifié manuellement.",module,Magento_Sales
 "The order was not on hold.","La commande n'est pas bloquée.",module,Magento_Sales
-"The order was placed using %1.","Commande passée en utilisant %1.",module,Magento_Sales
+"The order was placed using %1.","Commande passée en %1.",module,Magento_Sales
 "The parent transaction ID must have a transaction ID.","L'identifiant de la transaction parent doit avoir un identifiant de transaction.",module,Magento_Sales
 "The payment disallows storing objects.","Cette méthode de paiement interdit le stockage d'objets.",module,Magento_Sales
 "The payment has been accepted.","Le paiement a été accepté.",module,Magento_Sales
@@ -691,7 +691,7 @@
 "Total Paid","Total payé",module,Magento_Sales
 "Total Quantity","quantité totale",module,Magento_Sales
 "Total Refund","Remboursement total",module,Magento_Sales
-"Total Refunded","Total Remboursé",module,Magento_Sales
+"Total Refunded","Total remboursé",module,Magento_Sales
 "Total Shipping Charges","Montant total de la livraison",module,Magento_Sales
 "Total Tax","TVA",module,Magento_Sales
 "Tracking number %1 for %2 assigned","Numéro de suivi %1 assigné à %2",module,Magento_Sales

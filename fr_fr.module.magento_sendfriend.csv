@@ -47,7 +47,7 @@
 "Remove Recipent","Supprimer le destinataire",module,Magento_SendFriend
 "* Required Fields","* Champs requis",module,Magento_SendFriend
 "Select Email Template","Sélectionner le gabarit d'email",module,Magento_SendFriend
-"Send Email","Envoyer un Email",module,Magento_SendFriend
+"Send Email","Envoyer un email",module,Magento_SendFriend
 "Sender","Expéditeur",module,Magento_SendFriend
 "Sender:","Expéditeur :",module,Magento_SendFriend
 "%sender_name wants to share this product with you:","%sender_name voudrait partager ce produit avec vous :",module,Magento_SendFriend

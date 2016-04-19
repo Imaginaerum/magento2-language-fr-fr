@@ -86,7 +86,7 @@
 "Save Newsletter","Sauvegarder la Newsletter",module,Magento_Newsletter
 "Save Template","Sauvegarder le gabarit",module,Magento_Newsletter
 "Sender","Expéditeur",module,Magento_Newsletter
-"Sender Email","Email de l'Expéditeur",module,Magento_Newsletter
+"Sender Email","Email de l'expéditeur",module,Magento_Newsletter
 "Sender Name","Nom de l'expéditeur",module,Magento_Newsletter
 "Sending","Envoi en cours",module,Magento_Newsletter
 "Sent","Envoyé",module,Magento_Newsletter

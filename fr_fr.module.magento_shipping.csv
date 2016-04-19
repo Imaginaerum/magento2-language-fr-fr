@@ -144,7 +144,7 @@
 "Submit Shipment","Valider l'expédition",module,Magento_Shipping
 "The comment text field cannot be empty.","Le champ texte du commentaire ne peut pas être vide.",module,Magento_Shipping
 "The order no longer exists.","La commande n'existe plus.",module,Magento_Shipping
-"The order was placed using %1.","Commande passée en utilisant %1.",module,Magento_Shipping
+"The order was placed using %1.","Commande passée en %1.",module,Magento_Shipping
 "There are no shipping labels related to selected orders.","Aucune étiquette d'expédition liées aux commandes sélectionnées.",module,Magento_Shipping
 "There are no shipping labels related to selected shipments.","Aucune étiquette d'expédition liées aux expéditions sélectionnées.",module,Magento_Shipping
 "There is no tracking available.","Aucun suivi disponible.",module,Magento_Shipping
