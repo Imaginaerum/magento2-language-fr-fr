@@ -1,6 +1,6 @@
 "%1 Cart Price Rules based on ""%2"" attribute have been disabled.","La règle de prix panier %1 basée sur l'attribut ""%2"" a été désactivée.",module,Magento_SalesRule
 "%1 coupon(s) have been generated.","%1 coupon(s) généré(s).",module,Magento_SalesRule
-"%1 - Discounts and Coupons","%1 - Remises et Coupons",module,Magento_SalesRule
+"%1 - Discounts and Coupons","%1 - Remises et coupons",module,Magento_SalesRule
 "%1 Shopping Cart Price Rules based on ""%2"" attribute have been disabled.","La règle de prix panier %1 basée sur l'attribut ""%2"" a été désactivée.",module,Magento_SalesRule
 "Actions","Actions",module,Magento_SalesRule
 "Active","Actif",module,Magento_SalesRule
