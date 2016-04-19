@@ -12,9 +12,9 @@
 "Default Display Currency","Devise à afficher par défaut",module,Magento_Directory
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée.",module,Magento_Directory
 "Enabled","Activé",module,Magento_Directory
-"Error Email Recipient","Destinataire du mail d'erreur",module,Magento_Directory
-"Error Email Sender","Expéditeur du mail d'erreur",module,Magento_Directory
-"Error Email Template","Gabarit du mail d'erreur",module,Magento_Directory
+"Error Email Recipient","Destinataire de l'email d'erreur",module,Magento_Directory
+"Error Email Sender","Expéditeur de l'email d'erreur",module,Magento_Directory
+"Error Email Template","Gabarit de l'email d'erreur",module,Magento_Directory
 "FATAL ERROR:","ERREUR FATALE :",module,Magento_Directory
 "Frequency","Fréquence",module,Magento_Directory
 "Installed Currencies","Devises installées",module,Magento_Directory

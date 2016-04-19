@@ -5,9 +5,9 @@
 "Contact Us","Nous contacter",module,Magento_Contact
 "Email","Email",module,Magento_Contact
 "Email: %email","Email: %email",module,Magento_Contact
-"Email Options","Options de mail",module,Magento_Contact
-"Email Sender","Expéditeur du mail",module,Magento_Contact
-"Email Template","Gabarit du mail",module,Magento_Contact
+"Email Options","Options de l'email",module,Magento_Contact
+"Email Sender","Expéditeur de l'email",module,Magento_Contact
+"Email Template","Gabarit de l'email",module,Magento_Contact
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée.",module,Magento_Contact
 "Enable Contact Us","Activer la page Contactez-nous",module,Magento_Contact
 "Jot us a note and we’ll get back to you as quickly as possible.","N'hésitez pas à nous contacter, nous vous répondrons au plus vite.",module,Magento_Contact

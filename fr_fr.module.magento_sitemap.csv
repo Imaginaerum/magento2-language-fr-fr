@@ -12,9 +12,9 @@
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée.",module,Magento_Sitemap
 "Enabled","Activé",module,Magento_Sitemap
 "Enable Submission to Robots.txt","Active la soumission dans le fichier robots.txt",module,Magento_Sitemap
-"Error Email Recipient","Destinataire du mail d'erreur",module,Magento_Sitemap
-"Error Email Sender","Expéditeur du mail d'erreur",module,Magento_Sitemap
-"Error Email Template","Gabarit du mail d'erreur",module,Magento_Sitemap
+"Error Email Recipient","Destinataire de l'email d'erreur",module,Magento_Sitemap
+"Error Email Sender","Expéditeur de l'email d'erreur",module,Magento_Sitemap
+"Error Email Template","Gabarit de l'email d'erreur",module,Magento_Sitemap
 "example: ""/sitemap/"" or ""/"" for base path (path must be writeable)","exemple : ""/sitemap/"" ou ""/"" pour le chemin de base (le chemin doit être accessible en écriture)",module,Magento_Sitemap
 "example: ""sitemap/"" or ""/"" for base path (path must be writeable)","exemple : ""/sitemap/"" ou ""/"" pour le chemin de base (le chemin doit être accessible en écriture)",module,Magento_Sitemap
 "example: sitemap.xml","exemple : sitemap.xml",module,Magento_Sitemap

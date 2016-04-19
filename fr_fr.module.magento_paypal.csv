@@ -254,7 +254,7 @@
 "International AVS response","AVS réponse internationale",module,Magento_Paypal
 "Invalid block type","Type de bloc invalide",module,Magento_Paypal
 "Invalid method %1::%2(%3)","Méthode invalide %1::%2(%3)",module,Magento_Paypal
-"Invoice ID","ID Facture",module,Magento_Paypal
+"Invoice ID","ID facture",module,Magento_Paypal
 "IPN ""%1""","IPN ""%1""",module,Magento_Paypal
 "IPN ""%1"". A dispute has been resolved and closed. %2 Transaction amount %3.","IPN ""%1"". Un différend a été résolu et clôturé. %2 Montant de la transaction %3.",module,Magento_Paypal
 "IPN ""%1"". Case type ""%2"". Case ID ""%3"" %4","IPN ""%1"". Type de cas ""%2"". Cas ID ""%3"" %4",module,Magento_Paypal

@@ -55,7 +55,7 @@
 "Logo Image","Image du logo",module,Magento_Email
 "Logo Image Alt","Texte alternatif du logo",module,Magento_Email
 "Logo Width","Largeur du logo",module,Magento_Email
-"New Email Template","Nouveau gabarit de mail",module,Magento_Email
+"New Email Template","Nouveau gabarit de l'email",module,Magento_Email
 "New System Template","Nouveau gabarit système",module,Magento_Email
 "New Template","Nouveau gabarit",module,Magento_Email
 "No Templates Found","Aucun gabarit trouvé",module,Magento_Email

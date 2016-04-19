@@ -13,8 +13,8 @@
 "Cancel","Annuler",module,Magento_Newsletter
 "Cancelled","Annulé",module,Magento_Newsletter
 "Choose Store View:","Choisir la vue magasin :",module,Magento_Newsletter
-"Confirmation Email Sender","Expéditeur du mail de confirmation",module,Magento_Newsletter
-"Confirmation Email Template","Gabarit du mail de confirmation",module,Magento_Newsletter
+"Confirmation Email Sender","Expéditeur de l'email de confirmation",module,Magento_Newsletter
+"Confirmation Email Template","Gabarit de l'email de confirmation",module,Magento_Newsletter
 "Convert to Plain Text","Convertir en texte simple",module,Magento_Newsletter
 " Copy"," Copie",module,Magento_Newsletter
 "Create Newsletter Template","Créer un nouveau gabarit de newsletter",module,Magento_Newsletter
@@ -109,8 +109,8 @@
 "Subscribers","Abonnés",module,Magento_Newsletter
 "Subscribers From","Abonnés de",module,Magento_Newsletter
 "Subscription Options","Options d'inscription",module,Magento_Newsletter
-"Success Email Sender","Expéditeur du mail de succès",module,Magento_Newsletter
-"Success Email Template","Gabarit du mail de succès",module,Magento_Newsletter
+"Success Email Sender","Expéditeur de l'email de succès",module,Magento_Newsletter
+"Success Email Template","Gabarit de l'email de succès",module,Magento_Newsletter
 "Template","Gabarit",module,Magento_Newsletter
 "Template Content","Contenu du gabarit",module,Magento_Newsletter
 "Template Information","Informations gabarit",module,Magento_Newsletter
@@ -138,8 +138,8 @@
 "Unsubscribe","Désabonner",module,Magento_Newsletter
 "Unsubscribed","Désinscrit",module,Magento_Newsletter
 "Unsubscribe Selected","Désinscription sélectionnée",module,Magento_Newsletter
-"Unsubscription Email Sender","Expéditeur du mail de désinscription",module,Magento_Newsletter
-"Unsubscription Email Template","Gabarit du mail de désinscription",module,Magento_Newsletter
+"Unsubscription Email Sender","Expéditeur de l'email de désinscription",module,Magento_Newsletter
+"Unsubscription Email Template","Gabarit de l'email de désinscription",module,Magento_Newsletter
 "Updated","Mis à jour",module,Magento_Newsletter
 "View Newsletter","Voir la newsletter",module,Magento_Newsletter
 "Web Site","Site Web",module,Magento_Newsletter

@@ -142,13 +142,13 @@
 "Credit Memo #%1 | %3 | %2 (%4)","Avoir #%1 | %3 | %2 (%4)",module,Magento_Sales
 "Credit Memo","Avoir",module,Magento_Sales
 "Credit Memo # ","Avoir # ",module,Magento_Sales
-"Credit Memo Comment Email Sender","Expéditeur du mail de commentaire d'avoir",module,Magento_Sales
-"Credit Memo Comment Email Template","Gabarit de mail de commentaire d'avoir pour un invité",module,Magento_Sales
-"Credit Memo Comment Email Template for Guest","Gabarit de mail de commentaire d'avoir pour un invité",module,Magento_Sales
+"Credit Memo Comment Email Sender","Expéditeur de l'email de commentaire d'avoir",module,Magento_Sales
+"Credit Memo Comment Email Template","Gabarit de l'email de commentaire d'avoir pour un invité",module,Magento_Sales
+"Credit Memo Comment Email Template for Guest","Gabarit de l'email de commentaire d'avoir pour un invité",module,Magento_Sales
 "Credit Memo Comments","Commentaires d'avoir",module,Magento_Sales
-"Credit Memo Email Sender","Expéditeur du mail d'avoir",module,Magento_Sales
-"Credit Memo Email Template","Gabarit de mail d'avoir",module,Magento_Sales
-"Credit Memo Email Template for Guest","Gabarit de mail d'avoir pour un invité",module,Magento_Sales
+"Credit Memo Email Sender","Expéditeur de l'email d'avoir",module,Magento_Sales
+"Credit Memo Email Template","Gabarit de l'email d'avoir",module,Magento_Sales
+"Credit Memo Email Template for Guest","Gabarit de l'email d'avoir pour un invité",module,Magento_Sales
 "Credit memo has not been canceled.","L'avoir n'a pas été annulé.",module,Magento_Sales
 "Credit Memo History","Historique de l'avoir",module,Magento_Sales
 "Credit Memos","Avoirs",module,Magento_Sales
@@ -252,15 +252,15 @@
 "Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.","Les types de facture et d'expédition ne correspondent pas à certains articles de cette commande. Vous pouvez créer l'expédition uniquement après avoir créé une facture.",module,Magento_Sales
 "Invoice canceling error","Erreur lors de l'annulation de la facture",module,Magento_Sales
 "Invoice capturing error","Erreur lors de la capture de la facture",module,Magento_Sales
-"Invoice Comment Email Sender","Expéditeur du mail de commentaire de facture",module,Magento_Sales
-"Invoice Comment Email Template","Gabarit de mail commentaire de facture",module,Magento_Sales
-"Invoice Comment Email Template for Guest","Gabarit de mail de commentaire de facture pour un invité",module,Magento_Sales
+"Invoice Comment Email Sender","Expéditeur de l'email de commentaire de facture",module,Magento_Sales
+"Invoice Comment Email Template","Gabarit de l'email commentaire de facture",module,Magento_Sales
+"Invoice Comment Email Template for Guest","Gabarit de l'email de commentaire de facture pour un invité",module,Magento_Sales
 "Invoice Comments","Commentaires de facture",module,Magento_Sales
 "Invoiced","Facturé",module,Magento_Sales
 "Invoice Date","Date de facturation",module,Magento_Sales
-"Invoice Email Sender","Expéditeur du mail de facture",module,Magento_Sales
-"Invoice Email Template","Gabarit mail de facture",module,Magento_Sales
-"Invoice Email Template for Guest","Gabarit de mail de facture pour un invité",module,Magento_Sales
+"Invoice Email Sender","Expéditeur de l'email de facture",module,Magento_Sales
+"Invoice Email Template","Gabarit email de facture",module,Magento_Sales
+"Invoice Email Template for Guest","Gabarit de l'email de facture pour un invité",module,Magento_Sales
 "Invoice History","Historique de la facture",module,Magento_Sales
 "Invoices","Factures",module,Magento_Sales
 "Invoice Totals","Totaux de la facture",module,Magento_Sales
@@ -311,7 +311,7 @@
 "New Memo","Nouvel Avoir",module,Magento_Sales
 "New Memo for #%1","Nouvel avoir pour #%1",module,Magento_Sales
 "New Order","Nouvelle commande",module,Magento_Sales
-"New Order Confirmation Email Sender","Expéditeur du mail de confirmation de commande",module,Magento_Sales
+"New Order Confirmation Email Sender","Expéditeur de l'email de confirmation de commande",module,Magento_Sales
 "New Order Confirmation Template","Gabarit de confirmation de nouvelle commande",module,Magento_Sales
 "New Order Confirmation Template for Guest","Gabarit de confirmation de nouvelle commande pour un invité",module,Magento_Sales
 "New Order RSS","Flux RSS des nouvelles commandes",module,Magento_Sales
@@ -352,9 +352,9 @@
 "Order & Account Information","Commande & informations du compte",module,Magento_Sales
 "Order Address Information","Informations d'adresse de commande",module,Magento_Sales
 "Order Comment","Commentaire de la commande",module,Magento_Sales
-"Order Comment Email Sender","Expéditeur du mail de commentaire de commande",module,Magento_Sales
-"Order Comment Email Template","Gabarit de mail de commentaire de commande",module,Magento_Sales
-"Order Comment Email Template for Guest","Gabarit de mail de commentaire de commande pour un invité",module,Magento_Sales
+"Order Comment Email Sender","Expéditeur de l'email de commentaire de commande",module,Magento_Sales
+"Order Comment Email Template","Gabarit de l'email de commentaire de commande",module,Magento_Sales
+"Order Comment Email Template for Guest","Gabarit de l'email de commentaire de commande pour un invité",module,Magento_Sales
 "Order Comments","Commentaires de commande",module,Magento_Sales
 "Order Credit Memos","Avoirs de la commande",module,Magento_Sales
 "Order Currency:","Devise de la commande :",module,Magento_Sales
@@ -467,8 +467,8 @@
 "Qty","Qté",module,Magento_Sales
 "Qty Invoiced","Qté facturée",module,Magento_Sales
 "Qty Shipped","Qté livrée",module,Magento_Sales
-"Qty to Invoice","Qté à Facturer",module,Magento_Sales
-"Qty to Refund","Qté à Rembourser",module,Magento_Sales
+"Qty to Invoice","Qté à facturer",module,Magento_Sales
+"Qty to Refund","Qté à rembourser",module,Magento_Sales
 "Quantity","Quantité",module,Magento_Sales
 "Quote item id is not received.","L'identifiant de l'article de la commande n'a pas été reçu.",module,Magento_Sales
 "Quote item is not loaded.","L'article n'est pas chargé.",module,Magento_Sales
@@ -514,23 +514,23 @@
 "Search","Rechercher",module,Magento_Sales
 "Select","Choisir",module,Magento_Sales
 "Select from existing customer addresses:","Sélectionner une adresse client existante :",module,Magento_Sales
-"Send Credit Memo Comment Email Copy To","Envoyer une copie du mail de commentaire d'avoir à",module,Magento_Sales
+"Send Credit Memo Comment Email Copy To","Envoyer une copie de l'email de commentaire d'avoir à",module,Magento_Sales
 "Send Credit Memo Comments Email Copy Method","Mode de copie d'email pour les commentaires d'avoir",module,Magento_Sales
 "Send Credit Memo Email Copy Method","Mode de copie d'email pour les avoirs",module,Magento_Sales
-"Send Credit Memo Email Copy To","Envoyer une copie du mail d'avoir à",module,Magento_Sales
+"Send Credit Memo Email Copy To","Envoyer une copie de l'email d'avoir à",module,Magento_Sales
 "Send Email","Envoyer un email",module,Magento_Sales
-"Send Invoice Comment Email Copy To","Envoyer une copie du mail de commentaire de facture à",module,Magento_Sales
+"Send Invoice Comment Email Copy To","Envoyer une copie de l'email de commentaire de facture à",module,Magento_Sales
 "Send Invoice Comments Email Copy Method","Mode de copie d'email pour les commentaires de facture",module,Magento_Sales
 "Send Invoice Email Copy Method","Mode de copie d'email pour les factures",module,Magento_Sales
-"Send Invoice Email Copy To","Envoyer une copie du mail de facture à",module,Magento_Sales
-"Send Order Comment Email Copy To","Envoyer une copie du mail de commentaire de commande à",module,Magento_Sales
+"Send Invoice Email Copy To","Envoyer une copie de l'email de facture à",module,Magento_Sales
+"Send Order Comment Email Copy To","Envoyer une copie de l'email de commentaire de commande à",module,Magento_Sales
 "Send Order Comments Email Copy Method","Mode de copie d'email pour les commentaires de commande",module,Magento_Sales
-"Send Order Email Copy Method","Envoyer une copie du mail de commande en utilisant la méthode",module,Magento_Sales
-"Send Order Email Copy To","Envoyer une copie du mail de commande à",module,Magento_Sales
-"Send Shipment Comment Email Copy To","Envoyer une copie du mail de commentaire de livraison",module,Magento_Sales
+"Send Order Email Copy Method","Envoyer une copie de l'email de commande en utilisant la méthode",module,Magento_Sales
+"Send Order Email Copy To","Envoyer une copie de l'email de commande à",module,Magento_Sales
+"Send Shipment Comment Email Copy To","Envoyer une copie de l'email de commentaire de livraison",module,Magento_Sales
 "Send Shipment Comments Email Copy Method","Mode de copie d'email pour les commentaires d'expédition",module,Magento_Sales
 "Send Shipment Email Copy Method","Mode de copie d'email pour les expéditions",module,Magento_Sales
-"Send Shipment Email Copy To","Envoyer une copie du mail de livraison à",module,Magento_Sales
+"Send Shipment Email Copy To","Envoyer une copie de l'email de livraison à",module,Magento_Sales
 "Set order for existing transactions not allowed","Placez la commande pour des transactions existantes non permise",module,Magento_Sales
 "Ship","Expédier",module,Magento_Sales
 "Ship Date","Date d'expédition",module,Magento_Sales
@@ -538,13 +538,13 @@
 "Shipment #%1 comment added","Commentaire ajouté pour l'expédition #%1",module,Magento_Sales
 "Shipment #%1 created","Livraison #%1 créée",module,Magento_Sales
 "Shipment","Expédition",module,Magento_Sales
-"Shipment Comment Email Sender","Expéditeur du mail de commentaire de livraison",module,Magento_Sales
-"Shipment Comment Email Template","Gabarit du mail de commentaire de livraison",module,Magento_Sales
-"Shipment Comment Email Template for Guest","Gabarit de mail de commentaire d'expédition pour un invité",module,Magento_Sales
+"Shipment Comment Email Sender","Expéditeur de l'email de commentaire de livraison",module,Magento_Sales
+"Shipment Comment Email Template","Gabarit de l'email de commentaire de livraison",module,Magento_Sales
+"Shipment Comment Email Template for Guest","Gabarit de l'email de commentaire d'expédition pour un invité",module,Magento_Sales
 "Shipment Comments","Commentaires de livraison",module,Magento_Sales
-"Shipment Email Sender","Expéditeur du mail d'expédition",module,Magento_Sales
-"Shipment Email Template","Gabarit de mail de livraison",module,Magento_Sales
-"Shipment Email Template for Guest","Gabarit de mail d'expédition pour un invité",module,Magento_Sales
+"Shipment Email Sender","Expéditeur de l'email d'expédition",module,Magento_Sales
+"Shipment Email Template","Gabarit de l'email de livraison",module,Magento_Sales
+"Shipment Email Template for Guest","Gabarit de l'email d'expédition pour un invité",module,Magento_Sales
 "Shipments","Expéditions",module,Magento_Sales
 "Shipped","Livré",module,Magento_Sales
 "Shipped By","Livré par",module,Magento_Sales

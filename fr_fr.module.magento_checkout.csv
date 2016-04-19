@@ -118,9 +118,9 @@
 "Password","Mot de passe",module,Magento_Checkout
 "Password and password confirmation are not equal.","Le mot de passe et la confirmation du mot de passe ne sont pas identiques.",module,Magento_Checkout
 "Payment","Paiement",module,Magento_Checkout
-"Payment Failed Email Receiver","Destinataire du mail d'erreur de paiement",module,Magento_Checkout
+"Payment Failed Email Receiver","Destinataire de l'email d'erreur de paiement",module,Magento_Checkout
 "Payment Failed Emails","Emails d'erreur de paiement",module,Magento_Checkout
-"Payment Failed Email Sender","Expéditeur du mail d'erreur de paiement",module,Magento_Checkout
+"Payment Failed Email Sender","Expéditeur de l'email d'erreur de paiement",module,Magento_Checkout
 "Payment Failed Template","Gabarit d'erreur de paiement",module,Magento_Checkout
 "Payment Information","Informations de paiement",module,Magento_Checkout
 "Payment Method","Mode de paiement",module,Magento_Checkout
@@ -161,8 +161,8 @@
 "Select a billing address from your address book or enter a new address.","Choisissez une adresse de facturation dans votre carnet d'adresses ou saisissez une nouvelle adresse.",module,Magento_Checkout
 "Select a shipping address from your address book or enter a new address.","Choisissez une adresse de livraison dans votre carnet d'adresses ou saisissez une <a href=""#"" onclick=""shipping.newAddress(true); return false;"">nouvelle adresse</a>.",module,Magento_Checkout
 "Select Method","Choir une méthode",module,Magento_Checkout
-"Send Payment Failed Email Copy Method","Envoyer une copie du mail d'erreur de paiement en utilisant la méthode",module,Magento_Checkout
-"Send Payment Failed Email Copy To","Envoyer une copie du mail d'erreur de paiement à",module,Magento_Checkout
+"Send Payment Failed Email Copy Method","Envoyer une copie de l'email d'erreur de paiement en utilisant la méthode",module,Magento_Checkout
+"Send Payment Failed Email Copy To","Envoyer une copie de l'email d'erreur de paiement à",module,Magento_Checkout
 "Separate by "","".","Séparer par des "","".",module,Magento_Checkout
 "Ship Here","Expédier ici",module,Magento_Checkout
 "Shipping","Livraison",module,Magento_Checkout
@@ -262,6 +262,6 @@
 "Your order number is: %1.","Votre numéro de commande est : %1.",module,Magento_Checkout
 "Your session has expired","Votre session a expiré",module,Magento_Checkout
 "You used coupon code ""%1"".","Vous avez utilisé le code promo ""%1"".",module,Magento_Checkout
-"You will receive an order confirmation email with details of your order and a link to track its progress.","Vous allez recevoir un mail de confirmation avec les détails de votre commande ainsi qu'un lien pour suivre son avancement.",module,Magento_Checkout
+"You will receive an order confirmation email with details of your order and a link to track its progress.","Vous allez recevoir un email de confirmation avec les détails de votre commande ainsi qu'un lien pour suivre son avancement.",module,Magento_Checkout
 "You will see the order total before you submit the order.","Vous verrez le total de la commande avant de valider la commande.",module,Magento_Checkout
 "Zip/Postal Code","Code postal",module,Magento_Checkout

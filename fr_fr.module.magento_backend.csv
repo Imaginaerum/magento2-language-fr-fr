@@ -228,7 +228,7 @@
 "For category","Pour une catégorie",module,Magento_Backend
 "For CMS page","Pour une page CMS",module,Magento_Backend
 "Forgot and Reset Email Sender","Expéditeur de l'email d'oubli et réinitialisation de mot de passe",module,Magento_Backend
-"Forgot Password Email Template","Gabarit du mail d'oubli de mot de passe",module,Magento_Backend
+"Forgot Password Email Template","Gabarit de l'email d'oubli de mot de passe",module,Magento_Backend
 "For product","Pour un produit",module,Magento_Backend
 "For Windows server only.","Pour les serveurs windows uniquement.",module,Magento_Backend
 "From","De",module,Magento_Backend

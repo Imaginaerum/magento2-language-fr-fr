@@ -53,8 +53,8 @@
 "Edit","Modifier",module,Magento_Wishlist
 "Email address can't be empty.","L'adresse email ne peut pas être vide.",module,Magento_Wishlist
 "Email addresses, separated by commas","Adresses email, séparées par des virgules",module,Magento_Wishlist
-"Email Sender","Expéditeur du mail",module,Magento_Wishlist
-"Email Template","Gabarit du mail",module,Magento_Wishlist
+"Email Sender","Expéditeur de l'email",module,Magento_Wishlist
+"Email Template","Gabarit de l'email",module,Magento_Wishlist
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée.",module,Magento_Wishlist
 "Email Text Length Limit","Longueur maximal du texte du message",module,Magento_Wishlist
 "Enabled","Activé",module,Magento_Wishlist

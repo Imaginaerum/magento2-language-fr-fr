@@ -151,7 +151,7 @@
 "DD","JJ",module,Magento_Customer
 "Default Addresses","Adresses par défaut",module,Magento_Customer
 "Default Billing Address","Adresse de facturation par défaut",module,Magento_Customer
-"Default Email Domain","Domaine de mail par défaut",module,Magento_Customer
+"Default Email Domain","Domaine de l'email par défaut",module,Magento_Customer
 "Default Group","Groupe par défaut",module,Magento_Customer
 "Default Shipping Address","Adresse de livraison par défaut",module,Magento_Customer
 "Default Value for Disable Automatic Group Changes Based on VAT ID","Valeur par défaut pour la désactivation des changements de groupe automatiques basés sur le numéro de TVA",module,Magento_Customer
@@ -177,7 +177,7 @@
 "Email:","Email :",module,Magento_Customer
 "Email","Email",module,Magento_Customer
 "Email Address","Adresse email",module,Magento_Customer
-"Email Sender","Expéditeur du mail",module,Magento_Customer
+"Email Sender","Expéditeur de l'email",module,Magento_Customer
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée.",module,Magento_Customer
 "Enable Autocomplete on login/forgot password forms","Activer la saisie semi-automatique sur les formulaires de connexion/mot de passe oublié",module,Magento_Customer
 "Enable Automatic Assignment to Customer Group","Activer l'assignation automatique à un groupe clients",module,Magento_Customer
@@ -191,7 +191,7 @@
 "Female","Femme",module,Magento_Customer
 "First Name","Prénom",module,Magento_Customer
 "Force Sign-In","Forcer l'enregistrement",module,Magento_Customer
-"Forgot Email Template","Gabarit du mail d'oubli",module,Magento_Customer
+"Forgot Email Template","Gabarit de l'email d'oubli",module,Magento_Customer
 "Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Mot de passe oublié ? Cliquez <a href=""%reset_url"">ici</a> pour le réinitialiser.",module,Magento_Customer
 "Forgot Your Password","Mot de passe oublié",module,Magento_Customer
 "Forgot Your Password?","Mot de passe oublié ?",module,Magento_Customer
@@ -310,7 +310,7 @@
 "Password doesn't match for this account.","La mot de passe du compte ne correspond pas.",module,Magento_Customer
 "Password forgotten","Mot de passe oublié",module,Magento_Customer
 "Password Options","Options de mot de passe",module,Magento_Customer
-"Password Template Email Sender","Gabarit Expéditeur du mail d'envoi du mot de passe",module,Magento_Customer
+"Password Template Email Sender","Gabarit Expéditeur de l'email d'envoi du mot de passe",module,Magento_Customer
 "Password you set when creating account","Mot de passe que vous avez défini lors de la création de votre compte",module,Magento_Customer
 "Paused","En Pause",module,Magento_Customer
 "Personal Information","Informations personnelles",module,Magento_Customer
@@ -405,7 +405,7 @@
 "Send From","Envoyé de",module,Magento_Customer
 "Sending","Envoi en cours",module,Magento_Customer
 "Send Welcome Email","Envoyer un email de bienvenue",module,Magento_Customer
-"Send Welcome Email after Confirmation","Envoyer un mail de bienvenue après la confirmation",module,Magento_Customer
+"Send Welcome Email after Confirmation","Envoyer un email de bienvenue après la confirmation",module,Magento_Customer
 "Send Welcome Email From","Envoyer le message de bienvenue Depuis",module,Magento_Customer
 "Sent","Envoyé",module,Magento_Customer
 "Session Start Time","Début de session",module,Magento_Customer
