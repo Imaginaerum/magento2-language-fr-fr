@@ -44,13 +44,13 @@
 "Allowed IPs (comma separated)","IPs autorisées (séparées par des virgules)",module,Magento_Backend
 "Allows customers to stay logged in when switching between different stores.","Permet aux clients de rester connectés s'ils naviguent entre les différents magasins.",module,Magento_Backend
 "Allow Symlinks","Autoriser les Liens Symboliques",module,Magento_Backend
-"All Store Views","Toutes les Vues magasin",module,Magento_Backend
+"All Store Views","Toutes les vues magasin",module,Magento_Backend
 "All Websites","Tous les Sites Web",module,Magento_Backend
 "Alternative text for next link in pagination menu. If empty, default arrow image will used.","Texte alternatif pour le lien «suivant» dans le menu de pagination. Si vous le laissez vide, c'est la flèche par défaut qui sera utilisée.",module,Magento_Backend
 "Alternative text for previous link in pagination menu. If empty, default arrow image will used.","Texte alternatif pour le lien « précédent » dans le menu de pagination. Si vous le laissez vide, c'est la flèche par défaut qui sera utilisée.",module,Magento_Backend
 "Always (during development)","Toujours (pendant le développement)",module,Magento_Backend
 "Amounts","Montants",module,Magento_Backend
-"Anchor Text for Next","Texte d'ancrage pour Suivant",module,Magento_Backend
+"Anchor Text for Next","Texte d'ancrage pour suivant",module,Magento_Backend
 "Anchor Text for Previous","Texte d'ancrage pour Précédent",module,Magento_Backend
 "An error occurred while clearing the image cache.","Erreur lors de la purge du cache des images.",module,Magento_Backend
 "An error occurred while clearing the JavaScript/CSS cache.","Erreur lors de la purge du cache javascript/CSS.",module,Magento_Backend
@@ -125,7 +125,7 @@
 "Country Options","Options des Pays",module,Magento_Backend
 "Create DB Backup","Créer une sauvegarde de la base de données",module,Magento_Backend
 "Create Store","Créer un magasin",module,Magento_Backend
-"Create Store View","Créer une Vue magasin",module,Magento_Backend
+"Create Store View","Créer une vue magasin",module,Magento_Backend
 "Create URL Rewrite:","Créer une réécriture d'URL :",module,Magento_Backend
 "Create Website","Créer un Site Web",module,Magento_Backend
 "CSS Settings","Paramètres CSS",module,Magento_Backend
@@ -169,7 +169,7 @@
 " [deleted]","   [effacé]",module,Magento_Backend
 "Delete File","Supprimer le Fichier",module,Magento_Backend
 "Delete Store","Supprimer le magasin",module,Magento_Backend
-"Delete Store View","Supprimer la Vue magasin",module,Magento_Backend
+"Delete Store View","Supprimer la vue magasin",module,Magento_Backend
 "Delete Web Site","Supprimer le Site Web",module,Magento_Backend
 "Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","Effacer un %1 n'effacera pas les informations associées avec le %1 (par ex. catégories, produits, etc.), mais il ne sera pas possible de restaurer le %1. Nous vous suggérons de créer une sauvegarde de la base de données avant d'effacer le %1.",module,Magento_Backend
 "Description","Description",module,Magento_Backend
@@ -221,7 +221,7 @@
 "First Day of Week","Premier Jour de la Semaine",module,Magento_Backend
 "First Name","Prénom",module,Magento_Backend
 "Flush Cache Storage","Vider le Cache",module,Magento_Backend
-"Flush Catalog Images Cache","Vider le Cache des Images du catalogue",module,Magento_Backend
+"Flush Catalog Images Cache","Vider le Cache des images du catalogue",module,Magento_Backend
 "Flush JavaScript/CSS Cache","Vider le Cache JavaScript/CSS",module,Magento_Backend
 "Flush Magento Cache","Vider le Cache Magento",module,Magento_Backend
 "Flush Static Files Cache","Vider le Cache des Fichiers Statiques",module,Magento_Backend
@@ -254,7 +254,7 @@
 "Image Adapter","Générateur d'image",module,Magento_Backend
 "Image Processing Settings","Paramètres de traitement d'image",module,Magento_Backend
 "Images","Images",module,Magento_Backend
-"Images Cache","Cache des Images",module,Magento_Backend
+"Images Cache","Cache des images",module,Magento_Backend
 "Images (.gif, .jpg, .png)","Images (.gif, .jpg, .png)",module,Magento_Backend
 "Import History","Historique d'import",module,Magento_Backend
 "Incl. Tax","TTC",module,Magento_Backend
@@ -323,13 +323,13 @@
 "New Password","Nouveau mot de passe",module,Magento_Backend
 "New Store","Nouveau magasin",module,Magento_Backend
 "New Store Design Change","Nouveau changement de design",module,Magento_Backend
-"New Store View","Nouvelle Vue magasin",module,Magento_Backend
+"New Store View","Nouvelle vue magasin",module,Magento_Backend
 "New Web Site","Nouveau Site Web",module,Magento_Backend
 "Next","Suivant",module,Magento_Backend
-"Next page","Page Suivante",module,Magento_Backend
+"Next page","Page suivante",module,Magento_Backend
 "No","Non",module,Magento_Backend
-"No change","Aucun Changement",module,Magento_Backend
-"No Data Found","Aucune Donnée Trouvée",module,Magento_Backend
+"No change","Aucun changement",module,Magento_Backend
+"No Data Found","Aucune donnée trouvée",module,Magento_Backend
 "No records found.","Aucun élément trouvé.",module,Magento_Backend
 "No search modules were registered","Aucun module de recherche n'a été sauvegardé",module,Magento_Backend
 "-- No Theme --","-- Aucun thème --",module,Magento_Backend
@@ -394,7 +394,7 @@
 "Please wait...","Veuillez patienter...",module,Magento_Backend
 "Please wait, loading...","Veuillez patienter, chargement en cours...",module,Magento_Backend
 "Port (25)","Port (25)",module,Magento_Backend
-"Pregenerated product images files","Fichiers des Images produits prégénérés",module,Magento_Backend
+"Pregenerated product images files","Fichiers des images produits prégénérés",module,Magento_Backend
 "Preprocessed view files and static files","Fichiers de vue et fichiers statiques prétraités",module,Magento_Backend
 "Previous","Précédent",module,Magento_Backend
 "Previous page","Page Précédente",module,Magento_Backend
@@ -403,7 +403,7 @@
 "Product","Produit",module,Magento_Backend
 "Quantity","Quantité",module,Magento_Backend
 "Rebuild","Reconstruire",module,Magento_Backend
-"Rebuild Catalog Index","Reconstruire l'Index du catalogue",module,Magento_Backend
+"Rebuild Catalog Index","Reconstruire l'index du catalogue",module,Magento_Backend
 "Rebuild Flat Catalog Category","Reconstruire le catalogue à plat des catégories",module,Magento_Backend
 "Rebuild Flat Catalog Product","Reconstruire le catalogue à plat des produits",module,Magento_Backend
 "records found","enregistrements trouvés",module,Magento_Backend
@@ -411,7 +411,7 @@
 "Redirect","Rediriger",module,Magento_Backend
 "Refresh","Rafraîchir",module,Magento_Backend
 "Region/State","Région/État",module,Magento_Backend
-"Reload Data","Recharger les Données",module,Magento_Backend
+"Reload Data","Recharger les données",module,Magento_Backend
 "Report Bugs","Rapporter un Bug",module,Magento_Backend
 "Request Path","Chemin de requête",module,Magento_Backend
 "Required","Requis",module,Magento_Backend
@@ -429,7 +429,7 @@
 "Save Cache Settings","Sauvegarder les paramètres du cache",module,Magento_Backend
 "Save Config","Sauvegarder la configuration",module,Magento_Backend
 "Save Store","Sauvegarder le magasin",module,Magento_Backend
-"Save Store View","Sauvegarder la Vue magasin",module,Magento_Backend
+"Save Store View","Sauvegarder la vue magasin",module,Magento_Backend
 "Save Web Site","Sauvegarder le Site Web",module,Magento_Backend
 "Scope:","Portée :",module,Magento_Backend
 "Search","Rechercher",module,Magento_Backend
@@ -570,7 +570,7 @@
 "Translate Inline","Traduire en Ligne",module,Magento_Backend
 "Type","Type",module,Magento_Backend
 "Unable to delete store. Please, try again later.","Impossible de supprimer le magasin. Veuillez réessayer ultérieurement.",module,Magento_Backend
-"Unable to delete store view. Please, try again later.","Impossible de supprimer la Vue magasin. Veuillez réessayer ultérieurement.",module,Magento_Backend
+"Unable to delete store view. Please, try again later.","Impossible de supprimer la vue magasin. Veuillez réessayer ultérieurement.",module,Magento_Backend
 "Unable to delete website. Please, try again later.","Impossible de supprimer le Site Web. Veuillez réessayer ultérieurement.",module,Magento_Backend
 "Unable to proceed. Please, try again.","Impossible de continuer. Veuillez réessayer ultérieurement.",module,Magento_Backend
 "Unable to proceed. Please, try again","Impossible de continuer. Veuillez réessayer ultérieurement",module,Magento_Backend

@@ -27,7 +27,7 @@
 "begin typing to add value","Commencez à saisir pour ajouter une valeur",module,Magento_ConfigurableProduct
 "Browse Files...","Parcourir les fichiers...",module,Magento_ConfigurableProduct
 "Browse to find or drag image here","Parcourir les fichiers ou glisser l'image ici",module,Magento_ConfigurableProduct
-"Bulk Images &amp; Price","Action de masse Images &amp; prix",module,Magento_ConfigurableProduct
+"Bulk Images &amp; Price","Action de masse images &amp; prix",module,Magento_ConfigurableProduct
 "Cancel","Annuler",module,Magento_ConfigurableProduct
 "Cannot add the item to shopping cart","Impossible d'ajouter l'article au panier",module,Magento_ConfigurableProduct
 "Cannot delete option with id: %1","Impossible de supprimer l'option ID %1",module,Magento_ConfigurableProduct
@@ -136,7 +136,7 @@
 "Status","Statut",module,Magento_ConfigurableProduct
 "Step 1: Select Attributes","Étape 1 : Sélection des attributs",module,Magento_ConfigurableProduct
 "Step 2: Attribute Values","Étape 2 : Valeurs des attributs",module,Magento_ConfigurableProduct
-"Step 3: Bulk Images, Price, and Quantity","Étape 3 : Images, prix et quantités",module,Magento_ConfigurableProduct
+"Step 3: Bulk Images, Price, and Quantity","Étape 3 : images, prix et quantités",module,Magento_ConfigurableProduct
 "Step 4: Summary","Étape 4 : Résumé",module,Magento_ConfigurableProduct
 "Stock Availability","Disponibilité",module,Magento_ConfigurableProduct
 "Summary","Résumé",module,Magento_ConfigurableProduct
