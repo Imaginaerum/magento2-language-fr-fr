@@ -7,7 +7,7 @@
 "Enable ""Remember Me""","Activer ""Se souvenir de moi""",module,Magento_Persistent
 "General Options","Options générales",module,Magento_Persistent
 "Method ""%1"" is not defined in ""%2""","La méthode ""%1"" n'est pas définie dans ""%2""",module,Magento_Persistent
-"(Not %1?)","(Pas %1?)",module,Magento_Persistent
+"(Not %1?)","(Pas %1 ?)",module,Magento_Persistent
 "Not you?","Ce n'est pas vous ?",module,Magento_Persistent
 "Persistence Lifetime (seconds)","Durée de vie de la persistance (secondes)",module,Magento_Persistent
 "Persistent Shopping Cart","Panier persistant",module,Magento_Persistent

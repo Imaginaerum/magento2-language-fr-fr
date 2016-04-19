@@ -25,7 +25,7 @@
 "An error occurred while deleting the item from wish list.","Une erreur s'est produite lors de la suppression de l'article de la liste d'envies.",module,Magento_Wishlist
 "An error occurred while updating wish list.","Une erreur s'est produite lors de la mise à jour de la liste d'envies.",module,Magento_Wishlist
 "An item option with code %1 already exists.","Une option article avec le code %1 existe déjà.",module,Magento_Wishlist
-"Are you sure that you want to remove this item?","Êtes-vous sûr(e) de vouloir retirer cet article?",module,Magento_Wishlist
+"Are you sure that you want to remove this item?","Êtes-vous sûr(e) de vouloir retirer cet article ?",module,Magento_Wishlist
 "Are you sure you want to remove this item?","Êtes-vous sûr(e) de vouloir supprimer cet article ?",module,Magento_Wishlist
 "Are you sure you want to remove this product from your wishlist?","Êtes-vous sûr(e) de vouloir supprimer cet article de votre liste d'envies ?",module,Magento_Wishlist
 "Are you sure you want to remove this product from your Wish List?","Êtes-vous sûr(e) de vouloir supprimer cet article de votre liste d'envies ?",module,Magento_Wishlist

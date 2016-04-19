@@ -7,10 +7,10 @@
 "An error occurred. The email template can not be opened for preview.","Une erreur s'est produite. Le gabarit d'email ne peut pas être ouvert pour aperçu.",module,Magento_Email
 "An error occurred while deleting email template data. Please review log and try again.","Erreur lors de la suppression des données de gabarit d'email. Consultez les logs.",module,Magento_Email
 "Area is already set","La zone est déjà initialisée",module,Magento_Email
-"Are you sure that you want to delete this template?","Êtes-vous sûr(e) de vouloir supprimer ce gabarit?",module,Magento_Email
-"Are you sure that you want to strip tags?","Êtes-vous sûr(e) de vouloir supprimer les tags?",module,Magento_Email
-"Are you sure you want to delete this template?","Êtes-vous sûr(e) de vouloir supprimer ce gabarit?",module,Magento_Email
-"Are you sure you want to strip tags?","Êtes-vous sûr(e) de vouloir supprimer les balises HTML?",module,Magento_Email
+"Are you sure that you want to delete this template?","Êtes-vous sûr(e) de vouloir supprimer ce gabarit ?",module,Magento_Email
+"Are you sure that you want to strip tags?","Êtes-vous sûr(e) de vouloir supprimer les tags ?",module,Magento_Email
+"Are you sure you want to delete this template?","Êtes-vous sûr(e) de vouloir supprimer ce gabarit ?",module,Magento_Email
+"Are you sure you want to strip tags?","Êtes-vous sûr(e) de vouloir supprimer les balises HTML ?",module,Magento_Email
 "Back","Retour",module,Magento_Email
 "Base Secure URL","URL de base sécurisée",module,Magento_Email
 "Base Unsecure URL","URL de base non sécurisée",module,Magento_Email

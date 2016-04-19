@@ -66,7 +66,7 @@
 "Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. http://example.com/magento/","Chacun de ces champs peut utiliser une URL se terminant par '/' (slash) ex : http://example.com/magento/",module,Magento_Backend
 "Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. https://example.com/magento/","Chacun de ces champs peut utiliser une URL se terminant par '/' (slash) ex : https://example.com/magento/",module,Magento_Backend
 "Are you sure?","Êtes-vous sûr(e) ?",module,Magento_Backend
-"Are you sure you want to do this?","Êtes-vous sûr(e) de vouloir faire cela?",module,Magento_Backend
+"Are you sure you want to do this?","Êtes-vous sûr(e) de vouloir faire cela ?",module,Magento_Backend
 "Authentication error occurred.","Une erreur d'authentification s'est produite.",module,Magento_Backend
 "Authentication storage is incorrect.","Le stockage des authentifications est incorrect.",module,Magento_Backend
 "Auto-redirect to Base URL","Rediriger automatiquement vers l'URL de base",module,Magento_Backend
@@ -518,7 +518,7 @@
 "Template Settings","Paramètres de gabarit",module,Magento_Backend
 "The account has been saved.","Le compte a été sauvegardé.",module,Magento_Backend
 "The base directory to upload file is not specified.","Le répertoire de base pour charger l'image n'est pas spécifié.",module,Magento_Backend
-"The cache storage may contain additional data. Are you sure that you want to flush it?","Le  cache peut contenir d\'autres données. Êtes-vous sûr(e) de vouloir le vider?",module,Magento_Backend
+"The cache storage may contain additional data. Are you sure that you want to flush it?","Le  cache peut contenir d\'autres données. Êtes-vous sûr(e) de vouloir le vider ?",module,Magento_Backend
 "The database was backed up.","La base de données a été sauvegardée.",module,Magento_Backend
 "The file you're uploading exceeds the server size limit of %1 kilobytes.","Le fichier chargé dépasse la limite de taille du serveur de %1 Ko.",module,Magento_Backend
 "The image cache was cleaned.","Le cache des images a été nettoyé.",module,Magento_Backend
@@ -621,7 +621,7 @@
 "Views","Vues",module,Magento_Backend
 "View Statistics For:","Voir les statistiques pour :",module,Magento_Backend
 "Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.","Attention ! L'activation de cette fonctionnalité n'est pas recommandée dans un environnement de production car elle présente un risque de sécurité potentiel.",module,Magento_Backend
-"<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).","<strong style=""color:red"">Attention!</strong> Quand vous utilisez le code magasin dans les URLs, il est possible dans certains cas que le système ne fonctionne pas correctement si vous utilisez des services tiers dans lesquels vous avez spécifié des URLs sans le code magasin (ex. PayPal etc.).",module,Magento_Backend
+"<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).","<strong style=""color:red"">Attention !</strong> Quand vous utilisez le code magasin dans les URLs, il est possible dans certains cas que le système ne fonctionne pas correctement si vous utilisez des services tiers dans lesquels vous avez spécifié des URLs sans le code magasin (ex. PayPal etc.).",module,Magento_Backend
 "Web","Web",module,Magento_Backend
 "Web Setup Wizard","Assistant Configuration Web",module,Magento_Backend
 "website(%1) scope","portée du site web (%1)",module,Magento_Backend

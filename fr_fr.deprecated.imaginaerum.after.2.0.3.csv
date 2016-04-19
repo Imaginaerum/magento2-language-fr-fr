@@ -15,7 +15,7 @@
 "An attribute set named '%1' already exists.","Le jeu d'attributs ""%1"" existe déjà.",deprecated,Imaginaerum
 "Are you sure you wan't to delete a ""${ $.$data.title }"" record?","Êtes-vous sûr(e) de vouloir supprimer ""${ $.$data.title }"" ?",deprecated,Imaginaerum
 "Are you sure you wan't to delete a ${ $.$data.title } record?","Êtes-vous sûr(e) de vouloir supprimer ${ $.$data.title } ?",deprecated,Imaginaerum
-"Are you sure you want to delete this integration? You can't undo this action.","Êtes-vous sûr(e) de vouloir supprimer cette intégration? Vous ne pouvez pas annuler cette action.",deprecated,Imaginaerum
+"Are you sure you want to delete this integration? You can't undo this action.","Êtes-vous sûr(e) de vouloir supprimer cette intégration ? Vous ne pouvez pas annuler cette action.",deprecated,Imaginaerum
 "Attribute %1 doesn't have any option","L'attribut %1 ne possède aucune option",deprecated,Imaginaerum
 "Attribute %1 doesn't work with options","L'attribut %1 ne fonctionne pas avec des options",deprecated,Imaginaerum
 "Attribute '%1' is locked. %2","Attribut '%1' est verrouillé. %2",deprecated,Imaginaerum
@@ -213,7 +213,7 @@
                             from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
                             Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                             The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                            or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br/>
+                            or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement ?</a><br/>
                                 <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit&#174;. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
                                 Utilisez les bannières publicitaires gratuites de PayPal Credit&#174; comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
                                 Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
@@ -223,7 +223,7 @@
                         from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
                         Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                         The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                        or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br/>
+                        or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement ?</a><br/>
                                 <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit&#174;. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
                                 Utilisez les bannières publicitaires gratuites de PayPal Credit&#174; comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
                                 Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
@@ -233,7 +233,7 @@
                                             from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
                                             Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                                             The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br/>
+                                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement ?</a><br/>
                                 <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit&#174;. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
                                 Utilisez les bannières publicitaires gratuites de PayPal Credit&#174; comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
                                 Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
@@ -243,7 +243,7 @@
                                 from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
                                 Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                                 The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                                or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br/>
+                                or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement ?</a><br/>
                                 <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit&#174;. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
                                 Utilisez les bannières publicitaires gratuites de PayPal Credit&#174; comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
                                 Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%

@@ -18,7 +18,7 @@
 "An error occurred while updating the selected review(s).","Erreur lors de la mise à jour des commentaires sélectionnés.",module,Magento_Review
 "Approved","Approuvé",module,Magento_Review
 "Are you sure?","Êtes-vous sûr(e) ?",module,Magento_Review
-"Are you sure you want to do this?","Êtes-vous sûr(e) de vouloir faire cela?",module,Magento_Review
+"Are you sure you want to do this?","Êtes-vous sûr(e) de vouloir faire cela ?",module,Magento_Review
 "Assigned Options","Options attribuées",module,Magento_Review
 "A total of %1 record(s) have been deleted.","Un total de %1 enregistrement(s) supprimé(s).",module,Magento_Review
 "A total of %1 record(s) have been updated.","Un total de %1 enregistrement(s) mis à jour.",module,Magento_Review

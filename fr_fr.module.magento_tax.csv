@@ -12,7 +12,7 @@
 "Apply discount on price including tax is calculated based on store tax if ""Apply Tax after Discount"" is selected.","L’application du montant de réduction sur les prix TTC est calculée sur la base de la taxe du magasin si ""Appliquer les taxes après la remise"" est sélectionnée.",module,Magento_Tax
 "Apply Discount On Prices","Appliquer la remise sur les prix",module,Magento_Tax
 "Apply Tax On","Appliquer la taxe sur",module,Magento_Tax
-"Are you sure you want to do this?","Êtes-vous sûr(e) de vouloir faire cela?",module,Magento_Tax
+"Are you sure you want to do this?","Êtes-vous sûr(e) de vouloir faire cela ?",module,Magento_Tax
 "Asynchronous sending","Envoi asynchrone",module,Magento_Tax
 "Back","Retour",module,Magento_Tax
 "Before Discount","Avant remise",module,Magento_Tax
@@ -48,8 +48,8 @@
 "Display Shipping Prices","Afficher les prix de livraison",module,Magento_Tax
 "Display Subtotal","Afficher le sous-total",module,Magento_Tax
 "Display Zero Tax Subtotal","Afficher le sous-total lorsqu'il est nul",module,Magento_Tax
-"Do you really want to delete this tax class?","Voulez-vous vraiment supprimer cette classe de taxe?",module,Magento_Tax
-"Do you really want to delete this tax rate?","Voulez-vous vraiment supprimer ce taux de taxe?",module,Magento_Tax
+"Do you really want to delete this tax class?","Voulez-vous vraiment supprimer cette classe de taxe ?",module,Magento_Tax
+"Do you really want to delete this tax rate?","Voulez-vous vraiment supprimer ce taux de taxe ?",module,Magento_Tax
 "Edit Rule","Modifier la règle",module,Magento_Tax
 "Edit Tax Rate","Modifier le taux de la taxe",module,Magento_Tax
 "Enable Cross Border Trade","Activer la vente transfrontalière",module,Magento_Tax

@@ -5,9 +5,9 @@
 "Allow Guest Subscription","Autoriser l'inscription des invités",module,Magento_Newsletter
 "An error occurred while deleting this template.","Erreur lors de la suppression de ce gabarit.",module,Magento_Newsletter
 "An error occurred while saving this template.","Erreur lors de la sauvegarde de ce gabarit.",module,Magento_Newsletter
-"Are you sure that you want to delete this template?","Êtes-vous sûr(e) de vouloir supprimer ce gabarit?",module,Magento_Newsletter
-"Are you sure that you want to strip all tags?","Êtes-vous sûr(e) de vouloir supprimer tous les tags?",module,Magento_Newsletter
-"Are you sure you want to delete this template?","Êtes-vous sûr(e) de vouloir supprimer ce gabarit?",module,Magento_Newsletter
+"Are you sure that you want to delete this template?","Êtes-vous sûr(e) de vouloir supprimer ce gabarit ?",module,Magento_Newsletter
+"Are you sure that you want to strip all tags?","Êtes-vous sûr(e) de vouloir supprimer tous les tags ?",module,Magento_Newsletter
+"Are you sure you want to delete this template?","Êtes-vous sûr(e) de vouloir supprimer ce gabarit ?",module,Magento_Newsletter
 "A total of %1 record(s) were updated.","Un total de %1 enregistrement(s) mis à jour.",module,Magento_Newsletter
 "Back","Retour",module,Magento_Newsletter
 "Cancel","Annuler",module,Magento_Newsletter
@@ -37,8 +37,8 @@
 "Error Code","Code Erreur",module,Magento_Newsletter
 "Error Text","Erreur texte",module,Magento_Newsletter
 "Excel XML","XML Excel",module,Magento_Newsletter
-"Follow this link to unsubscribe <!-- This tag is for unsubscribe link  -->' '<a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}' '</a>","Cliquez sur ce lien pour vous désinscrire <!-- Sert au lien de désinscription --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>",module,Magento_Newsletter
-"Follow this link to unsubscribe <!-- This tag is for unsubscribe link  --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>","Cliquez sur ce lien pour vous désinscrire <!-- Sert au lien de désinscription --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>",module,Magento_Newsletter
+"Follow this link to unsubscribe <!-- This tag is for unsubscribe link  -->' '<a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}' '</a>","Cliquez sur ce lien pour vous désinscrire < !-- Sert au lien de désinscription --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>",module,Magento_Newsletter
+"Follow this link to unsubscribe <!-- This tag is for unsubscribe link  --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>","Cliquez sur ce lien pour vous désinscrire < !-- Sert au lien de désinscription --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>",module,Magento_Newsletter
 "Guest","Invité",module,Magento_Newsletter
 "ID","ID",module,Magento_Newsletter
 "Message","Message",module,Magento_Newsletter
