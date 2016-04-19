@@ -156,7 +156,7 @@
 "Review & Payments","Vérification & Paiement",module,Magento_Checkout
 "Save Address","Sauvegarder l'adresse",module,Magento_Checkout
 "Save in address book","Sauvegarder dans le carnet d'adresses",module,Magento_Checkout
-"See Details","Voir les Détails",module,Magento_Checkout
+"See Details","Voir les détails",module,Magento_Checkout
 "See price before order confirmation.","Voir le prix avant la confirmation de la commande.",module,Magento_Checkout
 "Select a billing address from your address book or enter a new address.","Choisissez une adresse de facturation dans votre carnet d'adresses ou saisissez une nouvelle adresse.",module,Magento_Checkout
 "Select a shipping address from your address book or enter a new address.","Choisissez une adresse de livraison dans votre carnet d'adresses ou saisissez une <a href=""#"" onclick=""shipping.newAddress(true); return false;"">nouvelle adresse</a>.",module,Magento_Checkout

@@ -15,7 +15,7 @@
 "Incorrect format of WSDL request URI or Requested services are missing.","Format WSDL incorrect, URI ou service manquants.",module,Magento_Webapi
 "Integrations API Configuration","Configuration API Intégrations",module,Magento_Webapi
 "Integrations API configuration file.","Intégrations API du fichier de configuration.",module,Magento_Webapi
-"Internal Error. Details are available in Magento log file. Report ID: %1","Erreur interne. Détails disponibles dans les fichiers log Magento. ID rapport: %1",module,Magento_Webapi
+"Internal Error. Details are available in Magento log file. Report ID: %1","Erreur interne. détails disponibles dans les fichiers log Magento. ID rapport: %1",module,Magento_Webapi
 "Invalid XML","XML invalide",module,Magento_Webapi
 "Invalid XML: Detected use of illegal DOCTYPE","XML invalide : Détection d'une utilisation illégale de DOCTYPE",module,Magento_Webapi
 "Magento is not yet installed","Magento n'est pas installé",module,Magento_Webapi

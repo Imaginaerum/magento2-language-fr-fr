@@ -51,7 +51,7 @@
 "Always (during development)","Toujours (pendant le développement)",module,Magento_Backend
 "Amounts","Montants",module,Magento_Backend
 "Anchor Text for Next","Texte d'ancrage pour suivant",module,Magento_Backend
-"Anchor Text for Previous","Texte d'ancrage pour Précédent",module,Magento_Backend
+"Anchor Text for Previous","Texte d'ancrage pour précédent",module,Magento_Backend
 "An error occurred while clearing the image cache.","Erreur lors de la purge du cache des images.",module,Magento_Backend
 "An error occurred while clearing the JavaScript/CSS cache.","Erreur lors de la purge du cache javascript/CSS.",module,Magento_Backend
 "An error occurred while deleting URL Rewrite.","Une erreur est survenue pendant la suppression des réécritures d'URLs.",module,Magento_Backend
@@ -397,7 +397,7 @@
 "Pregenerated product images files","Fichiers des images produits prégénérés",module,Magento_Backend
 "Preprocessed view files and static files","Fichiers de vue et fichiers statiques prétraités",module,Magento_Backend
 "Previous","Précédent",module,Magento_Backend
-"Previous page","Page Précédente",module,Magento_Backend
+"Previous page","Page précédente",module,Magento_Backend
 "Price","Prix",module,Magento_Backend
 "Product:","Produit :",module,Magento_Backend
 "Product","Produit",module,Magento_Backend

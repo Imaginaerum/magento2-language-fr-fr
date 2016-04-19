@@ -105,10 +105,10 @@
 "Review(s)","Avis",module,Magento_Review
 "Review (submitted on %1):","Avis (soumis le %1) :",module,Magento_Review
 "Save and Next","Sauvegarder et suivant",module,Magento_Review
-"Save and Previous","Sauvegarder et Précédent",module,Magento_Review
+"Save and Previous","Sauvegarder et précédent",module,Magento_Review
 "Save Rating","Sauvegarder la notation",module,Magento_Review
 "Save Review","Sauvegarder le commentaire",module,Magento_Review
-"See Details","Voir les Détails",module,Magento_Review
+"See Details","Voir les détails",module,Magento_Review
 "SKU","SKU",module,Magento_Review
 "Something went wrong  deleting this review.","Une erreur s'est produite lors de la suppression de l'avis.",module,Magento_Review
 "Something went wrong while deleting these records.","Une erreur s'est produite lors de la suppression de ces enregistrements.",module,Magento_Review
