@@ -31,7 +31,7 @@
 "Discount Amount","Montant de la Remise",module,Magento_CatalogRule
 "Discount value should be 0 or greater.","La valeur de la remise doit être supérieure à 0.",module,Magento_CatalogRule
 "Edit Rule '%1'","Modifier la règle '%1'",module,Magento_CatalogRule
-"Edit Rule","Modifier la Règle",module,Magento_CatalogRule
+"Edit Rule","Modifier la règle",module,Magento_CatalogRule
 "Enable Discount to Subproducts","Activer les remises sur les sous-produits",module,Magento_CatalogRule
 "End","Fin",module,Magento_CatalogRule
 "End on","Fin le",module,Magento_CatalogRule

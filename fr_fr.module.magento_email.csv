@@ -30,8 +30,8 @@
 "Design params must be set before calling this method","Les paramètres du design doivent être initialisés avant d'appeler cette méthode",module,Magento_Email
 "Duplicate Of Template Name","Duplication du nom de gabarit",module,Magento_Email
 "Edit Email Template","Modifier le gabarit de l'email",module,Magento_Email
-"Edit System Template","Éditer le gabarit système",module,Magento_Email
-"Edit Template","Éditer le gabarit",module,Magento_Email
+"Edit System Template","Modifier le gabarit système",module,Magento_Email
+"Edit Template","Modifier le gabarit",module,Magento_Email
 "Email Preview","Prévisualisation de l'email",module,Magento_Email
 "Emails","Emails",module,Magento_Email
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée.",module,Magento_Email

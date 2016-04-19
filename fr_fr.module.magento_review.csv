@@ -43,8 +43,8 @@
 "Detailed Rating","Notation détaillée",module,Magento_Review
 "Edit","Éditer",module,Magento_Review
 "Edit Rating #%1","Modifier la note #%1",module,Magento_Review
-"Edit Review '%1'","Modifier l'avis '%1'",module,Magento_Review
-"Edit Review","Éditer le commentaire '%s'",module,Magento_Review
+"Edit Review '%1'","Modifier le commentaire '%1'",module,Magento_Review
+"Edit Review","Modifier le commentaire",module,Magento_Review
 "Guest","Invité",module,Magento_Review
 "How do you rate this product?","Quelle note donneriez-vous à ce produit ?",module,Magento_Review
 "ID","ID",module,Magento_Review

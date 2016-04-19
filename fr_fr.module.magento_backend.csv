@@ -186,14 +186,14 @@
 "Display default currency","Afficher la devise par défaut",module,Magento_Backend
 "Edit","Éditer",module,Magento_Backend
 "Edit Design Change","Modifier le changement de design",module,Magento_Backend
-"Edit Store","Modifier le Magasin",module,Magento_Backend
+"Edit Store","Modifier le magasin",module,Magento_Backend
 "Edit Store Design Change","Modifier le changement de design du magasin",module,Magento_Backend
 "Edit Store View","Modifier la vue magasin",module,Magento_Backend
-"Edit URL Rewrite","Éditer la réécriture d'URL",module,Magento_Backend
+"Edit URL Rewrite","Modifier la réécriture d'URL",module,Magento_Backend
 "Edit URL Rewrite for a Category","Modifier une réécriture d'URL pour une catégorie",module,Magento_Backend
 "Edit URL Rewrite for a Product","Modifer une réécriture d'URL pour un produit",module,Magento_Backend
 "Edit URL Rewrite for CMS page","Modifer une réécriture d'URL pour une page CMS",module,Magento_Backend
-"Edit Web Site","Modifier le Site Web",module,Magento_Backend
+"Edit Web Site","Modifier le site web",module,Magento_Backend
 "Email","Email",module,Magento_Backend
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée.",module,Magento_Backend
 "Enable","Activer",module,Magento_Backend

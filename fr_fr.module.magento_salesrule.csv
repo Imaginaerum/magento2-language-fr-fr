@@ -58,7 +58,7 @@
 "Discount Amount","Montant de la Remise",module,Magento_SalesRule
 "Discount Qty Step (Buy X)","Quantité pour obtenir la remise (Achetez-en X)",module,Magento_SalesRule
 "Edit Rule '%1'","Modifier la règle '%1'",module,Magento_SalesRule
-"Edit Rule","Modifier la Règle",module,Magento_SalesRule
+"Edit Rule","Modifier la règle",module,Magento_SalesRule
 "End","Fin",module,Magento_SalesRule
 "End on","Fin le",module,Magento_SalesRule
 "Enter discount code","Entrez le code de réduction",module,Magento_SalesRule

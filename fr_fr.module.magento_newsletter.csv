@@ -29,8 +29,8 @@
 "Duplicate template code","Code de gabarit dupliqué",module,Magento_Newsletter
 "Edit Newsletter","Modifier la lettre d'information",module,Magento_Newsletter
 "Edit Newsletter Template","Modifier le gabarit de la lettre d'information",module,Magento_Newsletter
-"Edit Queue","Modifier la file d(attente",module,Magento_Newsletter
-"Edit Template","Éditer le gabarit",module,Magento_Newsletter
+"Edit Queue","Modifier la file d'attente",module,Magento_Newsletter
+"Edit Template","Modifier le gabarit",module,Magento_Newsletter
 "Email","Email",module,Magento_Newsletter
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée.",module,Magento_Newsletter
 "Enter your email address","Saisissez votre email",module,Magento_Newsletter

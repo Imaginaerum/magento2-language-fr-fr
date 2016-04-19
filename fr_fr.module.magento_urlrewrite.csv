@@ -23,7 +23,7 @@
 "Do not use two or more consecutive slashes in the request path.","Ne pas utiliser deux slashes (""/"") ou plus consécutifs dans le chemin de la requête.",module,Magento_UrlRewrite
 "Do not use two or more consecutive slashes in the url rewrite suffix.","Ne pas utiliser deux ou plusieurs slashes (""/"") consécutifs dans le suffixe de la réécriture d'URL.",module,Magento_UrlRewrite
 "Edit","Éditer",module,Magento_UrlRewrite
-"Edit URL Rewrite","Éditer la réécriture d'URL",module,Magento_UrlRewrite
+"Edit URL Rewrite","Modifier la réécriture d'URL",module,Magento_UrlRewrite
 "Edit URL Rewrite for a Category","Modifier une réécriture d'URL pour une catégorie",module,Magento_UrlRewrite
 "Edit URL Rewrite for a Product","Modifer une réécriture d'URL pour un produit",module,Magento_UrlRewrite
 "Edit URL Rewrite for CMS page","Modifer une réécriture d'URL pour une page CMS",module,Magento_UrlRewrite

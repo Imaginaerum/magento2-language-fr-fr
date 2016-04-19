@@ -50,8 +50,8 @@
 "Display Zero Tax Subtotal","Afficher le sous-total lorsqu'il est nul",module,Magento_Tax
 "Do you really want to delete this tax class?","Voulez-vous vraiment supprimer cette classe de taxe?",module,Magento_Tax
 "Do you really want to delete this tax rate?","Voulez-vous vraiment supprimer ce taux de taxe?",module,Magento_Tax
-"Edit Rule","Modifier la Règle",module,Magento_Tax
-"Edit Tax Rate","Éditer le taux de la taxe",module,Magento_Tax
+"Edit Rule","Modifier la règle",module,Magento_Tax
+"Edit Tax Rate","Modifier le taux de la taxe",module,Magento_Tax
 "Enable Cross Border Trade","Activer la vente transfrontalière",module,Magento_Tax
 "Entity already exists","L'entité existe déjà",module,Magento_Tax
 "Excel XML","XML Excel",module,Magento_Tax
