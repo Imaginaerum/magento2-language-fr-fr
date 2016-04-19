@@ -89,7 +89,7 @@
 "Before modifying the website code please make sure that it is not used in index.php.","Avant de modifier le code de site web, assurez-vous qu'il n'est pas utilisé dans le fichier index.php.",module,Magento_Backend
 "Bestsellers","Meilleures ventes",module,Magento_Backend
 "Big Image","Grande Image",module,Magento_Backend
-"Block Information","Information du Bloc",module,Magento_Backend
+"Block Information","Information du bloc",module,Magento_Backend
 "Browse Files...","Parcourir les fichiers...",module,Magento_Backend
 "Cache Control","Contrôle du cache",module,Magento_Backend
 "Cache Management","Gestion du cache",module,Magento_Backend

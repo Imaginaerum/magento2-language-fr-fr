@@ -53,7 +53,7 @@
 "Create Configurations","Créer des Configurations",module,Magento_ConfigurableProduct
 "Create Empty","Créer vide",module,Magento_ConfigurableProduct
 "Create New Attribute","Créer un nouvel attribut",module,Magento_ConfigurableProduct
-"Create New Value","Créez une nouvelle Valeur",module,Magento_ConfigurableProduct
+"Create New Value","Créez une nouvelle valeur",module,Magento_ConfigurableProduct
 "Create New Variation Set","Créer un nouveau jeu de variations",module,Magento_ConfigurableProduct
 "Create Product Configurations","Créer des configurations de produit",module,Magento_ConfigurableProduct
 "Current Variations","Variations actuelles",module,Magento_ConfigurableProduct
@@ -135,7 +135,7 @@
 "Sort Variations","Trier les variations",module,Magento_ConfigurableProduct
 "Status","Statut",module,Magento_ConfigurableProduct
 "Step 1: Select Attributes","Étape 1 : Sélection des attributs",module,Magento_ConfigurableProduct
-"Step 2: Attribute Values","Étape 2 : Valeurs des attributs",module,Magento_ConfigurableProduct
+"Step 2: Attribute Values","Étape 2 : valeurs des attributs",module,Magento_ConfigurableProduct
 "Step 3: Bulk Images, Price, and Quantity","Étape 3 : images, prix et quantités",module,Magento_ConfigurableProduct
 "Step 4: Summary","Étape 4 : Résumé",module,Magento_ConfigurableProduct
 "Stock Availability","Disponibilité",module,Magento_ConfigurableProduct

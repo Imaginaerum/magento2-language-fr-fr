@@ -1,6 +1,6 @@
 "A block identifier with the same properties already exists in the selected store.","Il existe déjà un identifiant de bloc ayant les mêmes propriétés dans la boutique sélectionnée.",module,Magento_Cms
 "Action","Action",module,Magento_Cms
-"Add New Block","Ajouter un nouveau Bloc",module,Magento_Cms
+"Add New Block","Ajouter un nouveau bloc",module,Magento_Cms
 "Add New Page","Ajouter une nouvelle page",module,Magento_Cms
 "All Store Views","Toutes les vues magasin",module,Magento_Cms
 "Anchor Custom Text","Présenter un texte personnalisé",module,Magento_Cms
@@ -15,7 +15,7 @@
 "A total of %1 record(s) have been disabled.","Un total de %1 enregistrement(s) désactivé(s).",module,Magento_Cms
 "A total of %1 record(s) have been enabled.","Un total de %1 enregistrement(s) activé(s).",module,Magento_Cms
 "Block","Bloc",module,Magento_Cms
-"Block Information","Information du Bloc",module,Magento_Cms
+"Block Information","Information du bloc",module,Magento_Cms
 "Blocks","Blocs",module,Magento_Cms
 "Block Title","Titre du bloc",module,Magento_Cms
 "Browse Files...","Parcourir les fichiers...",module,Magento_Cms
@@ -49,7 +49,7 @@
 "Custom Layout Update XML","XML de mise à jour de l'agencement personnalisé",module,Magento_Cms
 "Custom Theme","Thème personnalisé",module,Magento_Cms
 "Delete","Supprimer",module,Magento_Cms
-"Delete Block","Supprimer le Bloc",module,Magento_Cms
+"Delete Block","Supprimer le bloc",module,Magento_Cms
 "Delete ""${ $.$data.title }""","Supprimer ${ $.$data.title }",module,Magento_Cms
 "Delete ${ $.$data.title }","Supprimer ${ $.$data.title }",module,Magento_Cms
 "Delete File","Supprimer le fichier",module,Magento_Cms
@@ -115,10 +115,10 @@
 "Relative to Web Site Base URL","Relative à l'URL de base du site web",module,Magento_Cms
 "RuntimeException","RuntimeException",module,Magento_Cms
 "Save and Continue Edit","Sauvegarder et continuer à modifier",module,Magento_Cms
-"Save Block","Sauvegarder le Bloc",module,Magento_Cms
+"Save Block","Sauvegarder le bloc",module,Magento_Cms
 "Save Page","Sauvegarder la page",module,Magento_Cms
 "Schedule","Tâches Programmées",module,Magento_Cms
-"Select Block...","Sélectionnez un Bloc...",module,Magento_Cms
+"Select Block...","Sélectionnez un bloc...",module,Magento_Cms
 "Select Page...","Choisissez une page...",module,Magento_Cms
 "Show Breadcrumbs for CMS Pages","Afficher le fil d'Ariane pour les pages CMS",module,Magento_Cms
 "Show Notice if JavaScript is Disabled","Afficher un message si javascript est désactivé",module,Magento_Cms

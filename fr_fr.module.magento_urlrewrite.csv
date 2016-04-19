@@ -11,7 +11,7 @@
 "An error occurred while saving URL Rewrite.","Une erreur est survenue pendant l'enregistrement de la réécriture d'URL.",module,Magento_UrlRewrite
 "Are you sure you want to do this?","Êtes-vous sûr(e) de vouloir faire cela ?",module,Magento_UrlRewrite
 "Back","Retour",module,Magento_UrlRewrite
-"Block Information","Information du Bloc",module,Magento_UrlRewrite
+"Block Information","Information du bloc",module,Magento_UrlRewrite
 "Category:","Catégorie :",module,Magento_UrlRewrite
 "Chosen cms page does not associated with any website.","La page CMS n'est pas associée à un site web.",module,Magento_UrlRewrite
 "CMS page:","Page CMS :",module,Magento_UrlRewrite
