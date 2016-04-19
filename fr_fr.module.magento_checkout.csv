@@ -49,7 +49,7 @@
 "Display Shopping Cart Sidebar","Afficher la barre latérale du panier",module,Magento_Checkout
 "Easy access to your order history and status","Consultez et suivez vos commandes",module,Magento_Checkout
 "Edit","Éditer",module,Magento_Checkout
-"edit","Éditer",module,Magento_Checkout
+"edit","éditer",module,Magento_Checkout
 "Edit item","Éditer l'article",module,Magento_Checkout
 "Edit item parameters","Éditer les paramètres de l'article",module,Magento_Checkout
 "Edit Your Cart","Modifiez votre panier",module,Magento_Checkout

@@ -262,7 +262,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Edit","Éditer",module,Magento_Catalog
 "Edit Attribute Set '%1'","Modifier le jeu d'attributs '%1'",module,Magento_Catalog
 "Edit Attribute Set Name","Modifier le nom du groupe d'attribut",module,Magento_Catalog
-"Edit Configurations","Editer les Configurations",module,Magento_Catalog
+"Edit Configurations","Modifier les configurations",module,Magento_Catalog
 "Edit Product Attribute ""%1""","Modifier l'attribut produit ""%1""",module,Magento_Catalog
 "Edit Product Attribute","Éditer l'attribut produit",module,Magento_Catalog
 "Edit Search '%1'","Modifier la recherche '%1'",module,Magento_Catalog

@@ -65,8 +65,8 @@
 "Disabled by Default","Désactivé par défaut",module,Magento_Cms
 "Disabled Completely","Désactivé complètement",module,Magento_Cms
 "Edit","Éditer",module,Magento_Cms
-"Edit Block '%1'","Éditer le Bloc '%1'",module,Magento_Cms
-"Edit Block","Éditer le Bloc",module,Magento_Cms
+"Edit Block '%1'","Modifier le bloc '%1'",module,Magento_Cms
+"Edit Block","Modifier le bloc",module,Magento_Cms
 "Edit Page '%1'","Éditer la Page '%1'",module,Magento_Cms
 "Edit Page","Éditer la Page",module,Magento_Cms
 "Elements","Éléments",module,Magento_Cms

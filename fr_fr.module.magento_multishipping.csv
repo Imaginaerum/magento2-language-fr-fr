@@ -26,7 +26,7 @@
 "Default Billing","Facturation par défaut",module,Magento_Multishipping
 "Default Shipping","Livraison par défaut",module,Magento_Multishipping
 "Edit","Éditer",module,Magento_Multishipping
-"Edit Address","Modifier l'Adresse",module,Magento_Multishipping
+"Edit Address","Modifier l'adresse",module,Magento_Multishipping
 "Edit Billing Address","Modifier l'adresse de facturation",module,Magento_Multishipping
 "Edit Items","Modifier les articles",module,Magento_Multishipping
 "Edit Shipping Address","Modifier l'adresse de livraison",module,Magento_Multishipping
