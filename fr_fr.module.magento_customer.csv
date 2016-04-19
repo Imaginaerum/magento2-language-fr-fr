@@ -152,7 +152,7 @@
 "Default Addresses","Adresses par défaut",module,Magento_Customer
 "Default Billing Address","Adresse de facturation par défaut",module,Magento_Customer
 "Default Email Domain","Domaine de mail par défaut",module,Magento_Customer
-"Default Group","Groupe par Défaut",module,Magento_Customer
+"Default Group","Groupe par défaut",module,Magento_Customer
 "Default Shipping Address","Adresse de livraison par défaut",module,Magento_Customer
 "Default Value for Disable Automatic Group Changes Based on VAT ID","Valeur par défaut pour la désactivation des changements de groupe automatiques basés sur le numéro de TVA",module,Magento_Customer
 "Default Welcome Email","Email d'accueil par défaut",module,Magento_Customer
