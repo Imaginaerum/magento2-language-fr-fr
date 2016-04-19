@@ -327,7 +327,7 @@
 "No order(s) were released from on hold status.","Aucune commande débloquée.",module,Magento_Sales
 "No Payment Methods","Aucun mode de paiement",module,Magento_Sales
 "No shipping information available","Aucune information de livraison disponible",module,Magento_Sales
-"Not Capture","Pas de Capture",module,Magento_Sales
+"Not Capture","Pas de capture",module,Magento_Sales
 "Notes for this Order","Notes pour cette commande",module,Magento_Sales
 "Notification Not Applicable","Notification non-applicable",module,Magento_Sales
 "Notified","Notifié",module,Magento_Sales

@@ -59,7 +59,7 @@
 "Capture action","Action de capture",module,Magento_Braintree
 "Cardholder Name","Nom du titulaire de la carte",module,Magento_Braintree
 "Cardholder name is too long.","Nom du titulaire de la carte trop long.",module,Magento_Braintree
-"Card Number","Numéro de Carte",module,Magento_Braintree
+"Card Number","Numéro de carte",module,Magento_Braintree
 "Card Verification Number","Numéro de cryptogramme",module,Magento_Braintree
 "Card Verification Number Visual Reference","Référence visuelle numérique de vérification de carte",module,Magento_Braintree
 "Channel is too long","Chaîne trop longue",module,Magento_Braintree
@@ -78,9 +78,9 @@
 "Country name is not an accepted country.","Non du pays non accepté.",module,Magento_Braintree
 "Country Specific Credit Card Types","Types de cartes bancaires spécifiques pays",module,Magento_Braintree
 "Country Specific Settings","Paramètres spécifiques des pays",module,Magento_Braintree
-"Credit Card","Carte de Crédit",module,Magento_Braintree
+"Credit Card","Carte de crédit",module,Magento_Braintree
 "Credit card does not exist","Carte bancaire inexistante",module,Magento_Braintree
-"Credit Card Number","Numéro de Carte de Crédit",module,Magento_Braintree
+"Credit Card Number","Numéro de carte de crédit",module,Magento_Braintree
 "Credit card number cannot be updated to an unsupported card type when it is associated to subscriptions.","Le numéro de carte de crédit ne peut être mis à jour vers un type de carte non supporté par un abonnement.",module,Magento_Braintree
 "Credit card number is invalid.","Numéro de carte de crédit invalide.",module,Magento_Braintree
 "Credit card number is not an accepted test number.","Le numéro de carte de crédit n'est pas un numéro test accepté.",module,Magento_Braintree
@@ -92,11 +92,11 @@
 "Credit card successfully updated","Carte Bancaire mise à jour",module,Magento_Braintree
 "Credit card token is taken.","Carte Bancaire prise en compte.",module,Magento_Braintree
 "Credit card token is too long.","Jeton carte de crédit trop long.",module,Magento_Braintree
-"Credit Card Type","Type de Carte de Crédit",module,Magento_Braintree
+"Credit Card Type","Type de carte de crédit",module,Magento_Braintree
 "Credit card type is not accepted by this merchant account.","Type de carte de crédit non accepté avec ce compte marchand.",module,Magento_Braintree
 "Credit card type is not allowed for this payment method.","Le type de carte bancaire n'est pas autorisé pour ce mode de paiement.",module,Magento_Braintree
 "Credit card type is not allowed for your country.","Type de carte bancaire non autorisé pour votre pays.",module,Magento_Braintree
-"Credit Card Types","Types de Carte de Crédit",module,Magento_Braintree
+"Credit Card Types","Types de carte de crédit",module,Magento_Braintree
 "Credits are not supported by this processor","Crédits non supportés par ce service de paiement",module,Magento_Braintree
 "Credits cannot be cloned.","Les crédits ne peuvent être clonés.",module,Magento_Braintree
 "Customer does not have any credit cards.","Le client ne possède pas de carte de crédit.",module,Magento_Braintree
@@ -116,7 +116,7 @@
 "Debug","Débogage",module,Magento_Braintree
 "Delete","Supprimer",module,Magento_Braintree
 "Delete Credit Card","Supprimer la carte bancaire",module,Magento_Braintree
-"Display on Shopping Cart","Afficher dans le Panier",module,Magento_Braintree
+"Display on Shopping Cart","Afficher dans le panier",module,Magento_Braintree
 "Duplicate card exists","Doublon de carte",module,Magento_Braintree
 "Duplicate card exists in the vault.","Doublon de carte dans le coffre-fort.",module,Magento_Braintree
 "Duplicate transaction","Doublon de transaction",module,Magento_Braintree
@@ -175,13 +175,13 @@
 "Make Default","Créer par Défaut",module,Magento_Braintree
 "Merchant account does not support MOTO","Le compte marchand ne supporte pas MOTO",module,Magento_Braintree
 "Merchant account does not support refunds","Ce compte marchand ne permet pas les remboursements",module,Magento_Braintree
-"Merchant Account ID","ID Compte Marchand",module,Magento_Braintree
+"Merchant Account ID","ID Compte marchand",module,Magento_Braintree
 "Merchant account ID is invalid.","ID du compte marchand invalide.",module,Magento_Braintree
 "Merchant account is suspended.","Compte marchand suspendu.",module,Magento_Braintree
 "Merchant ID","ID de marchand",module,Magento_Braintree
 "Mismatch currency iso code","Discordance code iso devise",module,Magento_Braintree
 "Month","Mois",module,Magento_Braintree
-"My Credit Cards","Modifier mes Cartes de Crédit",module,Magento_Braintree
+"My Credit Cards","Modifier mes cartes de crédit",module,Magento_Braintree
 "&nbsp;","&nbsp;",module,Magento_Braintree
 "Need a customer_id, payment_method_token, credit_card, or subscription_id.","customer_id, payment_method_token, credit_card, ou subscription_id requis.",module,Magento_Braintree
 "New Credit Card","Nouvelle carte bancaire",module,Magento_Braintree
@@ -194,7 +194,7 @@
 "Number of billing cycles must be numeric","Le nombre de cycles de facturation doit être un nombre",module,Magento_Braintree
 "or","ou",module,Magento_Braintree
 "Order ID is too long.","ID commande trop long.",module,Magento_Braintree
-"Override Merchant Name","Remplacement du nom Marchand",module,Magento_Braintree
+"Override Merchant Name","Remplacement du nom marchand",module,Magento_Braintree
 "Payment action","Action de Paiement",module,Magento_Braintree
 "Payment Action","Action de Paiement",module,Magento_Braintree
 "Payment from Applicable Countries","Mode de paiement autorisé pour les pays applicables",module,Magento_Braintree

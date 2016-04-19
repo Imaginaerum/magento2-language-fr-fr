@@ -22,7 +22,7 @@
 "Major System Messages","Messages système majeurs",module,Magento_AdminNotification
 "Mark as Read","Marquer comme lu",module,Magento_AdminNotification
 "Message","Message",module,Magento_AdminNotification
-"Messages Inbox","Boîte de Réception",module,Magento_AdminNotification
+"Messages Inbox","Boîte de réception",module,Magento_AdminNotification
 "minor","mineur",module,Magento_AdminNotification
 "notice","notice",module,Magento_AdminNotification
 "Notification","Notification",module,Magento_AdminNotification

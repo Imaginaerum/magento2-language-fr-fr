@@ -107,7 +107,7 @@
 "Catalog Product Page","Page produit",module,Magento_Paypal
 "Chargeback","Frais de retour",module,Magento_Paypal
 "Charge-off","Frais-off",module,Magento_Paypal
-"Checkout Cart Page","Page Panier",module,Magento_Paypal
+"Checkout Cart Page","Page panier",module,Magento_Paypal
 "Checkout with PayPal","Commander avec PayPal",module,Magento_Paypal
 "Choose a secure bundled payment solution for your business.","Choisissez une solution de paiement sécurisé pour votre entreprise.",module,Magento_Paypal
 "Click here if you are not redirected within 10 seconds.","Cliquez ici si vous n'êtes pas redirigé d'ici 10 secondes.",module,Magento_Paypal
@@ -148,7 +148,7 @@
 "Display","Affichage",module,Magento_Paypal
 "Display Express Checkout in the Payment Information step","Afficher le paiement Express dans l'étape des informations de paiement",module,Magento_Paypal
 "Display on Product Details Page","Affichage sur la page de détails d'un produit",module,Magento_Paypal
-"Display on Shopping Cart","Afficher dans le Panier",module,Magento_Paypal
+"Display on Shopping Cart","Afficher dans le panier",module,Magento_Paypal
 "Displays on catalog pages and homepage.","L'affichage sur les pages de catalogue et l'accueil.",module,Magento_Paypal
 "Dispute","Contestation",module,Magento_Paypal
 "Don't have a PayPal account? Simply enter your email address.","Vous n'avez pas de compte PayPal ? Il suffit d'entrer votre adresse email.",module,Magento_Paypal
@@ -241,7 +241,7 @@
 "If empty, a default value will be used. Custom URL may be provided by CardinalCommerce agreement.","Si ce champ est vide, la valeur par défaut sera utilisée. Une URL personnalisée peut être fournie par un accord CardinalCommerce.",module,Magento_Paypal
 "If not specified, Default Country from General Config will be used","S'il n'est pas spécifié, le pays par défaut dans la configuration générale sera utilisé",module,Magento_Paypal
 "If this option is enabled, customer can change shipping address and shipping method on PayPal website. In live mode works via HTTPS protocol only.","Si cette option est activée, le client peut changer l'adresse de livraison et le mode d'expédition sur le site de PayPal. Fonctionnement en mode direct via le protocole HTTPS uniquement.",module,Magento_Paypal
-"If you do not have multiple users set up on your account, please re-enter your Vendor/Merchant Login here.","Si vous ne disposez pas de plusieurs utilisateurs mis en place sur votre compte, veuillez entrer de nouveau votre login Vendeur/ Marchand ici.",module,Magento_Paypal
+"If you do not have multiple users set up on your account, please re-enter your Vendor/Merchant Login here.","Si vous ne disposez pas de plusieurs utilisateurs mis en place sur votre compte, veuillez entrer de nouveau votre login vendeur/ marchand ici.",module,Magento_Paypal
 "Important: ","Important : ",module,Magento_Paypal
 "I'm sorry - but we are not able to complete your transaction. Please contact us so we can assist you.","Nous ne sommes pas en mesure de compléter votre transaction. Veuillez nous contacter afin que nous puissions vous aider.",module,Magento_Paypal
 "I'm sorry - but we are not able to complete your transaction. Please contact us so we can assist you.","Nous ne sommes pas en mesure de compléter votre transaction. Veuillez nous contacter afin que nous puissions vous aider.",module,Magento_Paypal
@@ -283,25 +283,25 @@
 "Merchant Country","Pays du marchand",module,Magento_Paypal
 "Merchant Liability","Responsabilité du marchand",module,Magento_Paypal
 "Merchant Location","Localisation du marchand",module,Magento_Paypal
-"Merchant Protection Eligibility","Protection à l'éligibilité du Marchand",module,Magento_Paypal
+"Merchant Protection Eligibility","Protection à l'éligibilité du marchand",module,Magento_Paypal
 "Merchant Referral Bonus","Prime de recommandation marchande",module,Magento_Paypal
 "Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.","Les marchands doivent faire une demande à PayPal pour activer les accords de facturation. Ne pas activer cette option tant que PayPal n'a pas confirmé que les accords de facturation sont activés sur votre compte marchand.",module,Magento_Paypal
 "Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.","Les marchands doivent faire une demande à PayPal pour activer les accords de facturation. Ne pas activer cette option tant que PayPal n'a pas confirmé que les accords de facturation sont activés sur votre compte marchand.",module,Magento_Paypal
 "Mobile Payment (made via a mobile phone)","Paiement par mobile (réalisé par l'intermédiaire d'un téléphone mobile)",module,Magento_Paypal
 "N/A","N/A",module,Magento_Paypal
 "N/A. Address not checked, or acquirer had no response. Service not available","N/A. L'adresse n'a pas été vérifiée, ou l'acquéreur n'a pas donné de réponse. Service non disponible",module,Magento_Paypal
-"N/A. Global Unavailable","N/A. Global Indisponible",module,Magento_Paypal
-"N/A. International Unavailable","N/A. International Indisponible",module,Magento_Paypal
+"N/A. Global Unavailable","N/A. Global indisponible",module,Magento_Paypal
+"N/A. International Unavailable","N/A. International indisponible",module,Magento_Paypal
 "N/A. Merchant has indicated that CVV2 is not present on card","N/A. CVV2 n'est pas présent sur la carte",module,Magento_Paypal
 "N/A. No response","N/A. Aucune réponse",module,Magento_Paypal
 "N/A. Not allowed for MOTO (Internet/Phone) transactions","N/A transaction non autorisée. Transactions (Internet/Téléphone) MOTO",module,Magento_Paypal
 "N/A. Not processed","N/A. Non traitée",module,Magento_Paypal
 "N/A. Retry","N/A. Recommencer",module,Magento_Paypal
-"N/A. Service not available","N/A. Service Indisponible",module,Magento_Paypal
+"N/A. Service not available","N/A. Service indisponible",module,Magento_Paypal
 "N/A. Service not Supported","N/A. Service non Supporté",module,Magento_Paypal
 "N/A. Service not supported","N/A. Service non Supporté",module,Magento_Paypal
-"N/A. The merchant did not provide AVS information","N/A. Le commerçant ne possède pas d'information AVS",module,Magento_Paypal
-"N/A. The merchant has not implemented CVV2 code handling","N/A. Le commerçant n'a pas mis en œuvre de code CVV2",module,Magento_Paypal
+"N/A. The merchant did not provide AVS information","N/A. Le marchand ne possède pas d'information AVS",module,Magento_Paypal
+"N/A. The merchant has not implemented CVV2 code handling","N/A. Le marchand n'a pas mis en œuvre de code CVV2",module,Magento_Paypal
 "N/A. Unavailable","N/A. Indisponible",module,Magento_Paypal
 "Near PayPal Credit checkout button","Près du bouton de paiement PayPal Credit",module,Magento_Paypal
 "Negative Balance","Solde Négatif",module,Magento_Paypal
@@ -536,7 +536,7 @@
 "There is already another PayPal solution enabled. Enable this solution instead?","Il y a déjà une solution PayPal activée. Activer cette solution à la place ?",module,Magento_Paypal
 "This customer did not include a confirmed address.","Ce client ne possède pas d'adresse confirmée.",module,Magento_Paypal
 "This customer didn't include a confirmed address.","Ce client ne possède pas d'adresse confirmée.",module,Magento_Paypal
-"This feature needs be enabled first for the merchant account through PayPal technical support.","Cette fonctionnalité doit d'abord être activée pour le compte commerçant via le support technique de PayPal.",module,Magento_Paypal
+"This feature needs be enabled first for the merchant account through PayPal technical support.","Cette fonctionnalité doit d'abord être activée pour le compte marchand via le support technique de PayPal.",module,Magento_Paypal
 "This operation requires an existing transaction object.","Cette opération nécessite l'existance d'une transaction.",module,Magento_Paypal
 "Time of Day","Heure du jour",module,Magento_Paypal
 "Title","Titre",module,Magento_Paypal

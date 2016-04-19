@@ -4,9 +4,9 @@
 "Card Verification Number Visual Reference","Référence visuelle numérique de vérification de carte",module,Magento_Payment
 "Command %1 does not exist.","La commande %1 n'existe pas.",module,Magento_Payment
 "Credit Card Information","Information de carte bancaire",module,Magento_Payment
-"Credit Card Number","Numéro de Carte de Crédit",module,Magento_Payment
+"Credit Card Number","Numéro de carte de crédit",module,Magento_Payment
 "Credit card number mismatch with credit card type.","Le numéro de carte bancaire ne correspond pas au type de carte bancaire.",module,Magento_Payment
-"Credit Card Type","Type de Carte de Crédit",module,Magento_Payment
+"Credit Card Type","Type de carte de crédit",module,Magento_Payment
 "Credit card type is not allowed for this payment method.","Le type de carte bancaire n'est pas autorisé pour ce mode de paiement.",module,Magento_Payment
 "Discount","Remise",module,Magento_Payment
 "Expiration Date","Date d'Expiration",module,Magento_Payment

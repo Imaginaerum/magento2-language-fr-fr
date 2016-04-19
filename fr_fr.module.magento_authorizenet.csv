@@ -25,11 +25,11 @@
 "Click ""Cancel"" to remove any pending status and release money already processed during this payment.","Cliquez sur ""Annuler"" pour supprimer tout statut en attente et débloquer l'argent déjà encaissé au cours de ce paiement.",module,Magento_Authorizenet
 "Credit Card %1","Carte Bancaire %1",module,Magento_Authorizenet
 "Credit Card Information","Information de carte bancaire",module,Magento_Authorizenet
-"Credit Card Number","Numéro de Carte de Crédit",module,Magento_Authorizenet
-"Credit Card Type","Type de Carte de Crédit",module,Magento_Authorizenet
-"Credit Card Types","Types de Carte de Crédit",module,Magento_Authorizenet
-"Credit Card Verification","Vérification de la Carte de Crédit",module,Magento_Authorizenet
-"Credit Card: xxxx-%1","Carte de Crédit: xxxx-%1",module,Magento_Authorizenet
+"Credit Card Number","Numéro de carte de crédit",module,Magento_Authorizenet
+"Credit Card Type","Type de carte de crédit",module,Magento_Authorizenet
+"Credit Card Types","Types de carte de crédit",module,Magento_Authorizenet
+"Credit Card Verification","Vérification de la carte de crédit",module,Magento_Authorizenet
+"Credit Card: xxxx-%1","Carte de crédit: xxxx-%1",module,Magento_Authorizenet
 "Debug","Débogage",module,Magento_Authorizenet
 "Email Customer","Email Client",module,Magento_Authorizenet
 "Enabled","Activé",module,Magento_Authorizenet
@@ -47,8 +47,8 @@
 "Invalid amount for refund.","Montant invalide pour le remboursement.",module,Magento_Authorizenet
 "Invalid transaction ID.","Identifiant de transaction invalide.",module,Magento_Authorizenet
 "Maximum Order Total","Montant maximum de la commande",module,Magento_Authorizenet
-"Merchant MD5","MD5 du Commerçant",module,Magento_Authorizenet
-"Merchant's Email","Email du commerçant",module,Magento_Authorizenet
+"Merchant MD5","MD5 du marchand",module,Magento_Authorizenet
+"Merchant's Email","Email du marchand",module,Magento_Authorizenet
 "Minimum Order Total","Montant total minimum de commande",module,Magento_Authorizenet
 "New Order Status","Statut de la nouvelle commande",module,Magento_Authorizenet
 "No confirmation","Aucune confirmation",module,Magento_Authorizenet

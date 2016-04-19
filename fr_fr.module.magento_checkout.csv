@@ -98,8 +98,8 @@
 "Minimum order amount is %1","Le montant minimal de commande est %1",module,Magento_Checkout
 "Move to Wishlist","Ajouter à la liste d'envies",module,Magento_Checkout
 "My billing and shipping address are the same","Mes adresses de facturation et d'expédition sont les mêmes",module,Magento_Checkout
-"My Cart (1 item)","Mon Panier (1 produit)",module,Magento_Checkout
-"My Cart (%1 items)","Mon Panier (%1 produits)",module,Magento_Checkout
+"My Cart (1 item)","Mon panier (1 produit)",module,Magento_Checkout
+"My Cart (%1 items)","Mon panier (%1 produits)",module,Magento_Checkout
 "My Cart","Mon panier",module,Magento_Checkout
 "My Cart Link","Lien vers mon panier",module,Magento_Checkout
 "New Address","Nouvelle adresse",module,Magento_Checkout
@@ -178,7 +178,7 @@
 "Ship to different address","Livrer à une autre adresse",module,Magento_Checkout
 "Ship to this address","Livrer à cette adresse",module,Magento_Checkout
 "Shopping Cart","Panier",module,Magento_Checkout
-"Shopping Cart Items","Produit Dans le Panier",module,Magento_Checkout
+"Shopping Cart Items","Produit Dans le panier",module,Magento_Checkout
 "Shopping Cart Sidebar","Barre latérale du panier",module,Magento_Checkout
 "Some products quantities were recalculated because of quantity increment mismatch.","Certaines quantités produits ont été recalculées en raison d'une non-concordance des incréments de quantité.",module,Magento_Checkout
 "Something went wrong processing your order. Please try again later.","Une erreur s'est produite lors du traitement de votre commande. Veuillez réessayer plus tard.",module,Magento_Checkout
@@ -221,7 +221,7 @@
 "Use Billing Address","Utiliser l'adresse de facturation",module,Magento_Checkout
 "VAT Number","Numéro de TVA",module,Magento_Checkout
 "View and edit cart","Voir et modifier le panier",module,Magento_Checkout
-"View cart","Voir le Panier",module,Magento_Checkout
+"View cart","Voir le panier",module,Magento_Checkout
 "View Details","Voir les détails",module,Magento_Checkout
 "We adjusted product quantities to fit the required increments.","Nous avons ajusté les quantités de produits pour adapter les incréments nécessaires.",module,Magento_Checkout
 "We are not able to ship to the selected shipping address. Please choose another address or edit the current address.","Impossible de livrer à l'adresse sélectionnée. Veuillez choisir une autre adresse ou modifier l'adresse choisie.",module,Magento_Checkout
