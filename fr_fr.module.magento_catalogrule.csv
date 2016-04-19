@@ -84,8 +84,8 @@
 "Update Prices Using the Following Information","Mettre à jour les prix en utilisant l'information suivante",module,Magento_CatalogRule
 "Update product's %1 %2: %3","Mettre à jour le %1 du produit %2 : %3",module,Magento_CatalogRule
 "Update the Product","Mettre à jour le produit",module,Magento_CatalogRule
-"Web Site","Site Web",module,Magento_CatalogRule
-"Websites","Sites Web",module,Magento_CatalogRule
+"Web Site","Site web",module,Magento_CatalogRule
+"Websites","Sites web",module,Magento_CatalogRule
 "We can't apply the rules.","Impossible d'appliquer les règles.",module,Magento_CatalogRule
 "We can't delete this rule right now. Please review the log and try again.","Impossible de supprimer la règle. Veuillez consulter le journal des erreurs et essayer à nouveau.",module,Magento_CatalogRule
 "We can't find a rule to delete.","Impossible de trouver la règle à supprimer.",module,Magento_CatalogRule

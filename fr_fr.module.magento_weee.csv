@@ -1,6 +1,6 @@
 "Action","Action",module,Magento_Weee
 "Add Tax","Ajouter une taxe",module,Magento_Weee
-"All Websites","Tous les sites Web",module,Magento_Weee
+"All Websites","Tous les sites web",module,Magento_Weee
 "Apply Tax To FPT","Appliquer la taxe au TFP",module,Magento_Weee
 "Country/State","Pays / État",module,Magento_Weee
 "Delete Tax","Supprimer la taxe",module,Magento_Weee
@@ -25,5 +25,5 @@
 "Tax","Taxe",module,Magento_Weee
 "Total","Total",module,Magento_Weee
 "Total Incl. Tax","Total TTC",module,Magento_Weee
-"Website","Site Web",module,Magento_Weee
+"Website","Site web",module,Magento_Weee
 "We found a duplicate of website, country and state fields for a fixed product tax","Doublon site web, pays et état pour une taxe fixe de produit",module,Magento_Weee

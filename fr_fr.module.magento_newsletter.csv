@@ -142,7 +142,7 @@
 "Unsubscription Email Template","Gabarit de l'email de désinscription",module,Magento_Newsletter
 "Updated","Mis à jour",module,Magento_Newsletter
 "View Newsletter","Voir la lettre d'information",module,Magento_Newsletter
-"Web Site","Site Web",module,Magento_Newsletter
+"Web Site","Site web",module,Magento_Newsletter
 "We cannot mark as received subscriber.","Impossible de marquer comme reçue par l'abonné.",module,Magento_Newsletter
 "We can't delete this template right now.","Impossible de supprimer le gabarit.",module,Magento_Newsletter
 "We found no problems.","Aucun problème détécté.",module,Magento_Newsletter

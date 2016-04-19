@@ -70,7 +70,7 @@
 "The field is applicable if the Smart Post method is selected.","Le champ est applicable si le mode Smart Post est choisi.",module,Magento_Fedex
 "Title","Titre",module,Magento_Fedex
 "Unable to retrieve tracking","Impossible de récupérer les informations de suivi",module,Magento_Fedex
-"Web-Services URL (Production)","URL du webservice (Production)",module,Magento_Fedex
-"Web-Services URL (Sandbox)","URL du webservice (Sandbox)",module,Magento_Fedex
+"Web-Services URL (Production)","URL du webservice (production)",module,Magento_Fedex
+"Web-Services URL (Sandbox)","URL du webservice (bac à sable)",module,Magento_Fedex
 "Weight Unit","Unité de Poids",module,Magento_Fedex
 "Your Packaging","Votre colis",module,Magento_Fedex
