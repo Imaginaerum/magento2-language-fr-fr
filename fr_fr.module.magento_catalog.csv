@@ -44,7 +44,7 @@
 "Add New Search Term","Ajouter un Terme de Recherche",module,Magento_Catalog
 "Add New Set","Ajouter un jeu",module,Magento_Catalog
 "Add Option","Ajouter une option",module,Magento_Catalog
-"Add Price","Ajouter un Prix",module,Magento_Catalog
+"Add Price","Ajouter un prix",module,Magento_Catalog
 "Add Product","Ajouter un produit",module,Magento_Catalog
 "Add Product To Websites","Ajouter le produit aux sites web",module,Magento_Catalog
 "Add Root Category","Ajouter une catégorie racine",module,Magento_Catalog
@@ -57,7 +57,7 @@
 "Add to Wish List","Ajouter à ma liste d'envie",module,Magento_Catalog
 "Advanced Attribute Properties","Propriétés avancée des attributs",module,Magento_Catalog
 "Advanced Inventory","Inventaire avancé",module,Magento_Catalog
-"Advanced Pricing","Gestion avancée des Prix",module,Magento_Catalog
+"Advanced Pricing","Gestion avancée des prix",module,Magento_Catalog
 "Advanced Settings","Paramètres avancés",module,Magento_Catalog
 "A group with the same name already exists.","Il existe déjà un groupe portant ce nom.",module,Magento_Catalog
 "All","Tous",module,Magento_Catalog
@@ -340,8 +340,8 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Index product prices","Index des tarifs produit",module,Magento_Catalog
 "Input Type","Type de Saisie",module,Magento_Catalog
 "Input Validation for Store Owner","Validation requise",module,Magento_Catalog
-"In Stock","En Stock",module,Magento_Catalog
-"In stock","En Stock",module,Magento_Catalog
+"In Stock","En stock",module,Magento_Catalog
+"In stock","En stock",module,Magento_Catalog
 "Integer","Entier",module,Magento_Catalog
 "Invalid attribute %1","Attribut invalide: %1",module,Magento_Catalog
 "Invalid data provided for linked products","Données de liaison produits invalides",module,Magento_Catalog
@@ -501,7 +501,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Price: %1","Prix : %1",module,Magento_Catalog
 "Price","Prix",module,Magento_Catalog
 "Price as configured:","Prix ​​de cette configuration :",module,Magento_Catalog
-"Price Type","Type de Prix",module,Magento_Catalog
+"Price Type","Type de prix",module,Magento_Catalog
 "Print This Page","Imprimer cette page",module,Magento_Catalog
 "Product %1 doesn't have linked %2 as %3","Le produit %1 n'a pas pu être lié ni au %2 ni au %3",module,Magento_Catalog
 "Product","Produit",module,Magento_Catalog

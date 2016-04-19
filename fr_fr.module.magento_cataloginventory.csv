@@ -18,7 +18,7 @@
 "Enable Qty Increments","Activer les incréments de quantités",module,Magento_CatalogInventory
 "Index Product Stock Status","Indexer les statuts de stock de produit",module,Magento_CatalogInventory
 "Index stock","Index du stock",module,Magento_CatalogInventory
-"In Stock","En Stock",module,Magento_CatalogInventory
+"In Stock","En stock",module,Magento_CatalogInventory
 "Inventory","Inventaire",module,Magento_CatalogInventory
 "Manage Stock","Gérer les stocks",module,Magento_CatalogInventory
 "Maximum Qty Allowed in Shopping Cart","Quantité maximale autorisée dans le panier",module,Magento_CatalogInventory
@@ -47,7 +47,7 @@
 "Some of the products are out of stock.","Certains de ces produits sont en rupture de stock.",module,Magento_CatalogInventory
 "Stock","Stock",module,Magento_CatalogInventory
 "Stock Item with id ""%1"" does not exist.","L'élément de stock avec l'ID ""%1"" n'existe pas.",module,Magento_CatalogInventory
-"Stock Options","Options de Stock",module,Magento_CatalogInventory
+"Stock Options","Options de stock",module,Magento_CatalogInventory
 "Stock Status","État du stock",module,Magento_CatalogInventory
 "Stock with id ""%1"" does not exist.","Le stock ID ""%1"" n'existe pas.",module,Magento_CatalogInventory
 "The fewest you may purchase is %1.","La quantité minimale que vous pouvez acheter est de %1.",module,Magento_CatalogInventory

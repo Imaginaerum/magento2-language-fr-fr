@@ -40,7 +40,7 @@
 "Incl. Tax","TTC",module,Magento_Bundle
 "Incl. Tax:","TTC :",module,Magento_Bundle
 "Input Type","Type de Saisie",module,Magento_Bundle
-"In stock","En Stock",module,Magento_Bundle
+"In stock","En stock",module,Magento_Bundle
 "Invoiced","Facturé",module,Magento_Bundle
 "Message:","Message :",module,Magento_Bundle
 "N/A","N/A",module,Magento_Bundle
@@ -60,7 +60,7 @@
 "Position","Position",module,Magento_Bundle
 "Price","Prix",module,Magento_Bundle
 "Price Range","Tranche de prix",module,Magento_Bundle
-"Price Type","Type de Prix",module,Magento_Bundle
+"Price Type","Type de prix",module,Magento_Bundle
 "Product","Produit",module,Magento_Bundle
 "Product Name","Nom du produit",module,Magento_Bundle
 "Product with specified sku: ""%1"" does not contain option: ""%2""","Le produit avec le SKU ""%1"" ne contient pas l'option ""%2""",module,Magento_Bundle

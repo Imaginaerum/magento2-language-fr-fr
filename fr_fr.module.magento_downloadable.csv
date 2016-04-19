@@ -33,7 +33,7 @@
 "Guest checkout will only work with shareable.","Le passage de commande en tant qu'invité ne fonctionnera qu'avec les partageables.",module,Magento_Downloadable
 "Incl. Tax","TTC",module,Magento_Downloadable
 "inline","en ligne",module,Magento_Downloadable
-"In stock","En Stock",module,Magento_Downloadable
+"In stock","En stock",module,Magento_Downloadable
 "Invalid download link type.","Le type de lien de téléchargement est invalide.",module,Magento_Downloadable
 "Invalid link type.","Type de produit téléchargeable invalide.",module,Magento_Downloadable
 "Invalid sample type.","Type d'échantillon invalide.",module,Magento_Downloadable

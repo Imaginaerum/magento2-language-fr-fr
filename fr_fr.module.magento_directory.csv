@@ -1,7 +1,7 @@
 "Allowed Currencies","Devises Autorisées",module,Magento_Directory
 "Allow to Choose State if It is Optional for Country","Afficher l'état si il n'est pas obligatoire",module,Magento_Directory
 "Base Currency","Devise de base",module,Magento_Directory
-"Base currency is used for all online payment transactions. If you have more than one store view, the base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").","La devise de base est utilisée pour tous les paiements. Si vous avez plusieurs magasins, la portée de la devise de base est définie par la portée des prix catalogue (""Catalogue"" > ""Prix"" > ""Portée des Prix catalogue"").",module,Magento_Directory
+"Base currency is used for all online payment transactions. If you have more than one store view, the base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").","La devise de base est utilisée pour tous les paiements. Si vous avez plusieurs magasins, la portée de la devise de base est définie par la portée des prix catalogue (""Catalogue"" > ""Prix"" > ""Portée des prix catalogue"").",module,Magento_Directory
 "Connection Timeout in Seconds","Délai d'attente de connexion en secondes",module,Magento_Directory
 "Continue","Continuer",module,Magento_Directory
 "Country and Format Type combination should be unique","La combinaison Pays et Type de format doit être unique",module,Magento_Directory

@@ -27,13 +27,13 @@
 "begin typing to add value","Commencez à saisir pour ajouter une valeur",module,Magento_ConfigurableProduct
 "Browse Files...","Parcourir les fichiers...",module,Magento_ConfigurableProduct
 "Browse to find or drag image here","Parcourir les fichiers ou glisser l'image ici",module,Magento_ConfigurableProduct
-"Bulk Images &amp; Price","Action de masse Images &amp; Prix",module,Magento_ConfigurableProduct
+"Bulk Images &amp; Price","Action de masse Images &amp; prix",module,Magento_ConfigurableProduct
 "Cancel","Annuler",module,Magento_ConfigurableProduct
 "Cannot add the item to shopping cart","Impossible d'ajouter l'article au panier",module,Magento_ConfigurableProduct
 "Cannot delete option with id: %1","Impossible de supprimer l'option ID %1",module,Magento_ConfigurableProduct
 "Cannot delete variations from product: %1","Vous ne pouvez pas supprimer les variations du produit : %1",module,Magento_ConfigurableProduct
 "catalogProductMediaConfig is already set","catalogProductMediaConfig est déjà défini",module,Magento_ConfigurableProduct
-"Change Price","Changer le Prix",module,Magento_ConfigurableProduct
+"Change Price","Changer le prix",module,Magento_ConfigurableProduct
 "Choose","Choisir",module,Magento_ConfigurableProduct
 "Choose a different Product","Choisissez un autre produit",module,Magento_ConfigurableProduct
 "Choose Affected Attribute Set","Choisissez le jeu d\'attributs",module,Magento_ConfigurableProduct
@@ -75,7 +75,7 @@
 "Images","Images",module,Magento_ConfigurableProduct
 "Incl. Tax","TTC",module,Magento_ConfigurableProduct
 "Include","Inclure",module,Magento_ConfigurableProduct
-"In Stock","En Stock",module,Magento_ConfigurableProduct
+"In Stock","En stock",module,Magento_ConfigurableProduct
 "Label","libellé",module,Magento_ConfigurableProduct
 "Name","Nom",module,Magento_ConfigurableProduct
 "New attribute set name","Nouveau nom du jeu d'attributs",module,Magento_ConfigurableProduct
