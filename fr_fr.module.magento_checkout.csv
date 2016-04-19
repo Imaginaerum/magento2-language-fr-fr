@@ -220,7 +220,7 @@
 "Update Total","Mettre à jour le total",module,Magento_Checkout
 "Use Billing Address","Utiliser l'adresse de facturation",module,Magento_Checkout
 "VAT Number","Numéro de TVA",module,Magento_Checkout
-"View and edit cart","Voir et éditer le panier",module,Magento_Checkout
+"View and edit cart","Voir et modifier le panier",module,Magento_Checkout
 "View cart","Voir le Panier",module,Magento_Checkout
 "View Details","Voir les détails",module,Magento_Checkout
 "We adjusted product quantities to fit the required increments.","Nous avons ajusté les quantités de produits pour adapter les incréments nécessaires.",module,Magento_Checkout

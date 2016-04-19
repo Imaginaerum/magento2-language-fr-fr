@@ -58,7 +58,7 @@
 "Track order history","Suivi de la commande"
 "Update","Mettre à jour"
 "Upload server currently unavailable - ","Upload serveur actuellement indisponible - "
-"View and edit cart","Voir et éditer le panier"
+"View and edit cart","Voir et modifier le panier"
 "${ $.visible } out of ${ $.total } visible","${ $.visible } sur ${ $.total } visible(s)"
 "We can't complete your order because you don't have a payment method set up.","Impossible de terminer la commande car aucune méthode de paiement n'a été sélectionnée."
 "We couldn","Nous ne pouvons pas"
