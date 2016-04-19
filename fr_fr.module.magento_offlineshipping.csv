@@ -41,7 +41,7 @@
 "Show Method if Not Applicable","Afficher la méthode si elle n'est pas applicable",module,Magento_OfflineShipping
 "Something went wrong while importing table rates.","Une erreur s'est produite lors de l'importation de la tarification.",module,Magento_OfflineShipping
 "Sort Order","Ordre de Tri",module,Magento_OfflineShipping
-"Store Pickup","Retrait en Magasin",module,Magento_OfflineShipping
+"Store Pickup","Retrait en magasin",module,Magento_OfflineShipping
 "Table Rates","Tarification",module,Magento_OfflineShipping
 "Title","Titre",module,Magento_OfflineShipping
 "Type","Type",module,Magento_OfflineShipping

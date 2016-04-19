@@ -92,7 +92,7 @@
 "SKU","SKU",module,Magento_Downloadable
 "Something went wrong while getting the requested content.","Une erreur s'est produite lors de la récupération du contenu demandé.",module,Magento_Downloadable
 "Something went wrong while saving the file(s).","Une erreur s'est produite lors de l'enregistrement du/des fichier(s).",module,Magento_Downloadable
-"Sorry, there was an error getting requested content. Please contact the store owner.","Erreur lors de la récupération du contenu demandé. Veuillez contacter le Magasin.",module,Magento_Downloadable
+"Sorry, there was an error getting requested content. Please contact the store owner.","Erreur lors de la récupération du contenu demandé. Veuillez contacter le magasin.",module,Magento_Downloadable
 "Sort Order","Ordre de Tri",module,Magento_Downloadable
 "Sort order must be a positive integer.","L'ordre de tri doit être un entier positif.",module,Magento_Downloadable
 "Sort Variations","Trier les variations",module,Magento_Downloadable

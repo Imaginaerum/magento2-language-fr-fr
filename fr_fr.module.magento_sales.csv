@@ -27,7 +27,7 @@
 "Adjustment Refund","Remboursement des frais de dossier",module,Magento_Sales
 "A hold action is not available.","L'action de blocage n'est pas disponible.",module,Magento_Sales
 "Allow Reorder","Autoriser le renouvellement de commande",module,Magento_Sales
-"All Store Views","Toutes les Vues Magasin",module,Magento_Sales
+"All Store Views","Toutes les Vues magasin",module,Magento_Sales
 "Amount: %1.","Montant : %1.",module,Magento_Sales
 "Amount","Montant",module,Magento_Sales
 "An amount of %1 will be captured after being approved at the payment gateway.","Un montant de %1 sera capturé après l’approbation de la passerelle de paiement.",module,Magento_Sales

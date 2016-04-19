@@ -19,7 +19,7 @@
 "Catalog Price Rule","Règle de prix catalogue",module,Magento_CatalogRule
 "Catalog Price Rules","Règles de prix catalogue",module,Magento_CatalogRule
 "Catalog Product Rule","Règle produit catalogue",module,Magento_CatalogRule
-"Catalog Rule Product","Règles produit Catalogue",module,Magento_CatalogRule
+"Catalog Rule Product","Règles produit catalogue",module,Magento_CatalogRule
 "Conditions","Conditions",module,Magento_CatalogRule
 "Conditions Combination","Combinaison de conditions",module,Magento_CatalogRule
 "Conditions (don't add conditions if rule is applied to all products)","Conditions (ne pas ajouter de conditions si la règle doit s'appliquer à tous les produits)",module,Magento_CatalogRule

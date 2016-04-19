@@ -103,7 +103,7 @@
 "Canceled","Annulée",module,Magento_Paypal
 "Cannot get secure form URL from PayPal","Impossible d'obtenir l'URL du formulaire sécurisé provenant de PayPal",module,Magento_Paypal
 "Card Security Code Does Not Match","Le code de sécurité de la carte ne correspond pas",module,Magento_Paypal
-"Catalog Category Page","Page catégorie du Catalogue",module,Magento_Paypal
+"Catalog Category Page","Page catégorie du catalogue",module,Magento_Paypal
 "Catalog Product Page","Page produit",module,Magento_Paypal
 "Chargeback","Frais de retour",module,Magento_Paypal
 "Charge-off","Frais-off",module,Magento_Paypal
