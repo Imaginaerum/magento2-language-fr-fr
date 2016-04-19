@@ -566,7 +566,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Reset","Réinitialiser",module,Magento_Catalog
 "Role","Rôle",module,Magento_Catalog
 "Root","Racine",module,Magento_Catalog
-"save","Sauvegarder",module,Magento_Catalog
+"save","sauvegarder",module,Magento_Catalog
 "Save","Sauvegarder",module,Magento_Catalog
 "Save and Continue Edit","Sauvegarder et continuer à modifier",module,Magento_Catalog
 "Save Attribute","Sauvegarder l'attribut",module,Magento_Catalog
@@ -669,7 +669,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Subscribe to RSS Feed","S'abonner au flux RSS",module,Magento_Catalog
 "Such image doesn't exist","L'image n'existe pas",module,Magento_Catalog
 "Such product doesn't exist","Ce produit n'existe pas",module,Magento_Catalog
-"Swatch Image","Image Swatch",module,Magento_Catalog
+"Swatch Image","Image échantillon",module,Magento_Catalog
 "Synonym For","Synonyme de",module,Magento_Catalog
 "System Properties","Propriétés système",module,Magento_Catalog
 "Template","Gabarit",module,Magento_Catalog

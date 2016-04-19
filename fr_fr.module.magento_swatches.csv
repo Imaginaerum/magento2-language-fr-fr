@@ -1,6 +1,6 @@
-"Add Swatch","Ajouter un Swatch",module,Magento_Swatches
+"Add Swatch","Ajouter un échantillon",module,Magento_Swatches
 "Admin is a required field in the each row","Le champ Admin est obligatoire pour chaque ligne",module,Magento_Swatches
-"Allows use fallback logic for replacing swatch image with product swatch or base image","Utilisez la logique de fallback pour remplacer l'image de swatch avec le scatch du produit ou l'image de base",module,Magento_Swatches
+"Allows use fallback logic for replacing swatch image with product swatch or base image","Utilisez la logique de fallback pour remplacer l'image de l'échantillon avec celle du produit ou l'image de base",module,Magento_Swatches
 "Create New Value","Créez une nouvelle valeur",module,Magento_Swatches
 "Delete","Supprimer",module,Magento_Swatches
 "Deselect All","Tout désélectionner",module,Magento_Swatches
@@ -16,10 +16,10 @@
 "Sort Option","Option de Tri",module,Magento_Swatches
 "Sort Variations","Trier les variations",module,Magento_Swatches
 "Step 2: Attribute Values","Étape 2 : valeurs des attributs",module,Magento_Swatches
-"Swatch","Swatch",module,Magento_Swatches
-"Swatches per Product","Swatches par produit",module,Magento_Swatches
+"Swatch","Échantillon",module,Magento_Swatches
+"Swatches per Product","Échantillons par produit",module,Magento_Swatches
 "Swatch Helper: not valid parameter for product instantiation","Helper Swatch : paramètre invalide pour l'instanciation du produit",module,Magento_Swatches
-"Text Swatch","Texte Swatch",module,Magento_Swatches
+"Text Swatch","Texte échantillon",module,Magento_Swatches
 "Update Product Preview Image","Mettre à jour l'image produit",module,Magento_Swatches
-"Use Product Image for Swatch if Possible","Utilisez l'image du produit pour le Swatch si possible",module,Magento_Swatches
-"Visual Swatch","Visuel du Swatch",module,Magento_Swatches
+"Use Product Image for Swatch if Possible","Utilisez l'image du produit pour l'échantillon si possible",module,Magento_Swatches
+"Visual Swatch","Visuel de l'échantillon",module,Magento_Swatches

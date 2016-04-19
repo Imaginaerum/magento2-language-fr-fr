@@ -58,7 +58,7 @@
 "Regular Pickup","Ramassage régulier",module,Magento_Fedex
 "Request Courier","Demander un coursier",module,Magento_Fedex
 "Residential Delivery","Livraison à domicile",module,Magento_Fedex
-"Sandbox Mode","Mode Sandbox",module,Magento_Fedex
+"Sandbox Mode","Mode bac à sable",module,Magento_Fedex
 "Ship to Applicable Countries","Livrer dans les pays applicables",module,Magento_Fedex
 "Ship to Specific Countries","Livrer dans des pays spécifiques",module,Magento_Fedex
 "Show Method if Not Applicable","Afficher la méthode si elle n'est pas applicable",module,Magento_Fedex

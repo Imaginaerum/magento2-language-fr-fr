@@ -448,8 +448,8 @@
 "Sale","Vente",module,Magento_Paypal
 "Sales","Ventes",module,Magento_Paypal
 "sandbox_button_label","sandbox_button_label",module,Magento_Paypal
-"Sandbox Credentials","Informations d'accès en mode Sandbox",module,Magento_Paypal
-"Sandbox Mode","Mode Sandbox",module,Magento_Paypal
+"Sandbox Credentials","Informations d'accès en mode bac à sable",module,Magento_Paypal
+"Sandbox Mode","Mode bac à sable",module,Magento_Paypal
 "Schedule","Tâches Programmées",module,Magento_Paypal
 "Scheduled Fetching","Récupération de ligne",module,Magento_Paypal
 "See terms","Voir les modalités",module,Magento_Paypal
