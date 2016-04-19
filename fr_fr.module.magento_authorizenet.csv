@@ -11,8 +11,8 @@
 "authorize and capture","autoriser et collecter",module,Magento_Authorizenet
 "Authorize.net","Authorize.net",module,Magento_Authorizenet
 "Authorize.net Direct Post","Soumission Directe Authorize.net",module,Magento_Authorizenet
-"Authorize.Net Transaction ID %1.","Authorize.Net Transaction ID %1.",module,Magento_Authorizenet
-"Authorize.Net Transaction ID %1","Authorize.Net Transaction ID %1",module,Magento_Authorizenet
+"Authorize.Net Transaction ID %1.","Authorize.Net transaction ID %1.",module,Magento_Authorizenet
+"Authorize.Net Transaction ID %1","Authorize.Net transaction ID %1",module,Magento_Authorizenet
 "Authorize Only","Autorisation Seulement",module,Magento_Authorizenet
 "AVS Response","Réponse AVS",module,Magento_Authorizenet
 "Cancel","Annuler",module,Magento_Authorizenet

@@ -258,7 +258,7 @@
 "IPN ""%1""","IPN ""%1""",module,Magento_Paypal
 "IPN ""%1"". A dispute has been resolved and closed. %2 Transaction amount %3.","IPN ""%1"". Un différend a été résolu et clôturé. %2 Montant de la transaction %3.",module,Magento_Paypal
 "IPN ""%1"". Case type ""%2"". Case ID ""%3"" %4","IPN ""%1"". Type de cas ""%2"". Cas ID ""%3"" %4",module,Magento_Paypal
-"IPN ""%1"". %2 Transaction amount %3. Transaction ID: ""%4""","IPN ""%1"". %2 Montant de Transaction %3. Transaction ID: ""%4""",module,Magento_Paypal
+"IPN ""%1"". %2 Transaction amount %3. Transaction ID: ""%4""","IPN ""%1"". %2 Montant de transaction %3. ID de transaction: ""%4""",module,Magento_Paypal
 "IPN (Instant Payment Notification) Only","Notification instantanée de paiement (IPN) seulement",module,Magento_Paypal
 "Issuer Liability","Responsabilité de l'émetteur",module,Magento_Paypal
 "Item","article",module,Magento_Paypal
@@ -294,7 +294,7 @@
 "N/A. International Unavailable","N/A. International Indisponible",module,Magento_Paypal
 "N/A. Merchant has indicated that CVV2 is not present on card","N/A. CVV2 n'est pas présent sur la carte",module,Magento_Paypal
 "N/A. No response","N/A. Aucune réponse",module,Magento_Paypal
-"N/A. Not allowed for MOTO (Internet/Phone) transactions","N/A. Transaction non autorisée. Transactions (Internet/Téléphone) MOTO",module,Magento_Paypal
+"N/A. Not allowed for MOTO (Internet/Phone) transactions","N/A transaction non autorisée. Transactions (Internet/Téléphone) MOTO",module,Magento_Paypal
 "N/A. Not processed","N/A. Non traitée",module,Magento_Paypal
 "N/A. Retry","N/A. Recommencer",module,Magento_Paypal
 "N/A. Service not available","N/A. Service Indisponible",module,Magento_Paypal
@@ -510,7 +510,7 @@
 "The billing agreement ""%1"" has been created.","L'entente de facturation ""%1"" a été créée.",module,Magento_Paypal
 "The Billing Agreement status is not set.","Le statut de l'entente de facturation n'est pas défini.",module,Magento_Paypal
 "The customer ID is not set.","L'ID du Client n'est pas défini.",module,Magento_Paypal
-"The default number of child authorizations in your PayPal account is 1. To do multiple authorizations please contact PayPal to request an increase.","Le nombre par Défaut d'autorisations enfants dans votre compte Paypal est de 1. Veuillez contacter PayPal pour demander une augmentation.",module,Magento_Paypal
+"The default number of child authorizations in your PayPal account is 1. To do multiple authorizations please contact PayPal to request an increase.","Le nombre par Défaut d'autorisations enfants dans votre compte PayPal est de 1. Veuillez contacter PayPal pour demander une augmentation.",module,Magento_Paypal
 "The following error(s) occured:","Erreur(s) suivante(s):",module,Magento_Paypal
 "The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged.","Image en haut à gauche sur la page de paiement. La taille maximale est de 750x90px. Le protocole <strong style=""color:red"">https</strong> est recommandé.",module,Magento_Paypal
 "The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged.","Image en haut à gauche sur la page de paiement. La taille maximale est de 750x90px. Le protocole <strong style=""color:red"">https</strong> est recommandé.",module,Magento_Paypal

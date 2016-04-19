@@ -21,13 +21,13 @@
 "12h AM/PM","12h AM/PM",module,Magento_Catalog
 "24h","24h",module,Magento_Catalog
 "123","123",module,Magento_Catalog
-"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 par Défaut, si non renseigné. Pour actualiser, purgez le cache de sortie des Blocs HTML.",module,Magento_Catalog
+"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 par Défaut, si non renseigné. Pour actualiser, purgez le cache de sortie des blocs HTML.",module,Magento_Catalog
 "A category object is required for determining the product request path.","Un objet catégorie est obligatoire pour déterminer le chemin de requête du produit.",module,Magento_Catalog
 "Action","Action",module,Magento_Catalog
 "Actions","Actions",module,Magento_Catalog
 "Active From","Actif depuis",module,Magento_Catalog
 "Active To","Actif jusque",module,Magento_Catalog
-"Actual Price","Prix ​​Actuel",module,Magento_Catalog
+"Actual Price","Prix actuel",module,Magento_Catalog
 "Add Attribute","Ajouter un attribut",module,Magento_Catalog
 "Add Attribute Set","Ajouter un groupe d'attribut",module,Magento_Catalog
 "Add Group","Ajouter un groupe",module,Magento_Catalog
@@ -436,7 +436,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "New Root Category","Nouvelle catégorie racine",module,Magento_Catalog
 "New Search","Nouvelle recherche",module,Magento_Catalog
 "New Set","Nouveau Groupe",module,Magento_Catalog
-"New Set Name","Nouveau Nom de Groupe",module,Magento_Catalog
+"New Set Name","Nouveau nom de groupe",module,Magento_Catalog
 "New Subcategory","Nouvelle sous-catégorie",module,Magento_Catalog
 "Next","Suivant",module,Magento_Catalog
 "No","Non",module,Magento_Catalog
@@ -780,8 +780,8 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Use in Quick Search","Utiliser dans la recherche rapide",module,Magento_Catalog
 "Use in Search","Utilisez dans la recherche",module,Magento_Catalog
 "Use JavaScript Calendar","Utiliser le calendrier JavaScript",module,Magento_Catalog
-"Use {{name}} and {{description}} as Product Name and Product Description placeholders","Utilisez {{name}} et {{description}} comme variables de Nom du produit et Description du produit",module,Magento_Catalog
-"Use {{name}} as Product Name or {{sku}} as Product SKU placeholders","Utiliser {{name}} comme Nom de produit ou {{sku}} comme variables de produit",module,Magento_Catalog
+"Use {{name}} and {{description}} as Product Name and Product Description placeholders","Utilisez {{name}} et {{description}} comme variables de nom du produit et Description du produit",module,Magento_Catalog
+"Use {{name}} as Product Name or {{sku}} as Product SKU placeholders","Utiliser {{name}} comme nom de produit ou {{sku}} comme variables de produit",module,Magento_Catalog
 "Use {{name}} as Product Name placeholder","Utilisez {{name}} comme variables de nom du produit",module,Magento_Catalog
 "Use Parent Category Settings","Utiliser les réglages de la catégorie parente",module,Magento_Catalog
 "Use Static URLs for Media Content in WYSIWYG for Catalog","Utiliser les URLs statiques pour le contenu média dans l'éditeur WYSIWYG pour le catalogue",module,Magento_Catalog

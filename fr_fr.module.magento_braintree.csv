@@ -194,7 +194,7 @@
 "Number of billing cycles must be numeric","Le nombre de cycles de facturation doit être un nombre",module,Magento_Braintree
 "or","ou",module,Magento_Braintree
 "Order ID is too long.","ID commande trop long.",module,Magento_Braintree
-"Override Merchant Name","Remplacement du Nom Marchand",module,Magento_Braintree
+"Override Merchant Name","Remplacement du nom Marchand",module,Magento_Braintree
 "Payment action","Action de Paiement",module,Magento_Braintree
 "Payment Action","Action de Paiement",module,Magento_Braintree
 "Payment from Applicable Countries","Mode de paiement autorisé pour les pays applicables",module,Magento_Braintree

@@ -1,4 +1,4 @@
-"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 par Défaut, si non renseigné. Pour actualiser, purgez le cache de sortie des Blocs HTML.",module,Magento_CatalogWidget
+"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 par Défaut, si non renseigné. Pour actualiser, purgez le cache de sortie des blocs HTML.",module,Magento_CatalogWidget
 "Add to Cart","Ajouter au panier",module,Magento_CatalogWidget
 "Add to Compare","Ajouter au comparateur",module,Magento_CatalogWidget
 "Add to Wish List","Ajouter à ma liste d'envie",module,Magento_CatalogWidget
