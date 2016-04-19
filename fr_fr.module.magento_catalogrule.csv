@@ -19,7 +19,7 @@
 "Catalog Price Rule","Règle de prix catalogue",module,Magento_CatalogRule
 "Catalog Price Rules","Règles de prix catalogue",module,Magento_CatalogRule
 "Catalog Product Rule","Règle produit catalogue",module,Magento_CatalogRule
-"Catalog Rule Product","Règles Produit Catalogue",module,Magento_CatalogRule
+"Catalog Rule Product","Règles produit Catalogue",module,Magento_CatalogRule
 "Conditions","Conditions",module,Magento_CatalogRule
 "Conditions Combination","Combinaison de conditions",module,Magento_CatalogRule
 "Conditions (don't add conditions if rule is applied to all products)","Conditions (ne pas ajouter de conditions si la règle doit s'appliquer à tous les produits)",module,Magento_CatalogRule
@@ -49,7 +49,7 @@
 "Pricing Structure Rules","Règles d'application des prix",module,Magento_CatalogRule
 "Priority","Priorité",module,Magento_CatalogRule
 "Product","Produit",module,Magento_CatalogRule
-"Product Attribute","Attribut Produit",module,Magento_CatalogRule
+"Product Attribute","Attribut produit",module,Magento_CatalogRule
 "Promo","Promo",module,Magento_CatalogRule
 "Promotions","Promotions",module,Magento_CatalogRule
 "Rule","Règle",module,Magento_CatalogRule
@@ -83,7 +83,7 @@
 "Updated rules applied.","Mise à jour des règles appliquée.",module,Magento_CatalogRule
 "Update Prices Using the Following Information","Mettre à jour les prix en utilisant l'information suivante",module,Magento_CatalogRule
 "Update product's %1 %2: %3","Mettre à jour le %1 du produit %2 : %3",module,Magento_CatalogRule
-"Update the Product","Mettre à jour le Produit",module,Magento_CatalogRule
+"Update the Product","Mettre à jour le produit",module,Magento_CatalogRule
 "Web Site","Site Web",module,Magento_CatalogRule
 "Websites","Sites Web",module,Magento_CatalogRule
 "We can't apply the rules.","Impossible d'appliquer les règles.",module,Magento_CatalogRule

@@ -41,7 +41,7 @@
 "Choose existing Attribute Set","Choisissez un jeu d'attributs existant",module,Magento_ConfigurableProduct
 "Comparable","Comparable",module,Magento_ConfigurableProduct
 "Configurable product ""%1"" do not have sub-products","Le produit configurable ""%1"" n'a pas de sous-produits",module,Magento_ConfigurableProduct
-"Configurable Product Image","Image du Produit Configurable",module,Magento_ConfigurableProduct
+"Configurable Product Image","Image du produit Configurable",module,Magento_ConfigurableProduct
 "Configurable products allow customers to choose options (Ex: shirt color).
             You need to create a simple product for each configuration (Ex: a product for each color).","Les produits configurables permettent aux clients de choisir des options (ex : couleur de chemise).
              Vous devez créer un produit simple pour chaque configuration (ex : un produit pour chaque couleur).",module,Magento_ConfigurableProduct
@@ -66,7 +66,7 @@
 "Edit role","Modifier le rôle",module,Magento_ConfigurableProduct
 "File extension not known or unsupported type.","Extension de fichier non reconnue ou non supportée.",module,Magento_ConfigurableProduct
 "For better results, add attributes and attribute values to your products.","Pour de meilleurs résultats, ajouter des attributs et des valeurs d'attribut à vos produits.",module,Magento_ConfigurableProduct
-"Generate Products","Générer les Produits",module,Magento_ConfigurableProduct
+"Generate Products","Générer les produits",module,Magento_ConfigurableProduct
 "Generate Variations","Générer Variations",module,Magento_ConfigurableProduct
 "Hidden","Caché",module,Magento_ConfigurableProduct
 "Hide from Product Page","Cacher sur la page du produit",module,Magento_ConfigurableProduct
@@ -108,7 +108,7 @@
 "Remove Attribute","Supprimer l'Attribut",module,Magento_ConfigurableProduct
 "Remove image","Supprimer l'image",module,Magento_ConfigurableProduct
 "Remove Option","Supprimer l'Option",module,Magento_ConfigurableProduct
-"Remove Product","Supprimer le Produit",module,Magento_ConfigurableProduct
+"Remove Product","Supprimer le produit",module,Magento_ConfigurableProduct
 "Requested option doesn't exist: %1","L'option demandée n'existe pas : %1",module,Magento_ConfigurableProduct
 "Requested option doesn't exist","L'option n'existe pas",module,Magento_ConfigurableProduct
 "Required","Requis",module,Magento_ConfigurableProduct
@@ -119,7 +119,7 @@
 "Select...","Choisir...",module,Magento_ConfigurableProduct
 "Select","Choisir",module,Magento_ConfigurableProduct
 "Select All","sélectionner tout",module,Magento_ConfigurableProduct
-"Select Associated Product","Sélectionnez un Produit Associé",module,Magento_ConfigurableProduct
+"Select Associated Product","Sélectionnez un produit Associé",module,Magento_ConfigurableProduct
 "Select attribute","Sélectionnez l'Attribut",module,Magento_ConfigurableProduct
 "Select Attributes","Sélectionnez les Attributs",module,Magento_ConfigurableProduct
 "Select Configurable Attributes","Sélectionnez les attributs configurables",module,Magento_ConfigurableProduct
@@ -143,7 +143,7 @@
 "System","Système",module,Magento_ConfigurableProduct
 "The configurable product does not have any variation attribute.","Le produit configurable n'a aucune variation d'attribut.",module,Magento_ConfigurableProduct
 "This attribute is used in configurable products.","Cet attribut est utilisé dans les produits configurables.",module,Magento_ConfigurableProduct
-"This attribute is used in configurable products. You cannot remove it from the attribute set.","Cet attribut est utilisé dans des Produits configurables. Vous ne pouvez pas le retirer de ce jeu d'attributs.",module,Magento_ConfigurableProduct
+"This attribute is used in configurable products. You cannot remove it from the attribute set.","Cet attribut est utilisé dans des produits configurables. Vous ne pouvez pas le retirer de ce jeu d'attributs.",module,Magento_ConfigurableProduct
 "This group contains attributes used in configurable products. Please move these attributes to another group and try again.","Ce groupe contient des attributs utilisés dans les produits configurables. Veuillez déplacer ces attributs dans un autre groupe et essayer à nouveau.",module,Magento_ConfigurableProduct
 "Thumbnail","Vignette",module,Magento_ConfigurableProduct
 "Upload image","Uploader l'Image",module,Magento_ConfigurableProduct

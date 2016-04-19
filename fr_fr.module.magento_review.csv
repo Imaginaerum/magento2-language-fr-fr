@@ -142,7 +142,7 @@
 "We cannot post the review.","Impossible de poster cet avis.",module,Magento_Review
 "We can't get the product ID.","Impossible d'obtenir l'ID produit.",module,Magento_Review
 "We can't post your review right now.","Impossible de soumettre votre avis.",module,Magento_Review
-"We can't retrieve the product ID.","Impossible de retrouver l'ID du Produit.",module,Magento_Review
+"We can't retrieve the product ID.","Impossible de retrouver l'ID du produit.",module,Magento_Review
 "Write Your Own Review","Rédigez votre propre commentaire",module,Magento_Review
 "You deleted the rating.","Évaluation supprimée.",module,Magento_Review
 "You have submitted no reviews.","Vous n'avez posté aucun commentaire.",module,Magento_Review

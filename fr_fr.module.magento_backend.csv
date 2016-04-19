@@ -28,8 +28,8 @@
 "Add Secret Key to URLs","Ajouter une Clé Secrète aux URLs",module,Magento_Backend
 "Add Store Code to Urls","Ajouter le code du Magasin aux URLs",module,Magento_Backend
 "Add URL Rewrite","Ajouter une réécriture d'URL",module,Magento_Backend
-"Add URL Rewrite for a Category","Ajoutez une réécriture d'URL pour une Catégorie",module,Magento_Backend
-"Add URL Rewrite for a Product","Ajoutez une réécriture d'URL pour un Produit",module,Magento_Backend
+"Add URL Rewrite for a Category","Ajoutez une réécriture d'URL pour une catégorie",module,Magento_Backend
+"Add URL Rewrite for a Product","Ajoutez une réécriture d'URL pour un produit",module,Magento_Backend
 "Add URL Rewrite for CMS page","Ajouter une réécriture d'URL pour une page CMS",module,Magento_Backend
 "Admin","Admin",module,Magento_Backend
 "Admin Base URL","URL de Base de l'Admin",module,Magento_Backend
@@ -394,7 +394,7 @@
 "Please wait...","Veuillez patienter...",module,Magento_Backend
 "Please wait, loading...","Veuillez patienter, chargement en cours...",module,Magento_Backend
 "Port (25)","Port (25)",module,Magento_Backend
-"Pregenerated product images files","Fichiers des Images Produits prégénérés",module,Magento_Backend
+"Pregenerated product images files","Fichiers des Images produits prégénérés",module,Magento_Backend
 "Preprocessed view files and static files","Fichiers de vue et fichiers statiques prétraités",module,Magento_Backend
 "Previous","Précédent",module,Magento_Backend
 "Previous page","Page Précédente",module,Magento_Backend

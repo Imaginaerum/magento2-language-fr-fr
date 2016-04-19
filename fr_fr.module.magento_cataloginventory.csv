@@ -28,7 +28,7 @@
 "Not all of your products are available in the requested quantity.","Tous vos produits ne sont pas disponibles dans la quantité demandée.",module,Magento_CatalogInventory
 "Notify for Quantity Below","Notifier quand la quantité passe en dessous de",module,Magento_CatalogInventory
 "Only %1 left","Plus que %1 en stock",module,Magento_CatalogInventory
-"Only X left Threshold","Seuil pour afficher 'Plus que X Produits restant'",module,Magento_CatalogInventory
+"Only X left Threshold","Seuil pour afficher 'Plus que X produits restant'",module,Magento_CatalogInventory
 "Out of Stock","En rupture de stock",module,Magento_CatalogInventory
 "Out-of-Stock Threshold","Quantité pour que le produit passe à épuisé",module,Magento_CatalogInventory
 "Please correct the quantity for some products.","Veuillez corriger la quantité de certains produits.",module,Magento_CatalogInventory

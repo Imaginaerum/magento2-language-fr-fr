@@ -169,7 +169,7 @@
 "We can't provide the upload settings right now.","Impossible de transmettre les paramètres d'upload.",deprecated,Imaginaerum
 "We can't rebuild the index for an undefined product.","Nous ne pouvons pas reconstruire l'index d'un produit non défini.",deprecated,Imaginaerum
 "We can't remove the item.","Impossible de supprimer l'élément.",deprecated,Imaginaerum
-"We can't retrieve the product ID.","Impossible de retrouver l'ID du Produit.",deprecated,Imaginaerum
+"We can't retrieve the product ID.","Impossible de retrouver l'ID du produit.",deprecated,Imaginaerum
 "We can't save custom-defined options for bundles with dynamic pricing.","Nous ne pouvons pas sauvegarder les options personnalisées, pour les produits groupés avec une tarification dynamique.",deprecated,Imaginaerum
 "We can't save the address.","Nous ne pouvons pas sauvegarder l'adresse.",deprecated,Imaginaerum
 "We can't save the address:n%1","Impossible de sauvegarder l'adresse : n%1",deprecated,Imaginaerum

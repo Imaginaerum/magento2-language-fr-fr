@@ -19,7 +19,7 @@
 "Bestsellers","Meilleures ventes",module,Magento_Reports
 "Best Sellers Report","Rapport des meilleures ventes",module,Magento_Reports
 "By Customers","Par Client",module,Magento_Reports
-"By Products","Par Produits",module,Magento_Reports
+"By Products","Par produits",module,Magento_Reports
 "Canceled","Annulée",module,Magento_Reports
 "Carrier/Method","Transporteur/Méthode",module,Magento_Reports
 "Carts","Paniers",module,Magento_Reports
@@ -158,7 +158,7 @@
 "Recently Compared Products","Derniers produits comparés",module,Magento_Reports
 "Recently Viewed","Vu récemment",module,Magento_Reports
 "Recently Viewed/Compared Products","Produits récemment consultés/comparés",module,Magento_Reports
-"Recently Viewed Products","Derniers Produits Consultés",module,Magento_Reports
+"Recently Viewed Products","Derniers produits Consultés",module,Magento_Reports
 "Recent statistics have been updated.","Les statistiques récentes ont été mises à jour.",module,Magento_Reports
 "Refresh","Rafraîchir",module,Magento_Reports
 "Refresh Lifetime Statistics","Rafraichir les statistiques depuis le début",module,Magento_Reports

@@ -14,7 +14,7 @@
 "%1 Items","%1 articles",module,Magento_Catalog
 "%1 items","%1 articles",module,Magento_Catalog
 "%1 RSS Feed","%1 flux RSS",module,Magento_Catalog
-"%1 - Special Products","%1 - Produits en promotion",module,Magento_Catalog
+"%1 - Special Products","%1 - produits en promotion",module,Magento_Catalog
 "%1 was not found in algorithms","%1 n'a pas été trouvé dans les algorithmes",module,Magento_Catalog
 "%1 <span>x</span> %2 <span>px.</span>","%1 <span>x</span> %2 <span>px.</span>",module,Magento_Catalog
 "%1 - %2","%1 - %2",module,Magento_Catalog
@@ -45,7 +45,7 @@
 "Add New Set","Ajouter un jeu",module,Magento_Catalog
 "Add Option","Ajouter une option",module,Magento_Catalog
 "Add Price","Ajouter un Prix",module,Magento_Catalog
-"Add Product","Ajouter un Produit",module,Magento_Catalog
+"Add Product","Ajouter un produit",module,Magento_Catalog
 "Add Product To Websites","Ajouter le produit aux sites web",module,Magento_Catalog
 "Add Root Category","Ajouter une catégorie racine",module,Magento_Catalog
 "Add Subcategory","Ajouter une sous-catégorie",module,Magento_Catalog
@@ -63,7 +63,7 @@
 "All","Tous",module,Magento_Catalog
 "ALL GROUPS","TOUS LES GROUPES",module,Magento_Catalog
 "Allow All Products per Page","Autoriser tous les produits par page",module,Magento_Catalog
-"Allow Dynamic Media URLs in Products and Categories","Autoriser les URLs de média dynamiques dans les Produits et Catégories",module,Magento_Catalog
+"Allow Dynamic Media URLs in Products and Categories","Autoriser les URLs de média dynamiques dans les produits et catégories",module,Magento_Catalog
 "Allowed File Extensions","Extensions de fichier autorisées",module,Magento_Catalog
 "Allowed file extensions to upload","Extensions de fichier autorisées pour l'envoi",module,Magento_Catalog
 "Allow Gift Message","Autoriser le message cadeau",module,Magento_Catalog
@@ -154,10 +154,10 @@
 "Category is not available for requested store.","La catégorie n'est pas disponible pour le magasin demandé.",module,Magento_Catalog
 "Category Link Block Template","Gabarit du bloc lien catégorie",module,Magento_Catalog
 "Category Link Inline Template","Gabarit inline de lien catégorie",module,Magento_Catalog
-"Category Name","Nom de la Catégorie",module,Magento_Catalog
-"Category Products","Catégorie de Produits",module,Magento_Catalog
+"Category Name","Nom de la catégorie",module,Magento_Catalog
+"Category Products","Catégorie de produits",module,Magento_Catalog
 "Category Top Navigation","Navigation dans les catégories",module,Magento_Catalog
-"Category URL Suffix","Suffixe d'URL des Catégories",module,Magento_Catalog
+"Category URL Suffix","Suffixe d'URL des catégories",module,Magento_Catalog
 "Center","Centrer",module,Magento_Catalog
 "Change","Modifier",module,Magento_Catalog
 "Changes have been made to this section that have not been saved.","Des modifications ont été apportées à cette section qui n'a pas été encore sauvegardée.",module,Magento_Catalog
@@ -203,7 +203,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Could not save product option","Impossible de sauvegarder l'option de produit",module,Magento_Catalog
 "Could not save product ""%product"" with position %position to category %category","Impossible de sauvegarder le produit "" %produit"" avec la position %position désirée dans la catégorie %category",module,Magento_Catalog
 "Country of Manufacture","Pays de fabrication",module,Magento_Catalog
-"Create Category","Créer une Catégorie",module,Magento_Catalog
+"Create Category","Créer une catégorie",module,Magento_Catalog
 "Create Configurations","Créer des Configurations",module,Magento_Catalog
 "Create Permanent Redirect for old URL","Créer des redirections permanentes (301) pour les anciennes URLs",module,Magento_Catalog
 "Create Permanent Redirect for URLs if URL Key Changed","Créer une eedirection permanente (301) pour les URLs si la Clé d'URL a changé",module,Magento_Catalog
@@ -318,8 +318,8 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "If empty, the Product Name will be used","Si vide, le nom du produit sera utilisé",module,Magento_Catalog
 "If empty, we'll use the category name here.","Si vide, le nom de la catégorie sera utilisé.",module,Magento_Catalog
 "If empty, we'll use the product name here.","Si vide, le nom du produit sera utilisé.",module,Magento_Catalog
-"If there are no custom parent categories, please use the default parent category. ' 'You can reassign the category at any time in ' '<a href=""%1"" target=""_blank"">Products > Categories</a>.","S'il n'y a pas de sous-catégorie personnalisée, veuillez utiliser la catégorie racine par défaut. Vous pouvez réaffecter la catégorie à tout moment dans <a href=""%1"" target=""_blank""> Produits > Catégories </a>.",module,Magento_Catalog
-"If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products > Categories</a>.","S'il n'y a pas de sous-catégorie personnalisée, veuillez utiliser la catégorie racine par défaut. Vous pouvez réaffecter la catégorie à tout moment dans <a href=""%1"" target=""_blank""> Produits > Catégories </a>.",module,Magento_Catalog
+"If there are no custom parent categories, please use the default parent category. ' 'You can reassign the category at any time in ' '<a href=""%1"" target=""_blank"">Products > Categories</a>.","S'il n'y a pas de sous-catégorie personnalisée, veuillez utiliser la catégorie racine par défaut. Vous pouvez réaffecter la catégorie à tout moment dans <a href=""%1"" target=""_blank""> produits > catégories </a>.",module,Magento_Catalog
+"If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products > Categories</a>.","S'il n'y a pas de sous-catégorie personnalisée, veuillez utiliser la catégorie racine par défaut. Vous pouvez réaffecter la catégorie à tout moment dans <a href=""%1"" target=""_blank""> produits > catégories </a>.",module,Magento_Catalog
 "Image","Image",module,Magento_Catalog
 "Image Detail","Détail de l'image",module,Magento_Catalog
 "Image Management","Gestion des images",module,Magento_Catalog
@@ -336,7 +336,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Indexed product/categories association","Indexation d'association produit/catégories",module,Magento_Catalog
 "Index product and categories URL Rewrites","Index réécriture URL catégories et produits",module,Magento_Catalog
 "Index product attributes for layered navigation building","Index des attributs produit pour la navigation par filtres",module,Magento_Catalog
-"Index product EAV","Index EAV des Produits",module,Magento_Catalog
+"Index product EAV","Index EAV des produits",module,Magento_Catalog
 "Index product prices","Index des tarifs produit",module,Magento_Catalog
 "Input Type","Type de Saisie",module,Magento_Catalog
 "Input Validation for Store Owner","Validation requise",module,Magento_Catalog
@@ -368,7 +368,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "List","Liste",module,Magento_Catalog
 "List (default) / Grid","Liste (par défaut) / grille",module,Magento_Catalog
 "List Mode","Mode d'affichage",module,Magento_Catalog
-"List of Products that are set as New","Liste des Produits configurés comme Nouveaux",module,Magento_Catalog
+"List of Products that are set as New","Liste des produits configurés comme Nouveaux",module,Magento_Catalog
 "List Only","Liste Seulement",module,Magento_Catalog
 "Loading...","Chargement en cours...",module,Magento_Catalog
 "Low Stock Products","Produits ayant un faible niveau de stock",module,Magento_Catalog
@@ -420,9 +420,9 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Name in %1","Nom dans %1",module,Magento_Catalog
 "New Attribute","Nouvel attribut",module,Magento_Catalog
 "New Attribute Set","Nouveau jeu d'attributs",module,Magento_Catalog
-"New Category","Nouvelle Catégorie",module,Magento_Catalog
+"New Category","Nouvelle catégorie",module,Magento_Catalog
 "New Option","Nouvelle Option",module,Magento_Catalog
-"New Product","Nouveau Produit",module,Magento_Catalog
+"New Product","Nouveau produit",module,Magento_Catalog
 "New Product Attribute","Nouvel attribut produit",module,Magento_Catalog
 "New products","Nouveau produit",module,Magento_Catalog
 "New Products","Nouveau produit",module,Magento_Catalog
@@ -432,7 +432,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "New Products Images Only Template","Nouveau gabarit d'images produits",module,Magento_Catalog
 "New Products List Template","Gabarit des nouveaux produits sous forme de liste",module,Magento_Catalog
 "New Products Names Only Template","Nouveau gabarit noms de produits seulement",module,Magento_Catalog
-"New Product Template","Nouveau Gabarit Produit",module,Magento_Catalog
+"New Product Template","Nouveau Gabarit produit",module,Magento_Catalog
 "New Root Category","Nouvelle catégorie racine",module,Magento_Catalog
 "New Search","Nouvelle recherche",module,Magento_Catalog
 "New Set","Nouveau Groupe",module,Magento_Catalog
@@ -482,7 +482,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Please provide valid data","Veuillez fournir des données valides",module,Magento_Catalog
 "-- Please Select --","-- Faire un Choix --",module,Magento_Catalog
 "-- Please select --","-- Faire un Choix --",module,Magento_Catalog
-"-- Please Select a Category --","-- Veuillez Sélectionner une Catégorie --",module,Magento_Catalog
+"-- Please Select a Category --","-- Veuillez Sélectionner une catégorie --",module,Magento_Catalog
 "Please select a static block.","Veuillez sélectionner un bloc statique.",module,Magento_Catalog
 "Please select catalog searches.","Sélectionnez les recherches catalogue.",module,Magento_Catalog
 "Please select items.","Veuillez sélectionner un élement.",module,Magento_Catalog
@@ -507,7 +507,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Product","Produit",module,Magento_Catalog
 "Product Alerts","Alertes du produit",module,Magento_Catalog
 "Product Attributes","Attributs de produit",module,Magento_Catalog
-"Product Categories","Catégories du Produit",module,Magento_Catalog
+"Product Categories","Catégories du produit",module,Magento_Catalog
 "Product Details","Détails du produit",module,Magento_Catalog
 "Product EAV","Produit EAV",module,Magento_Catalog
 "productFactory is already set","productFactory est déjà défini",module,Magento_Catalog
@@ -537,7 +537,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Product Template","Gabarit produit",module,Magento_Catalog
 "Product Templates","Gabarits produit",module,Magento_Catalog
 "Product Thumbnail Itself","Vignette du produit lui-même",module,Magento_Catalog
-"Product URL Suffix","Suffixe d'URL des Produits",module,Magento_Catalog
+"Product URL Suffix","Suffixe d'URL des produits",module,Magento_Catalog
 "Product with SKU ""%1"" does not exist","Le produit avec le SKU ""%1"" n'existe pas",module,Magento_Catalog
 "Product with SKU %1 is not linked to product with SKU %2","Produit avec le SKU %1 n'a pas été lié au produit SKU %2",module,Magento_Catalog
 "Properties","Propriétés",module,Magento_Catalog
@@ -554,11 +554,11 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Regular Price","Prix Normal",module,Magento_Catalog
 "Related Products","Produits apparentés",module,Magento_Catalog
 "Remove Image","Supprimer l'image",module,Magento_Catalog
-"Remove Product","Supprimer le Produit",module,Magento_Catalog
+"Remove Product","Supprimer le produit",module,Magento_Catalog
 "Remove Product From Websites","Supprimer le produit des sites web",module,Magento_Catalog
 "Remove This Item","Supprimer cet Élément",module,Magento_Catalog
-"Reorganize EAV category structure to flat structure","Réorganise la structure de Catégorie EAV en une structure fixe",module,Magento_Catalog
-"Reorganize EAV product structure to flat structure","Réorganise la structure de Produit EAV en une structure fixe",module,Magento_Catalog
+"Reorganize EAV category structure to flat structure","Réorganise la structure de catégorie EAV en une structure fixe",module,Magento_Catalog
+"Reorganize EAV product structure to flat structure","Réorganise la structure de produit EAV en une structure fixe",module,Magento_Catalog
 "Requested product does not support images.","Le produit demandé ne supporte pas les images.",module,Magento_Catalog
 "Requested product doesn't exist","Le produit n'existe pas",module,Magento_Catalog
 "Required","Requis",module,Magento_Catalog
@@ -590,8 +590,8 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Select All","sélectionner tout",module,Magento_Catalog
 "select all","sélectionner tout",module,Magento_Catalog
 "Select Category...","Sélectionner une catégorie...",module,Magento_Catalog
-"Select Product...","Sélectionner un Produit...",module,Magento_Catalog
-"Select Product","Sélectionner un Produit",module,Magento_Catalog
+"Select Product...","Sélectionner un produit...",module,Magento_Catalog
+"Select Product","Sélectionner un produit",module,Magento_Catalog
 "Select Product Actions","Choisir les actions produit",module,Magento_Catalog
 "Select type of option.","Sélectionnez le type d'option.",module,Magento_Catalog
 "Select type options required values rows.","Sélectionner les lignes de valeurs obligatoires des options.",module,Magento_Catalog
@@ -637,7 +637,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Sorry, but we can't find the new category you selected.","Désolé, mais nous ne pouvons pas trouver la catégorie sélectionnée.",module,Magento_Catalog
 "Sorry, but we can't find the new parent category you selected.","Désolé, impossible trouver la catégorie parente sélectionnée.",module,Magento_Catalog
 "Sorry, but we can't move the category because we can't find the new category you selected.","Impossible de déplacer la catégorie. La catégorie de destination n'a pas été trouvée.",module,Magento_Catalog
-"Sorry, but we can't move the category because we can't find the new parent category you selected.","Impossible de déplacer la catégorie. Catégorie parente introuvable.",module,Magento_Catalog
+"Sorry, but we can't move the category because we can't find the new parent category you selected.","Impossible de déplacer la catégorie. catégorie parente introuvable.",module,Magento_Catalog
 "Sorry, we're unable to complete this request.","Désolé, nous ne pouvons pas compléter cette requête.",module,Magento_Catalog
 "Sort By","Trier par",module,Magento_Catalog
 "Sort Custom Option","Trier l'option personnalisée",module,Magento_Catalog
@@ -743,7 +743,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Top/Left","Haut/Gauche",module,Magento_Catalog
 "Top Level Category","Catégorie de niveau supérieur",module,Magento_Catalog
 "Top/Right","Haut/Droit",module,Magento_Catalog
-"To see product price, add this item to your cart. You can always remove it later.","Pour voir le prix du Produit, ajoutez cet article à votre panier. Vous pourrez toujours l'enlever plus tard.",module,Magento_Catalog
+"To see product price, add this item to your cart. You can always remove it later.","Pour voir le prix du produit, ajoutez cet article à votre panier. Vous pourrez toujours l'enlever plus tard.",module,Magento_Catalog
 "Total of %1 record(s) were deleted","%1 enregistrement(s) effacé(s)",module,Magento_Catalog
 "Type","Type",module,Magento_Catalog
 "Unable to remove product %1","Impossible de supprimer le produit %1",module,Magento_Catalog
@@ -765,7 +765,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Use All Available Attributes","Utiliser tous les attributs disponibles",module,Magento_Catalog
 "Use Canonical Link Meta Tag For Categories","Utiliser un lien canonique de meta tag pour les catégories",module,Magento_Catalog
 "Use Canonical Link Meta Tag For Products","Utiliser un lien canonique de meta tag pour les produits",module,Magento_Catalog
-"Use Categories Path for Product URLs","Utiliser le Chemin des Catégories pour l'URL des Produits",module,Magento_Catalog
+"Use Categories Path for Product URLs","Utiliser le Chemin des catégories pour l'URL des produits",module,Magento_Catalog
 "Use config","Utiliser la config",module,Magento_Catalog
 "Use Config Settings","Utiliser les paramètres de la configuration",module,Magento_Catalog
 "Use Default","Utiliser la valeur par défaut",module,Magento_Catalog

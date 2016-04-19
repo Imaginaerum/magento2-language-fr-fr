@@ -5,7 +5,7 @@
 "Always","Toujours",module,Magento_Sitemap
 "Base Only","Image de base uniquement",module,Magento_Sitemap
 "Catalog","Catalogue",module,Magento_Sitemap
-"Categories Options","Options pour les Catégories",module,Magento_Sitemap
+"Categories Options","Options pour les catégories",module,Magento_Sitemap
 "CMS Pages Options","Options pour les Pages CMS",module,Magento_Sitemap
 "Daily","Quotidien",module,Magento_Sitemap
 "Edit Sitemap","Modifier le plan de site",module,Magento_Sitemap
@@ -41,7 +41,7 @@
 "Please make sure that ""%1"" is writable by the web-server.","Veuillez vérifier que ""%1"" est accessible en écriture sur le serveur web.",module,Magento_Sitemap
 "Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in the filename. No spaces or other characters are allowed.","Veuillez n'utiliser que des lettres (a-z ou A-Z), des nombres (0-9) ou des underscores (_) dans le nom du fichier. Les espaces ou autres caractères ne sont pas autorisés.",module,Magento_Sitemap
 "Priority","Priorité",module,Magento_Sitemap
-"Products Options","Options pour les Produits",module,Magento_Sitemap
+"Products Options","Options pour les produits",module,Magento_Sitemap
 "Save & Generate","Sauvegarder & générer",module,Magento_Sitemap
 "Search Engine Submission Settings","Paramètres de soumission aux moteurs de recherche",module,Magento_Sitemap
 "Site Map","Plan de Site",module,Magento_Sitemap

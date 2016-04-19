@@ -103,7 +103,7 @@
 "Price in cart","Prix dans le panier",module,Magento_SalesRule
 "Pricing Structure Rules","Règles d'application des prix",module,Magento_SalesRule
 "Priority","Priorité",module,Magento_SalesRule
-"Product Attribute","Attribut Produit",module,Magento_SalesRule
+"Product Attribute","Attribut produit",module,Magento_SalesRule
 "Product attribute combination","Combinaison d'attributs de produit",module,Magento_SalesRule
 "Products subselection","Sous-sélection de produits",module,Magento_SalesRule
 "Promotions","Promotions",module,Magento_SalesRule
@@ -152,7 +152,7 @@
 "Total Weight","Poids Total",module,Magento_SalesRule
 "Update prices using the following information","Mettre à jour les prix en utilisant l'information suivante",module,Magento_SalesRule
 "Update product's %1 %2: %3","Mettre à jour le %1 du produit %2 : %3",module,Magento_SalesRule
-"Update the Product","Mettre à jour le Produit",module,Magento_SalesRule
+"Update the Product","Mettre à jour le produit",module,Magento_SalesRule
 "Usage limit enforced for logged in customers only.","Limite d'utilisation imposée uniquement aux clients connectés.",module,Magento_SalesRule
 "Use Auto Generation","Utiliser la génération automatique",module,Magento_SalesRule
 "Uses","Utilisations",module,Magento_SalesRule

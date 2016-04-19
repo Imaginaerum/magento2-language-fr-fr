@@ -43,7 +43,7 @@
 "Links","Liens",module,Magento_Downloadable
 "Links can be purchased separately","Les liens peuvent être achetés séparément",module,Magento_Downloadable
 "Link title cannot be empty.","Le titre du lien ne peut pas être vide.",module,Magento_Downloadable
-"Link URL must have valid format.","L'URL du Produit téléchargeable doit avoir un format valide.",module,Magento_Downloadable
+"Link URL must have valid format.","L'URL du produit téléchargeable doit avoir un format valide.",module,Magento_Downloadable
 "Max. Downloads","Téléchargements max",module,Magento_Downloadable
 "Message:","Message :",module,Magento_Downloadable
 "Move to Wishlist","Ajouter à la liste d'envies",module,Magento_Downloadable

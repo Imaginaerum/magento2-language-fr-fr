@@ -103,8 +103,8 @@
 "Canceled","Annulée",module,Magento_Paypal
 "Cannot get secure form URL from PayPal","Impossible d'obtenir l'URL du formulaire sécurisé provenant de PayPal",module,Magento_Paypal
 "Card Security Code Does Not Match","Le code de sécurité de la carte ne correspond pas",module,Magento_Paypal
-"Catalog Category Page","Page Catégorie du Catalogue",module,Magento_Paypal
-"Catalog Product Page","Page Produit",module,Magento_Paypal
+"Catalog Category Page","Page catégorie du Catalogue",module,Magento_Paypal
+"Catalog Product Page","Page produit",module,Magento_Paypal
 "Chargeback","Frais de retour",module,Magento_Paypal
 "Charge-off","Frais-off",module,Magento_Paypal
 "Checkout Cart Page","Page Panier",module,Magento_Paypal
@@ -213,12 +213,12 @@
 "General (Funds Transfer from PayPal Account to Another)","Général (transfert de fonds de compte PayPal à un autre)",module,Magento_Paypal
 "General Information","Informations Générales",module,Magento_Paypal
 "General: non-payment fee of a type not belonging to the other T01xx categories","Général : Taxe de non-paiement d'un type qui n'appartient pas aux autres catégories T01xx",module,Magento_Paypal
-"General. Product no longer supported","Généralités. Ce Produit n'est plus pris en charge",module,Magento_Paypal
+"General. Product no longer supported","Généralités. Ce produit n'est plus pris en charge",module,Magento_Paypal
 "General (Purchase with a credit card)","Généraux (achat avec une carte de crédit)",module,Magento_Paypal
 "General: received payment of a type not belonging to the other T00xx categories","Général : paiement reçu d'un type n'appartenant pas aux autres catégories de T00xx",module,Magento_Paypal
 "General Redemption","Remboursement général",module,Magento_Paypal
-"General: reversal of a type not belonging to the other T11xx categories","Général : inversion d'un type n'appartenant pas aux autres Catégories de T11xx",module,Magento_Paypal
-"General: temporary hold of a type not belonging to the other T15xx categories","Général: suspension temporaire d'un type qui n'appartiennent pas aux autres Catégories T15xx",module,Magento_Paypal
+"General: reversal of a type not belonging to the other T11xx categories","Général : inversion d'un type n'appartenant pas aux autres catégories de T11xx",module,Magento_Paypal
+"General: temporary hold of a type not belonging to the other T15xx categories","Général: suspension temporaire d'un type qui n'appartiennent pas aux autres catégories T15xx",module,Magento_Paypal
 "General: Use of PayPal account for purchasing as well as receiving payments","Compte général : utilisation de PayPal pour l'achat ainsi que la réception des paiements",module,Magento_Paypal
 "General Withdrawal from PayPal Account","Retrait général de compte PayPal",module,Magento_Paypal
 "General: Withdrawal from PayPal Account","Retrait général de compte PayPal",module,Magento_Paypal
@@ -386,7 +386,7 @@
 "PayPal Merchant Pages Style","PayPal marchand pages de style",module,Magento_Paypal
 "PayPal Payment Gateways","Passerelles de paiement PayPal",module,Magento_Paypal
 "PayPal Payment Solutions","Solutions de paiement PayPal",module,Magento_Paypal
-"PayPal Product Logo","Logo du Produit PayPal",module,Magento_Paypal
+"PayPal Product Logo","Logo du produit PayPal",module,Magento_Paypal
 "PayPal Protection Bonus","bonus de protection PayPal",module,Magento_Paypal
 "PayPal recommends that you set up an additional User on your account at manager.paypal.com","PayPal vous recommande de mettre en place un utilisateur supplémentaire dans votre compte sur manager.paypal.com",module,Magento_Paypal
 "PayPal recommends you set up an additional User on your account at manager.paypal.com, instead of entering your admin username and password here. This will enhance your security and prevent service interruptions if you later change your password. If you do not want to set up an additional User, you can re-enter your Merchant Login here.","PayPal vous recommande de mettre en place un utilisateur supplémentaire dans votre compte à manager.paypal.com, au lieu d'entrer votre nom d'utilisateur et mot de passe admin ici. Cela permettra d'améliorer votre sécurité et d'éviter les interruptions de service si vous changez votre mot de passe. Si vous ne voulez pas mettre en place un utilisateur supplémentaire, vous pouvez réintégrer votre compte marchand ici.",module,Magento_Paypal

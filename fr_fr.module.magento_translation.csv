@@ -1,6 +1,6 @@
 "Activate","Activer",module,Magento_Translation
 "Add Products","Ajouter des produits",module,Magento_Translation
-"Add Products By SKU","Ajouter des Produits par SKU",module,Magento_Translation
+"Add Products By SKU","Ajouter des produits par SKU",module,Magento_Translation
 "Add Products to Group","Ajouter des produits au groupe",module,Magento_Translation
 "Add Products to New Option","Ajouter les produits à la nouvelle option",module,Magento_Translation
 "Add Products to Option ""%1""","Ajouter les produits à l'option ""%1""",module,Magento_Translation
@@ -16,7 +16,7 @@
 "Close","Fermer",module,Magento_Translation
 "Complete","Terminée",module,Magento_Translation
 "Configure Product","Configurer le produit",module,Magento_Translation
-"Create Category","Créer une Catégorie",module,Magento_Translation
+"Create Category","Créer une catégorie",module,Magento_Translation
 "Create New Wish List","Créer une liste d'envies",module,Magento_Translation
 "Credit card number does not match credit card type.","Le numéro de carte ne correspond pas au type de carte.",module,Magento_Translation
 "Default title","Titre par défaut",module,Magento_Translation
@@ -107,7 +107,7 @@
 "Recent items","Éléments récents",module,Magento_Translation
 "Save","Sauvegarder",module,Magento_Translation
 "select all","sélectionner tout",module,Magento_Translation
-"Select Product","Sélectionner un Produit",module,Magento_Translation
+"Select Product","Sélectionner un produit",module,Magento_Translation
 "Select type of option.","Sélectionnez le type d'option.",module,Magento_Translation
 "Show all...","Voir tout...",module,Magento_Translation
 "Some problem with revert action","Problème rencontré lors de l'annulation",module,Magento_Translation

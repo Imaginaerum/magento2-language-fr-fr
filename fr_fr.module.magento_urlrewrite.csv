@@ -1,8 +1,8 @@
 "Action","Action",module,Magento_UrlRewrite
 "Add New URL Rewrite","Nouvelle réécriture d'URL",module,Magento_UrlRewrite
 "Add URL Rewrite","Ajouter une réécriture d'URL",module,Magento_UrlRewrite
-"Add URL Rewrite for a Category","Ajoutez une réécriture d'URL pour une Catégorie",module,Magento_UrlRewrite
-"Add URL Rewrite for a Product","Ajoutez une réécriture d'URL pour un Produit",module,Magento_UrlRewrite
+"Add URL Rewrite for a Category","Ajoutez une réécriture d'URL pour une catégorie",module,Magento_UrlRewrite
+"Add URL Rewrite for a Product","Ajoutez une réécriture d'URL pour un produit",module,Magento_UrlRewrite
 "Add URL Rewrite for CMS page","Ajouter une réécriture d'URL pour une page CMS",module,Magento_UrlRewrite
 "Anchor symbol (#) is not supported in request path","Le symbole Ancre (""#"") n'est pas supporté dans le chemin de la requête",module,Magento_UrlRewrite
 "Anchor symbol (#) is not supported in request path.","Le symbole Ancre (""#"") n'est pas supporté dans le chemin de la requête.",module,Magento_UrlRewrite

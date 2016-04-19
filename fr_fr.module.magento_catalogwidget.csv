@@ -13,7 +13,7 @@
 "Number of Products to Display","Nombre de produits à afficher",module,Magento_CatalogWidget
 "Out of stock","En rupture de stock",module,Magento_CatalogWidget
 "Please choose a condition to add.","Veuillez choisir une condition à ajouter.",module,Magento_CatalogWidget
-"Product Attribute","Attribut Produit",module,Magento_CatalogWidget
+"Product Attribute","Attribut produit",module,Magento_CatalogWidget
 "Products Grid Template","Template de la grille de produits",module,Magento_CatalogWidget
 "SKU","SKU",module,Magento_CatalogWidget
 "Template","Gabarit",module,Magento_CatalogWidget

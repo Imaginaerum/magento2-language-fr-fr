@@ -7,7 +7,7 @@
 "Cannot process the item.","Impossible de traiter l'élément.",module,Magento_GroupedProduct
 "Default Qty","Qté par défaut",module,Magento_GroupedProduct
 "Excl. Tax:","HT :",module,Magento_GroupedProduct
-"Grouped Product Image","Image Produit Groupé",module,Magento_GroupedProduct
+"Grouped Product Image","Image produit Groupé",module,Magento_GroupedProduct
 "Grouped product items","Articles du produit groupé",module,Magento_GroupedProduct
 "Grouped Products","Produits Groupés",module,Magento_GroupedProduct
 "ID","ID",module,Magento_GroupedProduct
