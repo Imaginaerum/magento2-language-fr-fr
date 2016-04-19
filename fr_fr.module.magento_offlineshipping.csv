@@ -22,7 +22,7 @@
 "# of Items (and above)","Nombre d'articles (et au-delà)",module,Magento_OfflineShipping
 "# of Items vs. Destination","Nombre d'articles par destination",module,Magento_OfflineShipping
 "Order Subtotal (and above)","Sous-total de la commande (et au dessus)",module,Magento_OfflineShipping
-"Per Item","Par Article",module,Magento_OfflineShipping
+"Per Item","Par article",module,Magento_OfflineShipping
 "Per Order","Par commande",module,Magento_OfflineShipping
 "Please correct %1 ""%2"" in the Row #%3.","Veuillez corriger %1 ""%2"" à la ligne #%3.",module,Magento_OfflineShipping
 "Please correct Country ""%1"" in the Row #%2.","Veuillez corriger le pays ""%1"" à la ligne #%2.",module,Magento_OfflineShipping
