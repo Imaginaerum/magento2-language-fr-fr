@@ -28,8 +28,8 @@
 "Girth","Circonférence",module,Magento_Usps
 "Global Express Guaranteed Document","Global Express Guaranteed Document",module,Magento_Usps
 "Global Express Guaranteed (GXG)","Global Express Guaranteed (GXG)",module,Magento_Usps
-"Global Express Guaranteed Non-Document Non-Rectangular","Global Express Guaranteed Non-Document Non-Rectangular",module,Magento_Usps
-"Global Express Guaranteed Non-Document Rectangular","Global Express Guaranteed Non-Document Rectangular",module,Magento_Usps
+"Global Express Guaranteed Non-Document Non-Rectangular","Global Express Guaranteed non-Document non-Rectangular",module,Magento_Usps
+"Global Express Guaranteed Non-Document Rectangular","Global Express Guaranteed non-Document Rectangular",module,Magento_Usps
 "Handling Applied","Frais de dossier appliqués",module,Magento_Usps
 "Handling Fee","Frais de dossier",module,Magento_Usps
 "Height","Hauteur",module,Magento_Usps

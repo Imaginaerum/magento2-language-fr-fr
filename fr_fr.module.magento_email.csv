@@ -2,7 +2,7 @@
 "<pre> %1 </pre>","<pre> %1 </pre>",module,Magento_Email
 "Action","Action",module,Magento_Email
 "Added","Ajouté",module,Magento_Email
-"Add New Template","Ajouter un Nouveau gabarit",module,Magento_Email
+"Add New Template","Ajouter un nouveau gabarit",module,Magento_Email
 "Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in width/height fields below.","Types de fichiers autorisés : jpg, jpeg, gif, png. Pour optimiser le logo pour des écrans haute résolution, télécharger une image 3 fois plus grande que la taille normale, puis spécifier les dimensions de la taille normale dans les champs largeur/hauteur ci-dessous.",module,Magento_Email
 "An error occurred. The email template can not be opened for preview.","Une erreur s'est produite. Le gabarit d'email ne peut pas être ouvert pour aperçu.",module,Magento_Email
 "An error occurred while deleting email template data. Please review log and try again.","Erreur lors de la suppression des données de gabarit d'email. Consultez les logs.",module,Magento_Email

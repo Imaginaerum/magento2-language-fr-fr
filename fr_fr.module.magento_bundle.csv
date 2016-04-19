@@ -73,7 +73,7 @@
 "Quantity:","Quantité :",module,Magento_Bundle
 "Quantity","Quantité",module,Magento_Bundle
 "Refunded","Remboursé",module,Magento_Bundle
-"Regular Price","Prix Normal",module,Magento_Bundle
+"Regular Price","Prix normal",module,Magento_Bundle
 "Requested bundle option product doesn't exist","Les options du produit packagé n'existent pas",module,Magento_Bundle
 "Requested option doesn't exist","L'option n'existe pas",module,Magento_Bundle
 "Required","Requis",module,Magento_Bundle

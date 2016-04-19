@@ -22,7 +22,7 @@
 "Inventory","Inventaire",module,Magento_CatalogInventory
 "Manage Stock","Gérer les stocks",module,Magento_CatalogInventory
 "Maximum Qty Allowed in Shopping Cart","Quantité maximale autorisée dans le panier",module,Magento_CatalogInventory
-"Minimum Qty","Quantité Minimale",module,Magento_CatalogInventory
+"Minimum Qty","Quantité minimale",module,Magento_CatalogInventory
 "Minimum Qty Allowed in Shopping Cart","Quantité minimale autorisée dans le panier",module,Magento_CatalogInventory
 "No Backorders","Pas de commandes au delà des stocks",module,Magento_CatalogInventory
 "Not all of your products are available in the requested quantity.","Tous vos produits ne sont pas disponibles dans la quantité demandée.",module,Magento_CatalogInventory

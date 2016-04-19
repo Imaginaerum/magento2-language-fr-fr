@@ -14,12 +14,12 @@
 "Close","Fermer",module,Magento_AdminNotification
 "Close popup","Fermer la popup",module,Magento_AdminNotification
 "critical","critique",module,Magento_AdminNotification
-"Critical System Messages","Messages système Critiques",module,Magento_AdminNotification
+"Critical System Messages","Messages système critiques",module,Magento_AdminNotification
 "Date Added","Date d'ajout",module,Magento_AdminNotification
 "Incoming Message","Message reçu",module,Magento_AdminNotification
 "Last Update","Dernière mise à jour",module,Magento_AdminNotification
 "major","majeur",module,Magento_AdminNotification
-"Major System Messages","Messages système Majeurs",module,Magento_AdminNotification
+"Major System Messages","Messages système majeurs",module,Magento_AdminNotification
 "Mark as Read","Marquer comme lu",module,Magento_AdminNotification
 "Message","Message",module,Magento_AdminNotification
 "Messages Inbox","Boîte de Réception",module,Magento_AdminNotification

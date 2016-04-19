@@ -61,7 +61,7 @@
 "Enter your destination to get a shipping estimate.","Choisissez votre destination pour estimer les frais de port.",module,Magento_Checkout
 "Error!","Erreur !",module,Magento_Checkout
 "Error message!","Erreur !",module,Magento_Checkout
-"Estimated Total","Total Estimé",module,Magento_Checkout
+"Estimated Total","Total estimé",module,Magento_Checkout
 "Estimate Shipping and Tax","Estimer la livraison et la TVA",module,Magento_Checkout
 "Estimate Tax","Estimation taxe",module,Magento_Checkout
 " Example: "," Exemple : ",module,Magento_Checkout

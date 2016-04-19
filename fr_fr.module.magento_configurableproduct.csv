@@ -52,7 +52,7 @@
 "Could not update option with id ""%1""","Impossible de mettre à jour l'option id ""%1""",module,Magento_ConfigurableProduct
 "Create Configurations","Créer des Configurations",module,Magento_ConfigurableProduct
 "Create Empty","Créer vide",module,Magento_ConfigurableProduct
-"Create New Attribute","Créer un Nouvel Attribut",module,Magento_ConfigurableProduct
+"Create New Attribute","Créer un nouvel attribut",module,Magento_ConfigurableProduct
 "Create New Value","Créez une nouvelle Valeur",module,Magento_ConfigurableProduct
 "Create New Variation Set","Créer un nouveau jeu de variations",module,Magento_ConfigurableProduct
 "Create Product Configurations","Créer des configurations de produit",module,Magento_ConfigurableProduct
@@ -121,7 +121,7 @@
 "Select All","sélectionner tout",module,Magento_ConfigurableProduct
 "Select Associated Product","Sélectionnez un produit associé",module,Magento_ConfigurableProduct
 "Select attribute","Sélectionnez l'attribut",module,Magento_ConfigurableProduct
-"Select Attributes","Sélectionnez les Attributs",module,Magento_ConfigurableProduct
+"Select Attributes","Sélectionnez les attributs",module,Magento_ConfigurableProduct
 "Select Configurable Attributes","Sélectionnez les attributs configurables",module,Magento_ConfigurableProduct
 "Selected Attributes:","Attributs sélectionnés :",module,Magento_ConfigurableProduct
 "Select options for all attributes or remove unused attributes.","Sélectionnez les options pour tous les attributs ou supprimer les attributs inutilisés.",module,Magento_ConfigurableProduct

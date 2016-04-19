@@ -71,7 +71,7 @@
 "Allow HTML Tags on Storefront","Permettre les balises HTML sur le magasin",module,Magento_Catalog
 "Allow Multiple Boxes for Shipping.","Autoriser plusieurs colis pour l'expédition.",module,Magento_Catalog
 "All products","Tous les produits",module,Magento_Catalog
-"All products - recently added products, New products - products marked as new","Tous les produits - produits ajoutés récemment, Nouveaux produits - produits marqués comme nouveau",module,Magento_Catalog
+"All products - recently added products, New products - products marked as new","Tous les produits - produits ajoutés récemment, nouveaux produits - produits marqués comme nouveau",module,Magento_Catalog
 "All Store Views","Toutes les vues magasin",module,Magento_Catalog
 "All Websites","Tous les sites Web",module,Magento_Catalog
 "Alt Text","Texte Alternatif",module,Magento_Catalog
@@ -368,7 +368,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "List","Liste",module,Magento_Catalog
 "List (default) / Grid","Liste (par défaut) / grille",module,Magento_Catalog
 "List Mode","Mode d'affichage",module,Magento_Catalog
-"List of Products that are set as New","Liste des produits configurés comme Nouveaux",module,Magento_Catalog
+"List of Products that are set as New","Liste des produits configurés comme nouveaux",module,Magento_Catalog
 "List Only","Liste Seulement",module,Magento_Catalog
 "Loading...","Chargement en cours...",module,Magento_Catalog
 "Low Stock Products","Produits ayant un faible niveau de stock",module,Magento_Catalog
@@ -551,7 +551,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Quantity","Quantité",module,Magento_Catalog
 "Redirect URL","URL de Redirection",module,Magento_Catalog
 "Regular Price:","Prix normal :",module,Magento_Catalog
-"Regular Price","Prix Normal",module,Magento_Catalog
+"Regular Price","Prix normal",module,Magento_Catalog
 "Related Products","Produits apparentés",module,Magento_Catalog
 "Remove Image","Supprimer l'image",module,Magento_Catalog
 "Remove Product","Supprimer le produit",module,Magento_Catalog
@@ -575,8 +575,8 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Save & Close","Sauvegarder et Fermer",module,Magento_Catalog
 "Save & Duplicate","Sauvegarder et Dupliquer",module,Magento_Catalog
 "Save & Edit","Sauvegarder et Modifier",module,Magento_Catalog
-"Save in New Attribute Set","Sauvegarder le Nouveau Jeu dAttributs",module,Magento_Catalog
-"Save & New","Sauvegarder et Nouveau",module,Magento_Catalog
+"Save in New Attribute Set","Sauvegarder le nouveau Jeu dAttributs",module,Magento_Catalog
+"Save & New","Sauvegarder et nouveau",module,Magento_Catalog
 "Save Search","Sauvegarder la recherche",module,Magento_Catalog
 "Scope","Portée",module,Magento_Catalog
 "Search","Rechercher",module,Magento_Catalog
@@ -688,7 +688,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "The file is empty. Please choose another one","Fichier vide. Veuillez en choisir un autre.",module,Magento_Catalog
 "The file options format is not valid.","Le format du fichier des options est invalide.",module,Magento_Catalog
 "The file upload failed.","Le chargement du fichier a échoué.",module,Magento_Catalog
-"The file you uploaded is larger than %1 Megabytes allowed by server","Le fichier chargé a une taille supérieure à %1 Mo. maximum autorisé sur le serveur",module,Magento_Catalog
+"The file you uploaded is larger than %1 Megabytes allowed by server","Le fichier chargé a une taille supérieure à %1 Mo. Maximum autorisé sur le serveur",module,Magento_Catalog
 "The filter must be an object. Please set correct filter.","Le filtre doit être un objet. Veuillez le configurer correctement.",module,Magento_Catalog
 "The filter must be an object. Please set the correct filter.","Le filtre doit être un objet. Veuillez régler le filtre approprié.",module,Magento_Catalog
 "The filters must be an array.","Les filtres doivent être sous forme de tableau.",module,Magento_Catalog
