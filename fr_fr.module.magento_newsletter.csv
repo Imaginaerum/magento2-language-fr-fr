@@ -17,7 +17,7 @@
 "Confirmation Email Template","Gabarit de l'email de confirmation",module,Magento_Newsletter
 "Convert to Plain Text","Convertir en texte simple",module,Magento_Newsletter
 " Copy"," Copie",module,Magento_Newsletter
-"Create Newsletter Template","Créer un nouveau gabarit de newsletter",module,Magento_Newsletter
+"Create Newsletter Template","Créer un nouveau gabarit de lettre d'information",module,Magento_Newsletter
 "CSV","CSV",module,Magento_Newsletter
 "Customer","Client",module,Magento_Newsletter
 "Customer First Name","Prénom du client",module,Magento_Newsletter
@@ -44,24 +44,24 @@
 "Message","Message",module,Magento_Newsletter
 "Need to Confirm","Confirmation nécessaire",module,Magento_Newsletter
 "New Newsletter Template","Nouveau gabarit de lettre d'information",module,Magento_Newsletter
-"Newsletter","Newsletter",module,Magento_Newsletter
-"Newsletter Message Preview","Prévisualisation du message de la newsletter",module,Magento_Newsletter
-"Newsletter Problem Reports","Rapports des problèmes de newsletter",module,Magento_Newsletter
-"Newsletter Problems Report","Rapport des problèmes de newsletter",module,Magento_Newsletter
-"Newsletter Queue","File d'attente newsletter",module,Magento_Newsletter
-"Newsletter Styles","Styles de newsletter",module,Magento_Newsletter
-"Newsletter Subscribers","Abonnés à la newsletter",module,Magento_Newsletter
-"Newsletter Subscription","Abonnement à la newsletter",module,Magento_Newsletter
-"Newsletter Subscriptions","Abonnements à la newsletter",module,Magento_Newsletter
-"Newsletter Template","Gabarits de Newsletter",module,Magento_Newsletter
-"Newsletter Templates","Gabarits newsletter",module,Magento_Newsletter
+"Newsletter","Lettre d'information",module,Magento_Newsletter
+"Newsletter Message Preview","Prévisualisation du message de la lettre d'information",module,Magento_Newsletter
+"Newsletter Problem Reports","Rapports des problèmes de lettre d'information",module,Magento_Newsletter
+"Newsletter Problems Report","Rapport des problèmes de lettre d'information",module,Magento_Newsletter
+"Newsletter Queue","File d'attente lettre d'information",module,Magento_Newsletter
+"Newsletter Styles","Styles de lettre d'information",module,Magento_Newsletter
+"Newsletter Subscribers","Abonnés à la lettre d'information",module,Magento_Newsletter
+"Newsletter Subscription","Abonnement à la lettre d'information",module,Magento_Newsletter
+"Newsletter Subscriptions","Abonnements à la lettre d'information",module,Magento_Newsletter
+"Newsletter Template","Gabarit de lettre d'information",module,Magento_Newsletter
+"Newsletter Templates","Gabarits lettre d'information",module,Magento_Newsletter
 "New Template","Nouveau gabarit",module,Magento_Newsletter
 "Not Activated","Non activé",module,Magento_Newsletter
 "No Templates Found","Aucun gabarit trouvé",module,Magento_Newsletter
 "Not Sent","Non envoyé",module,Magento_Newsletter
 "Pause","Pause",module,Magento_Newsletter
 "Paused","En Pause",module,Magento_Newsletter
-"Please correct the newsletter template and try again.","Veuillez corriger le gabarit de la newsletter et essayez à nouveau.",module,Magento_Newsletter
+"Please correct the newsletter template and try again.","Veuillez corriger le gabarit de la lettre d'information et essayez à nouveau.",module,Magento_Newsletter
 "Please enter a new template name.","Veuillez renseigner un nom de gabarit.",module,Magento_Newsletter
 "Please enter a valid email address.","Saisissez un email valide.",module,Magento_Newsletter
 "Please enter new template name.","Saisissez un nom de gabarit.",module,Magento_Newsletter
@@ -72,8 +72,8 @@
 "Queue Date Start","Date de démarrage de la file",module,Magento_Newsletter
 "Queue End","Fin de la file",module,Magento_Newsletter
 "Queue Information","Informations de file",module,Magento_Newsletter
-"Queue Newsletter","File d'attente newsletter",module,Magento_Newsletter
-"Queue Newsletter...","File d'attente newsletter...",module,Magento_Newsletter
+"Queue Newsletter","File d'attente lettre d'information",module,Magento_Newsletter
+"Queue Newsletter...","File d'attente lettre d'information...",module,Magento_Newsletter
 "Queue Start","Début de la file",module,Magento_Newsletter
 "Queue Start Date","Démarrer la file d'attente",module,Magento_Newsletter
 "Queue Subject","Sujet de la file",module,Magento_Newsletter
@@ -83,14 +83,14 @@
 "Return HTML Version","Revenir à la version HTML",module,Magento_Newsletter
 "Save and Resume","Sauvegarder et Continuer",module,Magento_Newsletter
 "Save As","Sauvegarder Sous",module,Magento_Newsletter
-"Save Newsletter","Sauvegarder la Newsletter",module,Magento_Newsletter
+"Save Newsletter","Sauvegarder la lettre d'information",module,Magento_Newsletter
 "Save Template","Sauvegarder le gabarit",module,Magento_Newsletter
 "Sender","Expéditeur",module,Magento_Newsletter
 "Sender Email","Email de l'expéditeur",module,Magento_Newsletter
 "Sender Name","Nom de l'expéditeur",module,Magento_Newsletter
 "Sending","Envoi en cours",module,Magento_Newsletter
 "Sent","Envoyé",module,Magento_Newsletter
-"Sign Up for Our Newsletter:","Inscription à notre newsletter :",module,Magento_Newsletter
+"Sign Up for Our Newsletter:","Inscription à notre lettre d'information :",module,Magento_Newsletter
 "Something went wrong while saving this template.","Une erreur s'est produite lors de l'enregistrement de ce gabarit.",module,Magento_Newsletter
 "Something went wrong while saving your subscription.","Une erreur s'est produite lors de l'enregistrement de cet abonnement.",module,Magento_Newsletter
 "Something went wrong while unsubscribing you.","Une erreur s'est produite lors de la désinscription.",module,Magento_Newsletter
@@ -118,19 +118,19 @@
 "Template Styles","Styles de gabarit",module,Magento_Newsletter
 "Template Subject","Sujet du gabarit",module,Magento_Newsletter
 "Template Type","Type de gabarit",module,Magento_Newsletter
-"Thank you for subscribing to our newsletter.","Merci pour votre abonnement à notre newsletter.",module,Magento_Newsletter
+"Thank you for subscribing to our newsletter.","Merci pour votre abonnement à notre lettre d'information.",module,Magento_Newsletter
 "Thank you for your subscription.","Merci de votre inscription.",module,Magento_Newsletter
 "The confirmation request has been sent.","La demande de confirmation a été envoyée.",module,Magento_Newsletter
-"The newsletter queue has been saved.","File d'attente newsletter sauvegardée.",module,Magento_Newsletter
-"The newsletter template has been deleted.","Le gabarit de newsletter a été supprimé.",module,Magento_Newsletter
-"The newsletter template has been saved.","Le gabarit de newsletter a été sauvegardé.",module,Magento_Newsletter
+"The newsletter queue has been saved.","File d'attente lettre d'information sauvegardée.",module,Magento_Newsletter
+"The newsletter template has been deleted.","Le gabarit de lettre d'information a été supprimé.",module,Magento_Newsletter
+"The newsletter template has been saved.","Le gabarit de lettre d'information a été sauvegardé.",module,Magento_Newsletter
 "The problems you identified have been deleted.","Les problèmes que vous avez identifiés ont été supprimés.",module,Magento_Newsletter
 "There are no subscribers selected.","Aucun abonné sélectionné.",module,Magento_Newsletter
 "There was a problem with the subscription: %1","Il y a eu un problème lors de l'inscription : %1",module,Magento_Newsletter
 "This email address is already assigned to another user.","Cet email est déjà assigné à un utilisateur.",module,Magento_Newsletter
 "This is an invalid subscription confirmation code.","Le code de confirmation de l'abonnement est invalide.",module,Magento_Newsletter
 "This is an invalid subscription ID.","L'identifiant de l'abonnement est invalide.",module,Magento_Newsletter
-"To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:","Avant de recevoir notre newsletter, vous devez confirmer votre abonnement en cliquant sur le lien suivant :",module,Magento_Newsletter
+"To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:","Avant de recevoir notre lettre d'information, vous devez confirmer votre abonnement en cliquant sur le lien suivant :",module,Magento_Newsletter
 "Total of %1 record(s) were deleted","%1 enregistrement(s) effacé(s)",module,Magento_Newsletter
 "Total of %1 record(s) were deleted.","%1 enregistrement(s) effacé(s).",module,Magento_Newsletter
 "Type","Type",module,Magento_Newsletter
@@ -141,7 +141,7 @@
 "Unsubscription Email Sender","Expéditeur de l'email de désinscription",module,Magento_Newsletter
 "Unsubscription Email Template","Gabarit de l'email de désinscription",module,Magento_Newsletter
 "Updated","Mis à jour",module,Magento_Newsletter
-"View Newsletter","Voir la newsletter",module,Magento_Newsletter
+"View Newsletter","Voir la lettre d'information",module,Magento_Newsletter
 "Web Site","Site Web",module,Magento_Newsletter
 "We cannot mark as received subscriber.","Impossible de marquer comme reçue par l'abonné.",module,Magento_Newsletter
 "We can't delete this template right now.","Impossible de supprimer le gabarit.",module,Magento_Newsletter
@@ -149,10 +149,10 @@
 "We removed the subscription.","Abonnement annulé.",module,Magento_Newsletter
 "We saved the subscription.","Abonnement sauvegardé.",module,Magento_Newsletter
 "We unsubscribed the people you identified.","Désinscription des personnes sélectionnées.",module,Magento_Newsletter
-"You have been successfully subscribed to our newsletter.","Nous vous confirmons votre abonnement à notre newsletter.",module,Magento_Newsletter
-"You have been unsubscribed.","Vous n'êtes plus inscrit(e) à la newsletter.",module,Magento_Newsletter
-"You have been unsubscribed from the newsletter.","Vous êtes maintenant désabonné de notre newsletter.",module,Magento_Newsletter
+"You have been successfully subscribed to our newsletter.","Nous vous confirmons votre abonnement à notre lettre d'information.",module,Magento_Newsletter
+"You have been unsubscribed.","Vous n'êtes plus inscrit(e) à la lettre d'information.",module,Magento_Newsletter
+"You have been unsubscribed from the newsletter.","Vous êtes maintenant désabonné de notre lettre d'information.",module,Magento_Newsletter
 "Your subscription has been confirmed.","Votre inscription a été confirmée.",module,Magento_Newsletter
-"You saved the newsletter queue.","File d'attente de la newsletter sauvegardée.",module,Magento_Newsletter
+"You saved the newsletter queue.","File d'attente de la lettre d'information sauvegardée.",module,Magento_Newsletter
 "You selected an invalid queue.","File d'attente invalide.",module,Magento_Newsletter
 "You unsubscribed.","Vous êtes désinscrit.",module,Magento_Newsletter

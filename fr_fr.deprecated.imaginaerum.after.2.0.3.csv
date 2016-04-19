@@ -255,7 +255,7 @@
 "You can't delete group ""%1"".","Vous ne pouvez pas supprimer le groupe ""%1"".",deprecated,Imaginaerum
 "You can't delete the design change.","Vous ne pouvez pas supprimer le changement de design.",deprecated,Imaginaerum
 "You can't remove attributes from this attribute set.","Vous ne pouvez pas supprimer les attributs depuis ce jeu d'attribut.",deprecated,Imaginaerum
-"You don't subscribe to our newsletter.","Vous n'êtes pas abonné à notre newsletter.",deprecated,Imaginaerum
+"You don't subscribe to our newsletter.","Vous n'êtes pas abonné à notre lettre d'information.",deprecated,Imaginaerum
 "You have revoked the customer's tokens.","Vous avez révoqué les permissions du client.",deprecated,Imaginaerum
 "You have revoked the user's tokens.","Les jetons de l'utilisateur ont été révoqués.",deprecated,Imaginaerum
 "You're reviewing:","Vous commentez :",deprecated,Imaginaerum

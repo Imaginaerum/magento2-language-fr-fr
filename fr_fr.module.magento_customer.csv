@@ -61,7 +61,7 @@
 "Are you sure that you want to remove this item?","Êtes-vous sûr(e) de vouloir retirer cet article ?",module,Magento_Customer
 "Are you sure to assign selected customers to new group?","Êtes-vous sûr(e) de vouloir assigner les clients sélectionnés au nouveau groupe ?",module,Magento_Customer
 "Are you sure to delete selected customers?","Êtes-vous sûr(e) de vouloir supprimer les clients sélectionnés ?",module,Magento_Customer
-"Are you sure to unsubscribe selected customers from newsletter?","Êtes-vous sûr(e) de vouloir désinscrire les clients sélectionnés à la newsletter ?",module,Magento_Customer
+"Are you sure to unsubscribe selected customers from newsletter?","Êtes-vous sûr(e) de vouloir désinscrire les clients sélectionnés à la lettre d'information ?",module,Magento_Customer
 "Are you sure you want to delete?","Etes vous sur(e) de vouloir supprimer ?",module,Magento_Customer
 "Are you sure you want to delete this address?","Êtes-vous sûr(e) de vouloir effacer cette adresse ?",module,Magento_Customer
 "Are you sure you want to delete this item?","Êtes-vous sûr(e) de bien vouloir supprimer cet élément ?",module,Magento_Customer
@@ -280,14 +280,14 @@
 "New Password","Nouveau mot de passe",module,Magento_Customer
 "New Password and Confirm New Password values didn't match.","Les valeurs du nouveau mot de passe et la confirmation du nouveau mot de passe ne correspondent pas.",module,Magento_Customer
 "New password field cannot be empty.","Le champ de nouveau mot de passe ne peut pas être vide.",module,Magento_Customer
-"Newsletter","Newsletter",module,Magento_Customer
-"Newsletter Information","Information newsletter",module,Magento_Customer
-"Newsletters","Newsletters",module,Magento_Customer
+"Newsletter","Lettre d'information",module,Magento_Customer
+"Newsletter Information","Information sur la lettre d'information",module,Magento_Customer
+"Newsletters","Lettres d'information",module,Magento_Customer
 "No","Non",module,Magento_Customer
 "No confirmation needed.","Aucune confirmation nécessaire.",module,Magento_Customer
 "No customer ID defined.","Aucun ID de client n'a été défini.",module,Magento_Customer
 "No item specified.","Aucun article spécifié.",module,Magento_Customer
-"No Newsletter Found","Pas de newsletter",module,Magento_Customer
+"No Newsletter Found","Pas de lettre d'information",module,Magento_Customer
 "NoSuchEntityException","NoSuchEntityException",module,Magento_Customer
 "Not Sent","Non envoyé",module,Magento_Customer
 "Not Specified","Non spécifié",module,Magento_Customer
@@ -431,7 +431,7 @@
 "Sign In","Connexion",module,Magento_Customer
 "Sign-in Information","Informations de connexion",module,Magento_Customer
 "Sign Out","Se déconnecter",module,Magento_Customer
-"Sign Up for Newsletter","Abonnez-vous à la newsletter",module,Magento_Customer
+"Sign Up for Newsletter","Abonnez-vous à la lettre d'information",module,Magento_Customer
 "SKU","SKU",module,Magento_Customer
 "Something went wrong while changing the password.","Une erreur s'est produite lors du changement de mot de passe.",module,Magento_Customer
 "Something went wrong while editing the customer.","Une erreur s'est produite lors de la modification du client.",module,Magento_Customer
@@ -449,8 +449,8 @@
 "Street Address","Adresse",module,Magento_Customer
 "Subject","Sujet",module,Magento_Customer
 "Submit","Envoyer",module,Magento_Customer
-"Subscribed to Newsletter","Abonné à la Newsletter",module,Magento_Customer
-"Subscribe to Newsletter","S'abonner à la newsletter",module,Magento_Customer
+"Subscribed to Newsletter","Abonné à la lettre d'information",module,Magento_Customer
+"Subscribe to Newsletter","S'abonner à la lettre d'information",module,Magento_Customer
 "Subscription option","Option d'abonnement",module,Magento_Customer
 "Suffix","Suffixe",module,Magento_Customer
 "Suffix Dropdown Options","Options de la liste déroulante des suffixes",module,Magento_Customer
@@ -526,7 +526,7 @@
 "Type","Type",module,Magento_Customer
 "Unable to send password reset email.","Impossible d'envoyer l'email de réinitialisation du mot de passe.",module,Magento_Customer
 "Unknown","Inconnu",module,Magento_Customer
-"Unsubscribe from Newsletter","Se désinscrire de la newsletter",module,Magento_Customer
+"Unsubscribe from Newsletter","Se désinscrire de la lettre d'information",module,Magento_Customer
 "Use as my default billing address","Utiliser comme adresse de facturation par défaut",module,Magento_Customer
 "Use as my default shipping address","Utiliser comme adresse de <strong>livraison</strong> par défaut",module,Magento_Customer
 "Validate on Each Transaction","Valider à chaque transaction",module,Magento_Customer
@@ -575,8 +575,8 @@
 "Wrong transactional account email type","Le type d'email de compte transactionnel est erroné",module,Magento_Customer
 "Year","Année",module,Magento_Customer
 "Yes","Oui",module,Magento_Customer
-"You are currently not subscribed to any newsletter.","Vous n'êtes abonné à aucune newsletter.",module,Magento_Customer
-"You are currently not subscribed to our newsletter.","Vous n'êtes pas abonné(e) à notre newsletter.",module,Magento_Customer
+"You are currently not subscribed to any newsletter.","Vous n'êtes abonné à aucune lettre d'information.",module,Magento_Customer
+"You are currently not subscribed to our newsletter.","Vous n'êtes pas abonné(e) à notre lettre d'information.",module,Magento_Customer
 "You are currently subscribed to 'General Subscription'.","Vous êtes abonné à 'Abonnement général'.",module,Magento_Customer
 "You are now logged out","Vous vous êtes déconnecté(e)",module,Magento_Customer
 "You are signed out.","Vous êtes déconnecté.",module,Magento_Customer
@@ -584,7 +584,7 @@
 "You deleted the address.","Vous avez supprimé l'adresse.",module,Magento_Customer
 "You deleted the customer.","Vous avez supprimé le client.",module,Magento_Customer
 "You deleted the customer group.","Vous avez supprimé le groupe de clients.",module,Magento_Customer
-"You don't subscribe to our newsletter.","Vous n'êtes pas abonné à notre newsletter.",module,Magento_Customer
+"You don't subscribe to our newsletter.","Vous n'êtes pas abonné à notre lettre d'information.",module,Magento_Customer
 "You have logged out and will be redirected to our homepage in 5 seconds.","Vous vous êtes déconnecté(e) et vous serez redirigé(e) vers la page d'accueil dans 5 secondes.",module,Magento_Customer
 "You have no additional address entries in your address book.","Vous n'avez pas d'entrées supplémentaires dans votre carnet d'adresses.",module,Magento_Customer
 "You have no default billing address in your address book.","Vous n'avez pas d'adresse de facturation par défaut dans votre carnet d'adresses.",module,Magento_Customer
@@ -605,7 +605,7 @@
 "You saved the customer.","Vous avez sauvegardé le client.",module,Magento_Customer
 "You saved the customer group.","Groupe de clients sauvegardé.",module,Magento_Customer
 "You subscribe to ""General Subscription"".","Vous souscrivez à ""L'abonnement général"".",module,Magento_Customer
-"You subscribe to our newsletter.","Abonnez-vous à notre newsletter.",module,Magento_Customer
+"You subscribe to our newsletter.","Abonnez-vous à notre lettre d'information.",module,Magento_Customer
 "You updated your password.","Mot de passe mis à jour.",module,Magento_Customer
 "You will be charged tax.","La TVA vous sera appliquée.",module,Magento_Customer
 "You will not be charged tax.","La TVA ne vous sera pas appliquée.",module,Magento_Customer

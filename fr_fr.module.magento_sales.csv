@@ -317,7 +317,7 @@
 "New Order RSS","Flux RSS des nouvelles commandes",module,Magento_Sales
 "New Orders","Nouvelles commandes",module,Magento_Sales
 "New Order Status","Statut de la nouvelle commande",module,Magento_Sales
-"Newsletter Subscription","Abonnement à la newsletter",module,Magento_Sales
+"Newsletter Subscription","Abonnement à la lettre d'information",module,Magento_Sales
 "No","Non",module,Magento_Sales
 "No Items","Aucun article",module,Magento_Sales
 "No items","Aucun article",module,Magento_Sales
@@ -593,7 +593,7 @@
 "Submit Invoice","Soumettre la facture",module,Magento_Sales
 "Submit Invoice and Shipment","Soumettre la facture et l'expédition",module,Magento_Sales
 "Submit Order","Envoyer la commande",module,Magento_Sales
-"Subscribe to Newsletter","S'abonner à la newsletter",module,Magento_Sales
+"Subscribe to Newsletter","S'abonner à la lettre d'information",module,Magento_Sales
 "Subscribe to Order Status","S'abonner au statut de commande",module,Magento_Sales
 "Subtotal:","Sous-total :",module,Magento_Sales
 "Subtotal","Sous-total",module,Magento_Sales
