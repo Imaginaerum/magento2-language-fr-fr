@@ -8,7 +8,7 @@
 "All","Tous",module,Magento_CatalogSearch
 "Applies for ""Like"" search type only","Appliquez pour les recherches de type ""Like"" seulement",module,Magento_CatalogSearch
 "Apply Layered Navigation if Search Results are Less Than","Appliquer la navigation par filtre si les résultats de recherche sont inférieurs à",module,Magento_CatalogSearch
-"Are you sure?","Êtes-vous sûr(e)?",module,Magento_CatalogSearch
+"Are you sure?","Êtes-vous sûr(e) ?",module,Magento_CatalogSearch
 "Attribute setting change related with Search Index. Please run <a href=""%1"">Rebuild Search Index</a> process.","Changement de configuration attribut en relation avec l'index de recherche. Veuillez <a href=""%1"">reconstruire l'index de recherche</a>.",module,Magento_CatalogSearch
 "Bucket do not exists","Le bucket n'existe pas",module,Magento_CatalogSearch
 "Catalog Advanced Search","Recherche avancée dans le catalogue",module,Magento_CatalogSearch

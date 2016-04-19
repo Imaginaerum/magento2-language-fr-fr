@@ -9,8 +9,8 @@
 "Apply","Appliquer",module,Magento_CatalogRule
 "Apply as fixed amount","Remise d'un montant fixe",module,Magento_CatalogRule
 "Apply as percentage of original","En pourcentage du prix d'origine",module,Magento_CatalogRule
-"Apply Rules","Appliquer les Règles",module,Magento_CatalogRule
-"Attribute Set","Jeu d'Attributs",module,Magento_CatalogRule
+"Apply Rules","Appliquer les règles",module,Magento_CatalogRule
+"Attribute Set","Jeu d'attributs",module,Magento_CatalogRule
 "By Fixed Amount","Remise d'un montant fixe",module,Magento_CatalogRule
 "By Fixed value","remise d'une valeur de",module,Magento_CatalogRule
 "By Percentage","En pourcentage",module,Magento_CatalogRule
@@ -28,7 +28,7 @@
 "Customer Groups","Groupes Clients",module,Magento_CatalogRule
 "Description","Description",module,Magento_CatalogRule
 "Discard subsequent rules","Ignorer les règles suivantes",module,Magento_CatalogRule
-"Discount Amount","Montant de la Remise",module,Magento_CatalogRule
+"Discount Amount","Montant de la remise",module,Magento_CatalogRule
 "Discount value should be 0 or greater.","La valeur de la remise doit être supérieure à 0.",module,Magento_CatalogRule
 "Edit Rule '%1'","Modifier la règle '%1'",module,Magento_CatalogRule
 "Edit Rule","Modifier la règle",module,Magento_CatalogRule

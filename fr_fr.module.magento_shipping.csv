@@ -10,7 +10,7 @@
 "An error occurred while creating shipping label.","Erreur lors de la création de l'étiquette de livraison.",module,Magento_Shipping
 "Append Comments","Ajouter les commentaires",module,Magento_Shipping
 "Apply custom Shipping Policy","Appliquer des conditions de livraison personnalisées",module,Magento_Shipping
-"Are you sure?","Êtes-vous sûr(e)?",module,Magento_Shipping
+"Are you sure?","Êtes-vous sûr(e) ?",module,Magento_Shipping
 "Are you sure you want to send a Shipment email to customer?","Êtes-vous sûr(e) de vouloir envoyer un email d'expédition au client ?",module,Magento_Shipping
 "Back to My Orders","Retour à mes commandes",module,Magento_Shipping
 "Cancel","Annuler",module,Magento_Shipping

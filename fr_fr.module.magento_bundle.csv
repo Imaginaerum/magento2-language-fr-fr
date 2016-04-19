@@ -25,8 +25,8 @@
 "Default","Par défaut",module,Magento_Bundle
 "Default Quantity","Quantité par défaut",module,Magento_Bundle
 "Delete","Supprimer",module,Magento_Bundle
-"Delete Option","Supprimer cette Option",module,Magento_Bundle
-"Discount Amount","Montant de la Remise",module,Magento_Bundle
+"Delete Option","Supprimer cette option",module,Magento_Bundle
+"Discount Amount","Montant de la remise",module,Magento_Bundle
 "Dynamic","Dynamique",module,Magento_Bundle
 "Excl. Tax","HT",module,Magento_Bundle
 "Excl. Tax:","HT :",module,Magento_Bundle
@@ -45,7 +45,7 @@
 "Message:","Message :",module,Magento_Bundle
 "N/A","N/A",module,Magento_Bundle
 "Name","Nom",module,Magento_Bundle
-"New Option","Nouvelle Option",module,Magento_Bundle
+"New Option","Nouvelle option",module,Magento_Bundle
 "None","aucun",module,Magento_Bundle
 "No options of this product are available.","Aucune option n'est disponible pour ce produit.",module,Magento_Bundle
 "Only implemented for bundle product","Uniquement implémenté pour les produits packagés",module,Magento_Bundle

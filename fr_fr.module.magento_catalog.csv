@@ -39,7 +39,7 @@
 "Add New Attribute Set","Nouveau jeu d'attributs",module,Magento_Catalog
 "Add New Group","Nouveau Groupe",module,Magento_Catalog
 "Add New Images","Nouvelles images",module,Magento_Catalog
-"Add New Option","Ajouter une Option",module,Magento_Catalog
+"Add New Option","Ajouter une option",module,Magento_Catalog
 "Add New Row","Ajouter une ligne",module,Magento_Catalog
 "Add New Search Term","Ajouter un Terme de Recherche",module,Magento_Catalog
 "Add New Set","Ajouter un jeu",module,Magento_Catalog
@@ -89,7 +89,7 @@
 "An error occurred while saving the attribute set.","Erreur lors de la sauvegarde du jeu d'attributs.",module,Magento_Catalog
 "Apply To Products","Appliquer aux produits",module,Magento_Catalog
 "A product type is not defined for the indexer.","Aucun type de produit n'est défini pour le gestionnaire des index.",module,Magento_Catalog
-"Are you sure?","Êtes-vous sûr(e)?",module,Magento_Catalog
+"Are you sure?","Êtes-vous sûr(e) ?",module,Magento_Catalog
 "Are you sure you want to delete this category?","Êtes-vous sûr(e) de vouloir supprimer cette catégorie ?",module,Magento_Catalog
 "Are you sure you would like to remove all products from your comparison?","Êtes-vous sûr(e) de vouloir enlever tous les produits de la comparaison ?",module,Magento_Catalog
 "Are you sure you would like to remove this item from the compare products?","Êtes-vous sûr(e) de vouloir enlever cet article de la comparaison ?",module,Magento_Catalog
@@ -103,11 +103,11 @@
 "Attribute ""%1"" is required.","L'attribut ""%1"" est requis.",module,Magento_Catalog
 "Attribute code ""%1"" is invalid. Please use only letters (a-z), ' 'numbers (0-9) or underscore(_) in this field, first character should be a letter.","Code attribut ""%1"" invalide. Veuillez utiliser uniquement des lettres (a-z), des chiffres (0-9) ou underscore (_), le premier caractère doit être une lettre.",module,Magento_Catalog
 "Attribute code ""%1"" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Code attribut ""%1"" invalide. Veuillez utiliser uniquement des lettres (a-z), des chiffres (0-9) ou underscore (_), le premier caractère doit être une lettre.",module,Magento_Catalog
-"Attribute Code","Code de l'Attribut",module,Magento_Catalog
+"Attribute Code","Code de l'attribut",module,Magento_Catalog
 "Attribute group that contains system attributes can not be deleted","Un groupe d'attributs contenant des attributs système ne peut être supprimé",module,Magento_Catalog
 "Attribute Information","Informations attributs",module,Magento_Catalog
 "Attributes","Attributs",module,Magento_Catalog
-"Attribute Set","Jeu d'Attributs",module,Magento_Catalog
+"Attribute Set","Jeu d'attributs",module,Magento_Catalog
 "Attribute Set already exists.","Jeu d'attribut déjà existant.",module,Magento_Catalog
 "Attribute Sets","Jeux d'attributs",module,Magento_Catalog
 "Attribute Set with name '%1' already exists.","Un jeu d'attributs avec le nom '%1' existe déjà.",module,Magento_Catalog
@@ -421,7 +421,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "New Attribute","Nouvel attribut",module,Magento_Catalog
 "New Attribute Set","Nouveau jeu d'attributs",module,Magento_Catalog
 "New Category","Nouvelle catégorie",module,Magento_Catalog
-"New Option","Nouvelle Option",module,Magento_Catalog
+"New Option","Nouvelle option",module,Magento_Catalog
 "New Product","Nouveau produit",module,Magento_Catalog
 "New Product Attribute","Nouvel attribut produit",module,Magento_Catalog
 "New products","Nouveau produit",module,Magento_Catalog
@@ -776,7 +776,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Use Flat Catalog Product","Utiliser le catalogue à plat pour les produits",module,Magento_Catalog
 "Use for Promo Rule Conditions","Utiliser pour les conditions de règles de promotion",module,Magento_Catalog
 "Use in Advanced Search","Utiliser dans la recherche avancée",module,Magento_Catalog
-"Use in Filter Options","Utiliser dans les Options de filtrage",module,Magento_Catalog
+"Use in Filter Options","Utiliser dans les options de filtrage",module,Magento_Catalog
 "Use in Quick Search","Utiliser dans la recherche rapide",module,Magento_Catalog
 "Use in Search","Utilisez dans la recherche",module,Magento_Catalog
 "Use JavaScript Calendar","Utiliser le calendrier JavaScript",module,Magento_Catalog

@@ -6,8 +6,8 @@
 "Anchor Custom Text","Présenter un texte personnalisé",module,Magento_Cms
 "Anchor Custom Title","Présenter un titre personnalisé",module,Magento_Cms
 "A page URL key for specified store already exists.","Il existe déjà une clé d'URL de page pour la boutique sélectionnée.",module,Magento_Cms
-"Are you sure you wan't to delete a ""${ $.$data.title }"" record?","Êtes-vous sûr(e) de vouloir supprimer ""${ $.$data.title }""?",module,Magento_Cms
-"Are you sure you wan't to delete a ${ $.$data.title } record?","Êtes-vous sûr(e) de vouloir supprimer ""${ $.$data.title }""?",module,Magento_Cms
+"Are you sure you wan't to delete a ""${ $.$data.title }"" record?","Êtes-vous sûr(e) de vouloir supprimer ""${ $.$data.title }"" ?",module,Magento_Cms
+"Are you sure you wan't to delete a ${ $.$data.title } record?","Êtes-vous sûr(e) de vouloir supprimer ""${ $.$data.title }"" ?",module,Magento_Cms
 "Are you sure you wan't to delete selected items?","Êtes-vous sûr(e) de vouloir supprimer les éléments sélectionnés?",module,Magento_Cms
 "Are you sure you want to delete this file?","Êtes-vous sûr(e) de vouloir supprimer ce fichier?",module,Magento_Cms
 "Are you sure you want to delete this folder?","Êtes-vous sûr(e) de vouloir supprimer ce dossier?",module,Magento_Cms

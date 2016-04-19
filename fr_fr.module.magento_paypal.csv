@@ -46,7 +46,7 @@
 "A reversal has occurred on this transaction due to a complaint about the transaction from your customer.","Un retour a eu lieu sur cette opération en raison d'une réclamation au sujet de la transaction de votre client.",module,Magento_Paypal
 "A reversal has occurred on this transaction due to your customer triggering a money-back guarantee.","Un retour a eu lieu sur cette transaction en raison du déclenchement d'une garantie de remboursement par votre client.",module,Magento_Paypal
 "Are you sure you want to do this?","Êtes-vous sûr(e) de vouloir faire cela?",module,Magento_Paypal
-"Ask Customer","Demandez au client",module,Magento_Paypal
+"Ask Customer","Demander au client",module,Magento_Paypal
 "Attempted Authentication, Bad Result","Tentative d'authentification. Mauvais résultat",module,Magento_Paypal
 "Attempted Authentication, Good Result","Tentative d'authentification. Bon résultat",module,Magento_Paypal
 "Auction Payment other than through eBay","Paiement des enchères autres que par le biais d'eBay",module,Magento_Paypal

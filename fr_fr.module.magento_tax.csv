@@ -15,7 +15,7 @@
 "Are you sure you want to do this?","Êtes-vous sûr(e) de vouloir faire cela?",module,Magento_Tax
 "Asynchronous sending","Envoi asynchrone",module,Magento_Tax
 "Back","Retour",module,Magento_Tax
-"Before Discount","Avant Remise",module,Magento_Tax
+"Before Discount","Avant remise",module,Magento_Tax
 "Billing Address","Adresse de facturation",module,Magento_Tax
 "Both (without and with tax)","Les deux (HT et TTC)",module,Magento_Tax
 "Calculate Off Subtotal Only","Sous-total uniquement",module,Magento_Tax

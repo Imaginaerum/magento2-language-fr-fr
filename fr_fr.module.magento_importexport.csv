@@ -5,9 +5,9 @@
 "Add/Update","Ajouter/Mettre à jour",module,Magento_ImportExport
 "Add/Update Complex Data","Ajouter/Mettre à jour des données complexes",module,Magento_ImportExport
 "Allowed Errors Count","Nombre d'erreurs admises",module,Magento_ImportExport
-"Attribute Code","Code de l'Attribut",module,Magento_ImportExport
+"Attribute Code","Code de l'attribut",module,Magento_ImportExport
 "Attribute does not has options, so filtering is impossible","Attribut sans option. Filtrage impossible",module,Magento_ImportExport
-"Attribute Label","Libellé de l'Attribut",module,Magento_ImportExport
+"Attribute Label","Libellé de l'attribut",module,Magento_ImportExport
 "Begin data validation","Commencer la validation des données",module,Magento_ImportExport
 "Begin export of %1","Commencez l'exportation de %1",module,Magento_ImportExport
 "Begin import of ""%1"" with ""%2"" behavior","Commencez l'importation de ""%1"" avec ""%2"" en comportement",module,Magento_ImportExport

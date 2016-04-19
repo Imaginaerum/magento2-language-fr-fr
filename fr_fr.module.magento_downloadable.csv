@@ -17,7 +17,7 @@
 "Default Sample Title","Titre de l'exemple par défaut",module,Magento_Downloadable
 "Delete","Supprimer",module,Magento_Downloadable
 "Disable Guest Checkout if Cart Contains Downloadable Items","Désactiver le passage de commande en tant qu'invité si le panier contient des produits téléchargeables",module,Magento_Downloadable
-"Discount Amount","Montant de la Remise",module,Magento_Downloadable
+"Discount Amount","Montant de la remise",module,Magento_Downloadable
 "download","télécharger",module,Magento_Downloadable
 "Downloadable Information","Informations téléchargements",module,Magento_Downloadable
 "Downloadable Product Options","Options du produit téléchargeable",module,Magento_Downloadable

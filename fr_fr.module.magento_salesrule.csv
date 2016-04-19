@@ -1,6 +1,6 @@
 "%1 Cart Price Rules based on ""%2"" attribute have been disabled.","La règle de prix panier %1 basée sur l'attribut ""%2"" a été désactivée.",module,Magento_SalesRule
 "%1 coupon(s) have been generated.","%1 coupon(s) généré(s).",module,Magento_SalesRule
-"%1 - Discounts and Coupons","%1 - Remises et coupons",module,Magento_SalesRule
+"%1 - Discounts and Coupons","%1 - remises et coupons",module,Magento_SalesRule
 "%1 Shopping Cart Price Rules based on ""%2"" attribute have been disabled.","La règle de prix panier %1 basée sur l'attribut ""%2"" a été désactivée.",module,Magento_SalesRule
 "Actions","Actions",module,Magento_SalesRule
 "Active","Actif",module,Magento_SalesRule
@@ -10,7 +10,7 @@
 "An error occurred while deleting the rule. Please review the log and try again.","Erreur lors de la suppression de la règle. Vérifiez les logs et réessayez.",module,Magento_SalesRule
 "An error occurred while saving the rule data. Please review the log and try again.","Erreur lors de la sauvegarde de la règle. Vérifiez les logs et réessayez.",module,Magento_SalesRule
 "Apply","Appliquer",module,Magento_SalesRule
-"Apply Discount","Appliquer la Remise",module,Magento_SalesRule
+"Apply Discount","Appliquer la remise",module,Magento_SalesRule
 "Apply Discount Code","Appliquer un Code de Réduction",module,Magento_SalesRule
 "Apply the rule only if the following conditions are met (leave blank for all products).","Appliquer la règle uniquement si les conditions suivantes sont remplies (laisser vide pour tous les produits).",module,Magento_SalesRule
 "Apply the rule only to cart items matching the following conditions ' '(leave blank for all items).","Appliquer la règle uniquement aux articles du panier qui correspondent aux conditions suivantes (laisser vide pour tous les articles).",module,Magento_SalesRule
@@ -55,7 +55,7 @@
 "Discard subsequent rules","Ignorer les règles suivantes",module,Magento_SalesRule
 "Discount (%1)","Remise (%1)",module,Magento_SalesRule
 "Discount","Remise",module,Magento_SalesRule
-"Discount Amount","Montant de la Remise",module,Magento_SalesRule
+"Discount Amount","Montant de la remise",module,Magento_SalesRule
 "Discount Qty Step (Buy X)","Quantité pour obtenir la remise (Achetez-en X)",module,Magento_SalesRule
 "Edit Rule '%1'","Modifier la règle '%1'",module,Magento_SalesRule
 "Edit Rule","Modifier la règle",module,Magento_SalesRule

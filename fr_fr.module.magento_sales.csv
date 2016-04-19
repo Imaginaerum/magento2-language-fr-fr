@@ -35,7 +35,7 @@
 "An error occurred while assigning order status. Status has not been assigned.","Erreur lors de l'assignation du statut de commande. Le statut n'a pas pu être assigné.",module,Magento_Sales
 "An item object is not specified.","Un article n'est pas spécifié.",module,Magento_Sales
 "An order with subscription items was registered.","Une commande avec abonnement a été enregistrée.",module,Magento_Sales
-"Any","TOUT",module,Magento_Sales
+"Any","Tout",module,Magento_Sales
 "A payment method must be specified.","Une méthode de paiement doit être spécifiée.",module,Magento_Sales
 "A PDF object is not specified.","L'objet PDF n'est pas spécifié.",module,Magento_Sales
 "A PDF page object is not specified.","La page PDF n'est pas spécifiée.",module,Magento_Sales
@@ -43,9 +43,9 @@
 "Applies to Any of the Specified Order Statuses","S'applique à tous les statuts de commande spécifiés",module,Magento_Sales
 "Applies to Any of the Specified Order Statuses except canceled orders","Applique à tous les statuts de commande spécifiés hormis les commandes annulées",module,Magento_Sales
 "Apply","Appliquer",module,Magento_Sales
-"Apply Coupon Code","Appliquer un Bon de Réduction",module,Magento_Sales
+"Apply Coupon Code","Appliquer un bon de réduction",module,Magento_Sales
 "Approved the payment online.","Approuver le paiement en ligne.",module,Magento_Sales
-"Are you sure? This order will be canceled and a new one will be created instead.","Êtes-vous sûr(e)? Cette commande sera annulée et une nouvelle sera créée à la place.",module,Magento_Sales
+"Are you sure? This order will be canceled and a new one will be created instead.","Êtes-vous sûr(e) ? Cette commande sera annulée et une nouvelle sera créée à la place.",module,Magento_Sales
 "Are you sure you want to accept this payment?","Êtes-vous sûr(e) de vouloir accepter ce paiement ?",module,Magento_Sales
 "Are you sure you want to cancel this order?","Êtes-vous sûr(e) de vouloir annuler cette commande ?",module,Magento_Sales
 "Are you sure you want to delete all items from shopping cart?","Êtes-vous sûr(e) de vouloir enlever tous les articles du panier ?",module,Magento_Sales
@@ -177,7 +177,7 @@
 "Details for %1 #%2","Détails pour %1 #%2",module,Magento_Sales
 "Discount (%1)","Remise (%1)",module,Magento_Sales
 "Discount","Remise",module,Magento_Sales
-"Discount Amount","Montant de la Remise",module,Magento_Sales
+"Discount Amount","Montant de la remise",module,Magento_Sales
 "Display Order ID in Header","Afficher l'identifiant de commande dans l'en-tête",module,Magento_Sales
 "Edit","Modifier",module,Magento_Sales
 "Edit Order #%1","Modifier la commande #%1",module,Magento_Sales
