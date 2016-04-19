@@ -38,7 +38,7 @@
 "Maintenance Mode","Mode Maintenance",module,Magento_Backup
 "Name","Nom",module,Magento_Backup
 "Not enough permissions to perform rollback.","Droits insuffisants pour exécuter la sauvegarde.",module,Magento_Backup
-"OK","Ok",module,Magento_Backup
+"OK","OK",module,Magento_Backup
 "Please correct the order of creation for a new backup.","Veuillez corriger l'ordre de la création lors d'une nouvelle sauvegarde.",module,Magento_Backup
 "Please correct the password.","Veuillez corriger le mot de passe.",module,Magento_Backup
 "Please enter a password.","Veuillez saisir un mot de passe.",module,Magento_Backup

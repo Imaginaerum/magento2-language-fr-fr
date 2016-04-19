@@ -349,7 +349,7 @@
 "Order # ","Commande # ",module,Magento_Sales
 "Order","Commande",module,Magento_Sales
 "Order #","Commande #",module,Magento_Sales
-"Order & Account Information","Commande & Information de compte",module,Magento_Sales
+"Order & Account Information","Commande & informations du compte",module,Magento_Sales
 "Order Address Information","Informations d'adresse de commande",module,Magento_Sales
 "Order Comment","Commentaire de la commande",module,Magento_Sales
 "Order Comment Email Sender","Expéditeur du mail de commentaire de commande",module,Magento_Sales

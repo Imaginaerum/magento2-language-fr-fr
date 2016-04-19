@@ -47,7 +47,7 @@
 "Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Poids maxi du paquet (consultez votre transporteur)",module,Magento_Fedex
 "Meter Number","Numéro du compteur",module,Magento_Fedex
 "National Freight","Fret National",module,Magento_Fedex
-"None","aucun",module,Magento_Fedex
+"None","Aucun",module,Magento_Fedex
 "Not Required","Non requis",module,Magento_Fedex
 "Packages Request Type","Type de requête de paquets",module,Magento_Fedex
 "Packaging","Emballage",module,Magento_Fedex

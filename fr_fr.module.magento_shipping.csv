@@ -77,7 +77,7 @@
 "No packages for request","Pas de paquet demandé",module,Magento_Shipping
 "No shipping information available","Aucune information de livraison disponible",module,Magento_Shipping
 "Number","Numéro",module,Magento_Shipping
-"OK","Ok",module,Magento_Shipping
+"OK","OK",module,Magento_Shipping
 "Order # %1","Commande #%1",module,Magento_Shipping
 "Order Total","Total de la commande",module,Magento_Shipping
 "Order tracking","Suivi de commande",module,Magento_Shipping

@@ -112,7 +112,7 @@
 "Order Review","Vérification de commande",module,Magento_Checkout
 "Order Summary","Résumé de la commande",module,Magento_Checkout
 "Order Total","Total de la commande",module,Magento_Checkout
-"Order total will be displayed before you submit the order","LE TOTAL DE LA COMMANDE S'AFFICHERA AVANT LA CONFIRMATION DE COMMANDE",module,Magento_Checkout
+"Order total will be displayed before you submit the order","Le total de la commande s'affichera avant la confirmation de commande",module,Magento_Checkout
 "Out of stock","En rupture de stock",module,Magento_Checkout
 "Page not found.","Page introuvable.",module,Magento_Checkout
 "Password","Mot de passe",module,Magento_Checkout

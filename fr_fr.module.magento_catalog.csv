@@ -441,7 +441,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Next","Suivant",module,Magento_Catalog
 "No","Non",module,Magento_Catalog
 "No layout updates","Pas de modification de l'agencement",module,Magento_Catalog
-"None","aucun",module,Magento_Catalog
+"None","Aucun",module,Magento_Catalog
 "none","aucun",module,Magento_Catalog
 "Notify for Quantity Below","Notifier quand la quantité passe en dessous de",module,Magento_Catalog
 "Notify Low Stock RSS","Flux RSS de notification de stock",module,Magento_Catalog
@@ -453,7 +453,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Number of results (For the last time placed)","Nombre de résultats (retournés lors de la dernière recherche)",module,Magento_Catalog
 "Number of Uses","Nombre d'utilisations",module,Magento_Catalog
 "Ok","Ok",module,Magento_Catalog
-"OK","Ok",module,Magento_Catalog
+"OK","OK",module,Magento_Catalog
 "On Gesture","Au geste",module,Magento_Catalog
 "Operation do not allow to move a parent category to any of children category","Opération ne permettent pas de déplacer une catégorie parente a une quelconque catégorie enfants",module,Magento_Catalog
 "Option required.","Option requise.",module,Magento_Catalog

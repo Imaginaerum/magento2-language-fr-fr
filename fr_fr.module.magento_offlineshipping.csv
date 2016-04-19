@@ -18,7 +18,7 @@
 "Method Name","Nom de la méthode",module,Magento_OfflineShipping
 "Minimum Order Amount","Montant de commande minimum",module,Magento_OfflineShipping
 "No","Non",module,Magento_OfflineShipping
-"None","aucun",module,Magento_OfflineShipping
+"None","Aucun",module,Magento_OfflineShipping
 "# of Items (and above)","Nombre d'articles (et au-delà)",module,Magento_OfflineShipping
 "# of Items vs. Destination","Nombre d'articles par destination",module,Magento_OfflineShipping
 "Order Subtotal (and above)","Sous-total de la commande (et au dessus)",module,Magento_OfflineShipping

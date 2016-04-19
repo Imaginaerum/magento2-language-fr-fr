@@ -104,7 +104,7 @@
 "Maximum length of attribute code must be less than %1 symbols","La longueur maximale du code attribut est de %1 symboles",module,Magento_Eav
 "Multiple Select","Sélection multiple",module,Magento_Eav
 "No","Non",module,Magento_Eav
-"None","aucun",module,Magento_Eav
+"None","Aucun",module,Magento_Eav
 "No options found.","Aucune option trouvée.",module,Magento_Eav
 "Not shared with other products","Non partagé avec les autres produits",module,Magento_Eav
 "Please enter a valid date between %1 and %2 at %3.","Veuillez saisir une date valide comprise entre %1 et %2 à %3.",module,Magento_Eav

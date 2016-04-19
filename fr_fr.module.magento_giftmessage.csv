@@ -27,7 +27,7 @@
 "Leave a box blank if you don't want to add a gift message for that item.","Laisser ce champ vide si vous ne voulez pas laisser un message cadeau pour cet article.",module,Magento_GiftMessage
 "Leave this box blank if you don't want to leave a gift message for the entire order.","Laisser ce champ vide si vous ne voulez pas laisser un message cadeau pour toute la commande.",module,Magento_GiftMessage
 "Message","Message",module,Magento_GiftMessage
-"OK","Ok",module,Magento_GiftMessage
+"OK","OK",module,Magento_GiftMessage
 "There is no item with provided id in the cart","Il n'y a pas d'article avec un id dans le panier",module,Magento_GiftMessage
 "There is no item with provided id in the order","Il n'y a pas d'article avec un id dans la commande",module,Magento_GiftMessage
 "There is no item with provided id in the order or gift message isn't allowed","Il n'y a pas d'article avec un id dans la commande ou les messages cadeau ne sont pas autorisés",module,Magento_GiftMessage
