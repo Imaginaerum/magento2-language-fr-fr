@@ -15,7 +15,7 @@
 "Account Information","Informations du compte",module,Magento_Sales
 "Action","Action",module,Magento_Sales
 "Actions","Actions",module,Magento_Sales
-"Add New Address","Ajouter une Nouvelle Adresse",module,Magento_Sales
+"Add New Address","Ajouter une nouvelle adresse",module,Magento_Sales
 "Add Order Comments","Ajouter des commentaires de commande",module,Magento_Sales
 "Add Products","Ajouter des produits",module,Magento_Sales
 "Address","Adresse",module,Magento_Sales
@@ -595,8 +595,8 @@
 "Submit Order","Envoyer la commande",module,Magento_Sales
 "Subscribe to Newsletter","S'abonner à la newsletter",module,Magento_Sales
 "Subscribe to Order Status","S'abonner au statut de commande",module,Magento_Sales
-"Subtotal:","Sous-Total :",module,Magento_Sales
-"Subtotal","Sous-Total",module,Magento_Sales
+"Subtotal:","Sous-total :",module,Magento_Sales
+"Subtotal","Sous-total",module,Magento_Sales
 "Subtotal after discount","Sous-total après remise",module,Magento_Sales
 "Subtotal (Excl. Tax)","Sous-total (HT)",module,Magento_Sales
 "Subtotal (Incl. Tax)","Sous-total (TTC)",module,Magento_Sales
@@ -728,7 +728,7 @@
 "View Another Order","Voir une Autre Commande",module,Magento_Sales
 "View Memo","Voir l'avoir",module,Magento_Sales
 "View Memo for #%1","Voir l'avoir pour #%1",module,Magento_Sales
-"View Order","Voir la Commande",module,Magento_Sales
+"View Order","Voir la commande",module,Magento_Sales
 "Visible on Frontend","Visible sur le site coté client",module,Magento_Sales
 "Visible On Frontend","Visible sur le site coté client",module,Magento_Sales
 "Visible On Storefront","Visible sur le front office",module,Magento_Sales

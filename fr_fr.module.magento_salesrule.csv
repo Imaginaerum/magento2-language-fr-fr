@@ -136,7 +136,7 @@
 "Status","Statut",module,Magento_SalesRule
 "Stop Further Rules Processing","Ne pas traiter les règles suivantes",module,Magento_SalesRule
 "Store View Specific Labels","Libellés spécifiques par vue magasin",module,Magento_SalesRule
-"Subtotal","Sous-Total",module,Magento_SalesRule
+"Subtotal","Sous-total",module,Magento_SalesRule
 "The rule has been deleted.","La règle a été supprimée.",module,Magento_SalesRule
 "The rule has been saved.","La règle a été sauvegardée.",module,Magento_SalesRule
 "The wrong rule is specified.","Une mauvaise règle spécifiée.",module,Magento_SalesRule

@@ -496,7 +496,7 @@
 "Submitting order information...","Les informations de commande sont en cours d'envoi...",module,Magento_Paypal
 "Subscription ID","ID Abonnement",module,Magento_Paypal
 "Subscription Payment, either payment sent or payment received","Paiement d'abonnement, paiement envoyé ou paiement reçu",module,Magento_Paypal
-"Subtotal","Sous-Total",module,Magento_Paypal
+"Subtotal","Sous-total",module,Magento_Paypal
 "Summary Text for Aggregated Cart","Texte récapitulatif sur les paniers validés",module,Magento_Paypal
 "Supporting of American Express cards require additional agreement. Learn more at <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.","Le support des cartes American Express nécessite un accord supplémentaire. En savoir plus au <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.",module,Magento_Paypal
 "Supporting of American Express cards require additional agreement. Learn more at <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.","Le support des cartes American Express nécessite un accord supplémentaire. En savoir plus au <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.",module,Magento_Paypal
@@ -572,7 +572,7 @@
 "verified","vérifié",module,Magento_Paypal
 "View","Voir",module,Magento_Paypal
 "View Demo","Voir la Demo",module,Magento_Paypal
-"View Order","Voir la Commande",module,Magento_Paypal
+"View Order","Voir la commande",module,Magento_Paypal
 "View Transaction","Voir la transaction",module,Magento_Paypal
 "View Transaction Details","Voir détails de la transaction",module,Magento_Paypal
 "Virtual PayPal Debit Card Transaction","Virtual transaction PayPal par carte de débit",module,Magento_Paypal

@@ -37,7 +37,7 @@
 "Add Date","Ajouter une date",module,Magento_Customer
 "Additional Address Entries","Saisies d'adresses supplémentaires",module,Magento_Customer
 "Add Locale","Ajouter des paramètres régionaux",module,Magento_Customer
-"Add New Address","Ajouter une Nouvelle Adresse",module,Magento_Customer
+"Add New Address","Ajouter une nouvelle adresse",module,Magento_Customer
 "Add New Addresses","Ajouter de nouvelles adresses",module,Magento_Customer
 "Add New Customer","Ajouter un nouveau client",module,Magento_Customer
 "Add New Customer Group","Ajouter un nouveau groupe de clients",module,Magento_Customer
@@ -158,7 +158,7 @@
 "Default Welcome Email","Email d'accueil par défaut",module,Magento_Customer
 "Default Welcome Email Without Password","Email de bienvenue par défaut sans mot de passe",module,Magento_Customer
 "Delete","Supprimer",module,Magento_Customer
-"Delete Address","Supprimer l'Adresse",module,Magento_Customer
+"Delete Address","Supprimer l'adresse",module,Magento_Customer
 "Delete Customer","Supprimer le Client",module,Magento_Customer
 "Delete Customer Group","Supprimer le groupe de clients",module,Magento_Customer
 "Deleted Stores","Magasins effacés",module,Magento_Customer

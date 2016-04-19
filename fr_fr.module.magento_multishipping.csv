@@ -1,5 +1,5 @@
 "Actions","Actions",module,Magento_Multishipping
-"Add New Address","Ajouter une Nouvelle Adresse",module,Magento_Multishipping
+"Add New Address","Ajouter une nouvelle adresse",module,Magento_Multishipping
 "Address %1 <span>of %2</span>","Adresse %1 <span>sur %2</span>",module,Magento_Multishipping
 "Address %1 of %2","Adresse %1 sur %2",module,Magento_Multishipping
 "Allow Shipping to Multiple Addresses","Autoriser la livraison à plusieurs adresses",module,Magento_Multishipping
@@ -81,7 +81,7 @@
 "Sorry, no quotes are available for this order at this time.","Aucun mode de livraison n'est disponible pour votre adresse.",module,Magento_Multishipping
 "Sorry, no quotes are available for this order right now.","Désolé, aucune estimation n'est actuellement disponible pour cette commande.",module,Magento_Multishipping
 "Submitting order information...","Les informations de commande sont en cours d'envoi...",module,Magento_Multishipping
-"Subtotal","Sous-Total",module,Magento_Multishipping
+"Subtotal","Sous-total",module,Magento_Multishipping
 "Thanks for your order. We'll email you order details and tracking information.","Merci pour votre commande. Vous allez recevoir un email récapitulatif et un email contenant les informations de suivi de la livraison.",module,Magento_Multishipping
 "Thanks for your order. We'll send you emails with order details and tracking information.","Merci pour votre commande. Vous allez recevoir par email les détails de votre commande ainsi que les informations de suivi.",module,Magento_Multishipping
 "Thank you for your purchase!","Merci de votre achat !",module,Magento_Multishipping

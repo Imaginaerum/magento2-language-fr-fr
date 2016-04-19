@@ -116,7 +116,7 @@
 "User Description","Description utilisateur",module,Magento_Wishlist
 "View all Wish List items","Voir tous les articles de la liste d'envies",module,Magento_Wishlist
 "View Details","Voir les détails",module,Magento_Wishlist
-"View Product","Voir le Produit",module,Magento_Wishlist
+"View Product","Voir le produit",module,Magento_Wishlist
 "We cannot add this item to your shopping cart.","Impossible d'ajouter cet article dans le panier.",module,Magento_Wishlist
 "We cannot retrieve the Wish List.","Impossible de récupérer la liste d'envies.",module,Magento_Wishlist
 "We can't add the item to the cart right now.","Impossible d'ajouter le produit au panier.",module,Magento_Wishlist

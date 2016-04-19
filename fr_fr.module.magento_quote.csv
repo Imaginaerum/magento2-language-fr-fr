@@ -42,7 +42,7 @@
 "Sorry, but items with payment agreements must be ordered one at a time To continue, please remove or buy the other items in your cart, then order this item by itself.","Pour continuer, les articles avec des accords de paiement doivent être commandés un par un, veuillez retirer ou ajouter d'autres articles dans votre panier, puis commander cet article, à part.",module,Magento_Quote
 "Store Credit","Carte de crédit du magasin",module,Magento_Quote
 "Subscription Items","Abonnement articles",module,Magento_Quote
-"Subtotal","Sous-Total",module,Magento_Quote
+"Subtotal","Sous-total",module,Magento_Quote
 "Tax","Taxe",module,Magento_Quote
 "The address model is not defined.","Le modèle d'adresse n'est pas défini.",module,Magento_Quote
 "The address total model should be extended from MagentoQuoteModelQuoteAddressTotalAbstractTotal.","Le modèle total adresse doit étendre MagentoQuoteModelQuoteAddressTotalAbstractTotal.",module,Magento_Quote

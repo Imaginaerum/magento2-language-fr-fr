@@ -99,7 +99,7 @@
 "Start Download","Démarrage du téléchargement",module,Magento_Downloadable
 "Status","Statut",module,Magento_Downloadable
 "[STORE VIEW]","[VUE MAGASIN]",module,Magento_Downloadable
-"Subtotal","Sous-Total",module,Magento_Downloadable
+"Subtotal","Sous-total",module,Magento_Downloadable
 "Subtotal Excl. Tax","Sous-total HT",module,Magento_Downloadable
 "Subtotal Incl. Tax","Sous-total TTC",module,Magento_Downloadable
 "The link has expired.","Le lien a expiré.",module,Magento_Downloadable
@@ -120,7 +120,7 @@
 "Use config","Utiliser la config",module,Magento_Downloadable
 "Use Content-Disposition","Utiliser la disposition de contenu",module,Magento_Downloadable
 "Use Default Value","Utiliser la valeur par défaut",module,Magento_Downloadable
-"View Order","Voir la Commande",module,Magento_Downloadable
+"View Order","Voir la commande",module,Magento_Downloadable
 "We can't find the link you requested.","Impossible de trouver le lien demandé.",module,Magento_Downloadable
 "We could not detect a size.","Nous ne pouvons pas déterminer le poids du fichier.",module,Magento_Downloadable
 "What's this?","Qu'est-ce que c'est ?",module,Magento_Downloadable

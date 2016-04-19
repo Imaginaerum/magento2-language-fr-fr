@@ -50,7 +50,7 @@
 "Thank you for your order from %store_name.","Merci pour votre commande sur %store_name.",theme,frontend/Magento/luma
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Pour vous connecter, utilisez les identifiants renseignés lors de votre commande ou en vous rendant sur la page <a href=""%customer_url"">Mon Compte</a> :",theme,frontend/Magento/luma
 "Update Shopping Cart","Mettre à jour le panier",theme,frontend/Magento/luma
-"View Order","Voir la Commande",theme,frontend/Magento/luma
+"View Order","Voir la commande",theme,frontend/Magento/luma
 "View past orders","Voir vos précédentes commandes",theme,frontend/Magento/luma
 "Welcome to %store_name.","Bienvenue sur %store_name.",theme,frontend/Magento/luma
 "When you sign in to your account, you will be able to:","Lorsque vous êtes connecté à votre compte, vous pouvez :",theme,frontend/Magento/luma

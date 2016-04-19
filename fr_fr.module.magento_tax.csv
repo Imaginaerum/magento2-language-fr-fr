@@ -141,7 +141,7 @@
 "State","État",module,Magento_Tax
 "State/Region","État/Région",module,Magento_Tax
 "Store(s) affected: ","Magasin(s) affecté(s) : ",module,Magento_Tax
-"Subtotal","Sous-Total",module,Magento_Tax
+"Subtotal","Sous-total",module,Magento_Tax
 "Subtotal (Excl.Tax)","Sous-total (HT)",module,Magento_Tax
 "Subtotal (Excl. Tax)","Sous-total (HT)",module,Magento_Tax
 "Subtotal (Incl. Tax)","Sous-total (TTC)",module,Magento_Tax

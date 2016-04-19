@@ -35,7 +35,7 @@
 "Adding...","Ajout en cours...",module,Magento_Catalog
 "Additional Information","Informations complémentaires",module,Magento_Catalog
 "Add New","Ajouter",module,Magento_Catalog
-"Add New Attribute","Ajouter un Attribut",module,Magento_Catalog
+"Add New Attribute","Ajouter un attribut",module,Magento_Catalog
 "Add New Attribute Set","Nouveau jeu d'attributs",module,Magento_Catalog
 "Add New Group","Nouveau Groupe",module,Magento_Catalog
 "Add New Images","Nouvelles Images",module,Magento_Catalog
@@ -410,7 +410,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Minimum Qty for Item's Status to be Out of Stock","Quantité mini pour que l'article soit considéré comme épuisé",module,Magento_Catalog
 "Month","Mois",module,Magento_Catalog
 "More Choices:","Plus de choix :",module,Magento_Catalog
-"More Information","Plus d'Information",module,Magento_Catalog
+"More Information","Plus d'information",module,Magento_Catalog
 "More Views","Plus de vues",module,Magento_Catalog
 "Multiple Select","Sélection multiple",module,Magento_Catalog
 "Must be category model instance or its id.","Doit être une instance de modèle de catégorie ou son ID.",module,Magento_Catalog

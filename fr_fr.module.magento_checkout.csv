@@ -190,7 +190,7 @@
 "State/Province","État/Province",module,Magento_Checkout
 "Street Address %1","Rue - Voie - Bât. %1",module,Magento_Checkout
 "Street Address","Adresse",module,Magento_Checkout
-"Subtotal","Sous-Total",module,Magento_Checkout
+"Subtotal","Sous-total",module,Magento_Checkout
 "Subtotal Excl. Tax","Sous-total HT",module,Magento_Checkout
 "Subtotal Incl. Tax","Sous-total TTC",module,Magento_Checkout
 "Telephone","Téléphone",module,Magento_Checkout
