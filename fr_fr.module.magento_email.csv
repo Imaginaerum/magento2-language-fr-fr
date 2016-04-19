@@ -29,7 +29,7 @@
 "Design config must have area and store.","La configuration du design doit avoir une zone et un magasin.",module,Magento_Email
 "Design params must be set before calling this method","Les paramètres du design doivent être initialisés avant d'appeler cette méthode",module,Magento_Email
 "Duplicate Of Template Name","Duplication du nom de gabarit",module,Magento_Email
-"Edit Email Template","Éditer le gabarit de l'email",module,Magento_Email
+"Edit Email Template","Modifier le gabarit de l'email",module,Magento_Email
 "Edit System Template","Éditer le gabarit système",module,Magento_Email
 "Edit Template","Éditer le gabarit",module,Magento_Email
 "Email Preview","Prévisualisation de l'email",module,Magento_Email

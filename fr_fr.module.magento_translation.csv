@@ -25,7 +25,7 @@
 "Delete Folder","Supprimer le Dossier",module,Magento_Translation
 "Dictionary (Translation on Storefront side)","Dictionnaire (Traduction coté Front Office)",module,Magento_Translation
 "Done","Terminé",module,Magento_Translation
-"Edit Order","Éditer la commande",module,Magento_Translation
+"Edit Order","Modifier la commande",module,Magento_Translation
 "Embedded (Translation on Admin side)","Embarqué (Traduction coté Back Office)",module,Magento_Translation
 "Error","Erreur",module,Magento_Translation
 "Error happened while creating wishlist. Please try again later","Erreur lors de la création de la liste d'envies. Veuillez réessayer plus tard",module,Magento_Translation

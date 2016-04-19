@@ -171,9 +171,9 @@
 "Edit Account Information","Éditer les informations du compte",module,Magento_Customer
 "Edit Address","Modifier l'adresse",module,Magento_Customer
 "Edit Customer Group ""%1""","Modifier le groupe clients ""%1""",module,Magento_Customer
-"Edit Customer Groups","Éditer les groupes de client",module,Magento_Customer
-"Edit Customer's Address","Éditer l'adresse du client",module,Magento_Customer
-"Edit Group","Modifier le Groupe",module,Magento_Customer
+"Edit Customer Groups","Modifier les groupes de client",module,Magento_Customer
+"Edit Customer's Address","Modifier l'adresse du client",module,Magento_Customer
+"Edit Group","Modifier le groupe",module,Magento_Customer
 "Email:","Email :",module,Magento_Customer
 "Email","Email",module,Magento_Customer
 "Email Address","Adresse email",module,Magento_Customer

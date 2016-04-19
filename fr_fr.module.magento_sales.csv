@@ -182,8 +182,8 @@
 "Edit","Éditer",module,Magento_Sales
 "Edit Order #%1","Modifier la commande #%1",module,Magento_Sales
 "Edit Order %1 %2 Address","Modifier l'adresse de la commande #%1 %2",module,Magento_Sales
-"Edit Order","Éditer la commande",module,Magento_Sales
-"Edit Order Status","Éditer le statut de commande",module,Magento_Sales
+"Edit Order","Modifier la commande",module,Magento_Sales
+"Edit Order Status","Modifier le statut de commande",module,Magento_Sales
 "Email","Email",module,Magento_Sales
 "Email Address","Adresse email",module,Magento_Sales
 "Email Copy of Credit Memo","Envoyer une copie de l'avoir par email",module,Magento_Sales
