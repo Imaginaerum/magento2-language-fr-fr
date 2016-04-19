@@ -33,7 +33,7 @@
 "customer group","groupe de clients",module,Magento_Tax
 "Customer Tax Class","Classe de taxe client",module,Magento_Tax
 "Custom price if available","Prix personnalisé si disponible",module,Magento_Tax
-"Default Country","Pays par Défaut",module,Magento_Tax
+"Default Country","Pays par défaut",module,Magento_Tax
 "Default Post Code","Code postal par défaut",module,Magento_Tax
 "Default State","État par défaut",module,Magento_Tax
 "Default Tax Class for Customer","Classe de taxe par défaut pour les clients",module,Magento_Tax

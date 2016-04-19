@@ -383,7 +383,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Manage Product Attributes","Gérer les attributs produit",module,Magento_Catalog
 "Manage Product Sets","Gérer les ensembles de produits",module,Magento_Catalog
 "Manage Stock","Gérer les stocks",module,Magento_Catalog
-"Manage Titles (Size, Color, etc.)","Gérer les titres (Taille, couleur, etc.)",module,Magento_Catalog
+"Manage Titles (Size, Color, etc.)","Gérer les titres (taille, couleur, etc.)",module,Magento_Catalog
 "Manual","Manuel",module,Magento_Catalog
 "Mask for Meta Description","Masque pour Meta Description",module,Magento_Catalog
 "Mask for Meta Keywords","Paramètre Meta Keywords",module,Magento_Catalog

@@ -1,5 +1,5 @@
 "Access denied.","Accès Refusé.",module,Magento_User
-"Account Information","Informations du Compte",module,Magento_User
+"Account Information","Informations du compte",module,Magento_User
 "Account Status","Statut du compte",module,Magento_User
 "Active","Actif",module,Magento_User
 "Add New Role","Nouveau rôle",module,Magento_User
@@ -56,7 +56,7 @@
 "Magento Admin Panel","Panneau d'Administration de Magento",module,Magento_User
 "Maximum Login Failures to Lockout Account","Nombre maximal de tentatives de connexion avant de bloquer le compte",module,Magento_User
 "%name,","%name,",module,Magento_User
-"New Password","Nouveau Mot de Passe",module,Magento_User
+"New Password","Nouveau mot de passe",module,Magento_User
 "New Role","Nouveau rôle",module,Magento_User
 "New User","Nouvel utilisateur",module,Magento_User
 "No","Non",module,Magento_User

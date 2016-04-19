@@ -14,7 +14,7 @@
 "Accept payments with a PCI compliant checkout that keeps customers on your site.","Accepter les paiements avec une caisse compatible PCI qui garde les clients sur votre site.",module,Magento_Paypal
 "Accept payments with a PCI-compliant checkout that keeps customers on your site.","Accepter les paiements avec une caisse compatible PCI qui garde les clients sur votre site.",module,Magento_Paypal
 "Account confirmation is required. Please, check your e-mail for confirmation link. To resend confirmation email please <a href=""%1"">click here</a>.","Confirmation de compte requise. Veuillez vérifier vos emails pour obtenir le lien de confirmation. Pour recevoir à nouveau la confirmation, <a href=""%1"">cliquez ici</a>.",module,Magento_Paypal
-"Account-to-Account Payment, initiated by PayPal","Paiement de Compte à compte, initié par PayPal",module,Magento_Paypal
+"Account-to-Account Payment, initiated by PayPal","Paiement de compte à compte, initié par PayPal",module,Magento_Paypal
 "ACH Deposit (Hold for Dispute or Other Investigation)","Dépôt d'ACH (prise pour le conflit ou toute autre recherche)",module,Magento_Paypal
 "ACH Deposit (Reversal)","Dépôt d'ACH (inversion)",module,Magento_Paypal
 "ACH Funding for Funds Recovery from Account Balance","Placement d'ACH pour le rétablissement de fonds de l'équilibre de compte",module,Magento_Paypal

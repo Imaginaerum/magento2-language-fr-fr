@@ -10,8 +10,8 @@
 "Access Denied","Accès Refusé",module,Magento_Backend
 "Access Denied.","Accès Refusé.",module,Magento_Backend
 "Access denied.","Accès Refusé.",module,Magento_Backend
-"Account Information","Informations du Compte",module,Magento_Backend
-"Account Setting","Paramètres du Compte",module,Magento_Backend
+"Account Information","Informations du compte",module,Magento_Backend
+"Account Setting","Paramètres du compte",module,Magento_Backend
 "Action","Action",module,Magento_Backend
 "Actions","Actions",module,Magento_Backend
 "Add","Ajouter",module,Magento_Backend
@@ -131,7 +131,7 @@
 "CSS Settings","Paramètres CSS",module,Magento_Backend
 "Currency ""%1"" is used as %2 in %3.","La devise ""%1"" est utilisée comme %2 dans %3.",module,Magento_Backend
 "Current Configuration Scope:","Portée de la configuration courante :",module,Magento_Backend
-"Current Month","Mois en Cours",module,Magento_Backend
+"Current Month","Mois en cours",module,Magento_Backend
 "Current User Identity Verification","Vérification de l'identité de l'utilisateur actuel",module,Magento_Backend
 "Custom","Personnalisé",module,Magento_Backend
 "Custom Admin Path","Chemin d'accès au back office personnalisé",module,Magento_Backend
@@ -154,7 +154,7 @@
 "Debug","Débogage",module,Magento_Backend
 "Default Config","Configuration par défaut",module,Magento_Backend
 "Default Cookie Settings","Paramètres par défaut des cookies",module,Magento_Backend
-"Default Country","Pays par Défaut",module,Magento_Backend
+"Default Country","Pays par défaut",module,Magento_Backend
 "Default display currency ""%1"" is not available in allowed currencies.","La devise affichée par défaut ""%1"" n'est pas disponible dans les devises autorisées.",module,Magento_Backend
 "Default No-route URL","URL par Défaut de la page pour une ressource non trouvée",module,Magento_Backend
 "Default Pages","Pages par Défaut",module,Magento_Backend
@@ -320,7 +320,7 @@
 "New Customers","Nouveaux Clients",module,Magento_Backend
 "New Custom Variable","Nouvelle variable personnalisée",module,Magento_Backend
 "[New/Edit] URL Rewrite","[Ajouter/Éditer] Une Réécriture d'URL",module,Magento_Backend
-"New Password","Nouveau Mot de Passe",module,Magento_Backend
+"New Password","Nouveau mot de passe",module,Magento_Backend
 "New Store","Nouveau Magasin",module,Magento_Backend
 "New Store Design Change","Nouveau changement de design",module,Magento_Backend
 "New Store View","Nouvelle Vue Magasin",module,Magento_Backend
