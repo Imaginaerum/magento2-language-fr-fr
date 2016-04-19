@@ -259,7 +259,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Double click on a group to rename it","Double-cliquez sur un groupe pour le renommer",module,Magento_Catalog
 "Dropdown","Liste Déroulante",module,Magento_Catalog
 "each","pièce",module,Magento_Catalog
-"Edit","Éditer",module,Magento_Catalog
+"Edit","Modifier",module,Magento_Catalog
 "Edit Attribute Set '%1'","Modifier le jeu d'attributs '%1'",module,Magento_Catalog
 "Edit Attribute Set Name","Modifier le nom du groupe d'attribut",module,Magento_Catalog
 "Edit Configurations","Modifier les configurations",module,Magento_Catalog
@@ -568,7 +568,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Root","Racine",module,Magento_Catalog
 "save","Sauvegarder",module,Magento_Catalog
 "Save","Sauvegarder",module,Magento_Catalog
-"Save and Continue Edit","Sauvegarder et Continuer à Éditer",module,Magento_Catalog
+"Save and Continue Edit","Sauvegarder et continuer à modifier",module,Magento_Catalog
 "Save Attribute","Sauvegarder l'attribut",module,Magento_Catalog
 "Save Attribute Set","Sauvegarder le jeu d'attributs",module,Magento_Catalog
 "Save Category","Sauvegarder la catégorie",module,Magento_Catalog

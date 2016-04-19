@@ -50,7 +50,7 @@
 "Display item quantities","Afficher la quantité article",module,Magento_Wishlist
 "Display number of items in wish list","Afficher le nombre d'articles de la liste d'envies",module,Magento_Wishlist
 "Display Wish List Summary","Afficher le résumé de la liste d'envies",module,Magento_Wishlist
-"Edit","Éditer",module,Magento_Wishlist
+"Edit","Modifier",module,Magento_Wishlist
 "Email address can't be empty.","L'adresse email ne peut pas être vide.",module,Magento_Wishlist
 "Email addresses, separated by commas","Adresses email, séparées par des virgules",module,Magento_Wishlist
 "Email Sender","Expéditeur du mail",module,Magento_Wishlist

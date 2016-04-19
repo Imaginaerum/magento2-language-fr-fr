@@ -184,7 +184,7 @@
 "Disable Modules Output","Désactiver la sortie des modules",module,Magento_Backend
 "Discount","Remise",module,Magento_Backend
 "Display default currency","Afficher la devise par défaut",module,Magento_Backend
-"Edit","Éditer",module,Magento_Backend
+"Edit","Modifier",module,Magento_Backend
 "Edit Design Change","Modifier le changement de design",module,Magento_Backend
 "Edit Store","Modifier le magasin",module,Magento_Backend
 "Edit Store Design Change","Modifier le changement de design du magasin",module,Magento_Backend
@@ -319,7 +319,7 @@
 "New ","Nouveau ",module,Magento_Backend
 "New Customers","Nouveaux Clients",module,Magento_Backend
 "New Custom Variable","Nouvelle variable personnalisée",module,Magento_Backend
-"[New/Edit] URL Rewrite","[Ajouter/Éditer] Une Réécriture d'URL",module,Magento_Backend
+"[New/Edit] URL Rewrite","[Ajouter/Modifier] Une Réécriture d'URL",module,Magento_Backend
 "New Password","Nouveau mot de passe",module,Magento_Backend
 "New Store","Nouveau Magasin",module,Magento_Backend
 "New Store Design Change","Nouveau changement de design",module,Magento_Backend
@@ -425,7 +425,7 @@
 "Sales Representative","Représentant des ventes",module,Magento_Backend
 "Save","Sauvegarder",module,Magento_Backend
 "Save Account","Sauvegarder le compte",module,Magento_Backend
-"Save and Continue Edit","Sauvegarder et Continuer à Éditer",module,Magento_Backend
+"Save and Continue Edit","Sauvegarder et continuer à modifier",module,Magento_Backend
 "Save Cache Settings","Sauvegarder les paramètres du cache",module,Magento_Backend
 "Save Config","Sauvegarder la configuration",module,Magento_Backend
 "Save Store","Sauvegarder le Magasin",module,Magento_Backend

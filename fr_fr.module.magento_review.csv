@@ -41,7 +41,7 @@
 "Delete Review","Supprimer l'avis",module,Magento_Review
 "Description","Description",module,Magento_Review
 "Detailed Rating","Notation détaillée",module,Magento_Review
-"Edit","Éditer",module,Magento_Review
+"Edit","Modifier",module,Magento_Review
 "Edit Rating #%1","Modifier la note #%1",module,Magento_Review
 "Edit Review '%1'","Modifier le commentaire '%1'",module,Magento_Review
 "Edit Review","Modifier le commentaire",module,Magento_Review

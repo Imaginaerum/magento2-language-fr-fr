@@ -154,7 +154,7 @@
 "Don't have a PayPal account? Simply enter your email address.","Vous n'avez pas de compte PayPal ? Il suffit d'entrer votre adresse email.",module,Magento_Paypal
 "Dynamic","Dynamique",module,Magento_Paypal
 "eBay Auction Payment","Paiement des enchères eBay",module,Magento_Paypal
-"Edit","Éditer",module,Magento_Paypal
+"Edit","Modifier",module,Magento_Paypal
 "Edit Payment Information","Modifier l'information sur le paiement",module,Magento_Paypal
 "Edit Shopping Cart","Modifier le panier",module,Magento_Paypal
 "EFT Funding (German banking)","Placement d'EFT (opérations bancaires allemandes)",module,Magento_Paypal

@@ -167,8 +167,8 @@
 "Delete items","Supprimer les éléments",module,Magento_Customer
 "Disable Automatic Group Change Based on VAT ID","Désactiver le changement automatique de groupe basé sur la TVA",module,Magento_Customer
 "Download","télécharger",module,Magento_Customer
-"Edit","Éditer",module,Magento_Customer
-"Edit Account Information","Éditer les informations du compte",module,Magento_Customer
+"Edit","Modifier",module,Magento_Customer
+"Edit Account Information","Modifier les informations du compte",module,Magento_Customer
 "Edit Address","Modifier l'adresse",module,Magento_Customer
 "Edit Customer Group ""%1""","Modifier le groupe clients ""%1""",module,Magento_Customer
 "Edit Customer Groups","Modifier les groupes de client",module,Magento_Customer
@@ -394,7 +394,7 @@
 "Sales Statistics","Statistiques de ventes",module,Magento_Customer
 "Save","Sauvegarder",module,Magento_Customer
 "Save Address","Sauvegarder l'adresse",module,Magento_Customer
-"Save and Continue Edit","Sauvegarder et Continuer à Éditer",module,Magento_Customer
+"Save and Continue Edit","Sauvegarder et continuer à modifier",module,Magento_Customer
 "Save Customer","Sauvegarder le client",module,Magento_Customer
 "Save Customer Group","Sauvegarder le groupe clients",module,Magento_Customer
 "See order and shipping status","Voir le statut de la commande et de l'expédition",module,Magento_Customer

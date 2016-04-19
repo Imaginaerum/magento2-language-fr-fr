@@ -179,7 +179,7 @@
 "Discount","Remise",module,Magento_Sales
 "Discount Amount","Montant de la Remise",module,Magento_Sales
 "Display Order ID in Header","Afficher l'identifiant de commande dans l'en-tête",module,Magento_Sales
-"Edit","Éditer",module,Magento_Sales
+"Edit","Modifier",module,Magento_Sales
 "Edit Order #%1","Modifier la commande #%1",module,Magento_Sales
 "Edit Order %1 %2 Address","Modifier l'adresse de la commande #%1 %2",module,Magento_Sales
 "Edit Order","Modifier la commande",module,Magento_Sales

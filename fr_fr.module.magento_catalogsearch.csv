@@ -16,7 +16,7 @@
 "Category","Catégorie",module,Magento_CatalogSearch
 "Delete","Supprimer",module,Magento_CatalogSearch
 "Don't see what you're looking for?","Vous ne trouvez pas ce que vous cherchez ?",module,Magento_CatalogSearch
-"Edit","Éditer",module,Magento_CatalogSearch
+"Edit","Modifier",module,Magento_CatalogSearch
 "Enter ""0"" to enable layered navigation for any number of results.","Saisissez ""0"" pour activer la navigation par filtre pour n'importe quel nombre de résultats.",module,Magento_CatalogSearch
 "Go to Home Page","Aller à la page d'accueil",module,Magento_CatalogSearch
 "Grid","Grille",module,Magento_CatalogSearch

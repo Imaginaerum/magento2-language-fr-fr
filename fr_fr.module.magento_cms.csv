@@ -64,7 +64,7 @@
 "Disabled","Désactivé",module,Magento_Cms
 "Disabled by Default","Désactivé par défaut",module,Magento_Cms
 "Disabled Completely","Désactivé complètement",module,Magento_Cms
-"Edit","Éditer",module,Magento_Cms
+"Edit","Modifier",module,Magento_Cms
 "Edit Block '%1'","Modifier le bloc '%1'",module,Magento_Cms
 "Edit Block","Modifier le bloc",module,Magento_Cms
 "Edit Page '%1'","Modifier la Page '%1'",module,Magento_Cms
@@ -114,7 +114,7 @@
 "Redirect to CMS-page if Cookies are Disabled","Rediriger vers la page CMS si les cookies sont désactivés",module,Magento_Cms
 "Relative to Web Site Base URL","Relative à l'URL de base du site Web",module,Magento_Cms
 "RuntimeException","RuntimeException",module,Magento_Cms
-"Save and Continue Edit","Sauvegarder et Continuer à Éditer",module,Magento_Cms
+"Save and Continue Edit","Sauvegarder et continuer à modifier",module,Magento_Cms
 "Save Block","Sauvegarder le Bloc",module,Magento_Cms
 "Save Page","Sauvegarder la Page",module,Magento_Cms
 "Schedule","Tâches Programmées",module,Magento_Cms

@@ -35,8 +35,8 @@
 "Cannot cancel release","Impossible d'annuler la diffusion",module,Magento_Braintree
 "Cannot clone transaction without submit_for_settlement flag.","Impossible de cloner la transaction sans le flag submit_for_settlement.",module,Magento_Braintree
 "Cannot clone voice authorization transactions","Vous ne pouvez pas cloner les transactions d'autorisation",module,Magento_Braintree
-"Cannot edit a canceled subscription.","Impossible d'éditer un abonnement annulé.",module,Magento_Braintree
-"Cannot edit expired subscription","Impossible d'éditer un abonnement expiré",module,Magento_Braintree
+"Cannot edit a canceled subscription.","Impossible de modifier un abonnement annulé.",module,Magento_Braintree
+"Cannot edit expired subscription","Impossible de modifier un abonnement expiré",module,Magento_Braintree
 "Cannot edit price changing fields on past due subscription","Impossible de changer le champ prix pour un abonnement antérieur",module,Magento_Braintree
 "Can not find original authorization transaction for partial capture","Impossible de trouver l'autorisation de transaction initiale pour la capture partielle",module,Magento_Braintree
 "Cannot hold in escrow","Impossible de bloquer",module,Magento_Braintree
@@ -120,7 +120,7 @@
 "Duplicate card exists","Doublon de carte",module,Magento_Braintree
 "Duplicate card exists in the vault.","Doublon de carte dans le coffre-fort.",module,Magento_Braintree
 "Duplicate transaction","Doublon de transaction",module,Magento_Braintree
-"Edit","Éditer",module,Magento_Braintree
+"Edit","Modifier",module,Magento_Braintree
 "Edit Credit Card","Modifier la carte bancaire",module,Magento_Braintree
 "Edit My Credit Cards","Modifier mes cartes de crédit",module,Magento_Braintree
 "Email is an invalid format.","Format email invalide.",module,Magento_Braintree
@@ -181,7 +181,7 @@
 "Merchant ID","ID de marchand",module,Magento_Braintree
 "Mismatch currency iso code","Discordance code iso devise",module,Magento_Braintree
 "Month","Mois",module,Magento_Braintree
-"My Credit Cards","Éditer mes Cartes de Crédit",module,Magento_Braintree
+"My Credit Cards","Modifier mes Cartes de Crédit",module,Magento_Braintree
 "&nbsp;","&nbsp;",module,Magento_Braintree
 "Need a customer_id, payment_method_token, credit_card, or subscription_id.","customer_id, payment_method_token, credit_card, ou subscription_id requis.",module,Magento_Braintree
 "New Credit Card","Nouvelle carte bancaire",module,Magento_Braintree

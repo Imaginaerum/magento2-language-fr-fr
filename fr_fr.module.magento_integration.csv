@@ -36,7 +36,7 @@
 "Custom","Personnalisé",module,Magento_Integration
 "Done","Terminé",module,Magento_Integration
 "Edit ""%1"" Integration","Modifier ""%1"" Intégration",module,Magento_Integration
-"Edit","Éditer",module,Magento_Integration
+"Edit","Modifier",module,Magento_Integration
 "Edit Integration '%1'","Modifier l’intégration '%1'",module,Magento_Integration
 "Email","Email",module,Magento_Integration
 "Enter URL where Oauth credentials can be sent when using Oauth for token exchange. We strongly recommend using https://.","Entrez l'URL où les informations d'identification Oauth peuvent être envoyées lors de l'utilisation Oauth. Nous vous recommandons fortement d'utiliser https://.",module,Magento_Integration
