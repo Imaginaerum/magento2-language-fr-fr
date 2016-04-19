@@ -67,12 +67,12 @@
 "Grand Total Incl. Tax","Total TTC",module,Magento_Tax
 "Grand Total (Incl.Tax)","Total (TTC)",module,Magento_Tax
 "Import and Export Tax Rates","Importer et exporter des taux de taxe",module,Magento_Tax
-"Import/Export Tax Rates","Importer/Exporter Taux de Taxes",module,Magento_Tax
+"Import/Export Tax Rates","Importer/Exporter Taux de taxes",module,Magento_Tax
 "Import Tax Rates","Import de taux de taxes",module,Magento_Tax
 "Incl. Tax","TTC",module,Magento_Tax
 "(Incl. Tax)","(TTC)",module,Magento_Tax
 "Include Tax In Grand Total","TTC dans le total",module,Magento_Tax
-"Include Tax In Order Total","Inclure les Taxes dans le total de la commande",module,Magento_Tax
+"Include Tax In Order Total","Inclure les taxes dans le total de la commande",module,Magento_Tax
 "Including and Excluding Tax","HT et TTC",module,Magento_Tax
 "Including Tax","TTC",module,Magento_Tax
 "Invalid attribute %1","Attribut invalide: %1",module,Magento_Tax
@@ -150,10 +150,10 @@
 "Tax","Taxe",module,Magento_Tax
 "Tax Calculation Based On","Calcul de la taxe basé sur",module,Magento_Tax
 "Tax Calculation Method Based On","Méthode de calcul de la taxe basée sur",module,Magento_Tax
-"Tax Classes","Classes de Taxe",module,Magento_Tax
+"Tax Classes","Classes de taxe",module,Magento_Tax
 "Tax Class for Shipping","Classe de taxe pour la livraison",module,Magento_Tax
 "Taxes","Taxes",module,Magento_Tax
-"Tax Identifier","Identifiant de Taxe",module,Magento_Tax
+"Tax Identifier","Identifiant de taxe",module,Magento_Tax
 "Tax Rate","Taux de taxe",module,Magento_Tax
 "Tax Rate Information","Information sur le taux de taxe",module,Magento_Tax
 "Tax rates at the same priority are added, others are compounded.","Les taux de taxe avec la même priorité sont ajoutés. Les autres sont composés.",module,Magento_Tax

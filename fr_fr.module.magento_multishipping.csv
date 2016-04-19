@@ -20,7 +20,7 @@
 "Continue to Billing Information","Continuer vers les informations de facturation",module,Magento_Multishipping
 "Continue to Review Your Order","Poursuivre pour vérifier votre commande",module,Magento_Multishipping
 "Continue to Shipping Information","Poursuivre vers les informations de livraison",module,Magento_Multishipping
-"Create Billing Address","Créer une adresse de Facturation",module,Magento_Multishipping
+"Create Billing Address","Créer une adresse de facturation",module,Magento_Multishipping
 "Create Shipping Address","Créer une adresse de livraison",module,Magento_Multishipping
 "Data saving problem","Problème lors de la sauvegarde des données",module,Magento_Multishipping
 "Default Billing","Facturation par défaut",module,Magento_Multishipping

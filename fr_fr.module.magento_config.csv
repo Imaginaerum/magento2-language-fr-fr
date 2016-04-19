@@ -69,7 +69,7 @@
 "Store View","Vue magasin",module,Magento_Config
 "[STORE VIEW]","[VUE MAGASIN]",module,Magento_Config
 "System","Système",module,Magento_Config
-"Tab Label","Onglet Libellé",module,Magento_Config
+"Tab Label","Onglet libellé",module,Magento_Config
 "test2","test2",module,Magento_Config
 "test","test",module,Magento_Config
 "The base directory to upload file is not specified.","Le répertoire de base pour charger l'image n'est pas spécifié.",module,Magento_Config

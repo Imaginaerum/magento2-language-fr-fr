@@ -1,6 +1,6 @@
 "Action","Action",module,Magento_Newsletter
 "Added","Ajouté",module,Magento_Newsletter
-"Add New Template","Ajouter un Nouveau Gabarit",module,Magento_Newsletter
+"Add New Template","Ajouter un Nouveau gabarit",module,Magento_Newsletter
 "Add to Queue","Ajouter à la file d'attente",module,Magento_Newsletter
 "Allow Guest Subscription","Autoriser l'inscription des invités",module,Magento_Newsletter
 "An error occurred while deleting this template.","Erreur lors de la suppression de ce gabarit.",module,Magento_Newsletter
@@ -24,7 +24,7 @@
 "Customer Last Name","Nom du client",module,Magento_Newsletter
 "Delete","Supprimer",module,Magento_Newsletter
 "Delete Selected Problems","Supprimer les problèmes sélectionnés",module,Magento_Newsletter
-"Delete Template","Supprimer le Gabarit",module,Magento_Newsletter
+"Delete Template","Supprimer le gabarit",module,Magento_Newsletter
 "Do you really want to cancel the queue?","Voulez-vous vraiment supprimer la file ?",module,Magento_Newsletter
 "Duplicate template code","Code de gabarit dupliqué",module,Magento_Newsletter
 "Edit Newsletter","Modifier la lettre d'information",module,Magento_Newsletter
@@ -84,7 +84,7 @@
 "Save and Resume","Sauvegarder et Continuer",module,Magento_Newsletter
 "Save As","Sauvegarder Sous",module,Magento_Newsletter
 "Save Newsletter","Sauvegarder la Newsletter",module,Magento_Newsletter
-"Save Template","Sauvegarder le Gabarit",module,Magento_Newsletter
+"Save Template","Sauvegarder le gabarit",module,Magento_Newsletter
 "Sender","Expéditeur",module,Magento_Newsletter
 "Sender Email","Email de l'Expéditeur",module,Magento_Newsletter
 "Sender Name","Nom de l'expéditeur",module,Magento_Newsletter
@@ -114,10 +114,10 @@
 "Template","Gabarit",module,Magento_Newsletter
 "Template Content","Contenu du gabarit",module,Magento_Newsletter
 "Template Information","Informations gabarit",module,Magento_Newsletter
-"Template Name","Nom du Gabarit",module,Magento_Newsletter
-"Template Styles","Styles de Gabarit",module,Magento_Newsletter
-"Template Subject","Sujet du Gabarit",module,Magento_Newsletter
-"Template Type","Type de Gabarit",module,Magento_Newsletter
+"Template Name","Nom du gabarit",module,Magento_Newsletter
+"Template Styles","Styles de gabarit",module,Magento_Newsletter
+"Template Subject","Sujet du gabarit",module,Magento_Newsletter
+"Template Type","Type de gabarit",module,Magento_Newsletter
 "Thank you for subscribing to our newsletter.","Merci pour votre abonnement à notre newsletter.",module,Magento_Newsletter
 "Thank you for your subscription.","Merci de votre inscription.",module,Magento_Newsletter
 "The confirmation request has been sent.","La demande de confirmation a été envoyée.",module,Magento_Newsletter

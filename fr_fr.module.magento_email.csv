@@ -2,7 +2,7 @@
 "<pre> %1 </pre>","<pre> %1 </pre>",module,Magento_Email
 "Action","Action",module,Magento_Email
 "Added","Ajouté",module,Magento_Email
-"Add New Template","Ajouter un Nouveau Gabarit",module,Magento_Email
+"Add New Template","Ajouter un Nouveau gabarit",module,Magento_Email
 "Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in width/height fields below.","Types de fichiers autorisés : jpg, jpeg, gif, png. Pour optimiser le logo pour des écrans haute résolution, télécharger une image 3 fois plus grande que la taille normale, puis spécifier les dimensions de la taille normale dans les champs largeur/hauteur ci-dessous.",module,Magento_Email
 "An error occurred. The email template can not be opened for preview.","Une erreur s'est produite. Le gabarit d'email ne peut pas être ouvert pour aperçu.",module,Magento_Email
 "An error occurred while deleting email template data. Please review log and try again.","Erreur lors de la suppression des données de gabarit d'email. Consultez les logs.",module,Magento_Email
@@ -25,7 +25,7 @@
 "Custom2 Contact Email","Email du contact personnalisé 2",module,Magento_Email
 "Custom2 Contact Name","Nom du contact personnalisé 2",module,Magento_Email
 "Default Config","Configuration par défaut",module,Magento_Email
-"Delete Template","Supprimer le Gabarit",module,Magento_Email
+"Delete Template","Supprimer le gabarit",module,Magento_Email
 "Design config must have area and store.","La configuration du design doit avoir une zone et un magasin.",module,Magento_Email
 "Design params must be set before calling this method","Les paramètres du design doivent être initialisés avant d'appeler cette méthode",module,Magento_Email
 "Duplicate Of Template Name","Duplication du nom de gabarit",module,Magento_Email
@@ -69,7 +69,7 @@
 "Return Html Version","Revenir à la version HTML",module,Magento_Email
 "Sales Representative Contact Email","Email du contact représentant des ventes",module,Magento_Email
 "Sales Representative Contact Name","Nom du contact représentant des ventes",module,Magento_Email
-"Save Template","Sauvegarder le Gabarit",module,Magento_Email
+"Save Template","Sauvegarder le gabarit",module,Magento_Email
 "Store Contact Information","Informations de contact du magasin",module,Magento_Email
 "Store Hours","Heures d'ouverture",module,Magento_Email
 "Store Name","Nom du magasin",module,Magento_Email
@@ -80,10 +80,10 @@
 "Template","Gabarit",module,Magento_Email
 "Template Content","Contenu du gabarit",module,Magento_Email
 "Template Information","Informations gabarit",module,Magento_Email
-"Template Name","Nom du Gabarit",module,Magento_Email
-"Template Styles","Styles de Gabarit",module,Magento_Email
-"Template Subject","Sujet du Gabarit",module,Magento_Email
-"Template Type","Type de Gabarit",module,Magento_Email
+"Template Name","Nom du gabarit",module,Magento_Email
+"Template Styles","Styles de gabarit",module,Magento_Email
+"Template Subject","Sujet du gabarit",module,Magento_Email
+"Template Type","Type de gabarit",module,Magento_Email
 "Template Variables","Variables de gabarit",module,Magento_Email
 "Thank you, %store_name","Merci, %store_name",module,Magento_Email
 "The email template has been deleted.","Le gabarit d'email a été supprimé.",module,Magento_Email

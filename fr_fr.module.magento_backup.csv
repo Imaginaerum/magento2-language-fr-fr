@@ -61,7 +61,7 @@
 "successful","succès",module,Magento_Backup
 "System","Système",module,Magento_Backup
 "System Backup","Sauvegarde système",module,Magento_Backup
-"System (excluding Media)","Système (sans les Médias)",module,Magento_Backup
+"System (excluding Media)","Système (sans les médias)",module,Magento_Backup
 "The archive can be uncompressed with <a href=""%1"">%2</a> on Windows systems.","L'archive peut être décompressé avec <a href=""%1"">%2</a> sur les systèmes Windows.",module,Magento_Backup
 "The backup file ""%1"" does not exist.","Le fichier de sauvegarde ""%1"" n'existe pas.",module,Magento_Backup
 "The backup file does not exist.","Il n'existe pas de fichier de sauvegarde.",module,Magento_Backup

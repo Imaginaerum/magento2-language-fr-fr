@@ -1,6 +1,6 @@
 "Add Block Names to Hints","Ajouter les noms des blocs aux Astuces",module,Magento_Developer
 "Allowed IPs (comma separated)","IPs autorisées (séparées par des virgules)",module,Magento_Developer
-"Allow Symlinks","Autoriser les Liens Symboliques",module,Magento_Developer
+"Allow Symlinks","Autoriser les liens symboliques",module,Magento_Developer
 "Asynchronous indexing","Indexation asynchrone",module,Magento_Developer
 "Client side less compilation","Compilation less coté client",module,Magento_Developer
 "CSS Settings","Paramètres CSS",module,Magento_Developer

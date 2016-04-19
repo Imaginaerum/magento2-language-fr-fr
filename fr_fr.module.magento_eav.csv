@@ -114,9 +114,9 @@
 "Some internal exception message.","Messages d'exception interne.",module,Magento_Eav
 "Source model ""%1"" not found for attribute ""%2""","Le modèle source ""%1"" n'a pas été trouvé pour l'attribut ""%2""",module,Magento_Eav
 "System","Système",module,Magento_Eav
-"System attribute can not be deleted","Un Attribut Système ne peut pas être supprimé",module,Magento_Eav
-"Text Area","Zone de Texte",module,Magento_Eav
-"Text Field","Champ Texte",module,Magento_Eav
+"System attribute can not be deleted","Un Attribut système ne peut pas être supprimé",module,Magento_Eav
+"Text Area","Zone de texte",module,Magento_Eav
+"Text Field","Champ texte",module,Magento_Eav
 "The attribute code '%1' is reserved by system. Please try another attribute code","Le code d'attribut '%1' est réservé par le système. Veuillez essayez un autre code d'attribut",module,Magento_Eav
 "The attribute code '%1' is reserved by system. Please try another attribute code","Le code d'attribut '%1' est réservé par le système. Veuillez essayez un autre code d'attribut",module,Magento_Eav
 "The current module EAV entity is undefined.","L'entité courante du module EAV est indéfinie.",module,Magento_Eav

@@ -212,7 +212,7 @@
 "General Funding of PayPal Account ","Financement général de compte PayPal ",module,Magento_Paypal
 "General (Funds Transfer from PayPal Account to Another)","Général (transfert de fonds de compte PayPal à un autre)",module,Magento_Paypal
 "General Information","Informations Générales",module,Magento_Paypal
-"General: non-payment fee of a type not belonging to the other T01xx categories","Général : Taxe de non-paiement d'un type qui n'appartient pas aux autres catégories T01xx",module,Magento_Paypal
+"General: non-payment fee of a type not belonging to the other T01xx categories","Général : taxe de non-paiement d'un type qui n'appartient pas aux autres catégories T01xx",module,Magento_Paypal
 "General. Product no longer supported","Généralités. Ce produit n'est plus pris en charge",module,Magento_Paypal
 "General (Purchase with a credit card)","Généraux (achat avec une carte de crédit)",module,Magento_Paypal
 "General: received payment of a type not belonging to the other T00xx categories","Général : paiement reçu d'un type n'appartenant pas aux autres catégories de T00xx",module,Magento_Paypal
