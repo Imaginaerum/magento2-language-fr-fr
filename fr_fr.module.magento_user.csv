@@ -136,7 +136,7 @@
 "You have entered an invalid password for current user.","Mot de passe invalide.",module,Magento_User
 "You have revoked the user's tokens.","Les jetons de l'utilisateur ont été révoqués.",module,Magento_User
 "You need more permissions to access this.","Vous avez besoin de permissions supplémentaires pour accéder à ceci.",module,Magento_User
-"Your Password","Votre Mot de Passe",module,Magento_User
+"Your Password","Votre mot de passe",module,Magento_User
 "Your password confirmation must match your password.","Le mot de passe de confirmation ne correspond pas au mot de passe renseigné.",module,Magento_User
 "Your password has been updated.","Votre mot de passe à été mis à jour.",module,Magento_User
 "Your password has expired; please contact your administrator.","Votre mot de passe a expiré. Veuillez contacter votre administrateur.",module,Magento_User

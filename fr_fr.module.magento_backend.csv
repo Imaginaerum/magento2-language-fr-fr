@@ -267,7 +267,7 @@
 "invalid request","requête invalide",module,Magento_Backend
 "Inventory Stock Status","Statut du stock de l'inventaire",module,Magento_Backend
 "IP Address","Adresse IP",module,Magento_Backend
-"Items","articles",module,Magento_Backend
+"Items","Articles",module,Magento_Backend
 "items selected","éléments sélectionnés",module,Magento_Backend
 "JavaScript/CSS","JavaScript/CSS",module,Magento_Backend
 "JavaScript/CSS Cache","Cache JavaScript/CSS",module,Magento_Backend
@@ -663,7 +663,7 @@
 "You have logged out.","Vous vous êtes déconnecté(e).",module,Magento_Backend
 "You need more permissions to access this.","Vous avez besoin de permissions supplémentaires pour accéder à ceci.",module,Magento_Backend
 "You need more permissions to do this.","Vous n'avez pas les droits nécessaires pour effectuer cette action.",module,Magento_Backend
-"Your Password","Votre Mot de Passe",module,Magento_Backend
+"Your Password","Votre mot de passe",module,Magento_Backend
 "You saved the account.","Compte sauvegardé.",module,Magento_Backend
 "You saved the configuration.","Vous avez sauvegardé la configuration.",module,Magento_Backend
 "You saved the custom variable.","Variable personnalisée sauvegardée.",module,Magento_Backend

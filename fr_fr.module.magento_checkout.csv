@@ -15,7 +15,7 @@
 "Back","Retour",module,Magento_Checkout
 "Billing Address","Adresse de facturation",module,Magento_Checkout
 "Billing Address:","Adresse de facturation :",module,Magento_Checkout
-"Billing Information","Informations de Facturation",module,Magento_Checkout
+"Billing Information","Informations de facturation",module,Magento_Checkout
 "Cancel","Annuler",module,Magento_Checkout
 "Cancel Coupon","Annuler le bon de réduction",module,Magento_Checkout
 "Carrier Title","Nom du transporteur",module,Magento_Checkout
@@ -81,10 +81,10 @@
 "Invalid method: %1","Méthode invalide : %1",module,Magento_Checkout
 "Invalid shipping method","Méthode d'expédition invalide",module,Magento_Checkout
 " item"," article",module,Magento_Checkout
-"Item","article",module,Magento_Checkout
+"Item","Article",module,Magento_Checkout
 "item","article",module,Magento_Checkout
 "Item in Cart","Articles dans le panier",module,Magento_Checkout
-"Items","articles",module,Magento_Checkout
+"Items","Articles",module,Magento_Checkout
 "items","articles",module,Magento_Checkout
 " items"," articles",module,Magento_Checkout
 "Items in Cart","Articles dans le panier",module,Magento_Checkout

@@ -3,7 +3,7 @@
 "About Us","Qui sommes-nous ?",theme,frontend/Magento/luma
 "Add to Compare","Ajouter au comparateur",theme,frontend/Magento/luma
 "Add to Wish List","Ajouter à ma liste d'envie",theme,frontend/Magento/luma
-"Billing Info","Informations de Facturation",theme,frontend/Magento/luma
+"Billing Info","Informations de facturation",theme,frontend/Magento/luma
 "Card Verification Number","Numéro de cryptogramme",theme,frontend/Magento/luma
 "Check the status of orders","Vérifier le statut des commandes",theme,frontend/Magento/luma
 "Clear All","Tout Supprimer",theme,frontend/Magento/luma
@@ -57,7 +57,7 @@
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Vous pouvez suivre le statut de votre commande en <a href=""%account_url"">vous connectant à votre compte</a>.",theme,frontend/Magento/luma
 "Your Checkout Progress","Avancement de votre commande",theme,frontend/Magento/luma
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Votre avoir #%creditmemo_id pour la commande #%order_id",theme,frontend/Magento/luma
-"Your Invoice #%invoice_id for Order #%order_id","Votre Facture #%invoice_id pour la commande #%order_id",theme,frontend/Magento/luma
+"Your Invoice #%invoice_id for Order #%order_id","Votre facture #%invoice_id pour la commande #%order_id",theme,frontend/Magento/luma
 "Your Order <span class=""no-link"">#%increment_id</span>","Votre commande <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
 "Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Votre commande #%increment_id a été mise à jour avec le statut <strong>%order_status</strong>.",theme,frontend/Magento/luma
 "Your Shipment #%shipment_id for Order #%order_id","Livraison #%shipment_id pour la commande #%order_id",theme,frontend/Magento/luma

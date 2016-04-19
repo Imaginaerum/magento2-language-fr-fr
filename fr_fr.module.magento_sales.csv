@@ -70,7 +70,7 @@
 "Billing","Facturation",module,Magento_Sales
 "Billing Address","Adresse de facturation",module,Magento_Sales
 "Billing Address: ","Adresse de facturation : ",module,Magento_Sales
-"Billing Info","Informations de Facturation",module,Magento_Sales
+"Billing Info","Informations de facturation",module,Magento_Sales
 "Billing Last Name","Nom (fact.)",module,Magento_Sales
 "Billing ZIP Code","Code postal (fact.)",module,Magento_Sales
 "Bill-to Name","Nom de facturation",module,Magento_Sales
@@ -268,9 +268,9 @@
 "IPN ""Refunded"". Refund issued by merchant. Registered notification about refunded amount of %1. Transaction ID: ""%2""","IPN ""Remboursement"". Remboursement émis par le marchand. Notifications sur le montant du remboursement %1. ID Transaction: ""%2""",module,Magento_Sales
 "IPN ""Refunded"". Refund issued by merchant. Registered notification about refunded amount of %1. Transaction ID: ""%2"". Credit Memo has not been created. Please create offline Credit Memo.","IPN ""Remboursement"". Remboursement émis par le marchand. Notification sauvegardée concernant le montant remboursé de %1. ID de transaction : ""%2"". L'avoir n'a pas été créé. Veuillez créer un avoir hors ligne.",module,Magento_Sales
 "Is Closed","Est fermé",module,Magento_Sales
-"Item","article",module,Magento_Sales
+"Item","Article",module,Magento_Sales
 "Item ordered qty","Qté commandée",module,Magento_Sales
-"Items","articles",module,Magento_Sales
+"Items","Articles",module,Magento_Sales
 "Items Invoiced","Articles facturés",module,Magento_Sales
 "Items Ordered","Articles commandés",module,Magento_Sales
 "Items Refunded","Articles remboursés",module,Magento_Sales
@@ -830,7 +830,7 @@
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Votre avoir #%creditmemo_id pour la commande #%order_id",module,Magento_Sales
 "Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.","Votre logo par défaut sera utilisé dans les documents PDF et HTML.<br>(jpeg, tiff, png) Si l'image dans le pdf est déformée, essayez d'utiliser un fichier image plus large.",module,Magento_Sales
 "You released the order from holding status.","La commande est débloquée.",module,Magento_Sales
-"Your Invoice #%invoice_id for Order #%order_id","Votre Facture #%invoice_id pour la commande #%order_id",module,Magento_Sales
+"Your Invoice #%invoice_id for Order #%order_id","Votre facture #%invoice_id pour la commande #%order_id",module,Magento_Sales
 "Your Order <span class=""no-link"">#%increment_id</span>","Votre commande <span class=""no-link"">#%increment_id</span>",module,Magento_Sales
 "Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Votre commande #%increment_id a été mise à jour avec le statut <strong>%order_status</strong>.",module,Magento_Sales
 "Your Shipment #%shipment_id for Order #%order_id","Livraison #%shipment_id pour la commande #%order_id",module,Magento_Sales

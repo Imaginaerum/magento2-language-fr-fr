@@ -80,10 +80,10 @@
 "Billing Agreement #%1","Entente de facturation # %1",module,Magento_Paypal
 "Billing Agreement","Entente de facturation",module,Magento_Paypal
 "Billing Agreement # ","Entente de facturation # ",module,Magento_Paypal
-"Billing Agreements","Ententes de Facturation",module,Magento_Paypal
+"Billing Agreements","Ententes de facturation",module,Magento_Paypal
 "Billing Agreement Signup","Engagement d'entente de facturation",module,Magento_Paypal
 "Billing Agreement View","Vue de l'entente de facturation",module,Magento_Paypal
-"Billing Information","Informations de Facturation",module,Magento_Paypal
+"Billing Information","Informations de facturation",module,Magento_Paypal
 "Bill-to Name","Nom de facturation",module,Magento_Paypal
 "Bonus for first ACH Use","Bonus pour la première utilisation ACH",module,Magento_Paypal
 "button_label","button_label",module,Magento_Paypal
@@ -261,7 +261,7 @@
 "IPN ""%1"". %2 Transaction amount %3. Transaction ID: ""%4""","IPN ""%1"". %2 Montant de transaction %3. ID de transaction: ""%4""",module,Magento_Paypal
 "IPN (Instant Payment Notification) Only","Notification instantanée de paiement (IPN) seulement",module,Magento_Paypal
 "Issuer Liability","Responsabilité de l'émetteur",module,Magento_Paypal
-"Item","article",module,Magento_Paypal
+"Item","Article",module,Magento_Paypal
 "Items in Your Shopping Cart","Articles dans votre panier",module,Magento_Paypal
 "It is recommended to set this value to ""Debit or Credit Card"" per store views.","Il est recommandé de fixer cette valeur à ""Carte de débit ou de crédit"" pour chaque vue magasin.",module,Magento_Paypal
 "It is recommended to set this value to ""Magento_Paypal"" per store views.","Il est recommandé de définir cette valeur à ""Magento_Paypal"" par vue magasin.",module,Magento_Paypal

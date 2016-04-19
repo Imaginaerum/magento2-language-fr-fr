@@ -81,7 +81,7 @@
 "Based on the VAT ID, the customer belongs to the Customer Group %s.","Basé sur le numéro de TVA, le client appartient au groupe client %s.",module,Magento_Customer
 "Based on the VAT ID, ' 'the customer would belong to the Customer Group %s.","Basé sur le numéro de TVA, le client appartient au groupe client %s.",module,Magento_Customer
 "Billing Address","Adresse de facturation",module,Magento_Customer
-"Billing Firstname","Prénom de Facturation",module,Magento_Customer
+"Billing Firstname","Prénom de facturation",module,Magento_Customer
 "Billing Lastname","Nom (fact.)",module,Magento_Customer
 "Bill-to Name","Nom de facturation",module,Magento_Customer
 "By creating an account with our store, you will be able to move through the checkout process faster, store multiple shipping addresses, view and track your orders in your account and more.","En créant un compte sur notre boutique, vous pourrez passer vos commandes plus rapidement, enregistrer plusieurs adresses de livraison, consulter et suivre vos commandes, et plein d'autres choses encore.",module,Magento_Customer

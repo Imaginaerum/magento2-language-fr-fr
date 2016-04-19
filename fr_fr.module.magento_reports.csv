@@ -78,7 +78,7 @@
 "Invoiced Orders","Commandes facturées",module,Magento_Reports
 "Invoice Report","Rapport des factures",module,Magento_Reports
 "IP Address","Adresse IP",module,Magento_Reports
-"Items","articles",module,Magento_Reports
+"Items","Articles",module,Magento_Reports
 "Items in Cart","Articles dans le panier",module,Magento_Reports
 "Last Credit Memo Created Date","Date de création du dernier avoir",module,Magento_Reports
 "Last Invoice Created Date","Date de création de la dernière facture",module,Magento_Reports

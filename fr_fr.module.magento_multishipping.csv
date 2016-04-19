@@ -10,8 +10,8 @@
 "Back to Shipping Information","Retour aux informations de livraison",module,Magento_Multishipping
 "Back to Shopping Cart","Retour au Panier",module,Magento_Multishipping
 "Billing Address","Adresse de facturation",module,Magento_Multishipping
-"Billing Information - %1","Informations de Facturation - %1",module,Magento_Multishipping
-"Billing Information","Informations de Facturation",module,Magento_Multishipping
+"Billing Information - %1","Informations de facturation - %1",module,Magento_Multishipping
+"Billing Information","Informations de facturation",module,Magento_Multishipping
 "Change","Modifier",module,Magento_Multishipping
 "Change Billing Address","Modifier l'adresse de facturation",module,Magento_Multishipping
 "Check Out with Multiple Addresses","Utiliser plusieurs adresses de livraison",module,Magento_Multishipping
@@ -36,9 +36,9 @@
 "Go to Shipping Information","Allez aux informations de livraison",module,Magento_Multishipping
 "Grand Total:","Montant global :",module,Magento_Multishipping
 "Incl. Tax","TTC",module,Magento_Multishipping
-"Item","article",module,Magento_Multishipping
+"Item","Article",module,Magento_Multishipping
 "Item not found or already ordered","Produit non trouvé ou déjà commandé",module,Magento_Multishipping
-"Items","articles",module,Magento_Multishipping
+"Items","Articles",module,Magento_Multishipping
 "Maximum Qty Allowed for Shipping to Multiple Addresses","Qté maxi autorisée pour la livraison à plusieurs adresses",module,Magento_Multishipping
 "Maximum qty allowed for Shipping to multiple addresses is %1","La quantité maximale autorisée pour la livraison à plusieurs adresses est %1",module,Magento_Multishipping
 "Multishipping Settings","Paramètres de l'expédition à plusieurs adresses",module,Magento_Multishipping
