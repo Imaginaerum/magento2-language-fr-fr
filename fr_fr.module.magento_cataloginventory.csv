@@ -20,7 +20,7 @@
 "Index stock","Index du stock",module,Magento_CatalogInventory
 "In Stock","En Stock",module,Magento_CatalogInventory
 "Inventory","Inventaire",module,Magento_CatalogInventory
-"Manage Stock","Gérer les Stocks",module,Magento_CatalogInventory
+"Manage Stock","Gérer les stocks",module,Magento_CatalogInventory
 "Maximum Qty Allowed in Shopping Cart","Quantité maximale autorisée dans le panier",module,Magento_CatalogInventory
 "Minimum Qty","Quantité Minimale",module,Magento_CatalogInventory
 "Minimum Qty Allowed in Shopping Cart","Quantité minimale autorisée dans le panier",module,Magento_CatalogInventory

@@ -71,8 +71,8 @@
 "Location","Lieu",module,Magento_Shipping
 "message","message",module,Magento_Shipping
 "N/A","N/A",module,Magento_Shipping
-"New Shipment","Nouvelle Livraison",module,Magento_Shipping
-"New Shipment for Order #%1","Nouvelle expédition pour la commande #%1",module,Magento_Shipping
+"New Shipment","Nouvelle livraison",module,Magento_Shipping
+"New Shipment for Order #%1","Nouvelle livraison pour la commande #%1",module,Magento_Shipping
 "No detail for number ""%1""","Aucun détail pour le numéro ""%1""",module,Magento_Shipping
 "No packages for request","Pas de paquet demandé",module,Magento_Shipping
 "No shipping information available","Aucune information de livraison disponible",module,Magento_Shipping

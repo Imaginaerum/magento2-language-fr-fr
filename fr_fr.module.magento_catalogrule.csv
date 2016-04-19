@@ -43,7 +43,7 @@
 "Indexed product/rule association","Indexe des associations produits/règle catalogue",module,Magento_CatalogRule
 "Indexed rule/product association","Indexation des associations règles catalogue/produit",module,Magento_CatalogRule
 "New Catalog Price Rule","Nouvelle règle de prix catalogue",module,Magento_CatalogRule
-"New Rule","Nouvelle Règle",module,Magento_CatalogRule
+"New Rule","Nouvelle règle",module,Magento_CatalogRule
 "No","Non",module,Magento_CatalogRule
 "Percentage discount should be between 0 and 100.","La remise en pourcentage doit être comprise entre 0 et 100.",module,Magento_CatalogRule
 "Pricing Structure Rules","Règles d'application des prix",module,Magento_CatalogRule

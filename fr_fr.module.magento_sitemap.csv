@@ -32,8 +32,8 @@
 "Maximum No of URLs Per File","Nbr maximal d'URL par fichier",module,Magento_Sitemap
 "Monthly","Mensuel",module,Magento_Sitemap
 "Never","Jamais",module,Magento_Sitemap
-"New Sitemap","Nouveau Plan de site",module,Magento_Sitemap
-"New Site Map","Nouveau Plan de site",module,Magento_Sitemap
+"New Sitemap","Nouveau plan de site",module,Magento_Sitemap
+"New Site Map","Nouveau plan de site",module,Magento_Sitemap
 "None","aucun",module,Magento_Sitemap
 "Path","Chemin",module,Magento_Sitemap
 "Please create the specified folder ""%1"" before saving the sitemap.","Veuillez créer le répertoire ""%1"" avant de sauvegarder le plan de site.",module,Magento_Sitemap

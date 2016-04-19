@@ -93,7 +93,7 @@
 "Manage Coupon Codes","Gérer les codes de bons de réduction",module,Magento_SalesRule
 "Maximum Qty Discount is Applied To","Qté maxi à laquelle la remise est appliquée",module,Magento_SalesRule
 "New Cart Price Rule","Nouvelle règle de prix panier",module,Magento_SalesRule
-"New Rule","Nouvelle Règle",module,Magento_SalesRule
+"New Rule","Nouvelle règle",module,Magento_SalesRule
 "No","Non",module,Magento_SalesRule
 "No Coupon","Pas de coupon de réduction",module,Magento_SalesRule
 "NOT FOUND","ABSENT DU",module,Magento_SalesRule

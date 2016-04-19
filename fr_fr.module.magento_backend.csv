@@ -298,7 +298,7 @@
 "Magento ver. %1","Magento ver. %1",module,Magento_Backend
 "Mail Sending Settings","Paramètres d'envoi des emails",module,Magento_Backend
 "Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/","Assurez-vous que l'URL se termine par un '/' (slash), ex : http://yourdomain/magento/",module,Magento_Backend
-"Manage Stores","Gérer les Magasins",module,Magento_Backend
+"Manage Stores","Gérer les magasins",module,Magento_Backend
 "Marketing","Marketing",module,Magento_Backend
 "Mass Actions","Actions de masse",module,Magento_Backend
 "Maximum sender name length is 255. Please correct your settings.","La longueur maximale du nom de l'expéditeur est de 255. Veuillez corriger vos paramètres.",module,Magento_Backend

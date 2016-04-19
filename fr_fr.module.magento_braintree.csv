@@ -152,7 +152,7 @@
 "First name is too long.","Prénom trop long.",module,Magento_Braintree
 "ID has already been taken.","ID déjà donné.",module,Magento_Braintree
 "ID is invalid.","ID invalide.",module,Magento_Braintree
-"Id is required","id requis",module,Magento_Braintree
+"Id is required","ID obligatoire",module,Magento_Braintree
 "Incomplete payment information.","Informations de paiement incomplet.",module,Magento_Braintree
 "Inconsistent country","Pays incompatible",module,Magento_Braintree
 "Inconsistent number of billing cycles","Nombre de cycles de facturation incompatible",module,Magento_Braintree

@@ -9,11 +9,11 @@
 "%1 doesn't extends MagentoFrameworkModelAbstractModel","%1 n'étend pas MagentoFrameworkModelAbstractModel",module,Magento_Catalog
 "%1 has reached a quantity of %2.","%1 ayant atteint la quantité de %2.",module,Magento_Catalog
 "1 item","1 article",module,Magento_Catalog
-"%1 Item","Article %1",module,Magento_Catalog
+"%1 Item","%1 article",module,Magento_Catalog
 "%1 Item(s)","%1 article(s)",module,Magento_Catalog
 "%1 Items","%1 articles",module,Magento_Catalog
 "%1 items","%1 articles",module,Magento_Catalog
-"%1 RSS Feed","%1 Flux RSS",module,Magento_Catalog
+"%1 RSS Feed","%1 flux RSS",module,Magento_Catalog
 "%1 - Special Products","%1 - Produits en promotion",module,Magento_Catalog
 "%1 was not found in algorithms","%1 n'a pas été trouvé dans les algorithmes",module,Magento_Catalog
 "%1 <span>x</span> %2 <span>px.</span>","%1 <span>x</span> %2 <span>px.</span>",module,Magento_Catalog
@@ -30,7 +30,7 @@
 "Actual Price","Prix ​​Actuel",module,Magento_Catalog
 "Add Attribute","Ajouter un attribut",module,Magento_Catalog
 "Add Attribute Set","Ajouter un groupe d'attribut",module,Magento_Catalog
-"Add Group","Ajouter un Groupe",module,Magento_Catalog
+"Add Group","Ajouter un groupe",module,Magento_Catalog
 "Add Group Price","Ajouter un prix par groupe",module,Magento_Catalog
 "Adding...","Ajout en cours...",module,Magento_Catalog
 "Additional Information","Informations complémentaires",module,Magento_Catalog
@@ -378,11 +378,11 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Manage Attribute Sets","Gérer les jeux d'attributs",module,Magento_Catalog
 "Manage Catalog Categories","Gérer les catégories du catalogue",module,Magento_Catalog
 "Manage Categories","Gérer les catégories",module,Magento_Catalog
-"Manage Labels","Gestion des libellés",module,Magento_Catalog
+"Manage Labels","Gérer les libellés",module,Magento_Catalog
 "Manage Options (values of your attribute)","Gérer les options (valeurs de vos attributs)",module,Magento_Catalog
 "Manage Product Attributes","Gérer les attributs produit",module,Magento_Catalog
 "Manage Product Sets","Gérer les ensembles de produits",module,Magento_Catalog
-"Manage Stock","Gérer les Stocks",module,Magento_Catalog
+"Manage Stock","Gérer les stocks",module,Magento_Catalog
 "Manage Titles (Size, Color, etc.)","Gérer les titres (Taille, couleur, etc.)",module,Magento_Catalog
 "Manual","Manuel",module,Magento_Catalog
 "Mask for Meta Description","Masque pour Meta Description",module,Magento_Catalog

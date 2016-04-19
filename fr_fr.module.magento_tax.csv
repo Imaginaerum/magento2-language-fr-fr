@@ -87,7 +87,7 @@
 "'*' - matches any; 'xyz*' - matches any that begins on 'xyz' and are not longer than %1.","'*' - correspond à tout; 'xyz*' - correspond à ce qui commence par 'xyz' et qui ne fait pas plus de %1 caractères.",module,Magento_Tax
 "Maximum zip code length is 9.","La longueur maximale du code postal est de 9 caractères.",module,Magento_Tax
 "Name","Nom",module,Magento_Tax
-"New Rule","Nouvelle Règle",module,Magento_Tax
+"New Rule","Nouvelle règle",module,Magento_Tax
 "New Tax Rate","Nouveau taux",module,Magento_Tax
 "New Tax Rule","Nouvelle règle de taxe",module,Magento_Tax
 "None","aucun",module,Magento_Tax

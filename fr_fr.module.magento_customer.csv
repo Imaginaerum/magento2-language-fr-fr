@@ -34,7 +34,7 @@
 "Action","Action",module,Magento_Customer
 "A customer website ID must be specified when using the website scope.","Un ID client du site web doit être spécifié lors de l'utilisation de la portée site web.",module,Magento_Customer
 "A customer with the same email already exists in an associated website.","Un client avec le même email existe déjà dans un site Web associé.",module,Magento_Customer
-"Add Date","Ajouter une Date",module,Magento_Customer
+"Add Date","Ajouter une date",module,Magento_Customer
 "Additional Address Entries","Saisies d'adresses supplémentaires",module,Magento_Customer
 "Add Locale","Ajouter des paramètres régionaux",module,Magento_Customer
 "Add New Address","Ajouter une Nouvelle Adresse",module,Magento_Customer
@@ -256,8 +256,8 @@
 "Login successful.","Connexion réussie.",module,Magento_Customer
 "Log Out","Déconnexion",module,Magento_Customer
 "Male","Homme",module,Magento_Customer
-"Manage Addresses","Gérer les Adresses",module,Magento_Customer
-"Manage Customers","Gérer les Clients",module,Magento_Customer
+"Manage Addresses","Gérer les adresses",module,Magento_Customer
+"Manage Customers","Gérer les clients",module,Magento_Customer
 "Maximum length must be less then %1 symbols","La longueur maximale est de %1 symboles",module,Magento_Customer
 "message","message",module,Magento_Customer
 "Middle Name/Initial","Patronyme/Initiales",module,Magento_Customer
