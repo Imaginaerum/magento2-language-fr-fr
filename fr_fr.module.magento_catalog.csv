@@ -464,8 +464,8 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Overview","Vue d'ensemble",module,Magento_Catalog
 "Page Layout","Agencement de page",module,Magento_Catalog
 "Page Title","Titre de la page",module,Magento_Catalog
-"Page Title Separator","Séparateur de Titre de page",module,Magento_Catalog
-"Parent Category","Catégorie Parente",module,Magento_Catalog
+"Page Title Separator","Séparateur de titre de page",module,Magento_Catalog
+"Parent Category","Catégorie parente",module,Magento_Catalog
 "Parent Product Thumbnail","Vignette du produit parent",module,Magento_Catalog
 "Percent","Pourcent",module,Magento_Catalog
 "per page","par page",module,Magento_Catalog
