@@ -224,7 +224,7 @@
 "View cart","Voir le Panier",module,Magento_Checkout
 "View Details","Voir les détails",module,Magento_Checkout
 "We adjusted product quantities to fit the required increments.","Nous avons ajusté les quantités de produits pour adapter les incréments nécessaires.",module,Magento_Checkout
-"We are not able to ship to the selected shipping address. Please choose another address or edit the current address.","Impossible de livrer à l'adresse sélectionnée. Veuillez choisir une autre adresse ou éditer l'adresse choisie.",module,Magento_Checkout
+"We are not able to ship to the selected shipping address. Please choose another address or edit the current address.","Impossible de livrer à l'adresse sélectionnée. Veuillez choisir une autre adresse ou modifier l'adresse choisie.",module,Magento_Checkout
 "We cannot add this item to your shopping cart","Impossible d'ajouter cet article dans le panier",module,Magento_Checkout
 "We cannot apply the coupon code.","Nous ne pouvons pas appliquer le code promo.",module,Magento_Checkout
 "We cannot configure the product.","Nous ne pouvons pas configurer le produit.",module,Magento_Checkout
