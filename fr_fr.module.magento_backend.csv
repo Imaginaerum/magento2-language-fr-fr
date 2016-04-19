@@ -45,7 +45,7 @@
 "Allows customers to stay logged in when switching between different stores.","Permet aux clients de rester connectés s'ils naviguent entre les différents magasins.",module,Magento_Backend
 "Allow Symlinks","Autoriser les Liens Symboliques",module,Magento_Backend
 "All Store Views","Toutes les vues magasin",module,Magento_Backend
-"All Websites","Tous les Sites Web",module,Magento_Backend
+"All Websites","Tous les sites Web",module,Magento_Backend
 "Alternative text for next link in pagination menu. If empty, default arrow image will used.","Texte alternatif pour le lien «suivant» dans le menu de pagination. Si vous le laissez vide, c'est la flèche par défaut qui sera utilisée.",module,Magento_Backend
 "Alternative text for previous link in pagination menu. If empty, default arrow image will used.","Texte alternatif pour le lien « précédent » dans le menu de pagination. Si vous le laissez vide, c'est la flèche par défaut qui sera utilisée.",module,Magento_Backend
 "Always (during development)","Toujours (pendant le développement)",module,Magento_Backend
@@ -127,7 +127,7 @@
 "Create Store","Créer un magasin",module,Magento_Backend
 "Create Store View","Créer une vue magasin",module,Magento_Backend
 "Create URL Rewrite:","Créer une réécriture d'URL :",module,Magento_Backend
-"Create Website","Créer un Site Web",module,Magento_Backend
+"Create Website","Créer un site Web",module,Magento_Backend
 "CSS Settings","Paramètres CSS",module,Magento_Backend
 "Currency ""%1"" is used as %2 in %3.","La devise ""%1"" est utilisée comme %2 dans %3.",module,Magento_Backend
 "Current Configuration Scope:","Portée de la configuration courante :",module,Magento_Backend
@@ -170,7 +170,7 @@
 "Delete File","Supprimer le Fichier",module,Magento_Backend
 "Delete Store","Supprimer le magasin",module,Magento_Backend
 "Delete Store View","Supprimer la vue magasin",module,Magento_Backend
-"Delete Web Site","Supprimer le Site Web",module,Magento_Backend
+"Delete Web Site","Supprimer le site Web",module,Magento_Backend
 "Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","Effacer un %1 n'effacera pas les informations associées avec le %1 (par ex. catégories, produits, etc.), mais il ne sera pas possible de restaurer le %1. Nous vous suggérons de créer une sauvegarde de la base de données avant d'effacer le %1.",module,Magento_Backend
 "Description","Description",module,Magento_Backend
 "Design","Design",module,Magento_Backend
@@ -324,7 +324,7 @@
 "New Store","Nouveau magasin",module,Magento_Backend
 "New Store Design Change","Nouveau changement de design",module,Magento_Backend
 "New Store View","Nouvelle vue magasin",module,Magento_Backend
-"New Web Site","Nouveau Site Web",module,Magento_Backend
+"New Web Site","Nouveau site Web",module,Magento_Backend
 "Next","Suivant",module,Magento_Backend
 "Next page","Page suivante",module,Magento_Backend
 "No","Non",module,Magento_Backend
@@ -430,7 +430,7 @@
 "Save Config","Sauvegarder la configuration",module,Magento_Backend
 "Save Store","Sauvegarder le magasin",module,Magento_Backend
 "Save Store View","Sauvegarder la vue magasin",module,Magento_Backend
-"Save Web Site","Sauvegarder le Site Web",module,Magento_Backend
+"Save Web Site","Sauvegarder le site Web",module,Magento_Backend
 "Scope:","Portée :",module,Magento_Backend
 "Search","Rechercher",module,Magento_Backend
 "Search Engine Optimization","Optimisation pour les moteurs de recherche",module,Magento_Backend
@@ -571,7 +571,7 @@
 "Type","Type",module,Magento_Backend
 "Unable to delete store. Please, try again later.","Impossible de supprimer le magasin. Veuillez réessayer ultérieurement.",module,Magento_Backend
 "Unable to delete store view. Please, try again later.","Impossible de supprimer la vue magasin. Veuillez réessayer ultérieurement.",module,Magento_Backend
-"Unable to delete website. Please, try again later.","Impossible de supprimer le Site Web. Veuillez réessayer ultérieurement.",module,Magento_Backend
+"Unable to delete website. Please, try again later.","Impossible de supprimer le site Web. Veuillez réessayer ultérieurement.",module,Magento_Backend
 "Unable to proceed. Please, try again.","Impossible de continuer. Veuillez réessayer ultérieurement.",module,Magento_Backend
 "Unable to proceed. Please, try again","Impossible de continuer. Veuillez réessayer ultérieurement",module,Magento_Backend
 "Unknown block type","Type de bloc inconnu",module,Magento_Backend
@@ -628,7 +628,7 @@
 "Website","Site Web",module,Magento_Backend
 "Web Site","Site Web",module,Magento_Backend
 "[WEBSITE]","[SITE WEB]",module,Magento_Backend
-"Web Site Information","Information Site Web",module,Magento_Backend
+"Web Site Information","Information site Web",module,Magento_Backend
 "We can't create a backup right now. Please try again later.","Nous ne pouvons pas créer une sauvegarde. Veuillez réessayer plus tard.",module,Magento_Backend
 "We can't refresh lifetime statistics.","Nous n'avons pas pu rafraîchir les statistiques depuis le début.",module,Magento_Backend
 "We can't refresh lifetime statistics.","Nous n'avons pas pu rafraîchir les statistiques depuis le début.",module,Magento_Backend

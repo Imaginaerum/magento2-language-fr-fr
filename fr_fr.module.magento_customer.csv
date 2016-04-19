@@ -314,7 +314,7 @@
 "Password you set when creating account","Mot de passe que vous avez défini lors de la création de votre compte",module,Magento_Customer
 "Paused","En Pause",module,Magento_Customer
 "Personal Information","Informations personnelles",module,Magento_Customer
-"Per Website","Par Site Web",module,Magento_Customer
+"Per Website","Par site Web",module,Magento_Customer
 "Phone","Téléphone",module,Magento_Customer
 "Phone Number","Numéro de téléphone",module,Magento_Customer
 "PHP SOAP extension is required.","L'extension SOAP de PHP est requise.",module,Magento_Customer
