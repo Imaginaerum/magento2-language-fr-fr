@@ -20,7 +20,7 @@
 "Product Alerts Run Settings","Paramétrage d'exécution des alertes de produit",module,Magento_ProductAlert
 "Sign up for price alert","Enregistrez-vous pour recevoir une alerte de modification de prix",module,Magento_ProductAlert
 "Sign up to be notified when this product is back in stock.","Inscrivez-vous pour être averti(e) lorsque le produit sera de nouveau en stock.",module,Magento_ProductAlert
-"Start Time","Heure de Début",module,Magento_ProductAlert
+"Start Time","Heure de début",module,Magento_ProductAlert
 "Stock Alert Email Template","Gabarit de l'email d'alerte de disponibilité",module,Magento_ProductAlert
 "The product was not found.","Le produit n'a pas été trouvé.",module,Magento_ProductAlert
 "There are not enough parameters.","Il manque des paramètres.",module,Magento_ProductAlert

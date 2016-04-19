@@ -21,7 +21,7 @@
 "12h AM/PM","12h AM/PM",module,Magento_Catalog
 "24h","24h",module,Magento_Catalog
 "123","123",module,Magento_Catalog
-"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 par Défaut, si non renseigné. Pour actualiser, purgez le cache de sortie des blocs HTML.",module,Magento_Catalog
+"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 par défaut, si non renseigné. Pour actualiser, purgez le cache de sortie des blocs HTML.",module,Magento_Catalog
 "A category object is required for determining the product request path.","Un objet catégorie est obligatoire pour déterminer le chemin de requête du produit.",module,Magento_Catalog
 "Action","Action",module,Magento_Catalog
 "Actions","Actions",module,Magento_Catalog
@@ -41,7 +41,7 @@
 "Add New Images","Nouvelles images",module,Magento_Catalog
 "Add New Option","Ajouter une option",module,Magento_Catalog
 "Add New Row","Ajouter une ligne",module,Magento_Catalog
-"Add New Search Term","Ajouter un Terme de Recherche",module,Magento_Catalog
+"Add New Search Term","Ajouter un Terme de recherche",module,Magento_Catalog
 "Add New Set","Ajouter un jeu",module,Magento_Catalog
 "Add Option","Ajouter une option",module,Magento_Catalog
 "Add Price","Ajouter un prix",module,Magento_Catalog
@@ -73,7 +73,7 @@
 "All products","Tous les produits",module,Magento_Catalog
 "All products - recently added products, New products - products marked as new","Tous les produits - produits ajoutés récemment, nouveaux produits - produits marqués comme nouveau",module,Magento_Catalog
 "All Store Views","Toutes les vues magasin",module,Magento_Catalog
-"All Websites","Tous les sites Web",module,Magento_Catalog
+"All Websites","Tous les sites web",module,Magento_Catalog
 "Alt Text","Texte Alternatif",module,Magento_Catalog
 "AM","AM",module,Magento_Catalog
 "A name is required.","Un nom est requis.",module,Magento_Catalog
@@ -145,7 +145,7 @@
 "Catalog New Products List","Liste des nouveaux produits du catalogue",module,Magento_Catalog
 "Catalog Price Scope","Portée des prix catalogue",module,Magento_Catalog
 "Catalog Product Link","Lien produit catalogue",module,Magento_Catalog
-"Catalog, Search","Catalogue, Recherche",module,Magento_Catalog
+"Catalog, Search","Catalogue, recherche",module,Magento_Catalog
 "Categories","Catégories",module,Magento_Catalog
 "Category","Catégorie",module,Magento_Catalog
 "Category Data","Données de catégorie",module,Magento_Catalog
@@ -199,7 +199,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Could not save category: %1","Impossible de sauvegarder la catégorie : %1",module,Magento_Catalog
 "Could not save group price","Impossible de sauvegarder ce prix de groupe",module,Magento_Catalog
 "Could not save product ""%1"" with position %2 to category %3","Impossible de sauvegarder le  produit ""%1"" avec la position %2 dans la catégorie %3",module,Magento_Catalog
-"Could not save product ""%1"" with websites %2","Impossible de sauvegarder le produit ""%1"" avec les sites Web %2",module,Magento_Catalog
+"Could not save product ""%1"" with websites %2","Impossible de sauvegarder le produit ""%1"" avec les sites web %2",module,Magento_Catalog
 "Could not save product option","Impossible de sauvegarder l'option de produit",module,Magento_Catalog
 "Could not save product ""%product"" with position %position to category %category","Impossible de sauvegarder le produit "" %produit"" avec la position %position désirée dans la catégorie %category",module,Magento_Catalog
 "Country of Manufacture","Pays de fabrication",module,Magento_Catalog
@@ -237,7 +237,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Delete image","Effacer l'Image",module,Magento_Catalog
 "Delete items","Supprimer les éléments",module,Magento_Catalog
 "Delete Row","Supprimer la ligne",module,Magento_Catalog
-"Delete Search","Supprimer la Recherche",module,Magento_Catalog
+"Delete Search","Supprimer la recherche",module,Magento_Catalog
 "Delete Selected Group","Supprimer le groupe sélectionné",module,Magento_Catalog
 "Delete selected items?","Supprimer les éléments sélectionnés ?",module,Magento_Catalog
 "Delete Tier","Effacer le palier",module,Magento_Catalog
@@ -257,7 +257,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Do not change the scope. ","Ne pas modifier la portée. ",module,Magento_Catalog
 "Double click on a group to rename it.","Double-cliquez sur un groupe pour le renommer.",module,Magento_Catalog
 "Double click on a group to rename it","Double-cliquez sur un groupe pour le renommer",module,Magento_Catalog
-"Dropdown","Liste Déroulante",module,Magento_Catalog
+"Dropdown","Liste déroulante",module,Magento_Catalog
 "each","pièce",module,Magento_Catalog
 "Edit","Modifier",module,Magento_Catalog
 "Edit Attribute Set '%1'","Modifier le jeu d'attributs '%1'",module,Magento_Catalog
@@ -280,7 +280,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Enter Name for New Attribute Set","Entrez un nom pour le nouveau jeu d'attibuts",module,Magento_Catalog
 "Excl. Tax:","HT :",module,Magento_Catalog
 "ex. http://domain.com","Par ex : http://domaine.com",module,Magento_Catalog
-"Expand All","Tout Développer",module,Magento_Catalog
+"Expand All","Tout développer",module,Magento_Catalog
 "Failed to save new media gallery entry.","Échec de l'enregistrement de  la galerie.",module,Magento_Catalog
 "Field ""%1"" was not found in DO ""%2"".","Champ ""%1"" introuvable dans DO ""%2"".",module,Magento_Catalog
 "Field is not complete","Champ non complet",module,Magento_Catalog
@@ -304,7 +304,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Globally Editable","Éditable globalement",module,Magento_Catalog
 "Go to Home Page","Aller à la page d'accueil",module,Magento_Catalog
 "Grid","Grille",module,Magento_Catalog
-"Grid (default) / List","Grille (par Défaut) / Liste",module,Magento_Catalog
+"Grid (default) / List","Grille (par défaut) / Liste",module,Magento_Catalog
 "Grid Only","Grille uniquement",module,Magento_Catalog
 "Group price must be a number greater than 0.","Le prix de groupe doit être un nombre supérieur à 0.",module,Magento_Catalog
 "Groups","Groupes",module,Magento_Catalog
@@ -511,7 +511,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Product Details","Détails du produit",module,Magento_Catalog
 "Product EAV","Produit EAV",module,Magento_Catalog
 "productFactory is already set","productFactory est déjà défini",module,Magento_Catalog
-"Product Fields Auto-Generation","Produit avec Auto-génération de champs",module,Magento_Catalog
+"Product Fields Auto-Generation","Produit avec auto-génération de champs",module,Magento_Catalog
 "Product Flat Data","Données fixes de produit",module,Magento_Catalog
 "Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3","Le produit n'a pas de prix de groupe avec ces données : customerGroupId = '%1', site = %2, quantité = %3",module,Magento_Catalog
 "Product Image Placeholders","Emplacements de l'image par défaut des produits",module,Magento_Catalog
@@ -549,7 +549,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Qty Increments","Incréments de quantités",module,Magento_Catalog
 "Qty Uses Decimals","La quantité utilise des décimales",module,Magento_Catalog
 "Quantity","Quantité",module,Magento_Catalog
-"Redirect URL","URL de Redirection",module,Magento_Catalog
+"Redirect URL","URL de redirection",module,Magento_Catalog
 "Regular Price:","Prix normal :",module,Magento_Catalog
 "Regular Price","Prix normal",module,Magento_Catalog
 "Related Products","Produits apparentés",module,Magento_Catalog
@@ -791,7 +791,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "View as","Afficher en",module,Magento_Catalog
 "Visibility","Visibilité",module,Magento_Catalog
 "Visible","Visible",module,Magento_Catalog
-"Visible in Advanced Search","Visible dans la Recherche avancée",module,Magento_Catalog
+"Visible in Advanced Search","Visible dans la recherche avancée",module,Magento_Catalog
 "Visible on Catalog Pages on Frontend","Visible sur les pages catalogue du frontend",module,Magento_Catalog
 "Visible on Catalog Pages on Storefront","Visible sur les pages du catalogue magasin",module,Magento_Catalog
 "<strong style=""color:red"">Warning!</strong> Applying MAP by default will hide all product prices on the front end.","<strong style=""color:red"">Attention !</strong> Appliquer MAP par défaut masquera tous les prix produits sur le frontend.",module,Magento_Catalog
@@ -801,10 +801,10 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Watermark File for %1","Fichier de filigrane pour %1",module,Magento_Catalog
 "Watermark Opacity, Percent","Pourcentage d'opacité du filigrane",module,Magento_Catalog
 "Watermark Position","Positionnement du filigrane",module,Magento_Catalog
-"Website","Site Web",module,Magento_Catalog
-"Web Site","Site Web",module,Magento_Catalog
+"Website","Site web",module,Magento_Catalog
+"Web Site","Site web",module,Magento_Catalog
 "[WEBSITE]","[SITE WEB]",module,Magento_Catalog
-"Websites","Sites Web",module,Magento_Catalog
+"Websites","Sites web",module,Magento_Catalog
 "We can't add the product to the cart because of an option validation issue.","Nous ne pouvons pas ajouter le produit au panier en raison d'un problème de validation de l'option.",module,Magento_Catalog
 "We can't create writeable directory ""%1"".","Impossible de créer un répertoire accessible en écriture ""%1"".",module,Magento_Catalog
 "We can't create writeable directory ""%1"".","Impossible de créer un répertoire accessible en écriture ""%1"".",module,Magento_Catalog

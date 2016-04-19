@@ -29,7 +29,7 @@
 "Global Express Guaranteed Document","Global Express Guaranteed Document",module,Magento_Usps
 "Global Express Guaranteed (GXG)","Global Express Guaranteed (GXG)",module,Magento_Usps
 "Global Express Guaranteed Non-Document Non-Rectangular","Global Express Guaranteed non-Document non-Rectangular",module,Magento_Usps
-"Global Express Guaranteed Non-Document Rectangular","Global Express Guaranteed non-Document Rectangular",module,Magento_Usps
+"Global Express Guaranteed Non-Document Rectangular","Global Express Guaranteed non-Document rectangular",module,Magento_Usps
 "Handling Applied","Frais de dossier appliqués",module,Magento_Usps
 "Handling Fee","Frais de dossier",module,Magento_Usps
 "Height","Hauteur",module,Magento_Usps
@@ -93,12 +93,12 @@
 "Priority Mail Medium Flat Rate Box Hold For Pickup","Priority Mail Medium Flat Rate Box Hold For Pickup",module,Magento_Usps
 "Priority Mail Padded Flat Rate Envelope","Priority Mail Padded Flat Rate Envelope",module,Magento_Usps
 "Priority Mail Padded Flat Rate Envelope Hold For Pickup","Priority Mail Padded Flat Rate Envelope Hold For Pickup",module,Magento_Usps
-"Priority Mail Regional Rate Box A","Priority Mail Regional Rate Box A",module,Magento_Usps
-"Priority Mail Regional Rate Box A Hold For Pickup","Priority Mail Regional Rate Box A Hold For Pickup",module,Magento_Usps
-"Priority Mail Regional Rate Box B","Priority Mail Regional Rate Box B",module,Magento_Usps
-"Priority Mail Regional Rate Box B Hold For Pickup","Priority Mail Regional Rate Box B Hold For Pickup",module,Magento_Usps
-"Priority Mail Regional Rate Box C","Priority Mail Regional Rate Box C",module,Magento_Usps
-"Priority Mail Regional Rate Box C Hold For Pickup","Priority Mail Regional Rate Box C Hold For Pickup",module,Magento_Usps
+"Priority Mail Regional Rate Box A","Priority Mail regional Rate Box A",module,Magento_Usps
+"Priority Mail Regional Rate Box A Hold For Pickup","Priority Mail regional Rate Box A Hold For Pickup",module,Magento_Usps
+"Priority Mail Regional Rate Box B","Priority Mail regional Rate Box B",module,Magento_Usps
+"Priority Mail Regional Rate Box B Hold For Pickup","Priority Mail regional Rate Box B Hold For Pickup",module,Magento_Usps
+"Priority Mail Regional Rate Box C","Priority Mail regional Rate Box C",module,Magento_Usps
+"Priority Mail Regional Rate Box C Hold For Pickup","Priority Mail regional Rate Box C Hold For Pickup",module,Magento_Usps
 "Priority Mail Small Flat Rate Box","Priority Mail Small Flat Rate Box",module,Magento_Usps
 "Priority Mail Small Flat Rate Box Hold For Pickup","Priority Mail Small Flat Rate Box Hold For Pickup",module,Magento_Usps
 "Priority Mail Small Flat Rate Envelope","Priority Mail Small Flat Rate Envelope",module,Magento_Usps

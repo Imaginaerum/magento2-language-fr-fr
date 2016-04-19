@@ -10,7 +10,7 @@
 "Authorize and Capture","Autoriser et collecter",module,Magento_Authorizenet
 "authorize and capture","autoriser et collecter",module,Magento_Authorizenet
 "Authorize.net","Authorize.net",module,Magento_Authorizenet
-"Authorize.net Direct Post","Soumission Directe Authorize.net",module,Magento_Authorizenet
+"Authorize.net Direct Post","Soumission directe authorize.net",module,Magento_Authorizenet
 "Authorize.Net Transaction ID %1.","Authorize.Net transaction ID %1.",module,Magento_Authorizenet
 "Authorize.Net Transaction ID %1","Authorize.Net transaction ID %1",module,Magento_Authorizenet
 "Authorize Only","Autorisation Seulement",module,Magento_Authorizenet
@@ -39,7 +39,7 @@
 "FDS Filter Action","Filtre d'action FDS",module,Magento_Authorizenet
 "Fraud Detection ","Détection de fraude ",module,Magento_Authorizenet
 "Fraud Filters","Filtres anti-fraude",module,Magento_Authorizenet
-"Gateway actions are locked because the gateway cannot complete ' 'one or more of the transactions. ' 'Please log in to your Authorize.Net account to manually resolve the issue(s).","Les actions ont été verrouillées car elles n'ont pu être terminées. Veuillez vous connecter à votre compte Authorize.Net pour les corriger manuellement.",module,Magento_Authorizenet
+"Gateway actions are locked because the gateway cannot complete ' 'one or more of the transactions. ' 'Please log in to your Authorize.Net account to manually resolve the issue(s).","Les actions ont été verrouillées car elles n'ont pu être terminées. Veuillez vous connecter à votre compte authorize.Net pour les corriger manuellement.",module,Magento_Authorizenet
 "Gateway error: %1","Erreur Passerelle: %1",module,Magento_Authorizenet
 "Gateway URL","URL de la passerelle",module,Magento_Authorizenet
 "If you leave this empty, we'll use a default value. The custom URL may be provided by CardinalCommerce agreement.","Si vous laissez vide, la valeur par défaut sera utilisée. L'URL pourra être fournie par CardinalCommerce.",module,Magento_Authorizenet
@@ -53,7 +53,7 @@
 "New Order Status","Statut de la nouvelle commande",module,Magento_Authorizenet
 "No confirmation","Aucune confirmation",module,Magento_Authorizenet
 "Order saving error: %1","Erreur lors de la sauvegarde de la commande : %1",module,Magento_Authorizenet
-"Parent Authorize.Net transaction (ID %1) expired","Transaction parente Authorize.Net (ID %1) expirée",module,Magento_Authorizenet
+"Parent Authorize.Net transaction (ID %1) expired","Transaction parente authorize.Net (ID %1) expirée",module,Magento_Authorizenet
 "Payment Action","Action de Paiement",module,Magento_Authorizenet
 "Payment capturing error.","Erreur de collecte de paiement.",module,Magento_Authorizenet
 "Payment from Applicable Countries","Mode de paiement autorisé pour les pays applicables",module,Magento_Authorizenet

@@ -100,7 +100,7 @@
 "Please use only letters (a-z or A-Z) or numbers (0-9) only in this field. No spaces or other characters are allowed.","Veuillez utiliser uniquement des lettres (a-z) ou des chiffres (0-9) dans ce champ. Les espaces et autres caractères ne sont pas autorisés.",module,Magento_Translation
 "Please use only letters (a-z or A-Z) or numbers (0-9) or spaces and # only in this field.","Veuillez utiliser uniquement des lettres (a-z), des chiffres (0-9), des espaces ou des dièses (#) dans ce champ.",module,Magento_Translation
 "Please use only visible characters and spaces.","Veuillez utiliser uniquement des caractères visibles et des espaces.",module,Magento_Translation
-"Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.","Veuillez utiliser ce format de date : jj/mm/aaaa. Par exemple, 21/12/2012 pour le 21 Décembre 2012.",module,Magento_Translation
+"Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.","Veuillez utiliser ce format de date : jj/mm/aaaa. Par exemple, 21/12/2012 pour le 21 décembre 2012.",module,Magento_Translation
 "Please wait...","Veuillez patienter...",module,Magento_Translation
 "Please wait, loading...","Veuillez patienter, chargement en cours...",module,Magento_Translation
 "Reauthorize","Autoriser à nouveau",module,Magento_Translation

@@ -6,10 +6,10 @@
 "2YTD","Depuis le début de l'année dernière",module,Magento_Backend
 "<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading"">Erreur 404</h1><p>Page introuvable.</p>",module,Magento_Backend
 "About the calendar","À propos du calendrier",module,Magento_Backend
-"Access denied","Accès Refusé",module,Magento_Backend
-"Access Denied","Accès Refusé",module,Magento_Backend
-"Access Denied.","Accès Refusé.",module,Magento_Backend
-"Access denied.","Accès Refusé.",module,Magento_Backend
+"Access denied","Accès refusé",module,Magento_Backend
+"Access Denied","Accès refusé",module,Magento_Backend
+"Access Denied.","Accès refusé.",module,Magento_Backend
+"Access denied.","Accès refusé.",module,Magento_Backend
 "Account Information","Informations du compte",module,Magento_Backend
 "Account Setting","Paramètres du compte",module,Magento_Backend
 "Action","Action",module,Magento_Backend
@@ -45,7 +45,7 @@
 "Allows customers to stay logged in when switching between different stores.","Permet aux clients de rester connectés s'ils naviguent entre les différents magasins.",module,Magento_Backend
 "Allow Symlinks","Autoriser les liens symboliques",module,Magento_Backend
 "All Store Views","Toutes les vues magasin",module,Magento_Backend
-"All Websites","Tous les sites Web",module,Magento_Backend
+"All Websites","Tous les sites web",module,Magento_Backend
 "Alternative text for next link in pagination menu. If empty, default arrow image will used.","Texte alternatif pour le lien «suivant» dans le menu de pagination. Si vous le laissez vide, c'est la flèche par défaut qui sera utilisée.",module,Magento_Backend
 "Alternative text for previous link in pagination menu. If empty, default arrow image will used.","Texte alternatif pour le lien « précédent » dans le menu de pagination. Si vous le laissez vide, c'est la flèche par défaut qui sera utilisée.",module,Magento_Backend
 "Always (during development)","Toujours (pendant le développement)",module,Magento_Backend
@@ -156,12 +156,12 @@
 "Default Cookie Settings","Paramètres par défaut des cookies",module,Magento_Backend
 "Default Country","Pays par défaut",module,Magento_Backend
 "Default display currency ""%1"" is not available in allowed currencies.","La devise affichée par défaut ""%1"" n'est pas disponible dans les devises autorisées.",module,Magento_Backend
-"Default No-route URL","URL par Défaut de la page pour une ressource non trouvée",module,Magento_Backend
+"Default No-route URL","URL par défaut de la page pour une ressource non trouvée",module,Magento_Backend
 "Default Pages","Pages par défaut",module,Magento_Backend
 "Default scope","Portée par défaut",module,Magento_Backend
 "Default Store","Magasin par défaut",module,Magento_Backend
 "Default Store View","Vue magasin par défaut",module,Magento_Backend
-"Default Web URL","URL Web par défaut",module,Magento_Backend
+"Default Web URL","URL web par défaut",module,Magento_Backend
 "Delete %1","Supprimer %1",module,Magento_Backend
 "Delete %1 '%2'","Supprimer %1 '%2'",module,Magento_Backend
 "Delete","Supprimer",module,Magento_Backend
@@ -177,7 +177,7 @@
 "Design Change","Changement de Design",module,Magento_Backend
 "Design Theme","Thème de design",module,Magento_Backend
 "Developer","Développeur",module,Magento_Backend
-"Developer Client Restrictions","Restrictions Client Développeur",module,Magento_Backend
+"Developer Client Restrictions","Restrictions Client développeur",module,Magento_Backend
 "Disable","Désactiver",module,Magento_Backend
 "Disabled","Désactivé",module,Magento_Backend
 "Disable Email Communications","Désactiver les envois d'email",module,Magento_Backend
@@ -279,7 +279,7 @@
 "Last 24 Hours","Dernières 24 heures",module,Magento_Backend
 "Last Name","Nom",module,Magento_Backend
 "Last Orders","Dernières commandes",module,Magento_Backend
-"Last Search Terms","Derniers Termes Recherchés",module,Magento_Backend
+"Last Search Terms","Derniers Termes recherchés",module,Magento_Backend
 "Leave empty for access from any location.","Laissez vide si vous souhaitez y accéder depuis n'importe où.",module,Magento_Backend
 "Lifetime Sales","Ventes depuis le début",module,Magento_Backend
 "Loading...","Chargement en cours...",module,Magento_Backend
@@ -332,7 +332,7 @@
 "No Data Found","Aucune donnée trouvée",module,Magento_Backend
 "No records found.","Aucun élément trouvé.",module,Magento_Backend
 "No search modules were registered","Aucun module de recherche n'a été sauvegardé",module,Magento_Backend
-"-- No Theme --","-- Aucun thème --",module,Magento_Backend
+"-- No Theme --","-- aucun thème --",module,Magento_Backend
 "of %1","sur %1",module,Magento_Backend
 "Offloader header","En-tête de transcodeur",module,Magento_Backend
 "Only Once (version upgrade)","Une fois seulement (mise à jour de version)",module,Magento_Backend
@@ -434,8 +434,8 @@
 "Scope:","Portée :",module,Magento_Backend
 "Search","Rechercher",module,Magento_Backend
 "Search Engine Optimization","Optimisation pour les moteurs de recherche",module,Magento_Backend
-"Search Index","Index de Recherche",module,Magento_Backend
-"Search String","Chaîne de Recherche",module,Magento_Backend
+"Search Index","Index de recherche",module,Magento_Backend
+"Search String","Chaîne de recherche",module,Magento_Backend
 "Search strings are either normal strings or regular exceptions (PCRE). They are matched in the same order as entered. Examples:<br /><span style=""font-family:monospace"">Firefox<br />/^mozilla/i</span>","Les recherches sont des chaines de caractères ou des expressions régulières (PCRE). Elles correspondent à leur ordre de saisie. Exemples : <br><span style=""font-family:monospace"">Firefox<br>/^mozilla/i</span>",module,Magento_Backend
 "Search Term","Terme de recherche",module,Magento_Backend
 "Secure Base Link URL","URL de base sécurisée",module,Magento_Backend
@@ -453,7 +453,7 @@
 "Select Visible","Sélectionner les éléments visibles",module,Magento_Backend
 "Sender Email","Email de l'expéditeur",module,Magento_Backend
 "Sender Name","Nom de l'expéditeur",module,Magento_Backend
-"SEO & Search","SEO & Recherche",module,Magento_Backend
+"SEO & Search","SEO & recherche",module,Magento_Backend
 "Separate Email","Email Séparé",module,Magento_Backend
 "Services","Services",module,Magento_Backend
 "Service unavailable: %1","Service inaccessible : %1",module,Magento_Backend
@@ -623,10 +623,10 @@
 "Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.","Attention ! L'activation de cette fonctionnalité n'est pas recommandée dans un environnement de production car elle présente un risque de sécurité potentiel.",module,Magento_Backend
 "<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).","<strong style=""color:red"">Attention !</strong> Quand vous utilisez le code magasin dans les URLs, il est possible dans certains cas que le système ne fonctionne pas correctement si vous utilisez des services tiers dans lesquels vous avez spécifié des URLs sans le code magasin (ex. PayPal etc.).",module,Magento_Backend
 "Web","Web",module,Magento_Backend
-"Web Setup Wizard","Assistant Configuration Web",module,Magento_Backend
+"Web Setup Wizard","Assistant Configuration web",module,Magento_Backend
 "website(%1) scope","portée du site web (%1)",module,Magento_Backend
-"Website","Site Web",module,Magento_Backend
-"Web Site","Site Web",module,Magento_Backend
+"Website","Site web",module,Magento_Backend
+"Web Site","Site web",module,Magento_Backend
 "[WEBSITE]","[SITE WEB]",module,Magento_Backend
 "Web Site Information","Information site web",module,Magento_Backend
 "We can't create a backup right now. Please try again later.","Nous ne pouvons pas créer une sauvegarde. Veuillez réessayer plus tard.",module,Magento_Backend
@@ -640,7 +640,7 @@
 "We couldn't find any records.","Aucun enregistrement trouvé.",module,Magento_Backend
 "We couldn't find any records.","Aucun enregistrement trouvé.",module,Magento_Backend
 "We don't recognize or support this file extension type.","Le type de fichier n'est pas reconnu ou n'est pas autorisé.",module,Magento_Backend
-"Weekend Days","Jours de Weekend",module,Magento_Backend
+"Weekend Days","Jours de weekend",module,Magento_Backend
 "Welcome","Bienvenue",module,Magento_Backend
 "Welcome, please sign in","Bienvenue ! Veuillez vous connecter",module,Magento_Backend
 "We updated lifetime statistic.","Nous avons mis à jour les statistiques depuis le début.",module,Magento_Backend

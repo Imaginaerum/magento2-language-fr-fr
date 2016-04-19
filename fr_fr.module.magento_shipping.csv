@@ -171,7 +171,7 @@
 "Use origin weight (few requests)","Utiliser le poids d'origine (peu de requêtes)",module,Magento_Shipping
 "USPS domestic shipments don't use package types.","Les expéditions USPS domestic n'utilisent pas ce type de colis.",module,Magento_Shipping
 "USPS domestic shipments don't use package types.","Les expéditions USPS domestic n'utilisent pas ce type de colis.",module,Magento_Shipping
-"View Another Order","Voir une Autre commande",module,Magento_Shipping
+"View Another Order","Voir une autre commande",module,Magento_Shipping
 "We can't delete tracking number.","Impossible de supprimer le numéro de suivi.",module,Magento_Shipping
 "We can't initialize shipment for adding tracking number.","Impossible d'initialiser l'expédition pour l'ajout d'un numéro de suivi.",module,Magento_Shipping
 "We can't initialize shipment for delete tracking number.","Impossible d'initialiser l'expédition pour supprimer le numéro de suivi.",module,Magento_Shipping

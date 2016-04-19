@@ -513,7 +513,7 @@
 "This email will be sent instead of the Default Welcome Email, after account confirmation.","Cet email sera envoyé à la place de l'email de bienvenue, après la confirmation de création du compte.",module,Magento_Customer
 "This email will be sent instead of the Default Welcome Email, after account confirmation. <br /><br />
                         Email template chosen based on theme fallback when ""Default"" option is selected.","Cet email est envoyé à la place de l'email de bienvenue par défaut après confirmation du compte. <br><br>
-                        Le gabarit d'email choisi est basé sur le fallback du thème quand l'option ""Par Défaut"" est choisie.",module,Magento_Customer
+                        Le gabarit d'email choisi est basé sur le fallback du thème quand l'option ""Par défaut"" est choisie.",module,Magento_Customer
 "This email will be sent instead of the Default Welcome Email, if a customer was created without password.","Cet email est envoyé à la place de l'email par défaut de bienvenue si un client a créé un compte sans mot de passe.",module,Magento_Customer
 "This email will be sent instead of the Default Welcome Email, if a customer was created without password. <br /><br />
                         Email template chosen based on theme fallback when ""Default"" option is selected.","Cet email est envoyé à la place de l'email par défaut de bienvenue si un client a créé un compte sans mot de passe.<br><br>Le gabarit d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée.",module,Magento_Customer
@@ -558,7 +558,7 @@
 "View past orders","Voir vos précédentes commandes",module,Magento_Customer
 "Visitor","Visiteur",module,Magento_Customer
 "Visitors Only","Visiteurs seulement",module,Magento_Customer
-"Web Site","Site Web",module,Magento_Customer
+"Web Site","Site web",module,Magento_Customer
 "We can't delete the address right now.","Impossible de supprimer l'adresse.",module,Magento_Customer
 "We can't find a customer to revoke.","Impossible de trouver un client à révoquer.",module,Magento_Customer
 "We can't save the address.","Nous ne pouvons pas sauvegarder l'adresse.",module,Magento_Customer

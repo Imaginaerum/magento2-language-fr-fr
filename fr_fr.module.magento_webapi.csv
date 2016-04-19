@@ -15,11 +15,11 @@
 "Incorrect format of WSDL request URI or Requested services are missing.","Format WSDL incorrect, URI ou service manquants.",module,Magento_Webapi
 "Integrations API Configuration","Configuration API Intégrations",module,Magento_Webapi
 "Integrations API configuration file.","Intégrations API du fichier de configuration.",module,Magento_Webapi
-"Internal Error. Details are available in Magento log file. Report ID: %1","Erreur interne. détails disponibles dans les fichiers log Magento. ID rapport: %1",module,Magento_Webapi
+"Internal Error. Details are available in Magento log file. Report ID: %1","Erreur interne. Détails disponibles dans les fichiers log Magento. ID rapport: %1",module,Magento_Webapi
 "Invalid XML","XML invalide",module,Magento_Webapi
-"Invalid XML: Detected use of illegal DOCTYPE","XML invalide : Détection d'une utilisation illégale de DOCTYPE",module,Magento_Webapi
+"Invalid XML: Detected use of illegal DOCTYPE","XML invalide : détection d'une utilisation illégale de DOCTYPE",module,Magento_Webapi
 "Magento is not yet installed","Magento n'est pas installé",module,Magento_Webapi
-"Magento Web API","API Web Magento",module,Magento_Webapi
+"Magento Web API","API web Magento",module,Magento_Webapi
 "Message","Message",module,Magento_Webapi
 "message","message",module,Magento_Webapi
 "No permissions requested","Aucune autorisation demandée",module,Magento_Webapi
@@ -37,4 +37,4 @@
 "SOAP extension is not loaded.","L'extension SOAP n'est pas chargée.",module,Magento_Webapi
 "SOAP Settings","Paramètres SOAP",module,Magento_Webapi
 "UTF-8 is the only supported charset.","Seul UTF-8 est supporté.",module,Magento_Webapi
-"Web Services Configuration","Configuration des Web Services",module,Magento_Webapi
+"Web Services Configuration","Configuration des web Services",module,Magento_Webapi

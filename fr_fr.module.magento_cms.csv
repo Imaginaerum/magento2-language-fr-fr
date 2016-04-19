@@ -31,7 +31,7 @@
 "CMS Page Link Inline Template","Gabarit du bloc lien en ligne CMS",module,Magento_Cms
 "CMS Page with id ""%1"" does not exist.","La page CMS id ""%1"" n'existe pas.",module,Magento_Cms
 "CMS Static Block","Bloc CMS statique",module,Magento_Cms
-"CMS Static Block Default Template","Gabarit par Défaut du bloc statique CMS",module,Magento_Cms
+"CMS Static Block Default Template","Gabarit par défaut du bloc statique CMS",module,Magento_Cms
 "Collapse All","Tout Réduire",module,Magento_Cms
 "Content","Contenu",module,Magento_Cms
 "Content Heading","En-tête de contenu",module,Magento_Cms
@@ -75,7 +75,7 @@
 "Enabled by Default","Activé par défaut",module,Magento_Cms
 "Enable WYSIWYG Editor","Activer l'éditeur WYSIWYG",module,Magento_Cms
 "Exception","exception",module,Magento_Cms
-"Expand All","Tout Développer",module,Magento_Cms
+"Expand All","Tout développer",module,Magento_Cms
 "General Information","Informations Générales",module,Magento_Cms
 "Go to Home Page","Aller à la page d'accueil",module,Magento_Cms
 "Home","Accueil",module,Magento_Cms

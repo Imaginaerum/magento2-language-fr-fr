@@ -73,9 +73,9 @@
 "Basic Settings - PayPal Payments Pro","Réglages de base - PayPal Payments Pro",module,Magento_Paypal
 "Basic Settings - PayPal Payments Pro Hosted Solution","Réglages de base - Paiements PayPal Pro Solution Hébergé",module,Magento_Paypal
 "Basic Settings - PayPal Payments Standard","Réglages de base - PayPal Payments Standard",module,Magento_Paypal
-"Basic Settings - PayPal Website Payments Pro","Réglages de base - PayPal Website Payments Pro",module,Magento_Paypal
-"Basic Settings - PayPal Website Payments Pro Hosted Solution","Réglages de base - PayPal Website Payments Pro Solution Hébergé",module,Magento_Paypal
-"Basic Settings - PayPal Website Payments Standard","Réglages de base - PayPal Website Payments Standard",module,Magento_Paypal
+"Basic Settings - PayPal Website Payments Pro","Réglages de base - PayPal website Payments Pro",module,Magento_Paypal
+"Basic Settings - PayPal Website Payments Pro Hosted Solution","Réglages de base - PayPal website Payments Pro Solution Hébergé",module,Magento_Paypal
+"Basic Settings - PayPal Website Payments Standard","Réglages de base - PayPal website Payments Standard",module,Magento_Paypal
 "Billing Agreement # %1","Entente de facturation # %1",module,Magento_Paypal
 "Billing Agreement #%1","Entente de facturation # %1",module,Magento_Paypal
 "Billing Agreement","Entente de facturation",module,Magento_Paypal
@@ -190,7 +190,7 @@
 "Express Checkout has been canceled.","Le paiement Express Checkout a été annulé.",module,Magento_Paypal
 "Fee Amount","Montant des Frais",module,Magento_Paypal
 "Fee Debit or Credit","Frais de débit ou de crédit",module,Magento_Paypal
-"Fee: Foreign ACH Withdrawal","Frais: Retrait ACH étrangères",module,Magento_Paypal
+"Fee: Foreign ACH Withdrawal","Frais: retrait ACH étrangères",module,Magento_Paypal
 "Fee: Mass Pay Request","Frais : demande de paiement en masse",module,Magento_Paypal
 "Fee Reversal","Frais d'inversion",module,Magento_Paypal
 "Fee: Web Site Payments Pro Account Monthly","Frais : Paiements du site web de compte mensuel pro",module,Magento_Paypal
@@ -222,7 +222,7 @@
 "General: Use of PayPal account for purchasing as well as receiving payments","Compte général : utilisation de PayPal pour l'achat ainsi que la réception des paiements",module,Magento_Paypal
 "General Withdrawal from PayPal Account","Retrait général de compte PayPal",module,Magento_Paypal
 "General: Withdrawal from PayPal Account","Retrait général de compte PayPal",module,Magento_Paypal
-"General: Withdrawal to Non-Bank Entity","Général : Retrait à l'entité non-bancaire",module,Magento_Paypal
+"General: Withdrawal to Non-Bank Entity","Général : retrait à l'entité non-bancaire",module,Magento_Paypal
 "Get Credentials from PayPal","Obtenez les informations d'accès de PayPal",module,Magento_Paypal
 "Get Publisher ID from PayPal","Obtenez l'ID Editeur de PayPal",module,Magento_Paypal
 "Gift Certificate Payment: purchase of Gift Certificate","Paiement par chèque cadeau : achat de chèque cadeau",module,Magento_Paypal
@@ -370,7 +370,7 @@
 "PayPal can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.","PayPal ne peut traiter les commandes avec un solde nul. Pour terminer votre achat, veuillez passer par le processus de commande standard.",module,Magento_Paypal
 "PayPal can't process orders with a zero balance due. ' 'To finish your purchase, please go through the standard checkout process.","PayPal ne peut traiter les commandes avec un solde nul. Pour terminer votre achat, veuillez passer par le processus de commande standard.",module,Magento_Paypal
 "PayPal Debit Card Cash Advance","PayPal avance de trésorerie de débit par carte",module,Magento_Paypal
-"PayPal Debit Card Withdrawal from ATM","PayPal par carte de débit Retrait ATM",module,Magento_Paypal
+"PayPal Debit Card Withdrawal from ATM","PayPal par carte de débit retrait ATM",module,Magento_Paypal
 "PayPal Express Checkout","PayPal Express Checkout",module,Magento_Paypal
 "PayPal Express Checkout is not enabled.","PayPal Express Checkout non activé.",module,Magento_Paypal
 "PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
@@ -510,7 +510,7 @@
 "The billing agreement ""%1"" has been created.","L'entente de facturation ""%1"" a été créée.",module,Magento_Paypal
 "The Billing Agreement status is not set.","Le statut de l'entente de facturation n'est pas défini.",module,Magento_Paypal
 "The customer ID is not set.","L'ID du Client n'est pas défini.",module,Magento_Paypal
-"The default number of child authorizations in your PayPal account is 1. To do multiple authorizations please contact PayPal to request an increase.","Le nombre par Défaut d'autorisations enfants dans votre compte PayPal est de 1. Veuillez contacter PayPal pour demander une augmentation.",module,Magento_Paypal
+"The default number of child authorizations in your PayPal account is 1. To do multiple authorizations please contact PayPal to request an increase.","Le nombre par défaut d'autorisations enfants dans votre compte PayPal est de 1. Veuillez contacter PayPal pour demander une augmentation.",module,Magento_Paypal
 "The following error(s) occured:","Erreur(s) suivante(s):",module,Magento_Paypal
 "The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged.","Image en haut à gauche sur la page de paiement. La taille maximale est de 750x90px. Le protocole <strong style=""color:red"">https</strong> est recommandé.",module,Magento_Paypal
 "The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged.","Image en haut à gauche sur la page de paiement. La taille maximale est de 750x90px. Le protocole <strong style=""color:red"">https</strong> est recommandé.",module,Magento_Paypal
@@ -577,10 +577,10 @@
 "View Transaction Details","Voir détails de la transaction",module,Magento_Paypal
 "Virtual PayPal Debit Card Transaction","Virtual transaction PayPal par carte de débit",module,Magento_Paypal
 "Virtual Terminal Payment","Terminal de paiement virtuel",module,Magento_Paypal
-"Void","annulé",module,Magento_Paypal
+"Void","Annulé",module,Magento_Paypal
 "We are connecting to the PayPal SFTP server to retrieve new reports. Are you sure you want to continue?","Nous nous connectons au serveur SFTP PayPal pour récupérer les nouveaux rapports. Êtes-vous sûr(e) de vouloir continuer ?",module,Magento_Paypal
 "Website Payments Pro and Express Checkout","Website Payments Pro et Express Checkout",module,Magento_Paypal
-"Website Payments Pro Hosted Solution","Solution hébergée Website Payments Pro",module,Magento_Paypal
+"Website Payments Pro Hosted Solution","Solution hébergée website Payments Pro",module,Magento_Paypal
 "Website Payments Pro Hosted Solution and Express Checkout","Website Payments Pro Hosted Solution et Express Checkout",module,Magento_Paypal
 "Website Payments Pro Hosted Solution (Includes Express Checkout)","Website Payments Pro Hosted Solution (Inclus Express Checkout)",module,Magento_Paypal
 "Website Payments Pro (Includes Express Checkout)","Website Payments Pro (Inclus Express Checkout)",module,Magento_Paypal

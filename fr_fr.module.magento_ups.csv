@@ -27,7 +27,7 @@
 "Gateway XML URL","URL XML de passerelle",module,Magento_Ups
 "Ground","Sol",module,Magento_Ups
 "Ground Commercial","Raison commerciale",module,Magento_Ups
-"Ground Residential","Ground Residential",module,Magento_Ups
+"Ground Residential","Ground residential",module,Magento_Ups
 "Handling Applied","Frais de dossier appliqués",module,Magento_Ups
 "Handling Fee","Frais de dossier",module,Magento_Ups
 "Kilograms","Kilogrammes",module,Magento_Ups

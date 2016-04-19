@@ -1,6 +1,6 @@
 "Access Token","Authentification d'accès",module,Magento_Integration
 "Access token has been revoked","Authentification d'accès révoquée",module,Magento_Integration
-"Access Token Secret","Mot de passe Authentification d'accès",module,Magento_Integration
+"Access Token Secret","Mot de passe authentification d'accès",module,Magento_Integration
 "A consumer having the specified key does not exist","La clé d'API utilise une clé qui n'existe pas",module,Magento_Integration
 "A consumer with ID %1 does not exist","L'authentification avec ID %1 n'existe pas",module,Magento_Integration
 "A consumer with the ID %1 does not exist","L'API avec l'ID %1 n'existe pas",module,Magento_Integration

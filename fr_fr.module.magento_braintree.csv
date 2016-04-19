@@ -172,7 +172,7 @@
 "Last name is too long.","Le prénom est trop long.",module,Magento_Braintree
 "Locality is invalid","Localité invalide",module,Magento_Braintree
 "Locality is too long.","Localité trop longue.",module,Magento_Braintree
-"Make Default","Créer par Défaut",module,Magento_Braintree
+"Make Default","Créer par défaut",module,Magento_Braintree
 "Merchant account does not support MOTO","Le compte marchand ne supporte pas MOTO",module,Magento_Braintree
 "Merchant account does not support refunds","Ce compte marchand ne permet pas les remboursements",module,Magento_Braintree
 "Merchant Account ID","ID Compte marchand",module,Magento_Braintree

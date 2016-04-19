@@ -725,7 +725,7 @@
 "VAT Request Identifier","Identifiant de demande de TVA",module,Magento_Sales
 "View","Voir",module,Magento_Sales
 "View All","Tout voir",module,Magento_Sales
-"View Another Order","Voir une Autre commande",module,Magento_Sales
+"View Another Order","Voir une autre commande",module,Magento_Sales
 "View Memo","Voir l'avoir",module,Magento_Sales
 "View Memo for #%1","Voir l'avoir pour #%1",module,Magento_Sales
 "View Order","Voir la commande",module,Magento_Sales
@@ -733,9 +733,9 @@
 "Visible On Frontend","Visible sur le site coté client",module,Magento_Sales
 "Visible On Storefront","Visible sur le front office",module,Magento_Sales
 "Visible on Storefront","Visible sur le front office",module,Magento_Sales
-"Void","annulé",module,Magento_Sales
+"Void","Annulé",module,Magento_Sales
 "Voided authorization.","Autorisation refusée.",module,Magento_Sales
-"Website","Site Web",module,Magento_Sales
+"Website","Site web",module,Magento_Sales
 "We canceled %1 order(s).","Annulation de %1 commande(s).",module,Magento_Sales
 "We cannot add order history.","Impossible d'ajouter un commentaire à l'historique.",module,Magento_Sales
 "We cannot add this item to your shopping cart.","Impossible d'ajouter cet article dans le panier.",module,Magento_Sales

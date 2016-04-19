@@ -57,7 +57,7 @@
 "Something went wrong while writing to the backup file ""%1"".","Une erreur s'est produite lors de l'écriture du fichier de sauvegarde ""%1"".",module,Magento_Backup
 "Something went wrong writing to the backup file ""%1"".","Une erreur s'est produite lors de l'annulation de l'écriture du fichier de sauvegarde ""%1"".",module,Magento_Backup
 "Sorry, but we cannot read from or write to backup file ""%1"".","Désolé, mais nous ne pouvons pas lire ou écrire le fichier de sauvegarde ""%1"".",module,Magento_Backup
-"Start Time","Heure de Début",module,Magento_Backup
+"Start Time","Heure de début",module,Magento_Backup
 "successful","succès",module,Magento_Backup
 "System","Système",module,Magento_Backup
 "System Backup","Sauvegarde système",module,Magento_Backup

@@ -50,7 +50,7 @@
 "Sitemap Generation Warnings","Avertissements sur la génération du plan de site",module,Magento_Sitemap
 "Sitemap Information","Information plan de site",module,Magento_Sitemap
 "Something went wrong generating the sitemap.","Erreur lors de la génération du plan de site.",module,Magento_Sitemap
-"Start Time","Heure de Début",module,Magento_Sitemap
+"Start Time","Heure de début",module,Magento_Sitemap
 "Store View","Vue magasin",module,Magento_Sitemap
 "The priority must be between 0 and 1.","La priorité doit être comprise entre 0 et 1.",module,Magento_Sitemap
 "The sitemap ""%1"" has been generated.","Le plan de site ""%1"" a bien été généré.",module,Magento_Sitemap

@@ -38,7 +38,7 @@
 "Maximum sender name length is 255. Please correct your settings.","La longueur maximale du nom de l'expéditeur est de 255. Veuillez corriger vos paramètres.",module,Magento_Config
 "Never (production)","Jamais (en production)",module,Magento_Config
 "No","Non",module,Magento_Config
-"-- No Theme --","-- Aucun thème --",module,Magento_Config
+"-- No Theme --","-- aucun thème --",module,Magento_Config
 "Only Once (version upgrade)","Une fois seulement (mise à jour de version)",module,Magento_Config
 "Optional","Facultatif",module,Magento_Config
 "Page not found.","Page introuvable.",module,Magento_Config
@@ -47,7 +47,7 @@
 "Please specify the admin custom URL.","Spécifiez l'URL d'Admin personnalisée.",module,Magento_Config
 "Required","Requis",module,Magento_Config
 "Save Config","Sauvegarder la configuration",module,Magento_Config
-"Search String","Chaîne de Recherche",module,Magento_Config
+"Search String","Chaîne de recherche",module,Magento_Config
 "Selected allowed currency ""%1"" is not available in installed currencies.","La devise sélectionnée ""%1"" n'est pas disponible dans les devises installées.",module,Magento_Config
 "Separate Email","Email Séparé",module,Magento_Config
 "some_comment","some_comment",module,Magento_Config
@@ -83,7 +83,7 @@
 "Use Website","Valeur du site web",module,Magento_Config
 "Value must be a URL or one of placeholders: %1","La valeur doit être une URL ou un des variables : %1",module,Magento_Config
 "website(%1) scope","portée du site web (%1)",module,Magento_Config
-"Website","Site Web",module,Magento_Config
+"Website","Site web",module,Magento_Config
 "[WEBSITE]","[SITE WEB]",module,Magento_Config
 "We can't save the Cron expression.","Impossible de sauvegarder l'expression du CRON.",module,Magento_Config
 "We can't save the Cron expression.","Impossible de sauvegarder l'expression du CRON.",module,Magento_Config

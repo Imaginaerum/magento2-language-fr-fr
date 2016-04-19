@@ -12,7 +12,7 @@
 "Attribute setting change related with Search Index. Please run <a href=""%1"">Rebuild Search Index</a> process.","Changement de configuration attribut en relation avec l'index de recherche. Veuillez <a href=""%1"">reconstruire l'index de recherche</a>.",module,Magento_CatalogSearch
 "Bucket do not exists","Le bucket n'existe pas",module,Magento_CatalogSearch
 "Catalog Advanced Search","Recherche avancée dans le catalogue",module,Magento_CatalogSearch
-"Catalog Search","Catalogue, Recherche",module,Magento_CatalogSearch
+"Catalog Search","Catalogue, recherche",module,Magento_CatalogSearch
 "Category","Catégorie",module,Magento_CatalogSearch
 "Delete","Supprimer",module,Magento_CatalogSearch
 "Don't see what you're looking for?","Vous ne trouvez pas ce que vous cherchez ?",module,Magento_CatalogSearch
@@ -36,7 +36,7 @@
 "Popular Search Terms","Termes de recherche populaires",module,Magento_CatalogSearch
 "Product","Produit",module,Magento_CatalogSearch
 "Rebuild Catalog product fulltext search index","Reconstruire l'index de recherche sur le texte complet du catalogue produit",module,Magento_CatalogSearch
-"Redirect URL","URL de Redirection",module,Magento_CatalogSearch
+"Redirect URL","URL de redirection",module,Magento_CatalogSearch
 "Relevance","Pertinence",module,Magento_CatalogSearch
 "Results","Résultats",module,Magento_CatalogSearch
 "Search","Rechercher",module,Magento_CatalogSearch
