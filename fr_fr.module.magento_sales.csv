@@ -22,7 +22,7 @@
 "Address Information","Informations d'adresse",module,Magento_Sales
 "Add Selected Product(s) to Order","Ajouter les produits sélectionnés à la commande",module,Magento_Sales
 "Add to Cart","Ajouter au panier",module,Magento_Sales
-"Add To Order","Ajouter à la Commande",module,Magento_Sales
+"Add To Order","Ajouter à la commande",module,Magento_Sales
 "Adjustment Fee","Frais de dossier",module,Magento_Sales
 "Adjustment Refund","Remboursement des frais de dossier",module,Magento_Sales
 "A hold action is not available.","L'action de blocage n'est pas disponible.",module,Magento_Sales
@@ -310,13 +310,13 @@
 "New Invoice for Order #%1","Nouvelle facture pour la commande n°%1",module,Magento_Sales
 "New Memo","Nouvel Avoir",module,Magento_Sales
 "New Memo for #%1","Nouvel avoir pour #%1",module,Magento_Sales
-"New Order","Nouvelle Commande",module,Magento_Sales
+"New Order","Nouvelle commande",module,Magento_Sales
 "New Order Confirmation Email Sender","Expéditeur du mail de confirmation de commande",module,Magento_Sales
 "New Order Confirmation Template","Gabarit de confirmation de nouvelle commande",module,Magento_Sales
 "New Order Confirmation Template for Guest","Gabarit de confirmation de nouvelle commande pour un invité",module,Magento_Sales
 "New Order RSS","Flux RSS des nouvelles commandes",module,Magento_Sales
 "New Orders","Nouvelles commandes",module,Magento_Sales
-"New Order Status","Statut de la Nouvelle Commande",module,Magento_Sales
+"New Order Status","Statut de la nouvelle commande",module,Magento_Sales
 "Newsletter Subscription","Abonnement à la newsletter",module,Magento_Sales
 "No","Non",module,Magento_Sales
 "No Items","Aucun article",module,Magento_Sales
@@ -367,8 +367,8 @@
 "Ordered amount of %1","Montant commandé de %1",module,Magento_Sales
 "Order Grand Total","Montant global",module,Magento_Sales
 "order-header","order-header",module,Magento_Sales
-"Order History","Historique Commande",module,Magento_Sales
-"Order ID","ID Commande",module,Magento_Sales
+"Order History","Historique commande",module,Magento_Sales
+"Order ID","ID commande",module,Magento_Sales
 "Order Information","Informations commande",module,Magento_Sales
 "Order Invoices","Factures de la commande",module,Magento_Sales
 "Order is suspended as its authorizing amount %1 is suspected to be fraudulent.","Commande suspendue car l’autorisation du montant de %1 est suspectée d'être frauduleuse.",module,Magento_Sales
@@ -380,7 +380,7 @@
 "Orders Cron Settings","Paramètres du CRON des commandes",module,Magento_Sales
 "Order Shipments","Livraisons de la commande",module,Magento_Sales
 "Order State","État de commande",module,Magento_Sales
-"Order Status","Statut de la Commande",module,Magento_Sales
+"Order Status","Statut de la commande",module,Magento_Sales
 "Order Statuses","Statuts de commande",module,Magento_Sales
 "Order Status Information","Informations du statut de commande",module,Magento_Sales
 "Order Total","Total de la commande",module,Magento_Sales
@@ -725,7 +725,7 @@
 "VAT Request Identifier","Identifiant de demande de TVA",module,Magento_Sales
 "View","Voir",module,Magento_Sales
 "View All","Tout voir",module,Magento_Sales
-"View Another Order","Voir une Autre Commande",module,Magento_Sales
+"View Another Order","Voir une Autre commande",module,Magento_Sales
 "View Memo","Voir l'avoir",module,Magento_Sales
 "View Memo for #%1","Voir l'avoir pour #%1",module,Magento_Sales
 "View Order","Voir la commande",module,Magento_Sales
@@ -830,8 +830,8 @@
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Votre avoir #%creditmemo_id pour la commande #%order_id",module,Magento_Sales
 "Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.","Votre logo par défaut sera utilisé dans les documents PDF et HTML.<br>(jpeg, tiff, png) Si l'image dans le pdf est déformée, essayez d'utiliser un fichier image plus large.",module,Magento_Sales
 "You released the order from holding status.","La commande est débloquée.",module,Magento_Sales
-"Your Invoice #%invoice_id for Order #%order_id","Votre Facture #%invoice_id pour la Commande #%order_id",module,Magento_Sales
-"Your Order <span class=""no-link"">#%increment_id</span>","Votre Commande <span class=""no-link"">#%increment_id</span>",module,Magento_Sales
+"Your Invoice #%invoice_id for Order #%order_id","Votre Facture #%invoice_id pour la commande #%order_id",module,Magento_Sales
+"Your Order <span class=""no-link"">#%increment_id</span>","Votre commande <span class=""no-link"">#%increment_id</span>",module,Magento_Sales
 "Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Votre commande #%increment_id a été mise à jour avec le statut <strong>%order_status</strong>.",module,Magento_Sales
 "Your Shipment #%shipment_id for Order #%order_id","Livraison #%shipment_id pour la commande #%order_id",module,Magento_Sales
 "Your shipping confirmation is below. Thank you again for your business.","Voici votre confirmation d'expédition. Encore merci de votre achat.",module,Magento_Sales

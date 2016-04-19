@@ -185,8 +185,8 @@
 "&nbsp;","&nbsp;",module,Magento_Braintree
 "Need a customer_id, payment_method_token, credit_card, or subscription_id.","customer_id, payment_method_token, credit_card, ou subscription_id requis.",module,Magento_Braintree
 "New Credit Card","Nouvelle carte bancaire",module,Magento_Braintree
-"New Order Status","Statut de la Nouvelle Commande",module,Magento_Braintree
-"New order status","Statut de la Nouvelle Commande",module,Magento_Braintree
+"New Order Status","Statut de la nouvelle commande",module,Magento_Braintree
+"New order status","Statut de la nouvelle commande",module,Magento_Braintree
 "No","Non",module,Magento_Braintree
 "Number of billing cycles cannot be blank","Le nombre de cycles de facturation ne peut être vide",module,Magento_Braintree
 "Number of billing cycles is too small","Le nombre de cycles de facturation est trop petit",module,Magento_Braintree

@@ -29,7 +29,7 @@
 "Checkout as Guest","Régler en tant qu'invité",module,Magento_Checkout
 "Checkout Method","Mode de commande",module,Magento_Checkout
 "Checkout Options","Options de règlement",module,Magento_Checkout
-"Checkout Type","Type de Commande",module,Magento_Checkout
+"Checkout Type","Type de commande",module,Magento_Checkout
 "City","Ville",module,Magento_Checkout
 "Clear Shopping Cart","Vider le panier",module,Magento_Checkout
 "Click <a href=""%1"">here</a> to continue shopping.","Cliquez <a href=""%1"">ici</a> pour continuer vos achats.",module,Magento_Checkout
@@ -110,7 +110,7 @@
 "Options Details","Détails des options",module,Magento_Checkout
 "Order #","Commande #",module,Magento_Checkout
 "Order Review","Vérification de commande",module,Magento_Checkout
-"Order Summary","Résumé de la Commande",module,Magento_Checkout
+"Order Summary","Résumé de la commande",module,Magento_Checkout
 "Order Total","Total de la commande",module,Magento_Checkout
 "Order total will be displayed before you submit the order","LE TOTAL DE LA COMMANDE S'AFFICHERA AVANT LA CONFIRMATION DE COMMANDE",module,Magento_Checkout
 "Out of stock","En rupture de stock",module,Magento_Checkout

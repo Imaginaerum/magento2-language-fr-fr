@@ -327,8 +327,8 @@
 "Order","Commande",module,Magento_Paypal
 "Order #","Commande #",module,Magento_Paypal
 "Ordered amount of %1","Montant commandé de %1",module,Magento_Paypal
-"Order ID","ID Commande",module,Magento_Paypal
-"Order Status","Statut de la Commande",module,Magento_Paypal
+"Order ID","ID commande",module,Magento_Paypal
+"Order Status","Statut de la commande",module,Magento_Paypal
 "Order Total","Total de la commande",module,Magento_Paypal
 "Order Valid Period (days)","Période de validité d'une commande (jours)",module,Magento_Paypal
 "Page Background Color","Couleur d'arrière plan de la page",module,Magento_Paypal
@@ -443,7 +443,7 @@
 "Reversal of General Account Hold","Inversion de prise de compte général",module,Magento_Paypal
 "Reversal of hold for Dispute Investigation","Débloquer pendant l'enquête de litige",module,Magento_Paypal
 "Reversal of Points Usage","Inversion d'utilisation de points",module,Magento_Paypal
-"Review Order","Vérifier la Commande",module,Magento_Paypal
+"Review Order","Vérifier la commande",module,Magento_Paypal
 "Reward Voucher Redemption","Rachat de bon de récompense",module,Magento_Paypal
 "Sale","Vente",module,Magento_Paypal
 "Sales","Ventes",module,Magento_Paypal

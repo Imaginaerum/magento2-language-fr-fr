@@ -25,8 +25,8 @@
 "%name,","%name,",theme,frontend/Magento/luma
 "Now Shopping by","Acheter par",theme,frontend/Magento/luma
 "Once your package ships we will send you a tracking number.","Un numéro de suivi vous sera envoyé lorsque votre commande sera expédiée.",theme,frontend/Magento/luma
-"Order History","Historique Commande",theme,frontend/Magento/luma
-"Order Status","Statut de la Commande",theme,frontend/Magento/luma
+"Order History","Historique commande",theme,frontend/Magento/luma
+"Order Status","Statut de la commande",theme,frontend/Magento/luma
 "Password:","Mot de passe :",theme,frontend/Magento/luma
 "Password you set when creating account","Mot de passe que vous avez défini lors de la création de votre compte",theme,frontend/Magento/luma
 "Payment Method","Mode de paiement",theme,frontend/Magento/luma
@@ -57,8 +57,8 @@
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Vous pouvez suivre le statut de votre commande en <a href=""%account_url"">vous connectant à votre compte</a>.",theme,frontend/Magento/luma
 "Your Checkout Progress","Avancement de votre commande",theme,frontend/Magento/luma
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Votre avoir #%creditmemo_id pour la commande #%order_id",theme,frontend/Magento/luma
-"Your Invoice #%invoice_id for Order #%order_id","Votre Facture #%invoice_id pour la Commande #%order_id",theme,frontend/Magento/luma
-"Your Order <span class=""no-link"">#%increment_id</span>","Votre Commande <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
+"Your Invoice #%invoice_id for Order #%order_id","Votre Facture #%invoice_id pour la commande #%order_id",theme,frontend/Magento/luma
+"Your Order <span class=""no-link"">#%increment_id</span>","Votre commande <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
 "Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Votre commande #%increment_id a été mise à jour avec le statut <strong>%order_status</strong>.",theme,frontend/Magento/luma
 "Your Shipment #%shipment_id for Order #%order_id","Livraison #%shipment_id pour la commande #%order_id",theme,frontend/Magento/luma
 "Your shipping confirmation is below. Thank you again for your business.","Voici votre confirmation d'expédition. Encore merci de votre achat.",theme,frontend/Magento/luma

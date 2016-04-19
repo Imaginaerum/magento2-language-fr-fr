@@ -9,8 +9,8 @@
 "Make Check Payable to","Chèque libellé à l'ordre de",module,Magento_OfflinePayments
 "Make Check payable to:","Chèque libellé à l'ordre de :",module,Magento_OfflinePayments
 "Maximum Order Total","Montant maximum de la commande",module,Magento_OfflinePayments
-"Minimum Order Total","Montant Total Minimum de Commande",module,Magento_OfflinePayments
-"New Order Status","Statut de la Nouvelle Commande",module,Magento_OfflinePayments
+"Minimum Order Total","Montant total minimum de commande",module,Magento_OfflinePayments
+"New Order Status","Statut de la nouvelle commande",module,Magento_OfflinePayments
 "Payment from Applicable Countries","Mode de paiement autorisé pour les pays applicables",module,Magento_OfflinePayments
 "Payment from Specific Countries","Mode de paiement autorisé pour les pays spécifiques",module,Magento_OfflinePayments
 "Purchase Order","Bon de commande",module,Magento_OfflinePayments

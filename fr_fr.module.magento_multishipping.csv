@@ -65,8 +65,8 @@
 "Qty","Qté",module,Magento_Multishipping
 "Remove item","Supprimer l'élément",module,Magento_Multishipping
 "Remove Item","Supprimer l'élément",module,Magento_Multishipping
-"Review Order - %1","Vérifier la Commande - %1",module,Magento_Multishipping
-"Review Order","Vérifier la Commande",module,Magento_Multishipping
+"Review Order - %1","Vérifier la commande - %1",module,Magento_Multishipping
+"Review Order","Vérifier la commande",module,Magento_Multishipping
 "Select Address","Sélectionner une Adresse",module,Magento_Multishipping
 "Select Addresses","Choix des adresses",module,Magento_Multishipping
 "Select Shipping Method","Sélectionner le mode de livraison",module,Magento_Multishipping

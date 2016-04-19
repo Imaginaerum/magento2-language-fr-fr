@@ -119,7 +119,7 @@
 "Create an Account","Créer un compte",module,Magento_Customer
 "Create New Account Options","Options de création de nouveaux comptes",module,Magento_Customer
 "Create New Customer Account","Créer un nouveau compte client",module,Magento_Customer
-"Create Order","Créer une Commande",module,Magento_Customer
+"Create Order","Créer une commande",module,Magento_Customer
 "Creating an account has many benefits:","La création d'un compte possède de nombreux avantages :",module,Magento_Customer
 "Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","La création d'un compte a de nombreux avantages : consultation rapide, sauvegarder plusieurs adresses, suivre les commandes, et bien plus encore.",module,Magento_Customer
 "Current Password","Mot de passe actuel",module,Magento_Customer

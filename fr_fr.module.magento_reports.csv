@@ -115,7 +115,7 @@
 "Number of Wish Lists: %1","Nombre de liste d'envies : %1",module,Magento_Reports
 "Offline Refunds","Remboursements hors ligne",module,Magento_Reports
 "Online Refunds","Remboursements en ligne",module,Magento_Reports
-"Order Count","Nombre de Commande",module,Magento_Reports
+"Order Count","Nombre de commande",module,Magento_Reports
 "Order Count Report","Rapport du nombre de commandes",module,Magento_Reports
 "Order Created","Commande créée",module,Magento_Reports
 "Order Created Date","Date de création de commande",module,Magento_Reports
@@ -243,7 +243,7 @@
 "Wish List Purchase","Commander à partir de listes d'envies",module,Magento_Reports
 "Wishlist Purchase","Commander à partir de listes d'envies",module,Magento_Reports
 "Wish Lists","Listes d'envies",module,Magento_Reports
-"Wish List vs. Regular Order","Listes d'envies / Commande classique",module,Magento_Reports
+"Wish List vs. Regular Order","Listes d'envies / commande classique",module,Magento_Reports
 "Year","Année",module,Magento_Reports
 "Year-To-Date Starts","L'année en cours commence le",module,Magento_Reports
 "Yes","Oui",module,Magento_Reports

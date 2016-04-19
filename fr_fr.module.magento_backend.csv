@@ -71,7 +71,7 @@
 "Authentication storage is incorrect.","Le stockage des authentifications est incorrect.",module,Magento_Backend
 "Auto-redirect to Base URL","Rediriger automatiquement vers l'URL de base",module,Magento_Backend
 "Average","Moyen",module,Magento_Backend
-"Average Order","Moyenne des Commandes",module,Magento_Backend
+"Average Order","Moyenne des commandes",module,Magento_Backend
 "Average Orders","Moyenne des commandes",module,Magento_Backend
 "Back","Retour",module,Magento_Backend
 "Backup Options","Options de sauvegarde",module,Magento_Backend
@@ -278,7 +278,7 @@
 "Last 7 Days","7 derniers jours",module,Magento_Backend
 "Last 24 Hours","Dernières 24 heures",module,Magento_Backend
 "Last Name","Nom",module,Magento_Backend
-"Last Orders","Dernières Commandes",module,Magento_Backend
+"Last Orders","Dernières commandes",module,Magento_Backend
 "Last Search Terms","Derniers Termes Recherchés",module,Magento_Backend
 "Leave empty for access from any location.","Laissez vide si vous souhaitez y accéder depuis n'importe où.",module,Magento_Backend
 "Lifetime Sales","Ventes depuis le début",module,Magento_Backend

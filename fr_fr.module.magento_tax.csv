@@ -72,7 +72,7 @@
 "Incl. Tax","TTC",module,Magento_Tax
 "(Incl. Tax)","(TTC)",module,Magento_Tax
 "Include Tax In Grand Total","TTC dans le total",module,Magento_Tax
-"Include Tax In Order Total","Inclure les Taxes dans le Total de la Commande",module,Magento_Tax
+"Include Tax In Order Total","Inclure les Taxes dans le total de la commande",module,Magento_Tax
 "Including and Excluding Tax","HT et TTC",module,Magento_Tax
 "Including Tax","TTC",module,Magento_Tax
 "Invalid attribute %1","Attribut invalide: %1",module,Magento_Tax

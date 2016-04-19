@@ -49,8 +49,8 @@
 "Maximum Order Total","Montant maximum de la commande",module,Magento_Authorizenet
 "Merchant MD5","MD5 du Commerçant",module,Magento_Authorizenet
 "Merchant's Email","Email du commerçant",module,Magento_Authorizenet
-"Minimum Order Total","Montant Total Minimum de Commande",module,Magento_Authorizenet
-"New Order Status","Statut de la Nouvelle Commande",module,Magento_Authorizenet
+"Minimum Order Total","Montant total minimum de commande",module,Magento_Authorizenet
+"New Order Status","Statut de la nouvelle commande",module,Magento_Authorizenet
 "No confirmation","Aucune confirmation",module,Magento_Authorizenet
 "Order saving error: %1","Erreur lors de la sauvegarde de la commande : %1",module,Magento_Authorizenet
 "Parent Authorize.Net transaction (ID %1) expired","Transaction parente Authorize.Net (ID %1) expirée",module,Magento_Authorizenet

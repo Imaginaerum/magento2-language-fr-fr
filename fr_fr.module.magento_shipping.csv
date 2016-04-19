@@ -88,7 +88,7 @@
 "Payment &amp; Shipping Method","Paiement &amp; méthode de livraison",module,Magento_Shipping
 "Payment Information","Informations de paiement",module,Magento_Shipping
 "Percent","Pourcent",module,Magento_Shipping
-"Per Order","Par Commande",module,Magento_Shipping
+"Per Order","Par commande",module,Magento_Shipping
 "Per Package","Par paquet",module,Magento_Shipping
 "Please enter a comment.","Veuillez saisir un commentaire.",module,Magento_Shipping
 "Please enter a tracking number.","Veuillez renseigner un numéro de suivi.",module,Magento_Shipping
@@ -157,7 +157,7 @@
 "This shipping method is not available. Please specify the zip code.","La méthode de livraison n'est pas disponible. Veuillez spécifier un code postal.",module,Magento_Shipping
 "Title","Titre",module,Magento_Shipping
 "Total Shipping Charges","Montant total de la livraison",module,Magento_Shipping
-"Total Weight","Poids Total",module,Magento_Shipping
+"Total Weight","Poids total",module,Magento_Shipping
 "Track:","Suivre :",module,Magento_Shipping
 "Track history","Historique du Suivi",module,Magento_Shipping
 "Tracking Information","Informations de Suivi",module,Magento_Shipping
@@ -165,13 +165,13 @@
 "Tracking information is unavailable.","Les informations de suivi sont indisponibles.",module,Magento_Shipping
 "Tracking Number:","Numéro de suivi :",module,Magento_Shipping
 "Tracking Number(s):","Numéro(s) de suivi :",module,Magento_Shipping
-"Track Order","Suivre la Commande",module,Magento_Shipping
+"Track Order","Suivre la commande",module,Magento_Shipping
 "Track this shipment","Suivre cette livraison",module,Magento_Shipping
 "Type","Type",module,Magento_Shipping
 "Use origin weight (few requests)","Utiliser le poids d'origine (peu de requêtes)",module,Magento_Shipping
 "USPS domestic shipments don't use package types.","Les expéditions USPS domestic n'utilisent pas ce type de colis.",module,Magento_Shipping
 "USPS domestic shipments don't use package types.","Les expéditions USPS domestic n'utilisent pas ce type de colis.",module,Magento_Shipping
-"View Another Order","Voir une Autre Commande",module,Magento_Shipping
+"View Another Order","Voir une Autre commande",module,Magento_Shipping
 "We can't delete tracking number.","Impossible de supprimer le numéro de suivi.",module,Magento_Shipping
 "We can't initialize shipment for adding tracking number.","Impossible d'initialiser l'expédition pour l'ajout d'un numéro de suivi.",module,Magento_Shipping
 "We can't initialize shipment for delete tracking number.","Impossible d'initialiser l'expédition pour supprimer le numéro de suivi.",module,Magento_Shipping
