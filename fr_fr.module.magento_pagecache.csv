@@ -5,7 +5,7 @@
 "Caching Application","Application de cache",module,Magento_PageCache
 "Export VCL","Export VCL",module,Magento_PageCache
 "Export VCL for Varnish ","Exporter le VCL pour Varnish ",module,Magento_PageCache
-"Full Page Cache","Full Page Cache",module,Magento_PageCache
+"Full Page Cache","Full Page cache",module,Magento_PageCache
 "Full page caching.","Full page caching.",module,Magento_PageCache
 "IPs access list separated with ',' that can purge Varnish configuration for config file generation.
                             If field is empty default value localhost will be saved.","Liste des adresses IPs, séparées par ',', qui sont autorisées à purger le cache Varnish. Cette liste est utilisée pour la génération du fichier de configuration. Si ce champ est vide la valeur par défaut localhost sera utilisée.",module,Magento_PageCache

@@ -193,7 +193,7 @@
 "Fee: Foreign ACH Withdrawal","Frais: Retrait ACH étrangères",module,Magento_Paypal
 "Fee: Mass Pay Request","Frais : demande de paiement en masse",module,Magento_Paypal
 "Fee Reversal","Frais d'inversion",module,Magento_Paypal
-"Fee: Web Site Payments Pro Account Monthly","Frais : Paiements du site Web de compte mensuel pro",module,Magento_Paypal
+"Fee: Web Site Payments Pro Account Monthly","Frais : Paiements du site web de compte mensuel pro",module,Magento_Paypal
 "Fee: WorldLink Check Withdrawal","Frais : retrait par chèque WorldLink",module,Magento_Paypal
 "Fetch transaction details method does not exists in Payflow","Les rapports de détails de transactions n'existent pas dans Payflow",module,Magento_Paypal
 "Fetch Updates","Rapport mises à jour",module,Magento_Paypal

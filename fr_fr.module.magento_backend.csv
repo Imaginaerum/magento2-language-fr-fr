@@ -19,8 +19,8 @@
 "Add Block Names to Hints","Ajouter les noms des blocs aux Astuces",module,Magento_Backend
 "Add Design Change","Ajouter un changement de design",module,Magento_Backend
 "Add Exception","Ajouter une exception",module,Magento_Backend
-"Additional Cache Management","Gestion Additionnelle du Cache",module,Magento_Backend
-"Additional Settings","Paramètres Additionnels",module,Magento_Backend
+"Additional Cache Management","Gestion additionnelle du cache",module,Magento_Backend
+"Additional Settings","Paramètres additionnels",module,Magento_Backend
 "Add New","Ajouter",module,Magento_Backend
 "Add New Image","Ajouter un Image",module,Magento_Backend
 "Add New URL Rewrite","Nouvelle réécriture d'URL",module,Magento_Backend
@@ -91,11 +91,11 @@
 "Big Image","Grande Image",module,Magento_Backend
 "Block Information","Information du Bloc",module,Magento_Backend
 "Browse Files...","Parcourir les fichiers...",module,Magento_Backend
-"Cache Control","Contrôle du Cache",module,Magento_Backend
-"Cache Management","Gestion du Cache",module,Magento_Backend
-"Cache Storage Management","Gestion du Cache",module,Magento_Backend
+"Cache Control","Contrôle du cache",module,Magento_Backend
+"Cache Management","Gestion du cache",module,Magento_Backend
+"Cache Storage Management","Gestion du cache",module,Magento_Backend
 "Cache storage may contain additional data. Are you sure that you want flush it?","Le stockage de cache peut contenir d\'autres données. Êtes-vous sûr(e) de vouloir le purger ?",module,Magento_Backend
-"Cache Type","Type de Cache",module,Magento_Backend
+"Cache Type","Type de cache",module,Magento_Backend
 "Cancel","Annuler",module,Magento_Backend
 "Cannot delete the design change.","Impossible de supprimer le changement de design.",module,Magento_Backend
 "Catalog","Catalogue",module,Magento_Backend
@@ -127,7 +127,7 @@
 "Create Store","Créer un magasin",module,Magento_Backend
 "Create Store View","Créer une vue magasin",module,Magento_Backend
 "Create URL Rewrite:","Créer une réécriture d'URL :",module,Magento_Backend
-"Create Website","Créer un site Web",module,Magento_Backend
+"Create Website","Créer un site web",module,Magento_Backend
 "CSS Settings","Paramètres CSS",module,Magento_Backend
 "Currency ""%1"" is used as %2 in %3.","La devise ""%1"" est utilisée comme %2 dans %3.",module,Magento_Backend
 "Current Configuration Scope:","Portée de la configuration courante :",module,Magento_Backend
@@ -170,7 +170,7 @@
 "Delete File","Supprimer le Fichier",module,Magento_Backend
 "Delete Store","Supprimer le magasin",module,Magento_Backend
 "Delete Store View","Supprimer la vue magasin",module,Magento_Backend
-"Delete Web Site","Supprimer le site Web",module,Magento_Backend
+"Delete Web Site","Supprimer le site web",module,Magento_Backend
 "Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","Effacer un %1 n'effacera pas les informations associées avec le %1 (par ex. catégories, produits, etc.), mais il ne sera pas possible de restaurer le %1. Nous vous suggérons de créer une sauvegarde de la base de données avant d'effacer le %1.",module,Magento_Backend
 "Description","Description",module,Magento_Backend
 "Design","Design",module,Magento_Backend
@@ -220,11 +220,11 @@
 "Find a string in client user-agent header and switch to specific design theme for that browser.","Analyse une chaîne dans l'en-tête ""User-Agent"" par le navigateur client et sélectionne un design spécifique pour ce navigateur.",module,Magento_Backend
 "First Day of Week","Premier Jour de la Semaine",module,Magento_Backend
 "First Name","Prénom",module,Magento_Backend
-"Flush Cache Storage","Vider le Cache",module,Magento_Backend
-"Flush Catalog Images Cache","Vider le Cache des images du catalogue",module,Magento_Backend
-"Flush JavaScript/CSS Cache","Vider le Cache JavaScript/CSS",module,Magento_Backend
-"Flush Magento Cache","Vider le Cache Magento",module,Magento_Backend
-"Flush Static Files Cache","Vider le Cache des Fichiers Statiques",module,Magento_Backend
+"Flush Cache Storage","Vider le cache",module,Magento_Backend
+"Flush Catalog Images Cache","Vider le cache des images du catalogue",module,Magento_Backend
+"Flush JavaScript/CSS Cache","Vider le cache JavaScript/CSS",module,Magento_Backend
+"Flush Magento Cache","Vider le cache Magento",module,Magento_Backend
+"Flush Static Files Cache","Vider le cache des Fichiers Statiques",module,Magento_Backend
 "For category","Pour une catégorie",module,Magento_Backend
 "For CMS page","Pour une page CMS",module,Magento_Backend
 "Forgot and Reset Email Sender","Expéditeur de l'email d'oubli et réinitialisation de mot de passe",module,Magento_Backend
@@ -324,7 +324,7 @@
 "New Store","Nouveau magasin",module,Magento_Backend
 "New Store Design Change","Nouveau changement de design",module,Magento_Backend
 "New Store View","Nouvelle vue magasin",module,Magento_Backend
-"New Web Site","Nouveau site Web",module,Magento_Backend
+"New Web Site","Nouveau site web",module,Magento_Backend
 "Next","Suivant",module,Magento_Backend
 "Next page","Page suivante",module,Magento_Backend
 "No","Non",module,Magento_Backend
@@ -430,7 +430,7 @@
 "Save Config","Sauvegarder la configuration",module,Magento_Backend
 "Save Store","Sauvegarder le magasin",module,Magento_Backend
 "Save Store View","Sauvegarder la vue magasin",module,Magento_Backend
-"Save Web Site","Sauvegarder le site Web",module,Magento_Backend
+"Save Web Site","Sauvegarder le site web",module,Magento_Backend
 "Scope:","Portée :",module,Magento_Backend
 "Search","Rechercher",module,Magento_Backend
 "Search Engine Optimization","Optimisation pour les moteurs de recherche",module,Magento_Backend
@@ -571,7 +571,7 @@
 "Type","Type",module,Magento_Backend
 "Unable to delete store. Please, try again later.","Impossible de supprimer le magasin. Veuillez réessayer ultérieurement.",module,Magento_Backend
 "Unable to delete store view. Please, try again later.","Impossible de supprimer la vue magasin. Veuillez réessayer ultérieurement.",module,Magento_Backend
-"Unable to delete website. Please, try again later.","Impossible de supprimer le site Web. Veuillez réessayer ultérieurement.",module,Magento_Backend
+"Unable to delete website. Please, try again later.","Impossible de supprimer le site web. Veuillez réessayer ultérieurement.",module,Magento_Backend
 "Unable to proceed. Please, try again.","Impossible de continuer. Veuillez réessayer ultérieurement.",module,Magento_Backend
 "Unable to proceed. Please, try again","Impossible de continuer. Veuillez réessayer ultérieurement",module,Magento_Backend
 "Unknown block type","Type de bloc inconnu",module,Magento_Backend
@@ -628,7 +628,7 @@
 "Website","Site Web",module,Magento_Backend
 "Web Site","Site Web",module,Magento_Backend
 "[WEBSITE]","[SITE WEB]",module,Magento_Backend
-"Web Site Information","Information site Web",module,Magento_Backend
+"Web Site Information","Information site web",module,Magento_Backend
 "We can't create a backup right now. Please try again later.","Nous ne pouvons pas créer une sauvegarde. Veuillez réessayer plus tard.",module,Magento_Backend
 "We can't refresh lifetime statistics.","Nous n'avons pas pu rafraîchir les statistiques depuis le début.",module,Magento_Backend
 "We can't refresh lifetime statistics.","Nous n'avons pas pu rafraîchir les statistiques depuis le début.",module,Magento_Backend

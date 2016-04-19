@@ -33,7 +33,7 @@
 "Account Sharing Options","Options de partage de compte",module,Magento_Customer
 "Action","Action",module,Magento_Customer
 "A customer website ID must be specified when using the website scope.","Un ID client du site web doit être spécifié lors de l'utilisation de la portée site web.",module,Magento_Customer
-"A customer with the same email already exists in an associated website.","Un client avec le même email existe déjà dans un site Web associé.",module,Magento_Customer
+"A customer with the same email already exists in an associated website.","Un client avec le même email existe déjà dans un site web associé.",module,Magento_Customer
 "Add Date","Ajouter une date",module,Magento_Customer
 "Additional Address Entries","Saisies d'adresses supplémentaires",module,Magento_Customer
 "Add Locale","Ajouter des paramètres régionaux",module,Magento_Customer
@@ -314,7 +314,7 @@
 "Password you set when creating account","Mot de passe que vous avez défini lors de la création de votre compte",module,Magento_Customer
 "Paused","En Pause",module,Magento_Customer
 "Personal Information","Informations personnelles",module,Magento_Customer
-"Per Website","Par site Web",module,Magento_Customer
+"Per Website","Par site web",module,Magento_Customer
 "Phone","Téléphone",module,Magento_Customer
 "Phone Number","Numéro de téléphone",module,Magento_Customer
 "PHP SOAP extension is required.","L'extension SOAP de PHP est requise.",module,Magento_Customer
