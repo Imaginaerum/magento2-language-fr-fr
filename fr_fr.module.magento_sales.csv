@@ -509,8 +509,8 @@
 "Save Gift Message","Enregistrer le message cadeau",module,Magento_Sales
 "Save in address book","Enregistrer dans le carnet d'adresses",module,Magento_Sales
 "Save Order Address","Enregistrer l'adresse de la commande",module,Magento_Sales
-"Save Status","Sauvegarder le Statut",module,Magento_Sales
-"Save Status Assignment","Sauvegarder l'assignation du statut",module,Magento_Sales
+"Save Status","Enregistrer le statut",module,Magento_Sales
+"Save Status Assignment","Enregistrer l'assignation du statut",module,Magento_Sales
 "Search","Rechercher",module,Magento_Sales
 "Select","Choisir",module,Magento_Sales
 "Select from existing customer addresses:","Sélectionner une adresse client existante :",module,Magento_Sales

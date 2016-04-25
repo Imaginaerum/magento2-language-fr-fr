@@ -64,7 +64,7 @@
 "Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.","N'utilisez que des lettres (a-z ou A-Z), des nombres (0-9). Aucun espace ou autre caractère n'est autorisé.",module,Magento_Ui
 "Record contains unsaved changes.","Cet enregistrement contient des modifications non enregistrées.",module,Magento_Ui
 "Remove %1","Supprimer %1",module,Magento_Ui
-"Save View As...","Sauvegarder la vue sous...",module,Magento_Ui
+"Save View As...","Enregistrer la vue sous...",module,Magento_Ui
 "Search by keyword","Rechercher par mot clé",module,Magento_Ui
 "Select...","Choisir...",module,Magento_Ui
 "Select All on This Page","Sélectionner tout",module,Magento_Ui

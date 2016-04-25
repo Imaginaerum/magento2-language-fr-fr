@@ -577,7 +577,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Save & Edit","Enregistrer & modifier",module,Magento_Catalog
 "Save in New Attribute Set","Enregistrer le nouveau jeu d'attributs",module,Magento_Catalog
 "Save & New","Enregistrer & nouveau",module,Magento_Catalog
-"Save Search","Sauvegarder la recherche",module,Magento_Catalog
+"Save Search","Enregistrer la recherche",module,Magento_Catalog
 "Scope","Portée",module,Magento_Catalog
 "Search","Rechercher",module,Magento_Catalog
 "Searchable","Utiliser dans la recherche",module,Magento_Catalog

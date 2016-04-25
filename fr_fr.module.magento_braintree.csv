@@ -242,7 +242,7 @@
 "Region is too long.","Région est trop long.",module,Magento_Braintree
 "Require Customer's Billing Address","Nécessite l'adresse de facturation du client",module,Magento_Braintree
 "* Required Fields","* Champs requis",module,Magento_Braintree
-"Save this card for future use","Sauvegarder cette carte pour une utilisation future",module,Magento_Braintree
+"Save this card for future use","Enregistrer cette carte pour une utilisation future",module,Magento_Braintree
 "Selected payment type is not allowed for billing country.","Le type de paiement sélectionné n'est pas autorisé pour le pays de facturation.",module,Magento_Braintree
 "Service fee amount cannot be negative","Montant des frais de service ne peut être négatif",module,Magento_Braintree
 "Service fee amount format is invalid","Montant des frais de service invalide",module,Magento_Braintree

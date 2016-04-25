@@ -84,7 +84,7 @@
 "Save and Resume","Enregistrer et poursuivre",module,Magento_Newsletter
 "Save As","Enregistrer sous",module,Magento_Newsletter
 "Save Newsletter","Enregistrer la lettre d'information",module,Magento_Newsletter
-"Save Template","Sauvegarder le gabarit",module,Magento_Newsletter
+"Save Template","Enregistrer le gabarit",module,Magento_Newsletter
 "Sender","Expéditeur",module,Magento_Newsletter
 "Sender Email","Email de l'expéditeur",module,Magento_Newsletter
 "Sender Name","Nom de l'expéditeur",module,Magento_Newsletter

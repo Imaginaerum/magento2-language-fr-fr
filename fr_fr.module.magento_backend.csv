@@ -428,9 +428,9 @@
 "Save and Continue Edit","Enregistrer et continuer la modification",module,Magento_Backend
 "Save Cache Settings","Enregistrer les paramètres du cache",module,Magento_Backend
 "Save Config","Enregistrer la configuration",module,Magento_Backend
-"Save Store","Sauvegarder le magasin",module,Magento_Backend
-"Save Store View","Sauvegarder la vue magasin",module,Magento_Backend
-"Save Web Site","Sauvegarder le site web",module,Magento_Backend
+"Save Store","Enregistrer le magasin",module,Magento_Backend
+"Save Store View","Enregistrer la vue magasin",module,Magento_Backend
+"Save Web Site","Enregistrer le site web",module,Magento_Backend
 "Scope:","Portée :",module,Magento_Backend
 "Search","Rechercher",module,Magento_Backend
 "Search Engine Optimization","Optimisation pour les moteurs de recherche",module,Magento_Backend
