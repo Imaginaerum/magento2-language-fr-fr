@@ -26,7 +26,7 @@
 "Please wait...","Veuillez patienter...",component,Magento2_Base
 "Recent items","Éléments récents",component,Magento2_Base
 "%s","%s",component,Magento2_Base
-"Save","Sauvegarder",component,Magento2_Base
+"Save","Enregistrer",component,Magento2_Base
 "Show all...","Voir tout...",component,Magento2_Base
 "Some non-translated value for Magento_Catalog","Certaines valeurs non traduites pour Magento_Catalog",component,Magento2_Base
 "%s - %s","%s - %s",component,Magento2_Base

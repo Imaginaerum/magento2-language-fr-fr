@@ -22,7 +22,7 @@
 "Price Navigation Step Calculation","Type de calcul des tranches de prix",module,Magento_LayeredNavigation
 "Remove","Supprimer",module,Magento_LayeredNavigation
 "Remove This Item","Supprimer cet Élément",module,Magento_LayeredNavigation
-"Shop By","Filtrer Par",module,Magento_LayeredNavigation
+"Shop By","Filtrer par",module,Magento_LayeredNavigation
 "Shopping Options","Affiner les options",module,Magento_LayeredNavigation
 "This setting will be applied when all prices in the specific price interval are equal.","Ce paramétrage s'appliquera lorsque tous les prix seront égaux dans l'intervalle de prix spécifique.",module,Magento_LayeredNavigation
 "Use In Layered Navigation","Utiliser dans la navigation par filtres",module,Magento_LayeredNavigation

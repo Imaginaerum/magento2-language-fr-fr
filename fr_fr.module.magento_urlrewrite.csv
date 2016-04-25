@@ -44,7 +44,7 @@
 "Request Path","Chemin de requête",module,Magento_UrlRewrite
 "Request Path for Specified Store","Chemin de requête pour le magasin spécifié",module,Magento_UrlRewrite
 "Reset","Réinitialiser",module,Magento_UrlRewrite
-"Save","Sauvegarder",module,Magento_UrlRewrite
+"Save","Enregistrer",module,Magento_UrlRewrite
 "Select Category","Sélectionner une catégorie",module,Magento_UrlRewrite
 "Skip Category Selection","Passer la sélection de catégorie",module,Magento_UrlRewrite
 "SKU","SKU",module,Magento_UrlRewrite

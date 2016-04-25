@@ -392,7 +392,7 @@
 "Reset password token expired.","Réinitialisation du mot de passe expirée.",module,Magento_Customer
 "Reset password token mismatch.","Le jeton de réinitialisation de mot de passe ne correspond pas.",module,Magento_Customer
 "Sales Statistics","Statistiques de ventes",module,Magento_Customer
-"Save","Sauvegarder",module,Magento_Customer
+"Save","Enregistrer",module,Magento_Customer
 "Save Address","Sauvegarder l'adresse",module,Magento_Customer
 "Save and Continue Edit","Sauvegarder et continuer à modifier",module,Magento_Customer
 "Save Customer","Sauvegarder le client",module,Magento_Customer

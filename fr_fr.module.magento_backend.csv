@@ -423,7 +423,7 @@
 "Revenue","Chiffre d'affaires",module,Magento_Backend
 "Root Category","Catégorie Racine",module,Magento_Backend
 "Sales Representative","Représentant des ventes",module,Magento_Backend
-"Save","Sauvegarder",module,Magento_Backend
+"Save","Enregistrer",module,Magento_Backend
 "Save Account","Sauvegarder le compte",module,Magento_Backend
 "Save and Continue Edit","Sauvegarder et continuer à modifier",module,Magento_Backend
 "Save Cache Settings","Sauvegarder les paramètres du cache",module,Magento_Backend

@@ -107,7 +107,7 @@
 "Qty to Ship","Qté à Expédier",module,Magento_Shipping
 "Region/State","Région/État",module,Magento_Shipping
 "Response info is not exist.","Les informations de la réponse n'existent pas.",module,Magento_Shipping
-"Save","Sauvegarder",module,Magento_Shipping
+"Save","Enregistrer",module,Magento_Shipping
 "Security validation of XML document has been failed.","La validation de sécurité du document XML a échoué.",module,Magento_Shipping
 "See our Shipping Policy","Voir notre politique de livraison",module,Magento_Shipping
 "Select All","sélectionner tout",module,Magento_Shipping

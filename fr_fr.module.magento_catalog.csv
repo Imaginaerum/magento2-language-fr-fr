@@ -566,8 +566,8 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Reset","Réinitialiser",module,Magento_Catalog
 "Role","Rôle",module,Magento_Catalog
 "Root","Racine",module,Magento_Catalog
-"save","sauvegarder",module,Magento_Catalog
-"Save","Sauvegarder",module,Magento_Catalog
+"save","enregistrer",module,Magento_Catalog
+"Save","Enregistrer",module,Magento_Catalog
 "Save and Continue Edit","Sauvegarder et continuer à modifier",module,Magento_Catalog
 "Save Attribute","Sauvegarder l'attribut",module,Magento_Catalog
 "Save Attribute Set","Sauvegarder le jeu d'attributs",module,Magento_Catalog
@@ -606,7 +606,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Set Product as New to Date","Nouveauté jusqu'au",module,Magento_Catalog
 "Set Root Category for Store","Renseigner la catégorie racine pour la boutique",module,Magento_Catalog
 "Set root category for this store in the <a href=""%1"">configuration</a>.","Définir la catégorie racine pour ce magasin dans la <a href=""%1"">configuration</a>.",module,Magento_Catalog
-"Shop By","Filtrer Par",module,Magento_Catalog
+"Shop By","Filtrer par",module,Magento_Catalog
 "Shopping Options","Affiner les options",module,Magento_Catalog
 "Short Description","Description courte",module,Magento_Catalog
 "Show","Afficher",module,Magento_Catalog

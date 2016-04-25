@@ -43,7 +43,7 @@
 "Review by","Soumis par",theme,frontend/Magento/luma
 "Shipping Info","Informations de livraison",theme,frontend/Magento/luma
 "Shipping Method","Méthode de livraison",theme,frontend/Magento/luma
-"Shop By","Filtrer Par",theme,frontend/Magento/luma
+"Shop By","Filtrer par",theme,frontend/Magento/luma
 "Shopping Options","Affiner les options",theme,frontend/Magento/luma
 "Store alternative addresses","Sauvegarder plusieurs adresses",theme,frontend/Magento/luma
 "<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend/Magento/luma
