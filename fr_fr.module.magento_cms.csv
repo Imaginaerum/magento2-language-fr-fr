@@ -116,7 +116,7 @@
 "RuntimeException","RuntimeException",module,Magento_Cms
 "Save and Continue Edit","Enregistrer et continuer la modification",module,Magento_Cms
 "Save Block","Enregistrer le bloc",module,Magento_Cms
-"Save Page","Sauvegarder la page",module,Magento_Cms
+"Save Page","Enregistrer la page",module,Magento_Cms
 "Schedule","Tâches Programmées",module,Magento_Cms
 "Select Block...","Sélectionnez un bloc...",module,Magento_Cms
 "Select Page...","Choisissez une page...",module,Magento_Cms

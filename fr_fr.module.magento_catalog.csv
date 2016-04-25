@@ -573,10 +573,10 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Save Attribute Set","Enregistrer le jeu d'attributs",module,Magento_Catalog
 "Save Category","Enregistrer la catégorie",module,Magento_Catalog
 "Save & Close","Enregistrer & fermer",module,Magento_Catalog
-"Save & Duplicate","Sauvegarder et Dupliquer",module,Magento_Catalog
-"Save & Edit","Sauvegarder et Modifier",module,Magento_Catalog
-"Save in New Attribute Set","Sauvegarder le nouveau Jeu dAttributs",module,Magento_Catalog
-"Save & New","Sauvegarder et nouveau",module,Magento_Catalog
+"Save & Duplicate","Enregistrer & dupliquer",module,Magento_Catalog
+"Save & Edit","Enregistrer & modifier",module,Magento_Catalog
+"Save in New Attribute Set","Enregistrer le nouveau jeu d'attributs",module,Magento_Catalog
+"Save & New","Enregistrer & nouveau",module,Magento_Catalog
 "Save Search","Sauvegarder la recherche",module,Magento_Catalog
 "Scope","Portée",module,Magento_Catalog
 "Search","Rechercher",module,Magento_Catalog

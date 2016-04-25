@@ -116,7 +116,7 @@
 "Sales","Ventes",module,Magento_Tax
 "Save","Enregistrer",module,Magento_Tax
 "Save and Continue Edit","Enregistrer et continuer la modification",module,Magento_Tax
-"Save Rate","Sauvegarder le taux",module,Magento_Tax
+"Save Rate","Enregistrer le taux",module,Magento_Tax
 "Save Rule","Sauvegarder la règle",module,Magento_Tax
 "Shipping Address","Adresse de livraison",module,Magento_Tax
 "Shipping Excl. Tax (%1)","Livraison HT (%1)",module,Magento_Tax

@@ -506,9 +506,9 @@
 "Sales","Ventes",module,Magento_Sales
 "Sales Emails","Mails des ventes",module,Magento_Sales
 "Same As Billing Address","Identique à l'adresse de facturation",module,Magento_Sales
-"Save Gift Message","Sauvegarder le message cadeau",module,Magento_Sales
-"Save in address book","Sauvegarder dans le carnet d'adresses",module,Magento_Sales
-"Save Order Address","Sauvegarder l'adresse de la commande",module,Magento_Sales
+"Save Gift Message","Enregistrer le message cadeau",module,Magento_Sales
+"Save in address book","Enregistrer dans le carnet d'adresses",module,Magento_Sales
+"Save Order Address","Enregistrer l'adresse de la commande",module,Magento_Sales
 "Save Status","Sauvegarder le Statut",module,Magento_Sales
 "Save Status Assignment","Sauvegarder l'assignation du statut",module,Magento_Sales
 "Search","Rechercher",module,Magento_Sales

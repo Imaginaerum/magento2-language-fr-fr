@@ -42,7 +42,7 @@
 "Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in the filename. No spaces or other characters are allowed.","Veuillez n'utiliser que des lettres (a-z ou A-Z), des nombres (0-9) ou des underscores (_) dans le nom du fichier. Les espaces ou autres caractères ne sont pas autorisés.",module,Magento_Sitemap
 "Priority","Priorité",module,Magento_Sitemap
 "Products Options","Options pour les produits",module,Magento_Sitemap
-"Save & Generate","Sauvegarder & générer",module,Magento_Sitemap
+"Save & Generate","Enregistrer & générer",module,Magento_Sitemap
 "Search Engine Submission Settings","Paramètres de soumission aux moteurs de recherche",module,Magento_Sitemap
 "Site Map","Plan de site",module,Magento_Sitemap
 "Sitemap","Plan de site",module,Magento_Sitemap

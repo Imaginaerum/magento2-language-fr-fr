@@ -13,7 +13,7 @@
 "Please specify a correct Import Service.","Veuillez renseigner un service d'importation valide.",module,Magento_CurrencySymbol
 "Reset","Réinitialiser",module,Magento_CurrencySymbol
 "Save Currency Rates","Enregistrer les taux de devises",module,Magento_CurrencySymbol
-"Save Currency Symbols","Sauvegarder les symboles de devise",module,Magento_CurrencySymbol
+"Save Currency Symbols","Enregistrer les symboles de devise",module,Magento_CurrencySymbol
 "Symbol","Symbole",module,Magento_CurrencySymbol
 "System","Système",module,Magento_CurrencySymbol
 "The custom currency symbols were applied.","Symbole de monnaie personnalisée appliqué.",module,Magento_CurrencySymbol

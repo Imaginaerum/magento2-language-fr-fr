@@ -395,8 +395,8 @@
 "Save","Enregistrer",module,Magento_Customer
 "Save Address","Enregistrer l'adresse",module,Magento_Customer
 "Save and Continue Edit","Enregistrer et continuer la modification",module,Magento_Customer
-"Save Customer","Sauvegarder le client",module,Magento_Customer
-"Save Customer Group","Sauvegarder le groupe clients",module,Magento_Customer
+"Save Customer","Enregistrer le client",module,Magento_Customer
+"Save Customer Group","Enregistrer le groupe clients",module,Magento_Customer
 "See order and shipping status","Voir le statut de la commande et de l'expédition",module,Magento_Customer
 "Select...","Choisir...",module,Magento_Customer
 "Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.","Valeurs séparées par des points-virgules (;).<br>Commencez par un point-virgule pour une première option vide.<br>Laisser vide pour un champ texte.",module,Magento_Customer
