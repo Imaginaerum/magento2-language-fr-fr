@@ -393,8 +393,8 @@
 "Reset password token mismatch.","Le jeton de réinitialisation de mot de passe ne correspond pas.",module,Magento_Customer
 "Sales Statistics","Statistiques de ventes",module,Magento_Customer
 "Save","Enregistrer",module,Magento_Customer
-"Save Address","Sauvegarder l'adresse",module,Magento_Customer
-"Save and Continue Edit","Sauvegarder et continuer à modifier",module,Magento_Customer
+"Save Address","Enregistrer l'adresse",module,Magento_Customer
+"Save and Continue Edit","Enregistrer et continuer la modification",module,Magento_Customer
 "Save Customer","Sauvegarder le client",module,Magento_Customer
 "Save Customer Group","Sauvegarder le groupe clients",module,Magento_Customer
 "See order and shipping status","Voir le statut de la commande et de l'expédition",module,Magento_Customer

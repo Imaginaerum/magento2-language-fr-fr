@@ -154,7 +154,7 @@
 "Require Customer To Be Logged In To Checkout","Imposer au client d'être connecté pour passer une commande",module,Magento_Checkout
 "* Required Fields","* Champs requis",module,Magento_Checkout
 "Review & Payments","Vérification & Paiement",module,Magento_Checkout
-"Save Address","Sauvegarder l'adresse",module,Magento_Checkout
+"Save Address","Enregistrer l'adresse",module,Magento_Checkout
 "Save in address book","Sauvegarder dans le carnet d'adresses",module,Magento_Checkout
 "See Details","Voir les détails",module,Magento_Checkout
 "See price before order confirmation.","Voir le prix avant la confirmation de la commande.",module,Magento_Checkout

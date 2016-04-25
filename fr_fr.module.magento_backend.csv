@@ -424,10 +424,10 @@
 "Root Category","Catégorie Racine",module,Magento_Backend
 "Sales Representative","Représentant des ventes",module,Magento_Backend
 "Save","Enregistrer",module,Magento_Backend
-"Save Account","Sauvegarder le compte",module,Magento_Backend
-"Save and Continue Edit","Sauvegarder et continuer à modifier",module,Magento_Backend
-"Save Cache Settings","Sauvegarder les paramètres du cache",module,Magento_Backend
-"Save Config","Sauvegarder la configuration",module,Magento_Backend
+"Save Account","Enregistrer le compte",module,Magento_Backend
+"Save and Continue Edit","Enregistrer et continuer la modification",module,Magento_Backend
+"Save Cache Settings","Enregistrer les paramètres du cache",module,Magento_Backend
+"Save Config","Enregistrer la configuration",module,Magento_Backend
 "Save Store","Sauvegarder le magasin",module,Magento_Backend
 "Save Store View","Sauvegarder la vue magasin",module,Magento_Backend
 "Save Web Site","Sauvegarder le site web",module,Magento_Backend

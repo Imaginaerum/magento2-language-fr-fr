@@ -12,7 +12,7 @@
 "Please correct the input data for %1 => %2 rate","Veuillez corriger les données renseignées pour %1 => taux %2",module,Magento_CurrencySymbol
 "Please specify a correct Import Service.","Veuillez renseigner un service d'importation valide.",module,Magento_CurrencySymbol
 "Reset","Réinitialiser",module,Magento_CurrencySymbol
-"Save Currency Rates","Sauvegarder les taux de devises",module,Magento_CurrencySymbol
+"Save Currency Rates","Enregistrer les taux de devises",module,Magento_CurrencySymbol
 "Save Currency Symbols","Sauvegarder les symboles de devise",module,Magento_CurrencySymbol
 "Symbol","Symbole",module,Magento_CurrencySymbol
 "System","Système",module,Magento_CurrencySymbol

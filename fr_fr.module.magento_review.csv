@@ -104,8 +104,8 @@
 "Reviews","Avis",module,Magento_Review
 "Review(s)","Avis",module,Magento_Review
 "Review (submitted on %1):","Avis (soumis le %1) :",module,Magento_Review
-"Save and Next","Sauvegarder et suivant",module,Magento_Review
-"Save and Previous","Sauvegarder et précédent",module,Magento_Review
+"Save and Next","Enregistrer et suivant",module,Magento_Review
+"Save and Previous","Enregistrer et précédent",module,Magento_Review
 "Save Rating","Sauvegarder la notation",module,Magento_Review
 "Save Review","Sauvegarder le commentaire",module,Magento_Review
 "See Details","Voir les détails",module,Magento_Review

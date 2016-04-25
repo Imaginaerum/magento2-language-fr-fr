@@ -114,8 +114,8 @@
 "Redirect to CMS-page if Cookies are Disabled","Rediriger vers la page CMS si les cookies sont désactivés",module,Magento_Cms
 "Relative to Web Site Base URL","Relative à l'URL de base du site web",module,Magento_Cms
 "RuntimeException","RuntimeException",module,Magento_Cms
-"Save and Continue Edit","Sauvegarder et continuer à modifier",module,Magento_Cms
-"Save Block","Sauvegarder le bloc",module,Magento_Cms
+"Save and Continue Edit","Enregistrer et continuer la modification",module,Magento_Cms
+"Save Block","Enregistrer le bloc",module,Magento_Cms
 "Save Page","Sauvegarder la page",module,Magento_Cms
 "Schedule","Tâches Programmées",module,Magento_Cms
 "Select Block...","Sélectionnez un bloc...",module,Magento_Cms

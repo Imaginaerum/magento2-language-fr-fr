@@ -46,7 +46,7 @@
 "Please correct the timezone.","Veuillez corriger le fuseau horaire.",module,Magento_Config
 "Please specify the admin custom URL.","Spécifiez l'URL d'Admin personnalisée.",module,Magento_Config
 "Required","Requis",module,Magento_Config
-"Save Config","Sauvegarder la configuration",module,Magento_Config
+"Save Config","Enregistrer la configuration",module,Magento_Config
 "Search String","Chaîne de recherche",module,Magento_Config
 "Selected allowed currency ""%1"" is not available in installed currencies.","La devise sélectionnée ""%1"" n'est pas disponible dans les devises installées.",module,Magento_Config
 "Separate Email","Email Séparé",module,Magento_Config
