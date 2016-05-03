@@ -716,7 +716,7 @@
 "Update Items and Quantities","Mettre à jour les articles et les quantités",module,Magento_Sales
 "Update Qty's","Mettre à jour les quantités",module,Magento_Sales
 "Update Qty's","Mettre à jour les quantités",module,Magento_Sales
-"Use Aggregated Data (beta)","Utiliser les données agrégées (beta)",module,Magento_Sales
+"Use Aggregated Data","Utiliser les données agrégées",module,Magento_Sales
 "Use Order Status As Default","Utiliser ce statut comme valeur par défaut",module,Magento_Sales
 "Validate Each Address Separately in Multi-address Checkout","Valider séparément les adresses lors de commandes multi-adresses",module,Magento_Sales
 "Validation is failed.","Échec de la validation.",module,Magento_Sales

@@ -1,17 +1,29 @@
-# Links
+# Magento 2 French Language Pack
+
+French translation for Magento 2. Translation fr_FR (French France).
+
+Traduction de Magento 2 en Français.
+
+See: http://imaginaerum.github.io/magento2-language-fr-fr
+
+Supported versions:
+
+[[MAGENTOVERSIONREADME]]
+
+## Links
 
 * Website: http://imaginaerum.github.io/magento2-language-fr-fr
 * Packagist: https://packagist.org/packages/imaginaerum/magento2-language-fr-fr
 
-# Contributors
+## Contributors
 
 * [Louis Samson](https://github.com/Losams "Louis Samson")
 * Astrid Bureau
 * [Antoine Lemoine (Owebia)](http://www.owebia.com/ "Antoine Lemoine (Owebia)")
 
-# Installation
+## Installation
 
-## Composer method
+### Composer method
 
 ```
 cd <your magento path>
@@ -27,7 +39,7 @@ composer update imaginaerum/magento2-language-fr-fr
 php bin/magento cache:clean
 ```
 
-## Download repository method
+### Download repository method
 
 Download file: https://github.com/Imaginaerum/magento2-language-fr-fr/archive/master.zip
 
@@ -37,13 +49,13 @@ Create folder your-magento-path/app/i18n/imaginaerum/fr_fr and extract zip into 
 
 | Total | Translated | Left | Progression |
 | -------------: | -----------------------: | -----------------------: | :---------: |
-| 10258 | 10258 | 0 | ![Progress](http://progressed.io/bar/100) |
+| 10260 | 10260 | 0 | ![Progress](http://progressed.io/bar/100) |
 
 | Key | Total | Translated | Left | Progression |
 | :----- | -------------: | -----------------------: | -----------------------: | :---------: |
 | Component Magento2_Base | 38 | 38 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Custom Imaginaerum | 73 | 73 | 0 | ![Progress](http://progressed.io/bar/100) |
-| Deprecated Imaginaerum | 243 | 243 | 0 | ![Progress](http://progressed.io/bar/100) |
+| Deprecated Imaginaerum | 244 | 244 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Lib lib/web/mage/adminhtml/backup.js | 4 | 4 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Lib lib/web/mage/adminhtml/wysiwyg/widget.js | 1 | 1 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Lib lib/web/mage/backend/suggest.js | 3 | 3 | 0 | ![Progress](http://progressed.io/bar/100) |
@@ -128,7 +140,7 @@ Create folder your-magento-path/app/i18n/imaginaerum/fr_fr and extract zip into 
 | Module Magento_SendFriend | 63 | 63 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_Shipping | 191 | 191 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_Sitemap | 70 | 70 | 0 | ![Progress](http://progressed.io/bar/100) |
-| Module Magento_Store | 44 | 44 | 0 | ![Progress](http://progressed.io/bar/100) |
+| Module Magento_Store | 45 | 45 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_Swatches | 25 | 25 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_Tax | 200 | 200 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_TaxImportExport | 19 | 19 | 0 | ![Progress](http://progressed.io/bar/100) |

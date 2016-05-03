@@ -7,6 +7,7 @@
     "keywords": [
         "magento",
         "magento2",
+        "magento 2",
         "plugin",
         "module",
         "french",
@@ -18,9 +19,7 @@
     "license": [
         "MIT"
     ],
-    "require": {
-        "magento/framework": "100.0.*"
-    },
+    "require": {},
     "autoload": {
         "files": [
             "registration.php"

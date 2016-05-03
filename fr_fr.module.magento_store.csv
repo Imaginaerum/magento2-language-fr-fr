@@ -14,6 +14,7 @@
 "Environment emulation nesting is not allowed.","L'imbrication d'émulation d'environnement n'est pas autorisée.",module,Magento_Store
 "Helper arguments should not be used in custom layout updates.","Les arguments du Helper ne peuvent être utilisées dans les custom layout updates.",module,Magento_Store
 "Invalid scope object","Portée de l'objet invalide",module,Magento_Store
+"Invalid store parameter.","Paramètres boutique invalide",module,Magento_Store
 "Language","Langue",module,Magento_Store
 "Layout building instructions.","Instructions de construction d'agencement.",module,Magento_Store
 "Layouts","Agencements",module,Magento_Store
