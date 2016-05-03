@@ -26,7 +26,7 @@
 "Custom2 Contact Name","Nom du contact personnalisé 2",module,Magento_Email
 "Default Config","Configuration par défaut",module,Magento_Email
 "Delete Template","Supprimer le gabarit",module,Magento_Email
-"Design config must have area and store.","La configuration du design doit avoir une zone et un magasin.",module,Magento_Email
+"Design config must have area and store.","La configuration du design doit avoir une zone et une boutique.",module,Magento_Email
 "Design params must be set before calling this method","Les paramètres du design doivent être initialisés avant d'appeler cette méthode",module,Magento_Email
 "Duplicate Of Template Name","Duplication du nom de gabarit",module,Magento_Email
 "Edit Email Template","Modifier le gabarit de l'email",module,Magento_Email
@@ -64,16 +64,16 @@
 "Preview","Prévisualiser",module,Magento_Email
 "Preview Template","Prévisualiser le gabarit",module,Magento_Email
 "Region/State","Région/État",module,Magento_Email
-"Requested invalid store ""%1""","Le magasin ""%1"" est invalide",module,Magento_Email
+"Requested invalid store ""%1""","La boutique ""%1"" est invalide",module,Magento_Email
 "Reset","Réinitialiser",module,Magento_Email
 "Return Html Version","Revenir à la version HTML",module,Magento_Email
 "Sales Representative Contact Email","Email du contact représentant des ventes",module,Magento_Email
 "Sales Representative Contact Name","Nom du contact représentant des ventes",module,Magento_Email
 "Save Template","Enregistrer le gabarit",module,Magento_Email
-"Store Contact Information","Informations de contact du magasin",module,Magento_Email
+"Store Contact Information","Informations de contact de la boutique",module,Magento_Email
 "Store Hours","Heures d'ouverture",module,Magento_Email
-"Store Name","Nom du magasin",module,Magento_Email
-"Store Phone Number","Numéro de téléphone du magasin",module,Magento_Email
+"Store Name","Nom de la boutique",module,Magento_Email
+"Store Phone Number","Numéro de téléphone de la boutique",module,Magento_Email
 "Street Address 1","Adresse 1",module,Magento_Email
 "Street Address 2","Complément d'adresse",module,Magento_Email
 "Subject","Sujet",module,Magento_Email

@@ -151,7 +151,7 @@
 "Category Data","Données de catégorie",module,Magento_Catalog
 "Category does not contain specified product","La catégorie ne contient pas le produit demandé",module,Magento_Catalog
 "Category Flat Data","Données fixes de catégorie",module,Magento_Catalog
-"Category is not available for requested store.","La catégorie n'est pas disponible pour le magasin demandé.",module,Magento_Catalog
+"Category is not available for requested store.","La catégorie n'est pas disponible pour la boutique demandée.",module,Magento_Catalog
 "Category Link Block Template","Gabarit du bloc lien catégorie",module,Magento_Catalog
 "Category Link Inline Template","Gabarit inline de lien catégorie",module,Magento_Catalog
 "Category Name","Nom de la catégorie",module,Magento_Catalog
@@ -180,7 +180,7 @@
 "Comma-separated.","Séparées par des virgules.",module,Magento_Catalog
 "Comparable","Comparable",module,Magento_Catalog
 "Comparable on Frontend","Comparable sur le frontend",module,Magento_Catalog
-"Comparable on Storefront","Comparable sur le magasin",module,Magento_Catalog
+"Comparable on Storefront","Comparable sur la boutique",module,Magento_Catalog
 "Compare","Comparer",module,Magento_Catalog
 "Compare Products","Comparer des produits",module,Magento_Catalog
 "Compatible File Extensions","Extensions de fichiers compatibles",module,Magento_Catalog
@@ -355,8 +355,8 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Item Price","Prix de l'article",module,Magento_Catalog
 "Items %1-%2 of %3","Produits %1-%2 sur %3",module,Magento_Catalog
 "items selected","éléments sélectionnés",module,Magento_Catalog
-"Items that you do not want to show in the catalog or search results should have status 'Disabled' in the desired store.","Les articles que vous ne voulez pas afficher dans le catalogue ou dans les résultats de recherche doivent avoir le statut 'Désactivé' dans le magasin souhaité.",module,Magento_Catalog
-"Items that you don't want to show in the catalog or search results should have status 'Disabled' in the desired store.","Les articles que vous ne voulez pas afficher dans le catalogue ou dans les résultats de recherche doivent avoir le statut 'Désactivé' dans le magasin souhaité.",module,Magento_Catalog
+"Items that you do not want to show in the catalog or search results should have status 'Disabled' in the desired store.","Les articles que vous ne voulez pas afficher dans le catalogue ou dans les résultats de recherche doivent avoir le statut 'Désactivé' dans la boutique souhaitée.",module,Magento_Catalog
+"Items that you don't want to show in the catalog or search results should have status 'Disabled' in the desired store.","Les articles que vous ne voulez pas afficher dans le catalogue ou dans les résultats de recherche doivent avoir le statut 'Désactivé' dans la boutique souhaitée.",module,Magento_Catalog
 "label","libellé",module,Magento_Catalog
 "Last Name","Nom",module,Magento_Catalog
 "Last Notified","Dernière notification",module,Magento_Catalog
@@ -605,7 +605,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Set Product as New from Date","Nouveauté depuis le",module,Magento_Catalog
 "Set Product as New to Date","Nouveauté jusqu'au",module,Magento_Catalog
 "Set Root Category for Store","Renseigner la catégorie racine pour la boutique",module,Magento_Catalog
-"Set root category for this store in the <a href=""%1"">configuration</a>.","Définir la catégorie racine pour ce magasin dans la <a href=""%1"">configuration</a>.",module,Magento_Catalog
+"Set root category for this store in the <a href=""%1"">configuration</a>.","Définir la catégorie racine pour cette boutique dans la <a href=""%1"">configuration</a>.",module,Magento_Catalog
 "Shop By","Filtrer par",module,Magento_Catalog
 "Shopping Options","Affiner les options",module,Magento_Catalog
 "Short Description","Description courte",module,Magento_Catalog
@@ -658,7 +658,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Static block only","Bloc statique seulement",module,Magento_Catalog
 "Status","Statut",module,Magento_Catalog
 "Stock Availability","Disponibilité",module,Magento_Catalog
-"Store","Magasin",module,Magento_Catalog
+"Store","Boutique",module,Magento_Catalog
 "Storefront","Vue magasin client",module,Magento_Catalog
 "Storefront Properties","Propritétés du front office",module,Magento_Catalog
 "Store View","Vue magasin",module,Magento_Catalog
@@ -793,7 +793,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Visible","Visible",module,Magento_Catalog
 "Visible in Advanced Search","Visible dans la recherche avancée",module,Magento_Catalog
 "Visible on Catalog Pages on Frontend","Visible sur les pages catalogue du frontend",module,Magento_Catalog
-"Visible on Catalog Pages on Storefront","Visible sur les pages du catalogue magasin",module,Magento_Catalog
+"Visible on Catalog Pages on Storefront","Visible sur les pages du catalogue de la boutique",module,Magento_Catalog
 "<strong style=""color:red"">Warning!</strong> Applying MAP by default will hide all product prices on the front end.","<strong style=""color:red"">Attention !</strong> Appliquer MAP par défaut masquera tous les prix produits sur le frontend.",module,Magento_Catalog
 "Warning message","Message d'alerte",module,Magento_Catalog
 "Watermark","Filigrane",module,Magento_Catalog

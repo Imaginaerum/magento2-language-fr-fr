@@ -71,8 +71,8 @@
 "Please enter a review.","Veuillez renseigner votre avis.",module,Magento_Review
 "Please enter a review summary.","Veuillez renseigner un résumé pour votre avis.",module,Magento_Review
 "Please select review(s).","Sélectionnez au moins un commentaire.",module,Magento_Review
-"Please specify a rating title for a store, or we'll just use the default value.","Veuillez spécifier un titre d'évaluation pour un magasin, sinon, la valeur par défaut sera utilisée.",module,Magento_Review
-"Please specify a rating title for a store, or we'll just use the default value.","Veuillez spécifier un titre d'évaluation pour un magasin, sinon, la valeur par défaut sera utilisée.",module,Magento_Review
+"Please specify a rating title for a store, or we'll just use the default value.","Veuillez spécifier un titre d'évaluation pour une boutique, sinon, la valeur par défaut sera utilisée.",module,Magento_Review
+"Please specify a rating title for a store, or we'll just use the default value.","Veuillez spécifier un titre d'évaluation pour une boutique, sinon, la valeur par défaut sera utilisée.",module,Magento_Review
 "Posted By","Posté par",module,Magento_Review
 "Posted on","Soumis le",module,Magento_Review
 "Previous","Précédent",module,Magento_Review
@@ -85,7 +85,7 @@
 "Product Rating","Évaluation du produit",module,Magento_Review
 "Product Reviews","Avis produit",module,Magento_Review
 "Product Review (submitted on %1):","Avis (soumis le %1) :",module,Magento_Review
-"Product Store Name","Nom du produit dans le magasin",module,Magento_Review
+"Product Store Name","Nom du produit dans la boutique",module,Magento_Review
 "Quantity","Quantité",module,Magento_Review
 "Rating:","Évaluation :",module,Magento_Review
 "Rating","Évaluation",module,Magento_Review
@@ -117,7 +117,7 @@
 "Sort Order","Ordre de Tri",module,Magento_Review
 "Status","Statut",module,Magento_Review
 "Storage key was not set","Clé de stockage non définie",module,Magento_Review
-"Store: %1 <br/>","Magasin : %1 <br>",module,Magento_Review
+"Store: %1 <br/>","Boutique : %1 <br>",module,Magento_Review
 "Submit Review","Soumettre l'avis",module,Magento_Review
 "Submitted on %1","Soumis le %1",module,Magento_Review
 "Summary","Résumé",module,Magento_Review

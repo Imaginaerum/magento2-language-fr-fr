@@ -147,7 +147,7 @@
 "To","À",module,Magento_ImportExport
 "Unknown attribute filter type","Type de filtre attribut inconnu",module,Magento_ImportExport
 "Uploaded file has no extension","Le fichier uploadé n'a pas d'extension",module,Magento_ImportExport
-"URL key for specified store already exists.","La clé d'URL pour le magasin existe déjà.",module,Magento_ImportExport
+"URL key for specified store already exists.","La clé d'URL pour la boutique existe déjà.",module,Magento_ImportExport
 "User","Utilisateur",module,Magento_ImportExport
 "Validation finished successfully","Succès lors de la validation",module,Magento_ImportExport
 "Validation Results","Résultat de validation",module,Magento_ImportExport

@@ -42,7 +42,7 @@
 "Redirect","Rediriger",module,Magento_UrlRewrite
 "Redirect Type","Type de redirection",module,Magento_UrlRewrite
 "Request Path","Chemin de requête",module,Magento_UrlRewrite
-"Request Path for Specified Store","Chemin de requête pour le magasin spécifié",module,Magento_UrlRewrite
+"Request Path for Specified Store","Chemin de requête pour la boutique spécifiée",module,Magento_UrlRewrite
 "Reset","Réinitialiser",module,Magento_UrlRewrite
 "Save","Enregistrer",module,Magento_UrlRewrite
 "Select Category","Sélectionner une catégorie",module,Magento_UrlRewrite
@@ -50,18 +50,18 @@
 "SKU","SKU",module,Magento_UrlRewrite
 "Something went wrong while saving URL Rewrite.","Une erreur s'est produite lors de l'enregistrement de la réécriture d'URL.",module,Magento_UrlRewrite
 "Status","Statut",module,Magento_UrlRewrite
-"Store","Magasin",module,Magento_UrlRewrite
+"Store","Boutique",module,Magento_UrlRewrite
 "Store View","Vue magasin",module,Magento_UrlRewrite
 "Target Path","Chemin cible",module,Magento_UrlRewrite
 "Temporary (302)","Temporaire (302)",module,Magento_UrlRewrite
-"The category you chose is not associated with the selected store.","La catégorie choisie n'est pas associée au magasin sélectionné.",module,Magento_UrlRewrite
-"The product you chose is not associated with the selected store or category.","Le produit choisi n'est pas associé à la catégorie ou au magasin sélectionné.",module,Magento_UrlRewrite
+"The category you chose is not associated with the selected store.","La catégorie choisie n'est pas associée à la boutique sélectionnée.",module,Magento_UrlRewrite
+"The product you chose is not associated with the selected store or category.","Le produit choisi n'est pas associé à la catégorie ou à la boutique sélectionnée.",module,Magento_UrlRewrite
 "The URL Rewrite has been deleted.","La réécriture d'URL a été effacée.",module,Magento_UrlRewrite
 "The URL Rewrite has been saved.","La réécriture d'URL a été sauvegardée.",module,Magento_UrlRewrite
 "Title","Titre",module,Magento_UrlRewrite
 "Two and more slashes together are not permitted in request path","Il n'est pas autorisé d'utiliser 2 slashes ou plus à la suite dans le chemin de requête",module,Magento_UrlRewrite
 "URL Key","Clé d'URL",module,Magento_UrlRewrite
-"URL key for specified store already exists.","La clé d'URL pour le magasin existe déjà.",module,Magento_UrlRewrite
+"URL key for specified store already exists.","La clé d'URL pour la boutique existe déjà.",module,Magento_UrlRewrite
 "URL Rewrite Information","Information sur la réécriture d'URL",module,Magento_UrlRewrite
 "URL Rewrite Management","Gestion de réécriture d'URL",module,Magento_UrlRewrite
 "URL Rewrites","Réécritures d'URL",module,Magento_UrlRewrite

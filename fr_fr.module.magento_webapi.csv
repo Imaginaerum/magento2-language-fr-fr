@@ -3,7 +3,7 @@
 "Authentication header format is invalid.","Le format d'en-tête d'authentification est invalide.",module,Magento_Webapi
 "Authentication header is absent.","L'en-tête d'authentification est manquant.",module,Magento_Webapi
 "Available APIs","APIs Disponibles",module,Magento_Webapi
-"Cannot perform GET operation with store code 'all'","Impossible d'effectuer l'opération GET avec le code magasin 'all'",module,Magento_Webapi
+"Cannot perform GET operation with store code 'all'","Impossible d'effectuer l'opération GET avec le code boutique 'all'",module,Magento_Webapi
 "Content-Type header is empty.","Content-Type de l'entête vide.",module,Magento_Webapi
 "Content-Type header is invalid.","Content-Type de l'entête invalide.",module,Magento_Webapi
 "Custom","Personnalisé",module,Magento_Webapi

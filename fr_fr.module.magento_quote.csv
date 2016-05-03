@@ -1,6 +1,6 @@
 "An item option with code %1 already exists.","Une option article avec le code %1 existe déjà.",module,Magento_Quote
 "Cannot assign customer to the given cart. Customer already has active cart.","Impossible d'assigner ce client au panier désiré. Le client possède déjà un panier actif.",module,Magento_Quote
-"Cannot assign customer to the given cart. The cart belongs to different store.","Impossible d'assigner ce client au panier. Le panier appartient à un autre magasin.",module,Magento_Quote
+"Cannot assign customer to the given cart. The cart belongs to different store.","Impossible d'assigner ce client au panier. Le panier appartient à une autre boutique.",module,Magento_Quote
 "Cannot assign customer to the given cart. The cart is not anonymous.","Impossible d'assigner ce client au panier désiré. Le panier n'est pas anonyme.",module,Magento_Quote
 "Cannot create quote","Impossible de créer le panier",module,Magento_Quote
 "Cannot place order.","Impossible de créer votre commande.",module,Magento_Quote
@@ -40,7 +40,7 @@
 "Some of the selected options are not currently available.","Certaines options sélectionnées sont actuellement indisponibles.",module,Magento_Quote
 "Something went wrong during the item options declaration.","Une erreur s'est produite lors de la déclaration des options de l'article.",module,Magento_Quote
 "Sorry, but items with payment agreements must be ordered one at a time To continue, please remove or buy the other items in your cart, then order this item by itself.","Pour continuer, les articles avec des accords de paiement doivent être commandés un par un, veuillez retirer ou ajouter d'autres articles dans votre panier, puis commander cet article, à part.",module,Magento_Quote
-"Store Credit","Carte de crédit du magasin",module,Magento_Quote
+"Store Credit","Carte de crédit de la boutique",module,Magento_Quote
 "Subscription Items","Abonnement articles",module,Magento_Quote
 "Subtotal","Sous-total",module,Magento_Quote
 "Tax","Taxe",module,Magento_Quote

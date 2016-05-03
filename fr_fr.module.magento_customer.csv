@@ -161,7 +161,7 @@
 "Delete Address","Supprimer l'adresse",module,Magento_Customer
 "Delete Customer","Supprimer le client",module,Magento_Customer
 "Delete Customer Group","Supprimer le groupe de clients",module,Magento_Customer
-"Deleted Stores","Magasins effacés",module,Magento_Customer
+"Deleted Stores","Boutiques effacées",module,Magento_Customer
 "Delete File","Supprimer le fichier",module,Magento_Customer
 "Delete Image","Effacer l'Image",module,Magento_Customer
 "Delete items","Supprimer les éléments",module,Magento_Customer
@@ -225,7 +225,7 @@
 "If you have an account, sign in with your email address.","Si vous avez un compte, connectez-vous avec votre adresse email.",module,Magento_Customer
 "If you have an account with us, log in using your email address.","Si vous possédez un compte veuillez vous connecter en utilisant votre adresse email.",module,Magento_Customer
 "If you requested this change, set a new password here:","Si vous êtes bien à l'origine de cette demande, veuillez cliquer ci-dessous pour définir un nouveau mot de passe :",module,Magento_Customer
-"If your Magento site has multiple views, you can set the scope to apply to a specific view.","Si votre site Magento a plusieurs magasins, vous pouvez définir la portée à appliquer pour une vue spécifique.",module,Magento_Customer
+"If your Magento site has multiple views, you can set the scope to apply to a specific view.","Si votre site Magento a plusieurs boutiques, vous pouvez définir la portée à appliquer pour une vue spécifique.",module,Magento_Customer
 "Images and Videos","Images et Vidéos",module,Magento_Customer
 "Indeterminate","Indéterminé",module,Magento_Customer
 "InputException","InputException",module,Magento_Customer
@@ -442,7 +442,7 @@
 "Start date","Date de début",module,Magento_Customer
 "State/Province","État/Province",module,Magento_Customer
 "Status","Statut",module,Magento_Customer
-"Store","Magasin",module,Magento_Customer
+"Store","Boutique",module,Magento_Customer
 "Store alternative addresses (for shipping to multiple family members and friends)","Adresses alternatives de livraison (pour expédition multiples aux membres de la famille et aux amis)",module,Magento_Customer
 "Store View","Vue magasin",module,Magento_Customer
 "Street Address %1","Rue - Voie - Bât. %1",module,Magento_Customer
@@ -507,7 +507,7 @@
 "This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","Ce compte n'a pas encore été confirmé. <a href=""%1"">Cliquez ici</a> pour envoyer un nouvel email de confirmation.",module,Magento_Customer
 "This account is not confirmed.' ' <a href=""%1"">Click here</a> to resend confirmation email.","Ce compte n'a pas encore été confirmé. <a href=""%1"">Cliquez ici</a> pour envoyer un nouvel email de confirmation.",module,Magento_Customer
 "This confirmation key is invalid or has expired.","Cette clé de confirmation est invalide ou a expiré.",module,Magento_Customer
-"This customer already exists in this store.","Ce client existe déjà pour ce magasin.",module,Magento_Customer
+"This customer already exists in this store.","Ce client existe déjà pour cette boutique.",module,Magento_Customer
 "This email does not require confirmation.","Cet email ne nécessite pas de confirmation.",module,Magento_Customer
 "This email will be sent instead of default welcome email, after account confirmation.","Cet email sera envoyé à la place de l'email de bienvenue, après la confirmation de création du compte.",module,Magento_Customer
 "This email will be sent instead of the Default Welcome Email, after account confirmation.","Cet email sera envoyé à la place de l'email de bienvenue, après la confirmation de création du compte.",module,Magento_Customer
@@ -518,7 +518,7 @@
 "This email will be sent instead of the Default Welcome Email, if a customer was created without password. <br /><br />
                         Email template chosen based on theme fallback when ""Default"" option is selected.","Cet email est envoyé à la place de l'email par défaut de bienvenue si un client a créé un compte sans mot de passe.<br><br>Le gabarit d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée.",module,Magento_Customer
 "To show VAT number on frontend, set Show VAT Number on Frontend option to Yes.","Pour afficher le numéro de TVA dans le frontend, réglez l'option d'affichage du numéro de TVA dans le frontend à Oui.",module,Magento_Customer
-"To show VAT number on Storefront, set Show VAT Number on Storefront option to Yes.","Pour afficher le numéro de TVA sur la vue client, régler l'option d'affichage du numéro de TVA du magasin à Oui.",module,Magento_Customer
+"To show VAT number on Storefront, set Show VAT Number on Storefront option to Yes.","Pour afficher le numéro de TVA sur la vue client, régler l'option d'affichage du numéro de TVA de la boutique à Oui.",module,Magento_Customer
 "To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","Pour vous connecter sur notre site et définir un mot de passe, cliquez sur ce <a href=""%create_password_url"">lien</a> :",module,Magento_Customer
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Pour vous connecter, utilisez les identifiants renseignés lors de votre commande ou en vous rendant sur la page <a href=""%customer_url"">Mon Compte</a> :",module,Magento_Customer
 "Total","Total",module,Magento_Customer

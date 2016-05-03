@@ -103,10 +103,10 @@
 "Category:","Catégorie :",module,Magento_Backend
 "Changes have been made to this section that have not been saved.","Des modifications ont été apportées à cette section qui n'a pas été encore sauvegardée.",module,Magento_Backend
 "Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","Les données graphiques sont désactivées. Cliquez <a href=""%1"">ici</a> pour les activer.",module,Magento_Backend
-"Chosen category does not associated with the chosen store.","La catégorie n'est pas associée au magasin.",module,Magento_Backend
+"Chosen category does not associated with the chosen store.","La catégorie n'est pas associée à la boutique.",module,Magento_Backend
 "Chosen cms page does not associated with any website.","La page CMS n'est pas associée à un site web.",module,Magento_Backend
-"Chosen cms page does not associated with the chosen store.","La page CMS n'est pas associée à un magasin.",module,Magento_Backend
-"Chosen product does not associated with the chosen store or category.","Le produit n'est pas associée au magasin ou une catégorie.",module,Magento_Backend
+"Chosen cms page does not associated with the chosen store.","La page CMS n'est pas associée à une boutique.",module,Magento_Backend
+"Chosen product does not associated with the chosen store or category.","Le produit n'est pas associée à une boutique ou une catégorie.",module,Magento_Backend
 "City","Ville",module,Magento_Backend
 "Clear","Vider",module,Magento_Backend
 "Close","Fermer",module,Magento_Backend
@@ -124,7 +124,7 @@
 "Country","Pays",module,Magento_Backend
 "Country Options","Options des Pays",module,Magento_Backend
 "Create DB Backup","Créer une sauvegarde de la base de données",module,Magento_Backend
-"Create Store","Créer un magasin",module,Magento_Backend
+"Create Store","Créer une boutique",module,Magento_Backend
 "Create Store View","Créer une vue magasin",module,Magento_Backend
 "Create URL Rewrite:","Créer une réécriture d'URL :",module,Magento_Backend
 "Create Website","Créer un site web",module,Magento_Backend
@@ -159,7 +159,7 @@
 "Default No-route URL","URL par défaut de la page pour une ressource non trouvée",module,Magento_Backend
 "Default Pages","Pages par défaut",module,Magento_Backend
 "Default scope","Portée par défaut",module,Magento_Backend
-"Default Store","Magasin par défaut",module,Magento_Backend
+"Default Store","Boutique par défaut",module,Magento_Backend
 "Default Store View","Vue magasin par défaut",module,Magento_Backend
 "Default Web URL","URL web par défaut",module,Magento_Backend
 "Delete %1","Supprimer %1",module,Magento_Backend
@@ -168,7 +168,7 @@
 "[ deleted ]","  [effacé]",module,Magento_Backend
 " [deleted]","   [effacé]",module,Magento_Backend
 "Delete File","Supprimer le fichier",module,Magento_Backend
-"Delete Store","Supprimer le magasin",module,Magento_Backend
+"Delete Store","Supprimer la boutique",module,Magento_Backend
 "Delete Store View","Supprimer la vue magasin",module,Magento_Backend
 "Delete Web Site","Supprimer le site web",module,Magento_Backend
 "Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","Effacer un %1 n'effacera pas les informations associées avec le %1 (par ex. catégories, produits, etc.), mais il ne sera pas possible de restaurer le %1. Nous vous suggérons de créer une sauvegarde de la base de données avant d'effacer le %1.",module,Magento_Backend
@@ -186,8 +186,8 @@
 "Display default currency","Afficher la devise par défaut",module,Magento_Backend
 "Edit","Modifier",module,Magento_Backend
 "Edit Design Change","Modifier le changement de design",module,Magento_Backend
-"Edit Store","Modifier le magasin",module,Magento_Backend
-"Edit Store Design Change","Modifier le changement de design du magasin",module,Magento_Backend
+"Edit Store","Modifier la boutique",module,Magento_Backend
+"Edit Store Design Change","Modifier le changement de design de la boutique",module,Magento_Backend
 "Edit Store View","Modifier la vue magasin",module,Magento_Backend
 "Edit URL Rewrite","Modifier la réécriture d'URL",module,Magento_Backend
 "Edit URL Rewrite for a Category","Modifier une réécriture d'URL pour une catégorie",module,Magento_Backend
@@ -298,7 +298,7 @@
 "Magento ver. %1","Magento ver. %1",module,Magento_Backend
 "Mail Sending Settings","Paramètres d'envoi des emails",module,Magento_Backend
 "Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/","Assurez-vous que l'URL se termine par un '/' (slash), ex : http://yourdomain/magento/",module,Magento_Backend
-"Manage Stores","Gérer les magasins",module,Magento_Backend
+"Manage Stores","Gérer les boutiques",module,Magento_Backend
 "Marketing","Marketing",module,Magento_Backend
 "Mass Actions","Actions de masse",module,Magento_Backend
 "Maximum sender name length is 255. Please correct your settings.","La longueur maximale du nom de l'expéditeur est de 255. Veuillez corriger vos paramètres.",module,Magento_Backend
@@ -321,7 +321,7 @@
 "New Custom Variable","Nouvelle variable personnalisée",module,Magento_Backend
 "[New/Edit] URL Rewrite","[Ajouter/Modifier] Une Réécriture d'URL",module,Magento_Backend
 "New Password","Nouveau mot de passe",module,Magento_Backend
-"New Store","Nouveau magasin",module,Magento_Backend
+"New Store","Nouvelle boutique",module,Magento_Backend
 "New Store Design Change","Nouveau changement de design",module,Magento_Backend
 "New Store View","Nouvelle vue magasin",module,Magento_Backend
 "New Web Site","Nouveau site web",module,Magento_Backend
@@ -428,7 +428,7 @@
 "Save and Continue Edit","Enregistrer et continuer la modification",module,Magento_Backend
 "Save Cache Settings","Enregistrer les paramètres du cache",module,Magento_Backend
 "Save Config","Enregistrer la configuration",module,Magento_Backend
-"Save Store","Enregistrer le magasin",module,Magento_Backend
+"Save Store","Enregistrer la boutique",module,Magento_Backend
 "Save Store View","Enregistrer la vue magasin",module,Magento_Backend
 "Save Web Site","Enregistrer le site web",module,Magento_Backend
 "Scope:","Portée :",module,Magento_Backend
@@ -485,16 +485,16 @@
 "Static Files Settings","Paramètres des fichiers statiques",module,Magento_Backend
 "Status","Statut",module,Magento_Backend
 "Storage Configuration for Media","Configuration du stockage des médias",module,Magento_Backend
-"store(%1) scope","portée du magasin (%1)",module,Magento_Backend
-"Store","Magasin",module,Magento_Backend
-"Store Design","Design du magasin",module,Magento_Backend
-"Store Email Addresses","Adresses email du magasin",module,Magento_Backend
-"Store Hours of Operation","Heures d'ouvertures du magasin",module,Magento_Backend
-"Store Information","Informations magasin",module,Magento_Backend
-"Store Name","Nom du magasin",module,Magento_Backend
-"Store Phone Number","Numéro de téléphone du magasin",module,Magento_Backend
-"Stores","Magasins",module,Magento_Backend
-"Stores Configuration","Configuration des magasins",module,Magento_Backend
+"store(%1) scope","portée de la boutique (%1)",module,Magento_Backend
+"Store","Boutique",module,Magento_Backend
+"Store Design","Design de la boutique",module,Magento_Backend
+"Store Email Addresses","Adresses email de la boutique",module,Magento_Backend
+"Store Hours of Operation","Heures d'ouvertures de la boutique",module,Magento_Backend
+"Store Information","Informations sur la boutique",module,Magento_Backend
+"Store Name","Nom de la boutique",module,Magento_Backend
+"Store Phone Number","Numéro de téléphone de la boutique",module,Magento_Backend
+"Stores","Boutiques",module,Magento_Backend
+"Stores Configuration","Configuration des boutiques",module,Magento_Backend
 "Store View","Vue magasin",module,Magento_Backend
 "Store View:","Vue magasin :",module,Magento_Backend
 "[STORE VIEW]","[VUE MAGASIN]",module,Magento_Backend
@@ -530,9 +530,9 @@
 "The sender name ""%1"" is not valid. Please use only visible characters and spaces.","Le nom de l'expéditeur ""%1"" n'est pas valide. Veuillez utilisez uniquement des caractères et des espaces.",module,Magento_Backend
 "The specified image adapter cannot be used because of: %1","Adapter image ne peut être utilisé : %1",module,Magento_Backend
 "The static files cache has been cleaned.","Le cache des fichiers statiques a été vidé.",module,Magento_Backend
-"The store does not exist","Le magasin n'existe pas",module,Magento_Backend
-"The store has been deleted.","Le magasin a été supprimé.",module,Magento_Backend
-"The store has been saved.","Le magasin a été sauvegardé.",module,Magento_Backend
+"The store does not exist","La boutique n'existe pas",module,Magento_Backend
+"The store has been deleted.","La boutique a été supprimé.",module,Magento_Backend
+"The store has been saved.","La boutique a été sauvegardé.",module,Magento_Backend
 "The store view has been deleted.","La vue magasin a été supprimée.",module,Magento_Backend
 "The store view has been saved","La vue magasin a été sauvegardée",module,Magento_Backend
 "The timeout limit for response from synchronize process was reached.","La limite du délai d'attente de la réponse du processus de synchronisation a été atteinte.",module,Magento_Backend
@@ -541,12 +541,12 @@
 "The website does not exist.","Le site web n'existe pas.",module,Magento_Backend
 "The website has been deleted.","Le site web a été supprimé.",module,Magento_Backend
 "The website has been saved.","Le site web a été sauvegardé.",module,Magento_Backend
-"This attribute shares the same value in all stores.","Cet attribut partage les mêmes valeurs dans tous les magasins.",module,Magento_Backend
+"This attribute shares the same value in all stores.","Cet attribut partage les mêmes valeurs dans toutes les boutiques.",module,Magento_Backend
 "This is a required field.","Ce champ est obligatoire.",module,Magento_Backend
 "This is only a demo store. You can browse and place orders, but nothing will be processed.","Ceci est une boutique de démonstration. Vous pouvez naviguer et passer des commandes, mais aucune ne pourra être traitée.",module,Magento_Backend
 "This section is not allowed.","Cette section n'est pas autorisée.",module,Magento_Backend
 "This setting will not be taken into account if system has more than one store view.","Ce paramètre ne sera pas pris en compte si le système a plus d'une vue magasin.",module,Magento_Backend
-"This store cannot be deleted.","Ce magasin ne peut pas être effacé.",module,Magento_Backend
+"This store cannot be deleted.","Cette boutique ne peut pas être supprimée.",module,Magento_Backend
 "This store view cannot be deleted.","Cette vue magasin ne peut pas être supprimée.",module,Magento_Backend
 "This tab contains invalid data. Please resolve this before saving.","Cet onglet contient des données invalides. Veuillez les corriger avant de sauvegarder.",module,Magento_Backend
 "This tab contains invalid data. Please solve the problem before saving.","Cet onglet contient des données non valides. Veuillez résoudre le problème avant de sauvegarder.",module,Magento_Backend
@@ -569,7 +569,7 @@
 "Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.","Les caches de traduction, de blocs et autres sorties doivent être désactivés pour utiliser la traduction en ligne sur le font office et sur le back office.",module,Magento_Backend
 "Translate Inline","Traduire en Ligne",module,Magento_Backend
 "Type","Type",module,Magento_Backend
-"Unable to delete store. Please, try again later.","Impossible de supprimer le magasin. Veuillez réessayer ultérieurement.",module,Magento_Backend
+"Unable to delete store. Please, try again later.","Impossible de supprimer la boutique. Veuillez réessayer ultérieurement.",module,Magento_Backend
 "Unable to delete store view. Please, try again later.","Impossible de supprimer la vue magasin. Veuillez réessayer ultérieurement.",module,Magento_Backend
 "Unable to delete website. Please, try again later.","Impossible de supprimer le site web. Veuillez réessayer ultérieurement.",module,Magento_Backend
 "Unable to proceed. Please, try again.","Impossible de continuer. Veuillez réessayer ultérieurement.",module,Magento_Backend
@@ -621,7 +621,7 @@
 "Views","Vues",module,Magento_Backend
 "View Statistics For:","Voir les statistiques pour :",module,Magento_Backend
 "Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.","Attention ! L'activation de cette fonctionnalité n'est pas recommandée dans un environnement de production car elle présente un risque de sécurité potentiel.",module,Magento_Backend
-"<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).","<strong style=""color:red"">Attention !</strong> Quand vous utilisez le code magasin dans les URLs, il est possible dans certains cas que le système ne fonctionne pas correctement si vous utilisez des services tiers dans lesquels vous avez spécifié des URLs sans le code magasin (ex. PayPal etc.).",module,Magento_Backend
+"<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).","<strong style=""color:red"">Attention !</strong> Quand vous utilisez le code boutique dans les URLs, il est possible dans certains cas que le système ne fonctionne pas correctement si vous utilisez des services tiers dans lesquels vous avez spécifié des URLs sans le code boutique (ex. PayPal etc.).",module,Magento_Backend
 "Web","Web",module,Magento_Backend
 "Web Setup Wizard","Assistant Configuration web",module,Magento_Backend
 "website(%1) scope","portée du site web (%1)",module,Magento_Backend
@@ -653,7 +653,7 @@
 "You can't delete the design change.","Vous ne pouvez pas supprimer le changement de design.",module,Magento_Backend
 "You deleted the custom variable.","Variable personnalisée supprimée.",module,Magento_Backend
 "You deleted the design change.","Changement de design supprimé.",module,Magento_Backend
-"You deleted the store.","Vous avez supprimé le magasin.",module,Magento_Backend
+"You deleted the store.","Vous avez supprimé la boutique.",module,Magento_Backend
 "You deleted the store view.","Vous avez supprimé la vue magasin.",module,Magento_Backend
 "You deleted the website.","Vous avez supprimé le site web.",module,Magento_Backend
 "You did not sign in correctly or your account is temporarily disabled.","Erreur dans les paramètres de connexion ou votre compte est temporairement désactivé.",module,Magento_Backend
@@ -668,7 +668,7 @@
 "You saved the configuration.","Vous avez sauvegardé la configuration.",module,Magento_Backend
 "You saved the custom variable.","Variable personnalisée sauvegardée.",module,Magento_Backend
 "You saved the design change.","Vous avez sauvegardé le changement de design.",module,Magento_Backend
-"You saved the store.","Magasin sauvegardé.",module,Magento_Backend
+"You saved the store.","Boutique sauvegardée.",module,Magento_Backend
 "You saved the store view.","Vue magasin sauvegardée.",module,Magento_Backend
 "You saved the website.","Site web sauvegardé.",module,Magento_Backend
 "You will have to log in after you save your custom admin path.","Vous devrez vous reconnecter après avoir enregistré le chemin personnalisé.",module,Magento_Backend

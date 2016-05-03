@@ -19,7 +19,7 @@
 "Attribute %1 doesn't have any option","L'attribut %1 ne possède aucune option",deprecated,Imaginaerum
 "Attribute %1 doesn't work with options","L'attribut %1 ne fonctionne pas avec des options",deprecated,Imaginaerum
 "Attribute '%1' is locked. %2","Attribut '%1' est verrouillé. %2",deprecated,Imaginaerum
-"Cannot perform GET operation with store code 'all'","Impossible d'effectuer l'opération GET avec le code magasin 'all'",deprecated,Imaginaerum
+"Cannot perform GET operation with store code 'all'","Impossible d'effectuer l'opération GET avec le code boutique 'all'",deprecated,Imaginaerum
 "Cannot save comment:
 %1","Impossible de sauvegarder le commentaire :
 %1",deprecated,Imaginaerum

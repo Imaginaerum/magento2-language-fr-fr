@@ -50,7 +50,7 @@
 "Cannot save attribute %1","Vous ne pouvez pas sauvegarder l'attribut %1",module,Magento_Eav
 "Cannot save attribute","Enregistrement de l'attribut impossible",module,Magento_Eav
 "Cannot save attributeGroup","Impossible de sauvegarder le groupe d'attributs",module,Magento_Eav
-"Catalog Input Type for Store Owner","Type d'entrée catalogue pour le propriétaire du magasin",module,Magento_Eav
+"Catalog Input Type for Store Owner","Type d'entrée catalogue pour le propriétaire de la boutique",module,Magento_Eav
 "Current module EAV entity is undefined","Le module d'entités EAV actuel n'est pas défini",module,Magento_Eav
 "Current module pathname is undefined","Le chemin d'accès actuel du module n'est pas défini",module,Magento_Eav
 "Data integrity: No header row found for attribute","Intégrité des données : aucune ligne d'en-tête trouvée pour l'attribut",module,Magento_Eav
@@ -125,7 +125,7 @@
 "The form code is not defined.","Le code de formulaire n'est pas défini.",module,Magento_Eav
 "There was an error deleting attribute set.","Il y a eu une erreur lors de la suppression sur le jeu d'attributs.",module,Magento_Eav
 "There was an error saving attribute set.","Une erreur s'est produite lors de la sauvegarde du jeu d'attributs.",module,Magento_Eav
-"The storefront label is not defined.","Le libellé du magasin n'est pas défini.",module,Magento_Eav
+"The storefront label is not defined.","Le libellé de la boutique n'est pas défini.",module,Magento_Eav
 "The value of attribute ""%1"" is invalid.","La valeur de l'attribut ""%1"" est invalide.",module,Magento_Eav
 "The value of attribute ""%1"" is invalid","La valeur de l'attribut ""%1"" est invalide",module,Magento_Eav
 "The value of attribute ""%1"" must be set","La valeur de l'attribut ""%1"" doit être assignée",module,Magento_Eav

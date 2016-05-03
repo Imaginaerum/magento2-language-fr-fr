@@ -47,7 +47,7 @@
 "No","Non",module,Magento_Translation
 "No confirmation","Aucune confirmation",module,Magento_Translation
 "No records found.","Aucun élément trouvé.",module,Magento_Translation
-"No stores were reassigned.","Aucun magasin assigné.",module,Magento_Translation
+"No stores were reassigned.","Aucune boutique assignée.",module,Magento_Translation
 "Ok","Ok",module,Magento_Translation
 "OK","OK",module,Magento_Translation
 "Please add rows to option.","Veuillez ajouter des lignes à l'option.",module,Magento_Translation
@@ -82,7 +82,7 @@
 "Please enter issue number or start date for switch/solo card type.","Veuillez saisir le numéro de problème ou une date de début pour le type de carte switch/solo.",module,Magento_Translation
 "Please input a valid CSS-length. For example 100px or 77pt or 20em or .5ex or 50%.","Veuillez renseigner une dimension CSS valide (ex : 100px, 77pt, 20em, .5ex ou 50%).",module,Magento_Translation
 "Please make sure your passwords match.","Vérifiez que vos mots de passe concordent.",module,Magento_Translation
-"Please put your store into maintenance mode and redeploy static files after changing strategy","Veuillez mettre votre magasin en maintenance et redéployer les fichiers statiques après un changement de stratégie",module,Magento_Translation
+"Please put your store into maintenance mode and redeploy static files after changing strategy","Veuillez mettre votre boutique en maintenance et redéployer les fichiers statiques après un changement de stratégie",module,Magento_Translation
 "Please select a file","Sélectionnez un fichier",module,Magento_Translation
 "Please select an option.","Sélectionnez une option.",module,Magento_Translation
 "Please select items.","Veuillez sélectionner un élement.",module,Magento_Translation
@@ -122,7 +122,7 @@
 "TB","To",module,Magento_Translation
 "Text length does not satisfy specified text range.","La longueur du texte ne satisfait pas la plage de texte spécifiée.",module,Magento_Translation
 "The From Date value should be less than or equal to the To Date value.","La date de départ doit être inférieure ou égale à la date de fin.",module,Magento_Translation
-"The URL to assign stores is not defined.","URL assignée aux magasins non trouvée.",module,Magento_Translation
+"The URL to assign stores is not defined.","URL assignée aux boutiques non définie.",module,Magento_Translation
 "The value is not within the specified range.","La valeur n'est pas dans la plage spécifiée.",module,Magento_Translation
 "This date is a required value.","Cette date est obligatoire.",module,Magento_Translation
 "This is a required field.","Ce champ est obligatoire.",module,Magento_Translation

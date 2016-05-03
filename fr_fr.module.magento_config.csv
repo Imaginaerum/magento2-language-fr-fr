@@ -63,9 +63,9 @@
 "Specified","Spécifié",module,Magento_Config
 "Specify a fully qualified URL.","Spécifiez une URL qualifiée.",module,Magento_Config
 "Specify a URL or path that starts with placeholder(s): %1, and ends with ""/"".","Spécifiez une URL ou un chemin qui commence par : %1, et se termine par ""/"".",module,Magento_Config
-"store(%1) scope","portée du magasin (%1)",module,Magento_Config
-"Store","Magasin",module,Magento_Config
-"Stores","Magasins",module,Magento_Config
+"store(%1) scope","portée de la boutique (%1)",module,Magento_Config
+"Store","Boutique",module,Magento_Config
+"Stores","Boutiques",module,Magento_Config
 "Store View","Vue magasin",module,Magento_Config
 "[STORE VIEW]","[VUE MAGASIN]",module,Magento_Config
 "System","Système",module,Magento_Config

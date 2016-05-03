@@ -100,7 +100,7 @@
 "Sorry, but the administrator denied subscription for guests. ' 'Please <a href=""%1"">register</a>.","Désolé, les abonnements pour les invités sont désactivés. Veuillez vous <a href=""%1"">sauvegarder</a>.",module,Magento_Newsletter
 "Start","Commencer",module,Magento_Newsletter
 "Status","Statut",module,Magento_Newsletter
-"Store","Magasin",module,Magento_Newsletter
+"Store","Boutique",module,Magento_Newsletter
 "Store View","Vue magasin",module,Magento_Newsletter
 "Subject","Sujet",module,Magento_Newsletter
 "Subscribe","Inscription",module,Magento_Newsletter

@@ -265,7 +265,7 @@
 "Items in Your Shopping Cart","Articles dans votre panier",module,Magento_Paypal
 "It is recommended to set this value to ""Debit or Credit Card"" per store views.","Il est recommandé de fixer cette valeur à ""Carte de débit ou de crédit"" pour chaque vue magasin.",module,Magento_Paypal
 "It is recommended to set this value to ""Magento_Paypal"" per store views.","Il est recommandé de définir cette valeur à ""Magento_Paypal"" par vue magasin.",module,Magento_Paypal
-"It is recommended to set this value to ""PayPal"" per store views.","Il est recommandé de fixer cette valeur à ""PayPal"" par vues de magasin.",module,Magento_Paypal
+"It is recommended to set this value to ""PayPal"" per store views.","Il est recommandé de fixer cette valeur à ""PayPal"" par vues magasin.",module,Magento_Paypal
 "Last Correlation ID","Dernier ID de corrélation",module,Magento_Paypal
 "Last Name","Nom",module,Magento_Paypal
 "Last Transaction ID","ID de la dernière transaction",module,Magento_Paypal
@@ -466,8 +466,8 @@
 "Shipping Method","Méthode de livraison",module,Magento_Paypal
 "Ship To","Livré à",module,Magento_Paypal
 "Ship-to Name","Nom de livraison",module,Magento_Paypal
-"Shop now using (150 X 40)","Magasin utilisant maintenant (150 X 40)",module,Magento_Paypal
-"Shop now using (150 X 60)","Magasin utilisant maintenant (150 X 60)",module,Magento_Paypal
+"Shop now using (150 X 40)","Boutique utilisant maintenant (150 X 40)",module,Magento_Paypal
+"Shop now using (150 X 60)","Boutique utilisant maintenant (150 X 60)",module,Magento_Paypal
 "Shortcut","Raccourci",module,Magento_Paypal
 "Shortcut Buttons Flavor","Boutons de raccourci Flavor",module,Magento_Paypal
 "Shortcut on Product View","Raccourci vers la vue produit",module,Magento_Paypal
@@ -567,7 +567,7 @@
 "Use Proxy","Utiliser un proxy",module,Magento_Paypal
 "User","Utilisateur",module,Magento_Paypal
 "User-initiated Currency Conversion","L'utilisateur de conversion de devises lancé",module,Magento_Paypal
-"Uses store frontend name by default.","Utiliser le nom du magasin par défaut.",module,Magento_Paypal
+"Uses store frontend name by default.","Utiliser le nom de la boutique par défaut.",module,Magento_Paypal
 "Vendor","Vendeur",module,Magento_Paypal
 "verified","vérifié",module,Magento_Paypal
 "View","Voir",module,Magento_Paypal

@@ -107,7 +107,7 @@
 "Test Label","Etiquette test",module,Magento_Theme
 "testMessage","testMessage",module,Magento_Theme
 "The CSS file must be less than %1M.","La taille du fichier CSS doit être inférieure a %1Mo.",module,Magento_Theme
-"The date range for this design change overlaps another design change for the specified store.","La plage de date pour ce changement de design chevauche un autre changement de design pour ce magasin.",module,Magento_Theme
+"The date range for this design change overlaps another design change for the specified store.","La plage de date pour ce changement de design chevauche un autre changement de design pour cette boutique.",module,Magento_Theme
 "The JS file must be less than %1M.","La taille du fichier JS doit être inférieure à %1Mo.",module,Magento_Theme
 "Theme: %1","Thème : %1",module,Magento_Theme
 "Theme","Thème",module,Magento_Theme
@@ -127,7 +127,7 @@
 "This action will delete your custom instructions and reset robots.txt file to system's default settings.","Cette action supprimera les instructions personnalisées et réinitialisera le fichier robots.txt avec les valeurs par défaut du système.",module,Magento_Theme
 "This file will replace the current custom.css file and can't be more than 2 MB.","Ce fichier remplacera le fichier custom.css. Il ne peut pas excéder 2 Mo.",module,Magento_Theme
 "This file will replace the current custom.css file and can't be more than 2 MB.","Ce fichier remplacera le fichier custom.css. Il ne peut pas excéder 2 Mo.",module,Magento_Theme
-"This is demo store. All orders will not be transferred.","Ceci est une boutique de démo. Aucune commande ne sera traitée.",module,Magento_Theme
+"This is demo store. All orders will not be transferred.","Ceci est une boutique de démonstration. Aucune commande ne sera traitée.",module,Magento_Theme
 "This is demo store. No orders will be fulfilled.","Ceci est une boutique de démonstration. Aucune commande ne sera honorée.",module,Magento_Theme
 "This theme is not editable.","Ce thème n'est pas modifiable.",module,Magento_Theme
 "This will be displayed just before body closing tag.","Ceci sera affiché juste avant la balise de fermeture du body.",module,Magento_Theme
@@ -168,7 +168,7 @@
 "We use cookies to make your experience better.","Nous utilisons les cookies pour vous offrir une meilleure expérience utilisateur.",module,Magento_Theme
 "WK","Semaine",module,Magento_Theme
 "You deleted the theme.","Le thème a été supprimé.",module,Magento_Theme
-"Your design change for the specified store intersects with another one, please specify another date range.","Votre changement de design pour le magasin spécifié interfère avec un autre. Spécifiez une autre tranche de dates.",module,Magento_Theme
+"Your design change for the specified store intersects with another one, please specify another date range.","Votre changement de design pour la boutique spécifiée interfère avec une autre boutique. Spécifiez une autre tranche de dates.",module,Magento_Theme
 "You're currently reading page","Vous lisez actuellement la page",module,Magento_Theme
 "You're currently reading page","Vous lisez actuellement la page",module,Magento_Theme
 "You saved the theme.","Thème sauvegardé.",module,Magento_Theme

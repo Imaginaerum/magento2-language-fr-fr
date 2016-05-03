@@ -432,8 +432,8 @@
 "Please select","Faire un Choix",module,Magento_Sales
 "Please select a customer.","Sélectionnez un client.",module,Magento_Sales
 "Please select a customer","Sélectionnez un client",module,Magento_Sales
-"Please select a store.","Sélectionnez un magasin.",module,Magento_Sales
-"Please select a store","Sélectionnez un magasin",module,Magento_Sales
+"Please select a store.","Sélectionnez une boutique.",module,Magento_Sales
+"Please select a store","Sélectionnez une boutique",module,Magento_Sales
 "Please select products","Veuillez sélectionner des produits",module,Magento_Sales
 "Please select products.","Veuillez sélectionner des produits.",module,Magento_Sales
 "Please set a proper payment and order id.","Veuillez définir un paiement et un identifiant de commande appropriés.",module,Magento_Sales
