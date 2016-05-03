@@ -1,7 +1,7 @@
 {
     "name": "imaginaerum/magento2-language-fr-fr",
     "description": "Magento2 French Language Pack (fr_FR)",
-    "version": "100.6.6",
+    "version": "v100.6.7",
     "type": "magento2-language",
     "homepage": "http://imaginaerum.github.io/magento2-language-fr-fr",
     "keywords": [
@@ -19,7 +19,9 @@
     "license": [
         "MIT"
     ],
-    "require": {},
+    "require": {
+
+    },
     "autoload": {
         "files": [
             "registration.php"
