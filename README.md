@@ -8,7 +8,13 @@ See: http://imaginaerum.github.io/magento2-language-fr-fr
 
 Supported versions:
 
-[[MAGENTOVERSIONREADME]]
+* Magento v2.0.0
+* Magento v2.0.1
+* Magento v2.0.2
+* Magento v2.0.3
+* Magento v2.0.4
+* Magento v2.0.5
+
 
 ## Links
 
