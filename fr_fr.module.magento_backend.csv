@@ -26,7 +26,7 @@
 "Add New URL Rewrite","Nouvelle réécriture d'URL",module,Magento_Backend
 "Add New Variable","Nouvelle Variable",module,Magento_Backend
 "Add Secret Key to URLs","Ajouter une Clé Secrète aux URLs",module,Magento_Backend
-"Add Store Code to Urls","Ajouter le code du magasin aux URLs",module,Magento_Backend
+"Add Store Code to Urls","Ajouter le code de la boutique aux URLs",module,Magento_Backend
 "Add URL Rewrite","Ajouter une réécriture d'URL",module,Magento_Backend
 "Add URL Rewrite for a Category","Ajoutez une réécriture d'URL pour une catégorie",module,Magento_Backend
 "Add URL Rewrite for a Product","Ajoutez une réécriture d'URL pour un produit",module,Magento_Backend
@@ -42,7 +42,7 @@
 "All Files","Tous les fichiers",module,Magento_Backend
 "Allow Countries","Autoriser les pays",module,Magento_Backend
 "Allowed IPs (comma separated)","IPs autorisées (séparées par des virgules)",module,Magento_Backend
-"Allows customers to stay logged in when switching between different stores.","Permet aux clients de rester connectés s'ils naviguent entre les différents magasins.",module,Magento_Backend
+"Allows customers to stay logged in when switching between different stores.","Permet aux clients de rester connectés s'ils naviguent entre les différentes boutiques.",module,Magento_Backend
 "Allow Symlinks","Autoriser les liens symboliques",module,Magento_Backend
 "All Store Views","Toutes les vues magasin",module,Magento_Backend
 "All Websites","Tous les sites web",module,Magento_Backend

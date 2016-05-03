@@ -68,7 +68,7 @@
 "Allowed file extensions to upload","Extensions de fichier autorisées pour l'envoi",module,Magento_Catalog
 "Allow Gift Message","Autoriser le message cadeau",module,Magento_Catalog
 "Allow HTML Tags on Frontend","Autoriser les balises HTML sur le frontend",module,Magento_Catalog
-"Allow HTML Tags on Storefront","Permettre les balises HTML sur le magasin",module,Magento_Catalog
+"Allow HTML Tags on Storefront","Permettre les balises HTML sur la boutique",module,Magento_Catalog
 "Allow Multiple Boxes for Shipping.","Autoriser plusieurs colis pour l'expédition.",module,Magento_Catalog
 "All products","Tous les produits",module,Magento_Catalog
 "All products - recently added products, New products - products marked as new","Tous les produits - produits ajoutés récemment, nouveaux produits - produits marqués comme nouveau",module,Magento_Catalog

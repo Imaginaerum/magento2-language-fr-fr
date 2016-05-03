@@ -8,8 +8,8 @@
 "An error occurred while deleting this tax rate.","Une erreur s'est produite lors de la suppression du taux de taxe.",module,Magento_Tax
 "An error occurred while loading this tax rate.","Une erreur s'est produite lors du chargement de ce taux de taxe.",module,Magento_Tax
 "Apply Customer Tax","Appliquer la taxe client",module,Magento_Tax
-"Apply discount on price including tax is calculated based on store tax, if ""Apply Tax after Discount"" is selected.","L’application du montant de réduction sur les prix TTC est calculée sur la base de la taxe du magasin si ""Appliquer les taxes après la remise"" est sélectionnée.",module,Magento_Tax
-"Apply discount on price including tax is calculated based on store tax if ""Apply Tax after Discount"" is selected.","L’application du montant de réduction sur les prix TTC est calculée sur la base de la taxe du magasin si ""Appliquer les taxes après la remise"" est sélectionnée.",module,Magento_Tax
+"Apply discount on price including tax is calculated based on store tax, if ""Apply Tax after Discount"" is selected.","L’application du montant de réduction sur les prix TTC est calculée sur la base de la taxe de la boutique si ""Appliquer les taxes après la remise"" est sélectionnée.",module,Magento_Tax
+"Apply discount on price including tax is calculated based on store tax if ""Apply Tax after Discount"" is selected.","L’application du montant de réduction sur les prix TTC est calculée sur la base de la taxe de la boutique si ""Appliquer les taxes après la remise"" est sélectionnée.",module,Magento_Tax
 "Apply Discount On Prices","Appliquer la remise sur les prix",module,Magento_Tax
 "Apply Tax On","Appliquer la taxe sur",module,Magento_Tax
 "Are you sure you want to do this?","Êtes-vous sûr(e) de vouloir faire cela ?",module,Magento_Tax
