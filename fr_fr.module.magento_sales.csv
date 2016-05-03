@@ -308,7 +308,7 @@
 "New Invoice","Nouvelle facture",module,Magento_Sales
 "New Invoice and Shipment for Order #%1","Nouvelles facture et expédition pour la commande n°%1",module,Magento_Sales
 "New Invoice for Order #%1","Nouvelle facture pour la commande n°%1",module,Magento_Sales
-"New Memo","Nouvel Avoir",module,Magento_Sales
+"New Memo","Nouvel avoir",module,Magento_Sales
 "New Memo for #%1","Nouvel avoir pour #%1",module,Magento_Sales
 "New Order","Nouvelle commande",module,Magento_Sales
 "New Order Confirmation Email Sender","Expéditeur de l'email de confirmation de commande",module,Magento_Sales

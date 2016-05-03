@@ -424,8 +424,8 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "New Option","Nouvelle option",module,Magento_Catalog
 "New Product","Nouveau produit",module,Magento_Catalog
 "New Product Attribute","Nouvel attribut produit",module,Magento_Catalog
-"New products","Nouveau produit",module,Magento_Catalog
-"New Products","Nouveau produit",module,Magento_Catalog
+"New products","Nouveaux produits",module,Magento_Catalog
+"New Products","Nouveaux produits",module,Magento_Catalog
 "New Products from %1","Nouveaux produits de %1",module,Magento_Catalog
 "New Products Grid Template","Gabarit des nouveaux produits sous forme de grille",module,Magento_Catalog
 "New Products Images and Names Template","Nouveau gabarit images et noms de produits",module,Magento_Catalog

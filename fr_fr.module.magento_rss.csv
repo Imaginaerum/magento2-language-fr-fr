@@ -26,7 +26,7 @@
 "Message:","Message :",module,Magento_Rss
 "Miscellaneous Feeds","Flux divers",module,Magento_Rss
 "New Orders","Nouvelles commandes",module,Magento_Rss
-"New Products","Nouveau produit",module,Magento_Rss
+"New Products","Nouveaux produits",module,Magento_Rss
 "New Products from %1","Nouveaux produits de %1",module,Magento_Rss
 "Notified Date: %1<br/>","Date de notification : %1<br>",module,Magento_Rss
 "Order #%1 created at %2","Commande #%1 créée le %2",module,Magento_Rss

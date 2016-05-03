@@ -275,8 +275,8 @@
 "New Customer Address","Nouvelle adresse client",module,Magento_Customer
 "New Customer Group","Nouveau groupe de clients",module,Magento_Customer
 "New Customer Groups","Nouveaux groupes de clients",module,Magento_Customer
-"New Customers","Nouveaux Clients",module,Magento_Customer
-"New Group","Nouveau Groupe",module,Magento_Customer
+"New Customers","Nouveaux clients",module,Magento_Customer
+"New Group","Nouveau groupe",module,Magento_Customer
 "New Password","Nouveau mot de passe",module,Magento_Customer
 "New Password and Confirm New Password values didn't match.","Les valeurs du nouveau mot de passe et la confirmation du nouveau mot de passe ne correspondent pas.",module,Magento_Customer
 "New password field cannot be empty.","Le champ de nouveau mot de passe ne peut pas être vide.",module,Magento_Customer

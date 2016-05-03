@@ -317,7 +317,7 @@
 "Name","Nom",module,Magento_Backend
 "Never (production)","Jamais (en production)",module,Magento_Backend
 "New ","Nouveau ",module,Magento_Backend
-"New Customers","Nouveaux Clients",module,Magento_Backend
+"New Customers","Nouveaux clients",module,Magento_Backend
 "New Custom Variable","Nouvelle variable personnalisée",module,Magento_Backend
 "[New/Edit] URL Rewrite","[Ajouter/Modifier] Une Réécriture d'URL",module,Magento_Backend
 "New Password","Nouveau mot de passe",module,Magento_Backend
