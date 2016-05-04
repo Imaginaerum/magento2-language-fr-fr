@@ -1,0 +1,32 @@
+"Custom options have different types.","Les options personnalisées ont des types différents.",module,Magento_CatalogImportExport
+"Custom option with such title already declared in source file.","Une option avec ce titre est déjà déclarée dans le fichier source.",module,Magento_CatalogImportExport
+"Empty custom option title.","Titre option personnalisée vide.",module,Magento_CatalogImportExport
+"Entity type model '%1' is not found","Le modèle du type d'entité '%1' est introuvable",module,Magento_CatalogImportExport
+"Entity type model must be an instance of MagentoCatalogImportExportModelExportProductTypeAbstractType","Le modèle du type d'entité doit être une instance de \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_CatalogImportExport
+"Entity type model must be an instance of' ' MagentoCatalogImportExportModelExportProductTypeAbstractType","Le modèle du type d'entité doit être une instance de \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_CatalogImportExport
+"Entity type model must be an instance of ' 'MagentoCatalogImportExportModelImportProductTypeAbstractType","Le modèle du type d'entité doit être une instance de Magento\CatalogImportExport\Model\Import\Product\Type\AbstractType",module,Magento_CatalogImportExport
+"Entity type model must be an instance of MagentoCatalogImportExportModelImportProductTypeAbstractType","Le modèle du type d'entité doit être une instance de Magento\CatalogImportExport\Model\Import\Product\Type\AbstractType",module,Magento_CatalogImportExport
+"Every option entity must have a parent product entity.","Chaque option doit être associée à un produit.",module,Magento_CatalogImportExport
+"File '%1' was not found or has read restriction.","Le fichier '%1' n'as pas été trouvé ou n'est pas lisible.",module,Magento_CatalogImportExport
+"File directory '%1' is not readable.","Le répertoire '%1' n'est pas autorisé en lecture.",module,Magento_CatalogImportExport
+"File directory '%1' is not writable.","Le répertoire '%1' n'est pas autorisé en écriture.",module,Magento_CatalogImportExport
+"Invalid custom option maximum characters value.","Nombre de caractères d'option personnalisée invalide.",module,Magento_CatalogImportExport
+"Invalid custom option price.","Option prix personnalisée invalide.",module,Magento_CatalogImportExport
+"Invalid custom option sort order.","Tri option personnalisée invalide.",module,Magento_CatalogImportExport
+"Invalid custom option store.","Option personnalisée invalide.",module,Magento_CatalogImportExport
+"Invalid custom option type.","Type option personnalisée invalide.",module,Magento_CatalogImportExport
+"Invalid custom option value price.","Valeur prix option personnalisée invalide.",module,Magento_CatalogImportExport
+"Invalid custom option value sort order.","Valeur tri option personnalisée invalide.",module,Magento_CatalogImportExport
+"Option entity must have a parent product entity.","L'option doit avoir un produit pour parent.",module,Magento_CatalogImportExport
+"Please correct the parameters.","Veuillez corriger les paramètres.",module,Magento_CatalogImportExport
+"Please enter a value for title.","Veuillez saisir un titre.",module,Magento_CatalogImportExport
+"There are no product types available for export","Aucun type de produit disponible pour l'export",module,Magento_CatalogImportExport
+"There are no product types available for export.","Aucun type de produit disponible pour l'export.",module,Magento_CatalogImportExport
+"There are several existing custom options with such name.","Il existe plusieurs options avec le même nom.",module,Magento_CatalogImportExport
+"This name is already being used for custom option. Please enter a different name.","Ce nom est déjà utilisé pour une option personnalisée. Merci d'utiliser un nom différent.",module,Magento_CatalogImportExport
+"Value for 'maximum characters' sub attribute in 'custom_options' attribute contains incorrect value","La valeur du sous-attribut 'maximum characters' de l'attribut 'custom_options' contient une valeur incorrecte",module,Magento_CatalogImportExport
+"Value for 'price' sub attribute in 'custom_options' attribute contains incorrect value","La valeur du sous-attribut 'price' de l'attribut 'custom_options' contient une valeur incorrecte",module,Magento_CatalogImportExport
+"Value for 'price' sub attribute in 'store' attribute contains incorrect value","La valeur du sous-attribut 'price' de l'attribut 'store' contient une valeur incorrecte",module,Magento_CatalogImportExport
+"Value for 'sort order' sub attribute in 'custom_options' attribute contains incorrect value","La valeur du sous-attribut 'sort order' de l'attribut 'custom_options' contient une valeur incorrecte",module,Magento_CatalogImportExport
+"Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: 'dropdown', 'checkbox'","La valeur du sous-attribut 'type' de l'attribut 'custom_options' contient une valeur incorrecte. Les valeurs acceptées sont : 'dropdown' et 'checkbox'",module,Magento_CatalogImportExport
+"Value for 'value price' sub attribute in 'custom_options' attribute contains incorrect value","La valeur du sous-attribut 'value price' de l'attribut 'custom_options' contient une valeur incorrecte",module,Magento_CatalogImportExport

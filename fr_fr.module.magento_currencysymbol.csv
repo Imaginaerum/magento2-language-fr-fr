@@ -1,0 +1,23 @@
+"All possible rates were fetched, please click on ""Save"" to apply","Tous les taux possibles ont été récupérés, cliquez sur ""Sauvegarder"" pour les appliquer",module,Magento_CurrencySymbol
+"All rates were fetched, please click on ""Save"" to apply","Tous les taux ont été récupérés, cliquez sur ""Sauvegarder"" pour les appliquer",module,Magento_CurrencySymbol
+"All valid rates have been saved.","Tous les taux valides ont été sauvegardés.",module,Magento_CurrencySymbol
+"Click ""Save"" to apply the rates we found.","Cliquez sur ""Sauvegarder"" pour appliquer les taux.",module,Magento_CurrencySymbol
+"Currency","Devise",module,Magento_CurrencySymbol
+"Currency Rates","Taux de change",module,Magento_CurrencySymbol
+"Currency Symbols","Symboles de devise",module,Magento_CurrencySymbol
+"Import","Importer",module,Magento_CurrencySymbol
+"Import Service","Service d'importation",module,Magento_CurrencySymbol
+"Manage Currency Rates","Gestion des taux des devises",module,Magento_CurrencySymbol
+"Old rate:","Ancien taux :",module,Magento_CurrencySymbol
+"Please correct the input data for %1 => %2 rate","Veuillez corriger les données renseignées pour %1 => taux %2",module,Magento_CurrencySymbol
+"Please specify a correct Import Service.","Veuillez renseigner un service d'importation valide.",module,Magento_CurrencySymbol
+"Reset","Réinitialiser",module,Magento_CurrencySymbol
+"Save Currency Rates","Enregistrer les taux de devises",module,Magento_CurrencySymbol
+"Save Currency Symbols","Enregistrer les symboles de devise",module,Magento_CurrencySymbol
+"Symbol","Symbole",module,Magento_CurrencySymbol
+"System","Système",module,Magento_CurrencySymbol
+"The custom currency symbols were applied.","Symbole de monnaie personnalisée appliqué.",module,Magento_CurrencySymbol
+"Use Standard","Utiliser le standard",module,Magento_CurrencySymbol
+"We can't initialize the import model.","Impossible d'initialiser le modèle d'importation.",module,Magento_CurrencySymbol
+"We can't initialize the import model.","Impossible d'initialiser le modèle d'importation.",module,Magento_CurrencySymbol
+"You applied the custom currency symbols.","Vous avez appliqué des symboles de devise personnalisés.",module,Magento_CurrencySymbol

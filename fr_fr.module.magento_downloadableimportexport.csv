@@ -1,0 +1,3 @@
+"Error","Erreur",module,Magento_DownloadableImportExport
+"File directory '%1' is not readable.","Le répertoire '%1' n'est pas autorisé en lecture.",module,Magento_DownloadableImportExport
+"File directory '%1' is not writable.","Le répertoire '%1' n'est pas autorisé en écriture.",module,Magento_DownloadableImportExport

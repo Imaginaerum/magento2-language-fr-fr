@@ -1,0 +1,20 @@
+"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 par défaut, si non renseigné. Pour actualiser, purgez le cache de sortie des blocs HTML.",module,Magento_CatalogWidget
+"Add to Cart","Ajouter au panier",module,Magento_CatalogWidget
+"Add to Compare","Ajouter au comparateur",module,Magento_CatalogWidget
+"Add to Wish List","Ajouter à ma liste d'envie",module,Magento_CatalogWidget
+"Cache Lifetime (Seconds)","Durée de vie du cache (secondes)",module,Magento_CatalogWidget
+"Catalog Products List","Liste du catalogue produits",module,Magento_CatalogWidget
+"Conditions","Conditions",module,Magento_CatalogWidget
+"Conditions Combination","Combinaison de conditions",module,Magento_CatalogWidget
+"Display Page Control","Contrôle de l'affichage de la page",module,Magento_CatalogWidget
+"In stock","En stock",module,Magento_CatalogWidget
+"List of Products","Liste des produits",module,Magento_CatalogWidget
+"Number of Products per Page","Nombre de produits par page",module,Magento_CatalogWidget
+"Number of Products to Display","Nombre de produits à afficher",module,Magento_CatalogWidget
+"Out of stock","En rupture de stock",module,Magento_CatalogWidget
+"Please choose a condition to add.","Veuillez choisir une condition à ajouter.",module,Magento_CatalogWidget
+"Product Attribute","Attribut produit",module,Magento_CatalogWidget
+"Products Grid Template","Template de la grille de produits",module,Magento_CatalogWidget
+"SKU","SKU",module,Magento_CatalogWidget
+"Template","Gabarit",module,Magento_CatalogWidget
+"Title","Titre",module,Magento_CatalogWidget

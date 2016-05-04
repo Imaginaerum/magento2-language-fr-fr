@@ -1,0 +1,24 @@
+"%1 indexer(s) are in ""Update by Schedule"" mode.","%1 index sont en mode ""Mise à jour périodique"".",module,Magento_Indexer
+"%1 indexer(s) are in ""Update on Save"" mode.","%1 index sont en mode ""Mise à jour à l'enregistrement"".",module,Magento_Indexer
+"A total of %1 indexer(s) have been turned Update by Schedule mode on.","%1 indexer(s) sont à présent : mise à jour par les tâches programmées.",module,Magento_Indexer
+"A total of %1 indexer(s) have been turned Update on Save mode on.","%1 indexer(s) sont passés en mode mis à jour à la sauvegarde.",module,Magento_Indexer
+"Description","Description",module,Magento_Indexer
+"Indexer","Index",module,Magento_Indexer
+"Indexer Management","Gestion des index",module,Magento_Indexer
+"Index Management","Gestion des index",module,Magento_Indexer
+"Mode","Mode",module,Magento_Indexer
+"Never","Jamais",module,Magento_Indexer
+"One or more <a href=""%1"">indexers are invalid</a>. Make sure your <a href=""%2"" target=""_blank"">Magento cron job</a> is running.","Un ou plusieurs <a href=""%1"">indexes sont invalides</a>. Assurez-vous que <a href""%2"">le CRON Magento</a> est lancé.",module,Magento_Indexer
+"Please select indexers.","Veuillez sélectionner les indexes.",module,Magento_Indexer
+"Processing","En cours de traitement",module,Magento_Indexer
+"Ready","Prêt",module,Magento_Indexer
+"Reindex required","Réindexation nécessaire",module,Magento_Indexer
+"Some Exception Message","Some Exception Message",module,Magento_Indexer
+"State for the same indexer","État pour le même index",module,Magento_Indexer
+"State for the same view","État pour la même vue",module,Magento_Indexer
+"Status","Statut",module,Magento_Indexer
+"Test Phrase","Phrase test",module,Magento_Indexer
+"Update by Schedule","Mise à jour périodique",module,Magento_Indexer
+"Updated","Mis à jour",module,Magento_Indexer
+"Update on Save","Mise à jour à la sauvegarde",module,Magento_Indexer
+"We couldn't change indexer(s)' mode because of an error.","Impossible de modifier le mode des index en raison d'une erreur.",module,Magento_Indexer

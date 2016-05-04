@@ -1,0 +1,262 @@
+"%1 class doesn't implement MagentoPaymentModelMethodInterface","%1 n'implemente pas l'interface MagentoPaymentModelMethodInterface",deprecated,Imaginaerum
+"%1 doesn't extend MagentoCatalogModelLayerFilterDynamicAlgorithmInterface","%1 n'étend pas MagentoCatalogModelLayerFilterDynamicAlgorithmInterface",deprecated,Imaginaerum
+"%1 doesn't extend MagentoCatalogModelResourceModelProductIndexerPriceDefaultPrice","%1 n'étend pas MagentoCatalogModelResourceModelProductIndexerPriceDefaultPrice",deprecated,Imaginaerum
+"%1 doesn't extend MagentoCheckoutCustomerDataItemInterface","%1 n'étend pas MagentoCheckoutCustomerDataItemInterface",deprecated,Imaginaerum
+"%1 doesn't extend MagentoCustomerCustomerDataSectionSourceInterface","%1 n'étend pas MagentoCustomerCustomerDataSectionSourceInterface",deprecated,Imaginaerum
+"%1 doesn't extend MagentoFrameworkFilterTemplate","%1 n'étend pas MagentoFrameworkFilterTemplate",deprecated,Imaginaerum
+"%1 doesn't extends MagentoCatalogModelLayerFilterAbstractFilter","%1 n'étend pas MagentoCatalogModelLayerFilterAbstractFilter",deprecated,Imaginaerum
+"%1 doesn't extends MagentoCatalogModelProductOptionTypeDefaultType","%1 n'étend pas MagentoCatalogModelProductOptionTypeDefaultType",deprecated,Imaginaerum
+"%1 doesn't extends MagentoCatalogModelProductTypeAbstractType","%1 n'étend pas MagentoCatalogModelProductTypeAbstractType",deprecated,Imaginaerum
+"%1 doesn't extends MagentoCatalogModelProductTypePrice","%1 n'étend pas MagentoCatalogModelProductTypePrice",deprecated,Imaginaerum
+"%1 doesn't extends MagentoFrameworkModelAbstractModel","%1 n'étend pas MagentoFrameworkModelAbstractModel",deprecated,Imaginaerum
+"'%1' file extension is not supported","'%1' extension de fichier non supportée",deprecated,Imaginaerum
+"%1's Wish List","Liste d'envies de %1",deprecated,Imaginaerum
+"An attribute group named ""/name/"" already exists"".","Un groupe d\'attributs ""/name/"" existe déjà"".",deprecated,Imaginaerum
+"An attribute set named '%1' already exists.","Le jeu d'attributs ""%1"" existe déjà.",deprecated,Imaginaerum
+"Are you sure you wan't to delete a ""${ $.$data.title }"" record?","Êtes-vous sûr(e) de vouloir supprimer ""${ $.$data.title }"" ?",deprecated,Imaginaerum
+"Are you sure you wan't to delete a ${ $.$data.title } record?","Êtes-vous sûr(e) de vouloir supprimer ${ $.$data.title } ?",deprecated,Imaginaerum
+"Are you sure you want to delete this integration? You can't undo this action.","Êtes-vous sûr(e) de vouloir supprimer cette intégration ? Vous ne pouvez pas annuler cette action.",deprecated,Imaginaerum
+"Attribute %1 doesn't have any option","L'attribut %1 ne possède aucune option",deprecated,Imaginaerum
+"Attribute %1 doesn't work with options","L'attribut %1 ne fonctionne pas avec des options",deprecated,Imaginaerum
+"Attribute '%1' is locked. %2","Attribut '%1' est verrouillé. %2",deprecated,Imaginaerum
+"Cannot perform GET operation with store code 'all'","Impossible d'effectuer l'opération GET avec le code boutique 'all'",deprecated,Imaginaerum
+"Cannot save comment:
+%1","Impossible de sauvegarder le commentaire :
+%1",deprecated,Imaginaerum
+"Cannot save track:
+%1","Impossible de sauvegarder le numéro de suivi :
+%1",deprecated,Imaginaerum
+"Can't delete root category.","Vous ne pouvez pas supprimer la catégorie racine.",deprecated,Imaginaerum
+"Can't load snapshot archive","Vous ne pouvez pas charger les archives de Snapshot",deprecated,Imaginaerum
+"Can't unhold order.","Impossible de débloquer la commande.",deprecated,Imaginaerum
+"Cart %1 doesn't contain item  %2","Le panier %1 ne contient pas l'article %2",deprecated,Imaginaerum
+"Cart %1 doesn't contain products","Le panier #%1 ne contient aucun produit",deprecated,Imaginaerum
+"Conditions (don't add conditions if rule is applied to all products)","Conditions (ne pas ajouter de conditions si la règle doit s'appliquer à tous les produits)",deprecated,Imaginaerum
+"Could not add gift message to order's item: ""%1""","Impossible d'ajouter un message cadeau pour l'article ""%1""",deprecated,Imaginaerum
+"Default ""What's This"" Text Message","Texte par défaut du message ""Qu'est-ce que c'est""",deprecated,Imaginaerum
+"Entity type model '%1' is not found","Le modèle du type d'entité '%1' est introuvable",deprecated,Imaginaerum
+"Exception does not contain field '%1'","L'exception ne contient pas le champ ""%1""",deprecated,Imaginaerum
+"File '%1' is not an image.","Le fichier '%1' n'est pas une image.",deprecated,Imaginaerum
+"File '%1' was not found or has read restriction.","Le fichier '%1' n'as pas été trouvé ou n'est pas lisible.",deprecated,Imaginaerum
+"File directory '%1' is not readable.","Le répertoire '%1' n'est pas autorisé en lecture.",deprecated,Imaginaerum
+"File directory '%1' is not writable.","Le répertoire '%1' n'est pas autorisé en écriture.",deprecated,Imaginaerum
+"For some reason we can't retrieve tracking info right now.","Impossible de retrouver les informations de suivi.",deprecated,Imaginaerum
+"Integration with ID '%1' doesn't exist.","Intégration avec l'ID '%1' n'existe pas.",deprecated,Imaginaerum
+"Invalid cron expression, expecting 'from-to' structure: %1","Expression du CRON invalide, structure ""de-à"" attendu : %1",deprecated,Imaginaerum
+"Invalid cron expression, expecting 'match/modulus': %1","Expression du CRON invalide, ""valeur/modulo"" attendu : %1",deprecated,Imaginaerum
+"Invalid XML in file %1:
+%2","XML invalide dans le fichier %1 : %2",deprecated,Imaginaerum
+"Last updated: %1. To refresh last day's <a href=""%2"">statistics</a>, click <a href=""%3"">here</a>.","Dernière mise à jour : %1. Pour rafraîchir les <a href=""%2"">statistiques</a>, cliquez <a href=""%3"">ici</a>.",deprecated,Imaginaerum
+"Leave a box blank if you don't want to add a gift message for that item.","Laisser ce champ vide si vous ne voulez pas laisser un message cadeau pour cet article.",deprecated,Imaginaerum
+"Leave this box blank if you don't want to leave a gift message for the entire order.","Laisser ce champ vide si vous ne voulez pas laisser un message cadeau pour toute la commande.",deprecated,Imaginaerum
+"Make sure your file isn't more than %1M.","Assurez-vous que votre fichier ne dépasse pas %1Mo.",deprecated,Imaginaerum
+"""Need a New Relic account? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Click here to get one","Besoin d'un compte New Relic ? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Cliquez ici pour en obtenir une</a>",deprecated,Imaginaerum
+"New Password and Confirm New Password values didn't match.","Les valeurs du nouveau mot de passe et la confirmation du nouveau mot de passe ne correspondent pas.",deprecated,Imaginaerum
+"Path ""%value%"" may not include parent directory traversal (""../"", ""..\"").","Le chemin ""%value%"" ne doit pas inclure de répertoire parent (""../"", ""..\"").",deprecated,Imaginaerum
+"PayPal can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.","PayPal ne peut traiter les commandes avec un solde nul. Pour terminer votre achat, veuillez passer par le processus de commande standard.",deprecated,Imaginaerum
+"PayPal response hasn't required fields.","La réponse de PayPal ne comporte pas les champs obligatoires.",deprecated,Imaginaerum
+"Please specify product's required option(s).","Veuillez préciser les options produit requises.",deprecated,Imaginaerum
+"<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Print receipt</a>","<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Imprimer le reçu</a>",deprecated,Imaginaerum
+"Product %1 doesn't have linked %2 as %3","Le produit %1 n'a pas pu être lié ni au %2 ni au %3",deprecated,Imaginaerum
+"Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3","Le produit n'a pas de prix de groupe avec ces données : customerGroupId = '%1', site = %2, quantité = %3",deprecated,Imaginaerum
+"Product type of the product must be 'downloadable'.","Le type du produit doit être ""téléchargeable"".",deprecated,Imaginaerum
+"Rating isn't Available","Les notations ne sont pas activées",deprecated,Imaginaerum
+"Requested bundle option product doesn't exist","Les options du produit packagé n'existent pas",deprecated,Imaginaerum
+"Requested entity doesn't exist","L'entité demandée n'existe pas",deprecated,Imaginaerum
+"Requested option doesn't exist: %1","L'option demandée n'existe pas : %1",deprecated,Imaginaerum
+"Requested option doesn't exist","L'option n'existe pas",deprecated,Imaginaerum
+"Requested product doesn't exist","Le produit n'existe pas",deprecated,Imaginaerum
+"RSS link to %1's wishlist","Lien vers le flux RSS de la liste d'envies de %1",deprecated,Imaginaerum
+"Sorry, but we can't find the new category you selected.","Désolé, mais nous ne pouvons pas trouver la catégorie sélectionnée.",deprecated,Imaginaerum
+"Sorry, but we can't find the new parent category you selected.","Désolé, impossible trouver la catégorie parente sélectionnée.",deprecated,Imaginaerum
+"Sorry, something went wrong. That's all we know.","Une erreur s'est produite.",deprecated,Imaginaerum
+"Sorry, we're unable to complete this request.","Désolé, nous ne pouvons pas compléter cette requête.",deprecated,Imaginaerum
+"Specified cache type(s) don't exist: %1","Les types de cache spécifiés n'existent pas : %1",deprecated,Imaginaerum
+"Store view doesn't exist","La vue magasin n'existe pas",deprecated,Imaginaerum
+"Such image doesn't exist","L'image n'existe pas",deprecated,Imaginaerum
+"Such product doesn't exist","Ce produit n'existe pas",deprecated,Imaginaerum
+"Thanks for your order. We'll email you order details and tracking information.","Merci pour votre commande. Vous allez recevoir un email récapitulatif et un email contenant les informations de suivi de la livraison.",deprecated,Imaginaerum
+"The credit card number doesn't match the credit card type.","Le numéro de la carte bancaire ne correspond pas à son type.",deprecated,Imaginaerum
+"The credit memo email wasn't sent.","L'e-mail de l'avoir n'a pas été envoyé.",deprecated,Imaginaerum
+"The credit memo's total must be positive.","Le total de l'avoir doit être positif.",deprecated,Imaginaerum
+"The field isn't complete.","Champ incomplet.",deprecated,Imaginaerum
+"The file is valid, but we can't import it for some reason.","Le fichier est valide, mais nous ne pouvons pas l'importer pour une raison inconnue.",deprecated,Imaginaerum
+"The invoice email wasn't sent.","L'email de la facture n'a pas été envoyé.",deprecated,Imaginaerum
+"Theme isn't deletable.","Le thème ne peut pas être supprimé.",deprecated,Imaginaerum
+"The merchant holds a non-U.S. account and doesn't have a withdrawal mechanism.","Le marchand titulaire d'un compte non-U.S et ne dispose pas d'un système de mécanisme de retrait.",deprecated,Imaginaerum
+"The password can't begin or end with a space.","Le mot de passe ne peut pas commencer ou se terminer par un espace.",deprecated,Imaginaerum
+"The password doesn't match this account.","Le mot de passe ne correspond pas à ce compte.",deprecated,Imaginaerum
+"The payment currency doesn't match any of the merchant's balances currency.","La devise de paiement ne correspond à aucune des devises du marchand.",deprecated,Imaginaerum
+"There are no items in customer's shopping cart.","Il n'y a aucun article dans le panier du client.",deprecated,Imaginaerum
+"There is no item with provided id in the order or gift message isn't allowed","Il n'y a pas d'article avec un id dans la commande ou les messages cadeau ne sont pas autorisés",deprecated,Imaginaerum
+"There is no order with provided id or gift message isn't allowed","Il n'y a pas de commande avec un id ou les messages cadeau ne sont pas autorisés",deprecated,Imaginaerum
+"The requested Wish List doesn't exist.","La liste d'envies n'existe pas.",deprecated,Imaginaerum
+"The start date can't follow the end date.","La date de début ne peut pas être postérieure à la date de fin.",deprecated,Imaginaerum
+"This customer didn't include a confirmed address.","Ce client ne possède pas d'adresse confirmée.",deprecated,Imaginaerum
+"This is used internally. Make sure you don't use spaces or more than %1 symbols.","Ceci est utilisé en interne. Assurez-vous de ne pas utiliser des espaces ou plus de %1 symboles.",deprecated,Imaginaerum
+"This product doesn't have tier price","Ce produit n'a pas de prix tiers",deprecated,Imaginaerum
+"This won't take long . . .","Ce ne sera pas long. . .",deprecated,Imaginaerum
+"Update product's %1 %2: %3","Mettre à jour le %1 du produit %2 : %3",deprecated,Imaginaerum
+"Value for 'maximum characters' sub attribute in 'custom_options' attribute contains incorrect value","La valeur du sous-attribut 'maximum characters' de l'attribut 'custom_options' contient une valeur incorrecte",deprecated,Imaginaerum
+"Value for 'price' sub attribute in 'custom_options' attribute contains incorrect value","La valeur du sous-attribut 'price' de l'attribut 'custom_options' contient une valeur incorrecte",deprecated,Imaginaerum
+"Value for 'price' sub attribute in 'store' attribute contains incorrect value","La valeur du sous-attribut 'price' de l'attribut 'store' contient une valeur incorrecte",deprecated,Imaginaerum
+"Value for 'sort order' sub attribute in 'custom_options' attribute contains incorrect value","La valeur du sous-attribut 'sort order' de l'attribut 'custom_options' contient une valeur incorrecte",deprecated,Imaginaerum
+"Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: 'dropdown', 'checkbox'","La valeur du sous-attribut 'type' de l'attribut 'custom_options' contient une valeur incorrecte. Les valeurs acceptées sont : 'dropdown' et 'checkbox'",deprecated,Imaginaerum
+"Value for 'value price' sub attribute in 'custom_options' attribute contains incorrect value","La valeur du sous-attribut 'value price' de l'attribut 'custom_options' contient une valeur incorrecte",deprecated,Imaginaerum
+"We can't add the item to the cart right now.","Impossible d'ajouter le produit au panier.",deprecated,Imaginaerum
+"We can't add the item to Wish List right now: %1.","Impossible d'ajouter l'article à la liste d'envies : %1.",deprecated,Imaginaerum
+"We can't add the item to Wish List right now.","Impossible d'ajouter l'article à la liste d'envies.",deprecated,Imaginaerum
+"We can't add the order status right now.","Impossible d'attribuer le statut de commande.",deprecated,Imaginaerum
+"We can't add the product to the cart because of an option validation issue.","Nous ne pouvons pas ajouter le produit au panier en raison d'un problème de validation de l'option.",deprecated,Imaginaerum
+"We can't add this item to your shopping cart right now.","Impossible d'ajouter ce produit au panier.",deprecated,Imaginaerum
+"We can't apply the rules.","Impossible d'appliquer les règles.",deprecated,Imaginaerum
+"We can't cancel the billing agreement.","Nous ne pouvons pas annuler l'entente de facturation.",deprecated,Imaginaerum
+"We can't complete your order because you don't have a payment method set up.","Impossible de terminer la commande car aucune méthode de paiement n'a été sélectionnée.",deprecated,Imaginaerum
+"We can't configure the product right now.","Impossible de configurer le produit.",deprecated,Imaginaerum
+"We can't connect to the FTP right now.","Nous ne pouvons pas nous connecter au FTP.",deprecated,Imaginaerum
+"We can't create a backup right now. Please try again later.","Nous ne pouvons pas créer une sauvegarde. Veuillez réessayer plus tard.",deprecated,Imaginaerum
+"We can't create a billing agreement for this order.","Impossible de créer un accord de facturation pour cette commande.",deprecated,Imaginaerum
+"We can't create credit memo for the order.","Impossible de créer l'avoir pour la commande.",deprecated,Imaginaerum
+"We can't create the backup right now.","Nous ne pouvons pas créer la sauvegarde.",deprecated,Imaginaerum
+"We can't create the Wish List right now.","Impossible de créer la liste d'envies.",deprecated,Imaginaerum
+"We can't delete email template data right now. Please review log and try again.","Impossible de supprimer le gabarit d'email. Veuillez consulter le journal des erreurs et essayez à nouveau.",deprecated,Imaginaerum
+"We can't delete item from Wish List right now.","Impossible de supprimer cet article de la liste d'envies.",deprecated,Imaginaerum
+"We can't delete one or more backups.","Nous ne pouvons pas supprimer une ou plusieurs sauvegardes.",deprecated,Imaginaerum
+"We can't delete root directory %1 right now.","Impossible de supprimer le répertoire racine %1.",deprecated,Imaginaerum
+"We can't delete the address right now.","Impossible de supprimer l'adresse.",deprecated,Imaginaerum
+"We can't delete the attribute.","Nous ne pouvons pas supprimer l'attribut.",deprecated,Imaginaerum
+"We can't delete the billing agreement.","Impossible de supprimer l'entente de facturation.",deprecated,Imaginaerum
+"We can't delete the item from the Wish List right now.","Impossible de supprimer le produit de la liste d'envies.",deprecated,Imaginaerum
+"We can't delete the item from Wish List right now because of an error: %1.","Impossible de supprimer cet article de la liste d'envies en raison de l'erreur suivante : %1.",deprecated,Imaginaerum
+"We can't delete the rule right now. Please review the log and try again.","Impossible de supprimer la règle. Veuillez consulter le journal des erreurs et essayez à nouveau.",deprecated,Imaginaerum
+"We can't delete this rate because of an incorrect rate ID.","Impossible de supprimer ce taux car son ID est incorrect.",deprecated,Imaginaerum
+"We can't delete this rule right now. Please review the log and try again.","Impossible de supprimer la règle. Veuillez consulter le journal des erreurs et essayer à nouveau.",deprecated,Imaginaerum
+"We can't delete this set right now.","Impossible de supprimer ce groupe actuellement.",deprecated,Imaginaerum
+"We can't delete this tax class right now.","Impossible de supprimer la classe de taxe.",deprecated,Imaginaerum
+"We can't delete this tax rate right now.","Impossible de supprimer ce taux de taxe.",deprecated,Imaginaerum
+"We can't delete this template right now.","Impossible de supprimer le gabarit.",deprecated,Imaginaerum
+"We can't delete tracking number.","Impossible de supprimer le numéro de suivi.",deprecated,Imaginaerum
+"We can't delete URL Rewrite right now.","Impossible de supprimer l'URL.",deprecated,Imaginaerum
+"We can't determine the attribute filter type.","Nous ne pouvons pas déterminer le type de filtre d'attribut.",deprecated,Imaginaerum
+"We can't fetch reports from ""%1@%2.""","Nous ne pouvons récupérer les rapports de ""%1@%2.""",deprecated,Imaginaerum
+"We can't filter an attribute with no attribute options.","Nous ne pouvons pas filtrer un attribut sans options d'attributs.",deprecated,Imaginaerum
+"We can't find a customer to revoke.","Impossible de trouver un client à révoquer.",deprecated,Imaginaerum
+"We can't find a customer who matches this email and website code.","Aucun client trouvé avec cette combinaison email et site web.",deprecated,Imaginaerum
+"We can't find any items matching these search criteria.","Nous ne pouvons pas trouver tous les éléments correspondant à ces critères de recherche.",deprecated,Imaginaerum
+"We can't find a user to revoke.","Impossible de trouver l'utilisateur à révoquer.",deprecated,Imaginaerum
+"We can't find file.","Impossible de trouver le fichier.",deprecated,Imaginaerum
+"We can't find products matching the selection.","Impossible de trouver des produits correspondant à votre sélection.",deprecated,Imaginaerum
+"We can't find records for this period.","Aucun enregistrement trouvé pour cette période.",deprecated,Imaginaerum
+"We can't find that customer address.","Adresse client introuvable.",deprecated,Imaginaerum
+"We can't find that email and website combination.","Impossible de trouver la combinaison email et site web.",deprecated,Imaginaerum
+"We can't find the backup file.","Nous ne pouvons pas trouver le fichier de sauvegarde.",deprecated,Imaginaerum
+"We can't find the link you requested.","Impossible de trouver le lien demandé.",deprecated,Imaginaerum
+"We can't find the quote item.","Impossible de trouver le commentaire du produit.",deprecated,Imaginaerum
+"We can't find the role for the user you wanted.","Rôle de l'utilisateur introuvable.",deprecated,Imaginaerum
+"We can't find this wish list.","Impossible de trouver cette liste d'envies.",deprecated,Imaginaerum
+"We can't generate the sitemap right now.","Impossible de générer le plan de site.",deprecated,Imaginaerum
+"We can't get the order instance right now.","Impossible de récupérer l'instance de la commande.",deprecated,Imaginaerum
+"We can't identify this file format.","Nous ne pouvons pas identifier ce format de fichier.",deprecated,Imaginaerum
+"We can't initialize checkout.","Nous ne pouvons pas initialiser la vérification.",deprecated,Imaginaerum
+"We can't initialize checkout review.","Nous ne pouvons pas initialiser l'examen de vérification.",deprecated,Imaginaerum
+"We can't initialize shipment for adding tracking number.","Impossible d'initialiser l'expédition pour l'ajout d'un numéro de suivi.",deprecated,Imaginaerum
+"We can't initialize shipment for delete tracking number.","Impossible d'initialiser l'expédition pour supprimer le numéro de suivi.",deprecated,Imaginaerum
+"We can't load the Wish List item right now.","Impossible de charger le produit de la liste d'envies.",deprecated,Imaginaerum
+"We can't load track with retrieving identifier right now.","Impossible de charger le suivi avec l'identifiant.",deprecated,Imaginaerum
+"We can't move the category because the parent category name matches the child category name.","Nous ne pouvons pas déplacer la catégorie parce que le nom de la catégorie parente correspond au nom de catégorie enfant.",deprecated,Imaginaerum
+"We can't post your review right now.","Impossible de soumettre votre avis.",deprecated,Imaginaerum
+"We can't process your order right now. Please try again later.","Nous ne pouvons pas traiter votre commande. Veuillez réessayer plus tard.",deprecated,Imaginaerum
+"We can't provide the upload settings right now.","Impossible de transmettre les paramètres d'upload.",deprecated,Imaginaerum
+"We can't rebuild the index for an undefined product.","Nous ne pouvons pas reconstruire l'index d'un produit non défini.",deprecated,Imaginaerum
+"We can't remove the item.","Impossible de supprimer l'élément.",deprecated,Imaginaerum
+"We can't retrieve the product ID.","Impossible de retrouver l'ID du produit.",deprecated,Imaginaerum
+"We can't save custom-defined options for bundles with dynamic pricing.","Nous ne pouvons pas sauvegarder les options personnalisées, pour les produits groupés avec une tarification dynamique.",deprecated,Imaginaerum
+"We can't save the address.","Nous ne pouvons pas sauvegarder l'adresse.",deprecated,Imaginaerum
+"We can't save the address:n%1","Impossible de sauvegarder l'adresse : n%1",deprecated,Imaginaerum
+"We can't save the credit memo right now.","Impossible de sauvegarder l'avoir.",deprecated,Imaginaerum
+"We can't save the customer.","Nous ne pouvons pas sauvegarder le client.",deprecated,Imaginaerum
+"We can't save the invoice right now.","Impossible de sauvegarder la facture.",deprecated,Imaginaerum
+"We can't save the shipment right now.","Impossible de sauvegarder l'expédition.",deprecated,Imaginaerum
+"We can't save this rate right now.","Impossible de sauvegarder le taux.",deprecated,Imaginaerum
+"We can't save this tax class right now.","Impossible de sauvegarder la classe de taxe.",deprecated,Imaginaerum
+"We can't save this tax rule right now.","Impossible de sauvegarder la règle de taxe.",deprecated,Imaginaerum
+"We can't send the email order right now.","Impossible d'envoyer l'email de la commande.",deprecated,Imaginaerum
+"We can't send the invoice email right now.","Impossible d'envoyer l'email de la facture.",deprecated,Imaginaerum
+"We can't send the shipment right now.","Impossible d'envoyer l'email de l'expédition.",deprecated,Imaginaerum
+"We can't share customer accounts globally when the accounts share identical email addresses on more than one website.","Nous ne pouvons pas partager les comptes clients globalement lorsque les comptes partagent les adresses email identiques sur plus d'un site web.",deprecated,Imaginaerum
+"We can't start the billing agreement wizard.","Nous ne pouvons pas lancer l'assistant d'entente de facturation.",deprecated,Imaginaerum
+"We can't update the alert subscription right now.","Impossible de mettre à jour l'inscription à l'alerte.",deprecated,Imaginaerum
+"We can't update the attribute.","Nous ne pouvons pas mettre à jour l'attribut.",deprecated,Imaginaerum
+"We can't update the item right now.","Nous ne pouvons pas mettre à jour le produit.",deprecated,Imaginaerum
+"We can't update the item's quantity right now.","Impossible de mettre à jour la quantité de l'article.",deprecated,Imaginaerum
+"We can't update the order address right now.","Impossible de mettre à jour l'adresse de la commande.",deprecated,Imaginaerum
+"We can't update the payment right now.","Impossible de mettre à jour le paiement.",deprecated,Imaginaerum
+"We can't update the shopping cart.","Nous ne pouvons pas mettre à jour le panier.",deprecated,Imaginaerum
+"We can't update the Wish List right now.","Impossible de mettre à jour la liste d'envies.",deprecated,Imaginaerum
+"We can't update your Wish List right now.","Impossible de mettre à jour votre liste d'envies.",deprecated,Imaginaerum
+"We can't upload the CSS file right now.","Impossible d'uploader le fichier CSS.",deprecated,Imaginaerum
+"We can't upload the file right now.","Nous ne pouvons pas uploader le fichier.",deprecated,Imaginaerum
+"We can't upload the JS file right now.","Impossible d'uploader le fichier JS.",deprecated,Imaginaerum
+"We can't void the payment right now.","Impossible d'annuler le paiement.",deprecated,Imaginaerum
+"We couldn't mark the notification as Read because of an error.","Nous ne pouvons pas marquer la notification comme lue suite à une erreur.",deprecated,Imaginaerum
+"We couldn't remove the messages because of an error.","Nous ne pouvons pas supprimer les messages suite à une erreur.",deprecated,Imaginaerum
+"We don't have as many of some products as you want.","Nous ne disposons pas de tous les produits que vous souhaitez.",deprecated,Imaginaerum
+"We don't have some of the products you want.","Nous ne disposons pas de certains des produits que vous souhaitez.",deprecated,Imaginaerum
+"We don't recognize this file extension.","Impossible de reconnaître l'extension de ce fichier.",deprecated,Imaginaerum
+"We'll ask for your payment details before you place an order.","Vous devrez renseigner vos informations de paiement avant de confirmer votre commande.",deprecated,Imaginaerum
+"We'll email you a link to reset your password.","Nous allons vous envoyer par email un lien pour réinitialiser votre mot de passe.",deprecated,Imaginaerum
+"We'll email you an order confirmation with details and tracking info.","Nous vous enverrons par email une confirmation de commande avec des détails et des informations de suivi colis.",deprecated,Imaginaerum
+"We're sorry, an error has occurred while generating this email.","Désolé, une erreur s'est produite durant la génération de cet email.",deprecated,Imaginaerum
+"We're unable to send the password reset email.","Nous ne pouvons pas envoyer l'email de réinitialisation de mot de passe.",deprecated,Imaginaerum
+"<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                            or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement ?</a><br/>
+                                <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit&#174;. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
+                                Utilisez les bannières publicitaires gratuites de PayPal Credit&#174; comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
+                                Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
+                                ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>.",deprecated,Imaginaerum
+"<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                        <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                        from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                        Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                        The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                        or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement ?</a><br/>
+                                <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit&#174;. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
+                                Utilisez les bannières publicitaires gratuites de PayPal Credit&#174; comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
+                                Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
+                                ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>.",deprecated,Imaginaerum
+"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement ?</a><br/>
+                                <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit&#174;. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
+                                Utilisez les bannières publicitaires gratuites de PayPal Credit&#174; comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
+                                Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
+                                ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>.",deprecated,Imaginaerum
+"<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                                from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                                or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement ?</a><br/>
+                                <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit&#174;. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
+                                Utilisez les bannières publicitaires gratuites de PayPal Credit&#174; comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
+                                Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
+                                ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>.",deprecated,Imaginaerum
+"You can leave this box blank if you don't want to add a gift message for the item.","Vous pouvez laisser ce champ vide si vous ne voulez pas laisser un message cadeau pour cet article.",deprecated,Imaginaerum
+"You can leave this box blank if you don't want to add a gift message for this address.","Vous pouvez laisser ce champ vide si vous ne voulez pas laisser un message cadeau pour cette adresse.",deprecated,Imaginaerum
+"You can't add the item to shopping cart.","Vous ne pouvez pas ajouter le produit au panier.",deprecated,Imaginaerum
+"You can't create an invoice without products.","Impossible de créer une facture sans produit.",deprecated,Imaginaerum
+"You can't delete group ""%1"".","Vous ne pouvez pas supprimer le groupe ""%1"".",deprecated,Imaginaerum
+"You can't delete the design change.","Vous ne pouvez pas supprimer le changement de design.",deprecated,Imaginaerum
+"You can't remove attributes from this attribute set.","Vous ne pouvez pas supprimer les attributs depuis ce jeu d'attribut.",deprecated,Imaginaerum
+"You don't subscribe to our newsletter.","Vous n'êtes pas abonné à notre lettre d'information.",deprecated,Imaginaerum
+"You have revoked the customer's tokens.","Vous avez révoqué les permissions du client.",deprecated,Imaginaerum
+"You have revoked the user's tokens.","Les jetons de l'utilisateur ont été révoqués.",deprecated,Imaginaerum
+"You're reviewing:","Vous commentez :",deprecated,Imaginaerum
+"Your search query can't be longer than %1, so we shortened your query.","La recherche ne peut pas excéder %1 caractères. Merci de raccourcir celle-ci.",deprecated,Imaginaerum

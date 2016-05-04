@@ -1,0 +1,38 @@
+"All ","Tous ",component,Magento2_Base
+"Another non-translated value for Magento_Catalog","Une autre valeur non traduite pour Magento_Catalog",component,Magento2_Base
+"Cancel","Annuler",component,Magento2_Base
+"Close","Fermer",component,Magento2_Base
+"Design value to translate","Valeur à traduire",component,Magento2_Base
+"Insert Widget...","Insérer un widget...",component,Magento2_Base
+"Lib js","Lib js",component,Magento2_Base
+"Lib js unused","Lib js non utilisé",component,Magento2_Base
+"Loading...","Chargement en cours...",component,Magento2_Base
+"Maximum length of this field must be equal or less than %1 symbols.","La longueur maximale de ce champ doit être inférieure ou égale à %1 caractères.",component,Magento2_Base
+"Method ","Méthode ",component,Magento2_Base
+"Method %s does not exist on jQuery.decorate","La méthode %s n'existe pas définie dans jQuery.decorate",component,Magento2_Base
+"Module js","Module js",component,Magento2_Base
+"more","plus",component,Magento2_Base
+"No records found.","Aucun élément trouvé.",component,Magento2_Base
+"Original value for Magento_Store module","Valeur originale pour le module Magento_Store",component,Magento2_Base
+"Phrase 1","Phrase 1",component,Magento2_Base
+"Phrase 2 %1","Phrase 2 %1",component,Magento2_Base
+"Please enter a date between %min and %max.","Veuillez renseigner une date comprise entre %min et %max.",component,Magento2_Base
+"Please enter a date from the past.","Veuillez renseigner une date antérieure.",component,Magento2_Base
+"Please enter a date in the past.","Veuillez saisir une date dans le passé.",component,Magento2_Base
+"Please enter a valid day (1-%1).","Veuillez renseigner un jour valide (1-%1).",component,Magento2_Base
+"Please enter a valid year (1900-%1).","Veuillez renseigner une année valide (1-%1).",component,Magento2_Base
+"Please enter a value greater than or equal to %s.","Veuillez renseigner une valeur supérieure ou égale à %s.",component,Magento2_Base
+"Please enter a value less than or equal to %s.","Veuillez renseigner une valeur inférieure ou égale à %s.",component,Magento2_Base
+"Please wait...","Veuillez patienter...",component,Magento2_Base
+"Recent items","Éléments récents",component,Magento2_Base
+"%s","%s",component,Magento2_Base
+"Save","Enregistrer",component,Magento2_Base
+"Show all...","Voir tout...",component,Magento2_Base
+"Some non-translated value for Magento_Catalog","Certaines valeurs non traduites pour Magento_Catalog",component,Magento2_Base
+"%s - %s","%s - %s",component,Magento2_Base
+"Submit","Envoyer",component,Magento2_Base
+"Text with different translation on different modules","Texte avec traduction différente sur les différents modules",component,Magento2_Base
+"This is a required field.","Ce champ est obligatoire.",component,Magento2_Base
+"Translate","Traduire",component,Magento2_Base
+"translation to the same value","traduction de la même valeur",component,Magento2_Base
+"Upload server currently unavailable - ","Upload serveur actuellement indisponible - ",component,Magento2_Base

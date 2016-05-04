@@ -1,0 +1,4 @@
+"Entity type model '%1' is not found","Le modèle du type d'entité '%1' est introuvable",module,Magento_AdvancedPricingImportExport
+"Entity type model must be an instance of MagentoCatalogImportExportModelExportProductTypeAbstractType","Le modèle du type d'entité doit être une instance de \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_AdvancedPricingImportExport
+"Please correct the data sent.","Veuillez rectifier les données envoyées.",module,Magento_AdvancedPricingImportExport
+"There are no product types available for export","Aucun type de produit disponible pour l'export",module,Magento_AdvancedPricingImportExport

@@ -1,0 +1,21 @@
+"Access list","Liste d'Accès",module,Magento_PageCache
+"Backend host","Hôte du backend",module,Magento_PageCache
+"Backend port","Port backend",module,Magento_PageCache
+"Built-in Application (Not Recommended for Production Use)","Système intégré (Non recommandé pour une utilisation en production)",module,Magento_PageCache
+"Caching Application","Application de cache",module,Magento_PageCache
+"Export VCL","Export VCL",module,Magento_PageCache
+"Export VCL for Varnish ","Exporter le VCL pour Varnish ",module,Magento_PageCache
+"Full Page Cache","Full page cache",module,Magento_PageCache
+"Full page caching.","Full page caching.",module,Magento_PageCache
+"IPs access list separated with ',' that can purge Varnish configuration for config file generation.
+                            If field is empty default value localhost will be saved.","Liste des adresses IPs, séparées par ',', qui sont autorisées à purger le cache Varnish. Cette liste est utilisée pour la génération du fichier de configuration. Si ce champ est vide la valeur par défaut localhost sera utilisée.",module,Magento_PageCache
+"IPs access list separated with ',' that can purge Varnish configuration for config file generation.
+                            If field is empty default value localhost will be saved.","Liste des adresses IPs, séparées par ',', qui sont autorisées à purger le cache Varnish. Cette liste est utilisée pour la génération du fichier de configuration. Si ce champ est vide la valeur par défaut localhost sera utilisée.",module,Magento_PageCache
+"Page Cache","Cache page",module,Magento_PageCache
+"Public content cache lifetime in seconds. If field is empty default value 86400 will be saved. ","Durée de vie du cache en secondes des contenus publiques. Si ce champ est vide la valeur par défaut ""86400"" sera utilisée. ",module,Magento_PageCache
+"Specify backend host for config file generation. If field is empty default value localhost will be saved.","Spécifiez l'hôte du backend pour la génération du fichier de configuration. Si ce champ est vide la valeur par défaut localhost sera utilisée.",module,Magento_PageCache
+"Specify backend port for config file generation. If field is empty default value 8080 will be saved.","Spécifiez le port du backend pour la génération du fichier de configuration. Si ce champ est vide la valeur par défaut 8080 sera utilisée.",module,Magento_PageCache
+"TTL for public content","TTL pour les contenus publics",module,Magento_PageCache
+"Ttl value ""%1"" is not valid. Please use only numbers equal or greater than zero.","La valeur du TTL ""%1"" est invalide. Veuillez de saisir un nombre supérieur ou égal à 0.",module,Magento_PageCache
+"Varnish Caching","Cache Varnish",module,Magento_PageCache
+"Varnish Configuration","Configuration de Varnish",module,Magento_PageCache

@@ -1,0 +1,52 @@
+"Calculate Handling Fee","Calculer les frais de dossier",module,Magento_OfflineShipping
+"Condition","Condition",module,Magento_OfflineShipping
+"Country","Pays",module,Magento_OfflineShipping
+"Displayed Error Message","Message d'erreur affiché",module,Magento_OfflineShipping
+"Duplicate Row #%1 (Country ""%2"", Region/State ""%3"", Zip ""%4"" and Value ""%5"")","Ligne #%1 dupliquée (Pays ""%2"", Région/Etat ""%3"", code postal ""%4"" et valeur ""%5"")",module,Magento_OfflineShipping
+"Enabled","Activé",module,Magento_OfflineShipping
+"Export","Exporter",module,Magento_OfflineShipping
+"Export CSV","Export CSV",module,Magento_OfflineShipping
+"Field ","Champ ",module,Magento_OfflineShipping
+"Flat Rate","Tarif unique",module,Magento_OfflineShipping
+"For matching items only","Pour les objets concordants seulement",module,Magento_OfflineShipping
+"For shipment with matching items","Pour les expéditions avec articles concordants",module,Magento_OfflineShipping
+"Free Shipping","Livraison gratuite",module,Magento_OfflineShipping
+"Handling Fee","Frais de dossier",module,Magento_OfflineShipping
+"Import","Importer",module,Magento_OfflineShipping
+"Include Virtual Products in Price Calculation","Inclure les produits virtuels dans le calcul de prix",module,Magento_OfflineShipping
+" is required."," requis.",module,Magento_OfflineShipping
+"Method Name","Nom de la méthode",module,Magento_OfflineShipping
+"Minimum Order Amount","Montant de commande minimum",module,Magento_OfflineShipping
+"No","Non",module,Magento_OfflineShipping
+"None","Aucun",module,Magento_OfflineShipping
+"# of Items (and above)","Nombre d'articles (et au-delà)",module,Magento_OfflineShipping
+"# of Items vs. Destination","Nombre d'articles par destination",module,Magento_OfflineShipping
+"Order Subtotal (and above)","Sous-total de la commande (et au dessus)",module,Magento_OfflineShipping
+"Per Item","Par article",module,Magento_OfflineShipping
+"Per Order","Par commande",module,Magento_OfflineShipping
+"Please correct %1 ""%2"" in the Row #%3.","Veuillez corriger %1 ""%2"" à la ligne #%3.",module,Magento_OfflineShipping
+"Please correct Country ""%1"" in the Row #%2.","Veuillez corriger le pays ""%1"" à la ligne #%2.",module,Magento_OfflineShipping
+"Please correct Region/State ""%1"" in the Row #%2.","Veuillez corriger la région/état ""%1"" à la ligne #%2.",module,Magento_OfflineShipping
+"Please correct Shipping Price ""%1"" in the Row #%2.","Veuillez corriger le prix de la livraison ""%1"" de la ligne #%2.",module,Magento_OfflineShipping
+"Please correct Table Rate code for type %1: %2.","Veuillez corriger la tarification du type %1 : %2.",module,Magento_OfflineShipping
+"Please correct Table Rate code type: %1.","Veuillez corriger la tarification pour le type %1.",module,Magento_OfflineShipping
+"Please correct Table Rates File Format.","Veuillez corriger le format de fichier de la tarification.",module,Magento_OfflineShipping
+"Please correct Table Rates format in the Row #%1.","Veuillez corriger le format de la tarification à la ligne #%1.",module,Magento_OfflineShipping
+"Price","Prix",module,Magento_OfflineShipping
+"Price vs. Destination","Prix par destination",module,Magento_OfflineShipping
+"Region/State","Région/État",module,Magento_OfflineShipping
+"Shipping Price","Tarif de livraison",module,Magento_OfflineShipping
+"Ship to Applicable Countries","Livrer dans les pays applicables",module,Magento_OfflineShipping
+"Ship to Specific Countries","Livrer dans des pays spécifiques",module,Magento_OfflineShipping
+"Show Method if Not Applicable","Afficher la méthode si elle n'est pas applicable",module,Magento_OfflineShipping
+"Something went wrong while importing table rates.","Une erreur s'est produite lors de l'importation de la tarification.",module,Magento_OfflineShipping
+"Sort Order","Ordre de Tri",module,Magento_OfflineShipping
+"Store Pickup","Retrait en magasin",module,Magento_OfflineShipping
+"Table Rates","Tarification",module,Magento_OfflineShipping
+"Title","Titre",module,Magento_OfflineShipping
+"Type","Type",module,Magento_OfflineShipping
+"We couldn't import this file because of these errors: %1","Impossible d'importer ce fichier à cause des erreurs suivantes : %1",module,Magento_OfflineShipping
+"We couldn't import this file because of these errors: %1","Impossible d'importer ce fichier à cause des erreurs suivantes : %1",module,Magento_OfflineShipping
+"Weight (and above)","Poids (et au-delà)",module,Magento_OfflineShipping
+"Weight vs. Destination","Poids par destination",module,Magento_OfflineShipping
+"Zip/Postal Code","Code postal",module,Magento_OfflineShipping
