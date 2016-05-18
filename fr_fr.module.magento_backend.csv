@@ -444,7 +444,7 @@
 "Secure Base URL for User Media Files","URL de base sécurisée pour les fichiers médias des utilisateurs",module,Magento_Backend
 "Security","Sécurité",module,Magento_Backend
 "see error log for details","consultez le journal des logs pour plus de détails",module,Magento_Backend
-"Select All","sélectionner tout",module,Magento_Backend
+"Select All","Sélectionner tout",module,Magento_Backend
 "Select Category","Sélectionner une catégorie",module,Magento_Backend
 "selected","sélectionné",module,Magento_Backend
 "Selected allowed currency ""%1"" is not available in installed currencies.","La devise sélectionnée ""%1"" n'est pas disponible dans les devises installées.",module,Magento_Backend

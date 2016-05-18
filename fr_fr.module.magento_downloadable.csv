@@ -87,7 +87,7 @@
 "Sample title cannot be empty.","Le titre de l'échantillon ne peut pas être vide.",module,Magento_Downloadable
 "Sample URL must have valid format.","L'URL de l'échantillon doit avoir un format valide.",module,Magento_Downloadable
 "See price before order confirmation.","Voir le prix avant la confirmation de la commande.",module,Magento_Downloadable
-"Select all","sélectionner tout",module,Magento_Downloadable
+"Select all","Sélectionner tout",module,Magento_Downloadable
 "Shareable","Partageable",module,Magento_Downloadable
 "Shipped","Livré",module,Magento_Downloadable
 "SKU","SKU",module,Magento_Downloadable

@@ -110,7 +110,7 @@
 "Save","Enregistrer",module,Magento_Shipping
 "Security validation of XML document has been failed.","La validation de sécurité du document XML a échoué.",module,Magento_Shipping
 "See our Shipping Policy","Voir notre politique de livraison",module,Magento_Shipping
-"Select All","sélectionner tout",module,Magento_Shipping
+"Select All","Sélectionner tout",module,Magento_Shipping
 "Send Tracking Information","Envoyer les informations de suivi",module,Magento_Shipping
 "Service Type:","Type de Service :",module,Magento_Shipping
 "Ship","Expédier",module,Magento_Shipping

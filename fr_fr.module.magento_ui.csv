@@ -68,7 +68,7 @@
 "Search by keyword","Rechercher par mot clé",module,Magento_Ui
 "Select...","Choisir...",module,Magento_Ui
 "Select All on This Page","Sélectionner tout",module,Magento_Ui
-"Selected","sélectionné",module,Magento_Ui
+"Selected","Sélectionné",module,Magento_Ui
 "Select Items","Choisir",module,Magento_Ui
 "Something went wrong.","Une erreur s'est produite.",module,Magento_Ui
 "The configuration parameter ""formElement"" is a required for ""%1"" field.","Le paramètre de configuration ""formElement"" est requis pour le champ ""%1"".",module,Magento_Ui

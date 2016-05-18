@@ -11,7 +11,7 @@
 "Remove Attribute","Supprimer l'attribut",module,Magento_Swatches
 "Remove Option","Supprimer l'Option",module,Magento_Swatches
 "Save Option","Enregistrer l'option",module,Magento_Swatches
-"Select All","sélectionner tout",module,Magento_Swatches
+"Select All","Sélectionner tout",module,Magento_Swatches
 "Select values from each attribute to include in this product. Each unique combination of values creates a unigue product SKU.","Sélectionnez les valeurs pour chaque attribut à inclure pour ce produit. Chaque combinaison créera un SKU produit unique.",module,Magento_Swatches
 "Sort Option","Option de Tri",module,Magento_Swatches
 "Sort Variations","Trier les variations",module,Magento_Swatches

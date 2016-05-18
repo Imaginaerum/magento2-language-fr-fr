@@ -587,7 +587,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Search Terms","Termes de recherche",module,Magento_Catalog
 "See price before order confirmation.","Voir le prix avant la confirmation de la commande.",module,Magento_Catalog
 "Select...","Choisir...",module,Magento_Catalog
-"Select All","sélectionner tout",module,Magento_Catalog
+"Select All","Sélectionner tout",module,Magento_Catalog
 "select all","sélectionner tout",module,Magento_Catalog
 "Select Category...","Sélectionner une catégorie...",module,Magento_Catalog
 "Select Product...","Sélectionner un produit...",module,Magento_Catalog
