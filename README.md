@@ -14,6 +14,7 @@ Supported versions:
 * Magento v2.0.3
 * Magento v2.0.4
 * Magento v2.0.5
+* Magento v2.0.6
 
 
 ## Links
