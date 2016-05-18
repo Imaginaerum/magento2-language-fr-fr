@@ -218,13 +218,13 @@
 "File extension not known or unsupported type.","Extension de fichier non reconnue ou non supportée.",module,Magento_Backend
 "File System","Système de fichiers",module,Magento_Backend
 "Find a string in client user-agent header and switch to specific design theme for that browser.","Analyse une chaîne dans l'en-tête ""User-Agent"" par le navigateur client et sélectionne un design spécifique pour ce navigateur.",module,Magento_Backend
-"First Day of Week","Premier jour de la Semaine",module,Magento_Backend
+"First Day of Week","Premier jour de la semaine",module,Magento_Backend
 "First Name","Prénom",module,Magento_Backend
 "Flush Cache Storage","Vider le cache",module,Magento_Backend
 "Flush Catalog Images Cache","Vider le cache des images du catalogue",module,Magento_Backend
 "Flush JavaScript/CSS Cache","Vider le cache JavaScript/CSS",module,Magento_Backend
 "Flush Magento Cache","Vider le cache Magento",module,Magento_Backend
-"Flush Static Files Cache","Vider le cache des fichiers Statiques",module,Magento_Backend
+"Flush Static Files Cache","Vider le cache des fichiers statiques",module,Magento_Backend
 "For category","Pour une catégorie",module,Magento_Backend
 "For CMS page","Pour une page CMS",module,Magento_Backend
 "Forgot and Reset Email Sender","Expéditeur de l'email d'oubli et réinitialisation de mot de passe",module,Magento_Backend
@@ -233,8 +233,8 @@
 "For Windows server only.","Pour les serveurs windows uniquement.",module,Magento_Backend
 "From","De",module,Magento_Backend
 "General","Général",module,Magento_Backend
-"General Contact","Contact Général",module,Magento_Backend
-"General Settings","Paramètres Généraux",module,Magento_Backend
+"General Contact","Contact général",module,Magento_Backend
+"General Settings","Paramètres généraux",module,Magento_Backend
 "[GLOBAL]","[GLOBAL]",module,Magento_Backend
 "Global Attribute","Attribut global",module,Magento_Backend
 "Go Today","Aller à aujourd'hui",module,Magento_Backend
@@ -259,7 +259,7 @@
 "Import History","Historique d'import",module,Magento_Backend
 "Incl. Tax","TTC",module,Magento_Backend
 "Interface Language","Langage de l'interface",module,Magento_Backend
-"Interface Locale","Langue de l'Interface",module,Magento_Backend
+"Interface Locale","Langue de l'interface",module,Magento_Backend
 "Invalid %1. %2","Invalide %1. %2",module,Magento_Backend
 "Invalidated","Invalidé",module,Magento_Backend
 "Invalid export type supplied for grid export block","Le type d'exportation est invalide",module,Magento_Backend
@@ -279,7 +279,7 @@
 "Last 24 Hours","Dernières 24 heures",module,Magento_Backend
 "Last Name","Nom",module,Magento_Backend
 "Last Orders","Dernières commandes",module,Magento_Backend
-"Last Search Terms","Derniers Termes recherchés",module,Magento_Backend
+"Last Search Terms","Derniers termes recherchés",module,Magento_Backend
 "Leave empty for access from any location.","Laissez vide si vous souhaitez y accéder depuis n'importe où.",module,Magento_Backend
 "Lifetime Sales","Ventes depuis le début",module,Magento_Backend
 "Loading...","Chargement en cours...",module,Magento_Backend
@@ -294,7 +294,7 @@
 "Log Settings","Paramètres de log",module,Magento_Backend
 "Magento","Magento",module,Magento_Backend
 "Magento Admin","Admin Magento",module,Magento_Backend
-"Magento Admin Panel","Panneau d'Administration de Magento",module,Magento_Backend
+"Magento Admin Panel","Panneau d'administration de Magento",module,Magento_Backend
 "Magento ver. %1","Magento ver. %1",module,Magento_Backend
 "Mail Sending Settings","Paramètres d'envoi des emails",module,Magento_Backend
 "Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/","Assurez-vous que l'URL se termine par un '/' (slash), ex : http://yourdomain/magento/",module,Magento_Backend
@@ -421,7 +421,7 @@
 "Results","Résultats",module,Magento_Backend
 "Return-Path Email","Adresse email de réponse",module,Magento_Backend
 "Revenue","Chiffre d'affaires",module,Magento_Backend
-"Root Category","Catégorie Racine",module,Magento_Backend
+"Root Category","Catégorie racine",module,Magento_Backend
 "Sales Representative","Représentant des ventes",module,Magento_Backend
 "Save","Enregistrer",module,Magento_Backend
 "Save Account","Enregistrer le compte",module,Magento_Backend
@@ -567,7 +567,7 @@
 "Transactional Emails","Emails transactionnels",module,Magento_Backend
 "Translate, blocks and other output caches should be disabled for both frontend and admin inline translations.","Les caches de traduction, de blocs et autres sorties doivent être désactivés pour utiliser la traduction en ligne.",module,Magento_Backend
 "Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.","Les caches de traduction, de blocs et autres sorties doivent être désactivés pour utiliser la traduction en ligne sur le font office et sur le back office.",module,Magento_Backend
-"Translate Inline","Traduire en Ligne",module,Magento_Backend
+"Translate Inline","Traduire en ligne",module,Magento_Backend
 "Type","Type",module,Magento_Backend
 "Unable to delete store. Please, try again later.","Impossible de supprimer la boutique. Veuillez réessayer ultérieurement.",module,Magento_Backend
 "Unable to delete store view. Please, try again later.","Impossible de supprimer la vue magasin. Veuillez réessayer ultérieurement.",module,Magento_Backend

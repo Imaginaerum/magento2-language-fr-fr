@@ -83,10 +83,10 @@
 "Last Credit Memo Created Date","Date de création du dernier avoir",module,Magento_Reports
 "Last Invoice Created Date","Date de création de la dernière facture",module,Magento_Reports
 "Last Name","Nom",module,Magento_Reports
-"Last Review","Dernier Commentaire",module,Magento_Reports
+"Last Review","Dernier commentaire",module,Magento_Reports
 "Last updated: %1. To refresh last day's <a href=""%2"">statistics</a>, ' 'click <a href=""%3"">here</a>.","Dernière mise à jour : %1. Pour rafraîchir les <a href=""%2"">statistiques</a>, cliquez <a href=""%3"">ici</a>.",module,Magento_Reports
 "Last updated: %1. To refresh last day's <a href=""%2"">statistics</a>, click <a href=""%3"">here</a>.","Dernière mise à jour : %1. Pour rafraîchir les <a href=""%2"">statistiques</a>, cliquez <a href=""%3"">ici</a>.",module,Magento_Reports
-"Learn More","En Savoir Plus",module,Magento_Reports
+"Learn More","En savoir plus",module,Magento_Reports
 "Link","Lien",module,Magento_Reports
 "List of Products Recently Compared and Removed from the Compare List by Visitor","Liste des derniers produits comparés et enlevés de la liste de comparaison par un visiteur",module,Magento_Reports
 "List of Products Recently Viewed by Visitor","Liste des derniers produits vus par le visiteur",module,Magento_Reports

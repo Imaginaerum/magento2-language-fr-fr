@@ -12,9 +12,9 @@
 "Excl. Tax","HT",module,Magento_Weee
 "Excluding FPT","Hors TFP",module,Magento_Weee
 "Excluding FPT. Including FPT description and final price","TFP incluse dans Description et prix final",module,Magento_Weee
-"Final Price","Prix Final",module,Magento_Weee
-"Fixed Product Tax","Taxe Fixe de produit",module,Magento_Weee
-"Fixed Product Taxes","Taxes Fixes de produit",module,Magento_Weee
+"Final Price","Prix final",module,Magento_Weee
+"Fixed Product Tax","Taxe fixe de produit",module,Magento_Weee
+"Fixed Product Taxes","Taxes fixes de produit",module,Magento_Weee
 "FPT","TFP",module,Magento_Weee
 "frontend_label","frontend_label",module,Magento_Weee
 "Incl. Tax","TTC",module,Magento_Weee

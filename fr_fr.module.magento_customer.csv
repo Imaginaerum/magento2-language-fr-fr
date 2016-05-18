@@ -181,7 +181,7 @@
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée.",module,Magento_Customer
 "Enable Autocomplete on login/forgot password forms","Activer la saisie semi-automatique sur les formulaires de connexion/mot de passe oublié",module,Magento_Customer
 "Enable Automatic Assignment to Customer Group","Activer l'assignation automatique à un groupe clients",module,Magento_Customer
-"End Date","Date de Fin",module,Magento_Customer
+"End Date","Date de fin",module,Magento_Customer
 "enter your billing address for proper VAT calculation","entrez votre adresse de facturation pour un calcul correct de la TVA",module,Magento_Customer
 "enter your shipping address for proper VAT calculation","entrez votre adresse de livraison pour un calcul de la TVA appropriée",module,Magento_Customer
 "Error during VAT Number verification.","Erreur lors de la vérification du numéro de TVA.",module,Magento_Customer
@@ -199,7 +199,7 @@
 "Gender","Genre",module,Magento_Customer
 "Gender is required.","Le genre est obligatoire.",module,Magento_Customer
 "General Subscription","Je m'abonne",module,Magento_Customer
-"Generate Human-Friendly Customer ID","Générer un ID Client facile à lire",module,Magento_Customer
+"Generate Human-Friendly Customer ID","Générer un ID client facile à lire",module,Magento_Customer
 "Global","Global",module,Magento_Customer
 "Go back","Retour",module,Magento_Customer
 "Grand Total","Montant global",module,Magento_Customer
@@ -207,8 +207,8 @@
 "Group for Invalid VAT ID","Groupe pour un numéro de TVA invalide",module,Magento_Customer
 "Group for Valid VAT ID - Domestic","Groupe pour un numéro de TVA valide - Domestique",module,Magento_Customer
 "Group for Valid VAT ID - Intra-Union","Groupe pour un numéro de TVA valide - Intra-Union",module,Magento_Customer
-"Group Information","Informations du Groupe",module,Magento_Customer
-"Group Name","Nom du Groupe",module,Magento_Customer
+"Group Information","Informations du groupe",module,Magento_Customer
+"Group Name","Nom du groupe",module,Magento_Customer
 "Guest checkout is disabled.","Le passage de commande invité est désactivé.",module,Magento_Customer
 "Hello, %1!","Bonjour, %1 !",module,Magento_Customer
 "ID","ID",module,Magento_Customer
@@ -226,7 +226,7 @@
 "If you have an account with us, log in using your email address.","Si vous possédez un compte veuillez vous connecter en utilisant votre adresse email.",module,Magento_Customer
 "If you requested this change, set a new password here:","Si vous êtes bien à l'origine de cette demande, veuillez cliquer ci-dessous pour définir un nouveau mot de passe :",module,Magento_Customer
 "If your Magento site has multiple views, you can set the scope to apply to a specific view.","Si votre site Magento a plusieurs boutiques, vous pouvez définir la portée à appliquer pour une vue spécifique.",module,Magento_Customer
-"Images and Videos","Images et Vidéos",module,Magento_Customer
+"Images and Videos","Images et vidéos",module,Magento_Customer
 "Indeterminate","Indéterminé",module,Magento_Customer
 "InputException","InputException",module,Magento_Customer
 "Invalid confirmation token","Confirmation de permission Invalide",module,Magento_Customer
@@ -236,11 +236,11 @@
 "IP Address","Adresse IP",module,Magento_Customer
 "Label","libellé",module,Magento_Customer
 "label","libellé",module,Magento_Customer
-"Last Activity","Dernière Activité",module,Magento_Customer
+"Last Activity","Dernière activité",module,Magento_Customer
 "Last Date Subscribed","Date de dernière inscription",module,Magento_Customer
 "Last Date Unsubscribed","Date de dernière désinscription",module,Magento_Customer
 "Last Logged In (%1):","Dernière connexion (%1) :",module,Magento_Customer
-"Last Logged In","Dernière Connexion",module,Magento_Customer
+"Last Logged In","Dernière connexion",module,Magento_Customer
 "Last Logged In:","Dernière connexion :",module,Magento_Customer
 "Last Name","Nom",module,Magento_Customer
 "Last URL","Dernière URL",module,Magento_Customer
@@ -270,8 +270,8 @@
 "Name","Nom",module,Magento_Customer
 "Name and Address Options","Options de nom et d'adresse",module,Magento_Customer
 "Never","Jamais",module,Magento_Customer
-"New Addresses","Nouvelle Adresse",module,Magento_Customer
-"New Customer","Nouveau Client",module,Magento_Customer
+"New Addresses","Nouvelle adresse",module,Magento_Customer
+"New Customer","Nouveau client",module,Magento_Customer
 "New Customer Address","Nouvelle adresse client",module,Magento_Customer
 "New Customer Group","Nouveau groupe de clients",module,Magento_Customer
 "New Customer Groups","Nouveaux groupes de clients",module,Magento_Customer
@@ -296,7 +296,7 @@
 "Number of Lines in a Street Address","Nombre de lignes dans l'adresse de rue",module,Magento_Customer
 "Offline","Déconnecté",module,Magento_Customer
 "Online","En ligne",module,Magento_Customer
-"Online Customers","Clients en Ligne",module,Magento_Customer
+"Online Customers","Clients en ligne",module,Magento_Customer
 "Online Customers Options","Options des clients en ligne",module,Magento_Customer
 "Online Minutes Interval","Intervalle en minutes",module,Magento_Customer
 "or ","ou ",module,Magento_Customer
@@ -423,7 +423,7 @@
 "Show Date of Birth","Afficher la date de naissance",module,Magento_Customer
 "Show Gender","Afficher le genre",module,Magento_Customer
 "Show Middle Name (initial)","Afficher les initiales",module,Magento_Customer
-"Show Prefix","Afficher le Préfixe",module,Magento_Customer
+"Show Prefix","Afficher le préfixe",module,Magento_Customer
 "Show Suffix","Afficher le Suffixe",module,Magento_Customer
 "Show Tax/VAT Number","Afficher le numéro de TVA intracommunautaire",module,Magento_Customer
 "Show VAT Number on Frontend","Afficher le numéro de TVA sur le frontend",module,Magento_Customer

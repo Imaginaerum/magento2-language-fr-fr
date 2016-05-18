@@ -298,7 +298,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "frontend_label","frontend_label",module,Magento_Catalog
 "Frontend Properties","Propriétés du frontend",module,Magento_Catalog
 "Gallery","Galerie",module,Magento_Catalog
-"General Information","Informations Générales",module,Magento_Catalog
+"General Information","Informations générales",module,Magento_Catalog
 "Global","Global",module,Magento_Catalog
 "[GLOBAL]","[GLOBAL]",module,Magento_Catalog
 "Globally Editable","Éditable globalement",module,Magento_Catalog
@@ -324,7 +324,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Image Detail","Détail de l'image",module,Magento_Catalog
 "Image Management","Gestion des images",module,Magento_Catalog
 "Images","Images",module,Magento_Catalog
-"Images and Videos","Images et Vidéos",module,Magento_Catalog
+"Images and Videos","Images et vidéos",module,Magento_Catalog
 "Images (.gif, .jpg, .png)","Images (.gif, .jpg, .png)",module,Magento_Catalog
 "Import","Importer",module,Magento_Catalog
 "Import Options","Options d'import",module,Magento_Catalog
@@ -338,7 +338,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Index product attributes for layered navigation building","Index des attributs produit pour la navigation par filtres",module,Magento_Catalog
 "Index product EAV","Index EAV des produits",module,Magento_Catalog
 "Index product prices","Index des tarifs produit",module,Magento_Catalog
-"Input Type","Type de Saisie",module,Magento_Catalog
+"Input Type","Type de saisie",module,Magento_Catalog
 "Input Validation for Store Owner","Validation requise",module,Magento_Catalog
 "In Stock","En stock",module,Magento_Catalog
 "In stock","En stock",module,Magento_Catalog
@@ -362,19 +362,19 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Last Notified","Dernière notification",module,Magento_Catalog
 "Layered Navigation Price Step","Tranche de prix dans la navigation par couche",module,Magento_Catalog
 "lbs","lbs",module,Magento_Catalog
-"Learn More","En Savoir Plus",module,Magento_Catalog
+"Learn More","En savoir plus",module,Magento_Catalog
 "Link to a Specified Category","Lien vers une catégorie spécifique",module,Magento_Catalog
 "Link to a Specified Product","Lien vers un produit spécifique",module,Magento_Catalog
 "List","Liste",module,Magento_Catalog
 "List (default) / Grid","Liste (par défaut) / grille",module,Magento_Catalog
 "List Mode","Mode d'affichage",module,Magento_Catalog
 "List of Products that are set as New","Liste des produits configurés comme nouveaux",module,Magento_Catalog
-"List Only","Liste Seulement",module,Magento_Catalog
+"List Only","Liste seulement",module,Magento_Catalog
 "Loading...","Chargement en cours...",module,Magento_Catalog
 "Low Stock Products","Produits ayant un faible niveau de stock",module,Magento_Catalog
 "Main","Principale",module,Magento_Catalog
 "Make Base","Construire la base",module,Magento_Catalog
-"Make sure the To Date is later than or the same as the From Date.","Assurez-vous que la Date de fin soit postérieure ou identique à la Date de début.",module,Magento_Catalog
+"Make sure the To Date is later than or the same as the From Date.","Assurez-vous que la date de fin soit postérieure ou identique à la date de début.",module,Magento_Catalog
 "Manage Attribute Sets","Gérer les jeux d'attributs",module,Magento_Catalog
 "Manage Catalog Categories","Gérer les catégories du catalogue",module,Magento_Catalog
 "Manage Categories","Gérer les catégories",module,Magento_Catalog
@@ -385,7 +385,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Manage Stock","Gérer les stocks",module,Magento_Catalog
 "Manage Titles (Size, Color, etc.)","Gérer les titres (taille, couleur, etc.)",module,Magento_Catalog
 "Manual","Manuel",module,Magento_Catalog
-"Mask for Meta Description","Masque pour Meta Description",module,Magento_Catalog
+"Mask for Meta Description","Masque pour meta description",module,Magento_Catalog
 "Mask for Meta Keywords","Paramètre Meta Keywords",module,Magento_Catalog
 "Mask for Meta Title","Paramètre Meta Title",module,Magento_Catalog
 "Mask for SKU","Paramètre SKU",module,Magento_Catalog
@@ -435,7 +435,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "New Product Template","Nouveau gabarit produit",module,Magento_Catalog
 "New Root Category","Nouvelle catégorie racine",module,Magento_Catalog
 "New Search","Nouvelle recherche",module,Magento_Catalog
-"New Set","Nouveau Groupe",module,Magento_Catalog
+"New Set","Nouveau groupe",module,Magento_Catalog
 "New Set Name","Nouveau nom de groupe",module,Magento_Catalog
 "New Subcategory","Nouvelle sous-catégorie",module,Magento_Catalog
 "Next","Suivant",module,Magento_Catalog

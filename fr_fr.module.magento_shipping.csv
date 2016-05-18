@@ -67,7 +67,7 @@
 "lb","lb",module,Magento_Shipping
 "Length","Longueur",module,Magento_Shipping
 "Live","En production",module,Magento_Shipping
-"Local Time","Heure Locale",module,Magento_Shipping
+"Local Time","Heure locale",module,Magento_Shipping
 "Location","Lieu",module,Magento_Shipping
 "message","message",module,Magento_Shipping
 "N/A","N/A",module,Magento_Shipping
@@ -131,7 +131,7 @@
 "Shipping Policy Parameters","Paramètres des conditions de livraison",module,Magento_Shipping
 "Shipping Settings","Paramètres de livraison",module,Magento_Shipping
 "Show Packages","Afficher les paquets",module,Magento_Shipping
-"Signature Confirmation","Confirmation de Signature",module,Magento_Shipping
+"Signature Confirmation","Confirmation de signature",module,Magento_Shipping
 "Signed by:","Signé par :",module,Magento_Shipping
 "Size","Taille",module,Magento_Shipping
 "SKU","SKU",module,Magento_Shipping

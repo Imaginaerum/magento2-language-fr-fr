@@ -180,7 +180,7 @@
 "Every 14 days","Tous les 14 jours",module,Magento_Paypal
 "Every 30 days","Tous les 30 jours",module,Magento_Paypal
 "Every 40 days","Tous les 40 jours",module,Magento_Paypal
-"Exact Match.","Correspondance Exacte.",module,Magento_Paypal
+"Exact Match.","Correspondance exacte.",module,Magento_Paypal
 "Exact Match. Address and nine-digit ZIP code","Correspondance exacte. Adresse et code postal à neuf chiffres",module,Magento_Paypal
 "Exact Match. Address and Postal Code. International","Correspondance exacte. Adresse et code postal. International",module,Magento_Paypal
 "Exact Match. Address and Postal Code. UK-specific","Correspondance exacte. Adresse et code postal. Spécifique au Royaume-Uni",module,Magento_Paypal
@@ -188,12 +188,12 @@
 "Express Checkout and Order have been canceled.","Le paiement Express Checkout et la commande ont été annulés.",module,Magento_Paypal
 "Express Checkout APIs","APIs de Express Checkout",module,Magento_Paypal
 "Express Checkout has been canceled.","Le paiement Express Checkout a été annulé.",module,Magento_Paypal
-"Fee Amount","Montant des Frais",module,Magento_Paypal
+"Fee Amount","Montant des frais",module,Magento_Paypal
 "Fee Debit or Credit","Frais de débit ou de crédit",module,Magento_Paypal
 "Fee: Foreign ACH Withdrawal","Frais: retrait ACH étrangères",module,Magento_Paypal
 "Fee: Mass Pay Request","Frais : demande de paiement en masse",module,Magento_Paypal
 "Fee Reversal","Frais d'inversion",module,Magento_Paypal
-"Fee: Web Site Payments Pro Account Monthly","Frais : Paiements du site web de compte mensuel pro",module,Magento_Paypal
+"Fee: Web Site Payments Pro Account Monthly","Frais : paiements du site web de compte mensuel pro",module,Magento_Paypal
 "Fee: WorldLink Check Withdrawal","Frais : retrait par chèque WorldLink",module,Magento_Paypal
 "Fetch transaction details method does not exists in Payflow","Les rapports de détails de transactions n'existent pas dans Payflow",module,Magento_Paypal
 "Fetch Updates","Rapport mises à jour",module,Magento_Paypal
@@ -204,14 +204,14 @@
 "Funding","Financement",module,Magento_Paypal
 "General: adjustment of a type not belonging to the other T12xx categories","Général : ajustement d'un type n'appartenant pas aux autres catégories de T12xx",module,Magento_Paypal
 "General Adjustment without businessrelated event","Ajustement général sans événement lié au marché",module,Magento_Paypal
-"General (Authorization)","Général (Autorisation)",module,Magento_Paypal
+"General (Authorization)","Général (autorisation)",module,Magento_Paypal
 "General: bonus of a type not belonging to the other T08xx categories","Général : bonification d'un type n'appartenant pas aux autres catégories de T08xx",module,Magento_Paypal
 "General Currency Conversion","Conversion de devises général",module,Magento_Paypal
 "General (Dividend)","Général (dividendes)",module,Magento_Paypal
 "General: event not yet categorized","Général : événement pas encore classé par catégorie",module,Magento_Paypal
 "General Funding of PayPal Account ","Financement général de compte PayPal ",module,Magento_Paypal
 "General (Funds Transfer from PayPal Account to Another)","Général (transfert de fonds de compte PayPal à un autre)",module,Magento_Paypal
-"General Information","Informations Générales",module,Magento_Paypal
+"General Information","Informations générales",module,Magento_Paypal
 "General: non-payment fee of a type not belonging to the other T01xx categories","Général : taxe de non-paiement d'un type qui n'appartient pas aux autres catégories T01xx",module,Magento_Paypal
 "General. Product no longer supported","Généralités. Ce produit n'est plus pris en charge",module,Magento_Paypal
 "General (Purchase with a credit card)","Généraux (achat avec une carte de crédit)",module,Magento_Paypal
@@ -224,19 +224,19 @@
 "General: Withdrawal from PayPal Account","Retrait général de compte PayPal",module,Magento_Paypal
 "General: Withdrawal to Non-Bank Entity","Général : retrait à l'entité non-bancaire",module,Magento_Paypal
 "Get Credentials from PayPal","Obtenez les informations d'accès de PayPal",module,Magento_Paypal
-"Get Publisher ID from PayPal","Obtenez l'ID Editeur de PayPal",module,Magento_Paypal
+"Get Publisher ID from PayPal","Obtenez l'ID éditeur de PayPal",module,Magento_Paypal
 "Gift Certificate Payment: purchase of Gift Certificate","Paiement par chèque cadeau : achat de chèque cadeau",module,Magento_Paypal
-"Gift Certificate Redemption","Rachat de Chèque Cadeau",module,Magento_Paypal
+"Gift Certificate Redemption","Rachat de chèque cadeau",module,Magento_Paypal
 "Gross Amount","Montant brut",module,Magento_Paypal
 "Header Background Color","Couleur d'arrière plan de l'entête",module,Magento_Paypal
 "Header Border Color","Couleur de la bordure de l'entête",module,Magento_Paypal
 "Header (center)","Header (centre)",module,Magento_Paypal
-"Header Image URL","URL de l'Image d'entête",module,Magento_Paypal
+"Header Image URL","URL de l'image d'entête",module,Magento_Paypal
 "Help","Aide",module,Magento_Paypal
 "here","ici",module,Magento_Paypal
 "Hidden Virtual PayPal Debit Card Transaction","Transaction virtuelle PayPal de débit de carte de paiement",module,Magento_Paypal
 "Hold for Dispute Investigation","Bloquer pendant l'enquête de litige",module,Magento_Paypal
-"Home Page","Page d'Accueil",module,Magento_Paypal
+"Home Page","Page d'accueil",module,Magento_Paypal
 "ID","ID",module,Magento_Paypal
 "If empty, a default value will be used. Custom URL may be provided by CardinalCommerce agreement.","Si ce champ est vide, la valeur par défaut sera utilisée. Une URL personnalisée peut être fournie par un accord CardinalCommerce.",module,Magento_Paypal
 "If not specified, Default Country from General Config will be used","S'il n'est pas spécifié, le pays par défaut dans la configuration générale sera utilisé",module,Magento_Paypal
@@ -269,7 +269,7 @@
 "Last Correlation ID","Dernier ID de corrélation",module,Magento_Paypal
 "Last Name","Nom",module,Magento_Paypal
 "Last Transaction ID","ID de la dernière transaction",module,Magento_Paypal
-"Learn More","En Savoir Plus",module,Magento_Paypal
+"Learn More","En savoir plus",module,Magento_Paypal
 "Login","Se connecter",module,Magento_Paypal
 "Mass Pay Payment","Paiement en masse de salaire",module,Magento_Paypal
 "Matched Address only (no ZIP)","Correspondance des adresses seulement (sans le code postal)",module,Magento_Paypal
@@ -298,20 +298,20 @@
 "N/A. Not processed","N/A. Non traitée",module,Magento_Paypal
 "N/A. Retry","N/A. Recommencer",module,Magento_Paypal
 "N/A. Service not available","N/A. Service indisponible",module,Magento_Paypal
-"N/A. Service not Supported","N/A. Service non Supporté",module,Magento_Paypal
-"N/A. Service not supported","N/A. Service non Supporté",module,Magento_Paypal
+"N/A. Service not Supported","N/A. Service non supporté",module,Magento_Paypal
+"N/A. Service not supported","N/A. Service non supporté",module,Magento_Paypal
 "N/A. The merchant did not provide AVS information","N/A. Le marchand ne possède pas d'information AVS",module,Magento_Paypal
 "N/A. The merchant has not implemented CVV2 code handling","N/A. Le marchand n'a pas mis en œuvre de code CVV2",module,Magento_Paypal
 "N/A. Unavailable","N/A. Indisponible",module,Magento_Paypal
 "Near PayPal Credit checkout button","Près du bouton de paiement PayPal Credit",module,Magento_Paypal
-"Negative Balance","Solde Négatif",module,Magento_Paypal
+"Negative Balance","Solde négatif",module,Magento_Paypal
 "Never","Jamais",module,Magento_Paypal
 "New Billing Agreement","Nouvelle entente de facturation",module,Magento_Paypal
 "No","Non",module,Magento_Paypal
 "No Details matched","Aucune correspondance trouvée",module,Magento_Paypal
 "No Details matched. International","Aucune correspondance trouvée. International",module,Magento_Paypal
 "No Liability Shift","Absence de responsabilité",module,Magento_Paypal
-"No Logo","Aucun Logo",module,Magento_Paypal
+"No Logo","Aucun logo",module,Magento_Paypal
 "No match","Aucune correspondance",module,Magento_Paypal
 "None of the address information matched","Aucune correspondance trouvée dans l'adresse",module,Magento_Paypal
 "Note: %1","Note : %1",module,Magento_Paypal

@@ -34,7 +34,7 @@
 "Email","Email",module,Magento_Newsletter
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée.",module,Magento_Newsletter
 "Enter your email address","Saisissez votre email",module,Magento_Newsletter
-"Error Code","Code Erreur",module,Magento_Newsletter
+"Error Code","Code erreur",module,Magento_Newsletter
 "Error Text","Erreur texte",module,Magento_Newsletter
 "Excel XML","XML Excel",module,Magento_Newsletter
 "Follow this link to unsubscribe <!-- This tag is for unsubscribe link  -->' '<a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}' '</a>","Cliquez sur ce lien pour vous désinscrire < !-- Sert au lien de désinscription --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>",module,Magento_Newsletter

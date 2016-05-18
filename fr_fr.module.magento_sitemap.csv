@@ -23,10 +23,10 @@
 "File size in bytes.","Poids du fichier en octets.",module,Magento_Sitemap
 "Frequency","Fréquence",module,Magento_Sitemap
 "Generate","Générer",module,Magento_Sitemap
-"Generation Settings","Paramètres Globaux",module,Magento_Sitemap
+"Generation Settings","Paramètres globaux",module,Magento_Sitemap
 "Hourly","Toutes les heures",module,Magento_Sitemap
 "ID","ID",module,Magento_Sitemap
-"Last Generated","Dernière Génération",module,Magento_Sitemap
+"Last Generated","Dernière génération",module,Magento_Sitemap
 "Link for Google","Lien pour Google",module,Magento_Sitemap
 "Maximum File Size","Poids maximal du fichier",module,Magento_Sitemap
 "Maximum No of URLs Per File","Nbr maximal d'URL par fichier",module,Magento_Sitemap

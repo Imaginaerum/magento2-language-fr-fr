@@ -37,7 +37,7 @@
 "End on","Fin le",module,Magento_CatalogRule
 "From","De",module,Magento_CatalogRule
 "From Date","Date de début",module,Magento_CatalogRule
-"General Information","Informations Générales",module,Magento_CatalogRule
+"General Information","Informations générales",module,Magento_CatalogRule
 "ID","ID",module,Magento_CatalogRule
 "Inactive","Inactif",module,Magento_CatalogRule
 "Indexed product/rule association","Indexe des associations produits/règle catalogue",module,Magento_CatalogRule
@@ -54,7 +54,7 @@
 "Promotions","Promotions",module,Magento_CatalogRule
 "Rule","Règle",module,Magento_CatalogRule
 "Rule Information","Information sur la règle",module,Magento_CatalogRule
-"Rule Name","Nom de la Règle",module,Magento_CatalogRule
+"Rule Name","Nom de la règle",module,Magento_CatalogRule
 "Rule price","Règle de prix",module,Magento_CatalogRule
 "Save and Apply","Enregistrer et appliquer",module,Magento_CatalogRule
 "Save and Continue Edit","Enregistrer et continuer la modification",module,Magento_CatalogRule

@@ -42,7 +42,7 @@
 "If you did not request this change, please contact us.","Si vous n'avez pas effectué cette demande, veuillez nous contacter.",module,Magento_User
 "If you requested this change, reset your password here:","Si vous êtes bien à l'origine de cette demande, veuillez cliquer ci-dessous pour réinitialiser votre mot de passe :",module,Magento_User
 "Inactive","Inactif",module,Magento_User
-"Interface Locale","Langue de l'Interface",module,Magento_User
+"Interface Locale","Langue de l'interface",module,Magento_User
 "It's time to change your password.","Il est temps de modifier votre mot de passe.",module,Magento_User
 "It's time to <a href=""%1"">change your password</a>.","Il est temps de <a href=""%1"">modifier votre mot de passe</a>.",module,Magento_User
 "It's time to <a href=""%1"">change your password</a>.","Il est temps de <a href=""%1"">modifier votre mot de passe</a>.",module,Magento_User
@@ -53,7 +53,7 @@
 "Locked Users","Utilisateurs bloqués",module,Magento_User
 "Lockout Time (minutes)","Durée de blocage (minutes)",module,Magento_User
 "Log into Magento Admin Page","Connexion à l'administration Magento",module,Magento_User
-"Magento Admin Panel","Panneau d'Administration de Magento",module,Magento_User
+"Magento Admin Panel","Panneau d'administration de Magento",module,Magento_User
 "Maximum Login Failures to Lockout Account","Nombre maximal de tentatives de connexion avant de bloquer le compte",module,Magento_User
 "%name,","%name,",module,Magento_User
 "New Password","Nouveau mot de passe",module,Magento_User

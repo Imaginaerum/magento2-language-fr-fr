@@ -112,7 +112,7 @@
 "Rate Percent","Taux",module,Magento_Tax
 "Rate Percent should be a positive number.","Le taux doit être un nombre positif.",module,Magento_Tax
 "Reset","Réinitialiser",module,Magento_Tax
-"Row Total","Total Ligne",module,Magento_Tax
+"Row Total","Total ligne",module,Magento_Tax
 "Sales","Ventes",module,Magento_Tax
 "Save","Enregistrer",module,Magento_Tax
 "Save and Continue Edit","Enregistrer et continuer la modification",module,Magento_Tax

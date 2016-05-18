@@ -1,5 +1,5 @@
 "Cron","Cron",module,Magento_NewRelicReporting
-"Enable Cron","Activer le CRON",module,Magento_NewRelicReporting
+"Enable Cron","Activer le cron",module,Magento_NewRelicReporting
 "Enable New Relic Integration","Activer l'intégration de New Relic",module,Magento_NewRelicReporting
 "General","Général",module,Magento_NewRelicReporting
 "Generated under Insights in Manage data -> API Keys -> Insert Keys","Générée dans Insights sous Manage data -> API Keys -> Insert Keys",module,Magento_NewRelicReporting

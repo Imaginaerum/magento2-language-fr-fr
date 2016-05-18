@@ -9,7 +9,7 @@
 "Credit Card Type","Type de carte de crédit",module,Magento_Payment
 "Credit card type is not allowed for this payment method.","Le type de carte bancaire n'est pas autorisé pour ce mode de paiement.",module,Magento_Payment
 "Discount","Remise",module,Magento_Payment
-"Expiration Date","Date d'Expiration",module,Magento_Payment
+"Expiration Date","Date d'expiration",module,Magento_Payment
 "Invalid Credit Card Number","Numéro de carte bancaire invalide",module,Magento_Payment
 " is not available. You still can process offline actions.","   n'est pas disponible. Vous pourrez toujours effectuer ces actions hors ligne.",module,Magento_Payment
 "Issue Number","Numéro de problème",module,Magento_Payment

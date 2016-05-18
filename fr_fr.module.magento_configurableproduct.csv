@@ -67,7 +67,7 @@
 "File extension not known or unsupported type.","Extension de fichier non reconnue ou non supportée.",module,Magento_ConfigurableProduct
 "For better results, add attributes and attribute values to your products.","Pour de meilleurs résultats, ajouter des attributs et des valeurs d'attribut à vos produits.",module,Magento_ConfigurableProduct
 "Generate Products","Générer les produits",module,Magento_ConfigurableProduct
-"Generate Variations","Générer Variations",module,Magento_ConfigurableProduct
+"Generate Variations","Générer variations",module,Magento_ConfigurableProduct
 "Hidden","Caché",module,Magento_ConfigurableProduct
 "Hide from Product Page","Cacher sur la page du produit",module,Magento_ConfigurableProduct
 "ID","ID",module,Magento_ConfigurableProduct
@@ -79,7 +79,7 @@
 "Label","libellé",module,Magento_ConfigurableProduct
 "Name","Nom",module,Magento_ConfigurableProduct
 "New attribute set name","Nouveau nom du jeu d'attributs",module,Magento_ConfigurableProduct
-"No Image","Aucune Image",module,Magento_ConfigurableProduct
+"No Image","Aucune image",module,Magento_ConfigurableProduct
 "Only implemented for configurable product: %1","Seulement mis en place pour le produit configurable : %1",module,Magento_ConfigurableProduct
 "Option attribute ID is not specified.","ID de l'option d'attribut n'est pas spécifié.",module,Magento_ConfigurableProduct
 "Option label is not specified.","Le libellé d'option n'est pas spécifié.",module,Magento_ConfigurableProduct

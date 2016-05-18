@@ -134,7 +134,7 @@
 "Environment","Environnement",module,Magento_Braintree
 "error","erreur",module,Magento_Braintree
 "exception","exception",module,Magento_Braintree
-"Expiration Date","Date d'Expiration",module,Magento_Braintree
+"Expiration Date","Date d'expiration",module,Magento_Braintree
 "Expiration date is invalid.","Date d'expiration invalide.",module,Magento_Braintree
 "Expiration date is required.","Date d'expiration requise.",module,Magento_Braintree
 "Expiration date year is invalid.","Année de date d'expiration invalide.",module,Magento_Braintree

@@ -17,7 +17,7 @@
 "Enable Javascript Bundling","Activer la concaténation des fichiers JavaScript",module,Magento_Developer
 "Format for IDE '%1' is not supported","Le format pour l'EDI '%1' n'est pas pris en charge",module,Magento_Developer
 "Front-end development workflow","Automatisation de processus coté front office",module,Magento_Developer
-"Grid Settings","Paramètres de la Grille",module,Magento_Developer
+"Grid Settings","Paramètres de la grille",module,Magento_Developer
 "Image Adapter","Générateur d'image",module,Magento_Developer
 "Image Processing Settings","Paramètres de traitement d'image",module,Magento_Developer
 "JavaScript Settings","Paramètres JavaScript",module,Magento_Developer
@@ -35,7 +35,7 @@
 "Static Files Settings","Paramètres des fichiers statiques",module,Magento_Developer
 "Template Settings","Paramètres de gabarit",module,Magento_Developer
 "Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.","Les caches de traduction, de blocs et autres sorties doivent être désactivés pour utiliser la traduction en ligne sur le font office et sur le back office.",module,Magento_Developer
-"Translate Inline","Traduire en Ligne",module,Magento_Developer
-"Translation Strategy","Stratégie de Traduction",module,Magento_Developer
+"Translate Inline","Traduire en ligne",module,Magento_Developer
+"Translation Strategy","Stratégie de traduction",module,Magento_Developer
 "Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.","Attention ! L'activation de cette fonctionnalité n'est pas recommandée dans un environnement de production car elle présente un risque de sécurité potentiel.",module,Magento_Developer
 "Workflow type","Type d'automatisation de processus",module,Magento_Developer

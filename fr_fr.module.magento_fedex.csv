@@ -16,7 +16,7 @@
 "Empty response","Réponse vide",module,Magento_Fedex
 "Enabled for Checkout","Activé pour commander",module,Magento_Fedex
 "Europe First Priority","Prioritaire Europe",module,Magento_Fedex
-"Express Saver","Express Économe",module,Magento_Fedex
+"Express Saver","Express économe",module,Magento_Fedex
 "Failed to parse xml document: %1","Impossible de parcourir le document xml : %1",module,Magento_Fedex
 "FedEx 10kg Box","Colis 10kg FedEx",module,Magento_Fedex
 "FedEx 25kg Box","Colis 25kg FedEx",module,Magento_Fedex
@@ -46,7 +46,7 @@
 "Kilograms","Kilogrammes",module,Magento_Fedex
 "Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Poids maxi du paquet (consultez votre transporteur)",module,Magento_Fedex
 "Meter Number","Numéro du compteur",module,Magento_Fedex
-"National Freight","Fret National",module,Magento_Fedex
+"National Freight","Fret national",module,Magento_Fedex
 "None","Aucun",module,Magento_Fedex
 "Not Required","Non requis",module,Magento_Fedex
 "Packages Request Type","Type de requête de paquets",module,Magento_Fedex

@@ -78,7 +78,7 @@
 "hello","bonjour",module,Magento_Eav
 "Input type ""%value%"" not found in the input types list.","Le type d'entrée ""%value%"" n'a pas été trouvé dans la liste des types d'entrée.",module,Magento_Eav
 "Input Validation for Store Owner","Validation requise",module,Magento_Eav
-"Integer Number","Nombre Entier",module,Magento_Eav
+"Integer Number","Nombre entier",module,Magento_Eav
 "Invalid alias, already exists in joint attributes","Alias invalide, déjà utilisé dans les attributs de jointure",module,Magento_Eav
 "Invalid attribute identifier for filter (%1)","Identificateur d'attribut invalide pour le filtre (%1)",module,Magento_Eav
 "Invalid attribute name: %1","Nom d'attribut invalide : %1",module,Magento_Eav

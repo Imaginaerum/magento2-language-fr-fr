@@ -30,7 +30,7 @@
 "Field 3.1","Champ 3.1",module,Magento_Config
 "Field 3.1.1","Champ 3.1.1",module,Magento_Config
 "[GLOBAL]","[GLOBAL]",module,Magento_Config
-"Group Label","Libellé du Groupe",module,Magento_Config
+"Group Label","Libellé du groupe",module,Magento_Config
 "HTTPS (SSL)","HTTPS (SSL)",module,Magento_Config
 "HTTP (unsecure)","HTTP (non sécurisé)",module,Magento_Config
 "Invalid %1. %2","Invalide %1. %2",module,Magento_Config

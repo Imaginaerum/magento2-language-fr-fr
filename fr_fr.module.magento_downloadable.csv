@@ -28,7 +28,7 @@
 "Excl. Tax","HT",module,Magento_Downloadable
 "File","Fichier",module,Magento_Downloadable
 "From:","De :",module,Magento_Downloadable
-"Gift Message","Message Cadeau",module,Magento_Downloadable
+"Gift Message","Message cadeau",module,Magento_Downloadable
 "[GLOBAL]","[GLOBAL]",module,Magento_Downloadable
 "Go to <a href=""%1"">My Downloadable Products</a>","Aller à <a href=""%1"">Mes produits téléchargeables</a>",module,Magento_Downloadable
 "Guest checkout will only work with shareable.","Le passage de commande en tant qu'invité ne fonctionnera qu'avec les partageables.",module,Magento_Downloadable
@@ -80,7 +80,7 @@
 "Refunded","Remboursé",module,Magento_Downloadable
 "Remaining Downloads","Téléchargements restants",module,Magento_Downloadable
 "Remove item","Supprimer l'élément",module,Magento_Downloadable
-"Row Total","Total Ligne",module,Magento_Downloadable
+"Row Total","Total ligne",module,Magento_Downloadable
 "sample","Exemple",module,Magento_Downloadable
 "Sample","Exemple",module,Magento_Downloadable
 "Samples","Exemples",module,Magento_Downloadable

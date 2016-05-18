@@ -178,7 +178,7 @@
 "Ship to different address","Livrer à une autre adresse",module,Magento_Checkout
 "Ship to this address","Livrer à cette adresse",module,Magento_Checkout
 "Shopping Cart","Panier",module,Magento_Checkout
-"Shopping Cart Items","Produit Dans le panier",module,Magento_Checkout
+"Shopping Cart Items","Produits dans le panier",module,Magento_Checkout
 "Shopping Cart Sidebar","Barre latérale du panier",module,Magento_Checkout
 "Some products quantities were recalculated because of quantity increment mismatch.","Certaines quantités produits ont été recalculées en raison d'une non-concordance des incréments de quantité.",module,Magento_Checkout
 "Something went wrong processing your order. Please try again later.","Une erreur s'est produite lors du traitement de votre commande. Veuillez réessayer plus tard.",module,Magento_Checkout

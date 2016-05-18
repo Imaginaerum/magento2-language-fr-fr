@@ -31,11 +31,11 @@
 "FTP credentials","Informations de connexion FTP",module,Magento_Backup
 "FTP Host","Hôte FTP",module,Magento_Backup
 "FTP Login","Login FTP",module,Magento_Backup
-"FTP Password","Mot de Passe FTP",module,Magento_Backup
+"FTP Password","Mot de passe FTP",module,Magento_Backup
 "It will take time to create a backup.","La sauvegarde prendra un certain temps.",module,Magento_Backup
 "Magento root directory","Répertoire racine de Magento",module,Magento_Backup
-"Maintenance mode","Mode Maintenance",module,Magento_Backup
-"Maintenance Mode","Mode Maintenance",module,Magento_Backup
+"Maintenance mode","Mode maintenance",module,Magento_Backup
+"Maintenance Mode","Mode maintenance",module,Magento_Backup
 "Name","Nom",module,Magento_Backup
 "Not enough permissions to perform rollback.","Droits insuffisants pour exécuter la sauvegarde.",module,Magento_Backup
 "OK","OK",module,Magento_Backup

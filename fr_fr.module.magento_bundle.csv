@@ -33,13 +33,13 @@
 "Fixed","Fixé",module,Magento_Bundle
 "From:","De :",module,Magento_Bundle
 "From","De",module,Magento_Bundle
-"Gift Message","Message Cadeau",module,Magento_Bundle
+"Gift Message","Message cadeau",module,Magento_Bundle
 "Go back to product details","Retour aux détails du produit",module,Magento_Bundle
 "ID","ID",module,Magento_Bundle
 "Id field of product link is required","Le champ ID pour lier le produit est obligatoire",module,Magento_Bundle
 "Incl. Tax","TTC",module,Magento_Bundle
 "Incl. Tax:","TTC :",module,Magento_Bundle
-"Input Type","Type de Saisie",module,Magento_Bundle
+"Input Type","Type de saisie",module,Magento_Bundle
 "In stock","En stock",module,Magento_Bundle
 "Invoiced","Facturé",module,Magento_Bundle
 "Message:","Message :",module,Magento_Bundle
@@ -78,7 +78,7 @@
 "Requested option doesn't exist","L'option n'existe pas",module,Magento_Bundle
 "Required","Requis",module,Magento_Bundle
 "* Required Fields","* Champs requis",module,Magento_Bundle
-"Row Total","Total Ligne",module,Magento_Bundle
+"Row Total","Total ligne",module,Magento_Bundle
 "-- Select --","-- Choisir --",module,Magento_Bundle
 "Separately","Séparément",module,Magento_Bundle
 "Ship Bundle Items","Livrer les articles packagés",module,Magento_Bundle

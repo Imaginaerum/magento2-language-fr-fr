@@ -209,23 +209,23 @@
 "General","Général",module,Magento_Sales
 "Get Payment Update","Obtenir la mise à jour de paiement",module,Magento_Sales
 "Get shipping methods and rates","Récupérer les modes de livraison et les taux",module,Magento_Sales
-"Gift Message","Message Cadeau",module,Magento_Sales
+"Gift Message","Message cadeau",module,Magento_Sales
 "Gift Message for the Entire Order","Message cadeau pour toute la commande",module,Magento_Sales
 "Gift Message for this Order","Message cadeau pour cette commande",module,Magento_Sales
 "Gift Message for This Order","Message cadeau pour cette commande",module,Magento_Sales
-"Gift Options","Options Cadeau",module,Magento_Sales
+"Gift Options","Options cadeau",module,Magento_Sales
 "Gift Options for ","Options cadeau pour ",module,Magento_Sales
 "Go to Home Page","Aller à la page d'accueil",module,Magento_Sales
 "Grand Total","Montant global",module,Magento_Sales
-"Grand Total (Base)","Total (Devise de base)",module,Magento_Sales
+"Grand Total (Base)","Total (devise de base)",module,Magento_Sales
 "Grand Total Excl. Tax","Total HT",module,Magento_Sales
 "Grand Total Incl. Tax","Total TTC",module,Magento_Sales
-"Grand Total (Purchased)","Total (Commandé)",module,Magento_Sales
+"Grand Total (Purchased)","Total (commandé)",module,Magento_Sales
 "Grand Total to be Charged","Total à facturer",module,Magento_Sales
-"Grid Settings","Paramètres de la Grille",module,Magento_Sales
+"Grid Settings","Paramètres de la grille",module,Magento_Sales
 "Group was removed","Groupe supprimé",module,Magento_Sales
 "Guest","Invité",module,Magento_Sales
-"Hide Customer IP","Masquer l'adresse IP du Client",module,Magento_Sales
+"Hide Customer IP","Masquer l'adresse IP du client",module,Magento_Sales
 "hold","bloquer",module,Magento_Sales
 "Hold","Bloquer",module,Magento_Sales
 "Home","Accueil",module,Magento_Sales
@@ -287,7 +287,7 @@
 "Logo for HTML Print View","Logo pour l'aperçu avant impression HTML",module,Magento_Sales
 "Logo for PDF Print-outs (200x50)","Logo pour les impressions PDF (200x50)",module,Magento_Sales
 "Maximum shipping amount allowed to refund is: %1","Montant maximum des expéditions permettant le remboursement: %1",module,Magento_Sales
-"Memo Total","Total de l'Avoir",module,Magento_Sales
+"Memo Total","Total de l'avoir",module,Magento_Sales
 "Message","Message",module,Magento_Sales
 "Message:","Message :",module,Magento_Sales
 "Minimum Amount","Montant minimum",module,Magento_Sales
@@ -502,7 +502,7 @@
 "Returned","Retourné",module,Magento_Sales
 "Return to Stock","Remettre en stock",module,Magento_Sales
 "Row Subtotal","Sous-total de la ligne",module,Magento_Sales
-"Row Total","Total Ligne",module,Magento_Sales
+"Row Total","Total ligne",module,Magento_Sales
 "Sales","Ventes",module,Magento_Sales
 "Sales Emails","Mails des ventes",module,Magento_Sales
 "Same As Billing Address","Identique à l'adresse de facturation",module,Magento_Sales

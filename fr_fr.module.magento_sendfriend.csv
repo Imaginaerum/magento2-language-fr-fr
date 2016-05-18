@@ -17,7 +17,7 @@
 "Invalid Sender Information","Les informations conçernant l'expéditeur sont invalides",module,Magento_SendFriend
 "Invitee","Invité",module,Magento_SendFriend
 "IP Address","Adresse IP",module,Magento_SendFriend
-"Limit Sending By","Limiter l'Envoi Par",module,Magento_SendFriend
+"Limit Sending By","Limiter l'envoi par",module,Magento_SendFriend
 "Localized Exception.","Localized Exception.",module,Magento_SendFriend
 "Maximum %1 email addresses allowed.","%1 adresses email maximales autorisées.",module,Magento_SendFriend
 "Max Products Sent in 1 Hour","Nombre maxi de produits envoyés en 1 heure",module,Magento_SendFriend
