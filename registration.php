@@ -12,5 +12,7 @@
  * @version 100.6.9
  */
 \Magento\Framework\Component\ComponentRegistrar::register(
-        \Magento\Framework\Component\ComponentRegistrar::LANGUAGE, 'imaginaerum_fr_fr', __DIR__
+        \Magento\Framework\Component\ComponentRegistrar::LANGUAGE,
+        'imaginaerum_fr_fr',
+        __DIR__
 );

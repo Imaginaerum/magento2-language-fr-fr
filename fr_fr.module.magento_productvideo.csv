@@ -8,7 +8,7 @@
 "Click here to add videos.","Cliquez ici pour ajouter des vidéos.",module,Magento_ProductVideo
 "Could not get preview image information. Please check your connection and try again.","Impossible d'obtenir une image d'aperçu. Veuillez vérifier votre connexion et réessayez.",module,Magento_ProductVideo
 "Delete","Supprimer",module,Magento_ProductVideo
-"Delete image","Effacer l'Image",module,Magento_ProductVideo
+"Delete image","Effacer l'image",module,Magento_ProductVideo
 "Delete video","Supprimer la vidéo",module,Magento_ProductVideo
 "Description","Description",module,Magento_ProductVideo
 "Duration:","Durée :",module,Magento_ProductVideo

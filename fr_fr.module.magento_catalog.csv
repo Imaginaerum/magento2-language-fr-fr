@@ -234,7 +234,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Delete Category","Supprimer cette catégorie",module,Magento_Catalog
 "Delete Custom Option","Supprimer l'option personnalisée",module,Magento_Catalog
 "Delete Group Price","Supprimer le prix pour le groupe",module,Magento_Catalog
-"Delete image","Effacer l'Image",module,Magento_Catalog
+"Delete image","Effacer l'image",module,Magento_Catalog
 "Delete items","Supprimer les éléments",module,Magento_Catalog
 "Delete Row","Supprimer la ligne",module,Magento_Catalog
 "Delete Search","Supprimer la recherche",module,Magento_Catalog

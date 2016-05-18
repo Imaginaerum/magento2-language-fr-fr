@@ -165,7 +165,7 @@
 "Delete %1","Supprimer %1",module,Magento_Backend
 "Delete %1 '%2'","Supprimer %1 '%2'",module,Magento_Backend
 "Delete","Supprimer",module,Magento_Backend
-"[ deleted ]","  [effacé]",module,Magento_Backend
+"[ deleted ]","[ effacé ]",module,Magento_Backend
 " [deleted]","   [effacé]",module,Magento_Backend
 "Delete File","Supprimer le fichier",module,Magento_Backend
 "Delete Store","Supprimer la boutique",module,Magento_Backend

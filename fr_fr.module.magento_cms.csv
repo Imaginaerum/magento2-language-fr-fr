@@ -50,7 +50,7 @@
 "Custom Theme","Thème personnalisé",module,Magento_Cms
 "Delete","Supprimer",module,Magento_Cms
 "Delete Block","Supprimer le bloc",module,Magento_Cms
-"Delete ""${ $.$data.title }""","Supprimer ${ $.$data.title }",module,Magento_Cms
+"Delete ""${ $.$data.title }""","Supprimer ""${ $.$data.title }""",module,Magento_Cms
 "Delete ${ $.$data.title }","Supprimer ${ $.$data.title }",module,Magento_Cms
 "Delete File","Supprimer le fichier",module,Magento_Cms
 "Delete Folder","Supprimer le dossier",module,Magento_Cms
