@@ -137,7 +137,7 @@
 "SKU","SKU",module,Magento_Shipping
 "Sorry, but we can't deliver to the destination country with this shipping module.","Désolé, impossible de livrer dans ce pays de destination avec ce module de livraison.",module,Magento_Shipping
 "Sorry, but we can't deliver to the destination country with this shipping module.","Désolé, impossible de livrer dans ce pays de destination avec ce module de livraison.",module,Magento_Shipping
-"Specific Countries","Certains Pays",module,Magento_Shipping
+"Specific Countries","Certains pays",module,Magento_Shipping
 "Status:","Statut :",module,Magento_Shipping
 "Street Address","Adresse",module,Magento_Shipping
 "Street Address Line 2","Adresse Ligne 2",module,Magento_Shipping

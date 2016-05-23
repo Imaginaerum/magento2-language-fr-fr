@@ -4,7 +4,7 @@
 "Base currency is used for all online payment transactions. If you have more than one store view, the base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").","La devise de base est utilisée pour tous les paiements. Si vous avez plusieurs vues magasin, la portée de la devise de base est définie par la portée des prix catalogue (""Catalogue"" > ""Prix"" > ""Portée des prix catalogue"").",module,Magento_Directory
 "Connection Timeout in Seconds","Délai d'attente de connexion en secondes",module,Magento_Directory
 "Continue","Continuer",module,Magento_Directory
-"Country and Format Type combination should be unique","La combinaison Pays et type de format doivent être uniques",module,Magento_Directory
+"Country and Format Type combination should be unique","La combinaison pays et type de format doivent être uniques",module,Magento_Directory
 "Currency","Devise",module,Magento_Directory
 "Currency Options","Options de devise",module,Magento_Directory
 "Currency Setup","Paramétrage des devises",module,Magento_Directory

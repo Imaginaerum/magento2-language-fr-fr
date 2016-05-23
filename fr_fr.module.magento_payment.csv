@@ -22,7 +22,7 @@
 "Please Select","Faire un Choix",module,Magento_Payment
 "--Please Select--","-- Faire un Choix --",module,Magento_Payment
 "Shipping","Livraison",module,Magento_Payment
-"Specific Countries","Certains Pays",module,Magento_Payment
+"Specific Countries","Certains pays",module,Magento_Payment
 "Start Date","Date de début",module,Magento_Payment
 "Switch/Solo/Maestro Issue Number","Numéro de problème Switch/Solo/Maestro",module,Magento_Payment
 "Switch/Solo/Maestro Only","Switch/Solo/Maestro Seulement",module,Magento_Payment

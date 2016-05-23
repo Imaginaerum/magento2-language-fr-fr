@@ -117,12 +117,12 @@
 "Configuration","Configuration",module,Magento_Backend
 "Cookie Domain","Domaine du cookie",module,Magento_Backend
 "Cookie Lifetime","Durée de vie des cookies",module,Magento_Backend
-"Cookie Path","Chemin du Cookie",module,Magento_Backend
+"Cookie Path","Chemin du cookie",module,Magento_Backend
 "Cookie Restriction Mode","Mode de restriction de cookie",module,Magento_Backend
 "Cookie (unsafe)","Cookie (non sécurisé)",module,Magento_Backend
 "Copyright&copy; %1 Magento Commerce Inc. All rights reserved.","Copyright&copy; %1 Magento Commerce Inc. Tous droits réservés.",module,Magento_Backend
 "Country","Pays",module,Magento_Backend
-"Country Options","Options des Pays",module,Magento_Backend
+"Country Options","Options des pays",module,Magento_Backend
 "Create DB Backup","Créer une sauvegarde de la base de données",module,Magento_Backend
 "Create Store","Créer une boutique",module,Magento_Backend
 "Create Store View","Créer une vue magasin",module,Magento_Backend
