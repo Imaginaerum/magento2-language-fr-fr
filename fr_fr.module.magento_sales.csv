@@ -623,7 +623,7 @@
 "the invoice email is not sent","l'email n'a pas été envoyé",module,Magento_Sales
 "The invoice email wasn't sent.","L'email de la facture n'a pas été envoyé.",module,Magento_Sales
 "The invoice email was sent.","L'email de la facture a été envoyé.",module,Magento_Sales
-"the invoice email was sent","L'email de la facture a été envoyé",module,Magento_Sales
+"the invoice email was sent","l'email de la facture a été envoyé",module,Magento_Sales
 "The invoice has been captured.","La facture a été capturée.",module,Magento_Sales
 "The invoice has been created.","La facture a été créée.",module,Magento_Sales
 "The invoice has been voided.","La facture a été invalidée.",module,Magento_Sales
@@ -633,10 +633,10 @@
 "The last status can't be unassigned from its current state.","Le dernier statut ne peut pas être retiré de son état actuel.",module,Magento_Sales
 "The most money available to refund is %1.","Le remboursement maximal est de %1.",module,Magento_Sales
 "The order amount of %1 is pending approval on the payment gateway.","Le montant de la commande de %1 est en attente d'approbation de la passerelle de paiement.",module,Magento_Sales
-"the order confirmation email is not sent","L'email de confirmation n'a pas été envoyé",module,Magento_Sales
+"the order confirmation email is not sent","l'email de confirmation n'a pas été envoyé",module,Magento_Sales
 "The order confirmation email is not sent","L'email de confirmation n'a pas été envoyé",module,Magento_Sales
 "The order confirmation email was sent","L'email de confirmation a été envoyé",module,Magento_Sales
-"the order confirmation email was sent","L'email de confirmation a été envoyé",module,Magento_Sales
+"the order confirmation email was sent","l'email de confirmation a été envoyé",module,Magento_Sales
 "The order does not allow an invoice to be created.","La commande ne permet pas la création d'une facture.",module,Magento_Sales
 "The order no longer exists.","La commande n'existe plus.",module,Magento_Sales
 "The order object is not specified.","L'objet commande n'est pas spécifié.",module,Magento_Sales
@@ -677,7 +677,7 @@
 "This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you want to continue?","Cela créera un remboursement hors ligne. Si vous désirez créer un remboursement en ligne, ouvrez une facture et créez un avoir pour celle-ci. Voulez-vous continuer ?",module,Magento_Sales
 "Tier Pricing","Tarification par palier",module,Magento_Sales
 "Title","Titre",module,Magento_Sales
-"title","Titre",module,Magento_Sales
+"title","titre",module,Magento_Sales
 "To:","À:",module,Magento_Sales
 "To","À",module,Magento_Sales
 "To Name","Destiné à",module,Magento_Sales
@@ -689,7 +689,7 @@
 "Total (inc)","Total (TTC)",module,Magento_Sales
 "Total incl. tax","Total TTC",module,Magento_Sales
 "Total Paid","Total payé",module,Magento_Sales
-"Total Quantity","quantité totale",module,Magento_Sales
+"Total Quantity","Quantité totale",module,Magento_Sales
 "Total Refund","Remboursement total",module,Magento_Sales
 "Total Refunded","Total remboursé",module,Magento_Sales
 "Total Shipping Charges","Montant total de la livraison",module,Magento_Sales
@@ -707,7 +707,7 @@
 "Transactions","Transactions",module,Magento_Sales
 "Transaction Type","Type de transaction",module,Magento_Sales
 "Unassign","Annuler l'assignation",module,Magento_Sales
-"unhold","Débloquer",module,Magento_Sales
+"unhold","débloquer",module,Magento_Sales
 "Unhold","Débloquer",module,Magento_Sales
 "Unknown State","État inconnu",module,Magento_Sales
 "Unknown Status","Statut inconnu",module,Magento_Sales

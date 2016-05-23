@@ -12,7 +12,7 @@
 "Apply Rules","Appliquer les règles",module,Magento_CatalogRule
 "Attribute Set","Jeu d'attributs",module,Magento_CatalogRule
 "By Fixed Amount","Remise d'un montant fixe",module,Magento_CatalogRule
-"By Fixed value","remise d'une valeur de",module,Magento_CatalogRule
+"By Fixed value","Remise d'une valeur de",module,Magento_CatalogRule
 "By Percentage","En pourcentage",module,Magento_CatalogRule
 "By Percentage of the Original Price","En pourcentage du prix d'origine",module,Magento_CatalogRule
 "Catalog","Catalogue",module,Magento_CatalogRule

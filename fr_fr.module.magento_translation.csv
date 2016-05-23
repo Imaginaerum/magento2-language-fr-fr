@@ -6,7 +6,7 @@
 "Add Products to Option ""%1""","Ajouter les produits à l'option ""%1""",module,Magento_Translation
 "Add Selected Products","Ajouter les produits sélectionnés",module,Magento_Translation
 "Allow","Autoriser",module,Magento_Translation
-"Are you sure you want to delete the folder named","Etes vous sûr(e) de vouloir supprimer le dossier",module,Magento_Translation
+"Are you sure you want to delete the folder named","Êtes-vous sûr(e) de vouloir supprimer le dossier",module,Magento_Translation
 "Are you sure you want to delete this address?","Êtes-vous sûr(e) de vouloir effacer cette adresse ?",module,Magento_Translation
 "Assign theme to your live store-view:","Assigner un thème à la vue magasin :",module,Magento_Translation
 "B","B",module,Magento_Translation
@@ -117,7 +117,7 @@
 "Sorry, something went wrong. Please try again later.","Une erreur s'est produite. Veuillez réessayer plus tard.",module,Magento_Translation
 "Sorry, there was an unknown error.","Erreur inconnue.",module,Magento_Translation
 "SSL Error: Invalid or self-signed certificate","Erreur SSL : Certificat invalide ou auto-signé",module,Magento_Translation
-"start typing to search category","Commencer à saisir pour chercher une catégorie",module,Magento_Translation
+"start typing to search category","commencer à saisir pour chercher une catégorie",module,Magento_Translation
 "Submit","Envoyer",module,Magento_Translation
 "TB","To",module,Magento_Translation
 "Text length does not satisfy specified text range.","La longueur du texte ne satisfait pas la plage de texte spécifiée.",module,Magento_Translation
@@ -130,7 +130,7 @@
 "Translation files.","Fichiers de traduction.",module,Magento_Translation
 "Translations","Traductions",module,Magento_Translation
 "Translation Strategy","Stratégie de traduction",module,Magento_Translation
-"unselect all","Désélectionner tout",module,Magento_Translation
+"unselect all","désélectionner tout",module,Magento_Translation
 "Upload HTTP Error","Erreur HTTP de téléchargement",module,Magento_Translation
 "Upload I/O Error","Erreur I/O upload",module,Magento_Translation
 "Upload Security Error","Erreur de sécurité de téléchargement",module,Magento_Translation
@@ -139,7 +139,7 @@
 "We can't complete your order because you don't have a payment method available.","Impossible de terminer la commande en raison d'une méthode de paiement invalide.",module,Magento_Translation
 "We don't recognize or support this file extension type.","Le type de fichier n'est pas reconnu ou n'est pas autorisé.",module,Magento_Translation
 "Yes","Oui",module,Magento_Translation
-"You are about to delete your wish list. This action cannot be undone. Are you sure you want to continue?","Vous êtes sur le point de supprimer votre liste d'envies. Cette action est irréversible. Êtes vous sûr de vouloir continuer ?",module,Magento_Translation
+"You are about to delete your wish list. This action cannot be undone. Are you sure you want to continue?","Vous êtes sur le point de supprimer votre liste d'envies. Cette action est irréversible. Êtes-vous sûr de vouloir continuer ?",module,Magento_Translation
 "You can change the number of gift registry items on the Gift Registry Info page or directly in your cart, but not while in checkout.","Vous ne pouvez pas modifier le nombre d'articles de la liste cadeaux depuis la page liste cadeaux ou depuis votre panier; mais vous pourrez le faire lors du passage de votre commande.",module,Magento_Translation
 "You must select items to copy","Veuillez sélectionner les objets à copier",module,Magento_Translation
 "You must select items to move","Veuillez sélectionner les objets à déplacer",module,Magento_Translation

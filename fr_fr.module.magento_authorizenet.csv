@@ -67,7 +67,7 @@
 "--Please Select--","-- Faire un choix --",module,Magento_Authorizenet
 "Processed Amount","Montant traité",module,Magento_Authorizenet
 "Processing...","En cours de traitement...",module,Magento_Authorizenet
-"refund","Rembourser",module,Magento_Authorizenet
+"refund","rembourser",module,Magento_Authorizenet
 "Remaining Balance","Solde restant",module,Magento_Authorizenet
 "Severe 3D Secure Card Validation","Vérification 3D Secure stricte",module,Magento_Authorizenet
 "Severe Validation Removes Chargeback Liability on Merchant","La vérification 3D Secure stricte annule la responsabilité de rétrofacturation du marchand",module,Magento_Authorizenet

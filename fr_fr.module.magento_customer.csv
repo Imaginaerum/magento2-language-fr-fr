@@ -62,7 +62,7 @@
 "Are you sure to assign selected customers to new group?","Êtes-vous sûr(e) de vouloir assigner les clients sélectionnés au nouveau groupe ?",module,Magento_Customer
 "Are you sure to delete selected customers?","Êtes-vous sûr(e) de vouloir supprimer les clients sélectionnés ?",module,Magento_Customer
 "Are you sure to unsubscribe selected customers from newsletter?","Êtes-vous sûr(e) de vouloir désinscrire les clients sélectionnés à la lettre d'information ?",module,Magento_Customer
-"Are you sure you want to delete?","Etes vous sur(e) de vouloir supprimer ?",module,Magento_Customer
+"Are you sure you want to delete?","Êtes-vous sûr(e) de vouloir supprimer ?",module,Magento_Customer
 "Are you sure you want to delete this address?","Êtes-vous sûr(e) de vouloir effacer cette adresse ?",module,Magento_Customer
 "Are you sure you want to delete this item?","Êtes-vous sûr(e) de bien vouloir supprimer cet élément ?",module,Magento_Customer
 "Are you sure you want to do this?","Êtes-vous sûr(e) de vouloir faire cela ?",module,Magento_Customer
@@ -166,7 +166,7 @@
 "Delete Image","Effacer l'image",module,Magento_Customer
 "Delete items","Supprimer les éléments",module,Magento_Customer
 "Disable Automatic Group Change Based on VAT ID","Désactiver le changement automatique de groupe basé sur la TVA",module,Magento_Customer
-"Download","télécharger",module,Magento_Customer
+"Download","Télécharger",module,Magento_Customer
 "Edit","Modifier",module,Magento_Customer
 "Edit Account Information","Modifier les informations du compte",module,Magento_Customer
 "Edit Address","Modifier l'adresse",module,Magento_Customer
@@ -185,7 +185,7 @@
 "enter your billing address for proper VAT calculation","entrez votre adresse de facturation pour un calcul correct de la TVA",module,Magento_Customer
 "enter your shipping address for proper VAT calculation","entrez votre adresse de livraison pour un calcul de la TVA appropriée",module,Magento_Customer
 "Error during VAT Number verification.","Erreur lors de la vérification du numéro de TVA.",module,Magento_Customer
-"Exception","exception",module,Magento_Customer
+"Exception","Exception",module,Magento_Customer
 "Exception message","Message d'exception",module,Magento_Customer
 "Fax","Fax",module,Magento_Customer
 "Female","Femme",module,Magento_Customer
@@ -234,7 +234,7 @@
 "Invalid login or password.","Identifiant ou mot de passe invalide.",module,Magento_Customer
 "Invalid password reset token.","Jeton de réinitialisation de mot de passe invalide.",module,Magento_Customer
 "IP Address","Adresse IP",module,Magento_Customer
-"Label","libellé",module,Magento_Customer
+"Label","Libellé",module,Magento_Customer
 "label","libellé",module,Magento_Customer
 "Last Activity","Dernière activité",module,Magento_Customer
 "Last Date Subscribed","Date de dernière inscription",module,Magento_Customer
@@ -265,7 +265,7 @@
 "Month","Mois",module,Magento_Customer
 "My Account","Mon compte",module,Magento_Customer
 "My Dashboard","Mon tableau de bord",module,Magento_Customer
-"n/a","N/A",module,Magento_Customer
+"n/a","n/a",module,Magento_Customer
 "%name,","%name,",module,Magento_Customer
 "Name","Nom",module,Magento_Customer
 "Name and Address Options","Options de nom et d'adresse",module,Magento_Customer

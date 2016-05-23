@@ -65,7 +65,7 @@
 "A wrong PayPal Express Checkout Token is specified.","Une mauvaise clé PayPal Express Checkout est spécifié.",module,Magento_Paypal
 "Back","Retour",module,Magento_Paypal
 "Back to Billing Agreements","Retour aux ententes de facturation",module,Magento_Paypal
-"Balance Manager Account Bonus","compte de gestion de la balance bonus",module,Magento_Paypal
+"Balance Manager Account Bonus","Compte de gestion de la balance bonus",module,Magento_Paypal
 "Basic Settings - PayPal Express Checkout","Paramètres de base - PayPal Express Checkout",module,Magento_Paypal
 "Basic Settings - PayPal Payflow Link","Paramètres de base - PayPal Payflow Link",module,Magento_Paypal
 "Basic Settings - PayPal Payflow Pro","Réglages de base - PayPal Payflow Pro",module,Magento_Paypal

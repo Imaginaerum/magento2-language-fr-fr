@@ -78,7 +78,7 @@
 "The file you're uploading exceeds the server size limit of %1 kilobytes.","Le fichier chargé dépasse la limite de taille du serveur de %1 Ko.",module,Magento_Config
 "The sender name ""%1"" is not valid. Please use only visible characters and spaces.","Le nom de l'expéditeur ""%1"" n'est pas valide. Veuillez utilisez uniquement des caractères et des espaces.",module,Magento_Config
 "The specified image adapter cannot be used because of: %1","Adapter image ne peut être utilisé : %1",module,Magento_Config
-"title","Titre",module,Magento_Config
+"title","titre",module,Magento_Config
 "Use Default","Utiliser la valeur par défaut",module,Magento_Config
 "Use Website","Valeur du site web",module,Magento_Config
 "Value must be a URL or one of placeholders: %1","La valeur doit être une URL ou un des variables : %1",module,Magento_Config

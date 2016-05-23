@@ -24,7 +24,7 @@
 "Based on your selections <span class=""new-products-count"" data-bind=""text:countVariations""></span>
         new products will be created. Use this step to customize images and price for your new products.","Sur la base de vos sélections <span class=""new-products-count"" data-bind=""text:countVariations""></span>
         les nouveaux produits seront créés. Utilisez cette étape pour personnaliser les images et les prix de vos nouveaux produits .",module,Magento_ConfigurableProduct
-"begin typing to add value","Commencez à saisir pour ajouter une valeur",module,Magento_ConfigurableProduct
+"begin typing to add value","commencez à saisir pour ajouter une valeur",module,Magento_ConfigurableProduct
 "Browse Files...","Parcourir les fichiers...",module,Magento_ConfigurableProduct
 "Browse to find or drag image here","Parcourir les fichiers ou glisser l'image ici",module,Magento_ConfigurableProduct
 "Bulk Images &amp; Price","Action de masse images &amp; prix",module,Magento_ConfigurableProduct
@@ -76,7 +76,7 @@
 "Incl. Tax","TTC",module,Magento_ConfigurableProduct
 "Include","Inclure",module,Magento_ConfigurableProduct
 "In Stock","En stock",module,Magento_ConfigurableProduct
-"Label","libellé",module,Magento_ConfigurableProduct
+"Label","Libellé",module,Magento_ConfigurableProduct
 "Name","Nom",module,Magento_ConfigurableProduct
 "New attribute set name","Nouveau nom du jeu d'attributs",module,Magento_ConfigurableProduct
 "No Image","Aucune image",module,Magento_ConfigurableProduct

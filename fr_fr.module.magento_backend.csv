@@ -347,7 +347,7 @@
 "Pagination","Pagination",module,Magento_Backend
 "Pagination Frame","Pagination",module,Magento_Backend
 "Pagination Frame Skip","Taille de la Pagination",module,Magento_Backend
-"password","Mot de passe",module,Magento_Backend
+"password","mot de passe",module,Magento_Backend
 "Password:","Mot de passe :",module,Magento_Backend
 "Password","Mot de passe",module,Magento_Backend
 "Password Confirmation","Confirmation du mot de passe",module,Magento_Backend
@@ -555,7 +555,7 @@
 "Time","Temps",module,Magento_Backend
 "Timezone","Fuseau horaire",module,Magento_Backend
 "Title","Titre",module,Magento_Backend
-"title","Titre",module,Magento_Backend
+"title","titre",module,Magento_Backend
 "To","À",module,Magento_Backend
 "Top 5 Search Terms","5 termes les plus recherchés",module,Magento_Backend
 "Top destinations","Top destinations",module,Magento_Backend

@@ -30,7 +30,7 @@
 "Destination file is not writable","Le fichier de destination n'a pas les droits en écriture",module,Magento_ImportExport
 "Destination file path must be a string","Le chemin du fichier de destination doit être une chaîne de caractères",module,Magento_ImportExport
 "Done import data validation","Validation des données terminée",module,Magento_ImportExport
-"Download","télécharger",module,Magento_ImportExport
+"Download","Télécharger",module,Magento_ImportExport
 "Download full report","Téléchargez le rapport complet",module,Magento_ImportExport
 "Download Sample File","Télécharger le fichier d'exemple",module,Magento_ImportExport
 "Duplicate Unique Attribute for '%s'","Doublon attribut unique '%s'",module,Magento_ImportExport
@@ -40,7 +40,7 @@
 "Entity Type","Type d'entité",module,Magento_ImportExport
 "Error File","Fichier d'erreur",module,Magento_ImportExport
 "Error in data structure: %1 values are mixed","Erreur dans la structure de données: %1 des valeurs sont mélangées",module,Magento_ImportExport
-"Error message","error_message",module,Magento_ImportExport
+"Error message","Message d'erreur",module,Magento_ImportExport
 "Errors limit (%1) reached. Please fix errors and re-upload file.","Nombre d'erreurs (%1) atteint. Corrigez les erreurs et renvoyez le fichier.",module,Magento_ImportExport
 "Exclude","Exclure",module,Magento_ImportExport
 "Execution Time","Temps d'exécution",module,Magento_ImportExport

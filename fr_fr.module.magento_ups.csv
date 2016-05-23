@@ -65,7 +65,7 @@
 "Sorry, something went wrong. Please try again or contact us and we'll try to help.","Désolé, une erreur s'est produite. Merci d'essayer à nouveau ou contactez-nous pour obtenir de l'aide.",module,Magento_Ups
 "Sorry, something went wrong. Please try again or contact us and we'll try to help.","Désolé, une erreur s'est produite. Merci d'essayer à nouveau ou contactez-nous pour obtenir de l'aide.",module,Magento_Ups
 "Sort Order","Ordre de Tri",module,Magento_Ups
-"status","Statut",module,Magento_Ups
+"status","statut",module,Magento_Ups
 "This enables or disables SSL verification of the Magento server by UPS.","Active ou désactive la vérification SSL du serveur Magento par UPS.",module,Magento_Ups
 "Title","Titre",module,Magento_Ups
 "Tracking XML URL","URL XML de suivi",module,Magento_Ups

@@ -28,7 +28,7 @@
 "Minimum Search query length is %1","La longueur minimale de la requête de recherche est de %1",module,Magento_CatalogSearch
 "Modify your search","Modifier votre recherche",module,Magento_CatalogSearch
 "name","nom",module,Magento_CatalogSearch
-"no","Non",module,Magento_CatalogSearch
+"no","non",module,Magento_CatalogSearch
 "No","Non",module,Magento_CatalogSearch
 "No items were found using the following search criteria.","Aucun résultat pour ces critères de recherche.",module,Magento_CatalogSearch
 "Please specify at least one search term.","Spécifiez au moins un terme de recherche.",module,Magento_CatalogSearch

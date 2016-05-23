@@ -66,7 +66,7 @@
 "Sort Order","Ordre de Tri",module,Magento_Fedex
 "Standard Overnight","Standard Overnight",module,Magento_Fedex
 "Station","Gare",module,Magento_Fedex
-"status","Statut",module,Magento_Fedex
+"status","statut",module,Magento_Fedex
 "The field is applicable if the Smart Post method is selected.","Le champ est applicable si le mode Smart Post est choisi.",module,Magento_Fedex
 "Title","Titre",module,Magento_Fedex
 "Unable to retrieve tracking","Impossible de récupérer les informations de suivi",module,Magento_Fedex

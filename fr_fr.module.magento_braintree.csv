@@ -18,7 +18,7 @@
 "Amount is required.","Montant requis.",module,Magento_Braintree
 "Amount is too large.","Montant trop important.",module,Magento_Braintree
 "Amount must be greater than zero","Le montant doit être supérieur à zéro",module,Magento_Braintree
-"Authorize","autoriser",module,Magento_Braintree
+"Authorize","Autoriser",module,Magento_Braintree
 "Authorize and Capture","Autoriser et collecter",module,Magento_Braintree
 "Avs Postal Code Response Code","Réponse AVS code postal",module,Magento_Braintree
 "Avs Street Address Response Code","Réponse AVS adresse",module,Magento_Braintree
@@ -252,7 +252,7 @@
 "Settlement amount cannot be more than the authorized amount.","Le montant de l'entente ne peut être supérieur au montant autorisé.",module,Magento_Braintree
 "Settlement amount is less than service fee amount","Le montant de l'entente est inférieur au montant des frais",module,Magento_Braintree
 "Shipment","Expédition",module,Magento_Braintree
-"some error","Une erreur",module,Magento_Braintree
+"some error","une erreur",module,Magento_Braintree
 "Some of results will be cached to improve performance. Magento cache have to be enabled","Certains résultats peuvent être mis en cache pour améliorer les performances. Le cache Magento doit être activé",module,Magento_Braintree
 "Something went wrong while processing.","Une erreur s'est produite lors du traitement.",module,Magento_Braintree
 "Something went wrong while saving the card.","Une erreur s'est produite lors de l'enregistrement de la carte.",module,Magento_Braintree
