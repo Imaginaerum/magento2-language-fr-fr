@@ -86,7 +86,7 @@
 "Credit card number is not an accepted test number.","Le numéro de carte de crédit n'est pas un numéro test accepté.",module,Magento_Braintree
 "Credit card number is required.","Numéro de carte de crédit requis.",module,Magento_Braintree
 "Credit card number must be 12-19 digits.","Le numéro de carte de crédit doit contenir entre 12 et 19 chiffres.",module,Magento_Braintree
-"Credit Cards","Carte Bancaire",module,Magento_Braintree
+"Credit Cards","Carte bancaire",module,Magento_Braintree
 "Credit card successfully added","Carte bancaire ajoutée avec succès",module,Magento_Braintree
 "Credit card successfully deleted","Carte bancaire supprimée avec succès",module,Magento_Braintree
 "Credit card successfully updated","Carte Bancaire mise à jour",module,Magento_Braintree

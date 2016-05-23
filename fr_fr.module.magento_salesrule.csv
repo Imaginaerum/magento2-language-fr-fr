@@ -11,7 +11,7 @@
 "An error occurred while saving the rule data. Please review the log and try again.","Erreur lors de la sauvegarde de la règle. Vérifiez les logs et réessayez.",module,Magento_SalesRule
 "Apply","Appliquer",module,Magento_SalesRule
 "Apply Discount","Appliquer la remise",module,Magento_SalesRule
-"Apply Discount Code","Appliquer un Code de Réduction",module,Magento_SalesRule
+"Apply Discount Code","Appliquer un code de réduction",module,Magento_SalesRule
 "Apply the rule only if the following conditions are met (leave blank for all products).","Appliquer la règle uniquement si les conditions suivantes sont remplies (laisser vide pour tous les produits).",module,Magento_SalesRule
 "Apply the rule only to cart items matching the following conditions ' '(leave blank for all items).","Appliquer la règle uniquement aux articles du panier qui correspondent aux conditions suivantes (laisser vide pour tous les articles).",module,Magento_SalesRule
 "Apply the rule only to cart items matching the following conditions (leave blank for all items).","Appliquer la règle uniquement aux articles du panier qui correspondent aux conditions suivantes (laisser vide pour tous les articles).",module,Magento_SalesRule

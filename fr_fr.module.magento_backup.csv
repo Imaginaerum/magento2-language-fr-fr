@@ -83,7 +83,7 @@
 "Tools","Outils",module,Magento_Backup
 "Type","Type",module,Magento_Backup
 "Use FTP Connection","Utiliser une connexion FTP",module,Magento_Backup
-"User Password","Mot de Passe Utilisateur",module,Magento_Backup
+"User Password","Mot de passe utilisateur",module,Magento_Backup
 "Warning","Attention",module,Magento_Backup
 "We can't connect to the FTP right now.","Nous ne pouvons pas nous connecter au FTP.",module,Magento_Backup
 "We can't create the backup right now.","Nous ne pouvons pas créer la sauvegarde.",module,Magento_Backup

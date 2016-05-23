@@ -38,7 +38,7 @@
 "API Certificate","Certificat d'API",module,Magento_Paypal
 "API Password","Mot de passe API",module,Magento_Paypal
 "API Signature","Signature API",module,Magento_Paypal
-"API Username","Pseudo API",module,Magento_Paypal
+"API Username","Nom d'utilisateur API",module,Magento_Paypal
 "API Uses Proxy","API utilisant un proxy",module,Magento_Paypal
 "A reversal has occurred on this transaction because of a customer dispute suspecting unauthorized spoof.","Une retour a eu lieu sur cette opération en raison d'un litige client soupçonné frauduleux et non autorisé.",module,Magento_Paypal
 "A reversal has occurred on this transaction because you have given the customer a refund.","Un retour a eu lieu sur cette transaction parce que vous avez effectué un  remboursement au client.",module,Magento_Paypal
@@ -389,7 +389,7 @@
 "PayPal Product Logo","Logo du produit PayPal",module,Magento_Paypal
 "PayPal Protection Bonus","bonus de protection PayPal",module,Magento_Paypal
 "PayPal recommends that you set up an additional User on your account at manager.paypal.com","PayPal vous recommande de mettre en place un utilisateur supplémentaire dans votre compte sur manager.paypal.com",module,Magento_Paypal
-"PayPal recommends you set up an additional User on your account at manager.paypal.com, instead of entering your admin username and password here. This will enhance your security and prevent service interruptions if you later change your password. If you do not want to set up an additional User, you can re-enter your Merchant Login here.","PayPal vous recommande de mettre en place un utilisateur supplémentaire dans votre compte à manager.paypal.com, au lieu d'entrer votre nom d'utilisateur et mot de passe admin ici. Cela permettra d'améliorer votre sécurité et d'éviter les interruptions de service si vous changez votre mot de passe. Si vous ne voulez pas mettre en place un utilisateur supplémentaire, vous pouvez réintégrer votre compte marchand ici.",module,Magento_Paypal
+"PayPal recommends you set up an additional User on your account at manager.paypal.com, instead of entering your admin username and password here. This will enhance your security and prevent service interruptions if you later change your password. If you do not want to set up an additional User, you can re-enter your Merchant Login here.","PayPal vous recommande de mettre en place un utilisateur supplémentaire dans votre compte depuis manager.paypal.com, au lieu d'entrer votre nom d'utilisateur et mot de passe admin ici. Cela permettra d'améliorer votre sécurité et d'éviter les interruptions de service si vous changez votre mot de passe. Si vous ne voulez pas mettre en place un utilisateur supplémentaire, vous pouvez réintégrer votre compte marchand ici.",module,Magento_Paypal
 "PayPal Reference ID","Référence PayPal ID",module,Magento_Paypal
 "PayPal Reference ID Type","Référence PayPal ID Type",module,Magento_Paypal
 "PayPal response hasn't required fields.","La réponse de PayPal ne comporte pas les champs obligatoires.",module,Magento_Paypal

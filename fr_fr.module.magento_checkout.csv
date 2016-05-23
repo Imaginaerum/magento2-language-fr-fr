@@ -10,7 +10,7 @@
 "Already registered?","Vous avez déjà un compte ?",module,Magento_Checkout
 "Apply Coupon","Utiliser un bon de réduction",module,Magento_Checkout
 "Apply Discount","Appliquer la remise",module,Magento_Checkout
-"Apply Discount Code","Appliquer un Code de Réduction",module,Magento_Checkout
+"Apply Discount Code","Appliquer un code de réduction",module,Magento_Checkout
 "Are you sure you would like to remove this item from the shopping cart?","Êtes-vous sûr(e) de vouloir retirer cet article du panier ?",module,Magento_Checkout
 "Back","Retour",module,Magento_Checkout
 "Billing Address","Adresse de facturation",module,Magento_Checkout

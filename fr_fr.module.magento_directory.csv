@@ -6,7 +6,7 @@
 "Continue","Continuer",module,Magento_Directory
 "Country and Format Type combination should be unique","La combinaison Pays et Type de format doit être unique",module,Magento_Directory
 "Currency","Devise",module,Magento_Directory
-"Currency Options","Options de Devise",module,Magento_Directory
+"Currency Options","Options de devise",module,Magento_Directory
 "Currency Setup","Paramétrage des Devises",module,Magento_Directory
 "Currency Update Warnings","Alertes de mise à jour des devises",module,Magento_Directory
 "Default Display Currency","Devise à afficher par défaut",module,Magento_Directory
