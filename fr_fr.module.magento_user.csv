@@ -112,8 +112,8 @@
 "User ID","ID Utilisateur",module,Magento_User
 "User Info","Info Utilisateur",module,Magento_User
 "User Information","Information Utilisateur",module,Magento_User
-"User Name","nom d'utilisateur",module,Magento_User
-"Username","nom d'utilisateur",module,Magento_User
+"User Name","Nom d'utilisateur",module,Magento_User
+"Username","Nom d'utilisateur",module,Magento_User
 "User Name is a required field.","Le nom de l'utilisateur est requis.",module,Magento_User
 "User Role","Rôle de l'utilisateur",module,Magento_User
 "User Roles","Rôles utilisateurs",module,Magento_User

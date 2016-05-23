@@ -591,8 +591,8 @@
 "User Content","Contenus des Utilisateurs",module,Magento_Backend
 "User Email","Email Utilisateur",module,Magento_Backend
 "User Name:","Nom d'utilisateur :",module,Magento_Backend
-"User Name","nom d'utilisateur",module,Magento_Backend
-"Username","nom d'utilisateur",module,Magento_Backend
+"User Name","Nom d'utilisateur",module,Magento_Backend
+"Username","Nom d'utilisateur",module,Magento_Backend
 "user name","nom d'utilisateur",module,Magento_Backend
 "Uses","Utilisations",module,Magento_Backend
 "Use Secure URLs in Admin","Utiliser des URLs sécurisées dans l'Administration",module,Magento_Backend
