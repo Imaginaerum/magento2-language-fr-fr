@@ -68,7 +68,7 @@
 "Are you sure you want to do this?","Êtes-vous sûr(e) de vouloir faire cela ?",module,Magento_Customer
 "Are you sure you want to remove this item?","Êtes-vous sûr(e) de vouloir supprimer cet article ?",module,Magento_Customer
 "Are you sure you want to revoke the customer's tokens?","Êtes-vous sûr(e) de vouloir révoquer les avis clients ?",module,Magento_Customer
-"Assign a Customer Group","Assigner un groupe clients",module,Magento_Customer
+"Assign a Customer Group","Assigner un groupe de clients",module,Magento_Customer
 "Associate to Website","Associer à un site web",module,Magento_Customer
 "A total of %1 record(s) were deleted.","Un total de %1 enregistrement(s) ont été supprimés.",module,Magento_Customer
 "A total of %1 record(s) were updated.","Un total de %1 enregistrement(s) mis à jour.",module,Magento_Customer
@@ -78,15 +78,15 @@
 "Back to Login","Retour à l'identification",module,Magento_Customer
 "Back to Sign In","Retourner à la page de connexion",module,Magento_Customer
 "Bad request.","Non trouvé.",module,Magento_Customer
-"Based on the VAT ID, the customer belongs to the Customer Group %s.","Basé sur le numéro de TVA, le client appartient au groupe client %s.",module,Magento_Customer
-"Based on the VAT ID, ' 'the customer would belong to the Customer Group %s.","Basé sur le numéro de TVA, le client appartient au groupe client %s.",module,Magento_Customer
+"Based on the VAT ID, the customer belongs to the Customer Group %s.","Basé sur le numéro de TVA, le client appartient au groupe de clients %s.",module,Magento_Customer
+"Based on the VAT ID, ' 'the customer would belong to the Customer Group %s.","Basé sur le numéro de TVA, le client appartient au groupe de clients %s.",module,Magento_Customer
 "Billing Address","Adresse de facturation",module,Magento_Customer
 "Billing Firstname","Prénom de facturation",module,Magento_Customer
 "Billing Lastname","Nom (fact.)",module,Magento_Customer
 "Bill-to Name","Nom de facturation",module,Magento_Customer
 "By creating an account with our store, you will be able to move through the checkout process faster, store multiple shipping addresses, view and track your orders in your account and more.","En créant un compte sur notre boutique, vous pourrez passer vos commandes plus rapidement, enregistrer plusieurs adresses de livraison, consulter et suivre vos commandes, et plein d'autres choses encore.",module,Magento_Customer
 "Cancel","Annuler",module,Magento_Customer
-"Cannot delete group.","Suppression impossible du groupe client.",module,Magento_Customer
+"Cannot delete group.","Suppression impossible du groupe de clients.",module,Magento_Customer
 "Cannot save address.","Impossible de sauvegarder l'adresse.",module,Magento_Customer
 "Cannot save the customer.","Impossible de sauvegarder le client.",module,Magento_Customer
 "Cannot share customer accounts globally because some customer accounts with the same emails exist on multiple websites and cannot be merged.","Impossible de partager les comptes clients globalement car il existe des comptes avec le même emails sur plusieurs sites web qui ne peuvent pas être fusionnés.",module,Magento_Customer
@@ -131,7 +131,7 @@
 "Customer Grid","Grille client",module,Magento_Customer
 "Customer Group","Groupe de clients",module,Magento_Customer
 "Customer Group:","Groupe de clients :",module,Magento_Customer
-"Customer Group already exists.","Le groupe clients existe déjà.",module,Magento_Customer
+"Customer Group already exists.","Le groupe de clients existe déjà.",module,Magento_Customer
 "Customer Groups","Groupes clients",module,Magento_Customer
 "Customer Information","Informations client",module,Magento_Customer
 "Customer Login","Accès client",module,Magento_Customer
@@ -170,7 +170,7 @@
 "Edit","Modifier",module,Magento_Customer
 "Edit Account Information","Modifier les informations du compte",module,Magento_Customer
 "Edit Address","Modifier l'adresse",module,Magento_Customer
-"Edit Customer Group ""%1""","Modifier le groupe clients ""%1""",module,Magento_Customer
+"Edit Customer Group ""%1""","Modifier le groupe de clients ""%1""",module,Magento_Customer
 "Edit Customer Groups","Modifier les groupes de client",module,Magento_Customer
 "Edit Customer's Address","Modifier l'adresse du client",module,Magento_Customer
 "Edit Group","Modifier le groupe",module,Magento_Customer
@@ -180,7 +180,7 @@
 "Email Sender","Expéditeur de l'email",module,Magento_Customer
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée.",module,Magento_Customer
 "Enable Autocomplete on login/forgot password forms","Activer la saisie semi-automatique sur les formulaires de connexion/mot de passe oublié",module,Magento_Customer
-"Enable Automatic Assignment to Customer Group","Activer l'assignation automatique à un groupe clients",module,Magento_Customer
+"Enable Automatic Assignment to Customer Group","Activer l'assignation automatique à un groupe de clients",module,Magento_Customer
 "End Date","Date de fin",module,Magento_Customer
 "enter your billing address for proper VAT calculation","entrez votre adresse de facturation pour un calcul correct de la TVA",module,Magento_Customer
 "enter your shipping address for proper VAT calculation","entrez votre adresse de livraison pour un calcul de la TVA appropriée",module,Magento_Customer
@@ -396,7 +396,7 @@
 "Save Address","Enregistrer l'adresse",module,Magento_Customer
 "Save and Continue Edit","Enregistrer et continuer la modification",module,Magento_Customer
 "Save Customer","Enregistrer le client",module,Magento_Customer
-"Save Customer Group","Enregistrer le groupe clients",module,Magento_Customer
+"Save Customer Group","Enregistrer le groupe de clients",module,Magento_Customer
 "See order and shipping status","Voir le statut de la commande et de l'expédition",module,Magento_Customer
 "Select...","Choisir...",module,Magento_Customer
 "Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.","Valeurs séparées par des points-virgules (;).<br>Commencez par un point-virgule pour une première option vide.<br>Laisser vide pour un champ texte.",module,Magento_Customer
@@ -467,11 +467,11 @@
 "The address has been deleted.","L'adresse a été supprimée.",module,Magento_Customer
 "The address has been saved.","L'adresse a été sauvegardée.",module,Magento_Customer
 "The customer does not have default billing address.","Le client n'a pas d'adresse de facturation par défaut.",module,Magento_Customer
-"The customer group has been deleted.","Le groupe clients a été supprimé.",module,Magento_Customer
-"The customer group has been saved.","Le groupe clients a été sauvegardé.",module,Magento_Customer
+"The customer group has been deleted.","Le groupe de clients a été supprimé.",module,Magento_Customer
+"The customer group has been saved.","Le groupe de clients a été sauvegardé.",module,Magento_Customer
 "The customer group no longer exists.","Le groupe de clients n'existe pas.",module,Magento_Customer
-"The customer is currently assigned to Customer Group %s.","Le client est actuellement assigné au groupe client %s.",module,Magento_Customer
-"The customer is now assigned to Customer Group %s.","Le client est maintenant assigné au Groupe de client %s.",module,Magento_Customer
+"The customer is currently assigned to Customer Group %s.","Le client est actuellement assigné au groupe de clients %s.",module,Magento_Customer
+"The customer is now assigned to Customer Group %s.","Le client est maintenant assigné au groupe de clients %s.",module,Magento_Customer
 "The customer will receive an email with a link to reset password.","Le client recevra un email avec un lien pour réinitialiser son mot de passe.",module,Magento_Customer
 "The customer would belong to Customer Group %s.","Le client fait partie du groupe %s.",module,Magento_Customer
 "The Date of Birth is required.","La date de naissance est obligatoire.",module,Magento_Customer
@@ -488,21 +488,21 @@
 "There are no items in customer's wishlist at the moment","Aucun article dans la liste d'envies du client",module,Magento_Customer
 "There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.","Il existe déjà un compte pour cette adresse email. Si vous êtes sûr d'avoir correctement saisi votre email, <a href=""%1"">cliquez ici</a> pour récupérer votre mot de passe et accéder à votre compte.",module,Magento_Customer
 "There was an error confirming the account","Il y a eu une erreur de confirmation de compte",module,Magento_Customer
-"There was an error detecting Customer Group.","Une erreur a été détectée dans le groupe clients.",module,Magento_Customer
+"There was an error detecting Customer Group.","Une erreur a été détectée dans le groupe de clients.",module,Magento_Customer
 "There was an error saving the new password.","Erreur lors de la sauvegarde du nouveau mot de passe.",module,Magento_Customer
 "There was an error validating the login and password.","Erreur lors de la validation login et mot de passe.",module,Magento_Customer
 "There was an error validating the VAT ID.","Erreur lors de la validation du numéro de TVA.",module,Magento_Customer
-"There was an error validating the VAT ID. ' 'The customer would belong to Customer Group %s.","Erreur de validation ID TVA. Le client doit appartenir au groupe clients %s.",module,Magento_Customer
+"There was an error validating the VAT ID. ' 'The customer would belong to Customer Group %s.","Erreur de validation ID TVA. Le client doit appartenir au groupe de clients %s.",module,Magento_Customer
 "There was recently a request to change the password for your account.","Nous avons reçu une demande pour changer le mot de passe de votre compte.",module,Magento_Customer
 "The suffix that goes after name (Jr., Sr., etc.)","Le suffixe vient après le nom (Jr., Sr., etc.)",module,Magento_Customer
 "The TAX/VAT number is required.","Le numéro de TVA est obligatoire.",module,Magento_Customer
 "The title that goes before name (Mr., Mrs., etc.)","Le préfixe Vient avant le nom (Mr, Mme, etc.)",module,Magento_Customer
 "The VAT ID entered (%1) is not a valid VAT ID.","Le numéro de TVA (%1) n'est pas un numéro de TVA valide.",module,Magento_Customer
 "The VAT ID entered (%s) is not a valid VAT ID.","Le numéro de TVA saisi (%s) n'est pas un numéro de TVA valide.",module,Magento_Customer
-"The VAT ID entered (%s) is not a valid VAT ID. ' 'The customer would belong to Customer Group %s.","Taux de TVA saisi (%s) invalide. Le client doit appartenir au groupe clients %s.",module,Magento_Customer
+"The VAT ID entered (%s) is not a valid VAT ID. ' 'The customer would belong to Customer Group %s.","Taux de TVA saisi (%s) invalide. Le client doit appartenir au groupe de clients %s.",module,Magento_Customer
 "The VAT ID is valid.","Le numéro de TVA est valide.",module,Magento_Customer
-"The VAT ID is valid but no Customer Group is assigned for it.","Le numéro de TVA est valide, mais le client n'est pas dans un groupe client qui devrait lui être attribué.",module,Magento_Customer
-"The VAT ID is valid. The current Customer Group will be used.","Le numéro de TVA est valide. Le groupe client en cours sera utilisé.",module,Magento_Customer
+"The VAT ID is valid but no Customer Group is assigned for it.","Le numéro de TVA est valide, mais le client n'est pas dans un groupe de clients qui devrait lui être attribué.",module,Magento_Customer
+"The VAT ID is valid. The current Customer Group will be used.","Le numéro de TVA est valide. Le groupe de clients en cours sera utilisé.",module,Magento_Customer
 "This account is not confirmed.","Ce compte n'est pas confirmé.",module,Magento_Customer
 "This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","Ce compte n'a pas encore été confirmé. <a href=""%1"">Cliquez ici</a> pour envoyer un nouvel email de confirmation.",module,Magento_Customer
 "This account is not confirmed.' ' <a href=""%1"">Click here</a> to resend confirmation email.","Ce compte n'a pas encore été confirmé. <a href=""%1"">Cliquez ici</a> pour envoyer un nouvel email de confirmation.",module,Magento_Customer
@@ -570,7 +570,7 @@
 "When you sign in to your account, you will be able to:","Lorsque vous êtes connecté à votre compte, vous pouvez :",module,Magento_Customer
 "Wishlist - %1 item(s)","Liste d'envies - %1 article(s)",module,Magento_Customer
 "Wishlist","Liste d'envies",module,Magento_Customer
-"Would you like to change the Customer Group for this order?","Souhaitez-vous changer le groupe client pour cette commande ?",module,Magento_Customer
+"Would you like to change the Customer Group for this order?","Souhaitez-vous changer le groupe de clients pour cette commande ?",module,Magento_Customer
 "Wrong email.","Email erroné.",module,Magento_Customer
 "Wrong transactional account email type","Le type d'email de compte transactionnel est erroné",module,Magento_Customer
 "Year","Année",module,Magento_Customer
