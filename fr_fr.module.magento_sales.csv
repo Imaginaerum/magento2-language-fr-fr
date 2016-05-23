@@ -406,7 +406,7 @@
 "PDF Invoices","Factures en PDF",module,Magento_Sales
 "PDF Packing Slips","Bordereaux PDF",module,Magento_Sales
 "PDF Print-outs","Impressions PDF",module,Magento_Sales
-"PDF Shipments","PDF des Expéditions",module,Magento_Sales
+"PDF Shipments","PDF des expéditions",module,Magento_Sales
 "Pending","En attente",module,Magento_Sales
 "Pending Payment","En attente de paiement",module,Magento_Sales
 "Pending Payment Order Lifetime (minutes)","Durée de vie des commandes en attente de paiement (minutes)",module,Magento_Sales

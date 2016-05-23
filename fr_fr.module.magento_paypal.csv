@@ -556,7 +556,7 @@
 "Unable to cancel Express Checkout","Impossible d'annuler Express Checkout",module,Magento_Paypal
 "Unable to fetch transaction details.","Impossible de récupérer les détails de la transaction.",module,Magento_Paypal
 "Unable to save Billing Agreement:","Impossible de sauvegarder le contrat de facturation :",module,Magento_Paypal
-"Unknown reason. Please contact PayPal customer service.","raison inconnue. S'il vous plaît contactez le service clientèle de PayPal.",module,Magento_Paypal
+"Unknown reason. Please contact PayPal customer service.","Raison inconnue. Veuillez contacter le service client PayPal.",module,Magento_Paypal
 "unverified","non vérifié",module,Magento_Paypal
 "Updated:","Mis à jour :",module,Magento_Paypal
 "Updated","Mis à jour",module,Magento_Paypal
