@@ -501,14 +501,14 @@
 "Store view doesn't exist","La vue magasin n'existe pas",module,Magento_Backend
 "Store View Information","Information de vue magasin",module,Magento_Backend
 "Street Address","Adresse",module,Magento_Backend
-"Street Address Line 2","Adresse Ligne 2",module,Magento_Backend
+"Street Address Line 2","Adresse ligne 2",module,Magento_Backend
 "Submit","Envoyer",module,Magento_Backend
 "Subtotal","Sous-total",module,Magento_Backend
 "Synchronize","Synchroniser",module,Magento_Backend
 "Synchronizing %1 to %2","Synchronisation en cours de %1 vers %2",module,Magento_Backend
 "Synchronizing...","Synchronisation en cours...",module,Magento_Backend
 "System","Système",module,Magento_Backend
-"System(config.xml, local.xml) and modules configuration files(config.xml, menu.xml).","Système(config.xml, local.xml) et fichiers de configuration modules(config.xml, menu.xml).",module,Magento_Backend
+"System(config.xml, local.xml) and modules configuration files(config.xml, menu.xml).","Système (config.xml, local.xml) et fichiers de configuration modules (config.xml, menu.xml).",module,Magento_Backend
 "System Log File Name","Nom de fichier de logs système",module,Magento_Backend
 "Tags","Tags",module,Magento_Backend
 "Target Path","Chemin cible",module,Magento_Backend

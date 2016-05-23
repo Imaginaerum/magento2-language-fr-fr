@@ -494,7 +494,7 @@
 "Status:","Statut :",module,Magento_Paypal
 "Status","Statut",module,Magento_Paypal
 "Submitting order information...","Les informations de commande sont en cours d'envoi...",module,Magento_Paypal
-"Subscription ID","ID Abonnement",module,Magento_Paypal
+"Subscription ID","ID abonnement",module,Magento_Paypal
 "Subscription Payment, either payment sent or payment received","Paiement d'abonnement, paiement envoyé ou paiement reçu",module,Magento_Paypal
 "Subtotal","Sous-total",module,Magento_Paypal
 "Summary Text for Aggregated Cart","Texte récapitulatif sur les paniers validés",module,Magento_Paypal

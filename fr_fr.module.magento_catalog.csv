@@ -482,7 +482,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Please provide valid data","Veuillez fournir des données valides",module,Magento_Catalog
 "-- Please Select --","-- Faire un choix --",module,Magento_Catalog
 "-- Please select --","-- Faire un choix --",module,Magento_Catalog
-"-- Please Select a Category --","-- Veuillez Sélectionner une catégorie --",module,Magento_Catalog
+"-- Please Select a Category --","-- Veuillez sélectionner une catégorie --",module,Magento_Catalog
 "Please select a static block.","Veuillez sélectionner un bloc statique.",module,Magento_Catalog
 "Please select catalog searches.","Sélectionnez les recherches catalogue.",module,Magento_Catalog
 "Please select items.","Veuillez sélectionner un élement.",module,Magento_Catalog

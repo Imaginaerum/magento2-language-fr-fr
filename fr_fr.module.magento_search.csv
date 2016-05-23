@@ -35,7 +35,7 @@
 "Search Terms Report","Rapport sur les termes de recherche",module,Magento_Search
 "Something went wrong while saving the search query.","Une erreur s'est produite lors de l'enregistrement de la requête de recherche.",module,Magento_Search
 "Store","Boutique",module,Magento_Search
-"Suggested Terms","Termes Suggérés",module,Magento_Search
+"Suggested Terms","Termes suggérés",module,Magento_Search
 "Synonym","Synonyme",module,Magento_Search
 "Synonym For","Synonyme de",module,Magento_Search
 "There are no search terms available.","Aucun terme de recherche disponible.",module,Magento_Search

@@ -226,7 +226,7 @@
 "Price cannot be blank.","Le prix ne peut être vide.",module,Magento_Braintree
 "Price is an invalid format.","Format prix invalide.",module,Magento_Braintree
 "Price is too large","Prix trop grand",module,Magento_Braintree
-"Private Key","Clé Privée",module,Magento_Braintree
+"Private Key","Clé privée",module,Magento_Braintree
 "Processor Authorization Code","Code d'autorisation du service de paiement",module,Magento_Braintree
 "Processor authorization code cannot be set unless for a voice authorization.","Le code d'autorisation du service de paiement ne peut être défini à moins qu'il ne s'agisse d'un paiement par téléphone.",module,Magento_Braintree
 "Processor authorization code is invalid","Code d'autorisation du service de paiement invalide",module,Magento_Braintree
@@ -262,7 +262,7 @@
 "State/Province","État/Province",module,Magento_Braintree
 "Stored Card","Carte bancaire sauvegardée",module,Magento_Braintree
 "Street Address","Adresse",module,Magento_Braintree
-"Street address is invalid","adresse invalide",module,Magento_Braintree
+"Street address is invalid","Adresse invalide",module,Magento_Braintree
 "Street address is required.","Adresse requise.",module,Magento_Braintree
 "Street address is too long.","Adresse trop longue.",module,Magento_Braintree
 "Sub merchant account requires service fee amount","Un sous compte marchand requiert un montant de frais de service",module,Magento_Braintree

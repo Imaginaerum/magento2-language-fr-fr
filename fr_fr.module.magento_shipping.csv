@@ -140,7 +140,7 @@
 "Specific Countries","Certains pays",module,Magento_Shipping
 "Status:","Statut :",module,Magento_Shipping
 "Street Address","Adresse",module,Magento_Shipping
-"Street Address Line 2","Adresse Ligne 2",module,Magento_Shipping
+"Street Address Line 2","Adresse ligne 2",module,Magento_Shipping
 "Submit Shipment","Valider l'expédition",module,Magento_Shipping
 "The comment text field cannot be empty.","Le champ texte du commentaire ne peut pas être vide.",module,Magento_Shipping
 "The order no longer exists.","La commande n'existe plus.",module,Magento_Shipping
