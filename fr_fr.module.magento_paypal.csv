@@ -387,7 +387,7 @@
 "PayPal Payment Gateways","Passerelles de paiement PayPal",module,Magento_Paypal
 "PayPal Payment Solutions","Solutions de paiement PayPal",module,Magento_Paypal
 "PayPal Product Logo","Logo du produit PayPal",module,Magento_Paypal
-"PayPal Protection Bonus","bonus de protection PayPal",module,Magento_Paypal
+"PayPal Protection Bonus","Bonus de protection PayPal",module,Magento_Paypal
 "PayPal recommends that you set up an additional User on your account at manager.paypal.com","PayPal vous recommande de mettre en place un utilisateur supplémentaire dans votre compte sur manager.paypal.com",module,Magento_Paypal
 "PayPal recommends you set up an additional User on your account at manager.paypal.com, instead of entering your admin username and password here. This will enhance your security and prevent service interruptions if you later change your password. If you do not want to set up an additional User, you can re-enter your Merchant Login here.","PayPal vous recommande de mettre en place un utilisateur supplémentaire dans votre compte depuis manager.paypal.com, au lieu d'entrer votre nom d'utilisateur et mot de passe admin ici. Cela permettra d'améliorer votre sécurité et d'éviter les interruptions de service si vous changez votre mot de passe. Si vous ne voulez pas mettre en place un utilisateur supplémentaire, vous pouvez réintégrer votre compte marchand ici.",module,Magento_Paypal
 "PayPal Reference ID","Référence PayPal ID",module,Magento_Paypal
