@@ -141,8 +141,8 @@
 "Custom Email 2","Email Personnalisé 2",module,Magento_Backend
 "Customer","Client",module,Magento_Backend
 "Customers","Clients",module,Magento_Backend
-"Customer Support","Support Client",module,Magento_Backend
-"Customer View","Vue Client",module,Magento_Backend
+"Customer Support","Support client",module,Magento_Backend
+"Customer View","Vue client",module,Magento_Backend
 "Custom Variable ""%1""","Variable personnalisée ""%1""",module,Magento_Backend
 "Custom Variables","Variables personnalisées",module,Magento_Backend
 "Dashboard","Tableau de bord",module,Magento_Backend
@@ -177,7 +177,7 @@
 "Design Change","Changement de Design",module,Magento_Backend
 "Design Theme","Thème de design",module,Magento_Backend
 "Developer","Développeur",module,Magento_Backend
-"Developer Client Restrictions","Restrictions Client développeur",module,Magento_Backend
+"Developer Client Restrictions","Restrictions client développeur",module,Magento_Backend
 "Disable","Désactiver",module,Magento_Backend
 "Disabled","Désactivé",module,Magento_Backend
 "Disable Email Communications","Désactiver les envois d'email",module,Magento_Backend

@@ -31,7 +31,7 @@
 "Credit Card Verification","Vérification de la carte de crédit",module,Magento_Authorizenet
 "Credit Card: xxxx-%1","Carte de crédit: xxxx-%1",module,Magento_Authorizenet
 "Debug","Débogage",module,Magento_Authorizenet
-"Email Customer","Email Client",module,Magento_Authorizenet
+"Email Customer","Email client",module,Magento_Authorizenet
 "Enabled","Activé",module,Magento_Authorizenet
 "Expiration Date","Date d'expiration",module,Magento_Authorizenet
 "failed.","échec.",module,Magento_Authorizenet

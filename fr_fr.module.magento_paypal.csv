@@ -509,7 +509,7 @@
 "The billing agreement ""%1"" has been canceled.","L'entente de facturation ""%1"" a été annulée.",module,Magento_Paypal
 "The billing agreement ""%1"" has been created.","L'entente de facturation ""%1"" a été créée.",module,Magento_Paypal
 "The Billing Agreement status is not set.","Le statut de l'entente de facturation n'est pas défini.",module,Magento_Paypal
-"The customer ID is not set.","L'ID du Client n'est pas défini.",module,Magento_Paypal
+"The customer ID is not set.","L'ID du client n'est pas défini.",module,Magento_Paypal
 "The default number of child authorizations in your PayPal account is 1. To do multiple authorizations please contact PayPal to request an increase.","Le nombre par défaut d'autorisations enfants dans votre compte PayPal est de 1. Veuillez contacter PayPal pour demander une augmentation.",module,Magento_Paypal
 "The following error(s) occured:","Erreur(s) suivante(s):",module,Magento_Paypal
 "The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged.","Image en haut à gauche sur la page de paiement. La taille maximale est de 750x90px. Le protocole <strong style=""color:red"">https</strong> est recommandé.",module,Magento_Paypal
@@ -556,7 +556,7 @@
 "Unable to cancel Express Checkout","Impossible d'annuler Express Checkout",module,Magento_Paypal
 "Unable to fetch transaction details.","Impossible de récupérer les détails de la transaction.",module,Magento_Paypal
 "Unable to save Billing Agreement:","Impossible de sauvegarder le contrat de facturation :",module,Magento_Paypal
-"Unknown reason. Please contact PayPal customer service.","raison inconnue. S'il vous plaît contactez le service Clientèle de PayPal.",module,Magento_Paypal
+"Unknown reason. Please contact PayPal customer service.","raison inconnue. S'il vous plaît contactez le service clientèle de PayPal.",module,Magento_Paypal
 "unverified","non vérifié",module,Magento_Paypal
 "Updated:","Mis à jour :",module,Magento_Paypal
 "Updated","Mis à jour",module,Magento_Paypal

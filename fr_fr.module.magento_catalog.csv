@@ -215,7 +215,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Custom Options","Options personnalisables",module,Magento_Catalog
 "Data Type for Saving in Database","Type de données à sauvegarder dans la base de données",module,Magento_Catalog
 "Date Fields Order","Ordre des champs de date",module,Magento_Catalog
-"Datetime","Date et Heure",module,Magento_Catalog
+"Datetime","Date et heure",module,Magento_Catalog
 "Date & Time Custom Options","Options de date & heure personnalisées",module,Magento_Catalog
 "Day","Jour",module,Magento_Catalog
 "Decimal","Décimal",module,Magento_Catalog

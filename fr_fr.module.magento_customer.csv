@@ -132,14 +132,14 @@
 "Customer Group","Groupe de clients",module,Magento_Customer
 "Customer Group:","Groupe de clients :",module,Magento_Customer
 "Customer Group already exists.","Le groupe clients existe déjà.",module,Magento_Customer
-"Customer Groups","Groupes Clients",module,Magento_Customer
+"Customer Groups","Groupes clients",module,Magento_Customer
 "Customer Information","Informations client",module,Magento_Customer
 "Customer Login","Accès client",module,Magento_Customer
 "Customers","Clients",module,Magento_Customer
 "Customer Since","Client depuis",module,Magento_Customer
 "Customers Now Online","Clients en ligne",module,Magento_Customer
 "Customers Only","Clients seulement",module,Magento_Customer
-"Customer View","Vue Client",module,Magento_Customer
+"Customer View","Vue client",module,Magento_Customer
 "Customer website ID must be specified when using the website scope","L'identifiant du site web du client doit être renseigné lorsque la portée du site web est utilisée",module,Magento_Customer
 "Customer will receive an email with a link to reset password.","Le client recevra un email contenant un lien de réinitialisation mot de passe.",module,Magento_Customer
 "Customer will stay on the current page if ""No"" is selected.","Le client restera sur la page en cours si ""Non"" est sélectionné.",module,Magento_Customer
@@ -473,7 +473,7 @@
 "The customer is currently assigned to Customer Group %s.","Le client est actuellement assigné au groupe client %s.",module,Magento_Customer
 "The customer is now assigned to Customer Group %s.","Le client est maintenant assigné au Groupe de client %s.",module,Magento_Customer
 "The customer will receive an email with a link to reset password.","Le client recevra un email avec un lien pour réinitialiser son mot de passe.",module,Magento_Customer
-"The customer would belong to Customer Group %s.","Le Client fait partie du groupe %s.",module,Magento_Customer
+"The customer would belong to Customer Group %s.","Le client fait partie du groupe %s.",module,Magento_Customer
 "The Date of Birth is required.","La date de naissance est obligatoire.",module,Magento_Customer
 "The first name cannot be empty.","Le prénom ne peut pas être vide.",module,Magento_Customer
 "The group ""%1"" cannot be deleted","Le groupe ""%1"" ne peut être supprimé",module,Magento_Customer
@@ -502,7 +502,7 @@
 "The VAT ID entered (%s) is not a valid VAT ID. ' 'The customer would belong to Customer Group %s.","Taux de TVA saisi (%s) invalide. Le client doit appartenir au groupe clients %s.",module,Magento_Customer
 "The VAT ID is valid.","Le numéro de TVA est valide.",module,Magento_Customer
 "The VAT ID is valid but no Customer Group is assigned for it.","Le numéro de TVA est valide, mais le client n'est pas dans un groupe client qui devrait lui être attribué.",module,Magento_Customer
-"The VAT ID is valid. The current Customer Group will be used.","Le numéro de TVA est valide. Le groupe Client en cours sera utilisé.",module,Magento_Customer
+"The VAT ID is valid. The current Customer Group will be used.","Le numéro de TVA est valide. Le groupe client en cours sera utilisé.",module,Magento_Customer
 "This account is not confirmed.","Ce compte n'est pas confirmé.",module,Magento_Customer
 "This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","Ce compte n'a pas encore été confirmé. <a href=""%1"">Cliquez ici</a> pour envoyer un nouvel email de confirmation.",module,Magento_Customer
 "This account is not confirmed.' ' <a href=""%1"">Click here</a> to resend confirmation email.","Ce compte n'a pas encore été confirmé. <a href=""%1"">Cliquez ici</a> pour envoyer un nouvel email de confirmation.",module,Magento_Customer

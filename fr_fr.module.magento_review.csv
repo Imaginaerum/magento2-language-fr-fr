@@ -34,7 +34,7 @@
 "Click <a href=""%1"">here</a> to see the review.","Cliquez <a href=""%1"">ici</a> pour voir l'avis.",module,Magento_Review
 "Created","Créé",module,Magento_Review
 "Customer","Client",module,Magento_Review
-"Customer Reviews","Avis des Clients",module,Magento_Review
+"Customer Reviews","Avis des clients",module,Magento_Review
 "Default Value","Valeur par défaut",module,Magento_Review
 "Delete","Supprimer",module,Magento_Review
 "Delete Rating","Supprimer l'évaluation",module,Magento_Review

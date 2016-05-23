@@ -157,7 +157,7 @@
 "CSV","CSV",module,Magento_Sales
 "Current Status: %1<br/>","Statut actuel: %1<br/>",module,Magento_Sales
 "Customer","Client",module,Magento_Sales
-"Customer Email","Email du Client",module,Magento_Sales
+"Customer Email","Email du client",module,Magento_Sales
 "Customer Group","Groupe de clients",module,Magento_Sales
 "Customer Name: %1","Nom du client : %1",module,Magento_Sales
 "Customer Name","Nom du client",module,Magento_Sales

@@ -25,7 +25,7 @@
 "Conditions (don't add conditions if rule is applied to all products)","Conditions (ne pas ajouter de conditions si la règle doit s'appliquer à tous les produits)",module,Magento_CatalogRule
 "Conditions (leave blank for all products)","Conditions (laisser vide pour appliquer à tous les produits)",module,Magento_CatalogRule
 "Could not rebuild index for empty products array","Impossible de reconstruire un index produit vide",module,Magento_CatalogRule
-"Customer Groups","Groupes Clients",module,Magento_CatalogRule
+"Customer Groups","Groupes clients",module,Magento_CatalogRule
 "Description","Description",module,Magento_CatalogRule
 "Discard subsequent rules","Ignorer les règles suivantes",module,Magento_CatalogRule
 "Discount Amount","Montant de la remise",module,Magento_CatalogRule

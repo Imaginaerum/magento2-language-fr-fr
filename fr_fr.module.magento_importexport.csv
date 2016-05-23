@@ -117,7 +117,7 @@
 "Source file coping failed","Echec de la copie du fichier source",module,Magento_ImportExport
 "Source file moving failed","Erreur lors du déplacement du fichier source",module,Magento_ImportExport
 "Source is not set","La source n'est pas définie",module,Magento_ImportExport
-"Start Date&Time","Date & Heure de début",module,Magento_ImportExport
+"Start Date&Time","Date & heure de début",module,Magento_ImportExport
 "Status","Statut",module,Magento_ImportExport
 "Summary","Résumé",module,Magento_ImportExport
 "System doesn't allow to get file upload settings","Le système ne permet pas d'obtenir les paramètres de chargement du fichier",module,Magento_ImportExport

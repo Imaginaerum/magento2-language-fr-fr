@@ -24,4 +24,4 @@
 "Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.<br />Similar looking characters (e.g. ""i"", ""l"", ""1"") decrease chance of correct recognition by customer.","Veuillez utiliser seulement des lettres (a-z or A-Z) ou des nombres (0-9). Aucun espace ou autre caractère n'est autorisé.<br />Les caractères similaires (ex. ""i"", ""l"", ""1"") réduisent les chances d'être reconnus par le client.",module,Magento_Captcha
 "Provided form does not exist","Le formulaire n'existe pas",module,Magento_Captcha
 "Reload captcha","Recharger le CAPTCHA",module,Magento_Captcha
-"Symbols Used in CAPTCHA","Symboles Utilisés dans le CAPTCHA",module,Magento_Captcha
+"Symbols Used in CAPTCHA","Symboles utilisés dans le CAPTCHA",module,Magento_Captcha

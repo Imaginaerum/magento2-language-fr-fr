@@ -11,7 +11,7 @@
 "Copy Selected to Wish List","Copier la sélection vers la liste d'envies",theme,frontend/Magento/luma
 "Copy to Wish List","Copier vers la liste d'envies",theme,frontend/Magento/luma
 "%customer_name,","%customer_name,",theme,frontend/Magento/luma
-"Customer Service","Service Client",theme,frontend/Magento/luma
+"Customer Service","Service client",theme,frontend/Magento/luma
 "Email:","Email :",theme,frontend/Magento/luma
 "Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Mot de passe oublié ? Cliquez <a href=""%reset_url"">ici</a> pour le réinitialiser.",theme,frontend/Magento/luma
 "For shipping to multiple family members and friends","Pour expédier à votre famille ou à vos amis",theme,frontend/Magento/luma

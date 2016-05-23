@@ -37,4 +37,4 @@
 "SOAP extension is not loaded.","L'extension SOAP n'est pas chargée.",module,Magento_Webapi
 "SOAP Settings","Paramètres SOAP",module,Magento_Webapi
 "UTF-8 is the only supported charset.","Seul UTF-8 est supporté.",module,Magento_Webapi
-"Web Services Configuration","Configuration des web Services",module,Magento_Webapi
+"Web Services Configuration","Configuration des webservices",module,Magento_Webapi

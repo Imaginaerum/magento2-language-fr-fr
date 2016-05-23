@@ -18,7 +18,7 @@
 "Bestseller","Meilleures Ventes",module,Magento_Reports
 "Bestsellers","Meilleures ventes",module,Magento_Reports
 "Best Sellers Report","Rapport des meilleures ventes",module,Magento_Reports
-"By Customers","Par Client",module,Magento_Reports
+"By Customers","Par client",module,Magento_Reports
 "By Products","Par produits",module,Magento_Reports
 "Canceled","Annulée",module,Magento_Reports
 "Carrier/Method","Transporteur/Méthode",module,Magento_Reports
@@ -47,7 +47,7 @@
 "Customers that have Wish List: %1","Les clients possédant une liste d'envies : %1",module,Magento_Reports
 "Customers that have wish list: %1","Les clients possédant une liste d'envies : %1",module,Magento_Reports
 "Dashboard","Tableau de bord",module,Magento_Reports
-"Date Used","Date Utilisée",module,Magento_Reports
+"Date Used","Date utilisée",module,Magento_Reports
 "Day","Jour",module,Magento_Reports
 "Default Recently Compared Products Count","Nombre de produits récemment comparés par défaut",module,Magento_Reports
 "Default Recently Viewed Products Count","Nombre de produits récemment consultés par défaut",module,Magento_Reports

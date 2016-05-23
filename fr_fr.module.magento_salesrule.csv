@@ -46,7 +46,7 @@
 "Coupon with the same code","Coupon de réduction avec le même code",module,Magento_SalesRule
 "Created","Créé",module,Magento_SalesRule
 "CSV","CSV",module,Magento_SalesRule
-"Customer Groups","Groupes Clients",module,Magento_SalesRule
+"Customer Groups","Groupes clients",module,Magento_SalesRule
 "Dash Every X Characters","Ajouter un trait tous les X caractères",module,Magento_SalesRule
 "Default Label","Libellé par défaut",module,Magento_SalesRule
 "Default Rule Label for All Store Views","Libellé de règle par défaut pour toutes les vues magasin",module,Magento_SalesRule
