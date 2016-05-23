@@ -651,7 +651,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Special Price To Date","Prix spécial jusqu'au",module,Magento_Catalog
 "Special Products","Produits spéciaux",module,Magento_Catalog
 "start typing to search attribute","commencez à saisir pour rechercher un attribut",module,Magento_Catalog
-"start typing to search category","commencez à saisir pour chercher une catégorie",module,Magento_Catalog
+"start typing to search category","commencez à saisir pour rechercher une catégorie",module,Magento_Catalog
 "start typing to search template","commencez à saisir pour rechercher un gabarit",module,Magento_Catalog
 "Static","Statique",module,Magento_Catalog
 "Static block and products","Bloc statique et produits",module,Magento_Catalog

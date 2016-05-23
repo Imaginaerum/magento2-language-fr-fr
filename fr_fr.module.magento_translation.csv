@@ -117,7 +117,7 @@
 "Sorry, something went wrong. Please try again later.","Une erreur s'est produite. Veuillez réessayer plus tard.",module,Magento_Translation
 "Sorry, there was an unknown error.","Erreur inconnue.",module,Magento_Translation
 "SSL Error: Invalid or self-signed certificate","Erreur SSL : Certificat invalide ou auto-signé",module,Magento_Translation
-"start typing to search category","commencez à saisir pour chercher une catégorie",module,Magento_Translation
+"start typing to search category","commencez à saisir pour rechercher une catégorie",module,Magento_Translation
 "Submit","Envoyer",module,Magento_Translation
 "TB","To",module,Magento_Translation
 "Text length does not satisfy specified text range.","La longueur du texte ne satisfait pas la plage de texte spécifiée.",module,Magento_Translation
