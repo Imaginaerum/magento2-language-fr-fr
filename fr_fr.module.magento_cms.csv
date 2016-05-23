@@ -124,7 +124,7 @@
 "Show Notice if JavaScript is Disabled","Afficher un message si javascript est désactivé",module,Magento_Cms
 "Show Notice if Local Storage is Disabled","Afficher un message si le stockage local est désactivé",module,Magento_Cms
 "Something went wrong while saving the page.","Une erreur s'est produite lors de l'enregistrement de la page.",module,Magento_Cms
-"Static Blocks","Blocs Statiques",module,Magento_Cms
+"Static Blocks","Blocs statiques",module,Magento_Cms
 "Status","Statut",module,Magento_Cms
 "Storage Root","Racine du stockage",module,Magento_Cms
 "Store View","Vue magasin",module,Magento_Cms
