@@ -480,8 +480,8 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Please leave blank if it is not an image.","Veuillez laisser vide si ce n'est pas une image.",module,Magento_Catalog
 "Please make sure to define SKU values for all processed products.","Assurez-vous de définir un SKU pour tous les produits traités.",module,Magento_Catalog
 "Please provide valid data","Veuillez fournir des données valides",module,Magento_Catalog
-"-- Please Select --","-- Faire un Choix --",module,Magento_Catalog
-"-- Please select --","-- Faire un Choix --",module,Magento_Catalog
+"-- Please Select --","-- Faire un choix --",module,Magento_Catalog
+"-- Please select --","-- Faire un choix --",module,Magento_Catalog
 "-- Please Select a Category --","-- Veuillez Sélectionner une catégorie --",module,Magento_Catalog
 "Please select a static block.","Veuillez sélectionner un bloc statique.",module,Magento_Catalog
 "Please select catalog searches.","Sélectionnez les recherches catalogue.",module,Magento_Catalog

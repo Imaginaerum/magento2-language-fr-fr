@@ -19,8 +19,8 @@
 "Payment Methods","Modes de paiement",module,Magento_Payment
 "Please enter a valid credit card expiration date.","Veuillez vérifier la date d'expiration de la carte bancaire.",module,Magento_Payment
 "Please enter a valid credit card verification number.","Veuillez saisir un numéro de vérification de carte bancaire valide.",module,Magento_Payment
-"Please Select","Faire un Choix",module,Magento_Payment
-"--Please Select--","-- Faire un Choix --",module,Magento_Payment
+"Please Select","Faire un choix",module,Magento_Payment
+"--Please Select--","-- Faire un choix --",module,Magento_Payment
 "Shipping","Livraison",module,Magento_Payment
 "Specific Countries","Certains pays",module,Magento_Payment
 "Start Date","Date de début",module,Magento_Payment

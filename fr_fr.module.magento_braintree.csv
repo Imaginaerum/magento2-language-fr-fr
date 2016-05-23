@@ -211,8 +211,8 @@
 "Plan ID is invalid.","ID Plan invalide.",module,Magento_Braintree
 "Please agree to all the terms and conditions before placing the order.","Veuillez accepter les conditions générales de ventes avant de valider la commande.",module,Magento_Braintree
 "Please confirm that you want to delete this credit card","Veuillez confirmer que vous souhaitez supprimer cette carte de crédit",module,Magento_Braintree
-"Please Select","Faire un Choix",module,Magento_Braintree
-"--Please Select--","-- Faire un Choix --",module,Magento_Braintree
+"Please Select","Faire un choix",module,Magento_Braintree
+"--Please Select--","-- Faire un choix --",module,Magento_Braintree
 "Please select region, state or province","Sélectionnez un département / état",module,Magento_Braintree
 "Please try again later","Veuillez réessayer plus tard",module,Magento_Braintree
 "Please try again with another form of payment.","Veuillez réessayer plus tard avec une autre méthode de paiement.",module,Magento_Braintree

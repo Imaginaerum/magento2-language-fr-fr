@@ -358,8 +358,8 @@
 "Please load the wish list item.","Veuillez charger l'article de la liste d'envies.",module,Magento_Customer
 "Please load Wish List item.","Veuillez charger la liste d'envie.",module,Magento_Customer
 "Please make sure your passwords match.","Vérifiez que vos mots de passe concordent.",module,Magento_Customer
-"-- Please Select --","-- Faire un Choix --",module,Magento_Customer
-"Please select","Faire un Choix",module,Magento_Customer
+"-- Please Select --","-- Faire un choix --",module,Magento_Customer
+"Please select","Faire un choix",module,Magento_Customer
 "Please select a region, state or province.","Veuillez sélectionner une région, une état ou une province.",module,Magento_Customer
 "Please select customer(s).","Sélectionnez au moins un client.",module,Magento_Customer
 "Please select region, state or province","Sélectionnez un département / état",module,Magento_Customer

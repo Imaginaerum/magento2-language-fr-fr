@@ -401,9 +401,9 @@
 "Please agree to all the terms and conditions before placing the order.","Veuillez accepter les conditions générales de ventes avant de valider la commande.",module,Magento_Paypal
 "Please do not refresh the page until you complete payment.","Merci de ne pas rafraîchir la page jusqu'à la fin du paiement.",module,Magento_Paypal
 "Please re-enable the previously enabled payment solutions.","Veuillez réactiver les solutions de paiement précédemment activées.",module,Magento_Paypal
-"-- Please Select --","-- Faire un Choix --",module,Magento_Paypal
-"Please Select","Faire un Choix",module,Magento_Paypal
-"--Please Select--","-- Faire un Choix --",module,Magento_Paypal
+"-- Please Select --","-- Faire un choix --",module,Magento_Paypal
+"Please Select","Faire un choix",module,Magento_Paypal
+"--Please Select--","-- Faire un choix --",module,Magento_Paypal
 "Please select a shipping method...","Sélectionnez un mode de livraison...",module,Magento_Paypal
 "-- Please Select Billing Agreement--","-- Veuillez choisir une entente de facturation--",module,Magento_Paypal
 "Please specify the correct billing agreement ID and try again.","Veuillez spécifier un ID correct d'entente de facturation et essayez à nouveau.",module,Magento_Paypal

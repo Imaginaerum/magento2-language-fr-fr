@@ -43,7 +43,7 @@
 "Orders and Returns Search Form","Formulaire de recherche de commandes et retours",module,Magento_Widget
 "Page","Page",module,Magento_Widget
 "Page Layouts","Mises en page",module,Magento_Widget
-"-- Please Select --","-- Faire un Choix --",module,Magento_Widget
+"-- Please Select --","-- Faire un choix --",module,Magento_Widget
 "Please Select Container First","Veuillez sélectionner le conteneur en premier",module,Magento_Widget
 "Please specify a correct widget.","Veuillez spécifier un widget valide.",module,Magento_Widget
 "Please specify a Widget Type.","Veuillez spécifier un type de widget.",module,Magento_Widget

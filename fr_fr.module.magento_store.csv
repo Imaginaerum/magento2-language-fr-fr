@@ -26,7 +26,7 @@
 "Paths to pre-processed view files (e.g, CSS files with fixed paths or generated from LESS files).","Chemin pour le prétraitement des fichiers de vues (ex : fichiers CSS avec préfixes chemin ou générés depuis des fichiers LESS).",module,Magento_Store
 "Paths to view files (e.g., PHTML templates, images, CSS, JS files).","Chemins des fichiers de vues (ex : PHTML templates, images, CSS, fichiers JS).",module,Magento_Store
 "Please correct the XML data and try again. %value%","Veuillez corriger les données XML et essayer à nouveau. %value%",module,Magento_Store
-"-- Please Select --","-- Faire un Choix --",module,Magento_Store
+"-- Please Select --","-- Faire un choix --",module,Magento_Store
 "Reflection Data","Données de réflexion",module,Magento_Store
 "Requested store is inactive","La boutique est inactive",module,Magento_Store
 "Requested store is not found","La boutique est introuvable",module,Magento_Store

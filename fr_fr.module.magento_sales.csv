@@ -429,7 +429,7 @@
 "Please enter the state/province.","Veuillez renseigner le département.",module,Magento_Sales
 "Please enter the street.","Veuillez renseigner la rue.",module,Magento_Sales
 "Please enter the zip/postal code.","Veuillez renseigner le code postal.",module,Magento_Sales
-"Please select","Faire un Choix",module,Magento_Sales
+"Please select","Faire un choix",module,Magento_Sales
 "Please select a customer.","Sélectionnez un client.",module,Magento_Sales
 "Please select a customer","Sélectionnez un client",module,Magento_Sales
 "Please select a store.","Sélectionnez une boutique.",module,Magento_Sales

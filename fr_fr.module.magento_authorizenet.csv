@@ -64,7 +64,7 @@
 "Please choose a payment method.","Veuillez sélectionner une méthode de paiement.",module,Magento_Authorizenet
 "Please enter a different credit card number to complete your purchase.","Veuillez saisir un autre numéro de carte de crédit pour compléter votre achat.",module,Magento_Authorizenet
 "Please enter a transaction ID to authorize this payment.","Veuillez entrer un ID de transaction pour autoriser ce paiement.",module,Magento_Authorizenet
-"--Please Select--","-- Faire un Choix --",module,Magento_Authorizenet
+"--Please Select--","-- Faire un choix --",module,Magento_Authorizenet
 "Processed Amount","Montant traité",module,Magento_Authorizenet
 "Processing...","En cours de traitement...",module,Magento_Authorizenet
 "refund","Rembourser",module,Magento_Authorizenet

@@ -382,7 +382,7 @@
 "Please enter only numbers or letters into this field. Do not use spaces, commas, or any other characters.","Veuillez saisir uniquement des nombres ou des lettres dans ce champ. N'utilisez pas d'espaces, virgules ou tout autre caractère.",module,Magento_Backend
 "Please make sure that all global admin search modules are installed and activated.","Vérifiez que tous les modules admin de recherche sont installés et activés.",module,Magento_Backend
 "Please make sure your passwords match.","Vérifiez que vos mots de passe concordent.",module,Magento_Backend
-"-- Please Select --","-- Faire un Choix --",module,Magento_Backend
+"-- Please Select --","-- Faire un choix --",module,Magento_Backend
 "Please select an option.","Sélectionnez une option.",module,Magento_Backend
 "Please select items.","Veuillez sélectionner un élement.",module,Magento_Backend
 "Please select one of these options.","Choisir une des options suivantes.",module,Magento_Backend

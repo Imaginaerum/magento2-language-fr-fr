@@ -24,8 +24,8 @@
 "Please correct the country code: %1.","Veuillez corriger le code pays : %1.",module,Magento_Directory
 "Please correct the rates received","Veuillez corriger les taux récupérés",module,Magento_Directory
 "Please correct the target currency.","Veuillez corriger la devise cible.",module,Magento_Directory
-"--Please select--","-- Faire un Choix --",module,Magento_Directory
-"--Please Select--","-- Faire un Choix --",module,Magento_Directory
+"--Please select--","-- Faire un choix --",module,Magento_Directory
+"--Please Select--","-- Faire un choix --",module,Magento_Directory
 "Please select a region, state or province.","Veuillez sélectionner une région, une état ou une province.",module,Magento_Directory
 "Please specify the correct Import Service.","Veuillez spécifier un service d'importation valide.",module,Magento_Directory
 "Requested country is not available.","Le pays demandé n'est pas disponible.",module,Magento_Directory
