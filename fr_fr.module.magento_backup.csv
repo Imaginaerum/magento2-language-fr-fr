@@ -1,6 +1,6 @@
 "Action","Action",module,Magento_Backup
 "Any data created since the backup was made will be lost including admin users, customers and orders.","Toutes les données créées depuis que la sauvegarde a été réalisée seront perdues (dont les comptes administrateurs, les clients et les commandes).",module,Magento_Backup
-"Are you sure you want to continue?","Êtes-vous sur de vouloir continuer ?",module,Magento_Backup
+"Are you sure you want to continue?","Êtes-vous sûr(e) de vouloir continuer ?",module,Magento_Backup
 "Are you sure you want to delete the selected backup(s)?","Êtes-vous sûr(e) de vouloir effacer les sauvegardes sélectionnées ?",module,Magento_Backup
 "Are you sure you want to proceed?","Voulez-vous vraiment continuer ?",module,Magento_Backup
 "Backup","Sauvegarde",module,Magento_Backup
