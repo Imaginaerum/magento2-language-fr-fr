@@ -65,6 +65,9 @@
 "my message","mon message",module,Imaginaerum_Custom
 "Name only","Nom seulement",module,Imaginaerum_Custom
 "New Attribute Set Name","Nouveau nom du jeu d'attributs",module,Imaginaerum_Custom
+"Newsletter subscription confirmation","Confirmation de votre abonnement à la newsletter",module,Imaginaerum_Custom
+"Newsletter subscription success","Succès de confirmation de votre abonnement à la newsletter",module,Imaginaerum_Custom
+"Newsletter unsubscription success","Confirmation de votre désinscription à la newsletter",module,Imaginaerum_Custom
 "No such entity.","Aucune entité",module,Imaginaerum_Custom
 "Not implemented","Non implémenté",module,Imaginaerum_Custom
 "Not Valid!","Invalide !",module,Imaginaerum_Custom
@@ -78,6 +81,7 @@
 "Phrase 2","Phrase 2",module,Imaginaerum_Custom
 "Phrase 3","Phrase 3",module,Imaginaerum_Custom
 "phrase","Phrase",module,Imaginaerum_Custom
+"Please confirm your %store_name account","Merci de confirmer votre compte %store_name",module,Imaginaerum_Custom
 "Product with SKU '%1' is not linked to product with SKU '%2'","Produit avec le SKU %1 n'a pas été lié au produit SKU %2",module,Imaginaerum_Custom
 "Redirecting...","Redirection",module,Imaginaerum_Custom
 "Reset your %store_name password","Réinitialiser votre mot de passe %store_name",module,Imaginaerum_Custom
