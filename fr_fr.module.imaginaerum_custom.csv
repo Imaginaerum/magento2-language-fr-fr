@@ -23,19 +23,28 @@
 "Are you sure you want to revoke the user's tokens?","Êtes-vous sûr(e) de vouloir révoquer les jetons utilisateur ?",module,Imaginaerum_Custom
 "Authorized","Autorisé",module,Imaginaerum_Custom
 "Authorizing","Autorisation",module,Imaginaerum_Custom
+"Bad root directory","Mauvais répertoire root",module,Imaginaerum_Custom
 "bla","bla",module,Imaginaerum_Custom
 "Cache Description","Description du cache",module,Imaginaerum_Custom
+"Cannot initialize product","Impossible d'initialiser le produit",module,Imaginaerum_Custom
+"Cannot read contents from file ""%1"" %2","Impossible de lire le contenu du fichier ""%1"" %2",module,Imaginaerum_Custom
+"Can't scan dir: %1","Lecture répertoire impossible: %1",module,Imaginaerum_Custom
+"Cart %1 does not contain item %2","Le panier %1 ne contient pas l'article %2",module,Imaginaerum_Custom
 "Check 'Remember Me' to access your shopping cart on this computer even if you are not signed in.","Cochez 'Se souvenir de moi' pour accéder à votre panier sur cet ordinateur, même si vous n'êtes pas connecté .",module,Imaginaerum_Custom
+"Click <a href=""%1"">here</a> if nothing has happened","Cliquez <a href=""%1"">ici</a> si rien ne se passe",module,Imaginaerum_Custom
 "Column ""%1"" not found","Colonne ""%1"" non trouvée",module,Imaginaerum_Custom
 "command not found","commande non trouvée",module,Imaginaerum_Custom
 "Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).","Les produits configurables permettent aux clients de choisir des options (ex : couleur de chemise).
              Vous devez créer un produit simple pour chaque configuration (ex : un produit pour chaque couleur).",module,Imaginaerum_Custom
+"Construction problem.","Problème de construction",module,Imaginaerum_Custom
 "Contact Form","Formulaire de contact",module,Imaginaerum_Custom
 "Copyright &copy; %1 Magento Commerce Inc. All rights reserved.","Copyright&copy; %1 Magento Commerce Inc. Tous droits réservés.",module,Imaginaerum_Custom
 "Credit card","Carte de Crédit",module,Imaginaerum_Custom
 "Credit Card was successfully removed","Carte de crédit supprimée avec succès",module,Imaginaerum_Custom
 "Credit memo for your %store_name order","Avoir pour votre commande %store_name",module,Imaginaerum_Custom
 "Customer Notification","Notification client",module,Imaginaerum_Custom
+"Data key is missing: %1","Clé de données manquante: %1",module,Imaginaerum_Custom
+"dummy","dummy",module,Imaginaerum_Custom
 "Email not confirmed","Email non confirmé",module,Imaginaerum_Custom
 "Empty fields","Champs vides",module,Imaginaerum_Custom
 "entity_label_1","entity_label_1",module,Imaginaerum_Custom

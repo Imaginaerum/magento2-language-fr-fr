@@ -94,6 +94,8 @@
 "Cannot share customer accounts globally because some customer accounts with the same emails exist on multiple websites and cannot be merged.","Impossible de partager les comptes clients globalement car il existe des comptes avec le même emails sur plusieurs sites web qui ne peuvent pas être fusionnés.",module,Magento_Customer
 "Change","Modifier",module,Magento_Customer
 "Change Billing Address","Modifier l'adresse de facturation",module,Magento_Customer
+"Change Email","Modifier l'email",module,Magento_Customer
+"Change Email and Password","Modifier l'email et le mot de passe",module,Magento_Customer
 "Change Password","Modifier le mot de passe",module,Magento_Customer
 "Change Shipping Address","Modifier",module,Magento_Customer
 "Check out faster","Commandez plus rapidement",module,Magento_Customer

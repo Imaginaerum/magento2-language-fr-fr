@@ -60,6 +60,7 @@
 "Delete","Supprimer",module,Magento_ConfigurableProduct
 "Delete Variations Group","Supprimer le groupe de variantes",module,Magento_ConfigurableProduct
 "Deselect All","Tout désélectionner",module,Magento_ConfigurableProduct
+"Disable Product","Désactiver le produit",module,Magento_ConfigurableProduct
 "Display","Affichage",module,Magento_ConfigurableProduct
 "Done","Terminé",module,Magento_ConfigurableProduct
 "Edit Configurations","Modifier les configurations",module,Magento_ConfigurableProduct

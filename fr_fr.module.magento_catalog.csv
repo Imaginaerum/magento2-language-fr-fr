@@ -121,6 +121,7 @@
 "Attribute Set","Jeu d'attributs",module,Magento_Catalog
 "Attribute Set already exists.","Jeu d'attribut déjà existant.",module,Magento_Catalog
 "Attribute Sets","Jeux d'attributs",module,Magento_Catalog
+"AttributeSetText","AttributeSetText",module,Magento_Catalog
 "Attribute Set with name '%1' already exists.","Un jeu d'attributs avec le nom '%1' existe déjà.",module,Magento_Catalog
 "Attribute with the same code (%1) already exists.","Un attribut avec le même code (%1) existe déjà.",module,Magento_Catalog
 "Automatic (equalize price ranges)","Automatique (égalise les tranches de prix)",module,Magento_Catalog
@@ -159,6 +160,7 @@
 "Catalog Price Scope","Portée des prix catalogue",module,Magento_Catalog
 "Catalog Product Link","Lien produit catalogue",module,Magento_Catalog
 "Catalog, Search","Catalogue, recherche",module,Magento_Catalog
+"Catalog Section","Section catalogue",module,Magento_Catalog
 "Categories","Catégories",module,Magento_Catalog
 "Category","Catégorie",module,Magento_Catalog
 "Category Data","Données de catégorie",module,Magento_Catalog
@@ -227,6 +229,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Custom Design","Design Personnalisé",module,Magento_Catalog
 "Customer Group","Groupe de clients",module,Magento_Catalog
 "Custom image","Image Personnalisée",module,Magento_Catalog
+"Customizable Options","Options personnalisables",module,Magento_Catalog
 "Custom Layout Update","Mise à jour d'agencement personnalisé",module,Magento_Catalog
 "Custom Options","Options personnalisables",module,Magento_Catalog
 "Data Type for Saving in Database","Type de données à sauvegarder dans la base de données",module,Magento_Catalog
