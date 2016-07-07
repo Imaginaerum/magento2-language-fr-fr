@@ -58,7 +58,7 @@ Create folder your-magento-path/app/i18n/imaginaerum/fr_fr and extract zip into 
 
 | Total | Translated | Left | Progression |
 | -------------: | -----------------------: | -----------------------: | :---------: |
-| 11261 | 10580 | 681 | ![Progress](http://progressed.io/bar/93) |
+| 11261 | 10597 | 664 | ![Progress](http://progressed.io/bar/94) |
 
 | Key | Total | Translated | Left | Progression |
 | :----- | -------------: | -----------------------: | -----------------------: | :---------: |
@@ -77,7 +77,7 @@ Create folder your-magento-path/app/i18n/imaginaerum/fr_fr and extract zip into 
 | Lib lib/web/mage/translate-inline.js | 3 | 3 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Lib lib/web/mage/validation.js | 4 | 4 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Lib lib/web/mage/validation/validation.js | 4 | 4 | 0 | ![Progress](http://progressed.io/bar/100) |
-| Module Imaginaerum_Custom | 517 | 103 | 414 | ![Progress](http://progressed.io/bar/19) |
+| Module Imaginaerum_Custom | 517 | 112 | 405 | ![Progress](http://progressed.io/bar/21) |
 | Module Magento_AdminNotification | 62 | 60 | 2 | ![Progress](http://progressed.io/bar/96) |
 | Module Magento_AdvancedPricingImportExport | 4 | 4 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_Authorization | 3 | 3 | 0 | ![Progress](http://progressed.io/bar/100) |
@@ -87,7 +87,7 @@ Create folder your-magento-path/app/i18n/imaginaerum/fr_fr and extract zip into 
 | Module Magento_Braintree | 360 | 353 | 7 | ![Progress](http://progressed.io/bar/98) |
 | Module Magento_Bundle | 112 | 110 | 2 | ![Progress](http://progressed.io/bar/98) |
 | Module Magento_Captcha | 28 | 27 | 1 | ![Progress](http://progressed.io/bar/96) |
-| Module Magento_Catalog | 940 | 913 | 27 | ![Progress](http://progressed.io/bar/97) |
+| Module Magento_Catalog | 940 | 916 | 24 | ![Progress](http://progressed.io/bar/97) |
 | Module Magento_CatalogImportExport | 39 | 38 | 1 | ![Progress](http://progressed.io/bar/97) |
 | Module Magento_CatalogInventory | 78 | 73 | 5 | ![Progress](http://progressed.io/bar/93) |
 | Module Magento_CatalogRule | 106 | 103 | 3 | ![Progress](http://progressed.io/bar/97) |
@@ -98,12 +98,12 @@ Create folder your-magento-path/app/i18n/imaginaerum/fr_fr and extract zip into 
 | Module Magento_CheckoutAgreements | 43 | 42 | 1 | ![Progress](http://progressed.io/bar/97) |
 | Module Magento_Cms | 176 | 169 | 7 | ![Progress](http://progressed.io/bar/96) |
 | Module Magento_Config | 108 | 102 | 6 | ![Progress](http://progressed.io/bar/94) |
-| Module Magento_ConfigurableProduct | 175 | 166 | 9 | ![Progress](http://progressed.io/bar/94) |
+| Module Magento_ConfigurableProduct | 175 | 167 | 8 | ![Progress](http://progressed.io/bar/95) |
 | Module Magento_Contact | 29 | 29 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_Cookie | 15 | 15 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_Cron | 21 | 20 | 1 | ![Progress](http://progressed.io/bar/95) |
 | Module Magento_CurrencySymbol | 24 | 24 | 0 | ![Progress](http://progressed.io/bar/100) |
-| Module Magento_Customer | 657 | 631 | 26 | ![Progress](http://progressed.io/bar/96) |
+| Module Magento_Customer | 657 | 633 | 24 | ![Progress](http://progressed.io/bar/96) |
 | Module Magento_CustomerImportExport | 32 | 32 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_Deploy | 1 | 1 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_Developer | 42 | 42 | 0 | ![Progress](http://progressed.io/bar/100) |
@@ -119,9 +119,9 @@ Create folder your-magento-path/app/i18n/imaginaerum/fr_fr and extract zip into 
 | Module Magento_GoogleAdwords | 13 | 13 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_GoogleAnalytics | 4 | 4 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_GoogleOptimizer | 8 | 8 | 0 | ![Progress](http://progressed.io/bar/100) |
-| Module Magento_GroupedProduct | 31 | 28 | 3 | ![Progress](http://progressed.io/bar/90) |
+| Module Magento_GroupedProduct | 31 | 29 | 2 | ![Progress](http://progressed.io/bar/93) |
 | Module Magento_ImportExport | 164 | 161 | 3 | ![Progress](http://progressed.io/bar/98) |
-| Module Magento_Indexer | 25 | 24 | 1 | ![Progress](http://progressed.io/bar/96) |
+| Module Magento_Indexer | 25 | 25 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_Integration | 130 | 127 | 3 | ![Progress](http://progressed.io/bar/97) |
 | Module Magento_LayeredNavigation | 33 | 33 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_Marketplace | 15 | 15 | 0 | ![Progress](http://progressed.io/bar/100) |
