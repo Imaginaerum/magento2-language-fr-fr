@@ -42,6 +42,7 @@
 "Customer:","Client :",module,Magento_Checkout
 "Customer is already registered","Client déjà sauvegardé",module,Magento_Checkout
 "Date & Time:","Date et heure :",module,Magento_Checkout
+"DB exception","Exception DB",module,Magento_Checkout
 "Discount Codes","Codes de remises",module,Magento_Checkout
 "Display Cart Summary","Afficher le résumé du panier",module,Magento_Checkout
 "Display item quantities","Afficher la quantité article",module,Magento_Checkout

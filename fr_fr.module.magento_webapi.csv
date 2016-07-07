@@ -6,11 +6,13 @@
 "Cannot perform GET operation with store code \'all\'","Impossible d'effectuer l'opération GET avec le code boutique 'all'",module,Magento_Webapi
 "Content-Type header is empty.","Content-Type de l'entête vide.",module,Magento_Webapi
 "Content-Type header is invalid.","Content-Type de l'entête invalide.",module,Magento_Webapi
+"Create Customer","Créer un client",module,Magento_Webapi
 "Custom","Personnalisé",module,Magento_Webapi
 "Decoding error: %1%2%3%4","Décodage de l'erreur: %1%2%3%4",module,Magento_Webapi
 "Decoding error.","Décodage de l'erreur.",module,Magento_Webapi
 "Default Response Charset","Charset de réponse par défaut",module,Magento_Webapi
 "Delete Customer","Supprimer le client",module,Magento_Webapi
+"Edit Customer","Editer le client",module,Magento_Webapi
 "Enable WSDL Cache","Activer le cache WSDL",module,Magento_Webapi
 "If empty, UTF-8 will be used.","Si vide, l'UTF-8 sera utilisé.",module,Magento_Webapi
 "Incorrect format of WSDL request URI or Requested services are missing.","Format WSDL incorrect, URI ou service manquants.",module,Magento_Webapi

@@ -64,6 +64,7 @@
 "Done","Terminé",module,Magento_ConfigurableProduct
 "Edit Configurations","Modifier les configurations",module,Magento_ConfigurableProduct
 "Edit role","Modifier le rôle",module,Magento_ConfigurableProduct
+"Enable Product","Activer le produit",module,Magento_ConfigurableProduct
 "File extension not known or unsupported type.","Extension de fichier non reconnue ou non supportée.",module,Magento_ConfigurableProduct
 "For better results, add attributes and attribute values to your products.","Pour de meilleurs résultats, ajouter des attributs et des valeurs d'attribut à vos produits.",module,Magento_ConfigurableProduct
 "Generate Products","Générer les produits",module,Magento_ConfigurableProduct

@@ -16,8 +16,10 @@
 "Get Video Information","Obtenir des informations sur la vidéo",module,Magento_ProductVideo
 "Hidden","Caché",module,Magento_ProductVideo
 "Hide from Product Page","Cacher sur la page du produit",module,Magento_ProductVideo
+"Image Resolution","Résolution de l'image",module,Magento_ProductVideo
 "Images And Videos","Images et vidéos",module,Magento_ProductVideo
 "Images and Videos","Images et vidéos",module,Magento_ProductVideo
+"Image Size","Taille de l'image",module,Magento_ProductVideo
 "Invalid video url","URL de la vidéo invalide",module,Magento_ProductVideo
 "Make Base","Construire la base",module,Magento_ProductVideo
 "New Video","Nouvelle vidéo",module,Magento_ProductVideo

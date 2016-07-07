@@ -14,6 +14,7 @@
 "Canceled","Annulée",module,Magento_Bundle
 "Cannot delete option with id %1","Impossible de supprimer l'option ID %1",module,Magento_Bundle
 "Can not find product link with id ""%1""","Impossible de trouver le produit à lier avec l'ID ""%1""",module,Magento_Bundle
+"Checkbox","Case à cocher",module,Magento_Bundle
 "Child with specified sku: ""%1"" already assigned to product: ""%2""","Le produit enfant avec le SKU ""%1"" est déjà assigné au produit ""%2""",module,Magento_Bundle
 "Choose a selection...","Choisissez...",module,Magento_Bundle
 "Close","Fermer",module,Magento_Bundle
@@ -29,6 +30,7 @@
 "Discount Amount","Montant de la remise",module,Magento_Bundle
 "Drop-down","Liste Déroulante",module,Magento_Bundle
 "Dynamic","Dynamique",module,Magento_Bundle
+"Dynamic Price","Prix dynamique",module,Magento_Bundle
 "Excl. Tax","HT",module,Magento_Bundle
 "Excl. Tax:","HT :",module,Magento_Bundle
 "Fixed","Fixé",module,Magento_Bundle

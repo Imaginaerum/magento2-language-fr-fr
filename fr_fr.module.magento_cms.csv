@@ -74,8 +74,10 @@
 "Edit Page","Modifier la page",module,Magento_Cms
 "Elements","Éléments",module,Magento_Cms
 "Enable","Activer",module,Magento_Cms
+"Enable Block","Activer le bloc",module,Magento_Cms
 "Enabled","Activé",module,Magento_Cms
 "Enabled by Default","Activé par défaut",module,Magento_Cms
+"Enable Page","Activer la page",module,Magento_Cms
 "Enable WYSIWYG Editor","Activer l'éditeur WYSIWYG",module,Magento_Cms
 "Exception","Exception",module,Magento_Cms
 "Expand All","Tout développer",module,Magento_Cms

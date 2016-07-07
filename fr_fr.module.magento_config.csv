@@ -5,6 +5,9 @@
 "Add","Ajouter",module,Magento_Config
 "Add after","Ajouter après",module,Magento_Config
 "Add \Exception","Ajouter une exception",module,Magento_Config
+"Advanced Admin Section","Section admin avancée",module,Magento_Config
+"Advanced Section","Section avancée",module,Magento_Config
+"Allow everything","Tout autoriser",module,Magento_Config
 "Always (during development)","Toujours (pendant le développement)",module,Magento_Config
 "Base currency","Devise de base",module,Magento_Config
 "Bcc","Bcc",module,Magento_Config
@@ -17,7 +20,9 @@
 "Default scope","Portée par défaut",module,Magento_Config
 "Delete","Supprimer",module,Magento_Config
 "Delete File","Supprimer le fichier",module,Magento_Config
+"Design Section","Section design",module,Magento_Config
 "Design Theme","Thème de design",module,Magento_Config
+"Developer Section","Section développeur",module,Magento_Config
 "Disable","Désactiver",module,Magento_Config
 "Display default currency","Afficher la devise par défaut",module,Magento_Config
 "element comment","élément commentaire",module,Magento_Config

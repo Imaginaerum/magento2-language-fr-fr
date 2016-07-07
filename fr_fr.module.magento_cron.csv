@@ -1,4 +1,5 @@
 "Cron configuration options for group: ","Options de configuration du CRON du groupe: ",module,Magento_Cron
+"Cron (Scheduled Tasks)","Cron (tâches programmées)",module,Magento_Cron
 "Cron (Scheduled Tasks) - all the times are in minutes","Cron (tâches programmées) - tous les temps sont en minutes",module,Magento_Cron
 "Daily","Quotidien",module,Magento_Cron
 "Failure History Lifetime","Durée de vie de l'historique des échecs",module,Magento_Cron

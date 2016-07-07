@@ -42,6 +42,7 @@
 "All Files","Tous les fichiers",module,Magento_Backend
 "Allow Countries","Autoriser les pays",module,Magento_Backend
 "Allowed IPs (comma separated)","IPs autorisées (séparées par des virgules)",module,Magento_Backend
+"Allow everything","Tout autoriser",module,Magento_Backend
 "Allows customers to stay logged in when switching between different stores.","Permet aux clients de rester connectés s'ils naviguent entre les différentes boutiques.",module,Magento_Backend
 "Allow Symlinks","Autoriser les liens symboliques",module,Magento_Backend
 "All Stores","Toutes les boutiques",module,Magento_Backend
@@ -66,6 +67,7 @@
 "Any","Tout",module,Magento_Backend
 "Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. http://example.com/magento/","Chacun de ces champs peut utiliser une URL se terminant par '/' (slash) ex : http://example.com/magento/",module,Magento_Backend
 "Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. https://example.com/magento/","Chacun de ces champs peut utiliser une URL se terminant par '/' (slash) ex : https://example.com/magento/",module,Magento_Backend
+"Applied Theme","Thème appliqué",module,Magento_Backend
 "Are you sure?","Êtes-vous sûr(e) ?",module,Magento_Backend
 "Are you sure you want to do this?","Êtes-vous sûr(e) de vouloir faire cela ?",module,Magento_Backend
 "Attributes","Attributs",module,Magento_Backend
@@ -165,6 +167,7 @@
 "Default scope","Portée par défaut",module,Magento_Backend
 "Default Store","Boutique par défaut",module,Magento_Backend
 "Default Store View","Vue magasin par défaut",module,Magento_Backend
+"Default Theme","Thème par défaut",module,Magento_Backend
 "Default Web URL","URL web par défaut",module,Magento_Backend
 "Delete %1","Supprimer %1",module,Magento_Backend
 "Delete %1 '%2'","Supprimer %1 '%2'",module,Magento_Backend
@@ -179,6 +182,7 @@
 "Description","Description",module,Magento_Backend
 "Design","Design",module,Magento_Backend
 "Design Change","Changement de Design",module,Magento_Backend
+"Design Rule","Régle de design",module,Magento_Backend
 "Design Theme","Thème de design",module,Magento_Backend
 "Developer","Développeur",module,Magento_Backend
 "Developer Client Restrictions","Restrictions client développeur",module,Magento_Backend

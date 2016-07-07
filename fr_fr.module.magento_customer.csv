@@ -30,6 +30,8 @@
 "Account Created on:","Compte créé le :",module,Magento_Customer
 "Account Dashboard","Tableau de bord du compte",module,Magento_Customer
 "Account Information","Informations du compte",module,Magento_Customer
+"Account Lock:","Compte bloqué :",module,Magento_Customer
+"Account Lock","Compte bloqué",module,Magento_Customer
 "Account Sharing Options","Options de partage de compte",module,Magento_Customer
 "Action","Action",module,Magento_Customer
 "A customer website ID must be specified when using the website scope.","Un ID client du site web doit être spécifié lors de l'utilisation de la portée site web.",module,Magento_Customer

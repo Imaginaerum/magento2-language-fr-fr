@@ -11,6 +11,7 @@
 "About Your Invoice","À propos de votre facture",module,Magento_Sales
 "About Your Order","À propos de votre commande",module,Magento_Sales
 "About Your Refund","À propos de votre remboursement",module,Magento_Sales
+"Accept or Deny Payment","Accepter ou refuser le paiement",module,Magento_Sales
 "Accept Payment","Acceptez le paiement",module,Magento_Sales
 "Account Information","Informations du compte",module,Magento_Sales
 "Action","Action",module,Magento_Sales
@@ -136,6 +137,7 @@
 "Create New Order for %1 in %2","Créer une nouvelle commande pour %1 dans %2",module,Magento_Sales
 "Create New Order for New Customer","Créer une nouvelle commande pour un nouveau client",module,Magento_Sales
 "Create New Order for New Customer in %1","Créer une nouvelle commande pour un nouveau client dans %1",module,Magento_Sales
+"Create New Order in %1","Créer une nouvelle commande dans %1",module,Magento_Sales
 "Create New Order Status","Créer un nouveau statut de commande",module,Magento_Sales
 "Create New Status","Créer un Statut",module,Magento_Sales
 "Create Shipment","Créer la livraison",module,Magento_Sales

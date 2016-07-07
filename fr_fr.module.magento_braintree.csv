@@ -66,6 +66,8 @@
 "Card Number","Numéro de carte",module,Magento_Braintree
 "Card Verification Number","Numéro de cryptogramme",module,Magento_Braintree
 "Card Verification Number Visual Reference","Référence visuelle numérique de vérification de carte",module,Magento_Braintree
+"cc_number","cc_number",module,Magento_Braintree
+"cc_type","cc_type",module,Magento_Braintree
 "Channel is too long","Chaîne trop longue",module,Magento_Braintree
 "Check card details or try another card","Veuillez vérifier la carte ou en essayer une autre",module,Magento_Braintree
 "City","Ville",module,Magento_Braintree

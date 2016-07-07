@@ -8,20 +8,50 @@
 "%1 doesn't implement \Magento\Framework\DB\MapperInterface","%1 n'implémente pas \Magento\Framework\DB\MapperInterface",module,Imaginaerum_Custom
 "%1 doesn't implement \Magento\Framework\DB\QueryInterface","%1 n'implémente pas \Magento\Framework\DB\QueryInterface",module,Imaginaerum_Custom
 "%1 doesn't implement ThemeInterface","%1 n'implémente pas ThemeInterface",module,Imaginaerum_Custom
+"%1 has been added to your Wish List.","%1 a été ajouté à votre liste d'envies",module,Imaginaerum_Custom
+"'%1' is not a directory.","'%1' n'est pas un répertoire.",module,Imaginaerum_Custom
+"'%1' is not readable file.","'%1' n'est pas un fichier accessible en lecture.",module,Imaginaerum_Custom
+"%1 isn't allowed","%1 non autorisé",module,Imaginaerum_Custom
+"%1 should be an iterator","%1 doit être un itérateur",module,Imaginaerum_Custom
 "86400 by default, if not set. To refresh instantly, clear the Blocks HTML
                     Output cache.","86400 par Défaut, si non renseigné. Pour actualiser, purgez le cache de sortie des Blocs HTML.",module,Imaginaerum_Custom
 "'","%",module,Imaginaerum_Custom
 "Are you sure you want to revoke the customer's tokens?","Êtes-vous sûr(e) de vouloir révoquer les avis clients?",module,Imaginaerum_Custom
 "Are you sure you want to revoke the user's tokens?","Êtes-vous sûr(e) de vouloir révoquer les jetons utilisateur ?",module,Imaginaerum_Custom
+"Authorized","Autorisé",module,Imaginaerum_Custom
+"Authorizing","Autorisation",module,Imaginaerum_Custom
+"bla","bla",module,Imaginaerum_Custom
+"Cache Description","Description du cache",module,Imaginaerum_Custom
 "Check 'Remember Me' to access your shopping cart on this computer even if you are not signed in.","Cochez 'Se souvenir de moi' pour accéder à votre panier sur cet ordinateur, même si vous n'êtes pas connecté .",module,Imaginaerum_Custom
+"Column ""%1"" not found","Colonne ""%1"" non trouvée",module,Imaginaerum_Custom
+"command not found","commande non trouvée",module,Imaginaerum_Custom
 "Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).","Les produits configurables permettent aux clients de choisir des options (ex : couleur de chemise).
              Vous devez créer un produit simple pour chaque configuration (ex : un produit pour chaque couleur).",module,Imaginaerum_Custom
+"Contact Form","Formulaire de contact",module,Imaginaerum_Custom
 "Copyright &copy; %1 Magento Commerce Inc. All rights reserved.","Copyright&copy; %1 Magento Commerce Inc. Tous droits réservés.",module,Imaginaerum_Custom
 "Credit card","Carte de Crédit",module,Imaginaerum_Custom
 "Credit Card was successfully removed","Carte de crédit supprimée avec succès",module,Imaginaerum_Custom
 "Customer Notification","Notification client",module,Imaginaerum_Custom
+"Email not confirmed","Email non confirmé",module,Imaginaerum_Custom
+"Empty fields","Champs vides",module,Imaginaerum_Custom
+"entity_label_1","entity_label_1",module,Imaginaerum_Custom
+"entity_label_2","entity_label_2",module,Imaginaerum_Custom
 "Exception message.","Message d'exception",module,Imaginaerum_Custom
 "Failed","échec.",module,Imaginaerum_Custom
+"Field title can't be empty","Le champ titre ne peut être vide",module,Imaginaerum_Custom
+"File ""%1"" cannot be opened %2","Le fichier ""%1"" ne peut être ouvert %2",module,Imaginaerum_Custom
+"File already exists","Le fichier existe déjà",module,Imaginaerum_Custom
+"File cannot be read %1","Le fichier ne peut être lu %1",module,Imaginaerum_Custom
+"File does not exist","Le fichier n'existe pas",module,Imaginaerum_Custom
+"File not found","Fichier non trouvé",module,Imaginaerum_Custom
+"File not opened","Fichier non ouvert",module,Imaginaerum_Custom
+"Fixer.io","Fixer.io",module,Imaginaerum_Custom
+"Hello World!","Hello World!",module,Imaginaerum_Custom
+"Helper","Helper",module,Imaginaerum_Custom
+"Invalid path: %1","Chemin invalide: %1",module,Imaginaerum_Custom
+"Invalid path","Chemin invalide",module,Imaginaerum_Custom
+"Invalid query","Requête invalide",module,Imaginaerum_Custom
+"Invalid signature","Signature invalide",module,Imaginaerum_Custom
 "Message.","Message :",module,Imaginaerum_Custom
 "New Attribute Set Name","Nouveau nom du jeu d'attributs",module,Imaginaerum_Custom
 "No such entity.","Aucune entité",module,Imaginaerum_Custom

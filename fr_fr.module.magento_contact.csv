@@ -2,6 +2,7 @@
 "Comment: %comment","Message : %comment",module,Magento_Contact
 "Contact Information","Informations de contact",module,Magento_Contact
 "Contacts","Contacts",module,Magento_Contact
+"Contacts Section","Section contacts",module,Magento_Contact
 "Contact Us","Nous contacter",module,Magento_Contact
 "Email","Email",module,Magento_Contact
 "Email: %email","Email: %email",module,Magento_Contact

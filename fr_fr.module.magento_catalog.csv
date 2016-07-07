@@ -30,6 +30,7 @@
 "Actual Price","Prix actuel",module,Magento_Catalog
 "Add Attribute","Ajouter un attribut",module,Magento_Catalog
 "Add Attribute Set","Ajouter un groupe d'attribut",module,Magento_Catalog
+"Add CMS Block","Ajouter un bloc CMS",module,Magento_Catalog
 "Added","Ajouté",module,Magento_Catalog
 "Add Group","Ajouter un groupe",module,Magento_Catalog
 "Add Group Price","Ajouter un prix par groupe",module,Magento_Catalog
@@ -48,7 +49,9 @@
 "Add Price","Ajouter un prix",module,Magento_Catalog
 "Add Product","Ajouter un produit",module,Magento_Catalog
 "Add Product To Websites","Ajouter le produit aux sites web",module,Magento_Catalog
+"Add Related Products","Ajouter des produits en relation",module,Magento_Catalog
 "Add Root Category","Ajouter une catégorie racine",module,Magento_Catalog
+"Add Selected","Ajouter la sélection",module,Magento_Catalog
 "Add Subcategory","Ajouter une sous-catégorie",module,Magento_Catalog
 "Add Tier","Ajouter un palier",module,Magento_Catalog
 "Add to Cart","Ajouter au panier",module,Magento_Catalog
@@ -56,6 +59,7 @@
 "Add to Compare","Ajouter au comparateur",module,Magento_Catalog
 "Add to Wishlist","Ajouter à ma liste d'envie",module,Magento_Catalog
 "Add to Wish List","Ajouter à ma liste d'envie",module,Magento_Catalog
+"Add Value","Ajouter une valeur",module,Magento_Catalog
 "Advanced Attribute Properties","Propriétés avancée des attributs",module,Magento_Catalog
 "Advanced Inventory","Inventaire avancé",module,Magento_Catalog
 "Advanced Pricing","Gestion avancée des prix",module,Magento_Catalog
@@ -84,12 +88,14 @@
 "An attribute set named \'%1\' already exists.","Le jeu d'attributs ""%1"" existe déjà.",module,Magento_Catalog
 "An attribute with the same code (%1) already exists.","Un attribut avec le même code (%1) existe déjà.",module,Magento_Catalog
 "An attribute with this code already exists.","Un attribut avec ce code existe déjà.",module,Magento_Catalog
+"Anchor","Ancre",module,Magento_Catalog
 "Anchor Custom Text","Présenter un texte personnalisé",module,Magento_Catalog
 "Anchor Custom Title","Présenter un titre personnalisé",module,Magento_Catalog
 "and","et",module,Magento_Catalog
 "and above","et plus",module,Magento_Catalog
 "An error occurred while deleting this set.","Erreur lors de la suppression de ce jeu.",module,Magento_Catalog
 "An error occurred while saving the attribute set.","Erreur lors de la sauvegarde du jeu d'attributs.",module,Magento_Catalog
+"Apply Design to Products","Appliquer le design aux produits",module,Magento_Catalog
 "Apply To Products","Appliquer aux produits",module,Magento_Catalog
 "A product type is not defined for the indexer.","Aucun type de produit n'est défini pour le gestionnaire des index.",module,Magento_Catalog
 "Are you sure?","Êtes-vous sûr(e) ?",module,Magento_Catalog
@@ -124,6 +130,7 @@
 "Backorders","Reliquats",module,Magento_Catalog
 "Bad controller interface for showing product","Mauvaise interface de contrôleur pour montrer le produit",module,Magento_Catalog
 "Bad value was supplied.","Mauvaise valeur fournie.",module,Magento_Catalog
+"Base","Base",module,Magento_Catalog
 "Based On","Basé sur",module,Magento_Catalog
 "Base Image","Image de base",module,Magento_Catalog
 "Basic Settings","Paramètres de base",module,Magento_Catalog
@@ -155,6 +162,8 @@
 "Category Data","Données de catégorie",module,Magento_Catalog
 "Category does not contain specified product","La catégorie ne contient pas le produit demandé",module,Magento_Catalog
 "Category Flat Data","Données fixes de catégorie",module,Magento_Catalog
+"Category Image","Image de la catégorie",module,Magento_Catalog
+"Category Information","Information de la catégorie",module,Magento_Catalog
 "Category is not available for requested store.","La catégorie n'est pas disponible pour la boutique demandée.",module,Magento_Catalog
 "Category Link Block Template","Gabarit du bloc lien catégorie",module,Magento_Catalog
 "Category Link Inline Template","Gabarit inline de lien catégorie",module,Magento_Catalog
@@ -195,6 +204,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Configurations","Configurations",module,Magento_Catalog
 "Configure Product","Configurer le produit",module,Magento_Catalog
 "(Copy data from: %1)","(Copier les données depuis : %1)",module,Magento_Catalog
+"Copy Data from","Copier les données depuis",module,Magento_Catalog
 "Cost","Coût",module,Magento_Catalog
 "Could not assign product ""%1"" to websites ""%2""","Impossible d'assigner le produit ""%1"" aux sites web ""%2""",module,Magento_Catalog
 "Could not move category","Impossible de déplacer la catégorie",module,Magento_Catalog
@@ -279,6 +289,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Email to a Friend","Envoyer à un ami",module,Magento_Catalog
 "Empty","Vide",module,Magento_Catalog
 "Enable","Activer",module,Magento_Catalog
+"Enable Category","Activer la catégorie",module,Magento_Catalog
 "Enabled","Activé",module,Magento_Catalog
 "Enable MAP","Activer le prix minimum affiché",module,Magento_Catalog
 "Enable Qty Increments","Activer les incréments de quantités",module,Magento_Catalog
@@ -291,6 +302,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Field ""%1"" was not found in DO ""%2"".","Champ ""%1"" introuvable dans DO ""%2"".",module,Magento_Catalog
 "Field is not complete","Champ non complet",module,Magento_Catalog
 "File \'%1\' is not an image.","Le fichier '%1' n'est pas une image.",module,Magento_Catalog
+"File can not be saved to the destination folder.","Le fichier ne peut être enregistré dans le répertoire de destination.",module,Magento_Catalog
 "File extension not known or unsupported type.","Extension de fichier non reconnue ou non supportée.",module,Magento_Catalog
 "Filters","Filtres",module,Magento_Catalog
 "First Name","Prénom",module,Magento_Catalog
@@ -330,13 +342,18 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Image","Image",module,Magento_Catalog
 "Image Detail","Détail de l'image",module,Magento_Catalog
 "Image Management","Gestion des images",module,Magento_Catalog
+"Image Opacity","Opacité de l'image",module,Magento_Catalog
+"Image Position","Position de l'image",module,Magento_Catalog
+"Image Resolution","Résolution de l'image",module,Magento_Catalog
 "Images","Images",module,Magento_Catalog
 "Images and Videos","Images et vidéos",module,Magento_Catalog
 "Images (.gif, .jpg, .png)","Images (.gif, .jpg, .png)",module,Magento_Catalog
+"Image Size","Taille de l'image",module,Magento_Catalog
 "Import","Importer",module,Magento_Catalog
 "Import Options","Options d'import",module,Magento_Catalog
 "In Cart","Dans le panier",module,Magento_Catalog
 "Incl. Tax:","TTC :",module,Magento_Catalog
+"Include in Menu","Inclure dans le menu",module,Magento_Catalog
 "Include in Navigation Menu","Inclure dans le menu de navigation",module,Magento_Catalog
 "Inc. Tax","TTC",module,Magento_Catalog
 "Indexed category/products association","Index des associations catégorie/produits",module,Magento_Catalog
