@@ -34,6 +34,7 @@
 "Copyright &copy; %1 Magento Commerce Inc. All rights reserved.","Copyright&copy; %1 Magento Commerce Inc. Tous droits réservés.",module,Imaginaerum_Custom
 "Credit card","Carte de Crédit",module,Imaginaerum_Custom
 "Credit Card was successfully removed","Carte de crédit supprimée avec succès",module,Imaginaerum_Custom
+"Credit memo for your %store_name order","Avoir pour votre commande %store_name",module,Imaginaerum_Custom
 "Customer Notification","Notification client",module,Imaginaerum_Custom
 "Email not confirmed","Email non confirmé",module,Imaginaerum_Custom
 "Empty fields","Champs vides",module,Imaginaerum_Custom
@@ -55,6 +56,7 @@
 "Invalid path","Chemin invalide",module,Imaginaerum_Custom
 "Invalid query","Requête invalide",module,Imaginaerum_Custom
 "Invalid signature","Signature invalide",module,Imaginaerum_Custom
+"Invoice for your %store_name order","Facture pour votre commande %store_name",module,Imaginaerum_Custom
 "Message.","Message :",module,Imaginaerum_Custom
 "Model","Modèle",module,Imaginaerum_Custom
 "Model unused","Modèle non utilisé",module,Imaginaerum_Custom
@@ -84,6 +86,10 @@
 "Select Attribute","Sélectionnez l'Attribut",module,Imaginaerum_Custom
 "Server cannot match any of the given Accept HTTP header media type(s) from the request: ""%1"" with media types from the config of response renderer.","Le serveur ne peut trouver un Accept HTTP header media type(s) pour la requête : %1 avec un type de média provenant de la configuration renderer",module,Imaginaerum_Custom
 "Test","test",module,Imaginaerum_Custom
+"Update to your %store_name credit memo","Mise à jour de votre avoir %store_name",module,Imaginaerum_Custom
+"Update to your %store_name invoice","Mise à jour de votre facture %store_name",module,Imaginaerum_Custom
+"Update to your %store_name order","Mise à jour de votre commande %store_name",module,Imaginaerum_Custom
+"Update to your %store_name shipment","Mise à jour de votre envoi %store_name",module,Imaginaerum_Custom
 "welcome","Bienvenue",module,Imaginaerum_Custom
 "Welcome to %store_name","Bienvenue sur %store_name.",module,Imaginaerum_Custom
 "You haven't selected any items!","Aucun article sélectionné !",module,Imaginaerum_Custom
