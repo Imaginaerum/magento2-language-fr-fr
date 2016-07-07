@@ -1,0 +1,42 @@
+"Add New Condition","Créer des CGV",module,Magento_CheckoutAgreements
+"Applied","Appliqué",module,Magento_CheckoutAgreements
+"Automatically","Automatiquement",module,Magento_CheckoutAgreements
+"Checkbox Text","Texte de la case à cocher",module,Magento_CheckoutAgreements
+"Checkout agreement with specified ID ""%1"" not found.","La condition de vente liée à l'identifiant ""%1"" n'a pas été trouvée.",module,Magento_CheckoutAgreements
+"Checkout Conditions","Conditions de commande",module,Magento_CheckoutAgreements
+"Checkout Terms and Conditions","Conditions générales de ventes",module,Magento_CheckoutAgreements
+"Condition","Condition",module,Magento_CheckoutAgreements
+"Condition Name","Nom de la Condition",module,Magento_CheckoutAgreements
+"Content","Contenu",module,Magento_CheckoutAgreements
+"Content Height","Hauteur du contenu",module,Magento_CheckoutAgreements
+"Content Height (css)","Hauteur du contenu (CSS)",module,Magento_CheckoutAgreements
+"Delete Condition","Supprimer la condition",module,Magento_CheckoutAgreements
+"Disabled","Désactivé",module,Magento_CheckoutAgreements
+"Edit Condition","Modifier la condition",module,Magento_CheckoutAgreements
+"Edit Terms and Conditions","Modifier les conditions générales de vente",module,Magento_CheckoutAgreements
+"Enabled","Activé",module,Magento_CheckoutAgreements
+"Enable Terms and Conditions","Activer les conditions générales de vente",module,Magento_CheckoutAgreements
+"HTML","HTML",module,Magento_CheckoutAgreements
+"ID","ID",module,Magento_CheckoutAgreements
+"Manually","Manuellement",module,Magento_CheckoutAgreements
+"New Condition","Nouvelle condition",module,Magento_CheckoutAgreements
+"New Terms and Conditions","Nouvelles CGV",module,Magento_CheckoutAgreements
+"Please agree to all the terms and conditions before placing the order.","Veuillez accepter les conditions générales de ventes avant de valider la commande.",module,Magento_CheckoutAgreements
+"Please input a valid CSS-height. For example 100px or 77pt or 20em or .5ex or 50%.","Veuillez saisir une valeur CSS height valide. Par exemple 100px ou 77pt ou 20em ou .5ex ou 50%.",module,Magento_CheckoutAgreements
+"Sales","Ventes",module,Magento_CheckoutAgreements
+"Save Condition","Enregistrer la condition",module,Magento_CheckoutAgreements
+"Show Content as","Afficher le contenu comme",module,Magento_CheckoutAgreements
+"Something went wrong  while deleting this condition.","Une erreur s'est produite durant la suppression de cette condition.",module,Magento_CheckoutAgreements
+"Something went wrong while saving this condition.","Une erreur s'est produite lors de l'enregistrement de cette condition.",module,Magento_CheckoutAgreements
+"Status","Statut",module,Magento_CheckoutAgreements
+"Store View","Vue magasin",module,Magento_CheckoutAgreements
+"Terms and Conditions","Conditions générales de ventes",module,Magento_CheckoutAgreements
+"Terms and Conditions Information","Informations de conditions générales de ventes",module,Magento_CheckoutAgreements
+"Text","Texte",module,Magento_CheckoutAgreements
+"The condition has been deleted.","Condition supprimée.",module,Magento_CheckoutAgreements
+"The condition has been saved.","La condition a été sauvegardée.",module,Magento_CheckoutAgreements
+"This condition no longer exists.","Cette condition n'existe plus.",module,Magento_CheckoutAgreements
+"Unable to remove checkout agreement %1","Impossible de supprimer la condition de vente %1",module,Magento_CheckoutAgreements
+"Unable to save checkout agreement %1","Impossible de sauvegarder la condition de vente %1",module,Magento_CheckoutAgreements
+"You deleted the condition.","Vous avez supprimé la condition.",module,Magento_CheckoutAgreements
+"You saved the condition.","La condition a été sauvegardée.",module,Magento_CheckoutAgreements

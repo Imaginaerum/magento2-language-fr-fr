@@ -1,0 +1,4 @@
+"Please enter a date between %min and %max.","Veuillez renseigner une date comprise entre %min et %max.",lib,lib/web/mage/validation/validation.js
+"Please enter a date from the past.","Veuillez renseigner une date antérieure.",lib,lib/web/mage/validation/validation.js
+"Please enter a valid day (1-%1).","Veuillez renseigner un jour valide (1-%1).",lib,lib/web/mage/validation/validation.js
+"Please enter a valid year (1900-%1).","Veuillez renseigner une année valide (1-%1).",lib,lib/web/mage/validation/validation.js

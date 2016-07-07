@@ -1,0 +1,6 @@
+"Category URL Suffix","Suffixe d'URL des catégories",module,Magento_CatalogUrlRewrite
+"Create Permanent Redirect for old URL","Créer des redirections permanentes (301) pour les anciennes URLs",module,Magento_CatalogUrlRewrite
+"Create Permanent Redirect for URLs if URL Key Changed","Créer une eedirection permanente (301) pour les URLs si la Clé d'URL a changé",module,Magento_CatalogUrlRewrite
+"Product URL Suffix","Suffixe d'URL des produits",module,Magento_CatalogUrlRewrite
+"Use Categories Path for Product URLs","Utiliser le Chemin des catégories pour l'URL des produits",module,Magento_CatalogUrlRewrite
+"You need to refresh the cache.","Vous devez rafrîchir le cache.",module,Magento_CatalogUrlRewrite

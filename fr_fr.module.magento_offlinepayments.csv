@@ -1,0 +1,23 @@
+"Automatically Invoice All Items","Facturer automatiquement tous les articles",module,Magento_OfflinePayments
+"Bank Transfer Payment","Paiement par virement bancaire",module,Magento_OfflinePayments
+"Cash On Delivery Payment","Paiement en espèces à la livraison",module,Magento_OfflinePayments
+"Check / Money Order","Chèque / Liquide",module,Magento_OfflinePayments
+"Enabled","Activé",module,Magento_OfflinePayments
+"Instructions","Instructions",module,Magento_OfflinePayments
+"Make Check payable to: %1","Chèque libellé à l'ordre de : %1",module,Magento_OfflinePayments
+"Make Check payable to","Chèque libellé à l'ordre de",module,Magento_OfflinePayments
+"Make Check Payable to","Chèque libellé à l'ordre de",module,Magento_OfflinePayments
+"Make Check payable to:","Chèque libellé à l'ordre de :",module,Magento_OfflinePayments
+"Maximum Order Total","Montant maximum de la commande",module,Magento_OfflinePayments
+"Minimum Order Total","Montant total minimum de commande",module,Magento_OfflinePayments
+"New Order Status","Statut de la nouvelle commande",module,Magento_OfflinePayments
+"Payment from Applicable Countries","Mode de paiement autorisé pour les pays applicables",module,Magento_OfflinePayments
+"Payment from Specific Countries","Mode de paiement autorisé pour les pays spécifiques",module,Magento_OfflinePayments
+"Purchase Order","Bon de commande",module,Magento_OfflinePayments
+"Purchase Order Number: %1","Numéro de bon de commande : %1",module,Magento_OfflinePayments
+"Purchase Order Number","Numéro de bon de commande",module,Magento_OfflinePayments
+"Send Check to","Envoyer le chèque à",module,Magento_OfflinePayments
+"Send Check to:","Envoyer le chèque à :",module,Magento_OfflinePayments
+"Sort Order","Ordre de Tri",module,Magento_OfflinePayments
+"Title","Titre",module,Magento_OfflinePayments
+"Zero Subtotal Checkout","Règlement d'un sous-total nul",module,Magento_OfflinePayments

@@ -1,0 +1,34 @@
+"%1 already exist.","%1 existe déjà.",module,Imaginaerum_Custom
+"%1 already exists.","%1 existe déjà.",module,Imaginaerum_Custom
+"1 column modified","1 colonne modifiée",module,Imaginaerum_Custom
+"86400 by default, if not set. To refresh instantly, clear the Blocks HTML
+                    Output cache.","86400 par Défaut, si non renseigné. Pour actualiser, purgez le cache de sortie des Blocs HTML.",module,Imaginaerum_Custom
+"'","%",module,Imaginaerum_Custom
+"Are you sure you want to revoke the customer's tokens?","Êtes-vous sûr(e) de vouloir révoquer les avis clients?",module,Imaginaerum_Custom
+"Are you sure you want to revoke the user's tokens?","Êtes-vous sûr(e) de vouloir révoquer les jetons utilisateur ?",module,Imaginaerum_Custom
+"Check 'Remember Me' to access your shopping cart on this computer even if you are not signed in.","Cochez 'Se souvenir de moi' pour accéder à votre panier sur cet ordinateur, même si vous n'êtes pas connecté .",module,Imaginaerum_Custom
+"Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).","Les produits configurables permettent aux clients de choisir des options (ex : couleur de chemise).
+             Vous devez créer un produit simple pour chaque configuration (ex : un produit pour chaque couleur).",module,Imaginaerum_Custom
+"Copyright &copy; %1 Magento Commerce Inc. All rights reserved.","Copyright&copy; %1 Magento Commerce Inc. Tous droits réservés.",module,Imaginaerum_Custom
+"Credit card","Carte de Crédit",module,Imaginaerum_Custom
+"Credit Card was successfully removed","Carte de crédit supprimée avec succès",module,Imaginaerum_Custom
+"Customer Notification","Notification client",module,Imaginaerum_Custom
+"Exception message.","Message d'exception",module,Imaginaerum_Custom
+"Failed","échec.",module,Imaginaerum_Custom
+"Message.","Message :",module,Imaginaerum_Custom
+"New Attribute Set Name","Nouveau nom du jeu d'attributs",module,Imaginaerum_Custom
+"No such entity.","Aucune entité",module,Imaginaerum_Custom
+"phrase","Phrase",module,Imaginaerum_Custom
+"Product with SKU '%1' is not linked to product with SKU '%2'","Produit avec le SKU %1 n'a pas été lié au produit SKU %2",module,Imaginaerum_Custom
+"Select Attribute","Sélectionnez l'Attribut",module,Imaginaerum_Custom
+"Server cannot match any of the given Accept HTTP header media type(s) from the request: ""%1"" with media types from the config of response renderer.","Le serveur ne peut trouver un Accept HTTP header media type(s) pour la requête : %1 avec un type de média provenant de la configuration renderer",module,Imaginaerum_Custom
+"Test","test",module,Imaginaerum_Custom
+"welcome","Bienvenue",module,Imaginaerum_Custom
+"Welcome to %store_name","Bienvenue sur %store_name.",module,Imaginaerum_Custom
+"You haven't selected any items!","Aucun article sélectionné !",module,Imaginaerum_Custom
+"Your %store_name email and password has been changed","Votre email et mot de passe %store_name ont été changés",module,Imaginaerum_Custom
+"Your %store_name email has been changed","Votre email %store_name a été changé",module,Imaginaerum_Custom
+"Your %store_name order confirmation","Confirmation de votre commande %store_name",module,Imaginaerum_Custom
+"Your %store_name order has shipped","Votre commande %store_name a été livrée",module,Imaginaerum_Custom
+"Your %store_name password has been changed","Votre mot de passe %store_name a été changé",module,Imaginaerum_Custom
+"You use an empty set.","Utilisation d'un jeu vide.",module,Imaginaerum_Custom
