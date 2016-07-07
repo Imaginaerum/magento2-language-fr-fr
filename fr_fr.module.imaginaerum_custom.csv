@@ -16,6 +16,9 @@
 "86400 by default, if not set. To refresh instantly, clear the Blocks HTML
                     Output cache.","86400 par Défaut, si non renseigné. Pour actualiser, purgez le cache de sortie des Blocs HTML.",module,Imaginaerum_Custom
 "'","%",module,Imaginaerum_Custom
+"Add configurable attributes to the current Attribute Set","Ajouter un attribut configurable au groupe d'attribut actuel",module,Imaginaerum_Custom
+"Add this attribute to the list of column options in the product grid.","Ajouter cet attribut à la liste des options de colonne dans la grille des produits.",module,Imaginaerum_Custom
+"Add this attribute to the list of filter options in the product grid.","Ajouter cet attribut à la liste des options filtrables dans la grille des produits.",module,Imaginaerum_Custom
 "Are you sure you want to revoke the customer's tokens?","Êtes-vous sûr(e) de vouloir révoquer les avis clients?",module,Imaginaerum_Custom
 "Are you sure you want to revoke the user's tokens?","Êtes-vous sûr(e) de vouloir révoquer les jetons utilisateur ?",module,Imaginaerum_Custom
 "Authorized","Autorisé",module,Imaginaerum_Custom

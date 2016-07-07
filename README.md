@@ -58,7 +58,7 @@ Create folder your-magento-path/app/i18n/imaginaerum/fr_fr and extract zip into 
 
 | Total | Translated | Left | Progression |
 | -------------: | -----------------------: | -----------------------: | :---------: |
-| 11261 | 10559 | 702 | ![Progress](http://progressed.io/bar/93) |
+| 11261 | 10570 | 691 | ![Progress](http://progressed.io/bar/93) |
 
 | Key | Total | Translated | Left | Progression |
 | :----- | -------------: | -----------------------: | -----------------------: | :---------: |
@@ -77,17 +77,17 @@ Create folder your-magento-path/app/i18n/imaginaerum/fr_fr and extract zip into 
 | Lib lib/web/mage/translate-inline.js | 3 | 3 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Lib lib/web/mage/validation.js | 4 | 4 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Lib lib/web/mage/validation/validation.js | 4 | 4 | 0 | ![Progress](http://progressed.io/bar/100) |
-| Module Imaginaerum_Custom | 517 | 90 | 427 | ![Progress](http://progressed.io/bar/17) |
+| Module Imaginaerum_Custom | 517 | 93 | 424 | ![Progress](http://progressed.io/bar/17) |
 | Module Magento_AdminNotification | 62 | 60 | 2 | ![Progress](http://progressed.io/bar/96) |
 | Module Magento_AdvancedPricingImportExport | 4 | 4 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_Authorization | 3 | 3 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_Authorizenet | 121 | 120 | 1 | ![Progress](http://progressed.io/bar/99) |
-| Module Magento_Backend | 720 | 697 | 23 | ![Progress](http://progressed.io/bar/96) |
+| Module Magento_Backend | 720 | 699 | 21 | ![Progress](http://progressed.io/bar/97) |
 | Module Magento_Backup | 110 | 110 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_Braintree | 360 | 353 | 7 | ![Progress](http://progressed.io/bar/98) |
 | Module Magento_Bundle | 112 | 110 | 2 | ![Progress](http://progressed.io/bar/98) |
 | Module Magento_Captcha | 28 | 27 | 1 | ![Progress](http://progressed.io/bar/96) |
-| Module Magento_Catalog | 940 | 911 | 29 | ![Progress](http://progressed.io/bar/96) |
+| Module Magento_Catalog | 940 | 913 | 27 | ![Progress](http://progressed.io/bar/97) |
 | Module Magento_CatalogImportExport | 39 | 38 | 1 | ![Progress](http://progressed.io/bar/97) |
 | Module Magento_CatalogInventory | 78 | 73 | 5 | ![Progress](http://progressed.io/bar/93) |
 | Module Magento_CatalogRule | 106 | 103 | 3 | ![Progress](http://progressed.io/bar/97) |
@@ -112,7 +112,7 @@ Create folder your-magento-path/app/i18n/imaginaerum/fr_fr and extract zip into 
 | Module Magento_Downloadable | 136 | 131 | 5 | ![Progress](http://progressed.io/bar/96) |
 | Module Magento_DownloadableImportExport | 3 | 3 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_Eav | 167 | 166 | 1 | ![Progress](http://progressed.io/bar/99) |
-| Module Magento_Email | 114 | 110 | 4 | ![Progress](http://progressed.io/bar/96) |
+| Module Magento_Email | 114 | 111 | 3 | ![Progress](http://progressed.io/bar/97) |
 | Module Magento_EncryptionKey | 22 | 22 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_Fedex | 77 | 76 | 1 | ![Progress](http://progressed.io/bar/98) |
 | Module Magento_GiftMessage | 53 | 50 | 3 | ![Progress](http://progressed.io/bar/94) |
@@ -147,15 +147,15 @@ Create folder your-magento-path/app/i18n/imaginaerum/fr_fr and extract zip into 
 | Module Magento_SalesRule | 179 | 177 | 2 | ![Progress](http://progressed.io/bar/98) |
 | Module Magento_SalesSequence | 2 | 2 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_Search | 83 | 56 | 27 | ![Progress](http://progressed.io/bar/67) |
-| Module Magento_Security | 26 | 5 | 21 | ![Progress](http://progressed.io/bar/19) |
+| Module Magento_Security | 26 | 6 | 20 | ![Progress](http://progressed.io/bar/23) |
 | Module Magento_SendFriend | 63 | 63 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_Shipping | 199 | 196 | 3 | ![Progress](http://progressed.io/bar/98) |
 | Module Magento_Sitemap | 72 | 71 | 1 | ![Progress](http://progressed.io/bar/98) |
 | Module Magento_Store | 52 | 52 | 0 | ![Progress](http://progressed.io/bar/100) |
-| Module Magento_Swatches | 35 | 31 | 4 | ![Progress](http://progressed.io/bar/88) |
+| Module Magento_Swatches | 35 | 32 | 3 | ![Progress](http://progressed.io/bar/91) |
 | Module Magento_Tax | 207 | 206 | 1 | ![Progress](http://progressed.io/bar/99) |
 | Module Magento_TaxImportExport | 19 | 19 | 0 | ![Progress](http://progressed.io/bar/100) |
-| Module Magento_Theme | 198 | 188 | 10 | ![Progress](http://progressed.io/bar/94) |
+| Module Magento_Theme | 198 | 189 | 9 | ![Progress](http://progressed.io/bar/95) |
 | Module Magento_Translation | 148 | 148 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_Ui | 116 | 111 | 5 | ![Progress](http://progressed.io/bar/95) |
 | Module Magento_Ups | 114 | 114 | 0 | ![Progress](http://progressed.io/bar/100) |

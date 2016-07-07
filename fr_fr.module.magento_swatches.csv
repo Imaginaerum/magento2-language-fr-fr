@@ -1,5 +1,6 @@
 "Add Swatch","Ajouter un échantillon",module,Magento_Swatches
 "Admin is a required field in the each row","Le champ Admin est obligatoire pour chaque ligne",module,Magento_Swatches
+"Allowed file types: jpeg, gif, png.","Types de fichiers autorisés : jpeg, gif, png.",module,Magento_Swatches
 "Allows use fallback logic for replacing swatch image with product swatch or base image","Utilisez la logique de fallback pour remplacer l'image de l'échantillon avec celle du produit ou l'image de base",module,Magento_Swatches
 "Choose a color","Choisir une couleur",module,Magento_Swatches
 "Create New Value","Créez une nouvelle valeur",module,Magento_Swatches

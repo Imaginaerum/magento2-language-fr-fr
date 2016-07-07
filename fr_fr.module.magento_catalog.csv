@@ -59,6 +59,7 @@
 "Add to Compare","Ajouter au comparateur",module,Magento_Catalog
 "Add to Wishlist","Ajouter à ma liste d'envie",module,Magento_Catalog
 "Add to Wish List","Ajouter à ma liste d'envie",module,Magento_Catalog
+"Add Up-Sell Products","Ajouter des produits en ventes additionnelles.",module,Magento_Catalog
 "Add Value","Ajouter une valeur",module,Magento_Catalog
 "Advanced Attribute Properties","Propriétés avancée des attributs",module,Magento_Catalog
 "Advanced Inventory","Inventaire avancé",module,Magento_Catalog
@@ -71,6 +72,7 @@
 "Allow Dynamic Media URLs in Products and Categories","Autoriser les URLs de média dynamiques dans les produits et catégories",module,Magento_Catalog
 "Allowed File Extensions","Extensions de fichier autorisées",module,Magento_Catalog
 "Allowed file extensions to upload","Extensions de fichier autorisées pour l'envoi",module,Magento_Catalog
+"Allowed file types: jpeg, gif, png.","Types de fichiers autorisés : jpeg, gif, png.",module,Magento_Catalog
 "Allow Gift Message","Autoriser le message cadeau",module,Magento_Catalog
 "Allow HTML Tags on Frontend","Autoriser les balises HTML sur le frontend",module,Magento_Catalog
 "Allow HTML Tags on Storefront","Permettre les balises HTML sur la boutique",module,Magento_Catalog
