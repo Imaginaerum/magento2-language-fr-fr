@@ -58,7 +58,7 @@ Create folder your-magento-path/app/i18n/imaginaerum/fr_fr and extract zip into 
 
 | Total | Translated | Left | Progression |
 | -------------: | -----------------------: | -----------------------: | :---------: |
-| 11261 | 10427 | 834 | ![Progress](http://progressed.io/bar/92) |
+| 11261 | 10439 | 822 | ![Progress](http://progressed.io/bar/92) |
 
 | Key | Total | Translated | Left | Progression |
 | :----- | -------------: | -----------------------: | -----------------------: | :---------: |
@@ -77,7 +77,7 @@ Create folder your-magento-path/app/i18n/imaginaerum/fr_fr and extract zip into 
 | Lib lib/web/mage/translate-inline.js | 3 | 3 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Lib lib/web/mage/validation.js | 4 | 4 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Lib lib/web/mage/validation/validation.js | 4 | 4 | 0 | ![Progress](http://progressed.io/bar/100) |
-| Module Imaginaerum_Custom | 517 | 32 | 485 | ![Progress](http://progressed.io/bar/6) |
+| Module Imaginaerum_Custom | 517 | 39 | 478 | ![Progress](http://progressed.io/bar/7) |
 | Module Magento_AdminNotification | 62 | 60 | 2 | ![Progress](http://progressed.io/bar/96) |
 | Module Magento_AdvancedPricingImportExport | 4 | 4 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_Authorization | 3 | 3 | 0 | ![Progress](http://progressed.io/bar/100) |
@@ -147,7 +147,7 @@ Create folder your-magento-path/app/i18n/imaginaerum/fr_fr and extract zip into 
 | Module Magento_SalesRule | 179 | 176 | 3 | ![Progress](http://progressed.io/bar/98) |
 | Module Magento_SalesSequence | 2 | 2 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_Search | 83 | 56 | 27 | ![Progress](http://progressed.io/bar/67) |
-| Module Magento_Security | 26 | 0 | 26 | ![Progress](http://progressed.io/bar/0) |
+| Module Magento_Security | 26 | 3 | 23 | ![Progress](http://progressed.io/bar/11) |
 | Module Magento_SendFriend | 63 | 63 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_Shipping | 199 | 196 | 3 | ![Progress](http://progressed.io/bar/98) |
 | Module Magento_Sitemap | 72 | 71 | 1 | ![Progress](http://progressed.io/bar/98) |
@@ -155,7 +155,7 @@ Create folder your-magento-path/app/i18n/imaginaerum/fr_fr and extract zip into 
 | Module Magento_Swatches | 35 | 27 | 8 | ![Progress](http://progressed.io/bar/77) |
 | Module Magento_Tax | 207 | 206 | 1 | ![Progress](http://progressed.io/bar/99) |
 | Module Magento_TaxImportExport | 19 | 19 | 0 | ![Progress](http://progressed.io/bar/100) |
-| Module Magento_Theme | 198 | 186 | 12 | ![Progress](http://progressed.io/bar/93) |
+| Module Magento_Theme | 198 | 188 | 10 | ![Progress](http://progressed.io/bar/94) |
 | Module Magento_Translation | 148 | 148 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Module Magento_Ui | 116 | 108 | 8 | ![Progress](http://progressed.io/bar/93) |
 | Module Magento_Ups | 114 | 114 | 0 | ![Progress](http://progressed.io/bar/100) |

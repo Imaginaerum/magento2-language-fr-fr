@@ -1,4 +1,6 @@
 "1 column","1 colonne",module,Magento_Theme
+"%1 does not contain field \'%2\'","%1 ne contient pas le champ \'%2\'",module,Magento_Theme
+"%1 does not contain field \'file\'","%1 ne contient pas le champ \'fichier\'",module,Magento_Theme
 "%1 Item","%1 article",module,Magento_Theme
 "%1 Item(s)","%1 article(s)",module,Magento_Theme
 "2 columns with left bar","2 colonnes avec colonne de gauche",module,Magento_Theme

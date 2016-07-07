@@ -1,6 +1,13 @@
 "%1 already exist.","%1 existe déjà.",module,Imaginaerum_Custom
 "%1 already exists.","%1 existe déjà.",module,Imaginaerum_Custom
 "1 column modified","1 colonne modifiée",module,Imaginaerum_Custom
+"%1 does not contain field '%2'","%1 ne contient pas le champ '%2'",module,Imaginaerum_Custom
+"%1 does not contain field 'file'","%1 ne contient pas le champ 'fichier'",module,Imaginaerum_Custom
+"%1 doesn't extend \Magento\Framework\Data\Form","%1 n'étend pas \Magento\Framework\Data\Form",module,Imaginaerum_Custom
+"%1 doesn't extends \Magento\Framework\Search\Dynamic\Algorithm\AlgorithmInterface","%1 n'étend pas \Magento\Framework\Search\Dynamic\Algorithm\AlgorithmInterface",module,Imaginaerum_Custom
+"%1 doesn't implement \Magento\Framework\DB\MapperInterface","%1 n'implémente pas \Magento\Framework\DB\MapperInterface",module,Imaginaerum_Custom
+"%1 doesn't implement \Magento\Framework\DB\QueryInterface","%1 n'implémente pas \Magento\Framework\DB\QueryInterface",module,Imaginaerum_Custom
+"%1 doesn't implement ThemeInterface","%1 n'implémente pas ThemeInterface",module,Imaginaerum_Custom
 "86400 by default, if not set. To refresh instantly, clear the Blocks HTML
                     Output cache.","86400 par Défaut, si non renseigné. Pour actualiser, purgez le cache de sortie des Blocs HTML.",module,Imaginaerum_Custom
 "'","%",module,Imaginaerum_Custom
