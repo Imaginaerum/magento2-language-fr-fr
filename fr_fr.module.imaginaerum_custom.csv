@@ -15,7 +15,6 @@
 "%1 should be an iterator","%1 doit être un itérateur"
 "86400 by default, if not set. To refresh instantly, clear the Blocks HTML
                     Output cache.","86400 par Défaut, si non renseigné. Pour actualiser, purgez le cache de sortie des Blocs HTML."
-"'","%"
 "Add configurable attributes to the current Attribute Set","Ajouter un attribut configurable au groupe d'attribut actuel"
 "Add this attribute to the list of column options in the product grid.","Ajouter cet attribut à la liste des options de colonne dans la grille des produits."
 "Add this attribute to the list of filter options in the product grid.","Ajouter cet attribut à la liste des options filtrables dans la grille des produits."
@@ -66,6 +65,7 @@
 "Invalid path","Chemin invalide"
 "Invalid query","Requête invalide"
 "Invalid signature","Signature invalide"
+"Invalid URL '%value%'.","URL invalide '%value%'."
 "Invoice for your %store_name order","Facture pour votre commande %store_name"
 "Message.","Message :"
 "Model","Modèle"
@@ -100,6 +100,7 @@
 "Select Attribute","Sélectionnez l'Attribut"
 "Server cannot match any of the given Accept HTTP header media type(s) from the request: ""%1"" with media types from the config of response renderer.","Le serveur ne peut trouver un Accept HTTP header media type(s) pour la requête : %1 avec un type de média provenant de la configuration renderer"
 "Test","test"
+"Unable to add attribute","Impossible d'ajouter l'attribut"
 "Update to your %store_name credit memo","Mise à jour de votre avoir %store_name"
 "Update to your %store_name invoice","Mise à jour de votre facture %store_name"
 "Update to your %store_name order","Mise à jour de votre commande %store_name"
