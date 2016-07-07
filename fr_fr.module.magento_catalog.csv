@@ -485,6 +485,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Operation do not allow to move a parent category to any of children category","Opération ne permettent pas de déplacer une catégorie parente a une quelconque catégorie enfants",module,Magento_Catalog
 "Option required.","Option requise.",module,Magento_Catalog
 "Option Title","Titre de l'option",module,Magento_Catalog
+"Option Type","Type d'option",module,Magento_Catalog
 "Out of stock","En rupture de stock",module,Magento_Catalog
 "Out of Stock","En rupture de stock",module,Magento_Catalog
 "Out-of-Stock Threshold","Quantité pour que le produit passe à épuisé",module,Magento_Catalog
@@ -557,6 +558,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Product Price","Prix du produit",module,Magento_Catalog
 "Products","Produits",module,Magento_Catalog
 "Products Comparison List","Liste de comparaison de produits",module,Magento_Catalog
+"Products in Category","Produits de la catégorie",module,Magento_Catalog
 "Products Information","Informations produits",module,Magento_Catalog
 "Products only","Produits seulement",module,Magento_Catalog
 "Products per Page on Grid Allowed Values","Valeurs autorisées pour le nombre de produits par page dans l'affichage en grille",module,Magento_Catalog

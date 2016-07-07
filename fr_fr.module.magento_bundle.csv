@@ -75,6 +75,7 @@
 "Qty Shipped","Qté livrée",module,Magento_Bundle
 "Quantity:","Quantité :",module,Magento_Bundle
 "Quantity","Quantité",module,Magento_Bundle
+"Radio Buttons","Boutons radio",module,Magento_Bundle
 "Refunded","Remboursé",module,Magento_Bundle
 "Regular Price","Prix normal",module,Magento_Bundle
 "Requested bundle option product doesn\'t exist","Les options du produit packagé n'existent pas",module,Magento_Bundle

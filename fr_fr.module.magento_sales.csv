@@ -510,6 +510,7 @@
 "Row Total","Total ligne",module,Magento_Sales
 "Sales","Ventes",module,Magento_Sales
 "Sales Emails","Mails des ventes",module,Magento_Sales
+"Sales Section","Section ventes",module,Magento_Sales
 "Same As Billing Address","Identique à l'adresse de facturation",module,Magento_Sales
 "Save Gift Message","Enregistrer le message cadeau",module,Magento_Sales
 "Save in address book","Enregistrer dans le carnet d'adresses",module,Magento_Sales

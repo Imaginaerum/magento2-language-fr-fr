@@ -80,6 +80,7 @@
 "Label","Libellé",module,Magento_ConfigurableProduct
 "Name","Nom",module,Magento_ConfigurableProduct
 "New attribute set name","Nouveau nom du jeu d'attributs",module,Magento_ConfigurableProduct
+"New Product Review","Nouvel avis produit",module,Magento_ConfigurableProduct
 "No Image","Aucune image",module,Magento_ConfigurableProduct
 "Only implemented for configurable product: %1","Seulement mis en place pour le produit configurable : %1",module,Magento_ConfigurableProduct
 "Option attribute ID is not specified.","ID de l'option d'attribut n'est pas spécifié.",module,Magento_ConfigurableProduct

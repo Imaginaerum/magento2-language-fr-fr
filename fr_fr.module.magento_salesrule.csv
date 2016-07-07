@@ -107,6 +107,7 @@
 "Product Attribute","Attribut produit",module,Magento_SalesRule
 "Product attribute combination","Combinaison d'attributs de produit",module,Magento_SalesRule
 "Products subselection","Sous-sélection de produits",module,Magento_SalesRule
+"Promotion","Promotion",module,Magento_SalesRule
 "Promotions","Promotions",module,Magento_SalesRule
 "Public In RSS Feed","Public dans le Flux RSS",module,Magento_SalesRule
 "Quantity in cart","Quantité dans le panier",module,Magento_SalesRule

@@ -295,6 +295,7 @@
 "No customer ID defined.","Aucun ID de client n'a été défini.",module,Magento_Customer
 "No item specified.","Aucun article spécifié.",module,Magento_Customer
 "No Newsletter Found","Pas de lettre d'information",module,Magento_Customer
+"No Password","Aucun mot de passe",module,Magento_Customer
 "NoSuchEntityException","NoSuchEntityException",module,Magento_Customer
 "Not Sent","Non envoyé",module,Magento_Customer
 "Not Specified","Non spécifié",module,Magento_Customer
@@ -394,6 +395,7 @@
 "Require Emails Confirmation","Nécessite la confirmation par email",module,Magento_Customer
 "Reset","Réinitialiser",module,Magento_Customer
 "Reset a Password","Réinitialiser un mot de passe",module,Magento_Customer
+"Reset My Password","Réinitialiser mon mot de passe",module,Magento_Customer
 "Reset Password","Réinitialiser le mot de passe",module,Magento_Customer
 "Reset Password Template","Gabarit de réinitialisation de mot de passe",module,Magento_Customer
 "Reset password token expired.","Réinitialisation du mot de passe expirée.",module,Magento_Customer

@@ -49,6 +49,7 @@
 "Newsletter Problem Reports","Rapports des problèmes de lettre d'information",module,Magento_Newsletter
 "Newsletter Problems Report","Rapport des problèmes de lettre d'information",module,Magento_Newsletter
 "Newsletter Queue","File d'attente lettre d'information",module,Magento_Newsletter
+"Newsletter Section","Section newsletter",module,Magento_Newsletter
 "Newsletter Styles","Styles de lettre d'information",module,Magento_Newsletter
 "Newsletter Subscribers","Abonnés à la lettre d'information",module,Magento_Newsletter
 "Newsletter Subscription","Abonnement à la lettre d'information",module,Magento_Newsletter

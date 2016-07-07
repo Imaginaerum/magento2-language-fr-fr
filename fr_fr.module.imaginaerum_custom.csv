@@ -53,10 +53,31 @@
 "Invalid query","Requête invalide",module,Imaginaerum_Custom
 "Invalid signature","Signature invalide",module,Imaginaerum_Custom
 "Message.","Message :",module,Imaginaerum_Custom
+"Model","Modèle",module,Imaginaerum_Custom
+"Model unused","Modèle non utilisé",module,Imaginaerum_Custom
+"Move to Archive","Archiver",module,Imaginaerum_Custom
+"msg","msg",module,Imaginaerum_Custom
+"my message","mon message",module,Imaginaerum_Custom
+"Name only","Nom seulement",module,Imaginaerum_Custom
 "New Attribute Set Name","Nouveau nom du jeu d'attributs",module,Imaginaerum_Custom
 "No such entity.","Aucune entité",module,Imaginaerum_Custom
+"Not implemented","Non implémenté",module,Imaginaerum_Custom
+"Not Valid!","Invalide !",module,Imaginaerum_Custom
+"OAuth version %1 is not supported","Version OAuth %1 non supportée",module,Imaginaerum_Custom
+"One","Un",module,Imaginaerum_Custom
+"Payment Type","Type de paiement",module,Imaginaerum_Custom
+"Paypal account","Compte PayPal",module,Imaginaerum_Custom
+"PayPal Payment ID","IP paiement PayPal",module,Imaginaerum_Custom
+"Permission denied to read file %1","Permission refusée lors de la lecture du fichier %1",module,Imaginaerum_Custom
+"Permission denied to write to %1","Permission refusée lors de l'écriture du fichier %1",module,Imaginaerum_Custom
+"Phrase 2","Phrase 2",module,Imaginaerum_Custom
+"Phrase 3","Phrase 3",module,Imaginaerum_Custom
 "phrase","Phrase",module,Imaginaerum_Custom
 "Product with SKU '%1' is not linked to product with SKU '%2'","Produit avec le SKU %1 n'a pas été lié au produit SKU %2",module,Imaginaerum_Custom
+"Redirecting...","Redirection",module,Imaginaerum_Custom
+"Reset your %store_name password","Réinitialiser votre mot de passe %store_name",module,Imaginaerum_Custom
+"Save and Continue","Sauvegarder et continuer",module,Imaginaerum_Custom
+"Save Configuration","Sauvegarder la configuration",module,Imaginaerum_Custom
 "Select Attribute","Sélectionnez l'Attribut",module,Imaginaerum_Custom
 "Server cannot match any of the given Accept HTTP header media type(s) from the request: ""%1"" with media types from the config of response renderer.","Le serveur ne peut trouver un Accept HTTP header media type(s) pour la requête : %1 avec un type de média provenant de la configuration renderer",module,Imaginaerum_Custom
 "Test","test",module,Imaginaerum_Custom

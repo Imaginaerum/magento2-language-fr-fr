@@ -209,6 +209,7 @@
 "Payment Action","Action de Paiement",module,Magento_Braintree
 "Payment from Applicable Countries","Mode de paiement autorisé pour les pays applicables",module,Magento_Braintree
 "Payment from Specific Countries","Mode de paiement autorisé pour les pays spécifiques",module,Magento_Braintree
+"paymentId","paymentId",module,Magento_Braintree
 "Payment Information","Informations de paiement",module,Magento_Braintree
 "Payment method conflict","Conflit méthode de paiement",module,Magento_Braintree
 "Payment method conflict with venmo sdk","Conflit méthode de paiement avec le sdk venmo",module,Magento_Braintree
@@ -256,6 +257,8 @@
 "Region is too long.","Région est trop long.",module,Magento_Braintree
 "Require Customer's Billing Address","Nécessite l'adresse de facturation du client",module,Magento_Braintree
 "* Required Fields","* Champs requis",module,Magento_Braintree
+"riskDataDecision","riskDataDecision",module,Magento_Braintree
+"riskDataId","riskDataId",module,Magento_Braintree
 "Save this card for future use","Enregistrer cette carte pour une utilisation future",module,Magento_Braintree
 "Selected payment type is not allowed for billing country.","Le type de paiement sélectionné n'est pas autorisé pour le pays de facturation.",module,Magento_Braintree
 "Service fee amount cannot be negative","Montant des frais de service ne peut être négatif",module,Magento_Braintree

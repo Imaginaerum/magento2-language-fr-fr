@@ -34,6 +34,7 @@
 "'New ' .","'Nouveau ' .",module,Magento_Ui
 "New View","Nouvelle vue",module,Magento_Ui
 "No white space please","Les espaces ne sont pas autorisés",module,Magento_Ui
+"of","sur",module,Magento_Ui
 "Off","Off",module,Magento_Ui
 "Ok","Ok",module,Magento_Ui
 "OK","OK",module,Magento_Ui
@@ -65,6 +66,8 @@
 "Please enter a valid XML-identifier (Ex: something_1, block5, id-4).","Veuillez renseigner un identifiant XML valide (ex : something_1, block5, id-4).",module,Magento_Ui
 "Please enter a valid zip code.","Veuillez saisir un code postal valide.",module,Magento_Ui
 "Please enter a valid zip code (Ex: 90602 or 90602-1234).","Veuillez renseigner un code postal valide (ex : 90602 ou 90602-1234).",module,Magento_Ui
+"Please enter a value greater than or equal to {0}.","Veuillez saisir une valeur supérieure ou égale à {0}.",module,Magento_Ui
+"Please enter a value less than or equal to {0}.","Veuillez saisir une valeur inférieure ou égale à {0}.",module,Magento_Ui
 "Please enter between {0} and {1} words.","Veuillez renseigner entre {0} et {1} mots.",module,Magento_Ui
 "Please enter issue number or start date for switch/solo card type.","Veuillez saisir le numéro de problème ou une date de début pour le type de carte switch/solo.",module,Magento_Ui
 "Please enter less or equal than {0} symbols.","Veuillez renseigner un nombre de caractères inférieur ou égal à {0}.",module,Magento_Ui

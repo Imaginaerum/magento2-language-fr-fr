@@ -399,6 +399,7 @@
 "PayPal response hasn\'t required fields.","La réponse de PayPal ne comporte pas les champs obligatoires.",module,Magento_Paypal
 "PayPal retains reports for 45 days.","PayPal conserve des rapports pendant 45 jours.",module,Magento_Paypal
 "PayPal Reversed","Remboursement PayPal",module,Magento_Paypal
+"PayPal Section","Section PayPal",module,Magento_Paypal
 "PayPal Settlement","Règlement PayPal",module,Magento_Paypal
 "PayPal Settlement Reports","Rapports de règlements PayPal",module,Magento_Paypal
 "Pending PayPal","En attente de PayPal",module,Magento_Paypal
