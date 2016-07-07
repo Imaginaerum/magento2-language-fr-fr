@@ -1,4 +1,0 @@
-"Maximum length of this field must be equal or less than %1 symbols.","La longueur maximale de ce champ doit être inférieure ou égale à %1 caractères.",lib,lib/web/mage/validation.js
-"Please enter a value greater than or equal to %s.","Veuillez renseigner une valeur supérieure ou égale à %s.",lib,lib/web/mage/validation.js
-"Please enter a value less than or equal to %s.","Veuillez renseigner une valeur inférieure ou égale à %s.",lib,lib/web/mage/validation.js
-"This is a required field.","Ce champ est obligatoire.",lib,lib/web/mage/validation.js

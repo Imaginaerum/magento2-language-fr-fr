@@ -1,2 +1,0 @@
-"Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Une erreur s'est produite lors de la compilation de la liste des ressources autorisées. Vous trouverez plus d'informations dans le journal des exceptions.",module,Magento_Authorization
-"We can't find the role for the user you wanted.","Rôle de l'utilisateur introuvable.",module,Magento_Authorization
