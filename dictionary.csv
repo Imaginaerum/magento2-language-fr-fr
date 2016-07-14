@@ -1911,7 +1911,7 @@ Default,"Par défaut"
 "Default store is inactive","La boutique par défaut est désactivé"
 "Default title","Titre par défaut"
 "Default website is not defined","Le site web par défaut n'est pas défini"
-"Default welcome msg!","Message d'accueil par défaut !"
+"Default welcome msg!","Message de bienvenue par défaut !"
 "Defines whether a link to My Account","Détermine l'affichage d'un lien vers ""Mon Compte"""
 Delete,Supprimer
 "Delete ""${ $.$data.title }""","Supprimer ""${ $.$data.title }"""
