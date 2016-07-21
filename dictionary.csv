@@ -718,6 +718,7 @@ Anchor,Ancre
 "Anchor symbol (#) is not supported in request path","Le symbole Ancre (""#"") n'est pas supporté dans le chemin de la requête"
 "Anchor symbol (#) is not supported in request path.","Le symbole Ancre (""#"") n'est pas supporté dans le chemin de la requête."
 "Anchor symbol (#) is not supported in url rewrite suffix.","Le symbole Ancre (""#"") n'est pas supporté dans le suffixe de la réécriture d'URL."
+"Android pay card","Carte de paiement Android"
 "An error occurred","Une erreur est survenue"
 "An error occurred. The email template can not be opened for preview.","Une erreur s'est produite. Le gabarit d'email ne peut pas être ouvert pour aperçu."
 "An error occurred validating the nonce","Une erreur est survenue lors de la validation du jeton"
@@ -771,6 +772,7 @@ Any,Tout
 "A payment method must be specified.","Une méthode de paiement doit être spécifiée."
 "A positive or negative non-decimal number please","Uniquement des nombres entiers positifs ou négatifs autorisés"
 "Append Comments","Ajouter les commentaires"
+"Apple pay card","Carte de paiement Apple"
 Applied,Appliqué
 "Applied Coupon","Coupons utilisés"
 "Applied Theme","Thème appliqué"
@@ -3865,6 +3867,7 @@ None,Aucun
 "No stores were reassigned.","Aucune boutique assignée."
 "No such entity","Aucune entité"
 "No such entity.","Aucune entité"
+"No such entity with %fieldName = %fieldValue","Aucune entité avec %fieldName = %fieldValue"
 "Not Activated","Non activé"
 "Not Approved","Non approuvé"
 "Not Capture","Pas de capture"
@@ -3941,6 +3944,7 @@ OAuth,OAuth
 "OAuth consumer credentials HTTP Post timeout","OAuth consumer credentials HTTP Post timeout"
 "OAuth version %1 is not supported","Version OAuth %1 non supportée"
 OK,OK
+"Object DOMDocument should be created.","Un objet DOMDocument doit être crée."
 Off,Off
 Offline,Déconnecté
 "Offline Refunds","Remboursements hors ligne"
@@ -3976,6 +3980,7 @@ Online,"En ligne"
 "Only registered users can write reviews. Please, <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Seuls les utilisateurs sauvegardés peuvent soumettre leur avis. Veuillez <a href=""%1"">vous connecter</a> ou <a href=""%2"">créer un compte</a>"
 "Only registered users can write reviews. Please, <a href=""%1"">log in</a> or <a href=""%2"">register</a>","Seuls les clients enregistrés peuvent écrire des avis. Veuillez vous <a href=""%1"">connecter</a> ou vous <a href=""%2"">enregistrer</a>"
 "Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Seuls les utilisateurs sauvegardés peuvent soumettre leur avis. Veuillez <a href=""%1"">vous connecter</a> ou <a href=""%2"">créer un compte</a>"
+"Only the first 100 errors are shown. ","Seules les 100 premières erreurs sont visibles."
 "Open Authorization","Ouvrez l'autorisation"
 "Open Chooser","Ouvrir le sélecteur"
 "Open Links in New Window","Ouvrir les liens dans une nouvelle fenêtre"
@@ -4061,6 +4066,7 @@ Ordered,Commandé
 Orders,Commandes
 "Orders, Invoices, Credit Memos Display Settings","Paramètres d'affichage des commandes, factures et avoirs"
 "Orders Cron Settings","Paramètres du CRON des commandes"
+"Orders Report","Rapport des commandes"
 "Orders and Returns","Commandes et retours"
 "Orders and Returns Search Form","Formulaire de recherche de commandes et retours"
 "Order saving error: %1","Erreur lors de la sauvegarde de la commande : %1"
@@ -4214,6 +4220,7 @@ Payment,Paiement
 "Payment Method","Mode de paiement"
 "Payment Method:","Mode de paiement :"
 "Payment Methods","Modes de paiement"
+"Payment Methods Section","Section méthodes de paiement"
 "Payment Refund initiated by merchant","Remboursement de paiement initié par le marchand"
 "Payment Review","Vérification du paiement"
 "Payment Services","Services de paiement"
@@ -5933,6 +5940,9 @@ Synchronize,Synchroniser
 Synchronizing...,"Synchronisation en cours..."
 Synonym,Synonyme
 "Synonym For","Synonyme de"
+"Synonym Group","Groupe de synonymes"
+"Synonym group with id %1 cannot be deleted. %2","Le groupe de synonymes avec l'id %1 ne peut être supprimé. %2"
+Synonyms,Synonymes
 System,Système
 "System(config.xml, local.xml) and modules configuration files(config.xml, menu.xml).","Système (config.xml, local.xml) et fichiers de configuration modules (config.xml, menu.xml)."
 "System (excluding Media)","Système (sans les médias)"
@@ -5947,6 +5957,7 @@ TB,To
 TRUE,VRAIES
 "TTL for public content","TTL pour les contenus publics"
 "Tab Label","Onglet libellé"
+"Table %1 does not exist","Table %1 inexistante"
 "Table Rates",Tarification
 Tags,Tags
 "Target Path","Chemin cible"
@@ -5989,9 +6000,11 @@ Template,Gabarit
 "Terms and Conditions","Conditions générales de ventes"
 "Terms and Conditions Information","Informations de conditions générales de ventes"
 Test,test
+"Test Field","Champ test"
 "Test Label","Etiquette test"
 "Test Mode","Mode test"
 "Test Phrase","Phrase test"
+"Test Section","Section test"
 "Test label","Etiquette test"
 Text,Texte
 "Text Area","Zone de texte"
@@ -6487,6 +6500,8 @@ Themes,Thèmes
 "This group contains system attributes. Please move system attributes to another group and try again.","Ce groupe contient des attributs système. Veuillez déplacer les attributs système vers un autre groupe et réessayer."
 "This integration no longer exists.","Cette intégration n'existe pas."
 "This invoice can be processed only offline","Cette facture peut être traitée hors ligne"
+"This is "" test "" data","Ceci est une donnée "" test """
+"This is ' test ' data","Ceci est une donnée ' test '"
 "This is an invalid amount for authorization.","Montant en autorisation invalide."
 "This is an invalid amount for capture.","Montant pour la capture invalide."
 "This is an invalid amount for partial authorization.","Montant en autorisation partielle invalide."
@@ -6501,6 +6516,7 @@ Themes,Thèmes
 "This is located by navigating to Events -> Deployments from the New Relic APM website","Vous trouverez cette information en vous rendant dans Events -> Deployments from the New Relic APM website"
 "This is located by navigating to Settings from the New Relic APM website","Vous trouverez cette information en vous rendant dans les paramètres du site New Relic APM"
 "This is only a demo store. You can browse and place orders, but nothing will be processed.","Ceci est une boutique de démonstration. Vous pouvez naviguer et passer des commandes, mais aucune ne pourra être traitée."
+"This is test data","Ceci est une donnée test"
 "This is the wrong quote item id to update configuration.","Mauvais identifiant d'article pour mettre à jour la configuration."
 "This is used internally. Make sure you don't use spaces or more than %1 symbols.","Ceci est utilisé en interne. Assurez-vous de ne pas utiliser des espaces ou plus de %1 symboles."
 "This is used internally. Make sure you don\'t use spaces or more than %1 symbols.","Ceci est utilisé en interne. Assurez-vous de ne pas utiliser des espaces ou plus de %1 symboles."
@@ -6652,6 +6668,7 @@ Total:,"Total :"
 "Total of %1 record(s) were deleted","%1 enregistrement(s) effacé(s)"
 "Total of %1 record(s) were deleted.","%1 enregistrement(s) effacé(s)."
 "Totals calculation is not applicable to empty cart","Le calcul de totaux n'est pas applicable sur un panier vide"
+"To test exception","Pour tester une exception"
 "To use PayPal Payflow Link, you must configure your PayPal Payflow Link account on the PayPal website.","Pour utiliser PayPal Payflow Link, vous devez configurer votre compte PayPal Payflow Link sur le site PayPal."
 "To use PayPal Payments Advanced, you must configure  your PayPal Payments Advanced account on the PayPal website.","Pour utiliser PayPal Paiements Advanced, vous devez configurer votre compte PayPal Paiements Advanced sur le site PayPal."
 "To use this website you must first enable JavaScript in your browser.","Pour utiliser ce site dans les meilleures conditions, vous devez activer JavaScript dans votre navigateur."
@@ -6896,6 +6913,7 @@ Url,Url
 "Use %s to replace the account ID in the URL","Utilisez ""%s"" pour remplacer l'identifiant de compte dans l'URL"
 "Use Aggregated Data","Utiliser les données agrégées"
 "Use Aggregated Data (beta)","Utiliser les données agrégées (beta)"
+"Use All","Tout utiliser"
 "Use All Available Attributes","Utiliser tous les attributs disponibles"
 "Use Auto Generation","Utiliser la génération automatique"
 "Use Billing Address","Utiliser l'adresse de facturation"
@@ -7019,6 +7037,7 @@ Value,Valeur
 "Value for \'value price\' sub attribute in \'custom_options\' attribute contains incorrect value","La valeur du sous-attribut 'value price' de l'attribut 'custom_options' contient une valeur incorrecte"
 "Value index is not specified for an option.","L'index de la valeur n'est pas spécifié pour une option."
 "Value must be a URL or one of placeholders: %1","La valeur doit être une URL ou un des variables : %1"
+Values,Valeurs
 "Values Required","Valeurs requises"
 "Values less than 60 are ignored.","Les valeurs inférieures à 60 sont ignorées."
 "Values of following attributes are invalid: %1","Les valeurs suivantes d'attributs sont invalides : %1"
@@ -7048,6 +7067,7 @@ Vendor,Vendeur
 "Video not found","Vidéo introuvable"
 View,Voir
 "View ""%1"" Integration","Voir ""%1"" Intégration"
+View/Edit,Voir/Editer
 "View All","Tout voir"
 "View All Reviews","Voir tous les commentaires"
 "View Another Order","Voir une autre commande"
@@ -7140,6 +7160,7 @@ Web,Web
 "Web-Services URL (Production)","URL du webservice (production)"
 "Web-Services URL (Sandbox)","URL du webservice (bac à sable)"
 "Web API Security","Sécurité API web"
+"Web Section","Section web"
 "Web Services Configuration","Configuration des webservices"
 "Web Setup Wizard","Assistant Configuration web"
 "Web Site","Site web"
@@ -7568,6 +7589,7 @@ Weight:,"Poids :"
 "Weight vs. Destination","Poids par destination"
 Welcome,Bienvenue
 "Welcome, %1!","Bienvenue, %1 !"
+"Welcome, %name","Bienvenu, %name"
 "Welcome, please sign in","Bienvenue ! Veuillez vous connecter"
 "Welcome Email","Email de bienvenue"
 "Welcome Text","Texte de bienvenue"
@@ -7617,6 +7639,7 @@ Width,Largeur
 "Will make search for the query above return results for this search","Exécutera la recherche pour la recherche ci-dessus et en retournera les résultats"
 "Wish List","Liste d'envies"
 "Wish List Purchase","Commander à partir de listes d'envies"
+"Wish List Section","Section liste d'envies"
 "Wish List Sharing","Partage de liste d'envies"
 "Wish List could not be created.","La liste d'envies n'a pas été créée."
 "Wish List is empty now.","La liste d'envies est vide."
@@ -7653,6 +7676,7 @@ Wishlist,"Liste d'envies"
 "Wrong rule specified.","Mauvaise règle spécifiée."
 "Wrong transactional account email type","Le type d'email de compte transactionnel est erroné"
 "XML Sitemap","Plan de site XML"
+"XML Sitemap Section","Section plan de site XML"
 YTD,"Depuis le début de l'année"
 YY,AA
 YYYY,AAAA
@@ -8089,6 +8113,7 @@ label_value,label_value
 lb,lb
 lbs,lbs
 "less than","est inférieur(e) à"
+liabilityShifted,liabilityShifted
 "localized exception","localized exception"
 major,majeur
 message,message
