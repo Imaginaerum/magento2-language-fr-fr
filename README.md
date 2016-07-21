@@ -58,4 +58,4 @@ Create folder your-magento-path/app/i18n/imaginaerum/fr_fr and extract zip into 
 
 | Total | Translated | Left | Progression |
 | -------------: | -----------------------: | -----------------------: | :---------: |
-| 8749 | 8107 | 642 | ![Progress](http://progressed.io/bar/92) |
+| 8749 | 8112 | 637 | ![Progress](http://progressed.io/bar/92) |
