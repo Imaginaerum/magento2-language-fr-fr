@@ -5422,6 +5422,7 @@ Set,Réglage
 "Set order for existing transactions not allowed","Placez la commande pour des transactions existantes non permise"
 "Set root category for this store in the <a href=""%1"">configuration</a>.","Définir la catégorie racine pour cette boutique dans la <a href=""%1"">configuration</a>."
 Settings,Paramètres
+"Settlement Batch ID","ID lot réglement"
 "Settlement Consolidation","Consolidation de règlement"
 "Settlement Report Settings","Les paramètres du rapport de règlement"
 "Settlement amount cannot be more than the authorized amount.","Le montant de l'entente ne peut être supérieur au montant autorisé."
