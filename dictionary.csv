@@ -2894,6 +2894,7 @@ Help,Aide
 "Help Us to Keep Magento Healthy","Aidez-nous à améliorer Magento"
 Helper,Helper
 "Helper arguments should not be used in custom layout updates.","Les arguments du Helper ne peuvent être utilisées dans les custom layout updates."
+"Helper instance cannot be redefined.","L'instance du Helper ne peut être redéfinie."
 Hidden,Caché
 "Hidden Virtual PayPal Debit Card Transaction","Transaction virtuelle PayPal de débit de carte de paiement"
 "Hide Customer IP","Masquer l'adresse IP du client"
