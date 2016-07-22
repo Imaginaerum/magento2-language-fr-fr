@@ -929,6 +929,7 @@ Assigned,Affecté
 "Assign to Store Views","Assigner aux vues magasin"
 "Associated Products","Produits associés"
 "Associate to Website","Associer à un site web"
+"Associative and numeric keys must not be mixed at one level.","Les clés associatives et numériques ne doivent pas être mélangées à un seul niveau."
 "Asynchronous indexing","Indexation asynchrone"
 "Asynchronous sending","Envoi asynchrone"
 "At least one recipient must be specified.","Au moins un destinataire doit être saisi."
@@ -944,6 +945,7 @@ Assigned,Affecté
 "A total of %1 record(s) have been updated.","Un total de %1 enregistrement(s) mis à jour."
 "A total of %1 record(s) were deleted.","Un total de %1 enregistrement(s) ont été supprimés."
 "A total of %1 record(s) were updated.","Un total de %1 enregistrement(s) mis à jour."
+"A total of %1 synonym group(s) have been deleted.","%1 groupe(s) de synonymes supprimé(s)."
 "Attach File or Enter Link","Attacher un fichier ou entrer un lien"
 "Attempted Authentication, Bad Result","Tentative d'authentification. Mauvais résultat"
 "Attempted Authentication, Good Result","Tentative d'authentification. Bon résultat"
@@ -953,6 +955,7 @@ Attention,Attention
 Attribute,Attribut
 "Attribute ""%1"" is required.","L'attribut ""%1"" est requis."
 "Attribute ""%1"" not found in attribute set %2.","L'attribut ""%1"" ne fait pas partie du jeu d'attribut %2."
+"Attribute ""%attribute_code"" has invalid value. %details","La valeur de l'attribut ""%attribute_code"" est invalide. %details"
 "Attribute %1 doesn't have any option","L'attribut %1 ne possède aucune option"
 "Attribute %1 doesn't work with options","L'attribut %1 ne fonctionne pas avec des options"
 "Attribute %1 doesn\'t have any option","L\'attribut %1 ne possède aucune option"
@@ -8001,8 +8004,10 @@ Yes/No,Oui/Non
 "You moved the category","Catégorie déplacée"
 "You must confirm your %customer_email email before you can sign in (link is only valid once):","Vous devez confirmer votre email %customer_email afin que vous puissiez vous connecter (le lien n'est valable qu'une seule fois) :"
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","Vous devez confirmer votre compte. Vérifier dans vos email si vous avez reçu le lien de confirmation ou <a href=""%1"">cliquez ici </a> pour obtenir un nouveau lien."
+"You must first configure currency options before being able to see currency rates.","Vous devez d'abord configurer les options de devises avant d'être en mesure de voir les taux de change."
 "You must select items to copy","Veuillez sélectionner les objets à copier"
 "You must select items to move","Veuillez sélectionner les objets à déplacer"
+"You must set unique country-state combinations within the same fixed product tax","Vous devez définir des combinaisons uniques d'état pour les pays au sein de la même taxe produits"
 "You need an authorization transaction to void.","Vous avez besoin d'une transaction d'autorisation pour annuler."
 "You need more free space to create a backup.","Vous avez besoin de plus d'espace disque de libre afin de pouvoir créer une sauvegarde."
 "You need more permissions to access this.","Vous avez besoin de permissions supplémentaires pour accéder à ceci."
@@ -8196,6 +8201,7 @@ critical,critique
 "customer group","groupe de clients"
 cvvResponseCode,"Code de réponse du pictogramme visuel"
 "database ""%1""","base de données ""%1"""
+"db object is not set in config","objet db non défini dans la configuration"
 description,description
 "does not contain","ne contient pas"
 download,télécharger
@@ -8315,6 +8321,9 @@ save,enregistrer
 "select all","sélectionner tout"
 selected,sélectionné
 "simple text","simple texte"
+"simple text with 1 string literal placeholder %1","texte simple avec un espace réservé litéral %1"
+"simple text with 1 variable placeholder %1","texte simple avec un espace réservé %1"
+"simple text with multiple placeholders %1 %2","texte simple avec plusieurs espaces réservés %1 %2"
 some_comment,some_comment
 some_label,some_label
 "some error","une erreur"
@@ -8325,6 +8334,11 @@ some_label,some_label
 "start typing to search template","commencez à saisir pour rechercher un gabarit"
 status,statut
 "store(%1) scope","portée de la boutique (%1)"
+"string that's got an unclosed single quote in it","c'est une chaîne qui contient un simple guillemet"
+"string with ""double quotes""","chaîne avec ""double guillemets"""
+"string with 'single quotes'","chaîne avec 'simple guillemets'"
+"string with escaped ""double quotes""","chaîne avec ""double guillemets"" (échappés)"
+"string with escaped 'single quotes'","chaîne avec 'simple guillemets' (échappés)"
 "string with placeholder in double quotes ""%1""","chaîne avec un espace réservé entouré de doubles guillemets ""%1"""
 "string with placeholder in escaped double quotes ""%1""","chaîne avec un espace réservé entouré de doubles guillemets ""%1"" (échappés)"
 "string with placeholder in escaped single quotes '%1'","chaîne avec un espace réservé entouré de simples guillemets '%1' (échappés)"
