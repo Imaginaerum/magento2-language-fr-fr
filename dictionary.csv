@@ -853,7 +853,7 @@ Approved,Approuvé
 "Are you sure you want to delete the folder named","Êtes-vous sûr(e) de vouloir supprimer le dossier"
 "Are you sure you want to delete the selected backup(s)?","Êtes-vous sûr(e) de vouloir effacer les sauvegardes sélectionnées ?"
 "Are you sure you want to delete the selected coupon(s)?","Êtes-vous sûr(e) de vouloir effacer les bons de réduction sélectionnés ?"
-"Are you sure you want to delete this?","Êtes-vous sûr de vouloir supprimer ceci ?"
+"Are you sure you want to delete this?","Êtes-vous sûr(e) de vouloir supprimer ceci ?"
 "Are you sure you want to delete this address?","Êtes-vous sûr(e) de vouloir effacer cette adresse ?"
 "Are you sure you want to delete this category?","Êtes-vous sûr(e) de vouloir supprimer cette catégorie ?"
 "Are you sure you want to delete this file?","Êtes-vous sûr(e) de vouloir supprimer ce fichier ?"
@@ -2139,12 +2139,14 @@ Disable,Désactiver
 Disabled,Désactivé
 "Disabled Completely","Désactivé complètement"
 "Disabled by Default","Désactivé par défaut"
+"Disassociated Products","Produits dissociés"
 "Discard subsequent rules","Ignorer les règles suivantes"
 Discount,Remise
 "Discount (%1)","Remise (%1)"
 "Discount Amount","Montant de la remise"
 "Discount Codes","Codes de remises"
 "Discount Qty Step (Buy X)","Quantité pour obtenir la remise (Achetez-en X)"
+"Discount amount is applied to subtotal only","Le montant de la remise est appliqué au sous-total seulement"
 "Discount value should be 0 or greater.","La valeur de la remise doit être supérieure à 0."
 Display,Affichage
 "Display Actual Price","Afficher les vrais prix"
@@ -2208,6 +2210,7 @@ Download,Télécharger
 "Download Sample File","Télécharger le fichier d'exemple"
 "Downloadable Information","Informations téléchargements"
 "Downloadable Product Options","Options du produit téléchargeable"
+"Downloadable Product Section","Section produit téléchargeable"
 "Downloadable Products","Produits Téléchargeables"
 "Download full report","Téléchargez le rapport complet"
 Downloads,Téléchargements
@@ -2291,6 +2294,7 @@ Edit,Modifier
 "Edit Store","Modifier la boutique"
 "Edit Store Design Change","Modifier le changement de design de la boutique"
 "Edit Store View","Modifier la vue magasin"
+"Edit Synonym Group","Editer le groupe de synonymes"
 "Edit System Template","Modifier le gabarit système"
 "Edit Tax Rate","Modifier le taux de la taxe"
 "Edit Template","Modifier le gabarit"
@@ -7747,7 +7751,7 @@ Yes/No,Oui/Non
 "You applied the custom currency symbols.","Vous avez appliqué des symboles de devise personnalisés."
 "You are about to delete all products in this attribute set. Are you sure you want to do that?","Vous êtes sur le point de supprimer tous les produits possédant ce jeu d'attributs. Êtes-vous sûr(e) de vouloir faire ça ?"
 "You are about to delete all products in this set. ' 'Are you sure you want to delete this attribute set?","Vous allez supprimer tous les produits de ce jeu d'attributs. Êtes-vous sûr(e) de vouloir supprimer ce jeu d'attributs ?"
-"You are about to delete your wish list. This action cannot be undone. Are you sure you want to continue?","Vous êtes sur le point de supprimer votre liste d'envies. Cette action est irréversible. Êtes-vous sûr de vouloir continuer ?"
+"You are about to delete your wish list. This action cannot be undone. Are you sure you want to continue?","Vous êtes sur le point de supprimer votre liste d'envies. Cette action est irréversible. Êtes-vous sûr(e) de vouloir continuer ?"
 "You are currently not subscribed to any newsletter.","Vous n'êtes abonné à aucune lettre d'information."
 "You are currently not subscribed to our newsletter.","Vous n'êtes pas abonné(e) à notre lettre d'information."
 "You are currently subscribed to 'General Subscription'.","Vous êtes abonné à 'Abonnement général'."
