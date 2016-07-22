@@ -1071,6 +1071,7 @@ Backup,Sauvegarde
 "Backup Type","Type de sauvegarde"
 "Backup options","Options de sauvegarde"
 Backups,Sauvegardes
+"Backups directory is not writeable","Le répertoire de sauvegarde ne peut être écrit"
 "Bad controller interface for showing product","Mauvaise interface de contrôleur pour montrer le produit"
 "Bad request.","Non trouvé."
 "Bad root directory","Mauvais répertoire root"
@@ -1157,6 +1158,7 @@ Blocks,Blocs
 Bottom/Left,"En bas à gauche"
 Bottom/Right,"En bas à droite"
 Braintree,Braintree
+"Braintree error response.","Réponse d'erreur Braintree."
 "Break bulk economy","Paquet divise éco"
 "Break bulk express","Paquet divisé express"
 "Browse Files","Parcourir les fichiers"
@@ -1247,7 +1249,9 @@ CVV,CVV
 "Can't acquire coupon.","Impossible d'appliquer le bon."
 "Can't delete item from wishlist","Impossible d'enlever l'article de la liste d'envies"
 "Can't delete root category.","Vous ne pouvez pas supprimer la catégorie racine."
+"Can't get contents from: %1","Impossible d'obtenir le contenu depuis: %1"
 "Can't load snapshot archive","Vous ne pouvez pas charger les archives de Snapshot"
+"Can't open file %1 for writing. Permission denied.","Ecriture fichier %1 impossible. Permission refusée."
 "Can't save description %1","Impossible de sauvegarder la description %1"
 "Can't scan dir: %1","Lecture répertoire impossible: %1"
 "Can't unhold order.","Impossible de débloquer la commande."
@@ -1305,6 +1309,7 @@ Cancelled,Annulé
 "Cannot edit a canceled subscription.","Impossible de modifier un abonnement annulé."
 "Cannot edit expired subscription","Impossible de modifier un abonnement expiré"
 "Cannot edit price changing fields on past due subscription","Impossible de changer le champ prix pour un abonnement antérieur"
+"Cannot execute multiple queries","Exécution requête multiples impossible."
 "Can not find original authorization transaction for partial capture","Impossible de trouver l'autorisation de transaction initiale pour la capture partielle"
 "Can not find product link with id ""%1""","Impossible de trouver le produit à lier avec l'ID ""%1"""
 "Cannot find required columns: %1","Impossible de trouver la colonne requise : %1"
@@ -1334,6 +1339,7 @@ Cancelled,Annulé
 "Cannot provide both subscription_id and customer_id unless the subscription belongs to the customer.","Impossible de fournir à la fois subscription_id et customer_id à moins que l'abonnement appartienne au client."
 "Cannot provide expiration_date if you are also providing expiration_month and expiration_year.","Impossible de fournir expiration_date si vous avez déjà spécifié expiration_month et expiration_year."
 "Cannot read contents from file ""%1"" %2","Impossible de lire le contenu du fichier ""%1"" %2"
+"Cannot recognize image extension.","Extension image non reconnue."
 "Cannot refund a transaction unless it is settled.","Vous ne pouvez pas effectuer de remboursement avant que la transaction ne soit réglée."
 "Cannot refund credit","Remboursement impossible"
 "Cannot refund transaction with suspended merchant account.","Impossible d'effectuer un remboursement avec un compte marchand suspendu."
@@ -1363,6 +1369,7 @@ Cancelled,Annulé
 "Cannot update item quantity.","Impossible de mettre à jour la quantité de l'article."
 "Cannot update subscription to a plan with a different billing frequency.","Impossible de mettre à jour l'abonnement avec une date de fréquence de facturation différente."
 "Cannot update the item's quantity.","Impossible de mettre à jour la quantité de l'article."
+"Cannot write to the ""%1"" file. %2","Ecriture fichier ""%1"" impossible. %2"
 "Cant create backups directory","Impossible de créer le répertoire de sauvegarde"
 Capture,Capturer
 "Capture Action","Action de capture"
@@ -1591,6 +1598,7 @@ Compare,Comparer
 "Compatible file extensions to upload","Extensions de fichier pris en charge à l’envoi de fichier"
 Complaint,Réclamation
 Complete,Terminée
+"Concurrent session information:","Informations de session simultanées : "
 Condition,Condition
 "Condition Name","Nom de la Condition"
 Conditions,Conditions
@@ -1603,6 +1611,7 @@ Conditions,Conditions
 "Config form fieldset clone model required to be able to clone fields","Config formulaire du modèle de clone de champs requis pour être en mesure de cloner ces champs"
 "Configurable Product Image","Image du produit Configurable"
 "Configurable Product Settings","Paramètres produit configurable"
+"Configurable product ""%1"" does not have sub-products","Le produit configurable ""%1"" ne possède pas de sous-produits"
 "Configurable product ""%1"" do not have sub-products","Le produit configurable ""%1"" n'a pas de sous-produits"
 "Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).","Les produits configurables permettent aux clients de choisir des options (ex : couleur de chemise).
 "
@@ -2053,6 +2062,7 @@ Default,"Par défaut"
 "Default Price Navigation Step","Tranche de prix par défaut"
 "Default Product Listing Sort By","Tri par défaut de la liste des produits"
 "Default Product Listing Sort by does not exist in Available Product Listing Sort By.","Le tri par défaut pour les listes de produits n'existe pas dans la liste des valeurs possibles."
+"Default Product Sorting","Tri produits par défaut"
 "Default Qty","Qté par défaut"
 "Default Quantity","Quantité par défaut"
 "Default Recently Compared Products Count","Nombre de produits récemment comparés par défaut"
@@ -3054,6 +3064,8 @@ Identifier,Identifiant
 "If you do not have multiple users set up on your account, please re-enter your Vendor/Merchant Login here.","Si vous ne disposez pas de plusieurs utilisateurs mis en place sur votre compte, veuillez entrer de nouveau votre login vendeur/ marchand ici."
 "If you have an account, sign in with your email address.","Si vous avez un compte, connectez-vous avec votre adresse email."
 "If you have an account with us, log in using your email address.","Si vous possédez un compte veuillez vous connecter en utilisant votre adresse email."
+"If you have not authorized this action, please contact us immediately at %store_email","Si vous n'avez pas autorisé cette action veuillez nous contacter immédiatement à %store_email"
+"If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","Si vous n'avez pas autorisé cette action veuillez nous contacter immédiatement à <a href=""mailto:%store_email"">%store_email</a>"
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Si vous avez des questions concernant votre commande, vous pouvez nous envoyer un email à <a href=""mailto:%store_email"">%store_email</a>"
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Si vous avez des questions concernant votre commande, vous pouvez nous envoyer un email à <a href=""mailto:%store_email"">%store_email</a>."
 "If you leave this empty, we'll use a default value. The custom URL may be provided by CardinalCommerce agreement.","Si vous laissez vide, la valeur par défaut sera utilisée. L'URL pourra être fournie par CardinalCommerce."
@@ -3124,7 +3136,9 @@ Include,Inclure
 "Incorrect CAPTCHA","CAPTCHA incorrect"
 "Incorrect CAPTCHA.","CAPTCHA incorrect."
 "Incorrect credit card expiration date.","Mauvaise date d'expiration de carte de crédit."
+"Incorrect dependency in class %1 in %2%3%4","Dépendance incorrecte pour la classe %1 dans %2%3%4"
 "Incorrect format of WSDL request URI or Requested services are missing.","Format WSDL incorrect, URI ou service manquants."
+"Incorrect interface in %1. There is no method [ %2 ] in %3 interface","Interface incorrecte dans %1. Pas de méthode [ %2 ] dans l'interface %3"
 "Incorrect payment method.","Méthode de paiement incorrecte."
 "Incorrect timestamp value in the oauth_timestamp parameter","Valeur du timestamp incorrect dans le paramètre oauth_timestamp"
 Indeterminate,Indéterminé
@@ -3136,6 +3150,14 @@ Indeterminate,Indéterminé
 "Indexed rule/product association","Indexation des associations règles catalogue/produit"
 Indexer,Index
 "Indexer Management","Gestion des index"
+"Indexer public description","Description publique de l'indexer"
+"Indexer public description one","Description une publique de l'indexer"
+"Indexer public description three","Description trois publique de l'indexer"
+"Indexer public description two","Description deux publique de l'indexer"
+"Indexer public name","Nom public de l'indexer"
+"Indexer public name one","Nom un public de l'indexer"
+"Indexer public name three","Nom trois public de l'indexer"
+"Indexer public name two","Nom deux public de l'indexer"
 "Index product EAV","Index EAV des produits"
 "Index product and categories URL Rewrites","Index réécriture URL catégories et produits"
 "Index product attributes for layered navigation building","Index des attributs produit pour la navigation par filtres"
@@ -3146,6 +3168,7 @@ Indirect,Indirecte
 Ineligible,Inéligible
 Info:,"Info :"
 Information,Informations
+"Init action problem.","Probléme d'initialisation de l'action"
 "Initialization error component, check the spelling of the name or the correctness of the call.","Erreur lors de l'initialisation du composant, vérifier l'orthographe du nom ou l'exactitude de l'appel."
 InputException,InputException
 InputException.,InputException
@@ -3279,6 +3302,7 @@ Invalidated,Invalidé
 "Invalid format.","Format invalide."
 "Invalid format of children: %1","Format de l'enfant invalide: %1"
 "Invalid form type.","Type de formulaire invalide."
+"Invalid image file type.","Type de fichier image invalide."
 "Invalid input","Saisie invalide"
 "Invalid item option format.","Format d'option d'élément invalide."
 "Invalid joint fields","Champs de jointure invalides"
@@ -3538,6 +3562,9 @@ Login,"Se connecter"
 "Logo Image Width","Largeur du logo"
 "Logo Width","Largeur du logo"
 "Logo for HTML Print View","Logo pour l'aperçu avant impression HTML"
+"
+                        Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)
+                    ","Logo pour les documents HTML seulement. Si vide, le logo par défaut sera utilisé.<br />(jpeg, gif, png)"
 "Logo for PDF Print-outs (200x50)","Logo pour les impressions PDF (200x50)"
 "Log out all other sessions","Déconnecter toutes les sessions"
 "Low Stock","Stock bas"
@@ -3685,8 +3712,16 @@ Merchandise,Marchandise
 "Merchant account does not support MOTO","Le compte marchand ne supporte pas MOTO"
 "Merchant account does not support refunds","Ce compte marchand ne permet pas les remboursements"
 "Merchant account is suspended.","Compte marchand suspendu."
+"
+                        Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.
+                    ","Les marchands doivent activer sur PayPal les accords de facturation. Ne pas activer cette option tant que PayPal n'a pas confirmé ces accords de facturation et qu'ils sont actifs sur votre compte marchand."
+"
+                                Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.
+                            ","Les marchands doivent activer sur PayPal les accords de facturation. Ne pas activer cette option tant que PayPal n'a pas confirmé ces accords de facturation et qu'ils sont actifs sur votre compte marchand."
 "Merge CSS Files","Fusionner les fichiers CSS"
 "Merge JavaScript Files","Fusionner les fichiers JavaScript"
+"Merge conflict with existing synonym group(s): %1","Fusionner les conflits existants dans le(s) groupe(s) de synonymes: %1"
+"Merge existing synonyms","Fusionner les synonymes existants"
 Message,Message
 Message.,"Message :"
 Message:,"Message :"
@@ -3707,6 +3742,7 @@ Message:,"Message :"
 "Method Name","Nom de la méthode"
 "Method Title","Nom de la méthode"
 "Middle Name/Initial",Patronyme/Initiales
+"Minification is not applied in developer mode.","La minification n'est pas appliquée en mode développeur."
 "Minify CSS Files","Minifier les fichiers CSS"
 "Minify Html","Minifier le HTML"
 "Minify JavaScript Files","Minifier les fichiers JavaScript"
@@ -3886,6 +3922,7 @@ New,Nouveau
 "New Store Design Change","Nouveau changement de design"
 "New Store View","Nouvelle vue magasin"
 "New Subcategory","Nouvelle sous-catégorie"
+"New Synonym Group","Nouveau groupe de synonymes"
 "New System Template","Nouveau gabarit système"
 "New Tax Rate","Nouveau taux"
 "New Tax Rule","Nouvelle règle de taxe"
@@ -4016,6 +4053,8 @@ Notified,Notifié
 "Notify Customer by Email","Avertir le client par email"
 "Notify Low Stock RSS","Flux RSS de notification de stock"
 "Notify for Quantity Below","Notifier quand la quantité passe en dessous de"
+"Notify me when the price drops","Prévenez-moi quand le prix baisse"
+"Notify me when this product is in stock","Prévenez-moi quand le produit est en stock"
 "Not implemented","Non implémenté"
 "Not shared with other products","Non partagé avec les autres produits"
 "Not shared with other products.","Non partagé avec les autres produits"
@@ -4289,6 +4328,14 @@ Paused,"En Pause"
 "PayPal Express Checkout","PayPal Express Checkout"
 "PayPal Express Checkout Token does not exist.","Le jeton PayPal Express n'existe pas."
 "PayPal Express Checkout is not enabled.","PayPal Express Checkout non activé."
+"PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
+                        You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
+                        <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>
+                ","PayPal Express Checkout permet à vos clients d'obtenir un financement PayPal Credit® - sans coût supplémentaire pour vous. Vous êtes payés, même si les clients ont du retard. Un bouton de paiement pré-intégré permet aux clients de payer avec PayPal Credit® rapidement. <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">En savoir plus</a>"
+"PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
+                        You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
+                        <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>
+                        ","PayPal Express Checkout permet à vos clients d'obtenir un financement PayPal Credit® - sans coût supplémentaire pour vous. Vous êtes payés, même si les clients ont du retard. Un bouton de paiement pré-intégré permet aux clients de payer avec PayPal Credit® rapidement. <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">En savoir plus</a>"
 "PayPal Fee Information","Renseignements sur les frais PayPal"
 "PayPal Merchant Pages Style","PayPal marchand pages de style"
 "PayPal Payment Gateways","Passerelles de paiement PayPal"
