@@ -1028,6 +1028,7 @@ Autogenerate,"Générer automatiquement"
 Automatically,Automatiquement
 "Automatically Invoice All Items","Facturer automatiquement tous les articles"
 "Automatically Return Credit Memo Item to Stock","Remettre automatiquement en stock un article faisant l'objet d'un avoir"
+"Automatically merges synonyms in groups that share the same scope. If you check this box and you add one or more of the same terms to different synonym groups in the same scope, automatically merges all the terms to one group. If this isn't what you want, uncheck the box and an error displays if you try to add the same terms.","Fusionne automatiquement les synonymes des groupes qui partagent la même portée. Si vous cochez cette case et que vous ajoutez un ou plusieurs mêmes termes aux différents groupes de synonymes de la même portée, fusionne automatiquement tous les synonymes à un seul groupe. Si ce n'est pas ce que vous souhaitez, décochez la case et une erreur apparaîtra si vous essayez d'ajouter les mêmes synonymes."
 "Auto restart video","Redémarrage automatique de la vidéo"
 Autosettings,"Réglages automatiques"
 "Autostart base video","Démarrage automatique de la vidéo de base"
@@ -1091,9 +1092,18 @@ Base,Base
 "Base URLs (Secure)","URLs de base (Sécurisées)"
 "Base Unsecure URL","URL de base non sécurisée"
 "Base currency","Devise de base"
+"
+                        Base currency is used for all online payment transactions. If you have more than one store view, the base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").
+                    ","La devise de base est utilisé pour toutes les transactions de paiement en ligne. La portée de la devise de base est définie par la portée des prix catalogue (""Catalogue"" > "" Prix ""> ""Portée des prix catalogue"")."
+"
+                        Base currency is used for all online payment transactions. The base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").
+                    ","La devise de base est utilisé pour toutes les transactions de paiement en ligne. La portée de la devise de base est définie par la portée des prix catalogue (""Catalogue"" > "" Prix ""> ""Portée des prix catalogue"")."
 "Based On","Basé sur"
 "Based on the VAT ID, ' 'the customer would belong to the Customer Group %s.","Basé sur le numéro de TVA, le client appartient au groupe de clients %s."
 "Based on the VAT ID, the customer belongs to the Customer Group %s.","Basé sur le numéro de TVA, le client appartient au groupe de clients %s."
+"Based on your selections %1 new products will be created. Use this step to customize images and price for your new products.","Sur la base de votre sélection, %1 nouveaux produits seront crées. Cette étape permet de personnaliser les images et les prix pour vos nouveaux produits."
+"Based on your selections <span class=""new-products-count"" data-bind=""text:countVariations""></span>
+        new products will be created. Use this step to customize images and price for your new products.","Sur la base de votre sélection, <span class=""new-products-count"" data-bind=""text:countVariations""></span> nouveaux produits seront crées. Cette étape permet de personnaliser les images et les prix pour vos nouveaux produits."
 "Basic Braintree Settings","Paramètres de base Braintree"
 "Basic Settings","Paramètres de base"
 "Basic Settings - PayPal Express Checkout","Paramètres de base - PayPal Express Checkout"
@@ -1148,6 +1158,7 @@ Billing,Facturation
 "Billing day of month is invalid","Le jour de facturation est invalide"
 "Billing day of month must be numeric","Le jour de facturation doit être un nombre"
 Block,Bloc
+"Block %1 throws exception and cannot be rendered.","Le bloc %1 a émit une exception et ne peut pas être rendu."
 "Block Information","Information du bloc"
 "Block Title","Titre du bloc"
 Blocks,Blocs
@@ -1290,6 +1301,7 @@ Cancelled,Annulé
 "Cannot clone voice authorization transactions","Vous ne pouvez pas cloner les transactions d'autorisation"
 "Cannot convert to access token due to token is not request type","Vous ne pouvez pas convertir le jeton en raison du type d'autorisation qui n'a pas demandé le type"
 "Cannot create an invoice without products.","Impossible de créer une facture sans produit."
+"Cannot create a symlink for ""%1"" and place it to ""%2"" %3","Impossible de créer le lien symbolique ""%1"" vers ""%2"" %3"
 "Can not create attribute set based on non product attribute set.","Vous ne pouvez pas créer un jeu d'attributs basé sur un jeu d'attributs non produit."
 "Can not create attribute set based on not existing attribute set","Vous ne pouvez pas créer un jeu d'attributs basé sur un jeu d'attribut inexistant"
 "Cannot create credit memo for the order.","Impossible de créer un avoir pour la commande."
@@ -1303,6 +1315,7 @@ Cancelled,Annulé
 "Cannot delete link with id %1","Impossible de supprimer le lien id %1"
 "Cannot delete option with id %1","Impossible de supprimer l'option ID %1"
 "Cannot delete option with id: %1","Impossible de supprimer l'option ID %1"
+"Cannot delete sample with id %1","Suppression de l'échantillon avec l'id %1 impossible."
 "Cannot delete the design change.","Impossible de supprimer le changement de design."
 "Cannot delete tracking number.","Impossible de supprimer le numéro de suivi."
 "Cannot delete variations from product: %1","Vous ne pouvez pas supprimer les variations du produit : %1"
@@ -1317,6 +1330,7 @@ Cancelled,Annulé
 "Can not find product link with id ""%1""","Impossible de trouver le produit à lier avec l'ID ""%1"""
 "Cannot find required columns: %1","Impossible de trouver la colonne requise : %1"
 "Cannot flush the ""%1"" file. %2","Impossible de purger le fichier ""%1"". %2"
+"Cannot gather stats! %1","Impossible de rassembler les statistiques ! %1"
 "Cannot get access token because consumer token is not a request token","Impossible d'obtenir le jeton d'accès car l'API n'est pas une requête identifiable"
 "Cannot get autoincrement value","Impossible d'obtenir la valeur d'incrémentation automatique"
 "Cannot get secure form URL from PayPal","Impossible d'obtenir l'URL du formulaire sécurisé provenant de PayPal"
@@ -1573,6 +1587,7 @@ Columns,Colonnes
 Comma-separated,"Séparées par des virgules"
 Comma-separated.,"Séparées par des virgules."
 "Command %1 does not exist.","La commande %1 n'existe pas."
+"Command returned non-zero exit code:\n`%1`","La commande a retourné une sortie avec le code non-zero : \n`%1`"
 Comment,Commentaire
 Comment:,"Commentaire :"
 "Comment: %1<br/>","Commentaire : %1<br>"
@@ -2106,6 +2121,7 @@ Default,"Par défaut"
 "Default website is not defined","Le site web par défaut n'est pas défini"
 "Default welcome msg!","Message de bienvenue par défaut !"
 "Defines whether a link to My Account","Détermine l'affichage d'un lien vers ""Mon Compte"""
+"Delay in minutes between password reset requests. Use 0 to disable.","Durée en minutes entre les demandes de réinitialisation du mot de passe. Utilisez 0 pour désactiver."
 Delete,Supprimer
 "Delete ""${ $.$data.title }""","Supprimer ""${ $.$data.title }"""
 "Delete ${ $.$data.title }","Supprimer ${ $.$data.title }"
@@ -2150,6 +2166,7 @@ Delete,Supprimer
 "Deleted Stores","Boutiques effacées"
 "Delete image","Effacer l'image"
 "Delete items","Supprimer les éléments"
+"Delete operation is forbidden for current area","Opération de suppression interdite"
 "Delete selected items?","Supprimer les éléments sélectionnés ?"
 "Delete video","Supprimer la vidéo"
 "Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","Effacer un %1 n'effacera pas les informations associées avec le %1 (par ex. catégories, produits, etc.), mais il ne sera pas possible de restaurer le %1. Nous vous suggérons de créer une sauvegarde de la base de données avant d'effacer le %1."
@@ -2161,6 +2178,7 @@ Delete,Supprimer
 "Deny Payment","Refus de paiement"
 "Depends on design theme","Dépendant du thème de design"
 "Depends on design theme.","Dépendant du thème de design"
+"Deployment config file %1 is not writable.","Le fichier de configuration de déploiement %1 ne peut être écrit."
 "Deployment configuration file is not writable.","Le fichier de configuration du déploiement n'est pas accessible en écriture."
 Depth,Profondeur
 Description,Description
@@ -2414,11 +2432,13 @@ Emails,Emails
 Empty,Vide
 "Empty Rows","Lignes Vides"
 "Empty Value.","Valeur vide."
+"Empty array of node information","Tableau vide d'informations noeud"
 "Empty attribute code","Code d'attribut vide"
 "Empty custom option title.","Titre option personnalisée vide."
 "Empty fields","Champs vides"
 "Empty host specified","Hôte vide"
 "Empty keys array","Clés de tableau vides"
+"Empty main table name","Nom de la table principale vide"
 "Empty response","Réponse vide"
 Enable,Activer
 "Enable ""Remember Me""","Activer ""Se souvenir de moi"""
@@ -2541,6 +2561,7 @@ Error:,"Erreur :"
 Europack,Europack
 "Europe First Priority","Prioritaire Europe"
 "European Union Countries","Pays de l'Union Européenne"
+"Europe bank account","Compte bancaire Européen"
 Event,Événement
 "Event Code","Code Événement"
 "Every 3 days","Tous les 3 jours"
@@ -2593,6 +2614,7 @@ Export,Exporter
 "Export Tax Rates","Exporter les taux"
 "Export VCL","Export VCL"
 "Export VCL for Varnish ","Exporter le VCL pour Varnish "
+"Export VCL for Varnish %1","Export VCL pour Varnish %1"
 "Export block for grid %1 is not defined","Le bloc d'export pour la grille %1 n'est pas défini"
 "Exported %1 rows.","%1 lignes exportées."
 "Export has been done.","Export effectué."
@@ -2625,8 +2647,12 @@ FTP,FTP
 "FTP credentials","Informations de connexion FTP"
 Failed,échec.
 "Failed to create backup","Echec lors de la création de la sauvegarde"
+"Failed to create directory %1","Impossible de créer le répertoire %1"
+"Failed to delete %1 synonym group(s).","Impossible de supprimer le(s) groupe(s) de synonymes %1."
 "Failed to load template. See error log for details.","Impossible de charger le gabarit. Veuillez consulter les logs pour plus de détails."
+"Failed to open file %1","Impossible d'ouvrir le fichier %1"
 "Failed to parse xml document: %1","Impossible de parcourir le document xml : %1"
+"Failed to read data from %1","Impossible de lire les données depuis %1"
 "Failed to rollback","Échec de la restauration"
 "Failed to rollback.","Échec de la restauration."
 "Failed to save new media gallery entry.","Échec de l'enregistrement de  la galerie."
@@ -2634,6 +2660,7 @@ Failed,échec.
 "Failed to validate FTP","Echec de la validation FTP"
 "Failed to validate FTP.","Echec de la validation FTP."
 "Failed to validate ftp account","Impossible de valider le compte ftp"
+"Failed to write data to %1","Ecriture des données impossible vers %1"
 "Failure #1","Échec #1"
 "Failure #2","Échec #2"
 "Failure History Lifetime","Durée de vie de l'historique des échecs"
@@ -2749,6 +2776,7 @@ Fixed,Fixé
 "Fixed amount discount","Remise d'une valeur fixe"
 "Fixed amount discount for whole cart","Remise d'un montant fixe pour l'ensemble du panier"
 Fixer.io,Fixer.io
+"Fixture String","Chaîne exemple"
 Flat,Plat
 "Flat-Rate Box","Boîte taux fixe"
 "Flat-Rate Envelope","Enveloppe taux fixe"
@@ -2837,6 +2865,7 @@ Gallery,Galerie
 "Gateway XML URL","URL XML de passerelle"
 "Gateway actions are locked because the gateway cannot complete ' 'one or more of the transactions. ' 'Please log in to your Authorize.Net account to manually resolve the issue(s).","Les actions ont été verrouillées car elles n'ont pu être terminées. Veuillez vous connecter à votre compte authorize.Net pour les corriger manuellement."
 "Gateway error: %1","Erreur passerelle: %1"
+"Gateway rejected","Passerelle rejetée"
 Gender,Genre
 "Gender is required.","Le genre est obligatoire."
 General,Général
@@ -2992,6 +3021,8 @@ Help,Aide
 Helper,Helper
 "Helper arguments should not be used in custom layout updates.","Les arguments du Helper ne peuvent être utilisées dans les custom layout updates."
 "Helper instance cannot be redefined.","L'instance du Helper ne peut être redéfinie."
+"Helper instance is not defined yet.","Instance du helper non définie."
+"Here are the products you're about to create.","Voici les produits que vous êtes sur le point de créer."
 Hidden,Caché
 "Hidden Virtual PayPal Debit Card Transaction","Transaction virtuelle PayPal de débit de carte de paiement"
 "Hide Customer IP","Masquer l'adresse IP du client"
@@ -5619,6 +5650,7 @@ Set,Réglage
 "Set Ascending Direction","Par ordre croissant"
 "Set Descending Direction","Par ordre décroissant"
 "Set Items' Status to be In Stock When Order is Cancelled","Passer le statut des articles à Disponible"" quand une commande est annulée"""
+"Set Product as New From","Définir le produit comme nouveau à partir de"
 "Set Product as New from Date","Nouveauté depuis le"
 "Set Product as New to Date","Nouveauté jusqu'au"
 "Set Return-Path","Renseigner le chemin de retour"
@@ -6322,6 +6354,8 @@ Text,Texte
 "The address has been saved.","L'adresse a été sauvegardée."
 "The address model is not defined.","Le modèle d'adresse n'est pas défini."
 "The address total model should be extended from \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.","Le modèle total adresse doit étendre MagentoQuoteModelQuoteAddressTotalAbstractTotal."
+"The address total model should be extended from
+                    \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.","Le modèle du total de l'adresse doit étendre \Magento\Quote\Model\Quote\Address\Total\AbstractTotal."
 "The archive can be uncompressed with <a href=""%1"">%2</a> on Windows systems.","L'archive peut être décompressé avec <a href=""%1"">%2</a> sur les systèmes Windows."
 "The attribute code '%1' is reserved by system. Please try another attribute code","Le code d'attribut '%1' est réservé par le système. Veuillez essayez un autre code d'attribut"
 "The attribute code \'%1\' is reserved by system. Please try another attribute code","Le code d\'attribut \'%1\' est réservé par le système. Veuillez essayez un autre code d\'attribut"
@@ -6329,6 +6363,9 @@ Text,Texte
 "The attribute set has been removed.","Le jeu d'attributs a été supprimé."
 "The authorize action is not available.","L'action d'autorisation n'est pas disponible."
 "The authorized amount is %1.","Le montant autorisé est %1."
+"
+                                    The background color for the checkout page around the header and payment form.
+                                ","Couleur de fond de la page de paiement autour de l'en-tête et du formulaire de paiement."
 "The backup file ""%1"" does not exist.","Le fichier de sauvegarde ""%1"" n'existe pas."
 "The backup file does not exist.","Il n'existe pas de fichier de sauvegarde."
 "The backup file handler was unspecified.","Le gestionnaire de fichier de sauvegarde n'a pas été spécifié."
@@ -6386,7 +6423,11 @@ Text,Texte
 "The default number of child authorizations in your PayPal account is 1. To do multiple authorizations please contact PayPal to request an increase.","Le nombre par défaut d'autorisations enfants dans votre compte PayPal est de 1. Veuillez contacter PayPal pour demander une augmentation."
 "The destination directory is not writable.","Le répertoire de destination n'est pas accessible en écriture."
 "The destination file path must be a string.","Le chemin du fichier de destination doit être une chaîne."
+"The directory ""%1"" cannot be deleted %2","Le répertoire ""%1"" ne peut être supprimé %2"
 "The directory %1 is not writable by server.","Le répertoire %1 n'a pas les droits d'écriture sur le serveur."
+"The element '%1' already a child of '%2'","L'élément '%1' est déjà l'enfant de '%2'"
+"The element '%1' already has a child with alias '%2'","L'élément '%1' possède déjà un enfant avec l'alias '%2'"
+"The element '%1' already has a parent: '%2'","L'élément '%1' possède déjà le parent: '%2'"
 "The email address is empty.","L'email est vide."
 "The email template has been deleted.","Le gabarit d'email a été supprimé."
 "The email template has been saved.","Le gabarit d'email a été sauvegardé."
@@ -6402,6 +6443,7 @@ Text,Texte
 "The field isn't complete.","Champ incomplet."
 "The field isn\'t complete.","Champ incomplet."
 "The file ""%1"" already exists","Le fichier ""%1"" existe déjà"
+"The file ""%1"" cannot be deleted %2","Le fichier ""%1"" ne peut être supprimé %2"
 "The file ""%1"" doesn't exist","Fichier ""%1"" inexistant"
 "The file ""%1"" doesn't exist or not a file","Le fichier ""%1"" est inexistant ou n'est pas un fichier"
 "The file ""%1"" does not exist","Fichier ""%1"" inexistant"
@@ -6413,6 +6455,7 @@ Text,Texte
 "The file is valid, but we can't import it for some reason.","Le fichier est valide, mais nous ne pouvons pas l'importer pour une raison inconnue."
 "The file is valid, but we can\'t import it for some reason.","Le fichier est valide, mais nous ne pouvons pas l\'importer pour une raison inconnue."
 "The file options format is not valid.","Le format du fichier des options est invalide."
+"The file or directory ""%1"" cannot be copied to ""%2"" %3","Le fichier ou le répertoire ""%1"" ne peut être copié vers ""%2"" %3"
 "The file or directory ""%1"" cannot be touched %2","Le fichier ou le répertoire ""%1"" ne peut être crée %2"
 "The file upload failed.","Le chargement du fichier a échoué."
 "The file was not uploaded.","Le fichier n'a pas été chargé."
