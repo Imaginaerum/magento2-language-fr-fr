@@ -422,6 +422,7 @@ Active,Actif
 "Active To","Actif jusque"
 "Active filters:","Filtres actifs :"
 "Actual Price","Prix actuel"
+"A custom attribute is specified without an attribute code.","Un attribut personnalisé est spécifié sans code."
 "A customer website ID must be specified when using the website scope.","Un ID client du site web doit être spécifié lors de l'utilisation de la portée site web."
 "A customer with the same email already exists in an associated website.","Un client avec le même email existe déjà dans un site web associé."
 "Adapter must be an instance of \Magento\ImportExport\Model\Import\AbstractSource","Adapter doit être une instance de \Magento\ImportExport\Model\Import\AbstractSource"
@@ -569,6 +570,7 @@ Addresses,Adresses
 "Adjustment Refund","Remboursement des frais de dossier"
 Admin,Admin
 "Admin 1column","Admin 1 colonne"
+"Admin Account Sharing","Partage de compte administrateur"
 "Admin Accounts Locks","Comptes admin bloqués"
 "Admin Base URL","URL de Base de l'Admin"
 "Admin Session Lifetime (seconds)","Durée de Vie de la Session Admin (en secondes)"
@@ -610,6 +612,7 @@ All,Tous
 "All Cache","Tous les caches"
 "All Countries","Tous les pays"
 "All Customers","Tous les clients"
+"All Empty Layout Pages","Toutes les dispositions de page vides"
 "All Files","Tous les fichiers"
 "All Pages","Toutes les pages"
 "All Product Types","Tous les types de produits"
@@ -701,6 +704,7 @@ Amount,Montant
 Amounts,Montants
 "A name is required.","Un nom est requis."
 "An amount of %1 will be captured after being approved at the payment gateway.","Un montant de %1 sera capturé après l’approbation de la passerelle de paiement."
+"An array expected: %1","Tableau prévu: %1"
 "An attribute code must not be more than %1 characters.","Un code d'attribut ne doit pas contenir plus de %1 caractères."
 "An attribute group named ""/name/"" already exists"".","Un groupe d\'attributs ""/name/"" existe déjà""."
 "An attribute has been removed. This attribute will no longer appear in your configurations.","Un attribut a été supprimé. Cet attribut n\'apparaîtra plus dans vos configurations."
@@ -710,6 +714,7 @@ Amounts,Montants
 "An attribute set with the ""%1"" name already exists.","Le jeu d'attributs ""%1"" existe déjà."
 "An attribute with the same code (%1) already exists.","Un attribut avec le même code (%1) existe déjà."
 "An attribute with this code already exists.","Un attribut avec ce code existe déjà."
+"An authentication error occurred.","Une erreur d'authentification est survenue."
 Anchor,Ancre
 "Anchor Categories","Catégorie ancrée"
 "Anchor Custom Text","Présenter un texte personnalisé"
@@ -720,6 +725,7 @@ Anchor,Ancre
 "Anchor symbol (#) is not supported in request path.","Le symbole Ancre (""#"") n'est pas supporté dans le chemin de la requête."
 "Anchor symbol (#) is not supported in url rewrite suffix.","Le symbole Ancre (""#"") n'est pas supporté dans le suffixe de la réécriture d'URL."
 "Android pay card","Carte de paiement Android"
+"An error occured with payment processing.","Une erreur est survenue lors du traitement de paiement."
 "An error occurred","Une erreur est survenue"
 "An error occurred. The email template can not be opened for preview.","Une erreur s'est produite. Le gabarit d'email ne peut pas être ouvert pour aperçu."
 "An error occurred validating the nonce","Une erreur est survenue lors de la validation du jeton"
@@ -3121,6 +3127,8 @@ Interval,Intervalle
 "Invalid Credit Card Data provided","Données de carte de crédit invalides"
 "Invalid Credit Card Number","Numéro de carte bancaire invalide"
 "Invalid Customer ID provided","ID client invalide"
+"Invalid Document %1%2","Document invalide %1%2"
+"Invalid Document: %1%2 Error: %3","Document invalide %1%2 Erreur: %3"
 "Invalid EAV attribute","Attribut EAV invalide"
 "Invalid Form Key. Please refresh the page.","Clé de formulaire invalide. Veuillez actualiser la page."
 "Invalid Rejected Callback URL","URL de rappel rejeté invalide"
@@ -3128,6 +3136,7 @@ Interval,Intervalle
 "Invalid Sender Information","Les informations conçernant l'expéditeur sont invalides"
 "Invalid URL '%value%'.","URL invalide '%value%'."
 "Invalid XML","XML invalide"
+"Invalid XML-file: %1%2%3","Fichier XML invalide: %1%2%3"
 "Invalid XML: Detected use of illegal DOCTYPE","XML invalide : détection d'une utilisation illégale de DOCTYPE"
 "Invalid XML in file %1:\n%2","XML invalide dans le fichier %1 : n%2"
 "Invalid address id %1","L'identifiant de l'adresse %1 est invalide"
@@ -3148,6 +3157,7 @@ Invalidated,Invalidé
 "Invalid carrier: %1","Transporteur invalide : %1"
 "Invalid character encountered in increment ID: %1","Caractère invalide trouvé dans l'ID d'incrément: %1"
 "Invalid confirmation token","Confirmation de permission Invalide"
+"Invalid connection","Connexion invalide"
 "Invalid cookie lifetime: %1","Durée de vie du cookie invalide : %1"
 "Invalid cookie path","Chemin du cookie invalide"
 "Invalid cron expression, expecting 'from-to' structure: %1","Expression du CRON invalide, structure ""de-à"" attendu : %1"
@@ -3180,11 +3190,14 @@ Invalidated,Invalidé
 "Invalid entity supplied: %1","L'entité est invalide : %1"
 "Invalid entity type","Type d'entité invalide"
 "Invalid export type supplied for grid export block","Le type d'exportation est invalide"
+"Invalid field type","Type de champ invalide"
 "Invalid file format.","Format de fichier invalide."
+"Invalid file transfer mode","Mode de transfert de fichier invalide"
 "Invalid file upload attempt","Import de fichier non valide"
 "Invalid file upload attempt.","Import de fichier non valide."
 "Invalid foreign key","Clé étrangère invalide"
 "Invalid format.","Format invalide."
+"Invalid format of children: %1","Format de l'enfant invalide: %1"
 "Invalid form type.","Type de formulaire invalide."
 "Invalid input","Saisie invalide"
 "Invalid item option format.","Format d'option d'élément invalide."
@@ -8065,6 +8078,7 @@ edit,modifier
 "element tooltip","élément infobulle"
 email,"Email :"
 "email us at ","nous envoyer un email à "
+ending,fin
 "enter your billing address for proper VAT calculation","entrez votre adresse de facturation pour un calcul correct de la TVA"
 "enter your shipping address for proper VAT calculation","entrez votre adresse de livraison pour un calcul de la TVA appropriée"
 entity_label_1,entity_label_1
@@ -8081,6 +8095,8 @@ error_message,error_message
 "example: ""sitemap/"" or ""/"" for base path (path must be writeable)","exemple : ""/sitemap/"" ou ""/"" pour le chemin de base (le chemin doit être accessible en écriture)"
 "example: sitemap.xml","exemple : sitemap.xml"
 exception,exception
+"exec function is disabled.","la fonction exec est desactivée."
+expires,expiration
 failed,échec
 failed.,échec.
 fl,fl
@@ -8118,6 +8134,7 @@ label_value,label_value
 lb,lb
 lbs,lbs
 "less than","est inférieur(e) à"
+liabilityShiftPossible,liabilityShiftPossible
 liabilityShifted,liabilityShifted
 "localized exception","localized exception"
 major,majeur
@@ -8137,6 +8154,7 @@ of,sur
 options,Options
 or,ou
 "or ","ou "
+"or call us at %store_phone","ou appelez nous au %store_phone"
 "or call us at <a href=""tel:%store_phone"">%store_phone</a>","ou nous contacter par téléphone au <a href=""tel:%store_phone"">%store_phone</a>"
 order-header,order-header
 password,"mot de passe"
@@ -8162,6 +8180,7 @@ save,enregistrer
 "see error log for details","consultez le journal des logs pour plus de détails"
 "select all","sélectionner tout"
 selected,sélectionné
+"simple text","simple texte"
 some_comment,some_comment
 some_label,some_label
 "some error","une erreur"
@@ -8172,12 +8191,17 @@ some_label,some_label
 "start typing to search template","commencez à saisir pour rechercher un gabarit"
 status,statut
 "store(%1) scope","portée de la boutique (%1)"
+"string with placeholder in double quotes ""%1""","chaîne avec un espace réservé entouré de doubles guillemets ""%1"""
+"string with placeholder in escaped double quotes ""%1""","chaîne avec un espace réservé entouré de doubles guillemets ""%1"" (échappés)"
+"string with placeholder in escaped single quotes '%1'","chaîne avec un espace réservé entouré de simples guillemets '%1' (échappés)"
+"string with placeholder in single quotes '%1'","chaîne avec un espace réservé entouré de simples guillemets '%1'"
 successful,succès
 successful.,succès.
 test,test
 test2,test2
 testMessage,testMessage
 "test message","message test"
+"text ""some","du ""texte"
 "text double quote","texte double guillemets"
 "text single quote","texte simple guillemet"
 "the credit memo email is not sent","l'email n'a pas été envoyé"
