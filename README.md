@@ -1,4 +1,4 @@
-# Magento 2 French Language Pack v100.6.14
+# Magento 2 French Language Pack v100.6.15
 
 French translation for Magento 2. Translation fr_FR (French France).
 
@@ -58,4 +58,4 @@ Create folder your-magento-path/app/i18n/imaginaerum/fr_fr and extract zip into 
 
 | Total | Translated | Left | Progression |
 | -------------: | -----------------------: | -----------------------: | :---------: |
-| 8748 | 8260 | 488 | ![Progress](http://progressed.io/bar/94) |
+| 8748 | 8274 | 474 | ![Progress](http://progressed.io/bar/94) |
