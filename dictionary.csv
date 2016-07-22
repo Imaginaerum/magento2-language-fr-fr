@@ -1258,6 +1258,7 @@ Cancelled,Annulé
 "Cannot delete attributeGroup with id %1","Suppression du jeu d'attributs id %1 impossible"
 "Cannot delete category with id %1","Vous ne pouvez pas supprimer la catégorie id %1"
 "Cannot delete group.","Suppression impossible du groupe de clients."
+"Cannot delete link with id %1","Impossible de supprimer le lien id %1"
 "Cannot delete option with id %1","Impossible de supprimer l'option ID %1"
 "Cannot delete option with id: %1","Impossible de supprimer l'option ID %1"
 "Cannot delete the design change.","Impossible de supprimer le changement de design."
@@ -2257,7 +2258,7 @@ Edit,Modifier
 "Edit Condition","Modifier la condition"
 "Edit Configurations","Modifier les configurations"
 "Edit Credit Card","Modifier la carte bancaire"
-"Edit Customer","Editer le client"
+"Edit Customer","Éditer le client"
 "Edit Customer's Address","Modifier l'adresse du client"
 "Edit Customer Group ""%1""","Modifier le groupe de clients ""%1"""
 "Edit Customer Groups","Modifier les groupes de client"
@@ -2294,7 +2295,7 @@ Edit,Modifier
 "Edit Store","Modifier la boutique"
 "Edit Store Design Change","Modifier le changement de design de la boutique"
 "Edit Store View","Modifier la vue magasin"
-"Edit Synonym Group","Editer le groupe de synonymes"
+"Edit Synonym Group","Éditer le groupe de synonymes"
 "Edit System Template","Modifier le gabarit système"
 "Edit Tax Rate","Modifier le taux de la taxe"
 "Edit Template","Modifier le gabarit"
@@ -2351,6 +2352,7 @@ Empty,Vide
 "Empty attribute code","Code d'attribut vide"
 "Empty custom option title.","Titre option personnalisée vide."
 "Empty fields","Champs vides"
+"Empty host specified","Hôte vide"
 "Empty response","Réponse vide"
 Enable,Activer
 "Enable ""Remember Me""","Activer ""Se souvenir de moi"""
@@ -2372,6 +2374,7 @@ Enable,Activer
 "Enable Discount to Subproducts","Activer les remises sur les sous-produits"
 "Enable Express Checkout","Activer Express Checkout"
 "Enable FPT","Activer les TFP"
+"Enable Free Shipping Threshold","Activer le seuil de livraison gratuite"
 "Enable JavaScript Bundling","Activer la concaténation des fichiers JavaScript"
 "Enable JavaScript in your browser to get the best experience on our website!","Activez JavaScript dans votre navigateur pour obtenir la meilleure expérience utilisateur sur notre site !"
 "Enable Javascript Bundling","Activer la concaténation des fichiers JavaScript"
@@ -2555,6 +2558,7 @@ FTP,FTP
 "FTP Password","Mot de passe FTP"
 "FTP credentials","Informations de connexion FTP"
 Failed,échec.
+"Failed to create backup","Echec lors de la création de la sauvegarde"
 "Failed to load template. See error log for details.","Impossible de charger le gabarit. Veuillez consulter les logs pour plus de détails."
 "Failed to parse xml document: %1","Impossible de parcourir le document xml : %1"
 "Failed to rollback","Échec de la restauration"
@@ -3005,6 +3009,7 @@ Image,Image
 "Image Processing Settings","Paramètres de traitement d'image"
 "Image Resolution","Résolution de l'image"
 "Image Size","Taille de l'image"
+"Image can not be saved.","Sauvegarde image impossible."
 Images,Images
 "Images (%1)","Images (%1)"
 "Images (.gif, .jpg, .png)","Images (.gif, .jpg, .png)"
@@ -3326,9 +3331,11 @@ Jetline,Jetline
 "Jot us a note and we’ll get back to you as quickly as possible.","N'hésitez pas à nous contacter, nous vous répondrons au plus vite."
 "Jumbo box","Jumbo box"
 Key,Clé
+"Key must not exceed %1 bytes.","La clé ne peut excéder %1 octets."
 Keyword,"Mot clé"
 Keywords,"Mots clés"
 Kilograms,Kilogrammes
+"Kount Merchant ID","ID marchand Kount"
 Label,Libellé
 Labels,Libellés
 Language,Langue
@@ -3434,6 +3441,7 @@ LocalizedException,LocalizedException
 "Localized Exception","Localized Exception"
 "Localized Exception.","Localized Exception."
 Location,Lieu
+Locked,Vérrouillé
 "Locked Users","Utilisateurs bloqués"
 "Lockout Time (minutes)","Durée de blocage (minutes)"
 "Log In","Se connecter"
@@ -3468,8 +3476,10 @@ Machinable,Usinable
 Magento,Magento
 "Magento Admin","Admin Magento"
 "Magento Admin Panel","Panneau d'administration de Magento"
+"Magento Connect","Magento Connect"
 "Magento Marketplace","Marketplace Magento"
 "Magento Web API","API web Magento"
+Magento_Ui/js/dynamic-rows/record,Magento_Ui/js/dynamic-rows/record
 "Magento has a thriving ecosystem of technology partners to help merchants and brands deliver the best possible customer experiences. They are recognized as experts in eCommerce, search, email marketing, payments, tax, fraud, optimization and analytics, fulfillment, and more. Visit the Magento Partner Directory to see all of our trusted partners.","Magento possède un riche écosystème de partenaires technologiques afin d'aider les marchands et les marques à offrir les meilleurs expériences client possibles. Ils sont reconnus comme experts dans les domaine du eCommerce, recherche, email marketing, paiements, taxes, fraudes, optimisations et analyses, réalisations et plus encore. Visitez notre annuaire pour voir tous les partenaires de confiance."
 "Magento is not yet installed","Magento n'est pas installé"
 "Magento root directory","Répertoire racine de Magento"
@@ -3516,6 +3526,7 @@ Manage,Gérer
 "Manage Tax Rules","Gérer les règles de taxes"
 "Manage Titles (Size, Color, etc.)","Gérer les titres (taille, couleur, etc.)"
 "Manage Widget Instances","Gérer les instances de widgets"
+"Manage carts","Gérer les paniers"
 Manual,Manuel
 Manually,Manuellement
 "Mark as Read","Marquer comme lu"
@@ -3573,11 +3584,13 @@ Marketing,Marketing
 "May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","Peut être vide ou commencer par la variable {{secure_base_url}} ou {{unsecure_base_url}}."
 "May be empty or start with {{unsecure_base_url}} placeholder.","Peut être vide ou commencer par la variable {{unsecure_base_url}}."
 "Media (.avi, .flv, .swf)","Média (.avi, .flv, .swf)"
+"Media Gallery","Galerie de médias"
 "Media Gallery converter should be an instance of EntryConverterInterface.","Le convertisseur Media Gallery doit être une instance de EntryConverterInterface."
 "Media Image",Image
 "Media Mail","Courrier média"
 "Media Storage","Stockage des médias"
 "Medical express","Médical express"
+Medium,Moyen
 "Medium Express Box","Boite Express Medium"
 "Memo Total","Total de l'avoir"
 Menu,Menu
@@ -3605,6 +3618,8 @@ Message:,"Message :"
 "Message from %sender_name:","Message de la part de %sender_name :"
 "Message length must not exceed %1 symbols","La longueur du message ne peut pas dépasser %1 caractères"
 "Messages Inbox","Boîte de réception"
+"Message with ""%1"" and ""%2""","Message avec ""%1"" et ""%2"""
+"Message with period.","Message avec la période."
 "Meta Data","Données méta"
 "Meta Description","Méta description"
 "Meta Keywords","Mots-clés meta"
@@ -3697,6 +3712,7 @@ N/A,N/A
 "N/A. The merchant has not implemented CVV2 code handling","N/A. Le marchand n'a pas mis en œuvre de code CVV2"
 "N/A. Unavailable","N/A. Indisponible"
 "NOT FOUND","ABSENT DU"
+"NOT LOGGED IN","NON CONNECTÉ"
 Name,Nom
 Name:,"Nom :"
 "Name: %name","Nom: %name"
@@ -3714,6 +3730,7 @@ Never,Jamais
 New,Nouveau
 "New ","Nouveau "
 "New %1","Nouveau %1"
+"New %changes for %user_name","Nouveau: %changes pour %user_name"
 "New Accounts","Nouveaux comptes"
 "New Accounts Report","Rapport des nouveaux comptes"
 "New Address","Nouvelle adresse"
@@ -4530,8 +4547,10 @@ Phrase,Phrase
 "Please enter your email below and we will send you the confirmation link.","Veuillez entrer votre email ci-dessous pour recevoir le lien de confirmation."
 "Please enter your email below and we will send you the confirmation link for it.","Veuillez saisir votre email. Nous vous ferons parvenir un lien de confirmation."
 "Please enter {0} words or less.","Veuillez renseigner {0} mots ou moins."
+"Please fill-in correct values.","Veuillez saisir des valeurs correctes."
 "Please fill all required fields with valid information.","Veuillez remplir les champs requis avec des données valides."
 "Please fill in the values for the section ","Veuillez remplir les valeurs pour la section "
+"Please fill in the values for {section} section.","Veuillez saisir des valeurs dans la section {section}."
 "Please fix errors and re-upload file.","Veuillez corriger les erreurs et recharger le fichier."
 "Please fix errors and re-upload file or simply press ""Import"" button' ' to skip rows with errors","Veuillez corriger les erreurs et recharger le fichier ou cliquez sur le bouton ""import"" pour ignorer les lignes avec des erreurs"
 "Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Veuillez vous rendre dans la <a href=""%1"">Gestion du cache</a> et rafraîchir tous les types de cache."
@@ -4923,7 +4942,7 @@ Properties,Propriétés
 "Public In RSS Feed","Public dans le Flux RSS"
 "Public Key","Clé Publique"
 "Public content cache lifetime in seconds. If field is empty default value 86400 will be saved. ","Durée de vie du cache en secondes des contenus publiques. Si ce champ est vide la valeur par défaut ""86400"" sera utilisée. "
-"Publisher ID","ID Editeur"
+"Publisher ID","ID Éditeur"
 "Purchase Date","Date d'achat"
 "Purchase Order","Bon de commande"
 "Purchase Order Number","Numéro de bon de commande"
@@ -7109,7 +7128,7 @@ Vendor,Vendeur
 "Video not found","Vidéo introuvable"
 View,Voir
 "View ""%1"" Integration","Voir ""%1"" Intégration"
-View/Edit,Voir/Editer
+View/Edit,Voir/Éditer
 "View All","Tout voir"
 "View All Reviews","Voir tous les commentaires"
 "View Another Order","Voir une autre commande"
@@ -7556,6 +7575,7 @@ Websites,"Sites web"
 "We couldn't find this wish list.","Nous ne pouvons pas trouver cette liste d'envies."
 "We couldn't finish the billing agreement wizard.","Nous n'avons pu terminer l'assistant d'entente de facturation."
 "We couldn't import this file because of these errors: %1","Impossible d'importer ce fichier à cause des erreurs suivantes : %1"
+"We couldn't logout because of an error.","Déconnexion impossible suite à une erreur."
 "We couldn't mark the notification as Read because of an error.","Nous ne pouvons pas marquer la notification comme lue suite à une erreur."
 "We couldn't move this file: %1.","Nous n'avons pu déplacer ce fichier : %1."
 "We couldn't process your order right now. Please try again later.","Nous ne pouvons pas traiter votre commande maintenant. Veuillez réessayer ultérieurement."
@@ -7569,6 +7589,7 @@ Websites,"Sites web"
 "We couldn\'t find any records.","Aucun enregistrement trouvé."
 "We couldn\'t finish the billing agreement wizard.","Nous n\'avons pu terminer l\'assistant d\'entente de facturation."
 "We couldn\'t import this file because of these errors: %1","Impossible d\'importer ce fichier à cause des erreurs suivantes : %1"
+"We couldn\'t logout because of an error.","Déconnexion impossible suite à une erreur."
 "We couldn\'t move this file: %1.","Nous n\'avons pu déplacer ce fichier : %1."
 "We could not add a product to cart by the ID ""%1"".","Impossible d'ajouter le produit avec l'ID ""%1"" au panier."
 "We could not cancel the billing agreement.","Impossible d'annuler cet accord de facturation."
@@ -7709,6 +7730,7 @@ Wishlist,"Liste d'envies"
 "Wrong attribute group ID","Mauvais identifiant de groupe d'attributs"
 "Wrong attribute set ID","Mauvais identifiant de jeu d'attributs"
 "Wrong attribute set id provided","Mauvais ID pour le jeu d'attributs"
+"Wrong configuration for type %1","Mauvais type de configuration %1"
 "Wrong email.","Email erroné."
 "Wrong entity ID","Mauvais identifiant d'entité"
 "Wrong file info format","Mauvais format d'informations de fichier"
@@ -7716,6 +7738,7 @@ Wishlist,"Liste d'envies"
 "Wrong message type","Mauvais type de message"
 "Wrong minimum amount.","Montant minimum incorrect."
 "Wrong notification ID specified.","Mauvais ID de notification spécifié."
+"Wrong request.","Mauvaise requête."
 "Wrong rule specified.","Mauvaise règle spécifiée."
 "Wrong transactional account email type","Le type d'email de compte transactionnel est erroné"
 "XML Sitemap","Plan de site XML"
@@ -7938,6 +7961,7 @@ Yes/No,Oui/Non
 "Your Tax ID cannot be validated.","Votre numéro de TVA ne peut pas être validé."
 "Your VAT ID was successfully validated.","Votre numéro de TVA a bien été validé."
 "Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx","Le code postal doit être compris entre 902xx-xxxx et 905-xx-xxxx"
+"Your account is temporarily disabled.","Votre compte est temporairement désactivé."
 "Your billing agreement # is: ","Votre identifiant d'entente de facturation est : "
 "Your coupon was successfully applied","Coupon appliqué"
 "Your coupon was successfully applied.","Coupon appliqué"
@@ -7946,6 +7970,7 @@ Yes/No,Oui/Non
 "Your credit card has been declined. You can click OK to add another credit card to complete your purchase. Or you can cancel this credit transaction and pay a different way.","Votre carte de crédit a été refusée. Vous pouvez cliquer sur OK pour ajouter une autre carte de crédit afin d'effectuer l'achat, ou vous pouvez annuler cette opération et choisir un autre moyen de paiement."
 "Your credit card will be charged for","Votre carte de crédit sera débitée de"
 "Your current currency is: %1.","La devise actuelle est : %1."
+"Your current session has been expired.","Votre session a expirée."
 "Your design change for the specified store intersects with another one, please specify another date range.","Votre changement de design pour la boutique spécifiée interfère avec une autre boutique. Spécifiez une autre tranche de dates."
 "You refreshed lifetime statistics.","Statistiques rafraîchies."
 "You released the order from holding status.","La commande est débloquée."
@@ -8125,6 +8150,8 @@ exception,exception
 expires,expiration
 failed,échec
 failed.,échec.
+"first part second part","première partie seconde partie"
+"first part second part third part","première partie seconde partie troisième partie"
 fl,fl
 " for more information or "," pour plus d'information ou "
 frontend_label,frontend_label
