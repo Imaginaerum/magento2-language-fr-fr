@@ -159,8 +159,8 @@
 "* - Enter custom price including tax","* - Saisissez le prix toutes taxes comprises"
 "* Required Fields","* Champs requis"
 "-- No Theme --","-- aucun thème --"
-"-- Please Select --","-- Faire un choix --"
 "--Please Select--","-- Faire un choix --"
+"-- Please Select --","-- Faire un choix --"
 "-- Please Select Billing Agreement--","-- Veuillez choisir une entente de facturation--"
 "-- Please Select a Category --","-- Veuillez sélectionner une catégorie --"
 "--Please select--","-- Faire un choix --"
@@ -205,23 +205,11 @@
 "<a href=""%1"" onclick=""this.target=\'_blank\'"" class=""print"">Print receipt</a>","<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Imprimer le reçu</a>"
 "<a href=""%1"" onclick=""this.target=\'blank\'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>","<a href=""%1"" onclick=""this.target='blank'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>"
 "
-                                <a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>
-                            ","<a href=""http://www.magentocommerce.com/paypal"">Accepter les paiements via PayPal !</a>"
-"
                         <a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>
                     ","<a href=""http://www.magentocommerce.com/paypal"">Accepter les paiements via PayPal !</a>"
 "
-                            <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
-                                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
-                        ","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br/>
-                                <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit®. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
-                                Utilisez les bannières publicitaires gratuites de PayPal Credit® comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
-                                Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
-                                ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>."
+                                <a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>
+                            ","<a href=""http://www.magentocommerce.com/paypal"">Accepter les paiements via PayPal !</a>"
 "
                                 <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                                             <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
@@ -246,6 +234,18 @@
                                 Utilisez les bannières publicitaires gratuites de PayPal Credit® comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
                                 Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
                                 ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>."
+"
+                            <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
+                        ","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br/>
+                                <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit®. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
+                                Utilisez les bannières publicitaires gratuites de PayPal Credit® comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
+                                Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
+                                ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>."
 "<a href=""https://www.braintreegateway.com/login"" target=""_blank"">Click here to login to your existing Braintree account</a>. Or to setup a new account and accept payments on your website, <a href=""https://apply.braintreegateway.com/signup/us"" target=""_blank"">click here to signup for a Braintree account</a>.","<a href=""https://www.braintreegateway.com/login"" target=""_blank"">Cliquez ici pour vous connecter à votre compte Braintree</a>. Pour créer un compte Braintree, <a href=""https://apply.braintreegateway.com/signup/us"" target=""_blank"">cliquez ici</a>."
 "
                             <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
@@ -255,30 +255,6 @@
                         The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
                         or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
                         ","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br/>
-                                <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit®. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
-                                Utilisez les bannières publicitaires gratuites de PayPal Credit® comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
-                                Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
-                                ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>."
-"
-                            <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
-                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                            or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
-                        ","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br/>
-                                <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit®. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
-                                Utilisez les bannières publicitaires gratuites de PayPal Credit® comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
-                                Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
-                                ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>."
-"
-                    <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                        <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                        from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                        Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
-                        The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                        or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
-                ","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br/>
                                 <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit®. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
                                 Utilisez les bannières publicitaires gratuites de PayPal Credit® comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
                                 Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
@@ -315,6 +291,30 @@
                                 The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
                                 or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
                             ","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br/>
+                                <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit®. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
+                                Utilisez les bannières publicitaires gratuites de PayPal Credit® comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
+                                Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
+                                ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>."
+"
+                            <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                            or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
+                        ","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br/>
+                                <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit®. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
+                                Utilisez les bannières publicitaires gratuites de PayPal Credit® comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
+                                Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
+                                ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>."
+"
+                    <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                        <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                        from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                        Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                        The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                        or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
+                ","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br/>
                                 <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit®. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
                                 Utilisez les bannières publicitaires gratuites de PayPal Credit® comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
                                 Le programme de publicité PayPal a démontré qu'il permettait d'augmenter ses ventes de 15%
@@ -619,8 +619,8 @@ All,Tous
 "All Reviews","Tous les avis"
 "All Reviews of Customer `%1`","Tous les avis du client '%1'"
 "All Reviews of Product `%1`","Tous les avis pour le produit '%1'"
-"All Store Views","Toutes les vues magasin"
 "    All Store Views","Toutes les vues magasin"
+"All Store Views","Toutes les vues magasin"
 "All Stores","Toutes les boutiques"
 "All Users","Tous les utilisateurs"
 "All Websites","Tous les sites web"
@@ -820,14 +820,17 @@ Approved,Approuvé
 "Approved the payment online.","Approuver le paiement en ligne."
 "A problem was encountered trying to change password.","Problème rencontré lors du changement de mot de passe."
 "A product type is not defined for the indexer.","Aucun type de produit n'est défini pour le gestionnaire des index."
+"Area code is already set","Indicatif régional déjà défini"
+"Area code is not set","Indicatif régional non défini"
+"Area code not set: Area code must be set before starting a session.","Indicatif régional non défini: il doit être défini avant de démarrer une session."
 "Area is already set","La zone est déjà initialisée"
 "A reversal has occurred on this transaction because of a customer dispute suspecting unauthorized spoof.","Une retour a eu lieu sur cette opération en raison d'un litige client soupçonné frauduleux et non autorisé."
 "A reversal has occurred on this transaction because you have given the customer a refund.","Un retour a eu lieu sur cette transaction parce que vous avez effectué un  remboursement au client."
 "A reversal has occurred on this transaction due to a chargeback by your customer.","Un retour a eu lieu sur cette transaction en raison d'un rejet de débit par votre client."
 "A reversal has occurred on this transaction due to a complaint about the transaction from your customer.","Un retour a eu lieu sur cette opération en raison d'une réclamation au sujet de la transaction de votre client."
 "A reversal has occurred on this transaction due to your customer triggering a money-back guarantee.","Un retour a eu lieu sur cette transaction en raison du déclenchement d'une garantie de remboursement par votre client."
-"Are you sure?","Êtes-vous sûr(e) ?"
 "Are you sure ?","Êtes-vous sûr(e) ?"
+"Are you sure?","Êtes-vous sûr(e) ?"
 "Are you sure? This order will be canceled and a new one will be created instead.","Êtes-vous sûr(e) ? Cette commande sera annulée et une nouvelle sera créée à la place."
 "Are you sure that you want to delete this template?","Êtes-vous sûr(e) de vouloir supprimer ce gabarit ?"
 "Are you sure that you want to remove this item?","Êtes-vous sûr(e) de vouloir retirer cet article ?"
@@ -2842,8 +2845,8 @@ Global,Global
 "Grand Total (Base)","Total (devise de base)"
 "Grand Total (Excl. Tax)","Total (HT)"
 "Grand Total (Excl.Tax)","Total (HT)"
-"Grand Total (Incl.Tax)","Total (TTC)"
 "Grand Total (Incl. Tax)","Total (TTC)"
+"Grand Total (Incl.Tax)","Total (TTC)"
 "Grand Total (Purchased)","Total (commandé)"
 "Grand Total:","Montant global :"
 "Grand Total Excl. Tax","Total HT"
@@ -4018,8 +4021,8 @@ Options,Options
 Order,Commande
 "Order #","Commande #"
 "Order # ","Commande # "
-"Order # %1","Commande #%1"
 "Order #%1","Commande #%1"
+"Order # %1","Commande #%1"
 "Order # %1 %2 | %3","Commande # %1 %2 | %3"
 "Order #%1 (%2)","Commande #%1 (%2)"
 "Order # %1 Notification(s)","Notification(s) commande #%1"
@@ -5579,8 +5582,8 @@ Show,Afficher
 "Sign Static Files","Signer les fichiers statiques"
 "Sign Up for Newsletter","Abonnez-vous à la lettre d'information"
 "Sign Up for Our Newsletter:","Inscription à notre lettre d'information :"
-"Sign a billing agreement to streamline further purchases  with PayPal.","Signez une entente de facturation afin de rationaliser davantage les achats avec PayPal."
 "Sign a billing agreement to streamline further purchases with PayPal.","Signez une entente de facturation afin de rationaliser davantage les achats avec PayPal."
+"Sign a billing agreement to streamline further purchases  with PayPal.","Signez une entente de facturation afin de rationaliser davantage les achats avec PayPal."
 "Signature Confirmation","Confirmation de signature"
 "Signature Required","Signature obligatoire"
 "Signed-up Point","Point d'inscription"
@@ -5918,8 +5921,8 @@ Subscribers,Abonnés
 Subtotal,Sous-total
 "Subtotal (Excl. Tax)","Sous-total (HT)"
 "Subtotal (Excl.Tax)","Sous-total (HT)"
-"Subtotal (Incl. Tax)","Sous-total (TTC)"
 "Subtotal (Incl.Tax)","Sous-total (TTC)"
+"Subtotal (Incl. Tax)","Sous-total (TTC)"
 Subtotal:,"Sous-total :"
 "Subtotal Excl. Tax","Sous-total HT"
 "Subtotal Incl. Tax","Sous-total TTC"
@@ -6162,6 +6165,8 @@ Text,Texte
 "The field is applicable if the Smart Post method is selected.","Le champ est applicable si le mode Smart Post est choisi."
 "The field isn't complete.","Champ incomplet."
 "The field isn\'t complete.","Champ incomplet."
+"The file ""%1"" already exists","Le fichier ""%1"" existe déjà"
+"The file ""%1"" doesn't exist or not a file","Le fichier ""%1"" est inexistant ou n'est pas un fichier"
 "The file ""%1"" does not exist","Fichier ""%1"" inexistant"
 "The file '%1' for '%2' has an invalid extension.","Le fichier '%1' pour '%2' a une extension invalide."
 "The file '%1' is empty. Please choose another one","Fichier ""%1"" vide. Veuillez en choisir un autre"
@@ -6182,6 +6187,7 @@ Text,Texte
 "The filters must be an array.","Les filtres doivent être sous forme de tableau."
 "The first name cannot be empty.","Le prénom ne peut pas être vide."
 "The following error(s) occured:","Erreur(s) suivante(s):"
+"The following error(s) occurred when importing the data:","les erreurs suivantes ont eu lieu lors de l'importation des données :"
 "The form code is not defined.","Le code de formulaire n'est pas défini."
 "The generated key will be displayed after changing.","La clé générée sera affichée après avoir été changée."
 "The gift message has been saved.","Le message cadeau a bien été sauvegardé."
@@ -6224,7 +6230,9 @@ Theme,Thème
 "Theme: %1","Thème : %1"
 "Theme CSS","CSS du thème"
 "Theme CSS Assets","Ressources CSS du thème"
+"Theme Information","Information sur le thème"
 "Theme JavaScript","JavaScript du thème"
+"Theme Name","Nom du thème"
 "Theme Path","Chemin du thème"
 "Theme Preview Image","Image d'aperçu du thème"
 "Theme Settings","Paramètres des thèmes"
@@ -6489,7 +6497,11 @@ Themes,Thèmes
 "This attribute shares the same value in all stores.","Cet attribut partage les mêmes valeurs dans toutes les boutiques."
 "This block no longer exists.","Ce bloc n'existe pas."
 "This can commonly be found at the end of the URL when viewing the APM after ""/applications/""","Vous trouverez généralement cette information à la fin de l'URL lorsque vous visualisez l'APM, après ""/applications/"""
+"This class must implement the ""CompilerInterface""","Cette classe doit implémenter ""CompilerInterface"""
+"This class must implement the ""ResultInterface""","Cette classe doit implémenter ""ResultInterface"""
+"This class must inherit from a class ""Template""","Cette classe doit hériter de la classe ""Template"""
 "This class no longer exists.","Cette classe n'existe pas."
+"This computer is using IP address %1.","Cet ordinateur utilise l'adresse IP %1."
 "This condition no longer exists.","Cette condition n'existe plus."
 "This confirmation key is invalid or has expired.","Cette clé de confirmation est invalide ou a expiré."
 "This credit card type is not allowed for this payment method.","Ce type de carte de crédit n'est pas autorisé pour ce mode de paiement."
@@ -6539,6 +6551,8 @@ Themes,Thèmes
 "This is used internally. Make sure you don\'t use spaces or more than %1 symbols.","Ceci est utilisé en interne. Assurez-vous de ne pas utiliser des espaces ou plus de %1 symboles."
 "This is your new encryption key: %1. Be sure to write it down and take good care of it!","Ceci est votre nouvelle clé de chiffrement : %1. Notez-la et conservez-la en lieu sûr !"
 "This is your new encryption key: <span style=""font-family:monospace;"">%1</span>. Be sure to write it down and take good care of it!","Ceci est votre nouvelle clé de chiffrement : <span style=""font-family: monospace;"">%1</span>. Notez-la et conservez-la en lieu sûr !"
+"This item has no weight","Cet article ne possède pas de poids"
+"This item has weight","Cet article possède un poids"
 "This item price or quantity is not valid for checkout.","Le prix ou la quantité de cet article est invalide pour commander."
 "This may take a few moments.","Ceci peut prendre quelques instants."
 "This message will be shown in the shopping cart when the subtotal (after discount) is lower than the minimum allowed amount.","Ce message sera affiché dans le panier lorsque le sous-total (après remise) est inférieur au montant minimum autorisé."
@@ -6552,6 +6566,7 @@ Themes,Thèmes
 "This page no longer exists.","Cette page n'existe pas."
 "This payment didn't work out because we can't find this order.","Ce paiement n'a pas été effectué car la commande est introuvable."
 "This payment didn\'t work out because we can\'t find this order.","Ce paiement n'a pas été effectué car la commande est introuvable."
+"This payment is not available","Ce paiement n'est pas disponible"
 "This payment method instance is not available.","Méthode de paiement indisponible."
 "This payment method is not available.","La méthode de paiement n'est pas disponible."
 "This payment was not authorized because the transaction ID field is empty.","Paiement non autorisé car l'ID de transaction est vide."
@@ -6710,8 +6725,8 @@ Track:,"Suivre :"
 "Transaction Details","Détail de la transaction"
 "Transaction Details URL","URL du détail de la transaction"
 "Transaction ID","ID Transaction"
-"Transaction ID: ""%1""","ID de transaction : ""%1"""
 " Transaction ID: ""%1"""," ID de transaction : ""%1"""
+"Transaction ID: ""%1""","ID de transaction : ""%1"""
 "Transaction Information","Information sur les transactions"
 "Transaction Key","Clé de la Transaction"
 "Transaction Type","Type de transaction"
@@ -6912,6 +6927,7 @@ Updated:,"Mis à jour :"
 "Update to your %store_name shipment","Mise à jour de votre envoi %store_name"
 "Updating classType is not allowed.","Mise à jour du type de classe non permise."
 "Upload CSS File","Uploader un fichier CSS"
+"Upload File","Charger le fichier"
 "Upload Files","Télécharger les fichiers"
 "Upload Fonts","Uploader des polices"
 "Upload HTTP Error","Erreur HTTP de téléchargement"
@@ -6920,6 +6936,7 @@ Updated:,"Mis à jour :"
 "Upload Images","Uploader des images"
 "Upload JS Files","Uploader des fichiers JS"
 "Upload Security Error","Erreur de sécurité de téléchargement"
+"Upload a file","Charger un fichier"
 Uploaded:,"Uploadé :"
 "Uploaded file has no extension","Le fichier uploadé n'a pas d'extension"
 Uploader:,"Uploadé par :"
@@ -7134,6 +7151,7 @@ Visitor,Visiteur
 "Voice Authorizations are not supported for this processor","Paiements téléphoniques non supportés par ce service de paiement"
 Void,Annulé
 "Void action is not available.","L'action 'annuler' n'est pas disponible."
+Voided,Annulée
 "Voided authorization.","Autorisation refusée."
 "Voided capture.","Capture annulée."
 "Vul hier een geldige datum in.","Vul hier een geldige datum in."
@@ -7698,6 +7716,7 @@ Wishlist,"Liste d'envies"
 YTD,"Depuis le début de l'année"
 YY,AA
 YYYY,AAAA
+"Yahoo Finance Exchange","Yahoo Finance Exchange"
 Year,Année
 "Year-To-Date Starts","L'année en cours commence le"
 "Year Range","Période annuelle"
@@ -8120,10 +8139,10 @@ is,"est égal(e) à"
 "is not one of","ne fait pas partie de"
 "is one of","fait partie de"
 " is required."," requis."
-" item"," article"
 item,article
-" items"," articles"
+" item"," article"
 items,articles
+" items"," articles"
 "items selected","éléments sélectionnés"
 kB,Ko
 kg,kg
@@ -8227,8 +8246,8 @@ unhold,débloquer
 "unselect all","désélectionner tout"
 unverified,"non vérifié"
 "up to %1","jusqu'à %1"
-username,"Nom d'utilisateur"
 "user name","nom d'utilisateur"
+username,"Nom d'utilisateur"
 "ver. %1","ver. %1"
 verified,vérifié
 void,annulé
