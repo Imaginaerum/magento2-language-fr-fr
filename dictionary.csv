@@ -1626,7 +1626,7 @@ Compare,Comparer
 "Compatible file extensions to upload","Extensions de fichier pris en charge à l’envoi de fichier"
 Complaint,Réclamation
 Complete,Terminée
-"Concurrent session information:","Informations de session simultanées : "
+"Concurrent session information:","Informations de session simultanées :"
 Condition,Condition
 "Condition Name","Nom de la Condition"
 Conditions,Conditions
@@ -1645,8 +1645,7 @@ Conditions,Conditions
 You need to create a simple product for each configuration (Ex: a product for each color).","Les produits configurables permettent aux clients de choisir des options (Ex : une couleur). Vous devez créer un produit simple pour chaque configuration possible. (Ex: un produit pour chaque couleur)."
 "Configurable products allow customers to choose options (Ex: shirt color).
             You need to create a simple product for each configuration (Ex: a product for each color).","Les produits configurables permettent aux clients de choisir des options (Ex : une couleur). Vous devez créer un produit simple pour chaque configuration possible. (Ex: un produit pour chaque couleur)."
-"Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).","Les produits configurables permettent aux clients de choisir des options (ex : couleur de chemise).
-"
+"Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).","Les produits configurables permettent aux clients de choisir des options (ex : couleur de chemise)."
 Configuration,Configuration
 "Configuration must have specified attributes","La configuration doit avoir des attributs spécifiques"
 Configurations,Configurations
@@ -2239,6 +2238,7 @@ Direct,Directe
 "Direct Payment API","API Paiement direct"
 "Directory ""%1"" cannot be created %2","Le répertoire ""%1"" ne peut être crée %2"
 "Directory %1 is not under storage root path.","Le répertoire %1 n'est pas un chemin d'accès à la racine de stockage."
+"Directory separator ""\" is prohibited in fixture declaration.","Le séparateur de répertoire ""\" est interdit."
 Disable,Désactiver
 "Disable Automatic Group Change Based on VAT ID","Désactiver le changement automatique de groupe basé sur la TVA"
 "Disable Email Communications","Désactiver les envois d'email"
@@ -2255,6 +2255,7 @@ Discount,Remise
 "Discount Amount","Montant de la remise"
 "Discount Codes","Codes de remises"
 "Discount Qty Step (Buy X)","Quantité pour obtenir la remise (Achetez-en X)"
+"Discount amount is applied to subtotal and shipping amount separately","Le montant de la remise est appliqué au sous-total et la quantité expédiée de manière séparée."
 "Discount amount is applied to subtotal only","Le montant de la remise est appliqué au sous-total seulement"
 "Discount value should be 0 or greater.","La valeur de la remise doit être supérieure à 0."
 Display,Affichage
@@ -2332,6 +2333,7 @@ Drop-down,"Liste Déroulante"
 "Drop Box","Boîte de dépôt"
 Dropdown,"Liste déroulante"
 Dropoff,Déposer
+"Duplicate 'view_id' in indexer declaration","Doublon 'view_id' dans la déclaration de l'indexer"
 "Duplicate Of Template Name","Duplication du nom de gabarit"
 "Duplicate Row #%1 (Country ""%2"", Region/State ""%3"", Zip ""%4"" and Value ""%5"")","Ligne #%1 dupliquée (Pays ""%2"", Région/Etat ""%3"", code postal ""%4"" et valeur ""%5"")"
 "Duplicate Row #%1 (duplicates row #%2)","Doublon ligne #%1 (Doublon ligne #%2)"
@@ -2621,7 +2623,7 @@ Event,Événement
 "Exact Match. Address and Postal Code. International","Correspondance exacte. Adresse et code postal. International"
 "Exact Match. Address and Postal Code. UK-specific","Correspondance exacte. Adresse et code postal. Spécifique au Royaume-Uni"
 "Exact Match. Address and nine-digit ZIP code","Correspondance exacte. Adresse et code postal à neuf chiffres"
-" Example: "," Exemple : "
+" Example: ","Exemple : "
 "Example: 0.0.0.1 or 123.1.0.25-alpha1","Exemple: 0.0.0.1 ou 123.1.0.25-alpha1"
 "Example format: 200x300.","Exemple: 200x300."
 "Excel XML","XML Excel"
@@ -2789,6 +2791,7 @@ Filename,"Nom du fichier"
 Filter,Filtre
 "Filterable (no results)","Filtrable (pas de résultats)"
 "Filterable (with results)","Filtrable (avec résultats)"
+"Filter already exists in Criteria object: %1","Ce filtre existe déjà dans l'objet de critères : %1"
 "Filtering by this attribute will update the product image on catalog page","Filtrer par cet attribut mettra jour l'image du produit sur la page catalogue"
 Filters,Filtres
 "Final Price","Prix final"
@@ -2843,8 +2846,7 @@ Font,"Police de caractères"
 Footer,"Pied de page"
 "Footer Template","Gabarit du pied de page"
 "For CMS page","Pour une page CMS"
-"For Type ""Local Server"" use relative path to Magento installation, e.g. var/export, var/import, var/export/some/dir","Pour le type ""serveur local"", utiliser un chemin par rapport à l'installation Magento.
-"
+"For Type ""Local Server"" use relative path to Magento installation, e.g. var/export, var/import, var/export/some/dir","Pour le type ""serveur local"", utiliser un chemin par rapport à l'installation Magento."
 "For Virtual Quotes Only","Pour les commandes virtuelles uniquement"
 "For Windows server only.","Pour les serveurs windows uniquement."
 "For accurate reporting, be sure to refresh lifetime statistics whenever you change the time zone.","Pour des rapports précis, assurez-vous d'actualiser les statistiques à chaque fois que vous modifiez le fuseau horaire."
@@ -3337,6 +3339,8 @@ Interval,Intervalle
 "Invalid XML-file: %1%2%3","Fichier XML invalide: %1%2%3"
 "Invalid XML: Detected use of illegal DOCTYPE","XML invalide : détection d'une utilisation illégale de DOCTYPE"
 "Invalid XML in file %1:\n%2","XML invalide dans le fichier %1 : n%2"
+"Invalid [%1] $%2 type in %3::%4. It must be compatible with %5","[%1] invalide. Type $%2. Contenu dans %3::%4. Doit être compatible avec %5"
+"Invalid [%1] $%2 type in %3::%4. It must be compatible with \\Closure","[%1] invalide. Type $%2. Contenu dans %3::%4. Doit être compatible avec \\Closure"
 "Invalid address id %1","L'identifiant de l'adresse %1 est invalide"
 "Invalid alias, already exists in joint attributes","Alias invalide, déjà utilisé dans les attributs de jointure"
 "Invalid amount for capture.","Montant de collecte invalide."
@@ -3356,6 +3360,7 @@ Invalidated,Invalidé
 "Invalid character encountered in increment ID: %1","Caractère invalide trouvé dans l'ID d'incrément: %1"
 "Invalid confirmation token","Confirmation de permission Invalide"
 "Invalid connection","Connexion invalide"
+"Invalid constructor argument(s) in %1","Argument(s) du constructeur invalide(s) dans %1"
 "Invalid cookie lifetime: %1","Durée de vie du cookie invalide : %1"
 "Invalid cookie path","Chemin du cookie invalide"
 "Invalid cron expression, expecting 'from-to' structure: %1","Expression du CRON invalide, structure ""de-à"" attendu : %1"
@@ -3364,6 +3369,7 @@ Invalidated,Invalidé
 "Invalid cron expression, expecting \'match/modulus\': %1","Expression du CRON invalide, ""valeur/modulo"" attendu : %1"
 "Invalid cron expression, expecting numeric modulus: %1","Expression du CRON invalide, modulo numérique attendu : %1"
 "Invalid cron expression: %1","Expression du CRON invalide : %1"
+"Invalid customer address id %1","Adresse client id %1 invalide"
 "Invalid customer id %1","L'identifiant de client %1 est invalide"
 "Invalid custom option maximum characters value.","Nombre de caractères d'option personnalisée invalide."
 "Invalid custom option price.","Option prix personnalisée invalide."
@@ -3388,6 +3394,8 @@ Invalidated,Invalidé
 "Invalid entity supplied: %1","L'entité est invalide : %1"
 "Invalid entity type","Type d'entité invalide"
 "Invalid export type supplied for grid export block","Le type d'exportation est invalide"
+"Invalid field dataType attribute value","Valeur d'attribut du champ dataType incorrecte"
+"Invalid field handler attribute value","Valeur de champ du gestionnaire d'attribut invalide"
 "Invalid field type","Type de champ invalide"
 "Invalid file format.","Format de fichier invalide."
 "Invalid file transfer mode","Mode de transfert de fichier invalide"
@@ -3398,6 +3406,7 @@ Invalidated,Invalidé
 "Invalid format of children: %1","Format de l'enfant invalide: %1"
 "Invalid format of group '%1': %2","Format du groupe '%1' invalide : %2"
 "Invalid form type.","Type de formulaire invalide."
+"Invalid handler attribute value","Valeur du gestionnaire d'attribut invalide"
 "Invalid header provider","Fournisseur d'en-tête invalide"
 "Invalid image file type.","Type de fichier image invalide."
 "Invalid input","Saisie invalide"
@@ -3419,13 +3428,16 @@ Invalidated,Invalidé
 "Invalid query","Requête invalide"
 "Invalid regular expression: ""%1"".","L'expression régulière ""%1"" est invalide."
 "Invalid request format","Format de requête invalide"
+"Invalid rollback file.","Fichier de restauration invalide."
 "Invalid sample type.","Type d'échantillon invalide."
 "Invalid scope object","Portée de l'objet invalide"
+"Invalid scope or scope id","Portée ou id de portée invalide"
 "Invalid secure URL.","URL sécurisée invalide."
 "Invalid sender data","Données de l'expéditeur invalide"
 "Invalid session %1 value.","Valeur de session %1 invalide."
 "Invalid shipping method","Méthode d'expédition invalide"
 "Invalid signature","Signature invalide"
+"Invalid source attribute value","Valeur source de l'attribut invalide"
 "Invalid store parameter.","Paramètres boutique invalide"
 "Invalid token to except","Exception d'authentification invalide"
 "Invalid transaction ID.","Identifiant de transaction invalide."
@@ -4238,7 +4250,7 @@ Online,"En ligne"
 "Only registered users can write reviews. Please, <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Seuls les utilisateurs sauvegardés peuvent soumettre leur avis. Veuillez <a href=""%1"">vous connecter</a> ou <a href=""%2"">créer un compte</a>"
 "Only registered users can write reviews. Please, <a href=""%1"">log in</a> or <a href=""%2"">register</a>","Seuls les clients enregistrés peuvent écrire des avis. Veuillez vous <a href=""%1"">connecter</a> ou vous <a href=""%2"">enregistrer</a>"
 "Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Seuls les utilisateurs sauvegardés peuvent soumettre leur avis. Veuillez <a href=""%1"">vous connecter</a> ou <a href=""%2"">créer un compte</a>"
-"Only the first 100 errors are shown. ","Seules les 100 premières erreurs sont visibles."
+"Only the first 100 errors are shown. ","Seules les 100 premières erreurs sont visibles. "
 "Open Authorization","Ouvrez l'autorisation"
 "Open Chooser","Ouvrir le sélecteur"
 "Open Links in New Window","Ouvrir les liens dans une nouvelle fenêtre"
@@ -4356,6 +4368,7 @@ PAK,PAK
 "PHP SOAP extension is required.","L'extension SOAP de PHP est requise."
 PM,PM
 Package,Package
+"Package Extensions","Package extensions"
 Packages,Packages
 "Packages Request Type","Type de requête de paquets"
 Packaging,Emballage
@@ -4383,6 +4396,8 @@ Paid,Payée
 "Paid Amount","Montant réglé"
 "Paid Invoices","Factures payées"
 Pallet,Palettes
+"Parameter ""class"" must be present.","Le paramètre ""class"" doit être présent."
+"Parameter ""sortOrder"" must be present.","Le paramètre ""sortOrder"" doit être présent."
 Parcel,Colis
 "Parent Authorize.Net transaction (ID %1) expired","Transaction parente authorize.Net (ID %1) expirée"
 "Parent Category","Catégorie parente"
@@ -4390,6 +4405,7 @@ Parcel,Colis
 "Parent Theme","Thème parent"
 "Parent Transaction ID","ID de transaction principale"
 "Parent directory does not exist: %1","Le répertoire parent n'existe pas : %1"
+"Parent shipment cannot be loaded for track object.","La livraison parente ne peut être chargée depuis l'objet de suivi."
 Partial,Partiel
 Partner,Partenaire
 "Partner Page","Page du partenaire"
@@ -4403,10 +4419,13 @@ Password:,"Mot de passe :"
 "Password Help","Aide mot de passe"
 "Password Lifetime (days)","Durée de vie du mot de passe (en jours)"
 "Password Options","Options de mot de passe"
+"Password Reset Confirmation for %name","Confirmation de réinitialisation du mot de passe pour %name"
 "Password Reset Protection Type","Type de protection de réinitialisation du mot de passe"
 "Password Strength","Fiabilité du mot de passe"
 "Password Template Email Sender","Gabarit Expéditeur de l'email d'envoi du mot de passe"
 "Password and password confirmation are not equal.","Le mot de passe et la confirmation du mot de passe ne sont pas identiques."
+"Password confirmation doesn't match entered password.","La confirmation du mot de passe ne correspond pas au mot de passe saisi."
+"Password confirmation doesn\'t match entered password.","La confirmation du mot de passe ne correspond pas au mot de passe saisi."
 "Password doesn't match for this account.","La mot de passe du compte ne correspond pas."
 "Password forgotten","Mot de passe oublié"
 "Password is required field.","Mot de passe est un champ obligatoire."
@@ -4415,6 +4434,7 @@ Path,Chemin
 "Path ""%1"" is not part of allowed directory ""%2""","Le chemin ""%1"" ne fait pas partie du répertoire autorisé ""%2"""
 "Path ""%value%"" is not available and cannot be used.","Le chemin ""%value%"" n'est pas correct et ne peut pas être utilisé."
 "Path ""%value%"" is protected and cannot be used.","Le chemin ""%value%"" est protégé et ne peut pas être utilisé."
+"Path ""%value%"" may not include parent directory traversal (""../"", ""..\").","Le chemin ""%value%"" ne peut inclure le répertoire parent (""../"", ""..\")."
 "Path ""%value%"" may not include parent directory traversal (""../"", ""..\\).""","Le chemin ""%value%"" ne doit pas inclure de répertoire parent (""../"", ""..\")."""
 "Paths to pre-processed view files (e.g, CSS files with fixed paths or generated from LESS files).","Chemin pour le prétraitement des fichiers de vues (ex : fichiers CSS avec préfixes chemin ou générés depuis des fichiers LESS)."
 "Paths to view files (e.g., PHTML templates, images, CSS, JS files).","Chemins des fichiers de vues (ex : PHTML templates, images, CSS, fichiers JS)."
@@ -6793,6 +6813,7 @@ Themes,Thèmes
 "The sitemap ""%1"" has been generated.","Le plan de site ""%1"" a bien été généré."
 "The sitemap has been deleted.","Le plan de site a bien été effacé."
 "The sitemap has been saved.","Le plan de site a bien été enregistré."
+"The sort order has to be specified as a string, got %1.","L'ordre de tri doit être spécifié en tant que chaîne, obtenu %1."
 "The source file moving process failed.","Le processus de déplacement du fichier source a échoué."
 "The source is not set.","La source n'est pas définie."
 "The source object is not specified.","L'object source n'est pas spécifié."
@@ -6861,6 +6882,7 @@ Themes,Thèmes
 "This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","Ce compte n'a pas encore été confirmé. <a href=""%1"">Cliquez ici</a> pour envoyer un nouvel email de confirmation."
 "This action cannot be undone.","Cette action ne peut pas être annulée."
 "This action will delete your custom instructions and reset robots.txt file to system's default settings.","Cette action supprimera les instructions personnalisées et réinitialisera le fichier robots.txt avec les valeurs par défaut du système."
+"This administrator account is open in more than one location. Note that other locations might be different browsers or sessions on the same computer.","Ce compte administrateur est ouvert dans à un autre endroit. Notez que cet endroit pourrait être un autre navigateur ou une autre sessions sur le même ordinateur."
 "This allows breaking total order weight into smaller pieces if it exceeds %1 %2 to ensure accurate calculation of shipping charges.","Permet de scinder le poids total de la commande si elle excède %1 %2 pour assurer un calcul précis des frais d'expédition."
 "This allows breaking total order weight into smaller pieces if it exeeds 70 kg to ensure accurate calculation of shipping charges.","Permet de scinder le poids total de la commande si elle excède 70 kg pour assurer un calcul précis des frais d'expédition."
 "This applies only to catalog products and categories. Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.","Cela ne concerne que les produits et les catégories catalogue. Le contenu des médias sera inséré dans l'éditeur comme une URL statique. Le contenu des médias n'est pas mis à jour si la configuration du système de base URL change."
@@ -6894,7 +6916,15 @@ Themes,Thèmes
 "This email template no longer exists.","Le gabarit d'email n'existe pas."
 "This email will be sent instead of default welcome email, after account confirmation.","Cet email sera envoyé à la place de l'email de bienvenue, après la confirmation de création du compte."
 "This email will be sent instead of the Default Welcome Email, after account confirmation.","Cet email sera envoyé à la place de l'email de bienvenue, après la confirmation de création du compte."
+"
+                        This email will be sent instead of the Default Welcome Email, after account confirmation. <br /><br />
+                        Email template chosen based on theme fallback when ""Default"" option is selected.
+                    ","Cet email est envoyé à la place de l'email de bienvenue par défaut, après la confirmation du compte.<br /><br />Le modèle d'email choisi est fonction du thème parent lorsque l'option ""par défaut"" est sélectionnée."
 "This email will be sent instead of the Default Welcome Email, if a customer was created without password.","Cet email est envoyé à la place de l'email par défaut de bienvenue si un client a créé un compte sans mot de passe."
+"
+                        This email will be sent instead of the Default Welcome Email, if a customer was created without password. <br /><br />
+                        Email template chosen based on theme fallback when ""Default"" option is selected.
+                    ","Cet email sera envoyé à la place de l'email de bienvenue par défaut, si un client a été créé sans mot de passe.<br /><br />Le modèle d'email choisi est fonction du thème parent lorsque l'option ""par défaut"" est sélectionnée."
 "This enables or disables SSL verification of the Magento server by UPS.","Active ou désactive la vérification SSL du serveur Magento par UPS."
 "This feature needs be enabled first for the merchant account through PayPal technical support.","Cette fonctionnalité doit d'abord être activée pour le compte marchand via le support technique de PayPal."
 "This file does not contain any data.","Ce fichier ne contient pas de données."
@@ -7137,6 +7167,8 @@ Transactions,Transactions
 "Transaction type is required.","Type de transaction requis."
 "Transfer Cart Line Items","Transférer les articles dans votre panier"
 "Transfer Shipping Options","Options d'expédition de transfert"
+"Transition year is out of specified date range.","L'année de transition est en dehors de la portée spécifiée."
+"Transition year is out of system date range.","L'année de transition est en dehors de la portée système."
 Translate,Traduire
 "Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.","Les caches de traduction, de blocs et autres sorties doivent être désactivés pour utiliser la traduction en ligne sur le font office et sur le back office."
 "Translate, blocks and other output caches should be disabled for both frontend and admin inline translations.","Les caches de traduction, de blocs et autres sorties doivent être désactivés pour utiliser la traduction en ligne."
@@ -7313,6 +7345,7 @@ Unsubscribed,Désinscrit
 "Unsubscription Email Template","Gabarit de l'email de désinscription"
 "Unsuccessful transaction cannot be cloned.","Les transactions non abouties ne peuvent être dupliquées."
 "Unsupported bookmark action.","Action de vue non supportée."
+"Unsupported format of schema location: '%1'","Format de l'emplacement du schéma non pris en charge : '%1'"
 "Unsupported product type ""%1"".","Type de produit non supporté : ""%1""."
 "Up-Sell Products","Produits en ventes additionnelles"
 Up-sells,"Ventes Incitatives"
@@ -7350,6 +7383,7 @@ Updated:,"Mis à jour :"
 "Update to your %store_name order","Mise à jour de votre commande %store_name"
 "Update to your %store_name shipment","Mise à jour de votre envoi %store_name"
 "Updating classType is not allowed.","Mise à jour du type de classe non permise."
+"Upgrade Insecure Requests","Mise à jour des requêtes non sécurisées"
 "Upload CSS File","Uploader un fichier CSS"
 "Upload File","Charger le fichier"
 "Upload Files","Télécharger les fichiers"
@@ -7370,6 +7404,9 @@ Uploader:,"Uploadé par :"
 Url,Url
 "Url Options","Options d'URL"
 "Usage limit enforced for logged in customers only.","Limite d'utilisation imposée uniquement aux clients connectés."
+"
+                        Usage limit enforced for logged in customers only.
+                    ","Limite d'utilisation appliquée uniquement pour les clients connectés."
 "Use %s to replace the account ID in the URL","Utilisez ""%s"" pour remplacer l'identifiant de compte dans l'URL"
 "Use 0 to disable account locking.","Utilisez 0 pour désactiver le blocage du compte"
 "Use Aggregated Data","Utiliser les données agrégées"
@@ -7438,6 +7475,7 @@ Url,Url
 User,Utilisateur
 "User-Agent Exceptions","Exceptions User-Agent"
 "User-initiated Currency Conversion","L'utilisateur de conversion de devises lancé"
+"User Agent Rules","Règles user agent"
 "User Content","Contenus des Utilisateurs"
 "User Defined","Défini par l'utilisateur"
 "User Description","Description utilisateur"
@@ -7448,6 +7486,7 @@ User,Utilisateur
 "User Name","Nom d'utilisateur"
 "User Name:","Nom d'utilisateur :"
 "User Name is a required field.","Le nom de l'utilisateur est requis."
+"User Notification Template","Notification gabarit utilisateur"
 "User Password","Mot de passe utilisateur"
 "User Role","Rôle de l'utilisateur"
 "User Roles","Rôles utilisateurs"
@@ -7602,6 +7641,8 @@ Warning!,"Attention !"
 "Warning: No message defined for %s","Attention : aucun message défini pour %s"
 "Warning message","Message d'alerte"
 "Warning tax configuration can result in rounding errors. ","Attention : la configuration des taxes peut entraîner des erreurs d'arrondis. "
+"Warning tax discount configuration might result in different discounts
+                                than a customer might expect. ","Avertissement lors de la configuration de remise de taxe qui pourrait entraîner différentes remises qu'un client serait susceptible d'attendre. "
 Watermark,Filigrane
 "Watermark Default Size","Taille par défaut du filigrane"
 "Watermark File for %1","Fichier de filigrane pour %1"
@@ -8102,6 +8143,9 @@ Welcome,Bienvenue
 "What’s on your mind?","Comment pouvons-nous vous aider ?"
 "When catalog price includes tax, enable this setting to fix the price no matter what the customer's tax rate.","Lorsque les prix catalogue sont saisis en TTC, activer ce paramètre pour fixer le prix peut importe le taux de taxe client."
 "When catalog price includes tax, enable this setting will fix the price no matter what the customer's tax rate is.","Lorsque les prix catalogue incluent les taxes, activez ce réglage pour corriger les éventuelles erreurs de taux de taxe."
+"When passing an array of fields there must be at least one field in the array.","Lors du passage d'un tableau de champs, il doit y avoir au moins un champ dans le tableau."
+"When passing in a field array there must be a matching condition array.","Lors du passage dans tableau de champs, il doit y avoir tableau de conditions correspondantes."
+"When specifying fixed product tax regions within the same country, select either unique region names or all ('*')","Lors de la spécification des taxes pour les régions sur les produits pour un même pays, sélectionnez le nom des régions ou toutes les régions ('*')"
 "When the adapter was changed, please, flush Catalog Images Cache.","Quand l'adapter est changé, veuillez vider le cache des images catalogue."
 "When you sign in to your account, you will be able to:","Lorsque vous êtes connecté à votre compte, vous pouvez :"
 "Whether to create a billing agreement, if there are no active billing agreements available.","Créer une entente de facturation, s'il n'y a aucune entente de facturation active disponible."
@@ -8117,6 +8161,12 @@ Widget,Widget
 "Widget Type","Type de widget"
 Widgets,Widgets
 Width,Largeur
+"
+                                    Will appear as a payment option only for customers who have at least one active billing agreement.
+                                ","Apparaît comme une option de paiement uniquement pour les clients qui ont au moins un accord de facturation actif."
+"
+                            Will appear as a payment option only for customers who have at least one active billing agreement.
+                        ","Apparaît comme une option de paiement uniquement pour les clients qui ont au moins un accord de facturation actif."
 "Will make search for the query above return results for this search","Exécutera la recherche pour la recherche ci-dessus et en retournera les résultats"
 "Wish List","Liste d'envies"
 "Wish List Purchase","Commander à partir de listes d'envies"
@@ -8474,7 +8524,7 @@ Yes/No,Oui/Non
 "You sent the order email.","Email de commande envoyé."
 "You sent the shipment.","Expédition envoyée."
 "You submitted your review for moderation.","L'avis est en cours de validation."
-"You subscribe to ""General Subscription"".","Vous souscrivez à ""L'abonnement général""."
+"You subscribe to ""General Subscription"".","Vous êtes inscrit à ""l'abonnement général""."
 "You subscribe to our newsletter.","Vous êtes inscrit à notre lettre d'information."
 "Youtube API key is invalid","La clé d'API YouTube est invalide"
 "Youtube or Vimeo supported","Youtube ou Vimeo supportés"
@@ -8515,7 +8565,7 @@ ZIP,"Code postal"
 "[STORE VIEW]","[VUE MAGASIN]"
 [WEBSITE],"[SITE WEB]"
 "[ deleted ]","[ effacé ]"
-" [deleted]","   [effacé]"
+" [deleted]"," [effacé]"
 "\'%1\' file extension is not supported","\'%1\' extension de fichier non supportée"
 "a,b,c","a,b,c"
 "amount %1","montant %1"
@@ -8589,7 +8639,7 @@ failed.,échec.
 "first part second part third part","première partie seconde partie troisième partie"
 "first part second part with one string literal placeholder %1","first part second part with one string literal placeholder %1"
 fl,fl
-" for more information or "," pour plus d'information ou "
+" for more information or ","pour plus d'information ou "
 frontend_label,frontend_label
 "greater than","est supérieur(e) à"
 hello,bonjour
@@ -8605,7 +8655,7 @@ inline,"en ligne"
 "invalid request","requête invalide"
 is,"est égal(e) à"
 "is not","est différent(e) de"
-" is not available. You still can process offline actions.","   n'est pas disponible. Vous pourrez toujours effectuer ces actions hors ligne."
+" is not available. You still can process offline actions."," n'est pas disponible. Vous pourrez toujours effectuer ces actions hors ligne."
 "is not one of","ne fait pas partie de"
 "is one of","fait partie de"
 " is required."," requis."
@@ -8712,7 +8762,7 @@ title,titre
 title1,titre1
 title2,titre2
 to,à
-" to learn more.","   en savoir plus."
+" to learn more."," en savoir plus."
 "total amount","montant total"
 "total quantity","quantité totale"
 track_summary,track_summary
