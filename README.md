@@ -18,7 +18,7 @@ Supported versions:
 * Magento v2.0.7
 * Magento v2.0.8
 * Magento v2.1.0
-
+* Magento v2.1.1
 
 ## Links
 
@@ -59,4 +59,4 @@ Create folder your-magento-path/app/i18n/imaginaerum/fr_fr and extract zip into 
 
 | Total | Translated | Left | Progression |
 | -------------: | -----------------------: | -----------------------: | :---------: |
-| 8748 | 8748 | 0 | ![Progress](http://progressed.io/bar/100) |
+| 8751 | 8751 | 0 | ![Progress](http://progressed.io/bar/100) |
