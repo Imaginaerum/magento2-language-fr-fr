@@ -1548,7 +1548,7 @@ City,Ville
 "Cleanup Settings","Paramètres de nettoyage"
 "Cleanup entries older than X minutes.","Nettoyer les entrées plus vieilles de X minutes."
 Clear,Vider
-"Clear All","Tout Supprimer"
+"Clear All","Tout supprimer"
 "Clear Persistence on Log Out","Effacer la persistance lors de la déconnexion"
 "Clear Persistence on Sign Out","Ne plus se souvenir de moi lors de la déconnexion"
 "Clear Price","Effacer le prix"
