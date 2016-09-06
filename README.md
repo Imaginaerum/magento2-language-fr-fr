@@ -1,4 +1,4 @@
-# Magento 2 French Language Pack v100.6.20
+# Magento 2 French Language Pack v100.6.21
 
 French translation for Magento 2. Translation fr_FR (French France).
 
