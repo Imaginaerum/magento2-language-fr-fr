@@ -786,7 +786,7 @@ Anchor,Ancre
 "An error occurred while showing the product views report. Please review the log and try again.","Une erreur s'est produite lors de l'affichage du rapport des produits vus. Veuillez vérifier le journal des logs et essayez à nouveau."
 "An error occurred while updating the selected review(s).","Erreur lors de la mise à jour des commentaires sélectionnés."
 "An error occurred while updating wish list.","Une erreur s'est produite lors de la mise à jour de la liste d'envies."
-"An error was encountered while performing delete operation.","Une erreur est survenue lors de l'opération de suppression."
+"An error was encountered while performing delete operation.","Une erreur est survenue durant la suppression."
 "An inactive store view cannot be saved as default store view","Une vue magasin inactive ne peut pas être utilisée en tant que vue magasin par défaut"
 "An item object is not specified.","Un article n'est pas spécifié."
 "An item option with code %1 already exists.","Une option article avec le code %1 existe déjà."
