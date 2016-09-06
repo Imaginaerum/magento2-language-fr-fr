@@ -88,9 +88,8 @@
 "%1 doesn\'t extends \Magento\Framework\Model\AbstractModel","%1 n’étend pas \Magento\Framework\Model\AbstractModel"
 "%1 does not contain field '%2'","%1 ne contient pas le champ '%2'"
 "%1 does not contain field 'file'","%1 ne contient pas le champ 'fichier'"
-"%1 does not contain field \'%2\'","%1 ne contient pas le champ \'%2\'""
-%1 does not contain field \'file\'"""
-"%1 does not contain field \'file\'","%1 ne contient pas le champ \’fichier\’"
+"%1 does not contain field \'%2\'","%1 ne contient pas le champ \'%2\'"
+"%1 does not contain field \'file\'","%1 ne contient pas le champ \'fichier\'"
 "%1 for ""%2"".","%1 pour ""%2""."
 "%1 for %2","%1 pour %2"
 "%1 has been added to your Wish List.","%1 a été ajouté à votre liste d’envies"
@@ -165,8 +164,8 @@
 "-- Please Select --","-- Faire un choix --"
 "-- Please Select Billing Agreement--","-- Veuillez choisir une entente de facturation--"
 "-- Please Select a Category --","-- Veuillez sélectionner une catégorie --"
-"--Please select--","-- Faire un choix --"
 "-- Please select --","-- Faire un choix --"
+"--Please select--","-- Faire un choix --"
 "-- Select --","-- Choisir --"
 "1 Day Freight","Frêt 1 jour"
 "1 Hour","1 heure"
@@ -213,11 +212,11 @@
 "<a href=""%1"" onclick=""this.target=\'_blank\'"" class=""print"">Print receipt</a>","<a href=""%1"" onclick=""this.target=\'_blank\'"" class=""""print"""">Imprimer le reçu</a>"""
 "<a href=""%1"" onclick=""this.target=\'blank\'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>","<a href=""%1"" onclick=""this.target=\'blank\'"">%2 %3</a> <a href=""""mailto:%4"""">(%4)</a>"""
 "
-                        <a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>
-                    ","<a href=""http://www.magentocommerce.com/paypal"">Accepter les paiements via PayPal !</a>"
-"
                                 <a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>
                             ","<a href=""http://www.magentocommerce.com/paypal"">Accepter les paiements via PayPal !</a>"
+"
+                        <a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>
+                    ","<a href=""http://www.magentocommerce.com/paypal"">Accepter les paiements via PayPal !</a>"
 "
                                 <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                                             <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
@@ -269,11 +268,11 @@
                                 ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>."
 "
                     <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
-                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                            or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
+                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                                from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                                or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
                 ","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br/>
                                 <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit®. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
                                 Utilisez les bannières publicitaires gratuites de PayPal Credit® comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
@@ -281,24 +280,12 @@
                                 ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>."
 "
                     <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                                from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
-                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                                or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
+                        <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                        from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                        Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                        The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                        or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
                 ","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br/>
-                                <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit®. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
-                                Utilisez les bannières publicitaires gratuites de PayPal Credit® comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
-                                Le programme de publicité PayPal a démontré qu’il permettait d’augmenter ses ventes de 15%
-                                ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>."
-"
-                                <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                                from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
-                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                                or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
-                            ","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br/>
                                 <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit®. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
                                 Utilisez les bannières publicitaires gratuites de PayPal Credit® comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
                                 Le programme de publicité PayPal a démontré qu’il permettait d’augmenter ses ventes de 15%
@@ -316,12 +303,24 @@
                                 Le programme de publicité PayPal a démontré qu’il permettait d’augmenter ses ventes de 15%
                                 ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>."
 "
+                                <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                                from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                                or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
+                            ","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br/>
+                                <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit®. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
+                                Utilisez les bannières publicitaires gratuites de PayPal Credit® comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
+                                Le programme de publicité PayPal a démontré qu’il permettait d’augmenter ses ventes de 15%
+                                ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>."
+"
                     <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                        <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                        from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                        Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
-                        The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                        or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
+                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                            or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
                 ","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br/>
                                 <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit®. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
                                 Utilisez les bannières publicitaires gratuites de PayPal Credit® comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
@@ -749,6 +748,7 @@ Anchor,Ancre
 "An error occured with payment processing.","Une erreur est survenue lors du traitement de paiement."
 "An error occurred","Une erreur est survenue"
 "An error occurred. The email template can not be opened for preview.","Une erreur s'est produite. Le gabarit d’email ne peut pas être ouvert pour aperçu."
+"An error occurred on the server. Please try to place the order again.","Une erreur serveur s'est produite. Veuillez recommencer plus tard."
 "An error occurred validating the nonce","Une erreur est survenue lors de la validation du jeton"
 "An error occurred while adding item to wish list.","Une erreur s'est produite lors de l’ajout de l’article à la liste d’envies."
 "An error occurred while adding item to wish list: %1","Une erreur s'est produite lors de l’ajout à la liste d’envies du produit : %1"
@@ -1626,6 +1626,7 @@ Compare,Comparer
 "Compared Products List Template","Gabarit de liste de produits comparés"
 "Compatible File Extensions","Extensions de fichiers compatibles"
 "Compatible file extensions to upload","Extensions de fichier pris en charge à l’envoi de fichier"
+"Compilation from source: ","Compilation depuis la source : "
 Complaint,Réclamation
 Complete,Terminée
 "Concurrent session information:","Informations de session simultanées :"
@@ -1644,10 +1645,10 @@ Conditions,Conditions
 "Configurable product ""%1"" does not have sub-products","Le produit configurable ""%1"" ne possède pas de sous-produits"
 "Configurable product ""%1"" do not have sub-products","Le produit configurable ""%1"" n’a pas de sous-produits"
 "Configurable products allow customers to choose options (Ex: shirt color).
-You need to create a simple product for each configuration (Ex: a product for each color).","Les produits configurables permettent aux clients de choisir des options (Ex : une couleur). Vous devez créer un produit simple pour chaque configuration possible. (Ex: un produit pour chaque couleur)."
-"Configurable products allow customers to choose options (Ex: shirt color).
             You need to create a simple product for each configuration (Ex: a product for each color).","Les produits configurables permettent aux clients de choisir des options (Ex : une couleur). Vous devez créer un produit simple pour chaque configuration possible. (Ex: un produit pour chaque couleur)."
 "Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).","Les produits configurables permettent aux clients de choisir des options (ex : couleur de chemise)."
+"Configurable products allow customers to choose options (Ex: shirt color).
+You need to create a simple product for each configuration (Ex: a product for each color).","Les produits configurables permettent aux clients de choisir des options (Ex : une couleur). Vous devez créer un produit simple pour chaque configuration possible. (Ex: un produit pour chaque couleur)."
 Configuration,Configuration
 "Configuration must have specified attributes","La configuration doit avoir des attributs spécifiques"
 Configurations,Configurations
@@ -1732,8 +1733,8 @@ Copy,Copie
 "Copy Selected to Wish List","Copier la sélection vers la liste d’envies"
 "Copy of %1","Copie de %1"
 Copyright,Copyright
-"Copyright &copy; %1 Magento Commerce Inc. All rights reserved.","Copyright&copy; %1 Magento Commerce Inc. Tous droits réservés."
 "Copyright&copy; %1 Magento Commerce Inc. All rights reserved.","Copyright&copy; %1 Magento Commerce Inc. Tous droits réservés."
+"Copyright &copy; %1 Magento Commerce Inc. All rights reserved.","Copyright&copy; %1 Magento Commerce Inc. Tous droits réservés."
 "Copyright © 2015 Magento. All rights reserved.","Copyright © 2015 Magento. Tous droits réservés."
 "Copyright © 2016 Magento. All rights reserved.","Copyright © 2016 Magento. Tous droits réservés."
 "Copy to Wish List","Copier vers la liste d’envies"
@@ -3694,8 +3695,8 @@ Locked,Vérrouillé
 "Log Out",Déconnexion
 "Log Settings","Paramètres de log"
 "Logging from \Psr\Log\LoggerInterface. File is located in {{base_dir}}/var/log","Log depuis PsrLogLoggerInterface. fichier situé dans le répertoire {{base_dir}}/var/log"
-"Log in","Se connecter"
 Login,"Se connecter"
+"Log in","Se connecter"
 "Login Information","Information de connexion"
 "Login Options","Options de connexion"
 "Login and password are required.","L’identifiant et le mot de passe sont obligatoires."
@@ -3860,11 +3861,11 @@ Merchandise,Marchandise
 "Merchant account does not support refunds","Ce compte marchand ne permet pas les remboursements"
 "Merchant account is suspended.","Compte marchand suspendu."
 "
-                        Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.
-                    ","Les marchands doivent activer sur PayPal les accords de facturation. Ne pas activer cette option tant que PayPal n’a pas confirmé ces accords de facturation et qu’ils sont actifs sur votre compte marchand."
-"
                                 Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.
                             ","Les marchands doivent activer sur PayPal les accords de facturation. Ne pas activer cette option tant que PayPal n’a pas confirmé ces accords de facturation et qu’ils sont actifs sur votre compte marchand."
+"
+                        Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.
+                    ","Les marchands doivent activer sur PayPal les accords de facturation. Ne pas activer cette option tant que PayPal n’a pas confirmé ces accords de facturation et qu’ils sont actifs sur votre compte marchand."
 "Merge CSS Files","Fusionner les fichiers CSS"
 "Merge JavaScript Files","Fusionner les fichiers JavaScript"
 "Merge conflict with existing synonym group(s): %1","Fusionner les conflits existants dans le(s) groupe(s) de synonymes: %1"
@@ -4335,8 +4336,8 @@ Options,Options
 Order,Commande
 "Order #","Commande #"
 "Order # ","Commande # "
-"Order #%1","Commande #%1"
 "Order # %1","Commande #%1"
+"Order #%1","Commande #%1"
 "Order # %1 %2 | %3","Commande # %1 %2 | %3"
 "Order #%1 (%2)","Commande #%1 (%2)"
 "Order # %1 Notification(s)","Notification(s) commande #%1"
@@ -4559,6 +4560,7 @@ Paused,"En Pause"
 "Payflow Pro (Includes Express Checkout)","Payflow Pro (Contient Express Checkout)"
 "Payflow Pro and Express Checkout","Payflow Pro et Express Checkout"
 Payment,Paiement
+"Payment ","Paiement "
 "Payment &amp; Shipping Information","Paiement &amp; information de livraison"
 "Payment &amp; Shipping Method","Paiement &amp; méthode de livraison"
 "Payment Action","Action de Paiement"
@@ -5719,13 +5721,13 @@ Security,Sécurité
 "See All (%1 unread)","Voir Tout (%1 non lu(s))"
 "See Details","Voir les détails"
 "
-                            See PayPal Feature Support details and list of supported regions
-                    <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.
-                        ","Voir les détails PayPal des fonctionnalité de support et de la liste des régions prises en charge <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">ici</a>."
-"
                     See PayPal Feature Support details and list of supported regions
                     <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.
                 ","Voir les détails PayPal des fonctionnalité de support et de la liste des régions prises en charge <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">ici</a>."
+"
+                            See PayPal Feature Support details and list of supported regions
+                    <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.
+                        ","Voir les détails PayPal des fonctionnalité de support et de la liste des régions prises en charge <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">ici</a>."
 "See order and shipping status","Voir le statut de la commande et de l’expédition"
 "See our Shipping Policy","Voir notre politique de livraison"
 "See price before order confirmation.","Voir le prix avant la confirmation de la commande."
@@ -6376,10 +6378,10 @@ Subscribers,Abonnés
 "Subscription option","Option d’abonnement"
 "Subscription status must be past due","Le statut de l’abonnement doit être antérieur"
 Subtotal,Sous-total
-"Subtotal (Excl. Tax)","Sous-total (HT)"
 "Subtotal (Excl.Tax)","Sous-total (HT)"
-"Subtotal (Incl.Tax)","Sous-total (TTC)"
+"Subtotal (Excl. Tax)","Sous-total (HT)"
 "Subtotal (Incl. Tax)","Sous-total (TTC)"
+"Subtotal (Incl.Tax)","Sous-total (TTC)"
 Subtotal:,"Sous-total :"
 "Subtotal Excl. Tax","Sous-total HT"
 "Subtotal Incl. Tax","Sous-total TTC"
@@ -6402,11 +6404,11 @@ Summary,Résumé
 "Summary of Your Review","Résumé de votre commentaire"
 "Summary of review: %1 <br/>","Résumé de l’avis : %1 <br>"
 "
-                            Supporting of American Express cards require additional agreement. Learn more at <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.
-                        ","Le support des cartes American Express nécessite des accords supplémentaires. En savoir plus sur <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>."
-"
                     Supporting of American Express cards require additional agreement. Learn more at <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.
                 ","Le support des cartes American Express nécessite des accords supplémentaires. En savoir plus sur <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>."
+"
+                            Supporting of American Express cards require additional agreement. Learn more at <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.
+                        ","Le support des cartes American Express nécessite des accords supplémentaires. En savoir plus sur <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>."
 "Suspected Fraud","Suspicion de fraude"
 Swatch,Échantillon
 "Swatch Helper: not valid parameter for product instantiation","Helper Swatch : paramètre invalide pour l’instanciation du produit"
@@ -6571,9 +6573,9 @@ Text,Texte
 "The address has been deleted.","L’adresse a été supprimée."
 "The address has been saved.","L’adresse a été sauvegardée."
 "The address model is not defined.","Le modèle d’adresse n’est pas défini."
-"The address total model should be extended from \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.","Le modèle total adresse doit étendre MagentoQuoteModelQuoteAddressTotalAbstractTotal."
 "The address total model should be extended from
                     \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.","Le modèle du total de l’adresse doit étendre \Magento\Quote\Model\Quote\Address\Total\AbstractTotal."
+"The address total model should be extended from \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.","Le modèle total adresse doit étendre MagentoQuoteModelQuoteAddressTotalAbstractTotal."
 "The archive can be uncompressed with <a href=""%1"">%2</a> on Windows systems.","L’archive peut être décompressé avec <a href=""%1"">%2</a> sur les systèmes Windows."
 "The attribute code '%1' is reserved by system. Please try another attribute code","Le code d’attribut '%1' est réservé par le système. Veuillez essayez un autre code d’attribut"
 "The attribute code \'%1\' is reserved by system. Please try another attribute code","Le code d’attribut \'%1\' est réservé par le système. Veuillez essayez un autre code d’attribut"
@@ -6582,11 +6584,11 @@ Text,Texte
 "The authorize action is not available.","L’action d’autorisation n’est pas disponible."
 "The authorized amount is %1.","Le montant autorisé est %1."
 "
-                                    The background color for the checkout page around the header and payment form.
-                                ","Couleur de fond de la page de paiement autour de l’en-tête et du formulaire de paiement."
-"
                             The background color for the checkout page around the header and payment form.
                         ","Couleur de fond de la page de paiement autour de l’en-tête et du formulaire de paiement."
+"
+                                    The background color for the checkout page around the header and payment form.
+                                ","Couleur de fond de la page de paiement autour de l’en-tête et du formulaire de paiement."
 "
                             The background color for the header of the checkout page. Case-insensitive six-character HTML hexadecimal color code in ASCII.
                         ","Couleur de fond de l’en-tête de la page de paiement. Sensible à la casse et contenant le code couleur hexadécimal de six caractères au format ASCII."
@@ -6707,11 +6709,11 @@ Text,Texte
 "The header column names are already set.","Les noms de colonnes d’en-tête sont déjà définis."
 "The image MIME type is not valid or not supported.","Le type MIME de l’image est invalide ou non supporté."
 "
-                                    The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged.
-                                ","L’image en haut à gauche de la page de paiement. La taille maximale est de 750x90px. <strong style=""color:red"">https</strong> est fortement recommandé."
-"
                             The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged.
                         ","L’image en haut à gauche de la page de paiement. La taille maximale est de 750x90px. <strong style=""color:red"">https</strong> est fortement recommandé."
+"
+                                    The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged.
+                                ","L’image en haut à gauche de la page de paiement. La taille maximale est de 750x90px. <strong style=""color:red"">https</strong> est fortement recommandé."
 "The image cache was cleaned.","Le cache des images a été nettoyé."
 "The image cannot be removed as it has been assigned to the other image role","L’image ne peut pas être supprimée car elle a été assignée à un autre rôle d’image"
 "The image content is not valid.","Le contenu de l’image n’est pas valide."
@@ -8923,8 +8925,8 @@ unhold,débloquer
 "unselect all","désélectionner tout"
 unverified,"non vérifié"
 "up to %1","jusqu’à %1"
-"user name","nom d’utilisateur"
 username,"Nom d’utilisateur"
+"user name","nom d’utilisateur"
 "ver. %1","ver. %1"
 verified,vérifié
 void,annulé
