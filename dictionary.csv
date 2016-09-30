@@ -8596,7 +8596,7 @@ Yes/No,Oui/Non
 "Your credit card has been declined. You can click OK to add another credit card to complete your purchase. Or you can cancel this credit transaction and pay a different way.","Votre carte de crédit a été refusée. Vous pouvez cliquer sur OK pour ajouter une autre carte de crédit afin d’effectuer l’achat, ou vous pouvez annuler cette opération et choisir un autre moyen de paiement."
 "Your credit card will be charged for","Votre carte de crédit sera débitée de"
 "Your current currency is: %1.","La devise actuelle est : %1."
-"Your current session has been expired.","Votre session a expirée."
+"Your current session has been expired.","Votre session a expiré."
 "Your current session is terminated by another user of this account.","Votre session actuelle vient d’être interrompue par la connexion d’un autre utilisateur sur ce compte."
 "
                         Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.
