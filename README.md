@@ -1,4 +1,4 @@
-# Magento 2 French Language Pack v100.6.22
+# Magento 2 French Language Pack v100.6.23
 
 French translation for Magento 2. Translation fr_FR (French France).
 
@@ -19,6 +19,10 @@ Supported versions:
 * Magento v2.0.8
 * Magento v2.1.0
 * Magento v2.1.1
+
+## Donation
+
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UPTWGP9FGJ6EC)
 
 ## Links
 
@@ -59,4 +63,4 @@ Create folder your-magento-path/app/i18n/imaginaerum/fr_fr and extract zip into 
 
 | Total | Translated | Left | Progression |
 | -------------: | -----------------------: | -----------------------: | :---------: |
-| 8753 | 8753 | 0 | ![Progress](http://progressed.io/bar/100) |
+| 8753 | 0 | 8753 | ![Progress](http://progressed.io/bar/-INF) |
