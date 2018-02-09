@@ -8567,7 +8567,7 @@ Yes/No,Oui/Non
 "Your %store_name email and password has been changed","Votre email et mot de passe %store_name ont été changés"
 "Your %store_name email has been changed","Votre email %store_name a été changé"
 "Your %store_name order confirmation","Confirmation de votre commande %store_name"
-"Your %store_name order has shipped","Votre commande %store_name a été livrée"
+"Your %store_name order has shipped","Votre commande %store_name a été expédiée"
 "Your %store_name password has been changed","Votre mot de passe %store_name a été changé"
 "Your Checkout Progress","Avancement de votre commande"
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Votre avoir #%creditmemo_id pour la commande #%order_id"
