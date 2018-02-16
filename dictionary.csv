@@ -787,7 +787,7 @@ Anchor,Ancre
 "An error occurred while updating the selected review(s).","Erreur lors de la mise à jour des commentaires sélectionnés."
 "An error occurred while updating wish list.","Une erreur s'est produite lors de la mise à jour de la liste d’envies."
 "An error was encountered while performing delete operation.","Une erreur est survenue durant la suppression."
-"An inactive store view cannot be saved as default store view","La vue magasin par défaut ne peut être désactivée"
+"An inactive store view cannot be saved as default store view","Une vue en magasin inactif ne peut pas être enregistrée en tant que vue par défaut de magasin"
 "An item object is not specified.","Un article n’est pas spécifié."
 "An item option with code %1 already exists.","Une option article avec le code %1 existe déjà."
 "An order with subscription items was registered.","Une commande avec abonnement a été enregistrée."
