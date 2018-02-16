@@ -1107,7 +1107,7 @@ Base,Base
 "Based On","Basé sur"
 "Based on the VAT ID, ' 'the customer would belong to the Customer Group %s.","Basé sur le numéro de TVA, le client appartient au groupe de clients %s."
 "Based on the VAT ID, the customer belongs to the Customer Group %s.","Basé sur le numéro de TVA, le client appartient au groupe de clients %s."
-"Based on your selections %1 new products will be created. Use this step to customize images and price for your new products.","Sur la base de votre sélection, %1 nouveaux produits seront crées. Cette étape permet de personnaliser les images et les prix pour vos nouveaux produits."
+"Based on your selections %1 new products will be created. Use this step to customize images and price for your new products.","Basé sur vos sélections %1 nouveaux produits seront créés. Utilisez cette étape pour personnaliser les images et le prix de vos nouveaux produits."
 "Based on your selections <span class=""new-products-count"" data-bind=""text:countVariations""></span>
         new products will be created. Use this step to customize images and price for your new products.","Sur la base de votre sélection, <span class=""new-products-count"" data-bind=""text:countVariations""></span> nouveaux produits seront crées. Cette étape permet de personnaliser les images et les prix pour vos nouveaux produits."
 "Basic Braintree Settings","Paramètres de base Braintree"
