@@ -1728,7 +1728,7 @@ Continue,Continuer
 "Cookie Lifetime","Durée de vie des cookies"
 "Cookie Path","Chemin du cookie"
 "Cookie Restriction Mode","Mode de restriction de cookie"
-"Cookie name cannot be empty and cannot contain these characters: =,; \\t\\r\\n\\013\\014","Le nom du cookie ne peut contenir les caractères suivants : =,; \\t\\r\\n\\013\\014"
+"Cookie name cannot be empty and cannot contain these characters: =,; \\t\\r\\n\\013\\014","Le nom du cookie ne peut pas être vide et ne peut pas contenir ces caractères: =,; \\t\\r\\n\\013\\014"
 " Copy"," Copie"
 Copy,Copie
 "Copy Data from","Copier les données depuis"
