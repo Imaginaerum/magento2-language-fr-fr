@@ -3422,7 +3422,7 @@ Invalidated,Invalidé
 "Invalid entity type","Type d’entité invalide"
 "Invalid export type supplied for grid export block","Le type d’exportation est invalide"
 "Invalid field dataType attribute value","Valeur d’attribut du champ dataType incorrecte"
-"Invalid field handler attribute value","Valeur de champ du gestionnaire d’attribut invalide"
+"Invalid field handler attribute value","Valeur de l'attribut du gestionnaire de champ non valide"
 "Invalid field type","Type de champ invalide"
 "Invalid file format.","Format de fichier invalide."
 "Invalid file transfer mode","Mode de transfert de fichier invalide"
