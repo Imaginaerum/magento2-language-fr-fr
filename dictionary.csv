@@ -3138,7 +3138,7 @@ Identifier,Identifiant
 "If %1 of these conditions are %2:","Si %1 de ces conditions sont %2 :"
 "If 0 is specified, CAPTCHA on the Login form will be always available.","Si 0 est choisi, le CAPTCHA sera toujours disponible dans le formulaire de connexion."
 "If an item is %1 in the cart with %2 of these conditions true:","Si un article est %1 panier et qu’il répond à %2 ces conditions :"
-"If current frame position does not cover utmost pages, it renders the link to current position plus/minus this value.","Si la position du cadre actuel ne couvre pas complètement les pages, un lien sera affiché à la position correspondant plus ou moins à cette valeur."
+"If current frame position does not cover utmost pages, it renders the link to current position plus/minus this value.","Si la position actuelle de la trame ne couvre pas les pages les plus importantes, elle rend le lien à la position actuelle plus / moins cette valeur."
 "If empty, UTF-8 will be used.","Si vide, l’UTF-8 sera utilisé."
 "If empty, a default value will be used. Custom URL may be provided by CardinalCommerce agreement.","Si ce champ est vide, la valeur par défaut sera utilisée. Une URL personnalisée peut être fournie par un accord CardinalCommerce."
 "If empty, the Category Name will be used","Si vide, le nom de la catégorie sera utilisé"
