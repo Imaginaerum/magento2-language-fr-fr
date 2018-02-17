@@ -8790,7 +8790,7 @@ failed.,échec.
 "first part of concat second part with two placeholders %1, %2","first part of concat second part with two placeholders %1, %2"
 "first part second part","première partie seconde partie"
 "first part second part third part","première partie seconde partie troisième partie"
-"first part second part with one string literal placeholder %1","first part second part with one string literal placeholder %1"
+"first part second part with one string literal placeholder %1","première partie seconde partie avec un substituant littéral de chaîne %1"
 fl,fl
 " for more information or ","pour plus d’information ou "
 frontend_label,frontend_label
