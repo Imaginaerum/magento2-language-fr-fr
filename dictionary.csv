@@ -1737,8 +1737,8 @@ Copy,Copie
 Copyright,Copyright
 "Copyright &copy; %1 Magento Commerce Inc. All rights reserved.","Copyright&copy; %1 Magento Commerce Inc. Tous droits réservés."
 "Copyright&copy; %1 Magento Commerce Inc. All rights reserved.","Copyright&copy; %1 Magento Commerce Inc. Tous droits réservés."
-"Copyright © 2015 Magento. All rights reserved.","Copyright © 2015 Magento. Tous droits réservés."
-"Copyright © 2016 Magento. All rights reserved.","Copyright © 2016 Magento. Tous droits réservés."
+"Copyright © 2015 Magento. All rights reserved.","Copyright © 2015 Magento. Tous les droits sont réservés."
+"Copyright © 2016 Magento. All rights reserved.","Copyright © 2016 Magento. Tous les droits sont réservés."
 "Copy to Wish List","Copier vers la liste d’envies"
 Cost,Coût
 "Could not add gift message to order's item: ""%1""","Impossible d’ajouter un message cadeau pour l’article ""%1"""
