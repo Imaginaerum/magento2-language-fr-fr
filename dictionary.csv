@@ -3057,7 +3057,7 @@ Guest,Invité
 "Guest checkout will only work with shareable.","Le passage de commande en tant qu’invité ne fonctionnera qu’avec les partageables."
 HTML,HTML
 "HTML Head","En-tête HTML"
-"HTML ID or class will not have effect, if HTML tag is not specified.","Un ID ou une classe HTML n’ont aucun effet, si le tag HTML n’est pas défini."
+"HTML ID or class will not have effect, if HTML tag is not specified.","L'ID ou la classe HTML n'aura pas d'effet si la balise HTML n'est pas spécifiée."
 "HTML tags are not allowed","Les balises HTML ne sont pas autorisées"
 "HTML tags are not allowed.","Les balises HTML ne sont pas autorisées."
 "HTTP (unsecure)","HTTP (non sécurisé)"
