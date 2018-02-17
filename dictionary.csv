@@ -745,7 +745,7 @@ Anchor,Ancre
 "Anchor symbol (#) is not supported in request path.","Le symbole Ancre (""#"") n’est pas supporté dans le chemin de la requête."
 "Anchor symbol (#) is not supported in url rewrite suffix.","Le symbole Ancre (""#"") n’est pas supporté dans le suffixe de la réécriture d’URL."
 "Android pay card","Carte de paiement Android"
-"An error occured with payment processing.","Une erreur est survenue lors du traitement de paiement."
+"An error occured with payment processing.","Une erreur s’est produite lors du traitement des paiements."
 "An error occurred","Une erreur est survenue"
 "An error occurred. The email template can not be opened for preview.","Une erreur s'est produite. Le gabarit d’email ne peut pas être ouvert pour aperçu."
 "An error occurred on the server. Please try to place the order again.","Une erreur serveur s'est produite. Veuillez recommencer plus tard."
