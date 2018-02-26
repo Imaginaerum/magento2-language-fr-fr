@@ -618,7 +618,7 @@ Advanced,Avancé
 "Alert subscription has been saved.","L’inscription à l’alerte a été sauvegardée."
 "A letter with further instructions will be sent to your email.","Un email avec d’autres instructions vous sera envoyé."
 All,Tous
-"All ","Tous "
+"All ",Tous
 "All Allowed Countries","Tous les pays autorisés"
 "All Cache","Tous les caches"
 "All Countries","Tous les pays"
@@ -665,7 +665,9 @@ Allow,Autoriser
 "Allow Symlinks","Autoriser les liens symboliques"
 "
                             Allowable values: ""paypal"", ""primary"" (default), your_custom_value (a custom payment page style from your merchant account profile).
-                        ","Valeurs possibles : ""paypal "" , ""primary"" (par défaut) , your_custom_value (une page de paiement personnalisée depuis votre compte marchand)."
+                        ","
+                            Valeurs possibles : ""paypal "" , ""primary"" (par défaut) , your_custom_value (une page de paiement personnalisée depuis votre compte marchand).
+                        "
 "
                                     Allowable values: ""paypal"", ""primary"" (default), your_custom_value (a custom payment page style from your merchant account profile).
                                 ","Valeurs possibles : ""paypal "" , ""primary"" (par défaut) , your_custom_value (une page de paiement personnalisée depuis votre compte marchand)."
@@ -1015,7 +1017,7 @@ Authorization,Autorisation
 "Authorization expired","Autorisation expirée"
 Authorize,Autoriser
 "Authorize.Net Transaction ID %1","Authorize.Net transaction ID %1"
-"Authorize.Net Transaction ID %1.","Authorize.Net transaction ID %1."
+"Authorize.Net Transaction ID %1.","Authorize.Net Transaction ID %1."
 Authorize.net,Authorize.net
 "Authorize.net Direct Post","Soumission directe authorize.net"
 "Authorize Only","Autorisation Seulement"
@@ -1144,7 +1146,7 @@ Bestsellers,"Meilleures ventes"
 Billing,Facturation
 "Billing Address","Adresse de facturation"
 "Billing Address:","Adresse de facturation :"
-"Billing Address: ","Adresse de facturation : "
+"Billing Address: ","Adresse de facturation :"
 "Billing Agreement","Entente de facturation"
 "Billing Agreement # ","Entente de facturation # "
 "Billing Agreement #%1","Entente de facturation # %1"
@@ -1283,7 +1285,7 @@ CVV,CVV
 "Can\'t save description %1","Impossible de sauvegarder la description %1"
 "Can\'t unhold order.","Impossible de débloquer la commande."
 "Can\'t update wish list","Impossible de mettre à jour la liste d’envies"
-"Canada Standard","Canada standard"
+"Canada Standard","Canada Standard"
 "Can be Divided into Multiple Boxes for Shipping","Peut être divisé en plusieurs colis pour la livraison"
 "Can be used only with catalog input type Dropdown, Multiple Select and Price","Ne peut être utilisé qu’avec un type de saisie ""liste déroulante"", ""choix multiple"", ou ""prix"""
 "Can be used only with catalog input type Dropdown, Multiple Select and Price.","Ne peut être utilisé qu’avec un type de saisie ""liste déroulante"", ""choix multiple"", ou ""prix"""
@@ -1453,7 +1455,7 @@ Catalog,Catalogue
 "Catalog Rule Product","Règles produit catalogue"
 "Catalog Search","Catalogue, recherche"
 "Catalog Section","Section catalogue"
-Categories,Catégories
+Categories,Categories
 "Categories Options","Options pour les catégories"
 Category,Catégorie
 "Category ""%1"" has not been created.","La catégorie ""%1"" ne peut être crée."
@@ -1730,7 +1732,7 @@ Continue,Continuer
 "Cookie Restriction Mode","Mode de restriction de cookie"
 "Cookie name cannot be empty and cannot contain these characters: =,; \\t\\r\\n\\013\\014","Le nom du cookie ne peut pas être vide et ne peut pas contenir ces caractères: =,; \\t\\r\\n\\013\\014"
 " Copy"," Copie"
-Copy,Copie
+Copy," Copie"
 "Copy Data from","Copier les données depuis"
 "Copy Selected to Wish List","Copier la sélection vers la liste d’envies"
 "Copy of %1","Copie de %1"
@@ -1853,7 +1855,7 @@ Created:,"Créé :"
 "Created billing agreement #%1.","Entente de facturation #%1 créée."
 "Creating an account has many benefits:","La création d’un compte possède de nombreux avantages :"
 "Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","La création d’un compte a de nombreux avantages : consultation rapide, sauvegarder plusieurs adresses, suivre les commandes, et bien plus encore."
-Credit,Crédit
+Credit,Credit
 "Credit Card","Carte de crédit"
 "Credit Card %1","Carte Bancaire %1"
 "Credit Card: xxxx-%1","Carte de crédit: xxxx-%1"
@@ -2075,13 +2077,13 @@ Date,Date
 Datetime,"Date et heure"
 Day,Jour
 "Days in Wish List","Nombre de jour dans la liste d’envies"
-Debit,Débit
+Debit,Debit
 "Debit Card Cash Back","Retour d’argent par carte de débit"
 "Debit Card Transaction","Transaction par carte de débit"
 "Debit or Credit","Débit ou crédit"
 Debug,Débogage
 "Debug Mode","Mode débogage"
-Decimal,Décimal
+Decimal,Decimal
 "Decimal Number","Nombre décimal"
 "Decimal qty increments is not allowed.","Les incréments de quantités ne peuvent pas être une valeur décimale."
 "Declare attribute value saving scope","Déclarer la portée d’économie de valeurs d’attributs"
@@ -2231,9 +2233,9 @@ Design,Design
 "Destination directory is not writable","Le répertoire de destination n’a pas les droits en écriture"
 "Destination file is not writable","Le fichier de destination n’a pas les droits en écriture"
 "Destination file path must be a string","Le chemin du fichier de destination doit être une chaîne de caractères"
-Detail,Détail
+Detail,Detail
 "Detailed Rating","Notation détaillée"
-Details,Détails
+Details,Details
 "Details for %1 #%2","Détails pour %1 #%2"
 Developer,Développeur
 "Developer Client Restrictions","Restrictions client développeur"
@@ -2435,7 +2437,7 @@ Edit,Modifier
 "Edit role","Modifier le rôle"
 "Element ID must not be numeric: '%1'.","L’ID de l’élément doit être numérique: '%1'."
 "Element name and destination must be specified.","Le nom de l’élément et sa destination doivent être spécifiés."
-Elements,Éléments
+Elements,Elements
 "Element with ID '%1' already exists.","Un élément avec l’ID '%1' existe déjà."
 "Element with ID '%1' is already defined.","Un élément avec l’ID '%1' est déjà défini."
 Eligible,Eligible
@@ -2914,7 +2916,7 @@ Frontend,Frontend
 "Frontend Properties","Propriétés du frontend"
 "Frontend label is not defined","Le libellé de front office n’est pas défini"
 Fulfilled,Rempli
-"Full Page Cache","Full page cache"
+"Full Page Cache","Full Page Cache"
 "Full page caching","Full page caching."
 "Full page caching.","Full page caching."
 Funding,Financement
@@ -2928,7 +2930,7 @@ Gallery,Galerie
 "Gateway rejected","Passerelle rejetée"
 Gender,Genre
 "Gender is required.","Le genre est obligatoire."
-General,Général
+General,General
 "General (Authorization)","Général (autorisation)"
 "General (Dividend)","Général (dividendes)"
 "General (Funds Transfer from PayPal Account to Another)","Général (transfert de fonds de compte PayPal à un autre)"
@@ -3000,8 +3002,8 @@ Global,Global
 "Global Attribute","Attribut global"
 "Global Express Guaranteed (GXG)","Global Express Guaranteed (GXG)"
 "Global Express Guaranteed Document","Global Express Guaranteed Document"
-"Global Express Guaranteed Non-Document Non-Rectangular","Global Express Guaranteed non-Document non-Rectangular"
-"Global Express Guaranteed Non-Document Rectangular","Global Express Guaranteed non-Document rectangular"
+"Global Express Guaranteed Non-Document Non-Rectangular","Global Express Guaranteed Non-Document Non-Rectangular"
+"Global Express Guaranteed Non-Document Rectangular","Global Express Guaranteed Non-Document Rectangular"
 "Global Search","Recherche globale"
 "Globally Editable","Éditable globalement"
 "Globalmail business","Globalmail business"
@@ -3037,7 +3039,7 @@ Grid,Grille
 "Gross Amount","Montant brut"
 Ground,Sol
 "Ground Commercial","Raison commerciale"
-"Ground Residential","Ground residential"
+"Ground Residential","Ground Residential"
 Group,Groupe
 "Group Information","Informations du groupe"
 "Group Label","Libellé du groupe"
@@ -3316,7 +3318,7 @@ Integer,Entier
 "Integration Tokens for Extensions","Clé d’intégration pour les extensions"
 "Integration configuration file","Fichier de configuration de l’intégration."
 "Integration configuration file.","Fichier de configuration de l’intégration."
-Integrations,Intégrations
+Integrations,Integrations
 "Integrations API Configuration","Configuration API intégrations"
 "Integrations API configuration file","Intégrations API du fichier de configuration."
 "Integrations API configuration file.","Intégrations API du fichier de configuration."
@@ -3497,7 +3499,7 @@ Inventory,Inventaire
 Invitee,Invité
 Invoice,Facture
 "Invoice #","Facture #"
-"Invoice # ","Facture # "
+"Invoice # ","Facture #"
 "Invoice #%1","Facture #%1"
 "Invoice #%1 comment added","Commentaire ajouté à la facture #%1"
 "Invoice #%1 created","Facture #%1 créée"
@@ -3541,7 +3543,7 @@ Item,Article
 "Item %1 of %2","Article %1 sur %2"
 "Item Price","Prix de l’article"
 "Item Status",Statut
-"Item in Cart","Articles dans le panier"
+"Item in Cart","Article dans le panier"
 "Item not found or already ordered","Produit non trouvé ou déjà commandé"
 "Item ordered qty","Qté commandée"
 "Item qty declaration error","Erreur lors de la déclaration de quantité d’un article"
@@ -3836,13 +3838,13 @@ Marketing,Marketing
 "Maximum zip code length is 9.","La longueur maximale du code postal est de 9 caractères."
 "May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","Peut être vide ou commencer par la variable {{secure_base_url}} ou {{unsecure_base_url}}."
 "May be empty or start with {{unsecure_base_url}} placeholder.","Peut être vide ou commencer par la variable {{unsecure_base_url}}."
-"Media (.avi, .flv, .swf)","Média (.avi, .flv, .swf)"
+"Media (.avi, .flv, .swf)","Media (.avi, .flv, .swf)"
 "Media Gallery","Galerie de médias"
 "Media Gallery converter should be an instance of EntryConverterInterface.","Le convertisseur Media Gallery doit être une instance de EntryConverterInterface."
 "Media Image",Image
 "Media Mail","Courrier média"
 "Media Storage","Stockage des médias"
-"Medical express","Médical express"
+"Medical express","Medical express"
 Medium,Moyen
 "Medium Express Box","Boite Express Medium"
 "Memo Total","Total de l’avoir"
@@ -3882,7 +3884,7 @@ Message:,"Message :"
 "Message with ""%1"" and ""%2""","Message avec ""%1"" et ""%2"""
 "Message with period.","Message avec la période."
 "Meta Data","Données méta"
-"Meta Description","Méta description"
+"Meta Description","Meta Description"
 "Meta Keywords","Mots-clés meta"
 "Meta Title","Titre méta"
 "Meter Number","Numéro du compteur"
@@ -4322,7 +4324,7 @@ Online,"En ligne"
 "Operation ""%1"" not found.","L’opération ""%1"" est introuvable."
 "Operation allowed only in HTTPS","Opération autorisée uniquement en HTTPS"
 "Operation do not allow to move a parent category to any of children category","Opération ne permettent pas de déplacer une catégorie parente a une quelconque catégorie enfants"
-Operations,Opérations
+Operations,Operations
 "Option Title","Titre de l’option"
 "Option Title:","Titre de l’option :"
 "Option Type","Type d’option"
@@ -4337,7 +4339,7 @@ Options,Options
 "Option with id ""%1"" not found","Option id ""%1"" n’a pas été trouvée"
 Order,Commande
 "Order #","Commande #"
-"Order # ","Commande # "
+"Order # ","Commande #"
 "Order #%1","Commande #%1"
 "Order # %1","Commande #%1"
 "Order # %1 %2 | %3","Commande # %1 %2 | %3"
@@ -4433,7 +4435,7 @@ PAK,PAK
 "PHP SOAP extension is required.","L’extension SOAP de PHP est requise."
 PM,PM
 Package,Package
-"Package Extensions","Package extensions"
+"Package Extensions","Package Extensions"
 Packages,Packages
 "Packages Request Type","Type de requête de paquets"
 Packaging,Emballage
@@ -4562,7 +4564,7 @@ Paused,"En Pause"
 "Payflow Pro (Includes Express Checkout)","Payflow Pro (Contient Express Checkout)"
 "Payflow Pro and Express Checkout","Payflow Pro et Express Checkout"
 Payment,Paiement
-"Payment ","Paiement "
+"Payment ",Paiement
 "Payment &amp; Shipping Information","Paiement &amp; information de livraison"
 "Payment &amp; Shipping Method","Paiement &amp; méthode de livraison"
 "Payment Action","Action de Paiement"
@@ -5142,12 +5144,12 @@ Priority,Priorité
 "Priority Mail Medium Flat Rate Box Hold For Pickup","Priority Mail Medium Flat Rate Box Hold For Pickup"
 "Priority Mail Padded Flat Rate Envelope","Priority Mail Padded Flat Rate Envelope"
 "Priority Mail Padded Flat Rate Envelope Hold For Pickup","Priority Mail Padded Flat Rate Envelope Hold For Pickup"
-"Priority Mail Regional Rate Box A","Priority Mail regional Rate Box A"
-"Priority Mail Regional Rate Box A Hold For Pickup","Priority Mail regional Rate Box A Hold For Pickup"
-"Priority Mail Regional Rate Box B","Priority Mail regional Rate Box B"
-"Priority Mail Regional Rate Box B Hold For Pickup","Priority Mail regional Rate Box B Hold For Pickup"
-"Priority Mail Regional Rate Box C","Priority Mail regional Rate Box C"
-"Priority Mail Regional Rate Box C Hold For Pickup","Priority Mail regional Rate Box C Hold For Pickup"
+"Priority Mail Regional Rate Box A","Priority Mail Regional Rate Box A"
+"Priority Mail Regional Rate Box A Hold For Pickup","Priority Mail Regional Rate Box A Hold For Pickup"
+"Priority Mail Regional Rate Box B","Priority Mail Regional Rate Box B"
+"Priority Mail Regional Rate Box B Hold For Pickup","Priority Mail Regional Rate Box B Hold For Pickup"
+"Priority Mail Regional Rate Box C","Priority Mail Regional Rate Box C"
+"Priority Mail Regional Rate Box C Hold For Pickup","Priority Mail Regional Rate Box C Hold For Pickup"
 "Priority Mail Small Flat Rate Box","Priority Mail Small Flat Rate Box"
 "Priority Mail Small Flat Rate Box Hold For Pickup","Priority Mail Small Flat Rate Box Hold For Pickup"
 "Priority Mail Small Flat Rate Envelope","Priority Mail Small Flat Rate Envelope"
@@ -5392,7 +5394,7 @@ Redirect,Rediriger
 "Redirect URL","URL de redirection"
 Redirecting...,Redirection
 "Redirect to CMS-page if Cookies are Disabled","Rediriger vers la page CMS si les cookies sont désactivés"
-"Reference ID","Référence ID"
+"Reference ID","Reference ID"
 "Reference ID:","Référence ID :"
 "Reference Information","Information sur la référence"
 "Reflection Data","Données de réflexion"
@@ -5563,13 +5565,13 @@ Reviews,Avis
 "Reviews %1","Avis %1"
 "Reviews for %1","Commentaires pour %1"
 "Reward Voucher Redemption","Rachat de bon de récompense"
-Role,Rôle
+Role,Role
 "Role Info","Infos du rôle"
 "Role Information","Informations du rôle"
 "Role Name","Nom du rôle"
 "Role Resources","Ressources du rôle"
 "Role Users","Utilisateurs ayant ce rôle"
-Roles,Rôles
+Roles,Roles
 "Roles Resources","Ressources des rôles"
 Rollback,Restaurer
 Root,Racine
@@ -5931,7 +5933,7 @@ Shipping,Livraison
 "Shipping (Incl. Tax)","Livraison et traitement (TTC)"
 "Shipping Address","Adresse de livraison"
 "Shipping Address:","Adresse de livraison :"
-"Shipping Address: ","Adresse de livraison : "
+"Shipping Address: ","Adresse de livraison :"
 "Shipping Amount","Montant de la livraison"
 "Shipping Country","Pays de livraison"
 "Shipping Excl. Tax (%1)","Livraison HT (%1)"
@@ -6750,7 +6752,7 @@ Text,Texte
 "The link to a friend was sent.","Le lien à un ami a été envoyé."
 "The maximum allowed image size for '%1' is %2x%3 px.","La taille image maximale autorisée pour '%1' est %2x%3 px."
 "The maximum number of child authorizations is reached.","Le nombre maximum d’autorisations enfants est atteint."
-Theme,Thème
+Theme,Theme
 "Theme: %1","Thème : %1"
 "Theme CSS","CSS du thème"
 "Theme CSS Assets","Ressources CSS du thème"
@@ -6773,7 +6775,7 @@ Theme,Thème
 "The merchant holds a non-U.S. account and doesn't have a withdrawal mechanism.","Le marchand titulaire d’un compte non-U.S et ne dispose pas d’un système de mécanisme de retrait."
 "The merchant holds a non-U.S. account and doesn\'t have a withdrawal mechanism.","Le marchand titulaire d’un compte non-U.S et ne dispose pas d’un système de mécanisme de retrait."
 "The merchant holds a non-U.S. account and does not have a withdrawal mechanism.","Le marchand détient un compte non U.S. et ne possède pas de droits de rétractation."
-Themes,Thèmes
+Themes,Themes
 "Themes JavaScript and CSS files combined to one file","Fichiers de thèmes JavaScript et CSS combinés en un seul fichier."
 "Themes JavaScript and CSS files combined to one file.","Fichiers de thèmes JavaScript et CSS combinés en un seul fichier."
 "The message cannot be empty.","Le message ne peut pas être vide."
@@ -7296,7 +7298,7 @@ Track:,"Suivre :"
 "Transaction Details URL","URL du détail de la transaction"
 "Transaction ID","ID Transaction"
 " Transaction ID: ""%1"""," ID de transaction : ""%1"""
-"Transaction ID: ""%1""","ID de transaction : ""%1"""
+"Transaction ID: ""%1"""," ID de transaction : ""%1"""
 "Transaction Information","Information sur les transactions"
 "Transaction Key","Clé de la Transaction"
 "Transaction Type","Type de transaction"
@@ -7380,7 +7382,7 @@ UPS,UPS
 "UPS Worldwide Express Plus","UPS Worldwide Express Plus"
 "UPS Worldwide Express PlusSM","UPS Worldwide Express PlusSM"
 "UPS Worldwide Saver","UPS Worldwide Saver"
-URL,Url
+URL,URL
 "URL Key","Clé d’URL"
 "URL Rewrite Information","Information sur la réécriture d’URL"
 "URL Rewrite Management","Gestion de réécriture d’URL"
@@ -8285,7 +8287,7 @@ Welcome,Bienvenue
 "We were unable to synchronize one or more media files. Please refer to the log file for details.","Nous n’avons pas été en mesure de synchroniser un ou plusieurs fichiers médias. Veuillez consulter les logs pour obtenir plus de détails."
 "We will authorize %1 after the payment is approved at the payment gateway.","Nous autoriserons %1 une fois que le paiement aura été approuvé par la passerelle de paiement."
 "We will disable this feature if the value is empty.","Cette fonctionnalité est désactivée si la valeur est vide."
-"We will disable this feature if the value is empty. ","Cette fonctionnalité est désactivée si la valeur est vide. "
+"We will disable this feature if the value is empty. ","Cette fonctionnalité est désactivée si la valeur est vide."
 "What's this?","Qu’est-ce que c'est ?"
 "What\'s this?","Qu’est-ce que c\'est ?"
 "What are you looking for?","Que recherchez-vous ?"
@@ -8813,9 +8815,9 @@ is,"est égal(e) à"
 "is one of","fait partie de"
 " is required."," requis."
 " item"," article"
-item,article
+item," article"
 " items"," articles"
-items,articles
+items," articles"
 "items selected","éléments sélectionnés"
 kB,Ko
 kg,kg
@@ -8843,7 +8845,7 @@ none,aucun
 notice,notice
 of,sur
 "of %1","sur %1"
-options,Options
+options,options
 or,ou
 "or ","ou "
 "or call us at %store_phone","ou appelez nous au %store_phone"
@@ -8863,7 +8865,7 @@ product,produit
 px.,px.
 "records found","enregistrements trouvés"
 refund,rembourser
-region,région
+region,region
 riskDataDecision,riskDataDecision
 riskDataId,riskDataId
 sample,exemple
@@ -8935,7 +8937,1350 @@ void,annulé
 "website(%1) scope","portée du site web (%1)"
 welcome,Bienvenue
 yes,oui
-{size},Taille
+{size},{size}
 "{width}^{height} px","{width}^{height} px"
 "{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. It is highly recommended to change this value in your Magento <a href=""%1"">configuration</a>.","Il n’est pas recommandé d’utiliser la variable {{base_url}} en production pour spécifier les URLs de base (sécurisée et non-sécurisée). Il est fortement recommandé de modifier cette valeur dans la <a href=""%1"">configuration</a> de Magento."
 "{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","Il n’est pas recommandé d’utiliser la variable {{base_url}} en production pour spécifier les URLs de base (sécurisée et non-sécurisée). Il est fortement recommandé de modifier cette valeur dans la <a href=""%1"">configuration</a> de Magento."
+"Automation Program","Automation Program"
+"Add New Enrolment","Add New Enrolment"
+"Data Field","Data Field"
+Disconnect,Disconnect
+Connect,Connect
+"Run Contact Sync","Run Contact Sync"
+"Run Importer Sync","Run Importer Sync"
+"dotmailer Configuration","dotmailer Configuration"
+"v. %1","v. %1"
+"Log Viewer","Log Viewer"
+"Edit Rule %1","Edit Rule %1"
+"Exclusion Rule Conditions","Exclusion Rule Conditions"
+"Conditions Combination Match","Conditions Combination Match"
+"Rule Type","Rule Type"
+"Exclusion Rule","Exclusion Rule"
+Automation,Automation
+"Automation Report","Automation Report"
+Campaign,Campaign
+"Campaign ","Campaign "
+"Campaign Report","Campaign Report"
+"Catalog ",Catalogue
+"Catalog Report","Catalog Report"
+"Contacts ","Contacts "
+"Contact Report","Contact Report"
+"Cron Tasks","Cron Tasks"
+"Dashboard ","Tableau de bord"
+"Dotmailer Dashboard","Dotmailer Dashboard"
+"Please select cron.","Please select cron."
+"Data field successfully created.","Data field successfully created."
+"Import Report","Import Report"
+Importer,Importer
+"Please select importer.","Please select importer."
+"Total of %1 record(s) were reset.","Total of %1 record(s) were reset."
+"Log Viewer ","Log Viewer "
+"Dotmailer Log Viewer","Dotmailer Log Viewer"
+"Order Report","Order Report"
+"Review Report","Review Report"
+Rules,Rules
+"Rules ","Rules "
+"Exclusion Rules","Exclusion Rules"
+"Rule already exist for website ' . . '. You can only have one rule per website.","Rule already exist for website ' . . '. You can only have one rule per website."
+Done.,Done.
+Wishlists,Wishlists
+"Wishlist Report","Wishlist Report"
+"An error occurred while saving your subscription preferences.","An error occurred while saving your subscription preferences."
+"The subscription preferences has been saved.","The subscription preferences has been saved."
+"You are not authorised to view content of this page.","You are not authorised to view content of this page."
+"Not Imported","Not Imported"
+Importing,Importing
+Imported,Imported
+"is empty","is empty"
+"equals or less then","equals or less then"
+"does not contains","does not contains"
+"Abandoned Cart Exclusion Rule","Abandoned Cart Exclusion Rule"
+"Review Email Exclusion Rule","Review Email Exclusion Rule"
+"Dotmailer connector API endpoint cannot be empty.","Dotmailer connector API endpoint cannot be empty."
+"---- Default Option ----","---- Option par défaut ----"
+"-- Disabled --","-- Désactivé --"
+" Hour",Heure
+" Hours"," Hours"
+"15 Minutes","15 Minutes"
+"20 Minutes","20 Minutes"
+"25 Minutes","25 Minutes"
+"30 Minutes","30 Minutes"
+"40 Minutes","40 Minutes"
+"50 Minutes","50 Minutes"
+"60 Minutes","60 Minutes"
+String,String
+Private,Private
+Public,Public
+"API Credentials Valid.","API Credentials Valid."
+"Authorization has been denied for this request.","Authorization has been denied for this request."
+"Expiration date","Expiration date"
+"Generated By dotmailer","Generated By dotmailer"
+"API valid","API valid"
+"Cron last execution","Cron last execution"
+"Dynamic content passcode","Dynamic content passcode"
+"Abandoned Cart limit time","Abandoned Cart limit time"
+"PHP Version","PHP Version"
+"PHP max execution time","PHP max execution time"
+"Mode ","Mode "
+"Magento Version ","Magento Version "
+"Connector Version ","Connector Version "
+"Select Log File:","Select Log File:"
+"Marketing Automation Log","Marketing Automation Log"
+"Magento System Log","Magento System Log"
+"Magento Exception Log","Magento Exception Log"
+"Magento Debug Log","Magento Debug Log"
+Reload,Reload
+"Websites View:","Websites View:"
+"Click here for status","Click here for status"
+"PRODUCT STYLING PREVIEW","PRODUCT STYLING PREVIEW"
+"COUPON STYLING PREVIEW","COUPON STYLING PREVIEW"
+DOT-XXX-XXX-XXX,DOT-XXX-XXX-XXX
+"Total: ","Total :"
+"Take Me To My Basket","Take Me To My Basket"
+"Newsletter Preferences","Newsletter Preferences"
+"Additional Newsletter Subscriptions","Additional Newsletter Subscriptions"
+"Data Fields","Data Fields"
+"Leave a review","Leave a review"
+"View Now","View Now"
+"Feefo Feedback","Feefo Feedback"
+"See what our customers say about us","See what our customers say about us"
+"Subscription status","Subscription status"
+"Sorry, there has been an error processing your request. Please try again later.","Sorry, there has been an error processing your request. Please try again later."
+"Time value has an unsupported format","Time value has an unsupported format"
+"Cron settings can't be saved","Cron settings can't be saved"
+"There was an error save new configuration value.","There was an error save new configuration value."
+"Please select a vertical.","Please select a vertical."
+"Command was not found.","Command was not found."
+"Input data must be string or convertible into string.","Input data must be string or convertible into string."
+"Input data must be non-empty string.","Input data must be non-empty string."
+"Not valid cipher method.","Not valid cipher method."
+"Encryption key can't be empty.","Encryption key can't be empty."
+"Source ""%1"" is not exist","Source ""%1"" is not exist"
+"These arguments can't be empty ""%1""","These arguments can't be empty ""%1"""
+"Cannot find predefined integration user!","Cannot find predefined integration user!"
+"File is not ready yet.","File is not ready yet."
+"Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later."
+"Failed to synchronize data to the Magento Business Intelligence service. ","Failed to synchronize data to the Magento Business Intelligence service. "
+"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Retry Synchronization</a>"
+TestMessage,TestMessage
+"Apps and Games","Apps and Games"
+"Athletic/Sporting Goods","Athletic/Sporting Goods"
+"Art and Design","Art and Design"
+"Advanced Reporting","Rapport avancé"
+"Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data."
+"Go to Advanced Reporting","Go to Advanced Reporting"
+"Electronic payments save the trees.","Electronic payments save the trees."
+"You can't change status of cache type(s) in production mode","You can't change status of cache type(s) in production mode"
+"Sorry, you need permissions to view this content.","Sorry, you need permissions to view this content."
+"Next steps","Next steps"
+"If you think this is an error, try signing out and signing in again.","If you think this is an error, try signing out and signing in again."
+"Contact a system administrator or store owner to gain permissions.","Contact a system administrator or store owner to gain permissions."
+"Return to ","Return to "
+HTTP_REFERER,HTTP_REFERER
+"previous page","previous page"
+.,.
+javascript:history.back(),javascript:history.back()
+"Report an Issue","Report an Issue"
+PayPal,PayPal
+"Are you sure you want to delete this PayPal account","Are you sure you want to delete this PayPal account"
+"PayPal Account","PayPal Account"
+"PayPal Logo","PayPal Logo"
+"'Entity type model must be an instance of ' .","'Entity type model must be an instance of ' ."
+"Wrong attribute set code ""%1"", please correct it and try again.","Wrong attribute set code ""%1"", please correct it and try again."
+"Catalog rule indexing failed. See details in exception log.","Catalog rule indexing failed. See details in exception log."
+"Advanced Search Results","Advanced Search Results"
+". "" which is inconsistent with state of scope resolver""",". "" which is inconsistent with state of scope resolver"""
+"Invalid URL key","Invalid URL key"
+"You moved the category.","You moved the category."
+"The value of Admin must be unique.","The value of Admin must be unique."
+"The value of Admin scope can't be empty.","The value of Admin scope can't be empty."
+"Percentage value must be a number between 0 and 100.","Percentage value must be a number between 0 and 100."
+"Invalid attribute %fieldName = %fieldValue.","Invalid attribute %fieldName = %fieldValue."
+"Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId.","Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId."
+"Invalid attribute Cost = %cost. Row ID: SKU = %SKU, Store ID: %storeId.","Invalid attribute Cost = %cost. Row ID: SKU = %SKU, Store ID: %storeId."
+"Could not save Prices.","Could not save Prices."
+"Could not delete Prices","Could not delete Prices"
+"Requested product doesn't exist. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Requested product doesn't exist. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo."
+"Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo."
+"Invalid attribute %label = %priceTo. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Invalid attribute %label = %priceTo. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo."
+"Invalid attribute Price = %price. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Invalid attribute Price = %price. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo."
+"Could not save Tier Prices","Could not save Tier Prices"
+"Could not replace Tier Prices","Could not replace Tier Prices"
+"Could not delete Tier Prices","Could not delete Tier Prices"
+"Invalid attribute SKU = %SKU. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Invalid attribute SKU = %SKU. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty."
+"Invalid attribute Price = %price. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Invalid attribute Price = %price. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty."
+"Invalid attribute Price Type = %priceType. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Invalid attribute Price Type = %priceType. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty."
+"Invalid attribute Quantity = %qty. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Invalid attribute Quantity = %qty. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty."
+"Invalid attribute Website ID = %websiteId. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Invalid attribute Website ID = %websiteId. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty."
+"We found a duplicate website, tier price, customer group and quantity: Customer Group = %customerGroup, Website ID = %websiteId, Quantity = %qty. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","We found a duplicate website, tier price, customer group and quantity: Customer Group = %customerGroup, Website ID = %websiteId, Quantity = %qty. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty."
+"No such entity with Customer Group = %customerGroup. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","No such entity with Customer Group = %customerGroup. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty."
+"Database connection error","Database connection error"
+"Database deadlock found when trying to get lock","Database deadlock found when trying to get lock"
+"Database lock wait timeout exceeded","Database lock wait timeout exceeded"
+"Processor %1 doesn't implement BaseSelectProcessorInterface","Processor %1 doesn't implement BaseSelectProcessorInterface"
+"Some exception","Some exception"
+"Could not get extension attributes","Could not get extension attributes"
+"Lock wait timeout","Lock wait timeout"
+123,123
+"Customer Group Price","Customer Group Price"
+"Alert stock","Alert stock"
+"Alert Stock","Alert Stock"
+"Alert price","Alert price"
+"Alert Price","Alert Price"
+"If your Magento installation has multiple websites, you can edit the scope to use the product on specific sites.","If your Magento installation has multiple websites, you can edit the scope to use the product on specific sites."
+"Please select a node.","Please select a node."
+"An attribute group named ""/name/"" already exists.","An attribute group named ""/name/"" already exists."
+"Payment Page","Payment Page"
+"Print receipt","Print receipt"
+"Are you sure you want to delete a %1 record?","Are you sure you want to delete a %1 record?"
+"Class for type ""%1"" was not declared","Class for type ""%1"" was not declared"
+"%1 should implement %2","%1 should implement %2"
+"The value you set has already been locked. To change the value, use the --%1 option.","The value you set has already been locked. To change the value, use the --%1 option."
+"Configuration for path: ""%1"" doesn't exist","Configuration for path: ""%1"" doesn't exist"
+"The ""%1"" path does not exist","The ""%1"" path does not exist"
+"Visible section not found.","Visible section not found."
+"%1: Instance of %2 is expected, got %3 instead","%1: Instance of %2 is expected, got %3 instead"
+"'There is no defined type ' .","'There is no defined type ' ."
+"'Object is not instance of ' .","'Object is not instance of ' ."
+"Filesystem is not writable.","Filesystem is not writable."
+"Some message","Some message"
+"You cannot run this command because the Magento application is not installed.","You cannot run this command because the Magento application is not installed."
+"This command is unavailable right now.","This command is unavailable right now."
+"The ""test/test/test"" path does not exists","The ""test/test/test"" path does not exists"
+"error message","error message"
+"Parent product does not have configurable product options","Parent product does not have configurable product options"
+"Child product does not have attribute value %1","Child product does not have attribute value %1"
+"Select values from each attribute to include in this product. Each unique combination of values creates a unique product SKU.","Select values from each attribute to include in this product. Each unique combination of values creates a unique product SKU."
+"An error occurred while processing your form. Please try again later.","An error occurred while processing your form. Please try again later."
+"Name is missing","Name is missing"
+"Comment is missing","Comment is missing"
+"Invalid email address","Invalid email address"
+"Invalid callback: Not_Existed_Class::execute can't be called","Invalid callback: Not_Existed_Class::execute can't be called"
+"Test exception","Test exception"
+"You are subscribed to our newsletter.","You are subscribed to our newsletter."
+"You aren't subscribed to our newsletter.","You aren't subscribed to our newsletter."
+"Something went wrong while saving file.","Something went wrong while saving file."
+"Invalid value of ""%value"" provided for the %fieldName field. Possible values: %template1 or %template2.","Invalid value of ""%value"" provided for the %fieldName field. Possible values: %template1 or %template2."
+"Password cannot be the same as email address.","Password cannot be the same as email address."
+"Unable to create directory %1.","Unable to create directory %1."
+"Destination folder is not writable or does not exists.","Destination folder is not writable or does not exists."
+"Something went wrong while saving the file.","Something went wrong while saving the file."
+"region is a required field.","region is a required field."
+"regionId is a required field.","regionId is a required field."
+"You are subscribed to ""General Subscription"".","You are subscribed to ""General Subscription""."
+"Import failed: %1","Import failed: %1"
+"%1 does not implement %2","%1 does not implement %2"
+"File app/etc/%1 can't be read. Please check if it exists and has read permissions.","File app/etc/%1 can't be read. Please check if it exists and has read permissions."
+"There are no sensitive configurations to fill","There are no sensitive configurations to fill"
+"Value can't be empty","Value can't be empty"
+"A configuration with this path does not exist or is not sensitive","A configuration with this path does not exist or is not sensitive"
+"Wrong logger interface specified.","Wrong logger interface specified."
+"Hash has not been saved.","Hash has not been saved."
+"Parameter ""importer_class"" must be present.","Parameter ""importer_class"" must be present."
+"The configuration file has changed. Run app:config:import or setup:upgrade command to synchronize configuration.","The configuration file has changed. Run app:config:import or setup:upgrade command to synchronize configuration."
+"Wrong type specified: '%1'","Wrong type specified: '%1'"
+"Wrong queue type specified.","Wrong queue type specified."
+"Wrong deploy strategy type: %1","Wrong deploy strategy type: %1"
+"some message","some message"
+"Client side compilation doesn't work in production mode","Client side compilation doesn't work in production mode"
+"The response is in the wrong format","The response is in the wrong format"
+"Is this a downloadable Product?","Is this a downloadable Product?"
+U,U
+"Unique constraint violation found","Unique constraint violation found"
+"Attribute group with same code already exist. Please rename ""%1"" group","Attribute group with same code already exist. Please rename ""%1"" group"
+"An attribute code must not be less than %1 and more than %2 characters.","An attribute code must not be less than %1 and more than %2 characters."
+"Attribute with ID: ""%1"" does not exist","Attribute with ID: ""%1"" does not exist"
+"We're sorry, an error has occurred while generating this content.","We're sorry, an error has occurred while generating this content."
+"Invalid response from carrier","Invalid response from carrier"
+"No available tracking items","No available tracking items"
+"Add Gift Options","Add Gift Options"
+"Add Gift Options for Individual Items","Add Gift Options for Individual Items"
+"Fields Enclosure","Fields Enclosure"
+"Fixed Price: From","Fixed Price: From"
+"Stop on Error","Stop on Error"
+"Skip error entries","Skip error entries"
+"Fields enclosure","Fields enclosure"
+"Please fix errors and re-upload file or simply press ""Import"" button to skip rows with errors","Please fix errors and re-upload file or simply press ""Import"" button to skip rows with errors"
+"Payment method is not defined for instance purchase.","Payment method is not defined for instance purchase."
+"Shipping address is not defined for instance purchase.","Shipping address is not defined for instance purchase."
+"Billing address is not defined for instance purchase.","Billing address is not defined for instance purchase."
+"Shipping method is not defined for instance purchase.","Shipping method is not defined for instance purchase."
+"Specified payment method is not available now.","Specified payment method is not available now."
+"Specified shipping method is not available.","Specified shipping method is not available."
+"Appropriate shipping method is not available.","Appropriate shipping method is not available."
+"Cheapest price","Cheapest price"
+"Instant purchase integration not available for token.","Instant purchase integration not available for token."
+"Integration not secure","Integration not secure"
+"Some addresses cannot be used due to country-specific configurations.","Some addresses cannot be used due to country-specific configurations."
+"This email address is already subscribed.","This email address is already subscribed."
+"Unsupported varnish version","Unsupported varnish version"
+"Matched whole nine-digit ZIP (no Address)","Matched whole nine-digit ZIP (no Address)"
+"Yes. Matched Address and five-digit ZIP","Yes. Matched Address and five-digit ZIP"
+"To use PayPal Payments Advanced, you must configure your PayPal Payments Advanced account on the PayPal website.","To use PayPal Payments Advanced, you must configure your PayPal Payments Advanced account on the PayPal website."
+"Protocol isn't allowed","Protocol isn't allowed"
+"Disallowed file type.","Disallowed file type."
+"Product that you are trying to add is not available.","Product that you are trying to add is not available."
+"Invalid state change requested","Invalid state change requested"
+"Minimum Order Amount Exceeded.","Minimum Order Amount Exceeded."
+"It is impossible to log user action","It is impossible to log user action"
+"The ""%1"" product is not part of the current creditmemo.","The ""%1"" product is not part of the current creditmemo."
+"The return to stock argument contains product item that is not part of the original order.","The return to stock argument contains product item that is not part of the original order."
+"""Invoice Document Validation Error(s):\n"" .","""Invoice Document Validation Error(s):\n"" ."
+"Could not save an invoice, see error log for details","Could not save an invoice, see error log for details"
+"Please enter the company.","Please enter the company."
+"Please enter the fax number.","Please enter the fax number."
+"Could not delete the comment.","Could not delete the comment."
+"Could not save the comment.","Could not save the comment."
+"The creditmemo contains product item that is not part of the original order.","The creditmemo contains product item that is not part of the original order."
+"The quantity to refund must not be greater than the unrefunded quantity.","The quantity to refund must not be greater than the unrefunded quantity."
+"Could not delete the credit memo item.","Could not delete the credit memo item."
+"Could not save the credit memo item.","Could not save the credit memo item."
+"Order Id is required for creditmemo document","Order Id is required for creditmemo document"
+"The creditmemo contains product SKU ""%1"" that is not part of the original order.","The creditmemo contains product SKU ""%1"" that is not part of the original order."
+"The quantity to creditmemo must not be greater than the unrefunded quantity for product SKU ""%1"".","The quantity to creditmemo must not be greater than the unrefunded quantity for product SKU ""%1""."
+"You can't create a creditmemo without products.","You can't create a creditmemo without products."
+"Could not delete the invoice comment.","Could not delete the invoice comment."
+"Could not save the invoice comment.","Could not save the invoice comment."
+"Could not delete the invoice item.","Could not delete the invoice item."
+"Could not save the invoice item.","Could not save the invoice item."
+"We can't create creditmemo for the invoice.","We can't create creditmemo for the invoice."
+"Order Id is required for invoice document","Order Id is required for invoice document"
+"The quantity to invoice must not be greater than the uninvoiced quantity for product SKU ""%1"".","The quantity to invoice must not be greater than the uninvoiced quantity for product SKU ""%1""."
+"The invoice contains one or more items that are not part of the original order.","The invoice contains one or more items that are not part of the original order."
+"Received check doesn't match interface","Received check doesn't match interface"
+"Could not delete the shipment comment.","Could not delete the shipment comment."
+"Could not save the shipment comment.","Could not save the shipment comment."
+"Could not delete the shipment item.","Could not delete the shipment item."
+"Could not save the shipment item.","Could not save the shipment item."
+"Could not delete the shipment tracking.","Could not delete the shipment tracking."
+"Could not save the shipment tracking.","Could not save the shipment tracking."
+"Order Id is required for shipment document","Order Id is required for shipment document"
+"You can't create a shipment without products.","You can't create a shipment without products."
+"The shipment contains product SKU ""%1"" that is not part of the original order.","The shipment contains product SKU ""%1"" that is not part of the original order."
+"The quantity to ship must not be greater than the unshipped quantity for product SKU ""%1"".","The quantity to ship must not be greater than the unshipped quantity for product SKU ""%1""."
+"Could not delete the order status history.","Could not delete the order status history."
+"Could not save the order status history.","Could not save the order status history."
+"An invoice cannot be created when an order has a status of %1","An invoice cannot be created when an order has a status of %1"
+"A creditmemo can not be created when an order has a status of %1","A creditmemo can not be created when an order has a status of %1"
+"The order does not allow a creditmemo to be created.","The order does not allow a creditmemo to be created."
+"A shipment cannot be created when an order has a status of %1","A shipment cannot be created when an order has a status of %1"
+"The order does not allow a shipment to be created.","The order does not allow a shipment to be created."
+"""Creditmemo Document Validation Error(s):\n"" .","""Creditmemo Document Validation Error(s):\n"" ."
+"Could not save a Creditmemo, see error log for details","Could not save a Creditmemo, see error log for details"
+"""Shipment Document Validation Error(s):\n"" .","""Shipment Document Validation Error(s):\n"" ."
+"Could not save a shipment, see error log for details","Could not save a shipment, see error log for details"
+"Tracking information must contain title, carrier code, and tracking number","Tracking information must contain title, carrier code, and tracking number"
+". ':'",". ':'"
+Declined,Declined
+"In Review","In Review"
+Unrequested,Unrequested
+"Learn more","Learn more"
+"This order already has associated case entity","This order already has associated case entity"
+"The case entity should not be empty.","The case entity should not be empty."
+"Cannot update Case entity.","Cannot update Case entity."
+"The ""%1"" should not be empty.","The ""%1"" should not be empty."
+"Case entity not found.","Case entity not found."
+"Case Update: New score for the order is %1. Previous score was %2.","Case Update: New score for the order is %1. Previous score was %2."
+"Awaiting the Signifyd guarantee disposition.","Awaiting the Signifyd guarantee disposition."
+"Only single entrance of ""%1"" node is required.","Only single entrance of ""%1"" node is required."
+"Not empty value for ""%1"" node is required.","Not empty value for ""%1"" node is required."
+"%1 must implement %2","%1 must implement %2"
+"Cannot generate message.","Cannot generate message."
+"Message is generated.","Message is generated."
+"Case with the same order id already exists.","Case with the same order id already exists."
+"Fraud Protection Information","Fraud Protection Information"
+"Signifyd Guarantee Decision","Signifyd Guarantee Decision"
+"Website was not found","Website was not found"
+"Group was not found","Group was not found"
+"Store was not found","Store was not found"
+"The following stores are not associated with a root category: ' . . '. For the store to be displayed in the storefront, it must be associated with a root category.","The following stores are not associated with a root category: ' . . '. For the store to be displayed in the storefront, it must be associated with a root category."
+"Group with the same code","Group with the same code"
+"An error occurred while loading tax rates.","An error occurred while loading tax rates."
+"To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”. ","To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”. "
+"With customer tax applied “Before Discount”, the final discount calculation may not match customers’ expectations. ","With customer tax applied “Before Discount”, the final discount calculation may not match customers’ expectations. "
+"Your current tax configuration may result in rounding errors. ","Your current tax configuration may result in rounding errors. "
+"Error while translating phrase ""%s"" in file %s.","Error while translating phrase ""%s"" in file %s."
+"Error while generating js translation dictionary: ""%s""","Error while generating js translation dictionary: ""%s"""
+"For Category","For Category"
+"For Product","For Product"
+"Create URL Rewrite","Create URL Rewrite"
+"URL key for specified store already exists","URL key for specified store already exists"
+"Exception instance doesn't match %1 type","Exception instance doesn't match %1 type"
+"message %1","message %1"
+"The value specified in the URL Key field would generate a URL that already exists.","The value specified in the URL Key field would generate a URL that already exists."
+"To resolve this conflict, you can either change the value of the URL Key field (located in the Search Engine Optimization section) to a unique value, or change the Request Path fields in all locations listed below:","To resolve this conflict, you can either change the value of the URL Key field (located in the Search Engine Optimization section) to a unique value, or change the Request Path fields in all locations listed below:"
+"First-Class Package Service - Retail","First-Class Package Service - Retail"
+"Small Flat-Rate Box","Small Flat-Rate Box"
+"Medium Flat-Rate Box","Medium Flat-Rate Box"
+"Large Flat-Rate Box","Large Flat-Rate Box"
+"Small Flat-Rate Envelope","Small Flat-Rate Envelope"
+"Window Flat-Rate Envelope","Window Flat-Rate Envelope"
+"Gift Card Flat-Rate Envelope","Gift Card Flat-Rate Envelope"
+"Legal Flat-Rate Envelope","Legal Flat-Rate Envelope"
+"Padded Flat-Rate Envelope","Padded Flat-Rate Envelope"
+"Stored Payment Method was successfully removed","Stored Payment Method was successfully removed"
+"Stored Payment Methods","Stored Payment Methods"
+"No available payment tokens for specified order payment.","No available payment tokens for specified order payment."
+"You have no stored payment methods.","You have no stored payment methods."
+"Please activate ""Magento Social"" integration at System->Integrations","Please activate ""Magento Social"" integration at System->Integrations"
+"Integrations page","Integrations page"
+"2. Setup your Facebook store","2. Setup your Facebook store"
+"Launch store","Launch store"
+"Shipping Partners","Shipping Partners"
+Dispatches,Dispatches
+Locations,Locations
+"Checkout View Settings","Checkout View Settings"
+"Magento Shipping","Magento Shipping"
+"Entities to sync","Entities to sync"
+"Enable sync","Enable sync"
+"Carrier ID missing.","Carrier ID missing."
+"Carrier was deleted successfully.","Carrier was deleted successfully."
+"An error occurred while deleting the carrier: %1","An error occurred while deleting the carrier: %1"
+Carriers,Carriers
+"Configure Shipping Partners","Configure Shipping Partners"
+"Carrier %1 cannot be deleted: %2","Carrier %1 cannot be deleted: %2"
+"Location ID missing.","Location ID missing."
+"Location was deleted successfully.","Location was deleted successfully."
+"An error occurred while deleting the location: %1","An error occurred while deleting the location: %1"
+"Edit Location","Edit Location"
+"Location %1 cannot be deleted: %2","Location %1 cannot be deleted: %2"
+"Add Location","Add Location"
+"Container ID missing.","Container ID missing."
+"Container was deleted successfully.","Container was deleted successfully."
+"An error occurred while deleting the container: %1","An error occurred while deleting the container: %1"
+"Edit Package","Edit Package"
+"Package %1 cannot be deleted: %2","Package %1 cannot be deleted: %2"
+"Add a Package","Add a Package"
+"Create New Dispatch","Create New Dispatch"
+"Find Solutions","Find Solutions"
+"Settings saved successfully, stream created.","Settings saved successfully, stream created."
+"Settings saved successfully.","Settings saved successfully."
+"Settings saved successfully, stream removed.","Settings saved successfully, stream removed."
+"Address with id ""%1"" does not exist.","Address with id ""%1"" does not exist."
+"An error occurred while loading data.","An error occurred while loading data."
+"Order with id ""%1"" does not exist.","Order with id ""%1"" does not exist."
+"Order reference to ""%1"" does not exist.","Order reference to ""%1"" does not exist."
+"An error occurred while loading tracking history.","An error occurred while loading tracking history."
+"Shipment with id ""%1"" does not exist.","Shipment with id ""%1"" does not exist."
+"Not Available","Not Available"
+"No items to ship found in rates request.","No items to ship found in rates request."
+"Please do not use different configurations for the same address.","Please do not use different configurations for the same address."
+Foo,Foo
+"Not found.","Not found."
+"Delete ""${ $.$data.name }""","Delete ""${ $.$data.name }"""
+"Are you sure you want to delete the carrier ""${ $.$data.name }""?","Are you sure you want to delete the carrier ""${ $.$data.name }""?"
+"Delete ""${ $.$data.name }"" of type ""${ $.$data.type }""","Delete ""${ $.$data.name }"" of type ""${ $.$data.type }"""
+"Are you sure you want to delete the location ""${ $.$data.name }""?","Are you sure you want to delete the location ""${ $.$data.name }""?"
+"Are you sure you want to delete the package ""${ $.$data.name }""?","Are you sure you want to delete the package ""${ $.$data.name }""?"
+"Choose entities to sync into Magento created by other systems in your stack (e.g. WMS)","Choose entities to sync into Magento created by other systems in your stack (e.g. WMS)"
+"%1 Shipment(s) were not included in this dispatch","%1 Shipment(s) were not included in this dispatch"
+"Steps to find a solution","Steps to find a solution"
+"Review the errors below. If there is an issue which can be resolved with the carrier, please contact them directly.","Review the errors below. If there is an issue which can be resolved with the carrier, please contact them directly."
+"Try <a href=""%1"">Create Dispatch</a> with the same Carrier and Location to re-attempt to dispatch these.","Try <a href=""%1"">Create Dispatch</a> with the same Carrier and Location to re-attempt to dispatch these."
+"Contact Magento Shipping Support","Contact Magento Shipping Support"
+"Magento Shipping ID","Magento Shipping ID"
+"View Shipment #%1","View Shipment #%1"
+"Dispatch Information","Dispatch Information"
+"Carrier Name","Carrier Name"
+"Date Created","Date Created"
+"Ready At","Ready At"
+"Number of included shipments","Number of included shipments"
+"Number of failed shipments","Number of failed shipments"
+Documentation,Documentation
+"Paperless Shipment - Customs documentation has been submitted electronically and is not required to be physically attached to the shipment.","Paperless Shipment - Customs documentation has been submitted electronically and is not required to be physically attached to the shipment."
+"Document Name","Document Name"
+"File Type","File Type"
+"Documentation is not available.","Documentation is not available."
+"Magento Shipping Order ID","Magento Shipping Order ID"
+"Magento Shipping Shipment ID","Magento Shipping Shipment ID"
+"Origin Location","Origin Location"
+Contents:,Contents:
+"No Description","No Description"
+"No packages found.","No packages found."
+"Access the Magento Shipping Portal here","Access the Magento Shipping Portal here"
+"Request Shipping Account","Request Shipping Account"
+"Once you have activated Magento Shipping, configure these sections to get up and running:","Once you have activated Magento Shipping, configure these sections to get up and running:"
+"Shipping Experiences via %1 portal","Shipping Experiences via %1 portal"
+"View and Edit Cart","Voir le panier"
+"Checkout as a new customer","Checkout as a new customer"
+"Checkout using your account","Checkout using your account"
+"Please enter a number greater 0 in this field.","Please enter a number greater 0 in this field."
+"Please select one of each ratings above.","Please select one of each ratings above."
+"Please specify Url.","Please specify Url."
+"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored."
+"Please select one of the options above.","Please select one of the options above."
+"Please select a file.","Please select a file."
+"Please enter valid email addresses, separated by commas. For example, johndoe@domain.com, johnsmith@domain.com.","Please enter valid email addresses, separated by commas. For example, johndoe@domain.com, johnsmith@domain.com."
+"Please enter less or equal than %1 symbols.","Please enter less or equal than %1 symbols."
+"Please enter more or equal than %1 symbols.","Please enter more or equal than %1 symbols."
+"Please enter a valid value from list","Please enter a valid value from list"
+"Please enter valid SKU key.","Please enter valid SKU key."
+"Please enter a valid number.","Please enter a valid number."
+"This is required field","This is required field"
+"Admin is a required field in the each row.","Admin is a required field in the each row."
+"Please fix this field.","Please fix this field."
+"Please enter a valid URL.","Please enter a valid URL."
+"Please enter a valid date (ISO).","Please enter a valid date (ISO)."
+"Please enter only digits.","Please enter only digits."
+"Please enter the same value again.","Please enter the same value again."
+"Please enter no more than {0} characters.","Please enter no more than {0} characters."
+"Please enter at least {0} characters.","Please enter at least {0} characters."
+"Please enter a value between {0} and {1} characters long.","Please enter a value between {0} and {1} characters long."
+"Please enter a value between {0} and {1}.","Please enter a value between {0} and {1}."
+"Please enter a valid full date.","Please enter a valid full date."
+"Sorry, but something went wrong. Please contact the seller.","Sorry, but something went wrong. Please contact the seller."
+"This value does not follow the specified format (for example, 200X300).","This value does not follow the specified format (for example, 200X300)."
+"does not implement Storage Interface","does not implement Storage Interface"
+"Select a new payment method","Select a new payment method"
+"Choose this option to delete and replace extension data for all past configurations.","Choose this option to delete and replace extension data for all past configurations."
+"When you remove or add an attribute, we automatically update all configurations and you will need to recreate current configurations manually.","When you remove or add an attribute, we automatically update all configurations and you will need to recreate current configurations manually."
+"Buy %1 for %2 each and","Buy %1 for %2 each and"
+"Instant Purchase","Instant Purchase"
+"Instant Purchase Confirmation","Instant Purchase Confirmation"
+"Are you sure you want to place order and pay?","Are you sure you want to place order and pay?"
+"Please enter a valid credit card type number.","Please enter a valid credit card type number."
+"Incorrect credit card expiration month.","Incorrect credit card expiration month."
+"Incorrect credit card expiration year.","Incorrect credit card expiration year."
+"An error occurred while logging process.","An error occurred while logging process."
+"Please select one of each of the ratings above.","Please select one of each of the ratings above."
+"There are {placeholder} messages requires your attention.","There are {placeholder} messages requires your attention."
+from,from
+"Please enter a valid integer in this field.","Please enter a valid integer in this field."
+DOTMAILER,DOTMAILER
+"API Credentials","API Credentials"
+"Data Mapping","Data Mapping"
+"Data Fields Mapping","Data Fields Mapping"
+"Customer ID","Customer ID"
+Firstname,Firstname
+Lastname,Lastname
+D.O.B,D.O.B
+"Last Logged In Date","Last Logged In Date"
+"Review Count","Review Count"
+"Last Review Date","Last Review Date"
+"Subscriber Status","Subscriber Status"
+"Billing Address Line 1","Billing Address Line 1"
+"Billing Address Line 2","Billing Address Line 2"
+"Billing State","Billing State"
+"Billing Country","Billing Country"
+"Billing Postcode","Billing Postcode"
+"Billing Telephone","Billing Telephone"
+"Billing Company","Billing Company"
+"Delivery Address 1","Delivery Address 1"
+"Delivery Address 2","Delivery Address 2"
+"Delivery City","Delivery City"
+"Delivery State","Delivery State"
+"Delivery Country","Delivery Country"
+"Delivery Postcode","Delivery Postcode"
+"Delivery Telephone","Delivery Telephone"
+"Delivery Company","Delivery Company"
+"Total Number of Orders","Total Number of Orders"
+"Average Order Value","Average Order Value"
+"Total Spend","Total Spend"
+"Last Purchase Date","Last Purchase Date"
+"Last Increment ID","Last Increment ID"
+"Most Purchased Category","Most Purchased Category"
+"Most Purchased Brand","Most Purchased Brand"
+"Most Frequent Day Of Purchase","Most Frequent Day Of Purchase"
+"Most Frequent Month Of Purchase","Most Frequent Month Of Purchase"
+"First Category Purchased","First Category Purchased"
+"Last Category Purchased","Last Category Purchased"
+"First Brand Purchased","First Brand Purchased"
+"Last Brand Purchased","Last Brand Purchased"
+"System Values","System Values"
+"Website Name","Website Name"
+"Last Order ID","Last Order ID"
+"Last Quote ID","Last Quote ID"
+"Abandoned Product Name","Abandoned Product Name"
+"Custom Attributes","Custom Attributes"
+"Create Data Field","Create Data Field"
+"Data Field Name","Data Field Name"
+"Data Field Type","Data Field Type"
+"When sending a campaign that uses template personalisation, a default value ensures that a value is alwasy displayed even if a data field is blank.","When sending a campaign that uses template personalisation, a default value ensures that a value is alwasy displayed even if a data field is blank."
+"Make the field public if you want to allow your contacts to view and amend the data you hold on them in this field.","Make the field public if you want to allow your contacts to view and amend the data you hold on them in this field."
+"Create New Data Field","Create New Data Field"
+"Sync Settings","Sync Settings"
+"Address Book Mapping","Address Book Mapping"
+"Add Customers To","Add Customers To"
+"Add Subscribers To","Add Subscribers To"
+"Add Guests To","Add Guests To"
+Sync,Sync
+"Create Address Book","Create Address Book"
+"Create New Address Book","Create New Address Book"
+"Abandoned Cart 1","Panier abandonné 1"
+"Enabled\Disabled","Activé\Désactivé"
+"Send After (min)","Send After (min)"
+"Campaign to Send","Campaign to Send"
+"Abandoned Cart 2","Panier abandonné 2"
+"Abandoned Cart 3","Panier abandonné 3"
+Guests,Invités
+"Visitor action automation enrolment","Visitor action automation enrolment"
+"New Subscriber","New Subscriber"
+"First Customer Order","First Customer Order"
+"Customer Order","Customer Order"
+"Guest Order","Guest Order"
+"Approved Review","Approved Review"
+"New Wishlist","New Wishlist"
+"Order Status Automation Enrolment","Order Status Automation Enrolment"
+"Review Settings","Review Settings"
+"The system will send the reminder after the above mentioned amount of days upon order status selected above.","The system will send the reminder after the above mentioned amount of days upon order status selected above."
+"Delay Period (Days)","Delay Period (Days)"
+"Campaign to send","Campaign to send"
+"Please provide the anchor used on product pages for reviews e.g. #reviews","Please provide the anchor used on product pages for reviews e.g. #reviews"
+"Reviews Anchor","Reviews Anchor"
+"Feefo Feedback Engine","Feefo Feedback Engine"
+"Feefo Logon","Feefo Logon"
+"Number of reviews to display per product.","Number of reviews to display per product."
+"Reviews Per Product","Reviews Per Product"
+"Enter name of logo template.","Enter name of logo template."
+"Logo Template (Optional)","Logo Template (Optional)"
+"Service Score URL","Service Score URL"
+"Enter Feefo logon above before using this URL.","Enter Feefo logon above before using this URL."
+"Product Reviews URL","Product Reviews URL"
+"Dynamic Content","Dynamic Content"
+"External Dynamic Url","External Dynamic Url"
+"Secure code for dynamic URLs","Secure code for dynamic URLs"
+Passcode,Passcode
+"Recommended: Set a passcode so that basket contents and coupon codes can only be viewed if the following passcode is sent with the request.","Recommended: Set a passcode so that basket contents and coupon codes can only be viewed if the following passcode is sent with the request."
+"Cart Content URL","Cart Content URL"
+"Review Contents URL","Review Contents URL"
+"Coupon Codes","Coupon Codes"
+"Coupon Codes URL","Coupon Codes URL"
+"Order Recommendation","Order Recommendation"
+"Related Products URL","Related Products URL"
+"Upsell Products URL","Upsell Products URL"
+"Crosssell Products URL","Crosssell Products URL"
+"Cart Recommendation","Cart Recommendation"
+"Product Recommendation","Product Recommendation"
+"Best Sellers URL","Best Sellers URL"
+"add category_id/@CATEGORY_ID@ at the end of url to filter most viewed by category","add category_id/@CATEGORY_ID@ at the end of url to filter most viewed by category"
+"Most Viewed URL","Most Viewed URL"
+"Product Push URL","Product Push URL"
+"Wishlist Content","Wishlist Content"
+"Wishlist Related URL","Wishlist Related URL"
+"Wishlist Upsell Products URL","Wishlist Upsell Products URL"
+"Wishlist Crosssell Products URL","Wishlist Crosssell Products URL"
+"Dynamic Products","Dynamic Products"
+"Items To Display","Items To Display"
+"Upsell Products","Upsell Products"
+"Crosssell Products","Crosssell Products"
+"Best Sellers","Best Sellers"
+"Time Period","Time Period"
+"Manual Product Push","Manual Product Push"
+"Fallback Products","Fallback Products"
+"Comma Separated Product Id's","Comma Separated Product Id's"
+"DDG Transactional","DDG Transactional"
+"Send Mode","Send Mode"
+Port,Port
+"Select multiple statuses by pressing Ctrl button while selecting","Select multiple statuses by pressing Ctrl button while selecting"
+"Data fields calculation with status","Data fields calculation with status"
+"Select your brand attribute. If default attribute 'manufacturer' exist than will be selected automatically.","Select your brand attribute. If default attribute 'manufacturer' exist than will be selected automatically."
+"Brand Attribute","Brand Attribute"
+Tracking,Tracking
+"ROI Tracking","ROI Tracking"
+"Page Tracking","Page Tracking"
+"Transactional Data","Transactional Data"
+"Import Order With Status","Import Order With Status"
+"Select custom order attributes that you want to import with your order data. Select multiple by pressing Ctrl button while selecting.","Select custom order attributes that you want to import with your order data. Select multiple by pressing Ctrl button while selecting."
+"Order Custom Attributes","Order Custom Attributes"
+"Selected product attribute(s) will be exported","Selected product attribute(s) will be exported"
+"Include Products Attributes In Order Sync","Include Products Attributes In Order Sync"
+"Include Product Custom Options In Order Sync","Include Product Custom Options In Order Sync"
+"Enable this if you have a checkout process that allows the visitor to
+                            enter their email address during the checkout, but it does not update quote table instantly.","Enable this if you have a checkout process that allows the visitor to
+                            enter their email address during the checkout, but it does not update quote table instantly."
+"Easy Email Capture (Checkout)","Easy Email Capture (Checkout)"
+"Easy Email Capture (Newsletter)","Easy Email Capture (Newsletter)"
+"Abandoned Cart Limit","Abandoned Cart Limit"
+"Link To Cart Enabled","Link To Cart Enabled"
+"Please provide the link text. If no text provided then default text ""Take Me To My Basket"" will be used.","Please provide the link text. If no text provided then default text ""Take Me To My Basket"" will be used."
+"Please provide the cart url. If no url provided then default cart url checkout/cart will be used. Only enter the url after base url. For example for http://www.localhost.com/checkout/cart only enter checkout/cart","Please provide the cart url. If no url provided then default cart url checkout/cart will be used. Only enter the url after base url. For example for http://www.localhost.com/checkout/cart only enter checkout/cart"
+"Cart URL","Cart URL"
+"Please provide the customer login url. If no url provided then default login url customer/account/login will be used. Only enter the url after base url. For example for http://www.localhost.com/customer/account/login only enter customer/account/login","Please provide the customer login url. If no url provided then default login url customer/account/login will be used. Only enter the url after base url. For example for http://www.localhost.com/customer/account/login only enter customer/account/login"
+"Customer Login URL","Customer Login URL"
+"Dynamic Content Styling","Dynamic Content Styling"
+"Styling entered here will apply to all dynamic content areas pulled from Magento. Classes References Used : 'product-table', 'product-name', 'product-price', 'product-url', 'other-text'","Styling entered here will apply to all dynamic content areas pulled from Magento. Classes References Used : 'product-table', 'product-name', 'product-price', 'product-url', 'other-text'"
+"Dynamic Styling","Dynamic Styling"
+"Font Color","Font Color"
+"Font Size","Font Size"
+Style,Style
+"Price Color","Price Color"
+"Font Style","Font Style"
+"Product Link","Product Link"
+"Applies To Whole Document","Applies To Whole Document"
+"Backgroung Color","Backgroung Color"
+"Other Text (Will Apply To Other Remaning Text)","Other Text (Will Apply To Other Remaning Text)"
+"Background Color","Background Color"
+"Please provide the link text. If no text provided then default text will be used.","Please provide the link text. If no text provided then default text will be used."
+"Product Link Text","Product Link Text"
+"Disable Newsletter Success","Disable Newsletter Success"
+"Disable Customer Success","Disable Customer Success"
+"Catalog Sync Settings","Catalog Sync Settings"
+"Catalog Values","Catalog Values"
+"Catalog Visibility","Catalog Visibility"
+"Catalog Type","Catalog Type"
+"Customer Addressbook Preference","Customer Addressbook Preference"
+"Show Addressbooks to Customer","Show Addressbooks to Customer"
+"Choose additional address books to show in addition to the Magento General Subscription list.","Choose additional address books to show in addition to the Magento General Subscription list."
+"Addressbooks to Show","Addressbooks to Show"
+"Show Data Fields To Customer?","Show Data Fields To Customer?"
+"Only data fields with visibility public can be shown to customers. You can create more data fields within the Data Mapping section.","Only data fields with visibility public can be shown to customers. You can create more data fields within the Data Mapping section."
+"Data Fields To Show","Data Fields To Show"
+"Contact Sync Size","Contact Sync Size"
+"Transactional Data Sync Size","Transactional Data Sync Size"
+"Admin Task","Admin Task"
+"Create Data Fields In Connector And Map Them. Including Customer, Address And Sales Information.","Create Data Fields In Connector And Map Them. Including Customer, Address And Sales Information."
+"Automap Data Fields","Automap Data Fields"
+"Delete All Contact Ids","Delete All Contact Ids"
+"Manually Run Sync","Manually Run Sync"
+"Contact Sync","Contact Sync"
+"Subscriber Sync","Subscriber Sync"
+"Order Sync","Order Sync"
+"Wishlist Sync","Wishlist Sync"
+"Review Sync","Review Sync"
+"Catalog Sync","Catalog Sync"
+"Importer Sync","Importer Sync"
+"Reset Sync Options","Reset Sync Options"
+"Reset Customers","Reset Customers"
+"Reset Subscribers","Reset Subscribers"
+"Date Range","Date Range"
+"Reset Order Data","Reset Order Data"
+"Reset Review Data","Reset Review Data"
+"Reset Wishlist Data","Reset Wishlist Data"
+"Reset Catalog Data","Reset Catalog Data"
+"Set the number in seconds that api calls greater will be logged.","Set the number in seconds that api calls greater will be logged."
+"Debug Api Calls Time","Debug Api Calls Time"
+"OAUTH Credentials","OAUTH Credentials"
+"Client Id","Client Id"
+"Client Secret Key","Client Secret Key"
+Connection,Connection
+"Enter the custom domain for authorization. Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/","Enter the custom domain for authorization. Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/"
+"Custom OAUTH domain.","Custom OAUTH domain."
+"Custom Authorization URI","Custom Authorization URI"
+"Dynamic Pages IP Restriction","Dynamic Pages IP Restriction"
+"Manage Cron Timings","Manage Cron Timings"
+Contact,Contact
+"Review And Wishlist","Review And Wishlist"
+"Are you sure to delete?","Are you sure to delete?"
+"Program Id","Program Id"
+"Automation Type","Automation Type"
+"Enrolment Status","Enrolment Status"
+"Campaign Id","Campaign Id"
+"Customer Id","Customer Id"
+"Order Increment Id","Order Increment Id"
+"Quote Id","Quote Id"
+"Event Name","Event Name"
+"Send At","Send At"
+"Send Id","Send Id"
+"Send Status","Send Status"
+"Store Id","Store Id"
+"Product ID","Product ID"
+"Created Date","Created Date"
+"Contact Id","Contact Id"
+"Subscriber Imported","Subscriber Imported"
+Suppressed,Suppressed
+"Job Code","Job Code"
+Messages,Messages
+"Scheduled At","Scheduled At"
+"Executed At","Executed At"
+"Finished At","Finished At"
+"Import Id","Import Id"
+"Import Type","Import Type"
+"Import Mode","Import Mode"
+"Import Status","Import Status"
+"Started At","Started At"
+"Updated Date","Updated Date"
+"Order Id","Order Id"
+"Email Imported","Email Imported"
+"Email Modified","Email Modified"
+"Review Imported","Review Imported"
+Id,Id
+"Wishlist Id","Wishlist Id"
+"Wishlist Imported","Wishlist Imported"
+Analytics,Analytics
+"Business Intelligence","Business Intelligence"
+"BI Essentials","BI Essentials"
+"This service provides a dynamic suite of reports with rich insights about your business.
+                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
+                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
+                terms and conditions</a>.","This service provides a dynamic suite of reports with rich insights about your business.
+                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
+                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
+                terms and conditions</a>."
+"Advanced Reporting Service","Advanced Reporting Service"
+"Time of day to send data","Time of day to send data"
+Industry,Industry
+"In order to personalize your Advanced Reporting experience, please select your industry.","In order to personalize your Advanced Reporting experience, please select your industry."
+"<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Get more insights from Magento Business Intelligence</strong>"
+"Magento Business Intelligence provides you with a simple and clear path to
+                    becoming more data driven.</br> Learn more about <a target=""_blank""
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence provides you with a simple and clear path to
+                    becoming more data driven.</br> Learn more about <a target=""_blank""
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers."
+"Auto Parts","Auto Parts"
+"Baby/Children’s Apparel, Gear and Toys","Baby/Children’s Apparel, Gear and Toys"
+"Beauty and Cosmetics","Beauty and Cosmetics"
+"Books, Music and Magazines","Books, Music and Magazines"
+"Crafts and Stationery","Crafts and Stationery"
+"Consumer Electronics","Consumer Electronics"
+"Deal Site","Deal Site"
+"Fashion Apparel and Accessories","Fashion Apparel and Accessories"
+"Food, Beverage and Grocery","Food, Beverage and Grocery"
+"Home Goods and Furniture","Home Goods and Furniture"
+"Home Improvement","Home Improvement"
+"Jewelry and Watches","Jewelry and Watches"
+"Mass Merchant","Mass Merchant"
+"Office Supplies","Office Supplies"
+"Outdoor and Camping Gear","Outdoor and Camping Gear"
+"Pet Goods","Pet Goods"
+"Pharma and Medical Devices","Pharma and Medical Devices"
+"Technology B2B","Technology B2B"
+"Content translation","Content translation"
+"<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).","<strong style=""color:red"">Attention !</strong> Lorsque vous utilisez le code magasin dans les URL, et dans certains cas, le système peut ne pas fonctionner correctement si les URL sans code magasin sont spécifiés dans les services tiers (par exemple PayPal, etc.)."
+"Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.","Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase."
+"Vault Enabled","Vault Enabled"
+"Skip Order Review","Skip Order Review"
+"Dynamic Descriptors","Dynamic Descriptors"
+"Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.<br />Similar looking characters (e.g. ""i"", ""l"", ""1"") decrease chance of correct recognition by customer.","Veuillez utiliser uniquement des lettres (a-z ou A-Z), des nombres (0-9). Aucun espace ou autres caractère ne sont autorisés.<br />Les caractères similaires (ex : ""i"", ""l"", ""1"") réduisent les chances d’être reconnus par les utilisateurs."
+"Please note that these settings apply to individual items in the cart, not to the entire cart.","Veuillez noter que ces paramètres sont applicables individuellement aux articles du panier, et non à l’ensemble du panier."
+"Lifetime of products in Recently Viewed Widget","Lifetime of products in Recently Viewed Widget"
+"Lifetime of products in Recently Compared Widget","Lifetime of products in Recently Compared Widget"
+"Synchronize widget products with backend storage","Synchronize widget products with backend storage"
+"Product Info Column","Product Info Column"
+"Block after Info Column","Block after Info Column"
+"UI Component","UI Component"
+"Product attributes to show","Product attributes to show"
+"Learn More Link","Learn More Link"
+"Buttons to show","Buttons to show"
+"Viewed Products Sidebar Template","Viewed Products Sidebar Template"
+"List of Products Recently Compared by Visitor","List of Products Recently Compared by Visitor"
+"Skip to the end of the images gallery","Skip to the end of the images gallery"
+"Skip to the beginning of the images gallery","Skip to the beginning of the images gallery"
+"Add To Cart","Ajouter au panier"
+"Add To Compare","Add To Compare"
+"Display Billing Address On","Display Billing Address On"
+"Maximum Number of Items to Display in Order Summary","Maximum Number of Items to Display in Order Summary"
+"Number of Items to Display Pager","Number of Items to Display Pager"
+"Number of Items to Display Scrollbar","Number of Items to Display Scrollbar"
+"Maximum Number of Items to Display","Maximum Number of Items to Display"
+"Are you sure you want to delete selected items?","Are you sure you want to delete selected items?"
+"As low as: ","À partir de :"
+"Cron configuration options for group:","Options de configuration du CRON du groupe: "
+"This email will be sent instead of the Default Welcome Email, if a customer was created without password. <br /><br />
+                        Email template chosen based on theme fallback when ""Default"" option is selected.","Cet email sera envoyé à la place de l’email de bienvenue par défaut, si un client a été créé sans mot de passe.<br /><br />Le modèle d’email choisi est fonction du thème parent lorsque l’option ""par défaut"" est sélectionnée."
+"This email will be sent instead of the Default Welcome Email, after account confirmation. <br /><br />
+                        Email template chosen based on theme fallback when ""Default"" option is selected.","Cet email est envoyé à la place de l’email de bienvenue par défaut, après la confirmation du compte.<br /><br />Le modèle d’email choisi est fonction du thème parent lorsque l’option ""par défaut"" est sélectionnée."
+"Account Information Options","Account Information Options"
+"Change Email Template","Change Email Template"
+"Change Email and Password Template","Change Email and Password Template"
+"Valid range: 1-4","Valid range: 1-4"
+"Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.","Valeurs séparées par des points virgule (;)<br/>Commencez par un point virgule si la première option est vide.<br/> Laissez vide pour obtenir un champ texte."
+"Show Telephone","Show Telephone"
+"Show Company","Show Company"
+"Show Fax","Show Fax"
+"Customer Data Lifetime","Customer Data Lifetime"
+"Please specify value in minutes.","Please specify value in minutes."
+"If your Magento installation has multiple websites, you can edit the scope to associate the customer with a specific site.","If your Magento installation has multiple websites, you can edit the scope to associate the customer with a specific site."
+"Log to File","Log to File"
+"Not available in production mode.","Not available in production mode."
+"Base currency is used for all online payment transactions. The base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").","La devise de base est utilisé pour toutes les transactions de paiement en ligne. La portée de la devise de base est définie par la portée des prix catalogue (""Catalogue"" > "" Prix ""> ""Portée des prix catalogue"")."
+"Anonymize IP","Anonymize IP"
+"Button Text","Button Text"
+"Access Token Expiration","Access Token Expiration"
+"Customer Token Lifetime (hours)","Customer Token Lifetime (hours)"
+"Admin Token Lifetime (hours)","Admin Token Lifetime (hours)"
+"Authentication Locks","Authentication Locks"
+"Maximum Login Failures to Lock Out Account","Maximum Login Failures to Lock Out Account"
+"Lockout Time (seconds)","Lockout Time (seconds)"
+"Grace period","Grace period"
+"Specify grace period in seconds for config file generation. If field is empty default value 300 will be saved. This grace period will be used to serve cached content when the server is healthy. If the server is not healthy, cached content will be served for 3 days before failing.","Specify grace period in seconds for config file generation. If field is empty default value 300 will be saved. This grace period will be used to serve cached content when the server is healthy. If the server is not healthy, cached content will be served for 3 days before failing."
+"Public content cache lifetime in seconds. If field is empty default value 86400 will be saved.","Durée de vie du cache en secondes des contenus publiques. Si ce champ est vide la valeur par défaut ""86400"" sera utilisée. "
+"Recommended Solutions:","Recommended Solutions:"
+"Other PayPal Payment Solutions:","Other PayPal Payment Solutions:"
+"Other Payment Methods:","Other Payment Methods:"
+"PayPal All-in-One Payment Solutions&nbsp;<i>Accept and process credit cards and PayPal payments.</i>","PayPal All-in-One Payment Solutions&nbsp;<i>Accept and process credit cards and PayPal payments.</i>"
+"Payments Pro","Payments Pro"
+"PayPal Payment Gateways&nbsp;<i>Process payments using your own internet merchant account.</i>","PayPal Payment Gateways&nbsp;<i>Process payments using your own internet merchant account.</i>"
+"PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>","PayPal All-in-One Payment Solutions  <i>Acceptez les cartes de crédit et les paiements PayPal.</i>"
+"Website Payments Pro","Website Payments Pro"
+"<a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>","<a href=""http://www.magentocommerce.com/paypal"">Accepter les paiements via PayPal !</a>"
+"See PayPal Feature Support details and list of supported regions
+                    <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.","Voir les détails PayPal des fonctionnalité de support et de la liste des régions prises en charge <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">ici</a>."
+"PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
+                        You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
+                        <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","PayPal Express Checkout permet à vos clients d’obtenir un financement PayPal Credit® - sans coût supplémentaire pour vous. Vous êtes payés, même si les clients ont du retard. Un bouton de paiement pré-intégré permet aux clients de payer avec PayPal Credit® rapidement. <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">En savoir plus</a>"
+"<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                        <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                        from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                        Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                        The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                        or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br/>
+                                <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit®. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
+                                Utilisez les bannières publicitaires gratuites de PayPal Credit® comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
+                                Le programme de publicité PayPal a démontré qu’il permettait d’augmenter ses ventes de 15%
+                                ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>."
+"Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.","Les marchands doivent activer sur PayPal les accords de facturation. Ne pas activer cette option tant que PayPal n’a pas confirmé ces accords de facturation et qu’ils sont actifs sur votre compte marchand."
+"Will appear as a payment option only for customers who have at least one active billing agreement.","Apparaît comme une option de paiement uniquement pour les clients qui ont au moins un accord de facturation actif."
+"Allowable values: ""paypal"", ""primary"" (default), your_custom_value (a custom payment page style from your merchant account profile).","Valeurs possibles : ""paypal "" , ""primary"" (par défaut) , your_custom_value (une page de paiement personnalisée depuis votre compte marchand)."
+"The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged.","L’image en haut à gauche de la page de paiement. La taille maximale est de 750x90px. <strong style=""color:red"">https</strong> est fortement recommandé."
+"The background color for the header of the checkout page. Case-insensitive six-character HTML hexadecimal color code in ASCII.","Couleur de fond de l’en-tête de la page de paiement. Sensible à la casse et contenant le code couleur hexadécimal de six caractères au format ASCII."
+"The background color for the checkout page around the header and payment form.","Couleur de fond de la page de paiement autour de l’en-tête et du formulaire de paiement."
+"Payments Advanced","Payments Advanced"
+"Accept payments with a PCI-compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>)","Accept payments with a PCI-compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>)"
+"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement ?</a><br/>
+                                <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit®. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
+                                Utilisez les bannières publicitaires gratuites de PayPal Credit® comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
+                                Le programme de publicité PayPal a démontré qu’il permettait d’augmenter ses ventes de 15%
+                                ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>."
+"Payflow Link","Payflow Link"
+"Connect your merchant account with a PCI-compliant gateway that lets customers pay without leaving your site. (<u>Includes Express Checkout</u>)","Connect your merchant account with a PCI-compliant gateway that lets customers pay without leaving your site. (<u>Includes Express Checkout</u>)"
+"Accept payments with a PCI compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>)","Accept payments with a PCI compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>)"
+"<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                            or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br/>
+                                <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit®. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
+                                Utilisez les bannières publicitaires gratuites de PayPal Credit® comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
+                                Le programme de publicité PayPal a démontré qu’il permettait d’augmenter ses ventes de 15%
+                                ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>."
+"Connect your merchant account with a fully customizable gateway that lets customers pay without leaving your site. (<u>Includes Express Checkout</u>)","Connect your merchant account with a fully customizable gateway that lets customers pay without leaving your site. (<u>Includes Express Checkout</u>)"
+"Supporting of American Express cards require additional agreement. Learn more at <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.","Le support des cartes American Express nécessite des accords supplémentaires. En savoir plus sur <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>."
+"Card Issuer Is Outside The United States","Card Issuer Is Outside The United States"
+"<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                                from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                                or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Pourquoi promouvoir le financement?</a><br/>
+                                <strong>Boostez vos ventes en faisant la promotion du financement.</strong><br/>PayPal vous aide à convertir vos visiteurs en acheteurs avec PayPal Credit®. Vos clients pourront payer sur la durée, alors que vous serez payé avant – aucun coût supplémentaire pour vous.
+                                Utilisez les bannières publicitaires gratuites de PayPal Credit® comme une option de paiement pour ceux qui souhaitent régler leurs achats avec PayPal.
+                                Le programme de publicité PayPal a démontré qu’il permettait d’augmenter ses ventes de 15%
+                                ou plus. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">En savoir plus</a>."
+"Release Notification","Release Notification"
+"What's new with Magento 2.2.2","What's new with Magento 2.2.2"
+"
+                        <p>Magento 2.2.2 offers advanced new features, including:</p>
+                        <br />
+                        <div class=""analytics-highlight"">
+                        <h3>Advanced Reporting</h3>
+                        <p>Gain valuable insights through a dynamic suite of product, order, and customer reports,
+                        powered by Magento Business Intelligence.</p>
+                        </div>
+                        <div class=""instant-purchase-highlight"">
+                        <h3>Instant Purchase</h3>
+                        <p>Simplify ordering and boost conversion rates by allowing your customers to use stored
+                        payment and shipping information to skip tedious checkout steps.</p>
+                        </div>
+                        <div class=""email-marketing-highlight"">
+                        <h3>Email Marketing Automation</h3>
+                        <p>Send smarter, faster email campaigns with marketing automation from dotmailer, powered by
+                        your Magento store's live data.</p>
+                        </div>
+                        <p>Release notes and additional details can be found at
+                        <a href=""http://devdocs.magento.com/"" target=""_blank"">Magento DevDocs</a>.
+                        </p>
+                        ","
+                        <p>Magento 2.2.2 offers advanced new features, including:</p>
+                        <br />
+                        <div class=""analytics-highlight"">
+                        <h3>Advanced Reporting</h3>
+                        <p>Gain valuable insights through a dynamic suite of product, order, and customer reports,
+                        powered by Magento Business Intelligence.</p>
+                        </div>
+                        <div class=""instant-purchase-highlight"">
+                        <h3>Instant Purchase</h3>
+                        <p>Simplify ordering and boost conversion rates by allowing your customers to use stored
+                        payment and shipping information to skip tedious checkout steps.</p>
+                        </div>
+                        <div class=""email-marketing-highlight"">
+                        <h3>Email Marketing Automation</h3>
+                        <p>Send smarter, faster email campaigns with marketing automation from dotmailer, powered by
+                        your Magento store's live data.</p>
+                        </div>
+                        <p>Release notes and additional details can be found at
+                        <a href=""http://devdocs.magento.com/"" target=""_blank"">Magento DevDocs</a>.
+                        </p>
+                        "
+"<p>Advanced Reporting
+                        provides you with a dynamic suite of reports with rich insights about the health of your
+                        business.</p><br /><p>As part of the Advanced Reporting service, we may also use your customer
+                        data for such purposes as benchmarking, improving our products and services, and providing you
+                        with new and improved analytics.</p><br /><p>By using Magento 2.2.2, you agree to the Advanced
+                        Reporting <a href=""https://magento.com/legal/terms/privacy"" target=""_blank"">Privacy Policy</a>
+                        and <a href=""https://magento.com/legal/terms/cloud-terms"" target=""_blank"">Terms
+                        of Service</a>. You may opt out at any time from the Stores Configuration page.</p>
+                        ","<p>Advanced Reporting
+                        provides you with a dynamic suite of reports with rich insights about the health of your
+                        business.</p><br /><p>As part of the Advanced Reporting service, we may also use your customer
+                        data for such purposes as benchmarking, improving our products and services, and providing you
+                        with new and improved analytics.</p><br /><p>By using Magento 2.2.2, you agree to the Advanced
+                        Reporting <a href=""https://magento.com/legal/terms/privacy"" target=""_blank"">Privacy Policy</a>
+                        and <a href=""https://magento.com/legal/terms/cloud-terms"" target=""_blank"">Terms
+                        of Service</a>. You may opt out at any time from the Stores Configuration page.</p>
+                        "
+"
+                        <p>Now you can deliver an Amazon-like experience with a new, streamlined checkout option.
+                        Logged-in customers can use previously-stored payment credentials and shipping information
+                        to skip steps, making the process faster and easier, especially for mobile shoppers. Key
+                        features include:
+                        </p>
+                        <ul>
+                        <li><span>Configurable “Instant Purchase” button to place orders.</span></li>
+                        <li><span>Support for all payment solutions using Braintree Vault, including Braintree Credit
+                        Card, Braintree PayPal, and PayPal Payflow Pro.</span></li>
+                        <li><span>Shipping to the customer’s default address using the lowest cost, available shipping
+                        method.</span></li>
+                        <li><span>Ability for developers to customize the Instant Purchase business logic to meet
+                        merchant needs.</span></li>
+                        </ul>
+                        ","
+                        <p>Now you can deliver an Amazon-like experience with a new, streamlined checkout option.
+                        Logged-in customers can use previously-stored payment credentials and shipping information
+                        to skip steps, making the process faster and easier, especially for mobile shoppers. Key
+                        features include:
+                        </p>
+                        <ul>
+                        <li><span>Configurable “Instant Purchase” button to place orders.</span></li>
+                        <li><span>Support for all payment solutions using Braintree Vault, including Braintree Credit
+                        Card, Braintree PayPal, and PayPal Payflow Pro.</span></li>
+                        <li><span>Shipping to the customer’s default address using the lowest cost, available shipping
+                        method.</span></li>
+                        <li><span>Ability for developers to customize the Instant Purchase business logic to meet
+                        merchant needs.</span></li>
+                        </ul>
+                        "
+"Email Marketing Automation","Email Marketing Automation"
+"
+                        <p>Unlock an unparalleled level of insight and control of your eCommerce marketing with
+                        dotmailer Email Marketing Automation. Included with Magento 2.2.2 for easy set-up, dotmailer
+                        ensures every customer’s journey is captured, segmented, and personalized, enabling you to
+                        deliver customer-centric campaigns that beat your results over and over again. Benefits include:
+                        </p>
+                        <ul>
+                        <li><span>No obligation 14-day trial.</span></li>
+                        <li><span>Automation campaigns using your live Magento store data that drive revenue,
+                        including abandoned cart, abandoned browse, product replenishment, and many more.</span></li>
+                        <li><span>Built-in solution for transactional emails.</span></li>
+                        <li><span>Telephone support and advice from marketing experts included.</span></li>
+                        </ul>
+                        ","
+                        <p>Unlock an unparalleled level of insight and control of your eCommerce marketing with
+                        dotmailer Email Marketing Automation. Included with Magento 2.2.2 for easy set-up, dotmailer
+                        ensures every customer’s journey is captured, segmented, and personalized, enabling you to
+                        deliver customer-centric campaigns that beat your results over and over again. Benefits include:
+                        </p>
+                        <ul>
+                        <li><span>No obligation 14-day trial.</span></li>
+                        <li><span>Automation campaigns using your live Magento store data that drive revenue,
+                        including abandoned cart, abandoned browse, product replenishment, and many more.</span></li>
+                        <li><span>Built-in solution for transactional emails.</span></li>
+                        <li><span>Telephone support and advice from marketing experts included.</span></li>
+                        </ul>
+                        "
+RSS,RSS
+"Currently Active","Currently Active"
+"
+                    If you select and save the rule you will be able to generate multiple coupon codes.
+                ","Si vous sélectionnez et enregistrez la règle, vous pourrez générer des codes de bons de réductions."
+"
+                    Usage limit enforced for logged in customers only.
+                ","Limite d’utilisation imposée uniquement aux clients connectés."
+"Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.","Votre logo sera utilisé dans les documents PDF et HTML.<br/>(jpeg, tiff, png) Si votre logo est déformé, essayez d’utiliser une image plus grande."
+"Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)","Logo pour les documents HTML seulement. Si vide, le logo par défaut sera utilisé.<br />(jpeg, gif, png)"
+"Track your order","Track your order"
+"Track All Shipments","Track All Shipments"
+"Fraud Protection Section","Fraud Protection Section"
+"Fraud Protection","Fraud Protection"
+"Protect your store from fraud with Guaranteed Fraud Protection by Signifyd.","Protect your store from fraud with Guaranteed Fraud Protection by Signifyd."
+"API Key","API Key"
+"API URL","API URL"
+"Webhook URL","Webhook URL"
+Swatches,Swatches
+"Show Swatches in Product List","Show Swatches in Product List"
+"Warning: To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.","Warning: To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”."
+"Copyright © 2013-2017 Magento, Inc. All rights reserved.","Copyright © 2013-2017 Magento, Inc. All rights reserved."
+"Allowed file types: ico, png, gif, jpg, jpeg, apng. Not all browsers support all these formats!","Allowed file types: ico, png, gif, jpg, jpeg, apng. Not all browsers support all these formats!"
+"Default Page Title","Default Page Title"
+"Page Title Prefix","Page Title Prefix"
+"Page Title Suffix","Page Title Suffix"
+"Default Meta Description","Default Meta Description"
+"Default Meta Keywords","Default Meta Keywords"
+"Allowed file types: png, gif, jpg, jpeg.","Allowed file types: png, gif, jpg, jpeg."
+"Logo Attribute Width","Logo Attribute Width"
+"Logo Attribute Height","Logo Attribute Height"
+"Reset To Defaults","Reset To Defaults"
+"Label Button 2","Label Button 2"
+"Label Actions One","Label Actions One"
+"Label Actions Two","Label Actions Two"
+"Some Dynamic Actions","Some Dynamic Actions"
+settings/label,settings/label
+settings/confirm/title,settings/confirm/title
+"settings/confirm/message
+                        ","settings/confirm/message
+                        "
+"
+                            settings/callback/provider
+                        ","
+                            settings/callback/provider
+                        "
+"settings/callback/target
+                        ","settings/callback/target
+                        "
+"settings/newViewLabel
+                    ","settings/newViewLabel
+                    "
+settings/title,settings/title
+settings/description,settings/description
+"
+                        settings/addButtonLabel
+                    ","
+                        settings/addButtonLabel
+                    "
+"
+                        formElements/*[name(.)=../../@formElement]/settings/description
+                    ","
+                        formElements/*[name(.)=../../@formElement]/settings/description
+                    "
+"
+                        formElements/*[name(.)=../../@formElement]/settings/caption
+                    ","
+                        formElements/*[name(.)=../../@formElement]/settings/caption
+                    "
+"
+                        formElements/*[name(.)=../../@formElement]/settings/title
+                    ","
+                        formElements/*[name(.)=../../@formElement]/settings/title
+                    "
+settings/placeholder,settings/placeholder
+settings/caption,settings/caption
+settings/subTitle,settings/subTitle
+settings/visible,settings/visible
+settings/showLabel,settings/showLabel
+settings/breakLine,settings/breakLine
+settings/required,settings/required
+settings/size,settings/size
+settings/notice,settings/notice
+settings/tooltip/description,settings/tooltip/description
+settings/addBefore,settings/addBefore
+settings/addAfter,settings/addAfter
+"Add To Wishlist","Ajouter à ma liste d’envie"
+"Enable API Logging","Enable API Logging"
+"Log all API communication. If set to <em>No</em>, only API errors will be logged.","Log all API communication. If set to <em>No</em>, only API errors will be logged."
+"API Endpoint","API Endpoint"
+"API Token","API Token"
+"Connect New Carrier","Connect New Carrier"
+"Are you sure you want to delete selected carriers?","Are you sure you want to delete selected carriers?"
+"Delete Carriers","Delete Carriers"
+Logo,Logo
+"Connection Name","Connection Name"
+"Active Services","Active Services"
+"Create New Location","Create New Location"
+"Are you sure you want to delete selected locations?","Are you sure you want to delete selected locations?"
+"Delete Locations","Delete Locations"
+"Unique Identifier","Unique Identifier"
+Postcode,Postcode
+"Create New Packaging","Create New Packaging"
+"Are you sure you want to delete selected packages?","Are you sure you want to delete selected packages?"
+"Delete Packages","Delete Packages"
+"Packaging Name","Packaging Name"
+"Tare Weight","Tare Weight"
+"Max Weight","Max Weight"
+optional,optional
+"Authorized amount of %1.","Authorized amount of %1."
+"Authorized amount of %1. Order is suspended as its authorizing amount %1 is suspected to be fraudulent.","Authorized amount of %1. Order is suspended as its authorizing amount %1 is suspected to be fraudulent."
+"Captured amount of %1 online.","Captured amount of %1 online."
+"Path ""%value%"" may not include parent directory traversal (""../"", "".."").","Path ""%value%"" may not include parent directory traversal (""../"", "".."")."
+"Next >","Next >"
+"< Back","< Retour"
+"<p>Magento 2.2.2 offers advanced new features, including:</p>
+    <br />
+    <div class=""analytics-highlight"">
+    <h3>Advanced Reporting</h3>
+    <p>Gain valuable insights through a dynamic suite of product, order, and customer reports,
+    powered by Magento Business Intelligence.</p>
+    </div>
+    <div class=""instant-purchase-highlight"">
+    <h3>Instant Purchase</h3>
+    <p>Simplify ordering and boost conversion rates by allowing your customers to use stored
+    payment and shipping information to skip tedious checkout steps.</p>
+    </div>
+    <div class=""email-marketing-highlight"">
+    <h3>Email Marketing Automation</h3>
+    <p>Send smarter, faster email campaigns with marketing automation from dotmailer, powered by
+    your Magento store's live data.</p>
+    </div>
+    <p>Release notes and additional details can be found at
+    <a href=""http://devdocs.magento.com/"" target=""_blank"">Magento DevDocs</a>.
+    </p>","<p>Magento 2.2.2 offers advanced new features, including:</p>
+    <br />
+    <div class=""analytics-highlight"">
+    <h3>Advanced Reporting</h3>
+    <p>Gain valuable insights through a dynamic suite of product, order, and customer reports,
+    powered by Magento Business Intelligence.</p>
+    </div>
+    <div class=""instant-purchase-highlight"">
+    <h3>Instant Purchase</h3>
+    <p>Simplify ordering and boost conversion rates by allowing your customers to use stored
+    payment and shipping information to skip tedious checkout steps.</p>
+    </div>
+    <div class=""email-marketing-highlight"">
+    <h3>Email Marketing Automation</h3>
+    <p>Send smarter, faster email campaigns with marketing automation from dotmailer, powered by
+    your Magento store's live data.</p>
+    </div>
+    <p>Release notes and additional details can be found at
+    <a href=""http://devdocs.magento.com/"" target=""_blank"">Magento DevDocs</a>.
+    </p>"
+"<p>Advanced Reporting
+    provides you with a dynamic suite of reports with rich insights about the health of your
+    business.</p><br /><p>As part of the Advanced Reporting service, we may also use your customer
+    data for such purposes as benchmarking, improving our products and services, and providing you
+    with new and improved analytics.</p><br /><p>By using Magento 2.2.2, you agree to the Advanced
+    Reporting <a href=""https://magento.com/legal/terms/privacy"" target=""_blank"">Privacy Policy</a> and
+    <a href=""https://magento.com/legal/terms/cloud-terms"" target=""_blank"">Terms
+    of Service</a>. You may opt out at any time from the Stores Configuration page.</p>
+    ","<p>Advanced Reporting
+    provides you with a dynamic suite of reports with rich insights about the health of your
+    business.</p><br /><p>As part of the Advanced Reporting service, we may also use your customer
+    data for such purposes as benchmarking, improving our products and services, and providing you
+    with new and improved analytics.</p><br /><p>By using Magento 2.2.2, you agree to the Advanced
+    Reporting <a href=""https://magento.com/legal/terms/privacy"" target=""_blank"">Privacy Policy</a> and
+    <a href=""https://magento.com/legal/terms/cloud-terms"" target=""_blank"">Terms
+    of Service</a>. You may opt out at any time from the Stores Configuration page.</p>"
+"<p>Now you can deliver an Amazon-like experience with a new, streamlined checkout option.
+    Logged-in customers can use previously-stored payment credentials and shipping information
+    to skip steps, making the process faster and easier, especially for mobile shoppers. Key
+    features include:
+    </p>
+    <ul>
+    <li><span>Configurable “Instant Purchase” button to place orders.</span></li>
+    <li><span>Support for all payment solutions using Braintree Vault, including Braintree Credit
+    Card, Braintree PayPal, and PayPal Payflow Pro.</span></li>
+    <li><span>Shipping to the customer’s default address using the lowest cost, available shipping
+    method.</span></li>
+    <li><span>Ability for developers to customize the Instant Purchase business logic to meet
+    merchant needs.</span></li>
+    </ul>","<p>Now you can deliver an Amazon-like experience with a new, streamlined checkout option.
+    Logged-in customers can use previously-stored payment credentials and shipping information
+    to skip steps, making the process faster and easier, especially for mobile shoppers. Key
+    features include:
+    </p>
+    <ul>
+    <li><span>Configurable “Instant Purchase” button to place orders.</span></li>
+    <li><span>Support for all payment solutions using Braintree Vault, including Braintree Credit
+    Card, Braintree PayPal, and PayPal Payflow Pro.</span></li>
+    <li><span>Shipping to the customer’s default address using the lowest cost, available shipping
+    method.</span></li>
+    <li><span>Ability for developers to customize the Instant Purchase business logic to meet
+    merchant needs.</span></li>
+    </ul>"
+"<p>Unlock an unparalleled level of insight and control of your eCommerce marketing with
+    dotmailer Email Marketing Automation. Included with Magento 2.2.2 for easy set-up, dotmailer
+    ensures every customer’s journey is captured, segmented, and personalized, enabling you to
+    deliver customer-centric campaigns that beat your results over and over again. Benefits include:
+    </p>
+    <ul>
+    <li><span>No obligation 14-day trial.</span></li>
+    <li><span>Automation campaigns using your live Magento store data that drive revenue,
+    including abandoned cart, abandoned browse, product replenishment, and many more</span></li>
+    <li><span>Built-in solution for transactional emails.</span></li>
+    <li><span>Telephone support and advice from marketing experts included.</span></li>
+    </ul>","<p>Unlock an unparalleled level of insight and control of your eCommerce marketing with
+    dotmailer Email Marketing Automation. Included with Magento 2.2.2 for easy set-up, dotmailer
+    ensures every customer’s journey is captured, segmented, and personalized, enabling you to
+    deliver customer-centric campaigns that beat your results over and over again. Benefits include:
+    </p>
+    <ul>
+    <li><span>No obligation 14-day trial.</span></li>
+    <li><span>Automation campaigns using your live Magento store data that drive revenue,
+    including abandoned cart, abandoned browse, product replenishment, and many more</span></li>
+    <li><span>Built-in solution for transactional emails.</span></li>
+    <li><span>Telephone support and advice from marketing experts included.</span></li>
+    </ul>"
+"We can't save this option because Magento is not installed. To lock this value, enter the command again using the --%1 option.","We can't save this option because Magento is not installed. To lock this value, enter the command again using the --%1 option."
+"
+                    <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                                from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                                Use PayPal’ s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                                or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
+                ","
+                    <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                                from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                                or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
+                "
+"Return to","Return to"
+"Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.","Sorry, there was an error processing your registration request to Magento Analytics. Please try again later."
+"Error occurred during postponement notification","Error occurred during postponement notification"
+"View details","View details"
+"An error occurred while subscription process.","An error occurred while subscription process."
+"This service provides a dynamic suite of reports with rich insights about your business.
+                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
+                ""Go to Advanced Reporting"" link. </br> For more information, see our
+                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.
+                ","This service provides a dynamic suite of reports with rich insights about your business.
+                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
+                ""Go to Advanced Reporting"" link. </br> For more information, see our
+                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>."
+"Magento Business Intelligence provides you with a simple and clear path to
+                    becoming more data driven.</br> Learn more about <a target=""_blank""
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> tier.","Magento Business Intelligence provides you with a simple and clear path to
+                    becoming more data driven.</br> Learn more about <a target=""_blank""
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> tier."
+"Analytics Subscription","Analytics Subscription"
+"powered by Magento Business Intelligence","powered by Magento Business Intelligence"
+"Are you sure you want to opt out?","Are you sure you want to opt out?"
+"Opt out","Opt out"
+"<p>Advanced Reporting in included,
+                    free of charge, in your Magento software. When you opt out, we collect no product, order, and
+                    customer data to generate our dynamic reports.</p><p>To opt in later: You can always turn on Advanced
+                    Reporting in you Admin Panel.</p>","<p>Rapports avancés inclus gratuitement, dans votre logiciel Magento. Si vous n'activez pas cette option, nous ne collecterons aucun produit, commande et données client pour générer nos rapports dynamiques.</p><p>Vous pouvez toujours activer cette option de rapports dans votre panneau d'administration.</p>"
+"Theme phrase will be translated","Theme phrase is translated"
+"Magento_Catalog module phrase will be override by theme translation","Magento_Catalog module phrase is override by theme translation"
+"Magento_Store module phrase will be override by theme translation","Magento_Store module phrase is override by theme translation"
+sale,Sale
+credit,Credit
+authorization_expired,"Authorization expired"
+authorizing,Authorizing
+authorized,Authorized
+gateway_rejected,"Gateway rejected"
+processor_declined,"Processor declined"
+settled,Settled
+settling,Settling
+submitted_for_settlement,"Submitted for settlement"
+voided,Voided
+unrecognized,Unrecognized
+settlement_declined,"Settlement declined"
+settlement_pending,"Settlement pending"
+settlement_confirmed,"Settlement confirmed"
+paypal_account,"Paypal account"
+coinbase_account,"Coinbase account"
+europe_bank_accout,"Europe bank account"
+credit_card,"Credit card"
+apple_pay_card,"Apple pay card"
+android_pay_card,"Android pay card"
+OPEN,Open
+PROCESSING,Processing
+FLAGGED,Flagged
+DISMISSED,Dismissed
+HELD,Held
+GOOD,Good
+FRAUDULENT,Fraudulent
+UNSET,Unset
+NULL,Unset
+APPROVED,Approved
+DECLINED,Declined
+PENDING,Pending
+CANCELED,Canceled
+IN_REVIEW,"In review"
+"System Messages","Messages système"
