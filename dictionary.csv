@@ -6545,7 +6545,7 @@ Text,Texte
 "The JS file must be less than %1M.","La taille du fichier JS doit être inférieure à %1Mo."
 "The JavaScript/CSS cache has been cleaned.","Le cache javascript/CSS a été nettoyé."
 "The Magento cache storage has been flushed.","Le cache Magento a été purgé."
-"The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
+"The New Relic integration requires the newrelic-php5 agent, which is not installed. More
                         information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","L’intégration New Relic nécessite newrelic-php5, qui ne semble pas installé. Plus d’informations sur l’<a target=""_blank"" href=""%1"">installation de newrelic-php5</a>."
 "The Order State ""%1"" must not be set manually.","L’état de la commande ""%1"" ne peut être modifié manuellement."
 "The Order Updated Date report is displayed in real-time, and does not need to be refreshed.","Le rapport de mise à jour commande est affiché en temps réel et n’a pas besoin d’être rafraîchi."
@@ -9318,10 +9318,10 @@ Unrequested,Unrequested
 "Gift Card Flat-Rate Envelope","Gift Card Flat-Rate Envelope"
 "Legal Flat-Rate Envelope","Legal Flat-Rate Envelope"
 "Padded Flat-Rate Envelope","Padded Flat-Rate Envelope"
-"Stored Payment Method was successfully removed","Stored Payment Method was successfully removed"
-"Stored Payment Methods","Stored Payment Methods"
-"No available payment tokens for specified order payment.","No available payment tokens for specified order payment."
-"You have no stored payment methods.","You have no stored payment methods."
+"Stored Payment Method was successfully removed","Le moyen de paiement à été correctement supprimé"
+"Stored Payment Methods","Moyens de paiement enregistrés"
+"No available payment tokens for specified order payment.","Aucun jeton de paiement disponible pour le paiement de cette commande."
+"You have no stored payment methods.","Vous n'avez pas de moyen de paiement enregistré."
 "Please activate ""Magento Social"" integration at System->Integrations","Please activate ""Magento Social"" integration at System->Integrations"
 "Integrations page","Integrations page"
 "2. Setup your Facebook store","2. Setup your Facebook store"
