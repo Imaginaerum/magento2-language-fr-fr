@@ -9131,7 +9131,7 @@ PayPal,PayPal
 "Please select a node.","Please select a node."
 "An attribute group named ""/name/"" already exists.","An attribute group named ""/name/"" already exists."
 "Payment Page","Payment Page"
-"Print receipt","Print receipt"
+"Print receipt","Imprimer le reçu"
 "Are you sure you want to delete a %1 record?","Are you sure you want to delete a %1 record?"
 "Class for type ""%1"" was not declared","Class for type ""%1"" was not declared"
 "%1 should implement %2","%1 should implement %2"
