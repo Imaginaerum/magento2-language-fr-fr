@@ -9167,7 +9167,7 @@ PayPal,PayPal
 "Something went wrong while saving the file.","Something went wrong while saving the file."
 "region is a required field.","region is a required field."
 "regionId is a required field.","regionId is a required field."
-"You are subscribed to ""General Subscription"".","You are subscribed to ""General Subscription""."
+"You are subscribed to ""General Subscription"".","You êtes inscrit à ""Inscription générale""."
 "Import failed: %1","Import failed: %1"
 "%1 does not implement %2","%1 does not implement %2"
 "File app/etc/%1 can't be read. Please check if it exists and has read permissions.","File app/etc/%1 can't be read. Please check if it exists and has read permissions."
