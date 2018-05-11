@@ -9407,7 +9407,7 @@ Contents:,Contents:
 "Please enter a number greater 0 in this field.","Please enter a number greater 0 in this field."
 "Please select one of each ratings above.","Please select one of each ratings above."
 "Please specify Url.","Please specify Url."
-"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored."
+"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","La longueur minimale de ce champ doit être supérieure ou égale à %1 caractères. Les espaces de début et de fin seront ignorés."
 "Please select one of the options above.","Please select one of the options above."
 "Please select a file.","Please select a file."
 "Please enter valid email addresses, separated by commas. For example, johndoe@domain.com, johnsmith@domain.com.","Please enter valid email addresses, separated by commas. For example, johndoe@domain.com, johnsmith@domain.com."
