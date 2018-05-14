@@ -7604,7 +7604,7 @@ Url,Url
 "Use Web Server Rewrites","Utiliser les réécritures du serveur web"
 "Use Website","Valeur du site web"
 "Use as my default billing address","Utiliser comme adresse de facturation par défaut"
-"Use as my default shipping address","Utiliser comme adresse de <strong>livraison</strong> par défaut"
+"Use as my default shipping address","Utiliser comme adresse de livraison par défaut"
 "Use colon to specify port. For example: ""test.example.com:5224"".","Employez les deux points pour spécifier le port. Par exemple : ""test.example.com:5224""."
 "Use config","Utiliser la config"
 "Used Currently For","Utilisé actuellement pour"
