@@ -6,6 +6,8 @@ Traduction de Magento 2 en Français.
 
 See documentation: http://imaginaerum.github.io/magento2-language-fr-fr
 
+[![Mentioned in Awesome Magento 2](https://awesome.re/mentioned-badge.svg)](https://github.com/DavidLambauer/awesome-magento2)
+
 ## Donation
 
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UPTWGP9FGJ6EC)
