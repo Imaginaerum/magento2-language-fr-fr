@@ -8609,7 +8609,7 @@ Yes/No,Oui/Non
 "You removed product %1 from the comparison list.","Vous avez supprimé le produit %1 de la liste de comparaison."
 "Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Votre commande #%increment_id a été mise à jour avec le statut <strong>%order_status</strong>."
 "Your order # is: %1.","ID de votre commande : %1."
-"Your order # is: <span>%1</span>.","Votre numéro de commande est : <span>%1 </ span>."
+"Your order # is: <span>%1</span>.","Votre numéro de commande est : <span>%1</span>."
 "Your order cannot be completed at this time as there is no payment methods available for it.","Vous ne pouvez pas continuer votre commande car aucun mode de paiement n’est disponible."
 "Your order cannot be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address.","Vous ne pouvez pas continuer votre commande car aucun mode de livraison n’est disponible pour votre adresse."
 "Your order has been received.","Votre commande a bien été reçue."
